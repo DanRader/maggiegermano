@@ -3,9 +3,10 @@
 	background-size: cover;
     background-repeat: no-repeat;
 	min-height: 70vh;
+	background-color: green;
 }
 
 .current {
 	color: white;
-	background-color: green;
+	background-color: blue;
 }
