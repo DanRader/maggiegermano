@@ -5,22 +5,21 @@
    	 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     	<meta name="viewport" content="width=device-width, initial-scale=1">
     		<title>Maggie Germano</title>
-    	<link href="css/bootstrap.min.css" rel="stylesheet">
-    	<link href="css/styles.css" rel="stylesheet">
+    	<link href="{{site.baseurl}}/css/bootstrap.min.css" rel="stylesheet">
+    	<link href="{{site.baseurl}}/css/styles.css" rel="stylesheet">
   </head>
   <body>
 	  <header>
 		   <h1>Maggie Germano</h1>
-			  	<nav>
-			  		<ul>
-			  			<li><a href="{{site.baseurl}}/index.html">Home</a></li>
-			  			<li><a href="{{site.baseurl}}/news.html">News</a></li>
-			  		</ul>
-			  	</nav>
+			{% include nav.html %}  	
 	  </header>
 
   {{content}}
 
+  		<footer>
+  			<p>Maggie Germano</p>
+  			{% include nav.html %} 
+  		</footer>
     	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     	<script src="js/bootstrap.min.js"></script>
   </body>

@@ -4,3 +4,8 @@
     background-repeat: no-repeat;
 	min-height: 70vh;
 }
+
+.current {
+	color: white;
+	background-color: green;
+}
