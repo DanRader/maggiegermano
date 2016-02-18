@@ -1,11 +1,30 @@
 body {
-font-family: 'Montserrat', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
+    color: #545454;
+    line-height: 32px;
 }
 
 h1 {
     font-family: 'Playfair Display', serif;
     font-weight: 900;
     font-style: italic;
+}
+
+.lead {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-style: italic;
+    color: #3EB64D;
+    font-size: 26px;
+    line-height: 1.8em;
+    letter-spacing: .3px;
+}
+
+.vert-center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 /*------Nav Bar--------*/
@@ -58,9 +77,6 @@ p.logotype{
     min-height: 300px;
     margin-top: 63px;
     text-align: center;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     background-image: url(https://c.stocksy.com/a/Rgc200/z0/625359.jpg);
     background-position: center;
     background-size: cover;
@@ -88,3 +104,12 @@ p.logotype{
     background-color: #fff;
     margin-top: 82vh;
 }
+
+.intro {
+    padding: 104px 0;
+}
+
+.nudge {
+    margin-top: 12px;
+}
+
