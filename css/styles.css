@@ -113,3 +113,13 @@ p.logotype{
     margin-top: 12px;
 }
 
+footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+body {
+    margin-top: 64px;
+}
+

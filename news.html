@@ -2,14 +2,15 @@
 layout: default
 title: News
 ---
-<h1>news</h1>
+<div class="container">
+	<h1>news</h1>
 
-<ul>
- 	{% for news in site.posts %}
-	 	<li>
-	 		<a href=""></a>
-	 		<p></p>
-		</li>
-	{% for %}
-</ul>s
-
+	<ul>
+		{% for news in site.posts %}
+			<li>
+				<a href="{{site.baseurl}}{{news.url}}">{{news.title}}</a>
+				<p>{{news.meta}}</p>
+			</li>
+		{% endfor %}			
+	</ul>
+</div>
