@@ -9,6 +9,7 @@ h1 {
     font-family: 'Playfair Display', serif;
     font-weight: 900;
     font-style: italic;
+    line-height: .9em;
 }
 
 .lead {
@@ -123,3 +124,28 @@ body {
     margin-top: 64px;
 }
 
+.magimage {
+        background-image: url(/images/MaggieGermano.jpg);
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        width: 100vw;
+        height: 100vh;
+        color: #FB8A8E;;
+}
+
+@media screen and (max-width: 930px) {
+    .magimage {
+        background-image: url(/images/MaggieGermano_m.jpg);
+    }
+}
+
+.bigtext h1{
+        font-size: 80px;
+        max-width: 300px;
+}
+
+.bigtext {
+    margin-left: 3%;
+}
