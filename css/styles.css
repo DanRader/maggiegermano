@@ -1,15 +1,15 @@
 body {
-    font-family: 'Montserrat', sans-serif;
-    font-size: 16px;
+    font-family: 'Open Sans', arial, sans-serif;
+    font-size: 17px;
     color: #545454;
     line-height: 32px;
+    font-weight: 300;
 }
 
 h1 {
-    font-family: 'Playfair Display', serif;
-    font-weight: 900;
-    font-style: italic;
-    line-height: .9em;
+    font-weight: 300;
+    line-height: 1.2em;
+    margin-bottom: 16px;
 }
 
 .lead {
@@ -120,32 +120,108 @@ footer {
     bottom: 0;
     left: 0;
 }
-body {
-    margin-top: 64px;
-}
 
-.magimage {
-        background-image: url(/images/MaggieGermano.jpg);
+
+.cover-image {
+        background-image: url(/images/MaggieG_Cover_temp.png);
         -webkit-background-size: cover;
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
         width: 100vw;
         height: 100vh;
-        color: #FB8A8E;;
+        color: #FB8A8E;
 }
 
 @media screen and (max-width: 930px) {
     .magimage {
-        background-image: url(/images/MaggieGermano_m.jpg);
+        background-image: url(/images/MaggieG_Cover_temp.png);
+    }
+    body {
+        margin-top: 0px !important; 
     }
 }
 
-.bigtext h1{
-        font-size: 80px;
-        max-width: 300px;
+.logo {
+    text-align: center;
+    margin-top: 8%;
 }
 
-.bigtext {
-    margin-left: 3%;
+.logo img{
+    max-width: 345px;
+    width: 100%;
+}
+
+.maincontent {
+    text-align: center;
+    color: #fff;
+    margin-bottom: 3%;
+}
+
+.contact {
+    text-align: center;
+}
+
+.mg-btn {
+    background-color: #93278F;
+    border: none;
+    border-radius: 26px;
+    color: #fff;
+    padding: 7px 27px;
+    font-size: 15px;
+    letter-spacing: .02em;
+    box-shadow: 6px 5px 36px rgba(147,39,143,.6);
+}
+
+.mg-btn:hover {
+    background-color: #A0319C;
+    box-shadow: 6px 5px 44px rgba(147,39,143,1);
+    transition: .3s;
+    text-decoration: none;
+    color: #fff;
+}
+
+.mg-btn:active {
+    color: #fff;
+    text-decoration: none;
+    background-color: #561254;
+    outline: none;
+}
+
+.mg-btn:focus {
+    color: #fff;
+    text-decoration: none;
+}
+
+.sm_icons {
+    color: #fff;
+}
+
+footer {
+    background-color: #A0319C;
+    color: #D26BD2;
+    font-size: 11px;
+    padding-right: 1%;
+    text-align: right;
+    font-weight: 800;
+    height: 24px;
+}
+
+p.footer {
+    line-height: 21px;
+    margin-bottom: 0;
+}
+
+.fa {
+    font-size: 22px !important;
+    padding: 8px;
+    margin-top: 13px;
+}
+
+.sm_icons a {
+    color: #fff;
+}
+.sm_icons a:hover {
+    color: #A0319C;
+    transition: .3s;
 }
