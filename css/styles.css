@@ -128,6 +128,9 @@ footer {
         -moz-background-size: cover;
         -o-background-size: cover;
         background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
         width: 100vw;
         height: 100vh;
         color: #FB8A8E;
