@@ -2,10 +2,11 @@
 body{
 margin: 0;
 padding: 0;
+font-family: 'Open Sans', sans-serif;
 }
 
 h1 {
-	font-family: OpenSans-Extrabold;
+    font-weight: 800;
     font-size: 64px;
     color: #FFFFFF;
     line-height: 73px;
@@ -14,7 +15,7 @@ h1 {
 }
 
 h2 {
-    font-family: OpenSans-Extrabold;
+    font-weight: 800;
     font-size: 24px;
     color: #717171;
     margin: 0;
@@ -22,7 +23,7 @@ h2 {
 }
 
 h3 {
-	font-family: OpenSans-Light;
+    font-weight: 300;
     font-size: 21px;
     color: #717171;
     line-height: 34px;
@@ -30,7 +31,7 @@ h3 {
 }
 
 h4{
-    font-family: OpenSans-Semibold;
+    font-weight: 600;
     font-size: 18px;
     color: #717171;
     margin: 0;
@@ -39,7 +40,7 @@ h4{
 }
 
 p {
-	font-family: OpenSans-Light;
+    font-weight: 300;
 	font-size: 16px;
 	color: #717171;
 	line-height: 27px;
@@ -64,7 +65,7 @@ p {
 }
 
 .nav-wrapper a, button {
-	font-family: OpenSans-Bold;
+    font-weight: 700;
 	font-size: 12px;
 	color: #676767;
 	letter-spacing: 2.67px;
@@ -160,7 +161,8 @@ nav img {
 }
 
 .intro p {
-	font-family: OpenSansLight-Italic;
+    font-style: italic;
+    font-weight: 300;
     font-size: 19px;
     color: #717171;
     letter-spacing: .2px;
@@ -168,11 +170,12 @@ nav img {
 }
 
 .intro span{
-font-family: OpenSans-SemiboldItalic;
-font-size: 19px;
-color: #00BDB2;
-letter-spacing: 0px;
-line-height: 29px;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 19px;
+    color: #00BDB2;
+    letter-spacing: 0px;
+    line-height: 29px;
 }
 
 .about {
