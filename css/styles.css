@@ -48,6 +48,7 @@ p {
 	margin-bottom: 12px;
 }
 
+
 .line2 {
 	color: rgba(255,255,255,.82);
 }
@@ -66,7 +67,7 @@ p {
 
 .nav-wrapper a, button {
     font-weight: 700;
-	font-size: 12px;
+	font-size: 11px;
 	color: #676767;
 	letter-spacing: 2.67px;
 	text-transform: uppercase;
