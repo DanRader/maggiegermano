@@ -9,9 +9,15 @@ h1 {
     font-weight: 800;
     font-size: 64px;
     color: #FFFFFF;
-    line-height: 73px;
+    line-height: 1.15em;
     margin-bottom: 0;
     margin-top: 0;
+}
+
+@media screen and (min-width: 1400px) {
+    h1 {
+    font-size: 5vw;
+    }
 }
 
 h2 {
@@ -65,7 +71,7 @@ p {
     padding-right: 10px;
 }
 
-.nav-wrapper a, button {
+.nav-wrapper a, button, .button {
     font-weight: 700;
 	font-size: 12px;
 	color: #676767;
@@ -73,20 +79,55 @@ p {
 	text-transform: uppercase;
 }
 
-button {
+nav ul li {
+    position: relative;
+    background-color: inherit;
+}
+
+nav ul a:hover {
+    background-color: inherit;
+    }
+
+.nav-links a:hover:after {
+    transition: 2s;
+    border-radius: 0.1em;
+    bottom: 12px;
+    content: '';
+    height: 0.25em;
+    position: absolute;
+    right: 0;
+    left: 0;
+    margin: auto;
+    width: 83%;
+    background-image: linear-gradient(-132deg, rgb(0, 191, 200) 0%, #00C5A2 100%);
+}
+
+
+
+button, .button {
 	border: 1px solid white;
 	border-radius: 25px;
     padding: 8px 19px;
 	color: white;
 	font-weight: 800;
 	background-color: transparent;
+    margin-right: 12px;
 
 }
 
-button:hover{
+.prime {
+    background-color: white;
+    color: #00BDB2;
+}
+
+button:hover, .prime:hover{
     box-shadow: 7px 11px 25px 5px rgba(0,0,0,0.1);
     transition: .3s;
-	background-color: transparent;
+	background-color: #1BC1B7;
+}
+
+.prime:hover{
+    color: white;
 }
 
 button:active{
@@ -96,6 +137,25 @@ button:active{
 
 button:focus{
 		background-color: transparent;
+}
+
+.button {
+    background-color: #0EA79E;
+}
+
+.button:hover{
+    box-shadow: 0px 13px 34px -10px rgba(14, 68, 58, 0.45);
+    background-color: #1BC1B7;
+    transition: .3s;
+    border-color: #1BC1B7;
+}
+
+.modal-button{
+    text-align: center;
+}
+
+.mc-field-group {
+    padding-bottom: 11px;
 }
 
 /*navigation*/
@@ -156,9 +216,29 @@ nav img {
 }
 
 .border-heart {
-    border-top: 2px solid #00BDB2;
-    border-bottom: 2px solid #00BDB2;
+/*    border-top: 2px solid #00BDB2;
+    border-bottom: 2px solid #00BDB2;*/
     padding: 5%;
+}
+
+hr {
+     border-top: 2px solid #00BDB2;
+}
+
+hr.heart:after {
+    content: " ";
+    background-image: url(images/MaggieG_Mark@2x.png);
+    display: inline-block;
+    position: relative;
+    top: -15px;
+    padding: 0 10px;
+    background: #fff;
+    color: #8c8b8b;
+    font-size: 18px;
+}
+
+.border-heart p:after {
+    background-image: url("images/MaggieG_Mark@2x.png");
 }
 
 .intro p {
