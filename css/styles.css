@@ -205,6 +205,13 @@ nav img {
 	z-index: 2;
 	/* Rectangle 12: */
 }
+.intro-content {
+    padding: 22px 0;
+}
+
+.intro-text {
+    padding: 0 3%;
+}
 
 .approach-intro {
     margin-bottom: 8%;
