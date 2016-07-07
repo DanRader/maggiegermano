@@ -125,6 +125,12 @@ button, .button {
     color: white;
 }
 
+.prime-green:focus, .prime:focus{
+    background-color: #26a69a;
+    color: white;
+}
+
+
 button:hover, .prime:hover{
     box-shadow: 7px 11px 25px 5px rgba(0,0,0,0.1);
     transition: .3s;
@@ -479,12 +485,10 @@ hr.heart:after {
     background-image: url(http://www.maggiegermano.com/images/Love-Money@2x.png);
     background-position: center;
     background-size: cover;
-    position: relative;
     top: 0px;
     left: 0px;
     right: 0px;
     bottom: 0px;
-    z-index: -1;
 }
 
 .event-content-block {
@@ -496,6 +500,9 @@ hr.heart:after {
     font-style: italic;
     color: #00BDB2;
 }
+
+/*EVENT PAGE*/
+
 
 .relative {
     position: relative;
@@ -541,7 +548,45 @@ hr.heart:after {
     background-color: white;
     padding: 4% 5% !important;
     margin-top: -45px;
+    border-radius: 6px;
 }
+
+.event-date{
+    margin-bottom: 18px;
+    font-size: 22px;
+}
+
+.ticket{
+    padding: 5% 0 3% 0;
+    border-top: 1px solid lightgray;
+    margin-top: 39px;
+}
+
+.ticket h3{
+     margin-bottom: 2%;
+}
+
+#event-hero img{
+    position: absolute;
+    top: 87px;
+    right: 24px;
+    max-width: 200px;
+}
+
+@media screen and (max-width: 560px) {
+#event-hero img{
+    top: 93px;
+    left: 0;
+    right: 0;
+    max-width: 140px;
+    margin: auto;
+    display: block;
+} 
+.event-header{
+    font-size: 36px;
+}
+}
+
 
 
 /*SUBSCRIBE PAGE*/
