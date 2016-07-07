@@ -110,5 +110,17 @@
   ga('send', 'pageview');
 
 	</script>
+	<script type="text/javascript">
+		$.post(
+    'https://graph.facebook.com',
+    {
+        id: '<?php echo $url; ?>',
+        scrape: true
+    },
+    function(response){
+        console.log(response);
+    }
+);
+	</script>
     </body>
   </html>
