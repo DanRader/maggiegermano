@@ -438,6 +438,15 @@ margin-bottom: 6% !important;
 .contact {
     background: #3C3939;
     min-height: 50vh;
+    position: relative;
+}
+
+.contact img {
+    position: absolute;
+    top: 31px;
+    left: 39px;
+    opacity: .05;
+    width: 48vh;
 }
 
 .contact h2{
@@ -468,7 +477,6 @@ margin-bottom: 6% !important;
     font-size: 25px;
     padding-right: 15px;
 }
-
 
 .contact i:hover, .contact p:hover{
     color: #70FFF7;
