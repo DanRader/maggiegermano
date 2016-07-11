@@ -194,21 +194,21 @@ nav img {
     z-index: 3;
 }
 .bg-clouds{
-	z-index: 2;
+	z-index: 1;
     background-repeat: no-repeat; 
   	min-width: 100%;
   }
 .bg-clouds img {
 	width: 100%;
 	height: auto;
-    position: fixed;
+    position: absolute;
     bottom: 0;
 }
 
 .content-block {
 	min-height: 75vh;
 	position: relative;
-	z-index: 3;
+	z-index: 5;
 }
 
 .hero-content-block {
