@@ -206,9 +206,15 @@ nav img {
 }
 
 .content-block {
-	min-height: 100vh;
+	min-height: 75vh;
 	position: relative;
 	z-index: 3;
+}
+
+.hero-content-block {
+    min-height: 100vh;
+    position: relative;
+    z-index: 3;
 }
 
 .intro {
@@ -221,25 +227,24 @@ nav img {
 }
 
 .intro-text {
-    padding: 0 3%;
+    padding: 24px 3%;
+    border-top: 2px solid #00BDB2;
+    border-bottom: 2px solid #00BDB2;
+    position: relative;
+}
+.intro-text img{
+    position: absolute;
+    top: -22px;
+    left: 0;
+    right: 0;
+    background-color: white;
+    padding: 6px;
+    max-width: 51px;
+    display: block;
+    margin: auto;
 }
 
-.approach-intro {
-    margin-bottom: 8%;
-}
-
-.approach img {
-    margin-bottom: 8%;
-    max-width: 52px;
-}
-
-.border-heart {
-/*    border-top: 2px solid #00BDB2;
-    border-bottom: 2px solid #00BDB2;*/
-    padding: 5%;
-}
-
-hr {
+/*hr {
      border-top: 2px solid #00BDB2;
 }
 
@@ -253,6 +258,22 @@ hr.heart:after {
     background: #fff;
     color: #8c8b8b;
     font-size: 18px;
+}
+*/
+
+.approach-intro {
+margin-bottom: 6% !important;
+}
+
+.approach img {
+    margin-bottom: 8%;
+    max-width: 52px;
+}
+
+.border-heart {
+/*    border-top: 2px solid #00BDB2;
+    border-bottom: 2px solid #00BDB2;*/
+    padding: 5%;
 }
 
 .border-heart p:after {
@@ -291,7 +312,7 @@ hr.heart:after {
     position: absolute;
     bottom: 0;
     right: 0;
-    width: 736px;
+    width: 92vh;
 }
 
 @media screen and (max-width: 750px) {
