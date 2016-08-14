@@ -54,6 +54,23 @@ p {
 	margin-bottom: 12px;
 }
 
+.text-link {
+    position: relative;
+    font-weight: 700;
+    color: #717171;
+    border: 0;
+    box-shadow: inset 0 -4px 0 #61ccc6;
+    -webkit-font-smoothing: antialiased;
+    transition: .3s;
+}
+
+.text-link:hover {
+    color: #fff;
+    background-color: #00bdb2;
+    box-shadow: inset 0 -5px 0 #00bdb2;
+}
+
+
 
 .line2 {
 	color: rgba(255,255,255,.82);
@@ -525,8 +542,25 @@ margin-bottom: 6% !important;
     bottom: 0px;
 }
 
+.event-hero2{
+    background-image: url(../images/Overspending@2x.png) !important;
+    background-position: center;
+    background-size: cover;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+
 .event-content-block {
     min-height: 72%;
+}
+
+.event-content img{
+    width: 100%;
+    height: auto;
+    padding: 3% 0 5% 0;
 }
 
 .leader {
