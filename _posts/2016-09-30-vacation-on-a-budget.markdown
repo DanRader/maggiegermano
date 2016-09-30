@@ -4,6 +4,7 @@ date: 2016-09-30 17:59:00 Z
 categories:
 - budget
 - Travel
+image: 
 ---
 
 I'm in Iceland right this very second. (!!!!) So I thought a good topic this week would be travel. Specifically, how to travel when you're on a budget. 
