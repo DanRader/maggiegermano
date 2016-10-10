@@ -552,6 +552,17 @@ margin-bottom: 6% !important;
     bottom: 0px;
 }
 
+.event-hero3{
+    background-image: url(../images/MC_112716.png) !important;
+    background-position: center;
+    background-size: cover;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+
 
 .event-content-block {
     min-height: 72%;
