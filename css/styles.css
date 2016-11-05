@@ -562,6 +562,16 @@ margin-bottom: 6% !important;
     bottom: 0px;
 }
 
+.event-hero4{
+    background-image: url(../images/moneycircle112016.jpg) !important;
+    background-position: center;
+    background-size: cover;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
 
 
 .event-content-block {
