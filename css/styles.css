@@ -212,7 +212,7 @@ nav img {
 }
 .bg-clouds{
 	z-index: 1;
-    background-repeat: no-repeat; 
+    background-repeat: no-repeat;
   	min-width: 100%;
   }
 .bg-clouds img {
@@ -526,10 +526,10 @@ margin-bottom: 6% !important;
 }
 .grad1{
     border-radius: 8px 8 0 0;
-}     
+}
 .grad2,.grad3{
     border-radius: 0;
-}     
+}
 }
 
 #event-hero{
@@ -543,7 +543,7 @@ margin-bottom: 6% !important;
 }
 
 .event-hero2{
-    background-image: url(../images/Overspending@2x.png) !important;
+    background-image: url(../images/Overspending@2x.png);
     background-position: center;
     background-size: cover;
     top: 0px;
@@ -553,7 +553,7 @@ margin-bottom: 6% !important;
 }
 
 .event-hero3{
-    background-image: url(../images/MC_112716.jpg) !important;
+    background-image: url(../images/MC_112716.jpg);
     background-position: center;
     background-size: cover;
     top: 0px;
@@ -563,7 +563,7 @@ margin-bottom: 6% !important;
 }
 
 .event-hero4{
-    background-image: url(../images/moneycircle112016.jpg) !important;
+    background-image: url(../images/moneycircle112016.jpg);
     background-position: center;
     background-size: cover;
     top: 0px;
@@ -670,7 +670,7 @@ margin-bottom: 6% !important;
     max-width: 140px;
     margin: auto;
     display: block;
-} 
+}
 .event-header{
     font-size: 36px;
 }
