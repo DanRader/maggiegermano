@@ -88,7 +88,8 @@ $('.modal-trigger').leanModal();
     FB.ui({
       method: 'share',
       display: 'popup',
-    
+      href: '{{ site.url }}{{ page.url }}',
+      quote: '{{ page.tweet }}'
     }, function(response){});
   }
 </script>
