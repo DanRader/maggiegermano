@@ -21,6 +21,10 @@ button:focus, .button:focus {
   background-color: transparent;
 }
 
+button.space-top {
+  margin-top: 2%;
+}
+
 /*white fill button*/
 .reversed {
     font-weight: 800;
