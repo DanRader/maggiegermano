@@ -86,8 +86,7 @@ $('.modal-trigger').leanModal();
 <script type="text/javascript">
   document.getElementById('shareBtn').onclick = function() {
     FB.ui({
-      method: 'share_open_graph',
-      action_type: 'og.likes',
+      method: 'share',
       display: 'popup',
       href: '{{ site.url }}{{ page.url }}',
     }, function(response){});
