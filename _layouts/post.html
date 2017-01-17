@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+{% include posts/post-header.html %}
+{% include posts/share.html %}
+
+  <div class="post-content container" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {% include posts/post-author.html %}
+  {% include posts/related-posts.html %}
+  {% include posts/disqus.html %}
+
+
+
+</article>

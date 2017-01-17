@@ -1,0 +1,94 @@
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="/js/materialize.min.js"></script>
+<script type="text/javascript" src="/js/jquery.jscroll.min.js" ></script>
+  <script type="text/javascript" src="/js/slick.min.js"></script>
+
+  {{ site.google-analytics }}
+
+<!-- slick carousel  -->
+<script type="text/javascript">
+  $(document).ready(function(){
+  $('.slider').slick({
+    dots: true,
+    infinite: true,
+    speed: 600,
+    slidesToShow: 1,
+    arrows: true,
+    asNavFor: null,
+    prevArrow: '<button type="button" data-role="none" class="slick-prev" aria-label="Previous" tabindex="0" role="button">Previous</button>',
+    nextArrow: '<button type="button" data-role="none" class="slick-next" aria-label="Next" tabindex="0" role="button">Next</button>',
+    adaptiveHeight: true,
+    cssEase: 'ease-in-out',
+    responsive: [
+      {
+        breakpoint: 736,
+        settings: {
+          arrows: false,
+        }
+      },
+    ]
+});
+});
+</script>
+
+<!-- Smooth scrolling on anchor links. effects any link with a hashtag -->
+<script type="text/javascript">
+$(document).ready(function(){
+	$('a[href^="#"]').on('click',function (e) {
+	    e.preventDefault();
+
+	    var target = this.hash;
+	    var $target = $(target);
+
+	    $('html, body').stop().animate({
+	        'scrollTop': $target.offset().top
+	    }, 500, 'swing', function () {
+	        window.location.hash = target;
+	    });
+	});
+});
+</script>
+
+<!-- mobile menu  -->
+<script type="text/javascript">
+  $(".button-collapse").sideNav();
+</script>
+
+<!-- modal initiation -->
+<script type="text/javascript">
+$(document).ready(function(){
+$('.modal-trigger').leanModal();
+});
+</script>
+
+
+<!-- facebook share -->
+
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '369302543429971',
+      xfbml      : true,
+      version    : 'v2.8'
+    });
+    FB.AppEvents.logPageView();
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>
+
+<script type="text/javascript">
+  document.getElementById('shareBtn').onclick = function() {
+    FB.ui({
+      method: 'share',
+      display: 'popup',
+      href: 'https://developers.facebook.com/docs/',
+    }, function(response){});
+  }
+</script>

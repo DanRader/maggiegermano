@@ -1,0 +1,31 @@
+
+<div id="save-the-date" class="mc-highlight">
+  <div class="container">
+    <div class="mc-highlight-title">
+      <h2>Save the Date</h2>
+      <h3>This Month’s Money Circle</h3>
+    </div>
+  {% assign sorted = (site.events | sort: 'event-date') | reverse %}
+  {% for event in sorted limit:1 %}
+
+    <div class="row mc-next">
+      <a href="{{ event.url | prepend: site.baseurl }}">
+      <div class="col m10 offset-m1 mc-highlight-box">
+          <div class="mc-highlight-copy">
+            <h3> {{ event.event-date | date: "%B %-d, %Y"}} | {{ event.start-time }} – {{ event.end-time }}</h3>
+            <h2>{{ event.title }}</h2>
+            <p>{{ event.excerpt | truncatewords:35 | remove: '<p>' | remove: '</p>'| strip_html  }}</p>
+            <div class="read-button">
+                <i class="text-button fa fa-long-arrow-right" aria-hidden="true"></i>
+                <p>Learn More!</p>
+            </div>
+          </div>
+          <div class="cover mc-highlight-photo" style="background-image: url('{{ event.image }}')";><div class="color-over blue-grad">
+
+          </div></div>
+      </div>
+      </a>
+    </div>
+  {% endfor %}
+  </div>
+</div>

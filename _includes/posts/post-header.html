@@ -1,0 +1,13 @@
+
+	<div id="hero-post" class="desaturate" style="background-image: url('{{ page.image }}');">
+		<div class="white-grad">
+		</div>
+	</div>
+<div class="container">
+	<div class="post-title-sec">
+			{% include posts/categories.html %}
+		<h1 class="post-title">{{ page.title }}</h1>
+		<p class="author">{{ page.author }} • {{ page.date | date: "%B %-d, %Y"}}</p>
+		{% include posts/share-mobile.html %}
+	</div>
+</div>
