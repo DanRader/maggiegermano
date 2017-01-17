@@ -18,7 +18,7 @@ tags:
 - money
 - plan
 image: "/uploads/90f31e9a-24a8-4e45-82d5-9026f7b248e3.jpg"
-tweet: "Yes, you CAN travel when you're on a budget!"
+tweet: Yes, you CAN travel when you're on a budget!
 posts:
 - 3 More Ways to Spend Less While Traveling (that I just learned)
 - You Can Have Fun with Your Friends While Spending Less

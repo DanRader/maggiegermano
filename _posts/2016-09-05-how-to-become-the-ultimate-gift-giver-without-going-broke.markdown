@@ -23,7 +23,7 @@ tags:
 - stress
 - prepare
 image: "/uploads/rx1ij59jryu-annie-spratt.jpg"
-tweet: "You don't have to go broke to give awesome gifts!"
+tweet: You don't have to go broke to give awesome gifts!
 posts:
 - How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
 - You Can Have Fun with Your Friends While Spending Less

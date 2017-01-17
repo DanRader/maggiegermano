@@ -11,7 +11,7 @@ tags:
 - personal finance
 - financial freedom
 image: "/uploads/free.jpg"
-tweet: "Why you should get your money right (especially as a woman)."
+tweet: Why you should get your money right (especially as a woman).
 posts:
 - Why I Became a Financial Coach for Women
 - What Volunteering For The DC Abortion Fund Taught Me About Money

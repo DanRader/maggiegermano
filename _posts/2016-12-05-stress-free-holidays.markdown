@@ -19,7 +19,7 @@ tags:
 - credit card
 - travel
 image: "/uploads/gift.jpg"
-tweet: "How to ensure your holidays are (financially) stress-free!"
+tweet: How to ensure your holidays are (financially) stress-free!
 posts:
 - How To Become The Ultimate Gift-Giver (Without Going Broke)
 - You Can Have Fun with Your Friends While Spending Less

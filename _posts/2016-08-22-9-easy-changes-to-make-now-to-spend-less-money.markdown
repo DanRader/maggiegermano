@@ -14,7 +14,7 @@ tags:
 - spending
 - money
 image: "/uploads/06a65478-d427-4546-8e3e-62d67c4cae5a.jpeg"
-tweet: "9 Easy Changes to Make to Spend Less Money"
+tweet: 9 Easy Changes to Make to Spend Less Money
 posts:
 - 5 Ways to Practice Self Care While on a Budget
 - The Personal Finance Checklist To Make Sure You’re Financially Healthy

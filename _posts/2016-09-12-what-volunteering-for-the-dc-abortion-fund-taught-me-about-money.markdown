@@ -22,7 +22,7 @@ tags:
 - healthcare
 - financial freedom
 image: "/uploads/2tlasvhqil0-eutah-mizushima.jpg"
-tweet: "Reproductive choice is directly connected to how much money you have."
+tweet: Reproductive choice is directly connected to how much money you have.
 posts:
 - Why You Need an Emergency Fund
 - Where You Can Put Your Money If You're Feeling Hopeless

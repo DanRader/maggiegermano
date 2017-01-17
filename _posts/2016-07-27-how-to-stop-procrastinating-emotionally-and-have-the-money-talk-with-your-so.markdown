@@ -16,7 +16,7 @@ tags:
 - personal finance
 - shame
 image: "/uploads/love.jpg"
-tweet: "It's not fun, but you need to have the money talk with your beau." 
+tweet: It's not fun, but you need to have the money talk with your beau.
 posts:
 - The Personal Finance Checklist To Make Sure You’re Financially Healthy
 - How To Become The Ultimate Gift-Giver (Without Going Broke)

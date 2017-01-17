@@ -17,7 +17,7 @@ tags:
 - empowerment
 - support
 image: "/uploads/fcf7bb07-fbe2-4f8a-a6fc-7f6645d238d4.jpg"
-tweet: "Financial abuse is real- and this is what survivors want you to know."
+tweet: Financial abuse is real- and this is what survivors want you to know.
 posts:
 - Why I Became a Financial Coach for Women
 - What Volunteering For The DC Abortion Fund Taught Me About Money

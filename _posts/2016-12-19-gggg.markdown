@@ -15,7 +15,7 @@ tags:
 - prepare
 - self care
 image: "/uploads/e5d62459-8c4f-4d76-84ea-70019f1006c3.jpg"
-tweet: "You don't have to be perfect to get your money right. Really."
+tweet: You don't have to be perfect to get your money right. Really.
 posts:
 - 9 Easy Changes to Make Now to Spend Less Money
 - 5 Ways to Practice Self Care While on a Budget

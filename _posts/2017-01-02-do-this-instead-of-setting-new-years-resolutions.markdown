@@ -12,7 +12,7 @@ tags:
 - new years resolutions
 - accomplishments
 image: "/uploads/party.jpg"
-tweet: "Instead of making New Years resolutions, set REAL goals!"
+tweet: Instead of making New Years resolutions, set REAL goals!
 posts:
 - You Don't Have to Be Perfect to Get Your Money Right
 - How to Ensure the Holidays Are (Financially) Stress-Free

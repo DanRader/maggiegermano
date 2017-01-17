@@ -9,7 +9,7 @@ tags:
 - retirement
 - spending
 image: "/uploads/goals.jpg"
-tweet: "Here are 3 Easy Financial Goals for 2017"
+tweet: Here are 3 Easy Financial Goals for 2017
 posts:
 - Do This Instead of Setting New Year’s Resolutions
 - The Personal Finance Checklist To Make Sure You’re Financially Healthy
