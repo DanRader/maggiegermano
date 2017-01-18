@@ -28,9 +28,6 @@
   .push {
     display: none;
   }
-  .footer-cta {
-    margin-bottom: 7%;
-  }
 }
 
 @media screen and (min-width: 1400px){
@@ -338,5 +335,23 @@
   }
   .mc-highlight-box:hover > .mc-highlight-copy p, .mc-highlight-box:hover > .mc-highlight-copy h2, .mc-highlight-box:hover > .mc-highlight-copy h3, .mc-highlight-box:hover > .mc-highlight-copy i {
     color: inherit;
+  }
+}
+
+
+/*footer*/
+@media screen and (max-width: 600px) {
+  .footer-cta {
+    margin-bottom: 7%;
+  }
+  img.fec-badge {
+    display: none !important;
+  }
+}
+
+
+@media screen and (min-width: 601px) and (max-width: 993px) {
+  .footer-mission {
+    width: 90%;
   }
 }
