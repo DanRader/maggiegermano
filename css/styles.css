@@ -589,11 +589,12 @@ li p {
 }
 
 .box-2 {
-  height: 6px;
-  width: 6px;
+  height: 8px;
+  width: 8px;
   border-radius: 2px;
   display: inline-block;
-  margin-bottom: 1px;
+  background-image: linear-gradient(-180deg, rgba(255, 255, 255, 0.5) 0%, rgba(0, 0, 0, 0) 100%);
+  background-blend-mode: overlay;
 }
 
 .author {
@@ -667,6 +668,8 @@ blockquote > p {
   border-radius: 2px;
   display: inline-block;
   margin-right: 2px;
+  background-image: linear-gradient(-180deg, rgba(255, 255, 255, 0.5) 0%, rgba(0, 0, 0, 0) 100%);
+  background-blend-mode: overlay;
 }
 
 /*Post Body styles*/
