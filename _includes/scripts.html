@@ -63,7 +63,7 @@ $('.modal-trigger').leanModal();
 
 
 <!-- facebook share -->
-<script>
+<!-- <script>
   window.fbAsyncInit = function() {
     FB.init({
       appId      : '369302543429971',
@@ -83,13 +83,13 @@ $('.modal-trigger').leanModal();
 </script>
 
 
-<script type="text/javascript">
-  document.getElementById('shareBtn').onclick = function() {
-    FB.ui({
-      method: 'share',
-      display: 'popup',
-      href: '{{ site.url }}{{ page.url }}',
-      quote: '{{ page.tweet | url_encode}}'
-    }, function(response){});
-  }
-</script>
+
+<script>
+document.getElementById('shareBtn').onclick = function() {
+  FB.ui({
+    method: 'share',
+    mobile_iframe: true,
+    href: 'https://developers.facebook.com/docs/',
+  }, function(response){});
+}
+</script> -->
