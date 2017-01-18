@@ -238,7 +238,7 @@ margin-bottom: 6% !important;
     z-index: 5;
 }
 
-.footer img {
+img.footer-heart {
     position: absolute;
     top: 11%;
     left: 5%;
@@ -247,6 +247,7 @@ margin-bottom: 6% !important;
 }
 
 img.fec-badge {
+  position: absolute;
   top: 4%;
   right: 1%;
   left: auto;
