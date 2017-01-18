@@ -1116,8 +1116,12 @@ transform: translateY(-2px)
   .subscribe-content img{
       border: 0;
       width: 100%;
-      padding-bottom: 20px;
       margin: auto;
+  }
+  .subscribe-content p {
+    font-size: 15px;
+    line-height: 26px;
+    margin: 2% 0 4%;
   }
 
   .subscribe-container {

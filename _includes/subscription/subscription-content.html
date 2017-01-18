@@ -1,8 +1,12 @@
 <div class="subscribe-content">
-  <img src="/uploads/email_header.png">
-
-
-
+  <div class="">
+    <img src="/uploads/money-monday.png">
+    {% for p in site.pages %}
+    {% if p.title == 'Subscribe' %}
+      {{ p.content | markdownify }}
+    {% endif %}
+    {% endfor %}
+  </div>
 
   <!-- Begin MailChimp Signup Form -->
   <div id="mc_embed_signup">
