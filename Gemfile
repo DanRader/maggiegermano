@@ -16,4 +16,5 @@ gem "jekyll", "3.3.1"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem 'octopress-paginate'
+  gem 'jekyll-sitemap'
 end
