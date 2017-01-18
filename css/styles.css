@@ -658,7 +658,7 @@ blockquote > p {
 }
 
 .desaturate {
-  filter: grayscale(70%);
+  filter: grayscale(100%);
 }
 
 .box {
