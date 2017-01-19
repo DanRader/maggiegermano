@@ -33,9 +33,9 @@ Think about what brings you the most happiness and excitement. What makes you fe
 
 My top five (at the moment) are connection, community, impact, understanding, and independence. If I hone into my value of independence, my goal of running my own business full time feels much more attainable. It even feels inevitable. Once I realized how important connection and community are to me, it also became much easier to make new friends and join organizations that I care about.
 
-Here are some more examples for you to choose from: abundance, acceptance, balance, compassion, courage, expression, fulfillment, humor, learning, power, respect, spirituality... the list is endless.
+Here are some more examples for you to choose from: abundance, acceptance, balance, compassion, courage, expression, fulfillment, humor, learning, power, respect, spirituality... the list almost is endless.
 
-What are your top choices?
+So, what are your top choices?
 
 ## 2. Analyze your current financial habits
 
@@ -45,10 +45,12 @@ If one of your values is abundance, but you constantly feel stressed and lacking
 
 ## 3. Identify how your values translate into financial goals
 
-Now that you've figured out where your money is going, you can develop new habits and goals! If your current habits don't line up with what you want to do with your life, you *can* change that. And I think you'll find yourself more motivated to make those changes.
+Now that you've figured out what your values are and where your money is going, you can develop new habits and goals! If your current habits don't line up with what you want to do with your life, you *can* change that. And I think you'll find yourself more motivated to make those changes.
 
 Perhaps you want to spend less on cab rides and more on experiences like concerts or travel.  Funnel your money to the things that make you happier. Maybe you're working in a job that underpays you and doesn't fulfill your emotional needs. Start networking and job searching.
 
+How can you make your money work for you? What goals can you set that will help you to live a life that is happier and more fulfilled?
+
 ## 4. Work towards those goals!
 
-Now that you know how to live your life, and how to get there, get going! Need support and encouragement? [Join Money Circle!](https://www.maggiegermano.com/moneycircle/)
+Now that you know how you want to live your life, and the steps to get there, get going! Need support and encouragement? [Join Money Circle!](https://www.maggiegermano.com/moneycircle/)
