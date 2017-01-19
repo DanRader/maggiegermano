@@ -19,12 +19,12 @@ posts:
 - You Don't Have to Be Perfect to Get Your Money Right
 ---
 
-Last weekend, I started an intense coaching training program with [CoachDiversity Institute](http://coachdiversity.com/). (It's so awesome!) One of the most impactful sessions was when we mapped out our top five values. Once we identified our most important values, we had to admit whether or not we are currently living true to those values. \
-\
-To be honest, I had never really thought about this before. I always knew I felt better when I was making a difference, but I never sat down to identify the values that are most important to me.\
-\
-It turns out, one of the key ways to find fulfillment is to make choices that follow our values. Values are beliefs and principles that make what we do in life worthwhile and meaningful to us. Your goals will be a lot easier to attain if they line up with what you believe in most.\
-\
+Last weekend, I started an intense coaching training program with [CoachDiversity Institute](http://coachdiversity.com/). (It's so awesome!) One of the most impactful sessions was when we mapped out our top five values. Once we identified our most important values, we had to admit whether or not we are currently living true to those values. 
+
+To be honest, I had never really thought about this before. I always knew I felt better when I was making a difference, but I never sat down to identify the values that are most important to me.
+
+It turns out, one of the key ways to find fulfillment is to make choices that follow our values. Values are beliefs and principles that make what we do in life worthwhile and meaningful to us. Your goals will be a lot easier to attain if they line up with what you believe in most.
+
 So how can you align your money habits with your values?
 
 ## 1. Choose your top five values
