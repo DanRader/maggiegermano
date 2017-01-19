@@ -2,6 +2,7 @@
 title: Let's Talk Compensation Negotiation
 date: 2017-01-19 14:32:00 -05:00
 image: "/uploads/meeting.jpg"
+og-image: "/uploads/Untitled%20design%20(3).png"
 event-date: 2017-02-09 18:30:00 -05:00
 start-time: 6:30pm
 end-time: 8:30pm
