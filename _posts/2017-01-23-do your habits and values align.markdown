@@ -19,7 +19,7 @@ posts:
 - You Don't Have to Be Perfect to Get Your Money Right
 ---
 
-Last weekend, I started an intense coaching training program with [CoachDiversity Institute](http://coachdiversity.com/). (It's so awesome!) One of the most impactful sessions was when we mapped out our top five values. Once we identified our most important values, we had to admit whether or not we are currently living true to those values. 
+Last weekend, I started an intense coaching training program with [CoachDiversity Institute](http://coachdiversity.com/). (It's so awesome!) One of the most impactful sessions was when we mapped out our top five values. Once we identified our most important values, we had to admit whether or not we are currently living true to those values.
 
 To be honest, I had never really thought about this before. I always knew I felt better when I was making a difference, but I never sat down to identify the values that are most important to me.
 
