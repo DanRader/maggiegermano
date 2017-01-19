@@ -53,4 +53,4 @@ How can you make your money work for you? What goals can you set that will help 
 
 ## 4. Work towards those goals!
 
-Now that you know how you want to live your life, and the steps to get there, get going! Need support and encouragement? [Join Money Circle!](https://www.maggiegermano.com/moneycircle/)
+Now that you know how you want to live your life, and the steps to get there, get started! Need support and encouragement? [Join Money Circle!](https://www.maggiegermano.com/moneycircle/)
