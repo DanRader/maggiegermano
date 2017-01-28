@@ -10,5 +10,11 @@ tags:
 - taxes
 - refund
 - tax refund
+image: "/uploads/computer.jpg"
+tweet: 'Here''s how you should use your tax refund! #savings #debt #treatyoself'
+posts:
+- Why It's Important to Get Your Money Right (As a Woman)
+- 3 Easy Financial Goals for 2017
+- Do Your Money Habits Align with Your Values?
 ---
 
