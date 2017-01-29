@@ -10,6 +10,7 @@ tags:
 - taxes
 - refund
 - tax refund
+- emergency fund
 image: "/uploads/computer.jpg"
 tweet: 'Here''s how you should use your tax refund! #savings #debt #treatyoself'
 posts:
@@ -44,4 +45,4 @@ You have a few options for how to do this:
 
 ## 3. Pad your savings
 
-If you don't have debt, or you want to use a portion of your tax return for savings, you can do that too! 
+If you don't have debt, or you want to use a portion of your tax return for savings, you can do that too! If you don't already have an emergency savings account, this is a great time to start building one. This account can protect you in the event of a job loss, illness or injury, car repairs, etc. It can prevent you from going into debt in these scenarios. 
