@@ -50,6 +50,6 @@ You have a few options for how to do this:
 
 ## 3. Pad your savings
 
-If you don't have debt, or you want to use a portion of your tax return for savings, you can do that too! If you don't already have an [emergency savings account](https://www.maggiegermano.com/blog/you-need-an-emergency-fund), this is a great time to start building one. This account can protect you in the event of a job loss, illness or injury, car repairs, etc. It can prevent you from going into debt in these scenarios, and will give you peace of mind. If you already have an emergency fund, you can put money aside to save for other goals. Perhaps you want to save for travel, or 
+If you don't have debt, or you want to use a portion of your tax return for savings, you can do that too! If you don't already have an [emergency savings account](https://www.maggiegermano.com/blog/you-need-an-emergency-fund), this is a great time to start building one. This account can protect you in the event of a job loss, illness or injury, car repairs, etc. It can prevent you from going into debt in these scenarios, and will give you peace of mind. If you already have an emergency fund, you can put money aside to save for other goals. Perhaps you want to save for travel, or a downpayment on a house. Start now!
 
 What will you do with your tax refund? Share with me on [Twitter](twitter.com/maggiegermano) or below in the comments!
