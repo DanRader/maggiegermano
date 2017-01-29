@@ -11,6 +11,11 @@ tags:
 - refund
 - tax refund
 - emergency fund
+- collections
+- credit card
+- credit card debt
+- medical debt
+- treat yourself
 image: "/uploads/computer.jpg"
 tweet: 'Here''s how you should use your tax refund! #savings #debt #treatyoself'
 posts:
@@ -29,7 +34,7 @@ Now, if you're one of the lucky Americans who receive a tax return, you're proba
 
 ## 1. Treat Yourself
 
-It's recommended that from any financial windfall, you should use 10% of it on yourself. It's easier to use your money on responsible things if you're also allowing yourself a treat. Just like it's easier to eat healthy overall if you give yourself "cheat" days. So set 10% of that tax return aside and do something fun - buy yourself something, go out to eat, buy tickets to a concert... Just make sure you put the rest towards your financial goals.
+It's recommended that from any financial windfall, you should use 10% of it on yourself. It's easier to use your money on responsible things if you're also allowing yourself a treat. Just like it's easier to eat healthy overall if you give yourself "cheat" days. So set 10% of that tax return aside and do something fun - buy yourself a gift, go out to eat, buy tickets to a concert... Just make sure you put the rest towards your financial goals.
 
 ## 2. Pay down debt
 
@@ -37,7 +42,7 @@ Do you have credit card, medical, or other debt? Throw your money at it!
 
 You have a few options for how to do this:
 
-* If you have any bills that are in collections, pay them first. This way, the debt collectors will leave you alone, and your credit score can start to repair. Make sure you get confirmation in writing that you have paid off the items in collections. They like to keep harassing you - don't make it easy for them. Get proof!
+* If you have any bills that are in collections, pay them first. This way, the debt collectors will leave you alone, and your [credit score](https://www.maggiegermano.com/blog/care-about-your-credit-score) can start to repair. Make sure you get confirmation in writing that you have paid off the items in collections. They like to keep harassing you - don't make it easy for them. Get proof!
 
 * If you don't have bills in collections, or you have money left over after paying them off, pay towards your credit card debt. You can either try to pay off your smallest balance first, or pay towards your highest interest card first. It's really up to you and what might make you feel better.
 
@@ -45,4 +50,6 @@ You have a few options for how to do this:
 
 ## 3. Pad your savings
 
-If you don't have debt, or you want to use a portion of your tax return for savings, you can do that too! If you don't already have an emergency savings account, this is a great time to start building one. This account can protect you in the event of a job loss, illness or injury, car repairs, etc. It can prevent you from going into debt in these scenarios. 
+If you don't have debt, or you want to use a portion of your tax return for savings, you can do that too! If you don't already have an [emergency savings account](https://www.maggiegermano.com/blog/you-need-an-emergency-fund), this is a great time to start building one. This account can protect you in the event of a job loss, illness or injury, car repairs, etc. It can prevent you from going into debt in these scenarios, and will give you peace of mind. If you already have an emergency fund, you can put money aside to save for other goals. Perhaps you want to save for travel, or 
+
+What will you do with your tax refund? Share with me on [Twitter](twitter.com/maggiegermano) or below in the comments!
