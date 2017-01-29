@@ -30,6 +30,8 @@ Don't wait until April 14th to file your taxes. Give yourself plenty of time in 
 
 Wondering where to do your taxes? There are several free tax preparation programs, like [Turbo Tax](https://turbotax.intuit.com/), [H&R Block](https://www.hrblock.com/), and a brand new program from [Credit Karma](https://www.creditkarma.com/tax). Do you feel like you need help doing your taxes? If you make under $54,000 a year, you qualify for [free tax preparation support](https://www.irs.gov/individuals/free-tax-return-preparation-for-you-by-volunteers).
 
+> Don't wait until April 14th to file your taxes. Give yourself plenty of time in order to avoid stress and plan ahead.
+
 Now, if you're one of the lucky Americans who receive a tax return, you're probably wondering what you should do with it.
 
 ## 1. Treat Yourself
