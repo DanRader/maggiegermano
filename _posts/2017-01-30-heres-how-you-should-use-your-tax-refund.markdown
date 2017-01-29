@@ -44,4 +44,4 @@ You have a few options for how to do this:
 
 ## 3. Pad your savings
 
-If you don't have debt, or you want to use a portion of your tax return for savings, you can do that too!
+If you don't have debt, or you want to use a portion of your tax return for savings, you can do that too! 
