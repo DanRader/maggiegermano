@@ -25,6 +25,8 @@ To be honest, I had never really thought about this before. I always knew I felt
 
 It turns out, one of the key ways to find fulfillment is to make choices that follow our values. Values are beliefs and principles that make what we do in life worthwhile and meaningful to us. Your goals will be a lot easier to attain if they line up with what you believe in most.
 
+> It turns out, one of the key ways to find fulfillment is to make choices that follow our values.
+
 So how can you align your money habits with your values?
 
 ## 1. Choose your top five values
