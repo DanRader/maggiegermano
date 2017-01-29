@@ -26,18 +26,18 @@ Wondering where to do your taxes? There are several free tax preparation program
 
 Now, if you're one of the lucky Americans who receive a tax return, you're probably wondering what you should do with it.
 
-1. Treat Yourself
+## 1. Treat Yourself
 
 It's recommended that from any financial windfall, you should use 10% of it on yourself. It's easier to use your money on responsible things if you're also allowing yourself a treat. Just like it's easier to eat healthy overall if you give yourself "cheat" days. So set 10% of that tax return aside and do something fun - buy yourself something, go out to eat, 
 
-2. Pay down debt
+## 2. Pay down debt
 
 Now that you've treated yourself, put the rest of the money towards your financial goals. Do you have credit card, medical, or other debt? Throw money at it!
 
 You have a few options for how to do this:
-If you have any bills that are in collections, pay them first. This way, the debt collectors will leave you alone, and your credit score can start to repair. Make sure you get confirmation in writing that you have paid off the items in collections. They like to keep harassing you - don't make it easy for them. Get proof!
-If you don't have bills in collections, or you have money left over after paying them off, pay towards your credit card debt. You can either try to pay off your smallest balance first, or pay towards your highest interest card first. It's really up to you and what might make you feel better. 
+* If you have any bills that are in collections, pay them first. This way, the debt collectors will leave you alone, and your credit score can start to repair. Make sure you get confirmation in writing that you have paid off the items in collections. They like to keep harassing you - don't make it easy for them. Get proof!
+* If you don't have bills in collections, or you have money left over after paying them off, pay towards your credit card debt. You can either try to pay off your smallest balance first, or pay towards your highest interest card first. It's really up to you and what might make you feel better. 
 
-3. Pad your savings
+## 3. Pad your savings
 
 If you don't have debt, or you want to use a portion of your tax return for savings, you can do that too!
