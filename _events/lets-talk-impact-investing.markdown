@@ -2,6 +2,13 @@
 title: Let's Talk Impact Investing
 date: 2017-03-16 18:30:00 -04:00
 published: false
+tags:
+- money circle
+- community
+- impact investing
+- investing
+- social responsibility
+- SRI
 image: "/uploads/sak92ay39m0-ashley-st-john.jpg"
 og-image: "/uploads/Untitled%20design%20(2).png"
 event-date: 2017-03-16 18:30:00 -04:00
