@@ -28,15 +28,15 @@ This is the program that I usually use. The user experience is good (except for 
 
 ## 2. [H&R Block](https://www.hrblock.com/)
 
-H&R Block is very similar to Turbo Tax. In fact, sometimes I fill in my information in both programs to see if one will get me a better refund. (That happened once, but usually the numbers are the same.) There is a free filing option (H&R Block More Zero), but they will also charge you for more premium features.
+H&R Block is very similar to Turbo Tax. In fact, sometimes I fill in my information in both programs to see if one will get me a better refund. (That happened once, but usually the numbers are the same.) There is a free federal and state filing option (H&R Block More Zero), but they can also charge you for more premium features.
 
 ## 3. [Credit Karma Tax](https://www.creditkarma.com/tax)
 
-Credit Karma is known for providing your credit score for free. And if you're not already using it for that, you should! (Credit Sesame is another option.) This year, Credit Karma unveiled its brand new tax filing program. Credit Karma Tax has free federal and state e-filing. According to them, there is no paid option - it is all free, and there's no annoying upselling!
+Credit Karma is known for providing your credit score for free. And if you're not already using it for that, you should! (Credit Sesame is another option.) This year, Credit Karma unveiled its brand new tax filing program. Credit Karma Tax has free federal and state e-filing. According to them, there is no paid option - it is all free, and there's no annoying upselling! I'm excited to try it out.
 
 ## 4. [The Volunteer Income Tax Assistance Program](https://www.irs.gov/individuals/free-tax-return-preparation-for-you-by-volunteers)
 
-This program is offered through the IRS. You qualify if you earn under $54,000, are disabled, or aren't a fluent English speaker. IRS-certified volunteers provide free basic income tax return preparation with electronic filing to qualified individuals.
+This program is offered through the IRS. You qualify if you earn under $54,000, are disabled, or aren't a fluent English speaker. IRS-certified volunteers provide free basic income tax return preparation with electronic filing to qualified individuals. So not only can you file for free, but you get free support and guidance while doing your taxes.
 
 ## 5. [Free File Alliance](https://www.irs.gov/uac/free-file-do-your-federal-taxes-for-free)
 
@@ -44,6 +44,6 @@ This software is available to taxpayers who earn under $64,000 (which is 70% of 
 
 ## 6. [My Free Taxes](http://www.unitedway.org/myfreetaxes/)
 
-Do you make under $64,000 a year? United Way has partnered with H&R Block to offer My Free Taxes.
+[United Way](http://www.unitedway.org/) has partnered with [H&R Block](https://www.hrblock.com/) to offer My Free Taxes. This program is also available to those who earn under $64,000 a year. 
 
 Happy filing!
