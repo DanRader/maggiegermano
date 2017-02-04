@@ -20,7 +20,7 @@ I wrote two weeks ago about setting goals instead of making resolutions. However
 
 ## 1. Start tracking your spending
 
-If you don't track your spending weekly, you likely don't know where most of your money is going. In order to stick to a budget, you need to know how much money you're spending AS you're spending it. You can do this through a budgeting program like [Mint](http://mint.com/), [LearnVest](http://learnvest.com/), or [Personal Capital](http://personalcapital.com/), through an app like [EveryDollar](https://www.daveramsey.com/everydollar/), or you can create your own personalized spreadsheet.
+If you don't track your spending weekly, you likely don't know where most of your money is going. In order to stick to a budget, you need to know how much money you're spending AS you're spending it. You can do this through a budgeting program like [Mint](http://mint.com/), [LearnVest](https://www.learnvest.com/?utm_source=CJ&utm_medium=affiliate&utm_campaign=wellness&utm_content=yoga_300x250), or [Personal Capital](http://personalcapital.com/), through an app like [EveryDollar](https://www.daveramsey.com/everydollar/), or you can create your own personalized spreadsheet.
 
 Set a time every week to sit down and go through your bank or credit card statement. This way, you'll know if you need to slow down your spending for the week, or if you have more wiggle room than you thought. You'll start noticing your spending habits, and where you'd like to cut back.
 
