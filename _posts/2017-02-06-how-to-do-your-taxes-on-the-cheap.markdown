@@ -36,7 +36,7 @@ H&R Block is very similar to Turbo Tax. In fact, sometimes I fill in my informat
 
 ## 3. [Credit Karma Tax](https://www.creditkarma.com/tax)
 
-Credit Karma is known for providing your credit score for free. And if you're not already using it for that, you should! (Credit Sesame is another option.) This year, Credit Karma unveiled its brand new tax filing program. Credit Karma Tax has free federal and state e-filing. According to them, there is no paid option - it is all free, and there's no annoying upselling! I'm excited to try it out.
+Credit Karma is known for providing your credit score for free. And if you're not already using it for that, you should! ([Credit Sesame](http://creditsesame.go2cloud.org/aff_c?offer_id=23&aff_id=14) is another option.) This year, Credit Karma unveiled its brand new tax filing program. Credit Karma Tax has free federal and state e-filing. According to them, there is no paid option - it is all free, and there's no annoying upselling! I'm excited to try it out.
 
 ## 4. [The Volunteer Income Tax Assistance Program](https://www.irs.gov/individuals/free-tax-return-preparation-for-you-by-volunteers)
 
