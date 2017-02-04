@@ -28,11 +28,11 @@ This is the program that I usually use. The user experience is pretty good (exce
 
 ## 2. [H&R Block](https://www.hrblock.com/)
 
-kdkdkd
+H&R Block is very similar to Turbo Tax. In fact, sometimes I fill in my information in both programs to see if one will get me a better refund. (That happened once, but usually the numbers are the same.) 
 
 ## 3. [Credit Karma Tax](https://www.creditkarma.com/tax)
 
-Credit Karma is known for providing your credit score for free. And if you're not already using it for that, you should! (Credit Sesame is another option.) This year, Credit Karma unveiled its brand new tax filing program. Credit Karma Tax has free federal and state e-filing. According to them, there is no paid option - it is all free, and there's no annoying upselling! 
+Credit Karma is known for providing your credit score for free. And if you're not already using it for that, you should! (Credit Sesame is another option.) This year, Credit Karma unveiled its brand new tax filing program. Credit Karma Tax has free federal and state e-filing. According to them, there is no paid option - it is all free, and there's no annoying upselling!
 
 ## 4. [The Volunteer Income Tax Assistance Program](https://www.irs.gov/individuals/free-tax-return-preparation-for-you-by-volunteers)
 
@@ -40,8 +40,10 @@ This program is offered through the IRS. You qualify if you earn under $54,000, 
 
 ## 5. [Free File Alliance](https://www.irs.gov/uac/free-file-do-your-federal-taxes-for-free)
 
-This software is available to taxpayers who earn under $64,000
+This software is available to taxpayers who earn under $64,000 (which is 70% of us). The IRS has partnered with more than a dozen tax software companies to offer this program.
 
 ## 6. [My Free Taxes](http://www.unitedway.org/myfreetaxes/)
 
-Do you make under $64,000 a year? United Way has partnered with H&R Block to offer My Free Taxes. 
+Do you make under $64,000 a year? United Way has partnered with H&R Block to offer My Free Taxes.
+
+Happy filing!
