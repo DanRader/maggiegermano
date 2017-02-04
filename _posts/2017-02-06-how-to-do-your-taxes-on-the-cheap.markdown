@@ -48,6 +48,6 @@ This software is available to taxpayers who earn under $64,000 (which is 70% of 
 
 ## 6. [My Free Taxes](http://www.unitedway.org/myfreetaxes/)
 
-[United Way](http://www.unitedway.org/) has partnered with [H&R Block](https://www.hrblock.com/) to offer My Free Taxes. This program is also available to those who earn under $64,000 a year. 
+[United Way](http://www.unitedway.org/) has partnered with [H&R Block](https://www.hrblock.com/) to offer My Free Taxes. This program is also available to those who earn under $64,000 a year. According to their website, 80% of taxpayers who used this program finished filing their taxes in under an hour.
 
 For even more options, [visit here](https://www.dailyworth.com/posts/4195-free-and-low-cost-ways-to-file-taxes?utm_source=Sailthru&utm_medium=email&utm_campaign=DW-wed9_datafeed&utm_term=DailyWorth). Happy filing!
