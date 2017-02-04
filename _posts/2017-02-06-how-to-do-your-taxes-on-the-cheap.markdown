@@ -31,7 +31,7 @@ This is the program that I usually use. The user experience is good (except for 
 
 ## 2. [H&R Block](https://www.hrblock.com/)
 
-H&R Block is very similar to Turbo Tax. In fact, sometimes I fill in my information in both programs to see if one will get me a better refund. (That happened once, but usually the numbers are the same.) There is a free federal and state filing option (H&R Block More Zero), but they can also charge you for more premium features.
+H&R Block is very similar to Turbo Tax. In fact, sometimes I fill in my information in both programs to see if one will get me a better refund. (That happened once, but usually the numbers are the same.) There is a free federal and state filing option (H&R Block More Zero), but they can also charge you for more premium features. According to their website, you can also meet with a tax pro in person and file your federal taxes, for free.
 
 ## 3. [Credit Karma Tax](https://www.creditkarma.com/tax)
 
@@ -43,7 +43,7 @@ This program is offered through the IRS. You qualify if you earn under $54,000, 
 
 ## 5. [Free File Alliance](https://www.irs.gov/uac/free-file-do-your-federal-taxes-for-free)
 
-This software is available to taxpayers who earn under $64,000 (which is 70% of us). The IRS has partnered with more than a dozen tax software companies to offer this program.
+This software is available to taxpayers who earn under $64,000 (which is 70% of us). The IRS has partnered with more than a dozen tax software companies to offer this program. You can search through the participating companies and choose which will work the best for you.
 
 ## 6. [My Free Taxes](http://www.unitedway.org/myfreetaxes/)
 
