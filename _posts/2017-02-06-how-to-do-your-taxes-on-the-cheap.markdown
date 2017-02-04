@@ -39,7 +39,7 @@ Credit Karma is known for providing your credit score for free. And if you're no
 
 ## 4. [The Volunteer Income Tax Assistance Program](https://www.irs.gov/individuals/free-tax-return-preparation-for-you-by-volunteers)
 
-This program is offered through the IRS. You qualify if you earn under $54,000, are disabled, or aren't a fluent English speaker. IRS-certified volunteers provide free basic income tax return preparation with electronic filing to qualified individuals. So not only can you file for free, but you get free support and guidance while doing your taxes.
+This program is offered through the IRS. You qualify if you earn under $54,000, are disabled, or aren't a fluent English speaker. IRS-certified volunteers provide free basic income tax return preparation with electronic filing to qualified individuals. So not only can you file for free, but you also get free support and guidance while completing your taxes.
 
 ## 5. [Free File Alliance](https://www.irs.gov/uac/free-file-do-your-federal-taxes-for-free)
 
