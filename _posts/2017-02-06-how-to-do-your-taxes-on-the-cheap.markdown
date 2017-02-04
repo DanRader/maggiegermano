@@ -14,7 +14,8 @@ tags:
 - cheap
 - free
 image: "/uploads/mail.jpg"
-tweet: 'Doing your #taxes shouldn''t cost an arm and a leg! File for free.'
+tweet: 'Doing your #taxes shouldn''t cost an arm and a leg! Here''s how to file for
+  free/cheap.'
 posts:
 - Here's How You Should Use Your Tax Refund
 - 3 Easy Financial Goals for 2017
