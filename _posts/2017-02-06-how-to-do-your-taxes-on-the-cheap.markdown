@@ -10,6 +10,9 @@ tags:
 - tax
 - taxes
 - savings
+- tax refund
+- cheap
+- free
 image: "/uploads/mail.jpg"
 tweet: 'Doing your #taxes shouldn''t cost an arm and a leg! File for free.'
 posts:
