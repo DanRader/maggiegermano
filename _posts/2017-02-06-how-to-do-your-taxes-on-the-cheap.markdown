@@ -24,7 +24,7 @@ Now that you're ready to file your taxes (early!), you shouldn't spend a bunch o
 
 ## 1. [Turbo Tax](turbotax.com)
 
-This is the program that I usually use. The user experience is pretty good (except for them trying to upsell you the whole time), and the process isn't confusing. You can file your federal and state taxes for free (using Turbo Tax Absolute Zero). There are several other paid options, where you can get more support and advice while filing. I found out this year that it costs $89.99 to file business taxes using Turbo Tax, which makes me sad.
+This is the program that I usually use. The user experience is good (except for them trying to upsell you the whole time), and the process isn't confusing. You can file your federal and state taxes for free (using Turbo Tax Absolute Zero). There are several other paid options, where you can get more support and advice while filing. I found out this year that it costs $89.99 to file business taxes using Turbo Tax, which makes me sad.
 
 ## 2. [H&R Block](https://www.hrblock.com/)
 
