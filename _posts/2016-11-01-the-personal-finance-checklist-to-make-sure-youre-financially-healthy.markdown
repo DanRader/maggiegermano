@@ -29,7 +29,7 @@ posts:
 - Why You Should Care About Your Credit Score
 ---
 
-Back in October, I attended the [Millennial Week](http://millennialweek.com/) Unconference in Washington, DC. I walked away with a lot of exciting ideas for my financial coaching business. I also met some really cool people and got to hear several inspirational speakers. One of the speakers, [Learnvest](learnvest.com) CEO (and my shero) Alexa Von Tobel, gave us a financial checklist to get through before starting a business.
+Back in October, I attended the [Millennial Week](http://millennialweek.com/) Unconference in Washington, DC. I walked away with a lot of exciting ideas for my financial coaching business. I also met some really cool people and got to hear several inspirational speakers. One of the speakers, [Learnvest](https://www.learnvest.com/?utm_source=CJ&utm_medium=affiliate&utm_campaign=wellness&utm_content=yoga_300x250) CEO (and my shero) Alexa Von Tobel, gave us a financial checklist to get through before starting a business.
 
 I found this list incredibly helpful, but I also wanted to tweak it so that it can apply to anyone — not just people starting a business. It’s hard to get your money right when you don’t know where to start, so hopefully this list will serve to help anyone who’s just starting to think about taking control of their finances. Or, if you’ve had a financial hiccup, maybe seeing these steps written out will help you get back on track. Here you go!
 
@@ -41,15 +41,18 @@ How many credit cards do you have? How much money do you owe? Where’s that 401
 
 ## 2. Organize your accounts
 
-Now that you know where your money is, life will be a lot easier if you have it all in one place. Create an account on a budgeting website like [Learnvest](learnvest.com), [Mint](mint.com), or [You Need A Budget](https://www.youneedabudget.com/). Link all of your accounts — credit cards, bank accounts, retirement accounts, etc. This way, you only have to go to ONE place to check up on all of your accounts. You can see if there are suspicious charges, or if you are nearing your spending limit for the month.
+Now that you know where your money is, life will be a lot easier if you have it all in one place. Create an account on a budgeting website like [Learnvest](https://www.learnvest.com/?utm_source=CJ&utm_medium=affiliate&utm_campaign=wellness&utm_content=yoga_300x250), [Mint](mint.com), or [You Need A Budget](https://www.youneedabudget.com/). Link all of your accounts — credit cards, bank accounts, retirement accounts, etc. This way, you only have to go to ONE place to check up on all of your accounts. You can see if there are suspicious charges, or if you are nearing your spending limit for the month.
 
 ## 3. Figure out what your goals are
 
 It’s hard to know where your money should be going if you don’t know where you want it to go. So, do some soul searching — answer some questions for yourself. These answers will help clarify what your financial goals should be. Here are some examples:
 
 * What kind of life do you want to live?
+
 * What financial issues are causing you the most stress?
+
 * Do you want to own a home?
+
 * What are the top 5 things on your bucket list?
 
 ## 4. Create a budget
