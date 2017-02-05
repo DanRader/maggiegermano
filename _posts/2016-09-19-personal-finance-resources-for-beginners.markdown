@@ -89,9 +89,9 @@ I am borderline obsessed with podcasts, but I’ll be honest – I don’t liste
 
 I would also like to offer myself up as a financial resource to those in Washington, DC (and beyond). I am a Certified Financial Education Instructor and financial coach. I mainly work with women, but I am excited to help *anyone* who wants to take control of their finances and live the life they’ve been dreaming of.
 
-I work one-on-one as a coach, send out a weekly [Money Monday](http://www.maggiegermano.com/subscribe) newsletter, speak at events, and I host monthly [Money Circle](http://www.facebook.com/groups/moneycircle) meetings in DC.
+I work one-on-one as a coach, send out a weekly [Money Monday](http://www.maggiegermano.com/subscribe) newsletter, speak at events, and I host monthly [Money Circle](maggiegermano.com/moneycircle) meetings in DC.
 
-If you’d like to learn more, schedule a [free discovery call](https://maggiegermanofinancialcoaching.acuityscheduling.com/schedule.php?appointmentType=1359318) with me!
+If you’d like to learn more, schedule a [free discovery call](maggiegermano.com/coaching) with me!
 
 Do you have any other financial resources that you’d like to recommend? Share with me on [Twitter](twitter.com/maggiegermano)!
 
