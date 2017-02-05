@@ -21,7 +21,7 @@ posts:
 - The Personal Finance Checklist To Make Sure You’re Financially Healthy
 ---
 
-Back in June, our [Money Circle](http://www.facebook.com/groups/moneycirclegroup) theme was credit scores. The conversation was so rich that I wanted to keep it going.
+Back in June, our [Money Circle](maggiegermano.com/moneycircle) theme was credit scores. The conversation was so rich that I wanted to keep it going.
 
 ## What is a credit score?
 
