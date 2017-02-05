@@ -55,13 +55,13 @@ One of my hardest choices in recent memory was getting rid of cable. I love tele
 
 ## 8. Turn off the lights.
 
-Again, I’ll harp on the environmental impact of humans’ habits. The more electricity you use, the more pollution you contribute to (if you’re using coal-powered electricity, which most of us are). Saving the planet in the abstract doesn’t always appeal to us, but I know that saving money does. Whenever you are not in a room, turn off the light. Unplug your chargers when you aren’t using them. I keep my phone charger plugged into a power strip and power it off every morning before I leave the house. That way, I can keep the charger conveniently plugged in by my bed, but I am not using up excess energy. ([Yes, plugged-in chargers suck up electricity even when you aren’t using them](http://thefinancialdiet.com/7-things-make-pay-just-live-apartment/)!)
+Again, I’ll harp on the environmental impact of humans’ habits. The more electricity you use, the more pollution you contribute to (if you’re using coal-powered electricity, which most of us are). Saving the planet in the abstract doesn’t always appeal to us, but I know that saving money does. Whenever you are not in a room, turn off the light. Unplug your chargers when you aren’t using them. I keep my phone charger plugged into a power strip and power it off every morning before I leave the house. That way, I can keep the charger conveniently plugged in by my bed, but I am not using up excess energy. (Yes, plugged-in chargers suck up electricity even when you aren’t using them!)
 
 ## 9. Drive less.
 
 I know this is not possible for many people, but a big money-saver is driving less. In cities like Washington, DC or New York, a lot of us can take the metro, the bus, ride a bike, or walk. If you don’t have that option, ask yourself: do you have a friend or family member you can carpool with? (Save on gas and…ahem…fossil fuel emissions!)
 
-Like Ben Franklin said, “beware of little expenses. A small leak can sink a great ship.” If you start instituting these small changes above, I guarantee you’ll see more money in your bank account. Do you feel like you need more support and guidance to make positive financial changes like these? [Let’s chat!](http://www.maggiegermano.com/%23contact)
+Like Ben Franklin said, “beware of little expenses. A small leak can sink a great ship.” If you start instituting these small changes above, I guarantee you’ll see more money in your bank account. Do you feel like you need more support and guidance to make positive financial changes like these? [Let’s chat!](https://www.maggiegermano.com/coaching/)
 
 *This content was originally posted on:*
 
