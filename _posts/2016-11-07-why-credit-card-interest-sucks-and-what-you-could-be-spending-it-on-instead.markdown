@@ -60,4 +60,4 @@ The moral of the story is that it sucks to give your money away when you're gett
 
 It's time to get your debt under control. This may take a long time, but it will be worth it once you're on your way to financial freedom and no longer under the control of credit card companies. Make a spreadsheet of all your credit cards with the amount you owe, along with the APR rate, and your typical monthly payment. How much are you losing due to interest? Can you afford to pay extra?
 
-If you feel like you need support on your debt journey, maybe I can help you! Schedule a [free discovery call](/coaching) with me to find out what I'm all about and why we should work together.
+If you feel like you need support on your debt journey, maybe I can help you! Schedule a [free discovery call](maggiegermano.com/coaching) with me to find out what I'm all about and why we should work together.
