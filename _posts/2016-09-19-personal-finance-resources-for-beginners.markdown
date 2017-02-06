@@ -93,6 +93,6 @@ I work one-on-one as a coach, send out a weekly [Money Monday](http://www.maggie
 
 If you’d like to learn more, schedule a [free discovery call](coaching) with me!
 
-Do you have any other financial resources that you’d like to recommend? Share with me on [Twitter](twitter.com/maggiegermano)! 
+Do you have any other financial resources that you’d like to recommend? Share with me on [Twitter](twitter.com/maggiegermano)!
 
 *This content has also been featured on [Gather the Jews](http://www.gatherthejews.com/2016/10/personal-finance-resources-for-beginners/).*
