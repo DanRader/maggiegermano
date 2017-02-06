@@ -91,7 +91,7 @@ I would also like to offer myself up as a financial resource to those in Washing
 
 I work one-on-one as a coach, send out a weekly [Money Monday](http://www.maggiegermano.com/subscribe) newsletter, speak at events, and I host monthly [Money Circle](/moneycircle) meetings in DC.
 
-If you’d like to learn more, schedule a [free discovery call](maggiegermano.com/coaching) with me!
+If you’d like to learn more, schedule a [free discovery call](coaching) with me!
 
 Do you have any other financial resources that you’d like to recommend? Share with me on [Twitter](twitter.com/maggiegermano)!
 
