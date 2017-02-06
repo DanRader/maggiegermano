@@ -57,4 +57,4 @@ If you’ve read anything written by [Brené Brown](http://www.brenebrown.com/),
 
 Since I've started this business, I've had the privilege of working with many amazing women. I've created a nonjudgmental community by holding [Money Circle](http://maggiegermano.com/moneycircle) gatherings, and I've noticed positive changes in my clients' attitudes towards money.
 
-Do you think you would benefit from financial coaching? [Schedule](maggiegermano.com/coaching) a free discovery call with me!
+Do you think you would benefit from financial coaching? [Schedule](http://maggiegermano.com/coaching) a free discovery call with me!
