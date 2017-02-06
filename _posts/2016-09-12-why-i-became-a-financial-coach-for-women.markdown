@@ -55,6 +55,6 @@ There are many ways that money fits in with [domestic violence](http://nnedv.org
 
 If you’ve read anything written by [Brené Brown](http://www.brenebrown.com/), you know that shame tends to affect women more than men. And shame is paralyzing. There is plenty of [shame around money](http://time.com/money/4431560/women-think-money-dailyworth-amanda-steinberg/)- which can lead to denial, isolation, and avoidance, which can compound financial issues. I want to help heal the shame that revolves around money so that women can move past things like debt and achieve their dreams.
 
-Since I've started this business, I've had the privilege of working with many amazing women. I've created a nonjudgmental community by holding [Money Circle](maggiegermano.com/moneycircle) gatherings, and I've noticed positive changes in my clients' attitudes towards money.
+Since I've started this business, I've had the privilege of working with many amazing women. I've created a nonjudgmental community by holding [Money Circle](http://maggiegermano.com/moneycircle) gatherings, and I've noticed positive changes in my clients' attitudes towards money.
 
 Do you think you would benefit from financial coaching? [Schedule](maggiegermano.com/coaching) a free discovery call with me!
