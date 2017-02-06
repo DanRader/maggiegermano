@@ -61,4 +61,4 @@ I’ve already mentioned picnics, but there are other outdoor activities that yo
 
 Book clubs are a great option, but if you’re not into reading, there are also knitting clubs, sewing clubs, cycling teams, cooking clubs, etc. Pick out your favorite hobby and find a club where you can do that with other people. You can either create the club yourself or find one on websites like [Meetup.com](https://www.meetup.com/). This is an awesome opportunity to make new friends who love the same things as you do!
 
-With a little creativity, it's easy to come up with ways to have fun AND spend less money. What other ways have you had fun with your friends while you're on a budget? Share on [Twitter](twitter.com/maggiegermano) or in the [Money Circle](maggiegermano.com/moneycircle)  group!
+With a little creativity, it's easy to come up with ways to have fun AND spend less money. What other ways have you had fun with your friends while you're on a budget? Share on [Twitter](twitter.com/maggiegermano) or in the [Money Circle](/moneycircle)  group!

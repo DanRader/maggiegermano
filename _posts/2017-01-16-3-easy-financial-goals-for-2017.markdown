@@ -40,4 +40,4 @@ I harp on this a lot, but that's because it's true. The easiest way to build you
 
 You can either set up automation through your company's payroll department, or your bank can move the money for you every month. You'll be amazed at how quickly your money will grow when you do this. Good luck!
 
-Do you have any other easy financial goals this year? Are you excited to get started? Share with me on [Twitter](http://twitter.com/maggiegermano) or in [Money Circle](maggiegermano.com/moneycircle)!
+Do you have any other easy financial goals this year? Are you excited to get started? Share with me on [Twitter](http://twitter.com/maggiegermano) or in [Money Circle](/moneycircle)!
