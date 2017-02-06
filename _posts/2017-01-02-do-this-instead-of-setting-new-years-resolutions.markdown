@@ -57,4 +57,4 @@ What are your specific goals for this year? What small steps will help you reach
 
 If you know you have a hard time sticking to resolutions, find someone else who has similar goals. Work together to keep each other on track. This doesn't have to (and shouldn't) be a shameful process, but more of a loving support system. Share your goals with that person and have regular check-ins to make sure you're both trying to reach them. If there are multiple people who have similar goals, create a Facebook group to cheer each other on!
 
-Good luck this year and make sure to share your wins with me on [Twitter](http://twitter.com/maggiegermano) or [Money Circle](maggiegermano.com/moneycircle)!
+Good luck this year and make sure to share your wins with me on [Twitter](http://twitter.com/maggiegermano) or [Money Circle](/moneycircle)!
