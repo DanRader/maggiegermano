@@ -2,6 +2,15 @@
 title: What the Fiduciary Rule Is and Why It Matters to You and Your Money
 date: 2017-02-07 14:42:00 -05:00
 published: false
+tags:
+- fiduciary
+- fiduciary rule
+- investing
+- investments
+- retirement
+- regulation
+- financial regulation
+image: "/uploads/wall%20street.jpg"
 ---
 
 I'm not an expert on financial regulation, by any means. But I do know that after living through (and graduating during) the Great Recession, I am very supportive of financial regulation. 
