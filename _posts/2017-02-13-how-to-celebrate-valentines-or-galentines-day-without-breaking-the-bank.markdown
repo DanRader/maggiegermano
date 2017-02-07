@@ -30,9 +30,9 @@ posts:
 - How To Become The Ultimate Gift-Giver (Without Going Broke)
 ---
 
-Tomorrow's the day! I'm sure you've been inundated since January with Valentine's Day sales and gimmicks. Many of us don't like the pressure that Valentine's Day brings; it's a Hallmark holiday that forces us to spend money in order to prove that we love someone.
+Tomorrow's the day! (But Happy [Galentine's Day](https://www.bustle.com/articles/141646-what-is-galentines-day-leslie-knopes-favorite-holiday-is-something-we-should-all-celebrate), if you're celebrating!) I'm sure you've been inundated since January with Valentine's Day sales and gimmicks. Many of us don't like the pressure that Valentine's Day brings; it's a Hallmark holiday that forces us to spend money in order to prove that we love someone.
 
-I've always enjoyed these types of holidays, though. In school, I would wear all red or pink, with a heart sticker somewhere on my body. I loved giving out Valentine's Day cards to my friends and family. As I got older, I liked spending the evening with my girlfriends, eating chocolate and watching bad movies. Now that I have a partner, the day is a little different, but it doesn't have to be stressful. So, whether you you'll spend the day with a friend, lover, or family member, you don't have to go broke.
+I've always enjoyed these types of holidays, though. In school, I would wear all red or pink, with a heart sticker somewhere on my body. I loved giving out Valentine's Day cards to my friends and family. As I got older, I liked spending the evening with my girlfriends, eating chocolate and watching bad movies. Now that I have a partner, the day is a little different, but it doesn't have to be stressful. So, whether you you'll spend the day with a friend, lover, or family member, don't forget that you don't have to go broke.
 
 ## 1. Cook dinner at home
 
@@ -46,4 +46,4 @@ If it's not too cold out, spend time in nature! Go for a walk or a hike.
 
 ## 4. Agree on low-cost gifts (or none at all)
 
-A gift for gift's sake isn't always the best idea. We often end up with a trinket we didn't really want that we don't value. If you don't have any good ideas for a low-cost gift, consider not getting each other gifts at all! Take some of the pressure off of your relationship. This year, I asked for candy. If you do want to get something for your buddy or honey, [here](https://www.buzzfeed.com/anamariaglavan/valentines-day-gifts-for-under-25?utm_term=.jkP2ww97RK#.jc56KKZ5yg) are some cute [ideas](https://www.buzzfeed.com/maitlandquitmeyer/valentines-day-gifts-that-only-look-expensive-24-gifts-fo?utm_term=.epRr55bRxJ#.gaqxdd8v3W).
+A gift for gift's sake isn't always the best idea. We often end up with a trinket we didn't really want that we don't value. If you don't have any good ideas for a low-cost gift, consider not getting each other gifts at all! Take some of the pressure off of your relationship. This year, I only asked for candy. If you do want to get something for your buddy or honey, [here](https://www.buzzfeed.com/anamariaglavan/valentines-day-gifts-for-under-25?utm_term=.jkP2ww97RK#.jc56KKZ5yg) are some cute [ideas](https://www.buzzfeed.com/maitlandquitmeyer/valentines-day-gifts-that-only-look-expensive-24-gifts-fo?utm_term=.epRr55bRxJ#.gaqxdd8v3W).
