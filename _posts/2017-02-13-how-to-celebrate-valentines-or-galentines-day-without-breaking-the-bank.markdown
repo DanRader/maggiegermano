@@ -36,10 +36,14 @@ I've always enjoyed these types of holidays, though. In school, I would wear all
 
 ## 1. Cook dinner at home
 
-
+You don't have to eat at a fancy restaurant to have a romantic evening. Last year, my boyfriend made filet mignon ($15 for two filets at Trader Joe's!) with garlic mashed potatoes and asparagus. We paired it with some decent (inexpensive) wine and voila! For dessert, we made [chocolate lava cakes](http://www.foodnetwork.com/recipes/paula-deen/molten-lava-cakes-recipe.html) from scratch. I still dream about them...
 
 ## 2. Go to a low-cost event
 
 ## 3. Go outside
 
-If it's not too cold out, spend time in nature! Go for a walk or a hike. 
+If it's not too cold out, spend time in nature! Go for a walk or a hike.
+
+## 4. Agree on low-cost gifts (or none at all)
+
+A gift for gift's sake isn't always the best idea. We often end up with a trinket we didn't really want that we don't value. If you don't have any good ideas for a low-cost gift, consider not getting each other gifts at all! Take some of the pressure off of your relationship. This year, I asked for candy. If you do want to get something for your buddy or honey, [here](https://www.buzzfeed.com/anamariaglavan/valentines-day-gifts-for-under-25?utm_term=.jkP2ww97RK#.jc56KKZ5yg) are some cute [ideas](https://www.buzzfeed.com/maitlandquitmeyer/valentines-day-gifts-that-only-look-expensive-24-gifts-fo?utm_term=.epRr55bRxJ#.gaqxdd8v3W).
