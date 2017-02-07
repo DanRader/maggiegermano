@@ -11,6 +11,7 @@ tags:
 - regulation
 - financial regulation
 image: "/uploads/wall%20street.jpg"
+tweet: 'No idea what the #fiduciaryrule is? It matters to your #money!'
 ---
 
 I'm not an expert on financial regulation, by any means. But I do know that after living through (and graduating during) the Great Recession, I am very supportive of financial regulation. 
