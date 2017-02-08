@@ -36,7 +36,9 @@ Tomorrow's the day! (But Happy [Galentine's Day](https://www.bustle.com/articles
 
 I'm sure you've been inundated since January with Valentine's Day sales and gimmicks. Many of us don't like the pressure that Valentine's Day brings; it's a Hallmark holiday that forces us to spend money in order to prove that we love someone.
 
-I've always enjoyed these types of holidays, though. In school, I would wear all red or pink, with a heart sticker somewhere on my body. I loved giving out Valentine's Day cards to my friends and family. As I got older, I liked spending the evening with my girlfriends, eating chocolate and watching bad movies. Now that I have a partner, the day is a little different, but it doesn't have to be stressful. I look at it as a nice reminder to tell people that you love them. So, whether you you'll spend the day with a friend, lover, or family member, don't forget that you don't have to go broke.
+I've always enjoyed these types of holidays, though. In school, I would wear all red or pink, with a heart sticker somewhere on my body. I loved giving out Valentine's Day cards to my friends and family. As I got older, I liked spending the evening with my girlfriends, eating chocolate and watching bad movies. Now that I have a partner, the day is a little different, but it doesn't have to be stressful. I look at it as a nice reminder to tell people that you love them. 
+
+So, whether you you'll spend the day with a friend, lover, or family member, don't forget that you don't have to go broke to show your love.
 
 ## 1. Cook dinner at home
 
@@ -48,7 +50,7 @@ Find out what is going on in your area. Is there a [local paper](http://local.wa
 
 ## 3. Go outside
 
-If it's not too cold out, spend time in nature! Go for a walk or a hike.
+If it's not too cold out, spend time in nature! Go for a walk or a hike. If the abnormally warm weather keeps up, have a picnic! 
 
 ## 4. Agree on low-cost gifts (or none at all)
 
