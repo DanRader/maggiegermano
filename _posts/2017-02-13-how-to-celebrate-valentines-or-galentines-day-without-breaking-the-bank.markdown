@@ -40,7 +40,7 @@ You don't have to eat at a fancy restaurant to have a romantic evening. Last yea
 
 ## 2. Go to (or host!) a low-cost event
 
-Find out what is going on in your area. The [Kennedy Center](https://m.kennedy-center.org/home/mscalendar/) has free concerts all the time. There are plenty of free or cheap museum and art exhibits. If you don't feel like going out, have people over! Host a pot luck or movie night. I find that hanging out at someone's house is always more fun, since you don't have to worry about money, and you can drink as much as you want.
+Find out what is going on in your area. Is there a [local paper](http://local.washingtoncitypaper.com/tag-family/see-and-do-categories) that outlines everything that is happening in your city? The [Kennedy Center](https://m.kennedy-center.org/home/mscalendar/) has free concerts all the time. There are plenty of free or cheap museum and art exhibits. If you don't feel like going out, have people over! Host a pot luck or movie night. I find that hanging out at someone's house is always more fun, since you don't have to worry about money, and you can drink as much as you want.
 
 ## 3. Go outside
 
