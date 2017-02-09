@@ -22,7 +22,7 @@ Join us at the March Money Circle gathering to discuss impact investing!
 
 Impact investing (also known as Socially Responsible Investing (SRI), Environmental, Social, and Governance Investing (ESG), mission-driven investing, etc.) refers to investments that offer a social return in addition to a financial return. These investments are often made through community development financial institutions, nonprofits, and some for-profit social enterprises. Impact investors organize themselves around impact areas that are important to them - some examples include investing in education, the environment, small businesses, women, healthcare, as well as investing into specific local communities.
 
-Money Circle's very own Danielle Pullan will be joining us to tell us more about impact investing, and to answer your questions! 
+Money Circle's very own Danielle Pullan will be joining us to talk more about impact investing, and to answer your questions! 
 
 Danielle is the Cross Department Manager at ImpactUs Marketplace. ImpactUs has built an online marketplace that aims to democratize impact investing, connecting investors from around the US with a variety of organizations who offer impact investments. In her role, Danielle works cross-functionally supporting technology, sales, and general operations. 
 
