@@ -1,7 +1,6 @@
 ---
 title: Let's Talk Impact Investing
 date: 2017-03-16 18:30:00 -04:00
-published: false
 tags:
 - money circle
 - community
