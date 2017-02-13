@@ -1,0 +1,76 @@
+.options-wrap {
+  background-color: #F6F9FC;
+  padding: 2% 0;
+  margin-top: 5%;
+  position: relative;
+  overflow: hidden;
+}
+.option-top-angle {
+  position: absolute;
+  height: 100%;
+  z-index: 2;
+  width: 150%;
+  top: -25%;
+  left: 34%;
+  background-image: linear-gradient(-90deg, rgba(222,233,243,0.13) 7%, #DEE9F3 73%);
+  transform: rotate(212deg);
+}
+
+.option-bottom-angle {
+  position: absolute;
+  opacity: 0.67;
+  transform: rotate(-32deg);
+  background-image: linear-gradient(-90deg, rgba(255, 255, 255, 0.78) 7%, #DEE9F3 73%);
+  height: 500px;
+  width: 120%;
+  bottom: -380px;
+  left: 23px;
+  z-index: 3;
+}
+
+.option-row {
+  margin: 6% 0;
+  position: relative;
+  z-index: 5;
+}
+
+.option {
+  padding: 4.5% 6%
+}
+
+.option h3 {
+  font-size: 26px;
+  line-height: 32px;
+  margin-bottom: 3px;
+}
+
+.option p {
+  font-weight: 300;
+  font-size: 15px;
+  color: black;
+  line-height: 23px;
+  margin-bottom: 4%;
+}
+
+.option li {
+  list-style-type: disc;
+  color: #4A4A4A;
+  font-size: 15px;
+  margin-bottom: 2%;
+  font-weight: 300;
+}
+
+.option ul {
+  margin-bottom: 10px;
+}
+
+.single-option-wrap {
+  background-color: white;
+  padding: 16px !important;
+  box-shadow: 4px 24px 154px -30px rgba(2, 43, 41, 0.37);
+  margin-right: 4%;
+}
+
+.single-option-wrap:nth-child(2) {
+  margin-right: 0;
+}

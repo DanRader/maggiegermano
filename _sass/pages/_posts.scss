@@ -1,0 +1,154 @@
+// post type
+
+.post-title {
+  font-family: 'Playfair Display', serif;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 55px;
+  color: #575757;
+  padding-bottom: 9px;
+  letter-spacing: 0;
+}
+
+.post-content h2 {
+    font-size: 20px;
+    margin-top: 21px;
+}
+
+.post-content p {
+  font-size: 17px;
+  line-height: 32px;
+  color: #535353;
+}
+
+.post-content a {
+  text-decoration: none;
+  color: #00BDB2;
+  font-weight: 600;
+  transition: .3s;
+}
+
+.post-content a:hover {
+  color: #0f918a;
+}
+
+.post-content ul {
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+blockquote {
+  border-left: 0;
+  border-top: 1px solid gray;
+  border-bottom: 1px solid gray;
+  padding: 56px 3.5rem;
+  margin: 28px 0;
+}
+
+blockquote > p {
+  font-family: 'Playfair Display', serif;
+  font-style: normal;
+  font-size: 32px !important;
+  font-weight: 900;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 50px !important;
+  color: #00BDB2 !important;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+// post layout
+
+.post-content {
+  padding-left: 2%;
+  padding-right: 2%;
+}
+
+// post header styles
+
+.post-title-sec {
+  padding-bottom: 30px;
+}
+.white-grad {
+  background: linear-gradient(to bottom, rgba(255, 255, 255, 0.05) 0%, rgba(255, 255, 255, 1) 100%), no-repeat;
+  height: 35vh;
+}
+#hero-post {
+  background-position: center;
+  background-size: cover;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  opacity: .3;
+}
+
+// Author
+.author {
+  font-style: italic;
+  font-weight: 500;
+  color: #9C9C9C;
+  font-size: 16px;
+}
+
+.author > hr {
+  margin-top: 5%;
+}
+
+.author-name {
+  font-size: 17px;
+  line-height: 27px;
+  font-weight: 900;
+}
+
+.author-desc {
+  font-size: 15px;
+  line-height: 21px;
+}
+
+.author-sec {
+  margin: auto;
+  max-width: 485px;
+}
+
+.author-image {
+  height: 94px;
+  width: 94px;
+  border-radius: 50%;
+  float: left;
+  background-position: center;
+  background-size: cover;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  border: 2px solid #f2f2f2;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.author-name {
+  padding-top: 5px;
+}
+
+// Related Posts
+.related-posts {
+  background-color: #F6F9FC;
+  padding: 5% 0;
+  position: relative;
+  overflow: hidden;
+}
+
+img.related-arrow {
+    opacity: 0.3;
+    height: 16% !important;
+    bottom: -3% !important;
+  }
+
+.related-title > h2 {
+  font-size: 15px !important;
+  margin-left: 5px;
+  letter-spacing: 5px !important;
+  color: #8f8f8f;
+}

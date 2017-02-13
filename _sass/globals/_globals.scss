@@ -13,7 +13,6 @@
   bottom: 0px;
 }
 
-
 @media screen and (max-width: 560px) {
 .center.col {
     float: none !important;
@@ -23,4 +22,23 @@
 .center {
     text-align: center;
     margin: auto;
+}
+
+.desaturate {
+  filter: grayscale(100%);
+}
+
+.color-over {
+  display: flex;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.31);
+}
+
+.vert-padding{
+  padding: 8% 0;
+}
+
+.nofloat {
+  float: none !important;
+  margin: auto;
 }
