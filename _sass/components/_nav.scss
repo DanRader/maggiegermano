@@ -1,0 +1,158 @@
+nav {
+    background-color: white;
+}
+
+.nav-wrapper {
+	padding-left: 10px;
+    padding-right: 10px;
+}
+
+nav img {
+    max-width: 280px;
+    padding: 17px;
+}
+
+.nav-wrapper a {
+    font-weight: 700;
+  	font-size: 12px;
+  	letter-spacing: 2.67px;
+  	text-transform: uppercase;
+    color: #676767;
+}
+
+
+nav ul a {
+  color: #676767 !important;
+}
+
+
+nav ul li.active {
+  background-color: inherit;
+}
+
+
+nav ul li {
+    position: relative;
+    background-color: inherit;
+}
+
+nav ul a:hover {
+    background-color: inherit;
+    }
+
+
+li.nav-links {
+  color: #676767;
+}
+
+li.nav-links a {
+  transition: .3s ease-in-out;
+}
+
+
+li.nav-links:after, nav ul li.active:after {
+    border-radius: 0.1em;
+    bottom: 15px;
+    content: '';
+    height: 3px;
+    position: absolute;
+    right: 0;
+    left: 8%;
+    width: 0;
+    background-image: linear-gradient(-90deg, rgb(0, 191, 200) 0%, #00C5A2 100%);
+    transition: .3s ease-in-out;
+}
+
+li.nav-links:hover:after, nav ul li.active:after {
+    width: 83%;
+}
+
+li.nav-links:hover > a, nav ul li.active > a  {
+    transform: translateY(-2px);
+    color: #00BDB2 !important;
+}
+
+.side-nav {
+  background-image: linear-gradient(-302deg, #3C3838 0%, #6F6A6A 100%);
+}
+
+.side-nav img {
+  width: 27%;
+  opacity: .5;
+}
+
+.side-nav li {
+  background-color: transparent;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.14);
+}
+
+.side-nav li:first-child {
+  border-top: 1px solid rgba(255, 255, 255, 0.14);
+}
+
+.side-nav li:focus {
+  background-color: rgba(255, 255, 255, 0.17);
+}
+
+.side-nav li a {
+  color: white !important;
+}
+
+.nav-item-current:after {
+  border-radius: 0.1em;
+  bottom: 12px;
+  content: '';
+  height: 0.25em;
+  position: absolute;
+  right: 0;
+  left: 0;
+  margin: auto;
+  width: 83%;
+  background-image: linear-gradient(-132deg, rgb(0, 191, 200) 0%, #00C5A2 100%);
+}
+
+nav .brand-logo{
+  float: left;
+  left: 2%;
+   -webkit-transform: translateX(0);
+   transform: translateX(0);
+}
+
+nav .brand-logo img {
+padding: 8px 4px;
+width: 85%;
+}
+
+nav .button-collapse {
+    float: right;
+    position: relative;
+    z-index: 1;
+  }
+
+.burger-time i{
+  font-size: 24px !important;
+  position: relative;
+}
+
+
+@media screen and (max-width: 771px) {
+    nav {
+      height: 47px;
+      line-height: 47px;
+    }
+    .navbar-fixed {
+    height: 47px;
+    }
+    nav .brand-logo img {
+      padding: 8px 4px;
+      width: 77%;
+    }
+    nav .button-collapse i {
+      height: 47px !important;
+      line-height: 47px !important;
+    }
+    nav a.button-collapse {
+      height: 47px ;
+      line-height: 47px ;
+    }
+}
