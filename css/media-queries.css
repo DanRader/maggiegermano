@@ -208,8 +208,7 @@
 /*blog list page*/
 
 @media screen and (max-width: 600px) {
-  .
-  {
+  .blog-feature {
     height: 65vh;
     min-height: 221px;
     text-align: left;
@@ -230,8 +229,8 @@
     display: none;
   }
   .blog-feature-text > h2 {
-    font-size: 32px;
-    line-height: 39px;
+    font-size: 37px;
+    line-height: 45px;
   }
   .blog-item {
     padding: 20px 27px !important;
