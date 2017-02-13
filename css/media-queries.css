@@ -25,6 +25,9 @@
   .blog-list-item {
       margin-bottom: 3%;
     }
+  .blog-list > .col {
+    float: none;
+  }
   .push {
     display: none;
   }
