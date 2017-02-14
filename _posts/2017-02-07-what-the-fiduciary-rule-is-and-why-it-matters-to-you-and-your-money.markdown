@@ -13,6 +13,8 @@ tags:
 - retirement
 - regulation
 - financial regulation
+- personal finance
+- money
 image: "/uploads/wall%20street.jpg"
 tweet: 'No idea what the #fiduciaryrule is? It matters to your #money!'
 ---
