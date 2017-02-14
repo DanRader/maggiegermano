@@ -39,7 +39,9 @@ On Friday, February 3rd, Trump ordered the Department of Labor to "review" the f
 
 **Is there a silver lining?**
 
-I think so. In response to the fiduciary rule, firms have already begun to change their business models to comply. It's unclear whether or not they would reverse course if the rule was deferred. 
+I think so. In response to the fiduciary rule, firms have already begun to change their business models to comply. It's unclear whether or not they would (or could) reverse course if the rule was deferred. 
+
+In addition, many consumers are now expecting their investment firms to have their best interest at heart. We are less than a decade out from the Great Recession, and we aren't going to forget about it anytime soon. Sometimes, business has to follow what the consumers want, not the other way around. So let's hope that the tide continues in this direction, regardless of the fiduciary rule.
 
 **So, who can you trust with your money?**
 
