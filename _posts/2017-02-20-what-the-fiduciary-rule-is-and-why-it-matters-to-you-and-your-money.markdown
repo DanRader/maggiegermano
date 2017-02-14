@@ -33,9 +33,9 @@ As a result of the Great Recession and its aftermath, the U.S. government enacte
 
 **What's a fiduciary anyway?**
 
-In a financial context, a fiduciary is required to act in the best interest of the person or party whose assets they're managing. If your investment advisor is a registered investment advisor, they have a fiduciary responsibility and are required to act in your best interest. However, many brokers, insurance professionals, and others in the financial industry do not. 
+In a financial context, a fiduciary is required to act in the best interest of the person or party whose assets they're managing. If your investment advisor is a registered investment advisor, they have a fiduciary responsibility and are required to act in your best interest. However, many brokers, insurance professionals, and others in the financial industry do not (yet). 
 
-The fiduciary rule is designed to make all financial professionals who provide retirement planning advice or work with retirement plans accountable to the fiduciary standard. The rule was formally proposed by the Department of Labor in April 2016 and was passed shortly thereafter. The rule is currently scheduled to be phased in from April 10, 2017 through January 1, 2018. 
+The fiduciary rule is designed to make **all** financial professionals who provide retirement planning advice or work with retirement plans accountable to the fiduciary standard. The rule was formally proposed by the Department of Labor in April 2016 and was passed shortly thereafter. The rule is currently scheduled to be phased in from April 10, 2017 through January 1, 2018. 
 
 **What happens now?**
 
