@@ -21,21 +21,21 @@ tweet: 'No idea what the #fiduciaryrule is? It matters to your #money!'
 
 I'm not an expert on financial regulation, by any means. But I do know that after living through (and graduating during) the Great Recession, I am very supportive of regulation that protects consumers.
 
-**Why was the Fiduciary Rule put into place?**
+**Why was the fiduciary rule put into place?**
 
-Before I go into detail on the Fiduciary Rule, let's take a walk down memory lane. The Great Recession was a major worldwide economic downturn that began in 2008 and continued into 2010 and beyond.
+Before I go into detail on the fiduciary rule, let's take a walk down memory lane. The Great Recession was a major worldwide economic downturn that began in 2008 and continued into 2010 and beyond.
 
 As a result of the Great Recession and its aftermath, the U.S. government enacted some regulation.
 
 **What's a fiduciary anyway?**
 
-In a financial context, a fiduciary is required to act in the best interest of the person or party whose assets they're managing. If your investment advisor is a registered investment advisor, they have a fiduciary responsibility and are required to act in your best interest. However, many brokers, insurance professionals, and others in the financial industry do not.
+In a financial context, a fiduciary is required to act in the best interest of the person or party whose assets they're managing. If your investment advisor is a registered investment advisor, they have a fiduciary responsibility and are required to act in your best interest. However, many brokers, insurance professionals, and others in the financial industry do not. 
 
-The fiduciary rule was formally proposed by the Department of Labor in April 2016 and was passed shortly thereafter. The rule is currently scheduled to be phased in from April 10, 2017 through January 1, 2018. The fiduciary rule is designed to make all financial professionals who provide retirement planning advice or work with retirement plans accountable to the fiduciary standard.
+The fiduciary rule is designed to make all financial professionals who provide retirement planning advice or work with retirement plans accountable to the fiduciary standard. The rule was formally proposed by the Department of Labor in April 2016 and was passed shortly thereafter. The rule is currently scheduled to be phased in from April 10, 2017 through January 1, 2018. 
 
 **What happens now?**
 
-On Friday, February 3rd, Trump ordered the Department of Labor to "review" the fiduciary rule. This was not an executive order, or a demand that the rule be rescinded. However, it has left brokerage firms and others on "Wall Street" confused. Honestly, I think we might end up having to wait and see.
+On Friday, February 3rd, Trump ordered the Department of Labor to "review" the fiduciary rule. This was not an executive order, nor a demand that the rule be rescinded. However, it has left brokerage firms and others on "Wall Street" confused about what they should do next. Honestly, I think we might end up having to wait and see what happens.
 
 **Is there a silver lining?**
 
