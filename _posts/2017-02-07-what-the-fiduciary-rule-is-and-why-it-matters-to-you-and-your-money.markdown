@@ -19,7 +19,9 @@ tweet: 'No idea what the #fiduciaryrule is? It matters to your #money!'
 
 I'm not an expert on financial regulation, by any means. But I do know that after living through (and graduating during) the Great Recession, I am very supportive of regulation that protects consumers.
 
-Before I go into detail on the Fiduciary Rule, let's take a walk down memory lane.
+Before I go into detail on the Fiduciary Rule, let's take a walk down memory lane. The Great Recession was a major worldwide economic downturn that began in 2008 and continued into 2010 and beyond. 
+
+As a result of the Great Recession and its aftermath, the U.S. government enacted some regulation. 
 
 **What's a fiduciary anyway?**
 
