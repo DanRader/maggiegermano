@@ -27,7 +27,7 @@ I'm not an expert on financial regulation, by any means. But I do know that afte
 
 **Why was the fiduciary rule put into place?**
 
-Before I go into detail on the fiduciary rule, let's take a walk down memory lane. The Great Recession was a major worldwide economic downturn that began in 2008 and continued into 2010 and beyond.
+Before I go into detail on the fiduciary rule, let's take a walk down memory lane. The Great Recession was a major worldwide economic downturn that began in 2008 and continued into 2010 and beyond. 
 
 As a result of the Great Recession and its aftermath, the U.S. government enacted some regulation.
 
