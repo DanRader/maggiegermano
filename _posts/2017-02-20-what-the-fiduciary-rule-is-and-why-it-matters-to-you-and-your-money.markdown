@@ -23,7 +23,7 @@ posts:
 - Why It's Important to Get Your Money Right (As a Woman)
 ---
 
-I'm not an expert on financial regulation, by any means. But I do know that after living through (and graduating during) the Great Recession, I am very supportive of regulation that protects consumers.
+I'm not an expert on financial regulation, by any means. But I do know that after living through (and graduating during) the Great Recession, I am very supportive of regulation that protects consumers. The fiduciary rule has recently come back into the news after Trump ordered the Department of Labor to review the rule before it goes into effect on April 10th.
 
 **Why was the fiduciary rule put into place?**
 
