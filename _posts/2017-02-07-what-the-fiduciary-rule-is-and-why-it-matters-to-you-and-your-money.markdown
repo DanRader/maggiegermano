@@ -33,8 +33,14 @@ In a financial context, a fiduciary is required to act in the best interest of t
 
 The fiduciary rule was formally proposed by the Department of Labor in April 2016 and was passed shortly thereafter. The rule is currently scheduled to be phased in from April 10, 2017 through January 1, 2018. The fiduciary rule is designed to make all financial professionals who provide retirement planning advice or work with retirement plans accountable to the fiduciary standard.
 
-**Who can you trust with your money?**
+**What happens now?**
 
-1\. Look for companies that have your best interest in mind
+On Friday, February 3rd, Trump ordered the Department of Labor to "review" the fiduciary rule. This was not an executive order, or a demand that the rule be rescinded. However, it has left brokerage firms and others on "Wall Street" confused. Honestly, I think we might end up having to wait and see.
 
-Ellevest, WorthFM
+**Is there a silver lining?**
+
+I think so. In response to the fiduciary rule, firms have already begun to change their business models to comply. It's unclear whether or not they would reverse course if the rule was deferred. 
+
+**So, who can you trust with your money?**
+
+Look for companies that already have your best interest in mind. I think it's especially important to find companies that had your best interest at heart from the beginning, not just because they were ordered to. You don't want to have to keep checking whether or not your management firm has changed their business model. Some examples are [Ellevest](ellevest.com) and [WorthFM](worthfm.com). Bonus: they are owned by women and run for women. These particular companies will manage IRAs and other investment accounts.
