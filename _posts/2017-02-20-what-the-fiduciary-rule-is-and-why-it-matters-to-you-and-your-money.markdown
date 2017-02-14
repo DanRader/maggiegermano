@@ -1,6 +1,6 @@
 ---
 title: What the Fiduciary Rule Is and Why It Matters to You and Your Money
-date: 2017-02-07 14:42:00 -05:00
+date: 2017-02-20 11:00:00 -05:00
 published: false
 categories:
 - savings
