@@ -47,8 +47,12 @@ On Friday, February 3rd, Trump ordered the Department of Labor to "review" the f
 
 I think so. In response to the fiduciary rule, firms have already begun to change their business models to comply. It's unclear whether or not they would (or could) reverse course if the rule was deferred.
 
-In addition, many consumers are now expecting their investment firms to have their best interest at heart. We are less than a decade out from the Great Recession, and we aren't going to forget about it anytime soon. Sometimes, business has to follow what the consumers want, not the other way around. So let's hope that the tide continues in this direction, regardless of the fiduciary rule. I know I will only put my money into a fiduciary moving forward. How about you?
+In addition, many consumers are now expecting their investment firms to have their best interest at heart. We are less than a decade out from the Great Recession, and we aren't going to forget about it anytime soon. Sometimes, business has to follow what the consumers want, not the other way around. So let's hope that the tide continues in this direction, regardless of the fate of the fiduciary rule. I know I will only put my money into a fiduciary moving forward. How about you?
 
 **So, who can you trust with your money?**
 
-Look for companies that already have your best interest in mind. I think it's especially important to find companies that had your best interest at heart from the beginning, not just because they were ordered to. You don't want to have to keep checking whether or not your management firm has changed their business model. Some examples are [Ellevest](ellevest.com) and [WorthFM](worthfm.com). Bonus: they are owned and run by women FOR women. These particular companies can manage your IRAs and other investment accounts. I personally just moved my investments to Ellevest and I'm excited about it! (They even sent me flowers when I first opened my account.)
+Look for companies that already have your best interest in mind. I think it's especially important to find companies that had your best interest at heart from the beginning, not just because they were ordered to. You don't want to have to keep checking whether or not your management firm has changed their business model every time regulation shifts. 
+
+Some good examples are [Ellevest](ellevest.com) and [WorthFM](worthfm.com). Bonus: they are owned and run by women FOR women. These particular companies can manage your IRAs and other investment accounts. I personally just moved my investments to Ellevest and I'm excited about it! (They even sent me flowers when I first opened my account.)
+
+Good luck!
