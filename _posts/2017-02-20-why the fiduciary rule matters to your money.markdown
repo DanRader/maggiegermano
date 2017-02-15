@@ -31,7 +31,7 @@ Before I go into detail on the fiduciary rule, let's take a walk down memory lan
 
 As a result of the Great Recession and its aftermath, the U.S. government enacted regulation, which is the usual next step after a financial disaster. The [Dodd-Frank Wall Street Reform and Consumer Protection Act](https://en.wikipedia.org/wiki/Dodd%E2%80%93Frank_Wall_Street_Reform_and_Consumer_Protection_Act#Overview) was passed by Congress in 2010. The goal of the legislation was: "To promote the financial stability of the United States by improving accountability and transparency in the financial system, to end "too big to fail", to protect the American taxpayer by ending bailouts, to protect consumers from abusive financial services practices, and for other purposes."
 
-The [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) was created as a result of this bill. The fiduciary rule itself was formally proposed by the Department of Labor in April 2016 and was passed shortly thereafter.
+The [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/) was also created as a result of this bill. The fiduciary rule itself was formally proposed by the Department of Labor in April 2016 and was passed shortly thereafter.
 
 **What's a fiduciary anyway?**
 
