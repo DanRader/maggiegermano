@@ -41,7 +41,7 @@ The fiduciary rule is designed to make **all** financial professionals who provi
 
 **What happens now?**
 
-On Friday, February 3rd, Trump ordered the Department of Labor to "review" the fiduciary rule. This was not an executive order, nor a demand that the rule be rescinded. However, it has left brokerage firms and others on "Wall Street" confused about what they should do next. It's unclearn, and honestly, I think we might end up having to wait and see what happens.
+On Friday, February 3rd, Trump ordered the Department of Labor to "review" the fiduciary rule. This was not an executive order, nor a demand that the rule be rescinded. However, it has left brokerage firms and others on "Wall Street" confused about what they should do next. It's unclear, and honestly, I think we might end up having to wait and see what happens.
 
 **Is there a silver lining?**
 
