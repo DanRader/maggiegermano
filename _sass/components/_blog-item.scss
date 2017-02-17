@@ -29,7 +29,7 @@
   font-family: 'Playfair Display', serif;
   font-weight: 800;
   font-size: 21px;
-  color: #575757;
+  color: $grey;
   line-height: 29px;
   letter-spacing: 0.3px;
 }
@@ -56,14 +56,14 @@ padding: 5% 0;
   transition: .2s;
 }
 .blog-item:hover {
-  border: 1px solid #00BDB2;
+  border: 1px solid $maggie-green;
   box-shadow: 0px 28px 67px -21px rgba(13, 138, 131, 0.43);
   transform: translateY(-2px)
 }
 
 .blog-item > h2 {
   font-family: 'Playfair Display', serif;
-  color: #575757;
+  color: $grey;
   font-size: 32px;
   line-height: 39px;
   margin-bottom: 10px;

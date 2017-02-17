@@ -63,7 +63,7 @@ img.fec-badge:hover {
     transition: .3s;
 }
 .footer-cta i:hover {
-    color: #12dcd0;
+    color: $maggie-green-light;
 }
 .footer-contact p {
   margin-bottom: 8px;
@@ -72,7 +72,7 @@ img.fec-badge:hover {
   transition: .3s;
 }
 .footer-contact p:hover {
-  color: #12dcd0;
+  color: $maggie-green-light;
 }
 .footer-contact a {
     border-bottom: none !important;
@@ -83,13 +83,13 @@ img.fec-badge:hover {
 }
 
 .footer-bp {
-  background-color: #2C2C2C;
+  background-color: $darkest-grey;
   overflow: auto;
 }
 p.footer-bp-text {
   font-style: italic;
   font-size: 11px;
-  color: #cacaca;
+  color: $light-grey;
   line-height: 14px;
   margin: 10px 16px;
 }
@@ -112,9 +112,9 @@ p.footer-bp-text {
 }
 .footer-bp-text a {
     transition: .3s;
-    border-bottom: 0px solid #2C2C2C;
+    border-bottom: 0px solid $darkest-grey;
 }
 .footer-mission a:hover, .footer-cta a:hover, .footer-bp-text a:hover {
-  border-bottom: 1px solid #12dcd0;
-  color: #12dcd0;
+  border-bottom: 1px solid $maggie-green-light;
+  color: $maggie-green-light;
 }

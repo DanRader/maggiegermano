@@ -68,8 +68,8 @@ margin-left: 5px;
   padding-bottom: 2px;
 }
 .coach-content > a:hover {
-  color: #09736a;
-  border-bottom: 1px solid #09736a;
+  color: $maggie-green-dark;
+  border-bottom: 1px solid $maggie-green-dark;
 }
 /*coach heading angles*/
 .coach-bg {
@@ -138,11 +138,11 @@ margin-left: 5px;
 
 
 .struggle-bullets .tstml-content {
-  border-color: #717171;
+  border-color: $grey;
 }
 
 .struggle-bullets .tstml-content li {
-  color: #B59661;
+  color: $maggie-gold;
   list-style-type: disc;
 }
 
@@ -163,7 +163,7 @@ margin-left: 5px;
   font-weight: 300;
   font-size: 37px;
   line-height: 50px;
-  color: #4A4A4A;
+  color: $darkest-grey;
   margin-bottom: 2%;
   transition: .3s;
 }
@@ -171,7 +171,7 @@ margin-left: 5px;
 .coaching-struggle p {
   font-weight: 300;
   font-size: 22px;
-  color: #4b4b4b;
+  color: $grey;
   line-height: 36px;
 }
 
@@ -191,7 +191,7 @@ margin-left: 5px;
 h2.coach-title {
   font-family: 'Playfair Display', serif;
   font-size: 39px;
-  color: #313131;
+  color: $darkest-grey;
   line-height: 37px;
 }
 
@@ -205,7 +205,7 @@ h2.coach-title {
 
 .works-title p {
   font-size: 13px;
-  color: #717171;
+  color: $grey;
   letter-spacing: 4.19px;
   line-height: 14px;
   margin-top: 6px;
@@ -235,7 +235,7 @@ h2.coach-title {
 .works h3 {
   font-weight: 300;
   font-size: 28px;
-  color: #717171;
+  color: $grey;
   line-height: 44px;
   text-align: center;
   padding-bottom: 4%;
@@ -253,7 +253,7 @@ transition: .3s;
   font-size: 16px;
   line-height: 22px;
   margin-bottom: 4px;
-  color: #4A4A4A;
+  color: $darkest-grey;
 }
 
 .works p {
@@ -264,7 +264,7 @@ color: black;
 }
 
 .angled-bg {
-  background-color: #F6F9FC;
+  background-color: $blue-grey;
   position: relative;
 }
 

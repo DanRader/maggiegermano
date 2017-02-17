@@ -1,5 +1,5 @@
 .options-wrap {
-  background-color: #F6F9FC;
+  background-color: $blue-grey;
   padding: 2% 0;
   margin-top: 5%;
   position: relative;
@@ -54,7 +54,7 @@
 
 .option li {
   list-style-type: disc;
-  color: #4A4A4A;
+  color: $darkest-grey;
   font-size: 15px;
   margin-bottom: 2%;
   font-weight: 300;

@@ -1,5 +1,5 @@
 .tstml {
-  background-color: #F6F9FC;
+  background-color: $blue-grey;
   padding: 5%;
   padding: 2% 5%;
 }
@@ -58,14 +58,14 @@
 }
 
 .tstml-content {
-  border: 4px solid #B59661;
+  border: 4px solid $maggie-gold;
   padding: 4.5%;
 }
 
 .tstml-content > h3 {
   font-family: 'Playfair Display', serif;
   font-weight: 800;
-  color: #575757;
+  color: $grey;
   font-size: 30px;
   line-height: 39px;
   margin-bottom: 10px;

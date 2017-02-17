@@ -5,7 +5,7 @@
   font-weight: 900;
   font-size: 44px;
   line-height: 55px;
-  color: #575757;
+  color: $grey;
   padding-bottom: 9px;
   letter-spacing: 0;
 }
@@ -18,18 +18,18 @@
 .post-content p {
   font-size: 17px;
   line-height: 32px;
-  color: #535353;
+  color: $grey;
 }
 
 .post-content a {
   text-decoration: none;
-  color: #00BDB2;
+  color: $maggie-green;
   font-weight: 600;
   transition: .3s;
 }
 
 .post-content a:hover {
-  color: #0f918a;
+  color: $maggie-green-dark;
 }
 
 .post-content ul {
@@ -38,7 +38,7 @@
 }
 
 .post-content > ul li {
-  color: #00BDB2;
+  color: $maggie-green;
   list-style-type: disc;
 }
 
@@ -58,7 +58,7 @@ blockquote > p {
   text-align: center;
   letter-spacing: 0;
   line-height: 50px !important;
-  color: #00BDB2 !important;
+  color: $maggie-green !important;
   max-width: 600px;
   margin: 0 auto;
 }
@@ -93,7 +93,7 @@ blockquote > p {
 .author {
   font-style: italic;
   font-weight: 500;
-  color: #9C9C9C;
+  color: $mid-grey;
   font-size: 16px;
 }
 
@@ -139,7 +139,7 @@ blockquote > p {
 
 // Related Posts
 .related-posts {
-  background-color: #F6F9FC;
+  background-color: $blue-grey;
   padding: 5% 0;
   position: relative;
   overflow: hidden;
@@ -155,5 +155,5 @@ img.related-arrow {
   font-size: 15px !important;
   margin-left: 5px;
   letter-spacing: 5px !important;
-  color: #8f8f8f;
+  color: $mid-grey;
 }
