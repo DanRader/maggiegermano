@@ -1,3 +1,8 @@
+$tablet: 600px;
+
+$media-max-tablet: "screen and (max-width: #{$tablet})";
+
+// @media #{$media-max-tablet}
 
 body{
 margin: 0;

@@ -1,33 +1,31 @@
 /*homepage*/
 
 @media screen and (max-width: 600px) {
-  #hero {
-    margin-top: 0;
-  }
-  .hero-content-block {
+
+  /*.hero-content-block {
     height: 70vh;
     min-height: 150px;
-  }
-  .headline h1 {
+  }*/
+  /*.headline h1 {
     font-size: 12vw;
-  }
-  .home-intro {
+  }*/
+  /*.home-intro {
         padding: 7% 5% 86% 5%;
-  }
-  .home-intro > img {
+  }*/
+  /*.home-intro > img {
     min-width: 150px;
     width: 72%;
-  }
-  .highlight {
+  }*/
+  /*.highlight {
       padding: 1% 5% !important;
       margin-left: 4%;
-    }
-  .blog-list-item {
+    }*/
+  /*.blog-list-item {
       margin-bottom: 3%;
-    }
-  .blog-list > .col {
+    }*/
+  /*.blog-list > .col {
     float: none;
-  }
+  }*/
   .push {
     display: none;
   }

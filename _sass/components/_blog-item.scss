@@ -4,11 +4,20 @@
   padding-bottom: 4%;
 }
 
+  .blog-list > .col {
+    @media #{$media-max-tablet}{
+      float: none;
+    }
+  }
+
 .blog-list-item {
   padding: 10px;
   box-shadow: 4px 15px 48px -13px rgba(1, 15, 14, 0.24);
   transition: .2s ease-out;
   background-color: white;
+  @media #{$media-max-tablet}{
+    margin-bottom: 3%;
+  }
 }
 
 .blog-list-item:hover {
