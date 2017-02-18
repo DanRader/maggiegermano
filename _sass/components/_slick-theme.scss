@@ -9,15 +9,15 @@
 
 $slick-font-path: "./fonts/" !default;
 $slick-font-family: "fontawesome" !default;
-$slick-loader-path: "./" !default;
-$slick-arrow-color: white !default;
+$slick-loader-path: "/uploads/" !default;
+$slick-arrow-color: black !default;
 $slick-dot-color: black !default;
 $slick-dot-color-active: $maggie-green !default;
 $slick-prev-character: "\f104" !default;
 $slick-next-character: "\f105" !default;
 $slick-dot-character: "\2022" !default;
 $slick-dot-size: 30px !default;
-$slick-opacity-default: 0.75 !default;
+$slick-opacity-default: 0.25 !default;
 $slick-opacity-on-hover: 1 !default;
 $slick-opacity-not-active: 0.25 !default;
 
@@ -78,12 +78,10 @@ $slick-opacity-not-active: 0.25 !default;
     padding: 0;
     border: none;
     outline: none;
-    &:hover, &:focus {
+    &:hover{
         outline: none;
         background: transparent;
-        color: $maggie-green;
         &:before {
-            opacity: $slick-opacity-on-hover;
             color: $maggie-green;
         }
     }
@@ -92,12 +90,12 @@ $slick-opacity-not-active: 0.25 !default;
     }
     &:before {
         font-family: $slick-font-family;
-        font-size: 20px;
+        font-size: 56px;
         line-height: 1;
-        color: $slick-arrow-color;
-        opacity: $slick-opacity-default;
+        color: $light-grey;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
+        transition: .3s;
     }
 }
 
@@ -185,11 +183,12 @@ $slick-opacity-not-active: 0.25 !default;
                 opacity: $slick-opacity-not-active;
                 -webkit-font-smoothing: antialiased;
                 -moz-osx-font-smoothing: grayscale;
+                transition: .3s;
             }
         }
         &.slick-active button:before {
             color: $slick-dot-color-active;
-            opacity: $slick-opacity-default;
+            opacity: 1;
         }
     }
 }
