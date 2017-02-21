@@ -7,6 +7,9 @@
   border: 21px solid white;
   position: relative;
   overflow: hidden;
+    @media #{$media-max-tablet}{
+      border: 8px solid white;
+    }
 }
 
 img.blog-arrow {
@@ -19,6 +22,9 @@ img.blog-arrow {
     height: 96px;
     width: 32px;
     padding-left: 2px;
+    @media #{$media-max-tablet}{
+      display: none;
+    }
 }
 
 .blog-feature {
@@ -26,8 +32,18 @@ img.blog-arrow {
   min-height: 521px;
   text-align: center;
   background-color: rgba(0, 0, 0, .62);
+    @media #{$media-max-tablet}{
+      height: 65vh;
+      min-height: 221px;
+      text-align: left;
+    }
 }
 
+@media #{$media-max-tablet}{
+  .feature-excerpt {
+    display: none;
+  }
+}
 .blog-space {
   margin-bottom: 2vh;
 }
@@ -53,7 +69,16 @@ img.blog-arrow {
   width: 64%;
   max-width: 700px;
   margin: auto;
+  @media #{$media-max-tablet}{
+    width: 76%;
+  }
 }
+
+  @media #{$media-max-tablet}{
+    .blog-feature-text button {
+      margin-top: 6%;
+    }
+  }
 
 .blog-feature-text > h2 {
   font-family: 'Playfair Display', serif;
@@ -62,6 +87,10 @@ img.blog-arrow {
   line-height: 55px;
   text-shadow: 5px 5px 17px rgba(0, 0, 0, 0.71);
   margin-bottom: 1vh;
+    @media #{$media-max-tablet}{
+      font-size: 37px;
+      line-height: 45px;
+    }
 }
 
 .blog-feature-text > p {

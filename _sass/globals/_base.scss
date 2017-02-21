@@ -1,8 +1,15 @@
 $tablet: 600px;
+$xl: 1400px;
+$l: 992px;
 
 $media-max-tablet: "screen and (max-width: #{$tablet})";
+$media-max-l: "screen and (max-width: #{$l})";
 
-// @media #{$media-max-tablet}
+$media-min-xl: "screen and (min-width: #{$xl})";
+// @media #{$media-max-tablet}{}
+// @media #{$media-max-l}{}
+
+// @media #{$media-min-xl}{}
 
 body{
 margin: 0;

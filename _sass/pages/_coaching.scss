@@ -5,10 +5,16 @@
   position: relative;
   z-index: 0;
   margin-top: -30px;
+  @media #{$media-max-tablet}{
+    margin-top: 0;
+  }
 }
 
 .discovery {
   margin: 0 !important;
+  @media #{$media-max-tablet}{
+    margin: 15px 0px !important;
+  }
 }
 
 .acuity {
@@ -25,6 +31,11 @@ border: none !important;
   height: 90vh;
   min-height: 436px;
   max-height: 892px;
+    @media #{$media-max-tablet}{
+      height: 61vh;
+      min-height: 136px;
+      padding: 4%;
+    }
 }
 
 .coach-head {
@@ -41,15 +52,23 @@ border: none !important;
 .coach-content {
   z-index: 5;
   margin-top: -72px;
+    @media #{$media-max-tablet}{
+      margin-top: -21px;
+    }
 }
 .coach-content > h1 {
-font-weight: 800;
-font-size: 15px;
-color: white;
-letter-spacing: 4.19px;
-text-transform: uppercase;
-line-height: 27px;
-margin-left: 5px;
+  font-weight: 800;
+  font-size: 15px;
+  color: white;
+  letter-spacing: 4.19px;
+  text-transform: uppercase;
+  line-height: 27px;
+  margin-left: 5px;
+  @media #{$media-max-tablet}{
+    font-size: 14px;
+    line-height: 16px;
+    margin-left: 0;
+  }
 }
 .coach-content > p {
   font-weight: 300;
@@ -57,6 +76,13 @@ margin-left: 5px;
   color: white;
   line-height: 56px;
   margin-bottom: 2%;
+    @media #{$media-max-tablet}{
+    font-weight: 300;
+    font-size: 28px;
+    color: white;
+    line-height: 41px;
+    margin-bottom: 7%;
+    }
 }
 .coach-content > a {
   font-weight: 300;
@@ -66,6 +92,10 @@ margin-left: 5px;
   line-height: 24px;
   border-bottom: 1px solid white;
   padding-bottom: 2px;
+  @media #{$media-max-tablet}{
+    font-size: 17px;
+    line-height: 19px;
+  }
 }
 .coach-content > a:hover {
   color: $maggie-green-dark;
@@ -92,6 +122,9 @@ margin-left: 5px;
   left: -25%;
   transform: rotate(23deg);
   transform-origin: top left;
+  @media #{$media-max-tablet}{
+    bottom: -33%;
+  }
 }
 .coach-right-angle {
   position: absolute;
@@ -124,18 +157,29 @@ margin-left: 5px;
   box-shadow: 3px 24px 154px -30px rgba(2, 43, 41, 0.55);
   position: relative;
   margin: 24px 0 61px 0;
+  @media #{$media-max-tablet}{
+    margin: -9px 0 -13px 0;
+  }
 }
 
 .struggle-title {
   z-index: 6;
+  @media #{$media-max-tablet}{
+    width: 93%;
+    box-shadow: 2px 2px 94px -30px rgba(2, 43, 41, 0.79);
+  }
 }
 
 .struggle-bullets {
   z-index: 5;
   margin-left: -39px !important;
   margin-top: 10%;
+  @media #{$media-max-tablet}{
+    margin-left: 29px !important;
+    margin-top: -37px;
+    width: 92%;
+  }
 }
-
 
 .struggle-bullets .tstml-content {
   border-color: $grey;
@@ -148,6 +192,9 @@ margin-left: 5px;
 
 .struggle-bullets .coaching-struggle {
       padding: 7.5% 9% 5% 9%;
+      @media #{$media-max-tablet}{
+        padding: 16.5% 7% 3% 5%;
+      }
 }
 
 .struggle-bullets .coaching-struggle p {
@@ -166,6 +213,14 @@ margin-left: 5px;
   color: $darkest-grey;
   margin-bottom: 2%;
   transition: .3s;
+  @media screen and (max-width: 1428px) {
+      font-size: 31px;
+      line-height: 40px;
+    }
+  @media #{$media-max-tablet}{
+    font-size: 28px;
+    line-height: 37px;
+  }
 }
 
 .coaching-struggle p {
@@ -173,6 +228,10 @@ margin-left: 5px;
   font-size: 22px;
   color: $grey;
   line-height: 36px;
+  @media #{$media-max-tablet}{
+    font-size: 18px;
+    line-height: 31px;
+  }
 }
 
 .struggle-wrap {
@@ -193,6 +252,9 @@ h2.coach-title {
   font-size: 39px;
   color: $darkest-grey;
   line-height: 37px;
+  @media #{$media-max-tablet}{
+    font-size: 32px;
+  }
 }
 
 .works-title {
@@ -201,6 +263,16 @@ h2.coach-title {
   padding: 2% 0;
   margin: 4% 0;
   z-index: 5;
+  @media #{$media-max-tablet}{
+    margin: 10% 0;
+  }
+}
+
+.work-item {
+  @media #{$media-max-tablet}{
+    text-align: center;
+    margin: 4% 0;
+  }
 }
 
 .works-title p {
@@ -212,12 +284,18 @@ h2.coach-title {
   margin-bottom: 6px;
   font-weight: 700;
   text-transform: uppercase;
+    @media #{$media-max-tablet}{
+      font-size: 12px;
+    }
 }
 
 .works {
   position: relative;
   margin-top: 61px;
   padding: 5% 0;
+  @media #{$media-max-tablet}{
+    padding: 8% 8%;
+  }
 }
 
 .coaching-1 {
@@ -239,12 +317,23 @@ h2.coach-title {
   line-height: 44px;
   text-align: center;
   padding-bottom: 4%;
+  @media #{$media-max-tablet}{
+    font-size: 25px;
+    line-height: 30px;
+  }
 }
 
 .works img {
 width: 46px;
 margin-bottom: 4px;
 transition: .3s;
+  @media screen and (min-width: 1300px ) {
+    width: 60px;
+  }
+  @media #{$media-max-tablet}{
+    width: 58px;
+    margin-bottom: 6px;
+  }
 }
 
 
@@ -285,10 +374,16 @@ color: black;
   top: 0;
   transform: skewY(1.5deg);
   transform-origin: 100% 0;
+    @media #{$media-max-tablet}{
+      top: -25px;
+    }
 }
 
 .angled-bg:after {
   bottom: 0;
   transform: skewY(1.5deg);
   transform-origin: 0;
+  @media #{$media-max-tablet}{
+    bottom: -28px;
+  }
 }

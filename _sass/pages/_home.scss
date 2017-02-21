@@ -15,6 +15,9 @@
 		@media #{$media-max-tablet} {
 			font-size: 12vw;
 		}
+		@media #{$media-min-xl}{
+			font-size: 5vw;
+		}
 	}
 
 .mc-field-group {

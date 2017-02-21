@@ -8,6 +8,10 @@
   color: $grey;
   padding-bottom: 9px;
   letter-spacing: 0;
+  @media #{$media-max-tablet}{
+    font-size: 41px;
+    line-height: 50px;
+  }
 }
 
 .post-content h2 {
@@ -26,10 +30,9 @@
   color: $maggie-green;
   font-weight: 700;
   transition: .3s;
-}
-
-.post-content a:hover {
-  color: $maggie-green-dark;
+  &:hover {
+    color: $maggie-green-dark;
+  }
 }
 
 .post-content ul {
@@ -48,6 +51,9 @@ blockquote {
   border-bottom: 1px solid gray;
   padding: 56px 3.5rem;
   margin: 28px 0;
+    @media #{$media-max-tablet}{
+      padding: 24px 1rem;
+    }
 }
 
 blockquote > p {
@@ -74,10 +80,17 @@ blockquote > p {
 
 .post-title-sec {
   padding-bottom: 30px;
+    @media #{$media-max-tablet}{
+      padding-left: 2%;
+      padding-right: 2%;
+    }
 }
 .white-grad {
   background: linear-gradient(to bottom, rgba(255, 255, 255, 0.05) 0%, rgba(255, 255, 255, 1) 100%), no-repeat;
   height: 35vh;
+  @media #{$media-max-tablet}{
+    height: 13vh;
+  }
 }
 #hero-post {
   background-position: center;
@@ -95,6 +108,10 @@ blockquote > p {
   font-weight: 700;
   color: $mid-grey;
   font-size: 16px;
+    @media #{$media-max-tablet}{
+      font-size: 15px;
+      line-height: 18px;
+    }
 }
 
 .author > hr {

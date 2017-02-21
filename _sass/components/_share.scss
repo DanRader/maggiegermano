@@ -7,6 +7,9 @@
   border-radius: 0 4px 4px 0;
   opacity: .3;
   transition: opacity .6s;
+    @media #{$media-max-tablet}{
+      display: none;
+    }
 }
 
 .share:hover {
@@ -27,6 +30,9 @@
 
 .share-mobile {
   display: none;
+  @media #{$media-max-tablet}{
+    display: block;
+  }
 }
 
 .share-mobile ul {

@@ -17,6 +17,13 @@ img.footer-heart {
     left: 5%;
     opacity: .05;
     height: 54%;
+    @media #{$media-max-tablet}{
+      position: absolute;
+      top: 4%;
+      left: 2%;
+      opacity: .05;
+      height: 50%;
+    }
 }
 
 
@@ -33,7 +40,10 @@ img.fec-badge {
 
 img.fec-badge:hover {
   transform: translateY(-1px);
-    opacity: 1;
+  opacity: 1;
+    @media #{$media-max-tablet}{
+      display: none !important;
+    }
 }
 
 .footer-topline {
@@ -44,6 +54,9 @@ img.fec-badge:hover {
 .footer-cta {
     padding-right: 3% !important;
     margin-bottom: 3%;
+      @media #{$media-max-tablet}{
+        margin-bottom: 7%;
+      }
 }
 
 .footer-cta h2 {
@@ -80,18 +93,30 @@ img.fec-badge:hover {
 
 .danr-link {
   float: right;
+  @media #{$media-max-tablet}{
+    .danr-link   {
+      float: left;
+    }
+  }
 }
 
 .footer-bp {
   background-color: $darkest-grey;
   overflow: auto;
+  @media #{$media-max-tablet}{
+      padding: 8px 0;
+  }
 }
+
 p.footer-bp-text {
   font-style: italic;
   font-size: 11px;
   color: $light-grey;
   line-height: 14px;
   margin: 10px 16px;
+  @media #{$media-max-tablet}{
+    margin: 3px 16px;
+  }
 }
 .footer-mission > p {
   font-weight: 300;
@@ -100,6 +125,10 @@ p.footer-bp-text {
   color: white;
   margin: 0;
   margin-bottom: 5%;
+  @media #{$media-max-tablet}{
+    font-size: 24px;
+    line-height: 38px;
+  }
 }
 .footer-bp-text a {
   color: white;
@@ -117,4 +146,10 @@ p.footer-bp-text {
 .footer-mission a:hover, .footer-cta a:hover, .footer-bp-text a:hover {
   border-bottom: 1px solid $maggie-green-light;
   color: $maggie-green-light;
+}
+
+@media screen and (min-width: 601px) and (max-width: 993px) {
+  .footer-mission {
+    width: 90%;
+  }
 }

@@ -54,6 +54,9 @@ padding: 5% 0;
 .push {
   margin-left: 4% !important;
   margin-right: -4% !important;
+  @media #{$media-max-tablet}{
+    display: none;
+  }
 }
 
 // Blog item——used on the blog list page (look to restyle)
@@ -63,6 +66,15 @@ padding: 5% 0;
   padding: 30px 42px !important;
   margin: 28px 0;
   transition: .2s;
+  @media #{$media-max-tablet}{
+    padding: 20px 27px !important;
+    margin: 17px auto 24px auto;
+    width: 90% !important;
+    float: none !important;
+    display: block;
+    position: relative;
+    transition: .2s;
+  }
 }
 .blog-item:hover {
   border: 1px solid $maggie-green;
@@ -76,4 +88,8 @@ padding: 5% 0;
   font-size: 32px;
   line-height: 39px;
   margin-bottom: 10px;
+    @media #{$media-max-tablet}{
+      font-size: 29px;
+      line-height: 38px;
+    }
 }

@@ -5,6 +5,10 @@
 
 .hero-height {
   height: 85vh;
+  @media #{$media-max-tablet}{
+    height: 61vh;
+    padding: 0 8%;
+  }
 }
 
 .bottom-circle {
@@ -38,6 +42,9 @@
 .mc-content {
   position: relative;
   z-index: 5;
+  @media #{$media-max-tablet}{
+    padding: 5px 33px 165px !important
+  }
 }
 
 .mc-content > h2 {
@@ -64,9 +71,10 @@
   padding: 50px !important;
   position: relative;
   transition: .3s ease-out;
+  @media #{$media-max-tablet}{
+    padding: 34% 25px 25px 25px !important;
+  }
 }
-
-
 .mc-highlight-title > h2{
   font-family: 'Playfair Display', serif;
   color: $grey;
@@ -85,11 +93,16 @@
 }
 
 .mc-highlight-photo {
-max-width: 25%;
-position: absolute;
-left: 75%;
-z-index: 1;
-transition: .3s ease-in-out;
+  max-width: 25%;
+  position: absolute;
+  left: 75%;
+  z-index: 1;
+  transition: .3s ease-in-out;
+    @media #{$media-max-tablet}{
+      max-width: 100%;
+      bottom: 78%;
+      left: 0;
+    }
 }
 
 
@@ -97,6 +110,9 @@ transition: .3s ease-in-out;
   width: 75%;
   z-index: 5;
   position: relative;
+    @media #{$media-max-tablet}{
+      width: 100%;
+    }
 }
 
 .mc-highlight-copy > h3 {
@@ -151,4 +167,25 @@ transition: .3s ease-in-out;
   }
   .mc-highlight-box:hover > .mc-highlight-copy i {
     color: white;
+  }
+
+  @media #{$media-max-tablet}{
+    .illo-circle {
+      position: absolute;
+      bottom: -171px;
+      z-index: 0;
+      left: 0;
+      right: 0;
+    }
+    .illo-circle img {
+      width: 100%;
+      max-width: 341px;
+      margin: auto;
+    }
+    .mc-next {
+      margin: 0 1% !important;
+    }
+    .mc-highlight-box:hover > .mc-highlight-copy p, .mc-highlight-box:hover > .mc-highlight-copy h2, .mc-highlight-box:hover > .mc-highlight-copy h3, .mc-highlight-box:hover > .mc-highlight-copy i {
+      color: $darkest-grey;
+    }
   }

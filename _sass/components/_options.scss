@@ -4,6 +4,9 @@
   margin-top: 5%;
   position: relative;
   overflow: hidden;
+    @media #{$media-max-tablet}{
+        margin: 10% 0;
+    }
 }
 .option-top-angle {
   position: absolute;
@@ -14,6 +17,9 @@
   left: 34%;
   background-image: linear-gradient(-90deg, rgba(222,233,243,0.13) 7%, #DEE9F3 73%);
   transform: rotate(212deg);
+  @media #{$media-max-tablet}{
+    top: -58%;
+  }
 }
 
 .option-bottom-angle {
@@ -26,6 +32,12 @@
   bottom: -380px;
   left: 23px;
   z-index: 3;
+  @media #{$media-max-tablet}{
+    height: 500px;
+    width: 140%;
+    bottom: 91px;
+    left: -187px;
+  }
 }
 
 .option-row {
@@ -42,6 +54,11 @@
   font-size: 26px;
   line-height: 32px;
   margin-bottom: 3px;
+    @media #{$media-max-tablet}{
+      font-size: 25px;
+      line-height: 33px;
+      margin-bottom: 4px;
+    }
 }
 
 .option p {
@@ -69,6 +86,13 @@
   padding: 16px !important;
   box-shadow: 4px 24px 154px -30px rgba(2, 43, 41, 0.37);
   margin-right: 4%;
+    @media screen and (min-width: 601px) {
+    width: 48% !important;
+    }
+    @media #{$media-max-tablet}{
+      margin: 3% 4% !important;
+      padding: 12px !important;
+    }
 }
 
 .single-option-wrap:nth-child(2) {

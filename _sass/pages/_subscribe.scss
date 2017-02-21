@@ -18,6 +18,9 @@
   width: 86%;
   margin: auto;
   display: block;
+  @media #{$media-max-tablet}{
+    width: 100%;
+  }
 }
 .subscribe-content p {
   font-size: 15px;

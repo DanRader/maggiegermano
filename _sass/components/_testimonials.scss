@@ -2,6 +2,9 @@
   background-color: $blue-grey;
   padding: 5%;
   padding: 2% 5%;
+  @media #{$media-max-l}{
+    padding: 0;
+  }
 }
 
 .tstml-wrapper {
@@ -9,16 +12,25 @@
   max-width: 1130px;
   margin: auto;
   padding: 30px 0px;
+   @media #{$media-max-l}{
+     width: 100%;
+   }
 }
 
 .tstml-title {
   opacity: .9;
+  @media #{$media-max-l}{
+  text-align: center;
+  }
 }
 .tstml-title img {
   width: 97px;
   margin-right: 2%;
   bottom: 4px;
   position: relative;
+  @media #{$media-max-l}{
+      display: none;
+  }
 }
 
 .tstml-title h2 {
@@ -33,6 +45,9 @@
   margin: auto;
   padding: 30px 0px;
   margin-top: 21px;
+  @media #{$media-max-l}{
+    padding-top: 0;
+  }
 }
 
 .tstml-wrapper:focus {
@@ -47,6 +62,9 @@
   box-shadow: 4px 5px 81px -12px rgba(2, 43, 41, 0.62);
   margin-top: -43px;
   margin-bottom: 18px;
+  @media #{$media-max-l}{
+    display: none;
+  }
 }
 
 .tstml-content-wrapper {
@@ -55,6 +73,11 @@
   box-shadow: 4px 15px 48px -13px rgba(2, 43, 41, 0.37);
   margin-left: 64px;
   margin-top: 30px;
+  @media #{$media-max-l}{
+    margin-top: 0;
+    margin-left: 0;
+    padding: 16px;
+  }
 }
 
 .tstml-content {
@@ -69,6 +92,16 @@
   font-size: 30px;
   line-height: 39px;
   margin-bottom: 10px;
+}
+
+.tstml-content a {
+  text-decoration: none;
+  color: $darkest-grey;
+  font-weight: 700;
+  transition: .3s;
+  &:hover {
+    color: $maggie-green;
+  }
 }
 
 .tstml-content > p {
