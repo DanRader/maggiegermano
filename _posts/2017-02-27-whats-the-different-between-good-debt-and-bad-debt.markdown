@@ -15,5 +15,6 @@ tags:
 - credit report
 - good debt
 - bad debt
+image: "/uploads/path.jpg"
 ---
 
