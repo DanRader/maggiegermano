@@ -16,5 +16,10 @@ tags:
 - good debt
 - bad debt
 image: "/uploads/path.jpg"
+tweet: 'Wondering what counts as "good" debt or "bad" debt? Learn here! #debt'
+posts:
+- Why You Should Care About Your Credit Score
+- How I Paid Off $25,000 In Student Loans In 4 Years Instead Of 10
+- Why Credit Card Interest Sucks and What You Could Be Spending It On Instead
 ---
 
