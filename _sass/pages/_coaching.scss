@@ -96,11 +96,12 @@ border: none !important;
     font-size: 17px;
     line-height: 19px;
   }
+  &:hover {
+    color: $maggie-green-dark;
+    border-bottom: 1px solid $maggie-green-dark;
+  }
 }
-.coach-content > a:hover {
-  color: $maggie-green-dark;
-  border-bottom: 1px solid $maggie-green-dark;
-}
+
 /*coach heading angles*/
 .coach-bg {
   background-image: linear-gradient(132deg, #00B3C8 0%, #00C1AB 75%, #00C5A2 100%);
@@ -191,7 +192,7 @@ border: none !important;
 }
 
 .struggle-bullets .coaching-struggle {
-      padding: 7.5% 9% 5% 9%;
+  padding: 7.5% 9% 5% 9%;
       @media #{$media-max-tablet}{
         padding: 16.5% 7% 3% 5%;
       }

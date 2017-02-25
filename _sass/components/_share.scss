@@ -10,10 +10,9 @@
     @media #{$media-max-tablet}{
       display: none;
     }
-}
-
-.share:hover {
-  opacity: 1 !important;
+    &:hover{
+      opacity: 1 !important;
+    }
 }
 
 .share > ul {

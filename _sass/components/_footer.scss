@@ -36,14 +36,13 @@ img.fec-badge {
   height: 82px;
   width: 118px;
   transition: .3s;
-}
-
-img.fec-badge:hover {
-  transform: translateY(-1px);
-  opacity: 1;
-    @media #{$media-max-tablet}{
-      display: none !important;
-    }
+  &:hover{
+    transform: translateY(-1px);
+    opacity: 1;
+  }
+  @media #{$media-max-tablet}{
+    display: none !important;
+  }
 }
 
 .footer-topline {
@@ -74,19 +73,21 @@ img.fec-badge:hover {
     font-size: 20px;
     padding-right: 15px;
     transition: .3s;
+    &:hover {
+      color: $maggie-green-light;
+    }
 }
-.footer-cta i:hover {
-    color: $maggie-green-light;
-}
+
 .footer-contact p {
   margin-bottom: 8px;
   word-wrap: break-word;
   line-height: 18px;
   transition: .3s;
+  &:hover {
+    color: $maggie-green-light;
+  }
 }
-.footer-contact p:hover {
-  color: $maggie-green-light;
-}
+
 .footer-contact a {
     border-bottom: none !important;
 }

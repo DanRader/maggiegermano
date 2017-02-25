@@ -15,14 +15,13 @@
   box-shadow: 4px 15px 48px -13px rgba(1, 15, 14, 0.24);
   transition: .2s ease-out;
   background-color: white;
+  &:hover {
+    box-shadow: 4px 22px 58px -10px rgba(0, 43, 39, 0.55);
+    transform: translateY(-2px)
+  }
   @media #{$media-max-tablet}{
     margin-bottom: 3%;
   }
-}
-
-.blog-list-item:hover {
-  box-shadow: 4px 22px 58px -10px rgba(0, 43, 39, 0.55);
-  transform: translateY(-2px)
 }
 
 .blog-list-image {
@@ -75,12 +74,13 @@ padding: 5% 0;
     position: relative;
     transition: .2s;
   }
+  &:hover {
+    border: 1px solid $maggie-green;
+    box-shadow: 0px 28px 67px -21px rgba(13, 138, 131, 0.43);
+    transform: translateY(-2px)
+  }
 }
-.blog-item:hover {
-  border: 1px solid $maggie-green;
-  box-shadow: 0px 28px 67px -21px rgba(13, 138, 131, 0.43);
-  transform: translateY(-2px)
-}
+
 
 .blog-item > h2 {
   font-family: 'Playfair Display', serif;

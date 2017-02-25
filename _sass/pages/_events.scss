@@ -92,5 +92,7 @@
 
 
 .event-header{
+  @media #{$media-max-tablet}{
     font-size: 36px;
+  }
 }

@@ -74,7 +74,22 @@
   @media #{$media-max-tablet}{
     padding: 34% 25px 25px 25px !important;
   }
+  &:hover {
+    border: 1px solid $maggie-green;
+    box-shadow: 0px 28px 67px -21px rgba(13, 138, 131, 0.43);
+    transform: translateY(-2px);
+  }
+  &:hover > .mc-highlight-photo {
+    max-width: 100%;
+    position: absolute;
+    left: 0;
+  }
+  &:hover > .mc-highlight-copy h2, &:hover > .mc-highlight-copy h3, &:hover > .mc-highlight-copy p, &:hover > .mc-highlight-copy i {
+    color: white;
+  }
 }
+
+
 .mc-highlight-title > h2{
   font-family: 'Playfair Display', serif;
   color: $grey;
@@ -104,7 +119,6 @@
       left: 0;
     }
 }
-
 
 .mc-highlight-copy {
   width: 75%;
@@ -142,32 +156,6 @@
       transition: .2s ease-out;
     }
 
-/*hover effect    */
-
-.mc-highlight-box:hover {
-  border: 1px solid $maggie-green;
-  box-shadow: 0px 28px 67px -21px rgba(13, 138, 131, 0.43);
-  transform: translateY(-2px);
-}
-
-.mc-highlight-box:hover > .mc-highlight-photo {
-  max-width: 100%;
-  position: absolute;
-  left: 0;
-}
-
-  .mc-highlight-box:hover > .mc-highlight-copy h2 {
-    color: white;
-  }
-  .mc-highlight-box:hover > .mc-highlight-copy h3 {
-    color: white;
-  }
-  .mc-highlight-box:hover > .mc-highlight-copy p {
-    color: white;
-  }
-  .mc-highlight-box:hover > .mc-highlight-copy i {
-    color: white;
-  }
 
   @media #{$media-max-tablet}{
     .illo-circle {

@@ -10,12 +10,12 @@ button, .button {
   border: 1px solid white;
   border-radius: 25px;
   transition: .3s ease-in-out;
+  &:hover{
+    box-shadow: 2px 14px 40px -5px rgba(1, 97, 97, 0.87);
+    transform: translateY(-1px)
+  }
 }
 
-button:hover, .button:hover {
-  box-shadow: 2px 14px 40px -5px rgba(1, 97, 97, 0.87);
-  transform: translateY(-1px)
-}
 button:focus, .button:focus {
   outline: inherit;
   background-color: transparent;
@@ -42,10 +42,10 @@ button.reversed:focus {
   background-color: $maggie-green;
   color: white;
   border: none;
-}
-.on-white:hover, .on-white:focus  {
-  border: none;
-  background-color: $maggie-green-light;
+  &:hover, &:focus {
+    border: none;
+    background-color: $maggie-green-light;
+  }
 }
 
 .button-fa {
@@ -87,11 +87,11 @@ button.reversed:focus {
 .blog-feature-text > button {
     text-shadow: 1px 1px 12px rgba(0, 0, 0, 0.41);
     border: 1px solid $maggie-green;
-}
-.blog-feature-text > button:hover {
-    box-shadow: 7px 11px 25px 5px rgba(0,0,0,0.3);
-    background-color: black;
-    background-color: rgba(0, 0, 0, 0.27);
+    &:hover {
+      box-shadow: 7px 11px 25px 5px rgba(0,0,0,0.3);
+      background-color: black;
+      background-color: rgba(0, 0, 0, 0.27);
+    }
 }
 
 .subscribe-btn {
@@ -102,10 +102,9 @@ button.reversed:focus {
   background-color: white;
   border: 1px solid $maggie-green;
   color: $grey;
-}
-
-.subscribe-btn:hover {
+  &:hover {
     box-shadow: 4px 7px 16px -6px rgba(11, 158, 153, 0.95);
+  }
 }
 
 .modal-button {
