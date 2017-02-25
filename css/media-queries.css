@@ -1,9 +1,7 @@
-/*homepage*/
+homepage
 
 @media screen and (max-width: 600px) {
-  #hero {
-    margin-top: 0;
-  }
+
   .hero-content-block {
     height: 70vh;
     min-height: 150px;
@@ -25,6 +23,9 @@
   .blog-list-item {
       margin-bottom: 3%;
     }
+  .blog-list > .col {
+    float: none;
+  }
   .push {
     display: none;
   }
@@ -42,7 +43,7 @@
     }
 }
 
-/*testimonials*/
+testimonials
 
 @media screen and (max-width: 771px) {
   .tstml-wrapper {
@@ -72,7 +73,7 @@
   }
 }
 
-/*footer*/
+footer
 
 @media screen and (max-width: 600px) {
   .footer-mission > p {
@@ -98,7 +99,7 @@
 }
 
 
-/*coaching */
+coaching
 
 @media screen and (max-width: 1428px) {
   .coaching-struggle h2 {
@@ -205,7 +206,7 @@
   }
 }
 
-/*blog list page*/
+blog list page
 
 @media screen and (max-width: 600px) {
   .blog-feature {
@@ -268,7 +269,7 @@
     }
 }
 
-/*blog post page*/
+blog post page
 
 @media screen and (max-width: 600px) {
   .white-grad {
@@ -298,7 +299,7 @@
 }
 
 
-/*Money Circle*/
+Money Circle
 @media screen and (max-width: 600px) {
   .hero-height {
       height: 61vh;
@@ -339,7 +340,7 @@
 }
 
 
-/*footer*/
+footer
 @media screen and (max-width: 600px) {
   .footer-cta {
     margin-bottom: 7%;
@@ -357,7 +358,7 @@
 }
 
 
-/*subscribe */
+subscribe
 @media screen and (max-width: 600px) {
   .subscribe-content img {
     width: 100%;

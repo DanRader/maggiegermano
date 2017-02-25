@@ -8,16 +8,16 @@
 // "\2022" outputs ascii character "•"
 
 $slick-font-path: "./fonts/" !default;
-$slick-font-family: "slick" !default;
-$slick-loader-path: "./" !default;
-$slick-arrow-color: white !default;
+$slick-font-family: "fontawesome" !default;
+$slick-loader-path: "/uploads/" !default;
+$slick-arrow-color: black !default;
 $slick-dot-color: black !default;
-$slick-dot-color-active: $slick-dot-color !default;
-$slick-prev-character: "\2190" !default;
-$slick-next-character: "\2192" !default;
+$slick-dot-color-active: $maggie-green !default;
+$slick-prev-character: "\f104" !default;
+$slick-next-character: "\f105" !default;
 $slick-dot-character: "\2022" !default;
-$slick-dot-size: 6px !default;
-$slick-opacity-default: 0.75 !default;
+$slick-dot-size: 30px !default;
+$slick-opacity-default: 0.25 !default;
 $slick-opacity-on-hover: 1 !default;
 $slick-opacity-not-active: 0.25 !default;
 
@@ -43,14 +43,14 @@ $slick-opacity-not-active: 0.25 !default;
 
 .slick-list {
     .slick-loading & {
-        background: #fff slick-image-url("ajax-loader.gif") center center no-repeat;
+        background: $white slick-image-url("ajax-loader.gif") center center no-repeat;
     }
 }
 
 /* Icons */
-@if $slick-font-family == "slick" {
+@if $slick-font-family == "$slick-font-family" {
     @font-face {
-        font-family: "slick";
+        font-family: "$slick-font-family";
         src: slick-font-url("slick.eot");
         src: slick-font-url("slick.eot?#iefix") format("embedded-opentype"), slick-font-url("slick.woff") format("woff"), slick-font-url("slick.ttf") format("truetype"), slick-font-url("slick.svg#slick") format("svg");
         font-weight: normal;
@@ -71,19 +71,18 @@ $slick-opacity-not-active: 0.25 !default;
     cursor: pointer;
     background: transparent;
     color: transparent;
-    top: 50%;
+    top: 174px;
     -webkit-transform: translate(0, -50%);
     -ms-transform: translate(0, -50%);
     transform: translate(0, -50%);
     padding: 0;
     border: none;
     outline: none;
-    &:hover, &:focus {
+    &:hover{
         outline: none;
         background: transparent;
-        color: transparent;
         &:before {
-            opacity: $slick-opacity-on-hover;
+            color: $maggie-green;
         }
     }
     &.slick-disabled:before {
@@ -91,12 +90,12 @@ $slick-opacity-not-active: 0.25 !default;
     }
     &:before {
         font-family: $slick-font-family;
-        font-size: 20px;
+        font-size: 56px;
         line-height: 1;
-        color: $slick-arrow-color;
-        opacity: $slick-opacity-default;
+        color: $light-grey;
         -webkit-font-smoothing: antialiased;
         -moz-osx-font-smoothing: grayscale;
+        transition: .3s;
     }
 }
 
@@ -184,11 +183,12 @@ $slick-opacity-not-active: 0.25 !default;
                 opacity: $slick-opacity-not-active;
                 -webkit-font-smoothing: antialiased;
                 -moz-osx-font-smoothing: grayscale;
+                transition: .3s;
             }
         }
         &.slick-active button:before {
             color: $slick-dot-color-active;
-            opacity: $slick-opacity-default;
+            opacity: 1;
         }
     }
 }
