@@ -1,11 +1,8 @@
 <div class="container blog-list-wrapper">
 
-{% for post in site.posts offset:1 %}
-  {{ forloop.index }}
-{% endfor %}
 
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
   {% assign loopindex = forloop.index | modulo: 5 %}
 
   {% if loopindex == 1 %}
