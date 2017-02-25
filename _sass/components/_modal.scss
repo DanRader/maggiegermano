@@ -1,0 +1,12 @@
+.modal-subscribe {
+    max-height: none;
+    width: 45%;
+    border-radius: 6px;
+    max-width: 500px;
+  }
+
+  @media only screen and (max-width: 992px){
+    .modal {
+        width: 95%;
+      }
+  }
