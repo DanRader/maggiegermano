@@ -1,0 +1,45 @@
+
+
+<div class="container blog-list-wrapper">
+  <a href="/blog/">
+    <div class="center blog-name blog-list-space">
+      <img src="/uploads/MaggieG_Mark@2x.png">
+      <h2>blog</h2>
+    </div>
+  </a>
+
+  <div class="row blog-list">
+    {% for post in site.posts limit:3 %}
+    <div class="col m4">
+      <a href="{{ post.url | prepend: site.baseurl }}">
+       <section class="blog-list-item">
+         <div class="blog-list-image cover" style="background-image: url('{{ post.image }}');">
+         </div>
+         <div class="blog-list-content">
+           {% include home/list-cat-2.html %}
+           <h3>{{ post.title }}</h3>
+         </div>
+       </section>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class="row blog-list push">
+    {% for post in site.posts limit:3 offset:3 %}
+    <div class="col m4">
+      <a href="{{ post.url | prepend: site.baseurl }}">
+       <section class="blog-list-item">
+         <div class="blog-list-image cover" style="background-image: url('{{ post.image }}');">
+         </div>
+         <div class="blog-list-content">
+           {% include home/list-cat-2.html %}
+           <h3>{{ post.title }}</h3>
+         </div>
+       </section>
+      </a>
+    </div>
+    {% endfor %}
+  </div>
+
+</div>

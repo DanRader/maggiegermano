@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+{% include home/hero.html %}
+
+<div class="container">
+  <div class="row home-intro">
+  <section class="home-intro-content col m8">
+    {{ content }}
+  </section>
+    <img src="/uploads/maggie-germano-headshot.jpg" alt="Maggie Germano">
+  </div>
+<div class="highlight-wrap">
+      <div class="row">
+          <div class="highlight col m8 offset-m2">
+            {{ page.highlight1.text | markdownify }}
+            <a href="{{ page.highlight1.link-url }}">
+              <div class="read-button">
+                  <i class="text-button fa fa-long-arrow-right" aria-hidden="true"></i>
+                  <p>{{ page.highlight1.link-name }}</p>
+              </div>
+            </a>
+          </div>
+      </div>
+      <div class="row">
+          <div class="highlight col m8 offset-m4">
+            {{ page.highlight2.text | markdownify }}
+            <a href="{{ page.highlight2.link-url }}">
+              <div class="read-button">
+                  <i class="text-button fa fa-long-arrow-right" aria-hidden="true"></i>
+                  <p>{{ page.highlight2.link-name }}</p>
+              </div>
+            </a>
+          </div>
+      </div>
+      <div class="row">
+        <div class="highlight col m8 offset-m2">
+          {{ page.highlight3.text | markdownify }}
+          <a href="{{ page.highlight3.link-url }}">
+            <div class="read-button">
+                <i class="text-button fa fa-long-arrow-right" aria-hidden="true"></i>
+                <p>{{ page.highlight3.link-name }}</p>
+            </div>
+          </a>
+        </div>
+      </div>
+  </div>
+</div>
+
+
+{% include home/testimonials.html %}
+
+
+{% include home/blog-highlight.html %}
+{% include discovery-call.html %}
