@@ -2,7 +2,7 @@
   <div class="row">
     {% for post in site.posts offset: 1 %}
         <a href="{{ post.url | prepend: site.baseurl }}">
-          <section class="blog-item col l10 offset-l1 m10 offset-m1 s12 ">
+          <section class=".post-list blog-item col l10 offset-l1 m10 offset-m1 s12 ">
               {% include blog/list-categories.html %}
             <h2>{{ post.title }}</h2>
             <p>{{ post.excerpt | truncatewords:25 | strip_html }}</p>
