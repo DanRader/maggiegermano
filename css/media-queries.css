@@ -1,0 +1,366 @@
+homepage
+
+@media screen and (max-width: 600px) {
+
+  .hero-content-block {
+    height: 70vh;
+    min-height: 150px;
+  }
+  .headline h1 {
+    font-size: 12vw;
+  }
+  .home-intro {
+        padding: 7% 5% 86% 5%;
+  }
+  .home-intro > img {
+    min-width: 150px;
+    width: 72%;
+  }
+  .highlight {
+      padding: 1% 5% !important;
+      margin-left: 4%;
+    }
+  .blog-list-item {
+      margin-bottom: 3%;
+    }
+  .blog-list > .col {
+    float: none;
+  }
+  .push {
+    display: none;
+  }
+}
+
+@media screen and (min-width: 1400px){
+    .headline h1 {
+    font-size: 5vw;
+    }
+}
+
+@media only screen and (max-width: 992px){
+  .modal {
+      width: 95%;
+    }
+}
+
+testimonials
+
+@media screen and (max-width: 771px) {
+  .tstml-wrapper {
+    width: 100%;
+  }
+  .tstml-slide-wrapper {
+    padding-top: 0;
+  }
+  .tstml-content-wrapper {
+    margin-top: 0;
+  }
+  .tstml {
+    padding: 0;
+  }
+  .tstml-image {
+    display: none;
+  }
+  .tstml-content-wrapper {
+    margin-left: 0;
+    padding: 16px;
+  }
+  .tstml-title img {
+    display: none;
+  }
+  .tstml-title {
+    text-align: center;
+  }
+}
+
+footer
+
+@media screen and (max-width: 600px) {
+  .footer-mission > p {
+    font-size: 24px;
+    line-height: 38px;
+  }
+  .footer img {
+    position: absolute;
+    top: 4%;
+    left: 2%;
+    opacity: .05;
+    height: 50%;
+  }
+  .danr-link   {
+    float: left;
+  }
+  .footer-bp {
+    padding: 8px 0;
+  }
+  p.footer-bp-text {
+        margin: 3px 16px;
+  }
+}
+
+
+coaching
+
+@media screen and (max-width: 1428px) {
+  .coaching-struggle h2 {
+    font-size: 31px;
+    line-height: 40px;
+  }
+}
+@media screen and (min-width: 1300px ) {
+  .works img {
+  width: 60px;
+}
+}
+@media screen and (min-width: 601px) {
+  .single-option-wrap {
+    width: 48% !important;
+  }
+}
+@media screen and (max-width: 600px) {
+  .coach-content > p {
+      font-weight: 300;
+      font-size: 28px;
+      color: white;
+      line-height: 41px;
+      margin-bottom: 7%;
+  }
+  .coach {
+    height: 61vh;
+    min-height: 136px;
+    padding: 4%;
+  }
+  .coach-content {
+    margin-top: -21px;
+}
+  .coach-content > h1 {
+    font-size: 14px;
+    line-height: 16px;
+    margin-left: 0;
+  }
+  .coach-content > a {
+    font-size: 17px;
+    line-height: 19px;
+  }
+  .coach-left-angle {
+    bottom: -33%;
+  }
+  .coaching-struggle-wrap {
+    margin: -9px 0 -13px 0;
+  }
+  .coaching-struggle h2 {
+    font-size: 28px;
+    line-height: 37px;
+  }
+  .coaching-struggle p {
+    font-size: 18px;
+    line-height: 31px;
+  }
+  .struggle-bullets {
+    margin-left: 29px !important;
+    margin-top: -37px;
+    width: 92%;
+  }
+  .struggle-bullets .coaching-struggle {
+    padding: 16.5% 7% 3% 5%;
+}
+  .struggle-title {
+    width: 93%;
+    box-shadow: 2px 2px 94px -30px rgba(2, 43, 41, 0.79);
+}
+  .works-title {
+    margin: 21% 0;
+  }
+  h2.coach-title {
+    font-size: 32px;
+  }
+  .works {
+    padding: 8% 8%;
+  }
+  .works h3 {
+    font-size: 25px;
+    line-height: 30px;
+  }
+  .work-item {
+    text-align: center;
+    margin: 4% 0;
+  }
+  .works img {
+    width: 58px;
+    margin-bottom: 6px;
+  }
+  .angled-bg:before {
+    top: -25px;
+  }
+  .angled-bg:after {
+    bottom: -28px;
+  }
+  .option-top-angle{
+    top: -58%;
+  }
+  .option-bottom-angle {
+    height: 500px;
+  width: 140%;
+  bottom: 91px;
+  left: -187px;
+  }
+}
+
+blog list page
+
+@media screen and (max-width: 600px) {
+  .blog-feature {
+    height: 65vh;
+    min-height: 221px;
+    text-align: left;
+  }
+  .blog-feature-image {
+    border: 8px solid white;
+  }
+  .feature-excerpt {
+    display: none;
+  }
+  .blog-feature-text {
+    width: 76%;
+  }
+  .blog-feature-text button {
+    margin-top: 6%;
+  }
+  img.blog-arrow {
+    display: none;
+  }
+  .blog-feature-text > h2 {
+    font-size: 37px;
+    line-height: 45px;
+  }
+  .blog-item {
+    padding: 20px 27px !important;
+    margin: 17px auto 24px auto;
+    width: 90% !important;
+    float: none !important;
+    display: block;
+    position: relative;
+    transition: .2s;
+  }
+  .blog-item > h2 {
+    font-size: 29px;
+    line-height: 38px;
+  }
+  .options-wrap .works-title {
+    margin: 10% 0;
+  }
+  #sign-up {
+    margin-top: 0;
+  }
+  .single-option-wrap{
+    margin: 3% 4% !important;
+    padding: 12px !important;
+  }
+  .discovery {
+    margin: 15px 0px !important;
+  }
+  .option h3 {
+    font-size: 25px;
+    line-height: 33px;
+    margin-bottom: 4px;
+}
+  .works-title p {
+      font-size: 12px;
+    }
+}
+
+blog post page
+
+@media screen and (max-width: 600px) {
+  .white-grad {
+    height: 13vh;
+  }
+  .share {
+    display: none;
+  }
+  .post-title-sec {
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+  .post-title {
+    font-size: 41px;
+    line-height: 50px;
+  }
+  .author {
+    font-size: 15px;
+    line-height: 18px;
+  }
+  blockquote {
+      padding: 24px 1rem;
+  }
+  .share-mobile {
+    display: block;
+  }
+}
+
+
+Money Circle
+@media screen and (max-width: 600px) {
+  .hero-height {
+      height: 61vh;
+      padding: 0 8%;
+  }
+  .illo-circle {
+    position: absolute;
+    bottom: -171px;
+    z-index: 0;
+    left: 0;
+    right: 0;
+  }
+  .mc-content {
+    padding: 5px 33px 165px !important
+  }
+  .illo-circle img {
+    width: 100%;
+    max-width: 341px;
+    margin: auto;
+  }
+  .mc-highlight-photo {
+    max-width: 100%;
+    bottom: 78%;
+    left: 0;
+  }
+  .mc-highlight-copy {
+     width: 100%;
+}
+  .mc-highlight-box {
+      padding: 34% 25px 25px 25px !important;
+      }
+  .mc-next {
+    margin: 0 1% !important;
+  }
+  .mc-highlight-box:hover > .mc-highlight-copy p, .mc-highlight-box:hover > .mc-highlight-copy h2, .mc-highlight-box:hover > .mc-highlight-copy h3, .mc-highlight-box:hover > .mc-highlight-copy i {
+    color: inherit;
+  }
+}
+
+
+footer
+@media screen and (max-width: 600px) {
+  .footer-cta {
+    margin-bottom: 7%;
+  }
+  img.fec-badge {
+    display: none !important;
+  }
+}
+
+
+@media screen and (min-width: 601px) and (max-width: 993px) {
+  .footer-mission {
+    width: 90%;
+  }
+}
+
+
+subscribe
+@media screen and (max-width: 600px) {
+  .subscribe-content img {
+    width: 100%;
+}
+}
