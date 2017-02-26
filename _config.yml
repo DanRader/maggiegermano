@@ -89,5 +89,4 @@ google-analytics: |-
 
     ga('create', 'UA-77261410-1', 'auto');
     ga('send', 'pageview');
-
   </script>
