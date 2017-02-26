@@ -26,3 +26,5 @@ posts:
 I am often asked about the difference between "good" debt and "bad" debt. I put them in quotes because using qualifiers tends to make people feel bad about themselves, and I'm trying to avoid that.  In my experience, all debt usually *feels* bad, but not all debt is equal.
 
 So why is there a differentiation between types of debt? This has to do with your credit score. 
+
+Who decides what good is bad?
