@@ -38,3 +38,5 @@ Taking out a mortgage to buy a home is also considered good debt. Similar to stu
 [Payday loans](http://www.pewtrusts.org/en/multimedia/video/2013/payday-loans-explained) and cash advance loans are also considered bad debt. These, in particular, usually turn out very negatively for the borrower. Interest rates and fees are sky-high and many people are unable to pay them back in time, and the loan amount grows and grows. This can destroy a borrower's credit and wipe out their bank account.
 
 Who decides if debt is bad or good?
+
+All this being said, having a credit card is not a bad thing. If you pay off your balance each month, your credit score will not be hurt. The problem is when you have credit card debt over a long period of time, because you owe more and more to credit card companies. This can hurt your credit score and prevent you from building up savings.
