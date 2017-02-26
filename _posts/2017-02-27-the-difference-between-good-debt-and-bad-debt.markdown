@@ -25,6 +25,8 @@ posts:
 
 I am often asked about the difference between "good" debt and "bad" debt. I put them in quotes because using qualifiers tends to make people feel bad about themselves, and I want to avoid that.  In my experience, all debt usually *feels* bad, because you owe someone else money, but not all debt is equal.
 
+> In my experience, all debt usually *feels* bad, because you owe someone else money, but not all debt is equal.
+
 ## What is "good" debt?
 
 This type of debt is considered an investment that will typically grow in value or generate income over time. An example is student debt. The idea is that this debt will eventually result in higher income over the course of your life. Student loans also tend to have lower interest rates and the interest that you pay on federal loans is tax deductible. 
