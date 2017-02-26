@@ -27,9 +27,11 @@ I am often asked about the difference between "good" debt and "bad" debt. I put 
 
 ## What is "good" debt?
 
-This type of debt is an investment that will typically grow in value or generate income over time. An example is student debt. The idea is that this debt will eventually result in higher income over the course of your life. Student loans also tend to have lower interest rates and the interest that you pay on federal loans is tax deductible. 
+This type of debt is considered an investment that will typically grow in value or generate income over time. An example is student debt. The idea is that this debt will eventually result in higher income over the course of your life. Student loans also tend to have lower interest rates and the interest that you pay on federal loans is tax deductible. 
 
-Taking out a mortgage to buy a home is also considered good debt. Similar to student loans, mortgages tend to have lower interest rates, and that interest is also tax deductible. Ideally, your home would increase in value while you own it, so if you eventually sell it, you'll earn back the interest that you spent.
+Taking out a mortgage to buy a home is also considered good debt. Similar to student loans, mortgages tend to have lower interest rates, and that interest is also tax deductible. Ideally, your home would increase in value while you own it, so if you eventually sell it, you'll earn back the interest that you paid.
+
+Other examples of good debt are car loans and home equity loans. 
 
 ## What is "bad" debt?
 
