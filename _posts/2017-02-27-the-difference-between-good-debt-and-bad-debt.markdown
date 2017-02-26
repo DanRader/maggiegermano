@@ -23,13 +23,13 @@ posts:
 - Why Credit Card Interest Sucks and What You Could Be Spending It On Instead
 ---
 
-I am often asked about the difference between "good" debt and "bad" debt. I put them in quotes because using qualifiers tends to make people feel bad about themselves, and I'm trying to avoid that.  In my experience, all debt usually *feels* bad, but not all debt is equal.
+I am often asked about the difference between "good" debt and "bad" debt. I put them in quotes because using qualifiers tends to make people feel bad about themselves, and I'm trying to avoid that.  In my experience, all debt usually *feels* bad, because you owe someone else money, but not all debt is equal.
 
-So why is there a differentiation between types of debt? This has to do with your credit score. 
+So why is there a differentiation between types of debt? This has to do with your credit score.
 
 ## What is "good" debt?
 
-This type of debt is an investment that will typically grow in value or generate income over time. 
+This type of debt is an investment that will typically grow in value or generate income over time. An example of that is student debt. The idea is that this debt will eventually result in higher income over the course of your life. Student loans also tend to have lower interest rates and the interest that you pay on federal loans is tax deductible. 
 
 ## What is "bad" debt?
 
