@@ -1,7 +1,6 @@
 ---
 title: What's the Difference Between "Good" Debt and "Bad" Debt?
 date: 2017-02-27 11:00:00 -05:00
-published: false
 categories:
 - debt
 - Credit
