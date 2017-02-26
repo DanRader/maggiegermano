@@ -33,4 +33,6 @@ This type of debt is an investment that will typically grow in value or generate
 
 ## What is "bad" debt?
 
+"Bad" debt is any debt that does not 
+
 Who decides what good is bad?
