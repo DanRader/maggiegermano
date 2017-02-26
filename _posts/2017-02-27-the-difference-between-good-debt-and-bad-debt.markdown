@@ -37,9 +37,9 @@ Other examples of good debt are car loans and home equity loans. However, since 
 
 ## What is "bad" debt?
 
-"Bad" debt is any debt that is taken out to pay for things that lose value over time and don't result in higher income. This type of debt also usually comes with high interest rates. Basically, you end up paying more than the cost of the original purchase. An example is credit card debt. If you keep a balance on your credit cards, the interest grows 
+"Bad" debt is any debt that is taken out to pay for things that lose value over time and don't result in higher income. This type of debt also usually comes with high interest rates. Basically, you end up paying more than the cost of the original purchase. An example is credit card debt. If you keep a balance on your credit cards, the interest grows and makes it difficult to pay off the amount. You can get caught in a cycle that feels like it will never end.
 
-[Payday loans](http://www.pewtrusts.org/en/multimedia/video/2013/payday-loans-explained) and cash advance loans are also considered bad debt. These, in particular, usually turn out very negatively for the borrower. Interest rates and fees are sky-high and many people are unable to pay them back in time, and the loan amount grows and grows. This can destroy a borrower's credit and wipe out their bank account.
+[Payday loans](http://www.pewtrusts.org/en/multimedia/video/2013/payday-loans-explained) and cash advance loans are also considered bad debt. These loans, in particular, usually turn out very negatively for the borrower. Interest rates and fees are sky-high and many people are unable to pay them back in time, and so the loan amount grows and grows. This can destroy a borrower's credit and wipe out their bank account.
 
 Who decides if debt is bad or good?
 
