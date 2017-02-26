@@ -33,6 +33,6 @@ This type of debt is an investment that will typically grow in value or generate
 
 ## What is "bad" debt?
 
-"Bad" debt is any debt that does not 
+"Bad" debt is any debt that is taken out to pay for things that lose value over time, and don't result in higher income. This type of debt also usually comes with high interest rates. An example is credit card debt. 
 
-Who decides what good is bad?
+Who decides if debt is bad or good?
