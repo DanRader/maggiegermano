@@ -27,4 +27,10 @@ I am often asked about the difference between "good" debt and "bad" debt. I put 
 
 So why is there a differentiation between types of debt? This has to do with your credit score. 
 
+## What is "good" debt?
+
+This type of debt is an investment that will typically grow in value or generate income over time. 
+
+## What is "bad" debt?
+
 Who decides what good is bad?
