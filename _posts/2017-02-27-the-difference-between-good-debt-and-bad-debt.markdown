@@ -23,4 +23,4 @@ posts:
 - Why Credit Card Interest Sucks and What You Could Be Spending It On Instead
 ---
 
-test
+I am often asked about the difference between good debt and bad debt. All debt usually feels bad 
