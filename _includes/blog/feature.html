@@ -1,4 +1,4 @@
-{% for post in paginator.posts limit:1 %}
+{% for post in site.posts limit:1 %}
 <a href="{{ post.url | prepend: site.baseurl }}">
   <div class="cover blog-feature-image" style="background-image: url('{{ post.image }}');">
       <div class="color-over blog-feature">

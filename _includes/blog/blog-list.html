@@ -2,7 +2,7 @@
 
 
 
-{% for post in paginator.posts %}
+{% for post in site.posts offset: 1 %}
   {% assign loopindex = forloop.index | modulo: 5 %}
 
   {% if loopindex == 1 %}
