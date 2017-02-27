@@ -47,7 +47,6 @@ defaults:
     path: ''
     type: posts
   values:
-    permalink: "/blog/:title/"
     layout: post
     image:
     author: Maggie Germano
@@ -70,6 +69,13 @@ defaults:
   values:
     image:
 permalink: pretty
+gems:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 5
+paginate_path: "/blog/page:num/"
+
 email: boss@maggiegermano.com
 description: Break the taboo of discussing debt, earnings, and financial goals. Shake
   the feeling of anxiety and confusion when it comes to money. Learn the tools to
@@ -77,9 +83,7 @@ description: Break the taboo of discussing debt, earnings, and financial goals. 
 url: https://maggiegermano.com
 twitter_username: maggiegermano
 github_username: DanRader
-gems:
-  - octopress-paginate
-  - jekyll-sitemap
+
 google-analytics: |-
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){

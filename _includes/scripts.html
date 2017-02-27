@@ -1,9 +1,22 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script type="text/javascript" src="/js/materialize.min.js"></script>
 <script type="text/javascript" src="/js/slick.min.js"></script>
-<script type="text/javascript" src="/js/jquery.smoothState.js" ></script>
-<!-- <script type="text/javascript" src="/js/animations.js" ></script> -->
+<script type="text/javascript" src="/js/jquery-ias.min.js" ></script>
 <script type="text/javascript" src="/js/jquery-scrolltofixed-min.js" ></script>
+
+
+<!-- Pagination initiation -->
+<script type="text/javascript">
+  $(document).ready(function(){
+  var ias = jQuery.ias({
+    container:  '#blog-list-wrapper',
+    item:       '.list-item',
+    pagination: '#pagination',
+    next:       '.next'
+  });
+});
+
+</script>
 
 
 <!-- slick carousel  -->
@@ -58,7 +71,7 @@ $(document).ready(function(){
 <!-- modal initiation -->
 <script type="text/javascript">
 $(document).ready(function(){
-$('.modal-trigger').leanModal();
+  $('.modal-trigger').leanModal();
 });
 </script>
 
