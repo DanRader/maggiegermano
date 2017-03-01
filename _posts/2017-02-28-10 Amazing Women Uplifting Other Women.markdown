@@ -22,30 +22,42 @@ Happy Women's History Month! For the month of March each year, women get a shout
 
 There are women all over the world doing work that uplifts others. This week, I want to focus on powerful female philanthropists. Did I miss anyone? Share with me on [Twitter](twitter.com/maggiegermano) or in the comments!
 
-1. Melinda Gates
+## 1. Melinda Gates
 
 ;lakdf;akd
 
-2. Oprah Winfrey
+## 2. Oprah Winfrey
 
 aljkd;fak
 
-3. Beyoncé
+## 3. Beyoncé
 
 Beyoncé has given the world a lot. Lemonade, alone, is the contribution of a lifetime.
 
-4. Isabel Allende
+## 4. Isabel Allende
 
 ;akjd;f
 
-5. 
+## 5. 
 
-6. 
+al;kjd;f
 
-7. 
+## 6. 
 
-8. 
+;aldkjf
 
-9. 
+## 7. 
 
-10. 
+l;akdjfa
+
+## 8. 
+
+dalkfjda
+
+## 9. 
+
+lkadj;fka
+
+## 10. 
+
+adkjf;ad
