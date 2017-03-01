@@ -1,5 +1,5 @@
 ---
-title: Amazing women something soemthing
+title: 10 Amazing Women Uplifting Other Women Worldwide
 date: 2017-02-28 15:49:00 -05:00
 published: false
 categories:
