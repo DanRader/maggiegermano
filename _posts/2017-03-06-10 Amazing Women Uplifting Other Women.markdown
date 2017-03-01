@@ -38,11 +38,11 @@ Beyoncé has given the world a lot. Lemonade, alone, is the contribution of a li
 
 ;akjd;f
 
-## 5.
+## 5. Jada Pinkett-Smith
 
 al;kjd;f
 
-## 6.
+## 6. Hillary Clinton
 
 ;aldkjf
 
