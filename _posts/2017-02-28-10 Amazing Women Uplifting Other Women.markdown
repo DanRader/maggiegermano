@@ -18,4 +18,34 @@ posts:
 - What Survivors Wish You Knew About Financial Abuse
 ---
 
-Happy Women's History Month! For the month of March each year, women get a shout out. Personally, I believe we should be celebrating women every day (kind of like Black History Month). But I'll take this annual reminder that women are badass. 
+Happy Women's History Month! For the month of March each year, women get a shout out. Personally, I believe we should be celebrating women every day (kind of like Black History Month). But I'll take this annual reminder that women are badass.
+
+There are women all over the world doing work that uplifts others. This week, I want to focus on powerful female philanthropists. Did I miss anyone? Share with me on [Twitter](twitter.com/maggiegermano) or in the comments!
+
+1. Melinda Gates
+
+;lakdf;akd
+
+2. Oprah Winfrey
+
+aljkd;fak
+
+3. Beyoncé
+
+Beyoncé has given the world a lot. Lemonade, alone, is the contribution of a lifetime.
+
+4. Isabel Allende
+
+;akjd;f
+
+5. 
+
+6. 
+
+7. 
+
+8. 
+
+9. 
+
+10. 
