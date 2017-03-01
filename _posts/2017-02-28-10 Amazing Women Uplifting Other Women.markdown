@@ -18,3 +18,4 @@ posts:
 - What Survivors Wish You Knew About Financial Abuse
 ---
 
+Happy Women's History Month! For the month of March each year, women get a shout out. Personally, I believe we should be celebrating women every day (kind of like Black History Month). But I'll take this annual reminder that women are badass. 
