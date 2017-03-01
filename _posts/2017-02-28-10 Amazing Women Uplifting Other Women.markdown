@@ -18,7 +18,7 @@ posts:
 - What Survivors Wish You Knew About Financial Abuse
 ---
 
-Happy Women's History Month! For the month of March each year, women get a shout out. Personally, I believe we should be celebrating women every day (kind of like Black History Month). But I'll take this annual reminder that women are badass.
+Happy Women's History Month! For the month of March each year, women get a shout out. Personally, I believe we should be celebrating women every day (kind of like Black History Month), but I'll take this annual reminder that women are badass.
 
 There are women all over the world doing work that uplifts others. This week, I want to focus on powerful female philanthropists. Did I miss anyone? Share with me on [Twitter](twitter.com/maggiegermano) or in the comments!
 
@@ -38,26 +38,26 @@ Beyoncé has given the world a lot. Lemonade, alone, is the contribution of a li
 
 ;akjd;f
 
-## 5. 
+## 5.
 
 al;kjd;f
 
-## 6. 
+## 6.
 
 ;aldkjf
 
-## 7. 
+## 7.
 
 l;akdjfa
 
-## 8. 
+## 8.
 
 dalkfjda
 
-## 9. 
+## 9.
 
 lkadj;fka
 
-## 10. 
+## 10.
 
 adkjf;ad
