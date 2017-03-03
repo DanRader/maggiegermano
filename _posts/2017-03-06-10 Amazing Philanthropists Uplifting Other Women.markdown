@@ -36,7 +36,7 @@ Beyoncé has given the world a lot. Lemonade, alone, is the contribution of a li
 
 ## 4. Isabel Allende
 
-;akjd;f
+Isabel founded the [Isabel Allende Foundation](http://www.isabelallendefoundation.org/en/story) in 1995 to support the empowerment of women and girls worldwide.
 
 ## 5. Jada Pinkett-Smith
 
@@ -48,13 +48,13 @@ al;kjd;f
 
 ## 7. Olajumoke Adenowo
 
-Olajumoke Olufunmilola Adenowo is a Nigerian architect, speaker and radio host, philanthropist, and author. She founded the [Awesome Treasures Foundation](http://awesometreasuresfoundation.org/index.html) in 1999, with the goal to "raise transformational leaders". 
+Olajumoke Olufunmilola Adenowo is a Nigerian architect, speaker and radio host, philanthropist, and author. She founded the [Awesome Treasures Foundation](http://awesometreasuresfoundation.org/index.html) in 1999, with the goal to "raise transformational leaders".
 
 Read more about Africa's female philanthropists [here](http://fortune.com/2016/05/31/africas-female-philanthropists/).
 
 ## 8. Priscilla Chan
 
-Priscilla and her husband, Mark Zuckerberg, founded the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) in 2015. 
+Priscilla and her husband, Mark Zuckerberg, founded the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) in 2015.
 
 ## 9.
 
