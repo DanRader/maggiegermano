@@ -12,6 +12,13 @@ tags:
 - philanthropy
 - philanthropists
 - empowerment
+- beyonce
+- oprah
+- melinda gates
+- isabel allende
+- jada pinkett-smith
+- hillary clinton
+- olajumoke adenowo
 image: "/uploads/world.jpg"
 tweet: 'Happy Women''s History Month! Celebrate these #women doing good w/ #money. '
 posts:
