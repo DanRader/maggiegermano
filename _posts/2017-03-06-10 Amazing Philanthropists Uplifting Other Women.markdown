@@ -44,7 +44,7 @@ Melinda and her husband, Bill Gates, founded the [Bill and Melinda Gates Foundat
 
 ![5617518534_d0c621c56c_o.jpg](/uploads/5617518534_d0c621c56c_o.jpg)
 
-Everyone knows who Oprah is, but in case you don't, she is an American media proprietor, talk show host, actress, producer, and philanthropist. In 2007, she founded the [Oprah Winfrey Leadership Academy Foundation](http://www.owla.co.za/). The foundation was established to fund the Oprah Winfrey Leadership Academy for Girls – South Africa. 
+Everyone knows who Oprah is, but in case you don't, she is an American media proprietor, talk show host, actress, producer, and philanthropist. In 2007, she founded the [Oprah Winfrey Leadership Academy Foundation](http://www.owla.co.za/). The foundation was established to fund the Oprah Winfrey Leadership Academy for Girls – South Africa.
 
 ## 3. Beyoncé Knowles-Carter
 
@@ -63,13 +63,11 @@ Isabel Allende is a Chilean-American author and philanthropist. Isabel founded t
 
 ![jada-9eeb1b.jpg](/uploads/jada-9eeb1b.jpg)
 
-Jada and her husband, Will Smith, founded the [Will and Jada Smith Family Foundation](http://www.wjsff.org/) in XX. 
+Jada and her husband, Will Smith, founded the [Will and Jada Smith Family Foundation](http://www.wjsff.org/) in XX.
 
-## 6. Hillary Clinton
+## 6. Layne Beachley
 
-![hillz.jpg](/uploads/hillz.jpg)
-
-Hillary and Bill Clinton donated $23.2 million to charity between 2001 and 2015. 
+Layne Beachley is a former professional surfer from Australia. She won the World Championship seven times. Layne founded Aim for the Stars in XX.
 
 ## 7. Olajumoke Adenowo
 
@@ -95,6 +93,6 @@ Jennifer and her husband, Peter Buffett, founded the [NoVo Foundation](http://no
 
 ![liya.jpg](/uploads/liya.jpg)
 
-Liya is an Ethiopian-born model, maternal health advocate, clothing designer, and actress. She founded the [Liya Kebede Foundation](http://lkfound.org/) in 2005. The mission of this foundation is to improve the lives of women in Africa by providing better access to life-saving maternity care. 
+Liya is an Ethiopian-born model, maternal health advocate, clothing designer, and actress. She founded the [Liya Kebede Foundation](http://lkfound.org/) in 2005. The mission of this foundation is to improve the lives of women in Africa by providing better access to life-saving maternity care.
 
 Who is your favorite female philanthropist? What kind of impact is she making on the world? *Share in the comments below!*
