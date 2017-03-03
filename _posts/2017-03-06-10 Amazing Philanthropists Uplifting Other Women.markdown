@@ -10,6 +10,8 @@ tags:
 - women's history month
 - money
 - philanthropy
+- philanthropists
+- empowerment
 image: "/uploads/world.jpg"
 tweet: 'Happy Women''s History Month! Celebrate these #women doing good w/ #money. '
 posts:
