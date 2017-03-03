@@ -48,7 +48,9 @@ al;kjd;f
 
 ## 7. Olajumoke Adenowo
 
-l;akdjfa
+Olajumoke Olufunmilola Adenowo is a Nigerian architect, speaker and radio host, philanthropist, and author. She founded the [Awesome Treasures Foundation](http://awesometreasuresfoundation.org/index.html) in 1999, with the goal to "raise transformational leaders". 
+
+Read more about Africa's female philanthropists [here](http://fortune.com/2016/05/31/africas-female-philanthropists/).
 
 ## 8.
 
