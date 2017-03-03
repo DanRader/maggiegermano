@@ -1,5 +1,5 @@
 ---
-title: 10 Badass Entrepreneurs Taking the World by Storm
+title: 10 Kickass Entrepreneurs Taking the World by Storm
 date: 2017-03-13 11:00:00 -04:00
 published: false
 posts:
