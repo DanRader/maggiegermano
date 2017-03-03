@@ -24,13 +24,19 @@ There are women all over the world doing work that uplifts others. This week, I 
 
 ## 1. Melinda Gates
 
+![melinda-8c3010.jpg](/uploads/melinda-8c3010.jpg)
+
 ;lakdf;akd
 
 ## 2. Oprah Winfrey
 
+![5617518534_d0c621c56c_o.jpg](/uploads/5617518534_d0c621c56c_o.jpg)
+
 aljkd;fak
 
 ## 3. Beyoncé
+
+![yonce.jpg](/uploads/yonce.jpg)
 
 Beyoncé has given the world a lot. Lemonade, alone, is the contribution of a lifetime.
 
@@ -43,6 +49,8 @@ Isabel founded the [Isabel Allende Foundation](http://www.isabelallendefoundatio
 al;kjd;f
 
 ## 6. Hillary Clinton
+
+![hillz.jpg](/uploads/hillz.jpg)
 
 ;aldkjf
 
@@ -58,8 +66,8 @@ Priscilla and her husband, Mark Zuckerberg, founded the [Chan Zuckerberg Initiat
 
 ## 9. Jennifer Buffet
 
-lkadj;fka
+Jennifer and her husband, Peter Buffet, founded the [NoVo Foundation](http://novofoundation.org/) in 2006, though they've been philanthropists since 1997. 
 
 ## 10. Liya Kebede
 
-adkjf;ad
+Liya founded the [Liya Kebede Foundation](http://lkfound.org/) in 2005. 
