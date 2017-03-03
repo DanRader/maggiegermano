@@ -95,4 +95,4 @@ Jennifer and her husband, Peter Buffett, founded the [NoVo Foundation](http://no
 
 ![liya.jpg](/uploads/liya.jpg)
 
-Liya founded the [Liya Kebede Foundation](http://lkfound.org/) in 2005.
+Liya is an Ethiopian-born model, maternal health advocate, clothing designer, and actress. She founded the [Liya Kebede Foundation](http://lkfound.org/) in 2005. The mission of this foundation is to improve the lives of women in Africa by providing better access to life-saving maternity care. 
