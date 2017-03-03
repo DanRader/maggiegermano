@@ -69,11 +69,15 @@ Read more about Africa's female philanthropists [here](http://fortune.com/2016/0
 
 ## 8. Priscilla Chan
 
+![priscilla.jpg](/uploads/priscilla.jpg)
+
 Priscilla and her husband, Mark Zuckerberg, founded the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) in 2015.
 
-## 9. Jennifer Buffet
+## 9. Jennifer Buffett
 
-Jennifer and her husband, Peter Buffet, founded the [NoVo Foundation](http://novofoundation.org/) in 2006, though they've been philanthropists since 1997. 
+![jennifer.jpg](/uploads/jennifer.jpg)
+
+Jennifer and her husband, Peter Buffett, founded the [NoVo Foundation](http://novofoundation.org/) in 2006, though they've been philanthropists since 1997. 
 
 ## 10. Liya Kebede
 
