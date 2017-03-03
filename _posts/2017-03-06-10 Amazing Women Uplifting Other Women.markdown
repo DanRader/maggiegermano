@@ -52,9 +52,9 @@ Olajumoke Olufunmilola Adenowo is a Nigerian architect, speaker and radio host, 
 
 Read more about Africa's female philanthropists [here](http://fortune.com/2016/05/31/africas-female-philanthropists/).
 
-## 8.
+## 8. Priscilla Chan
 
-dalkfjda
+Priscilla and her husband, Mark Zuckerberg, founded the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) in 2015. 
 
 ## 9.
 
