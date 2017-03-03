@@ -46,6 +46,8 @@ Isabel founded the [Isabel Allende Foundation](http://www.isabelallendefoundatio
 
 ## 5. Jada Pinkett-Smith
 
+![jada.jpg](/uploads/jada.jpg)
+
 al;kjd;f
 
 ## 6. Hillary Clinton
