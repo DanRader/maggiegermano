@@ -63,13 +63,13 @@ Isabel Allende is a Chilean-American author and philanthropist. Isabel founded t
 
 ![jada-9eeb1b.jpg](/uploads/jada-9eeb1b.jpg)
 
-al;kjd;f
+Jada and her husband, Will Smith, founded the [Will and Jada Smith Family Foundation](http://www.wjsff.org/) in XX. 
 
 ## 6. Hillary Clinton
 
 ![hillz.jpg](/uploads/hillz.jpg)
 
-;aldkjf
+Hillary and Bill Clinton donated $23.2 million to charity between 2001 and 2015. 
 
 ## 7. Olajumoke Adenowo
 
