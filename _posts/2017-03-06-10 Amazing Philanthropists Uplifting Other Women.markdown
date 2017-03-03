@@ -61,7 +61,7 @@ Isabel Allende is a Chilean-American author and philanthropist. Isabel founded t
 
 ## 5. Jada Pinkett-Smith
 
-![jada.jpg](/uploads/jada.jpg)
+![jada-9eeb1b.jpg](/uploads/jada-9eeb1b.jpg)
 
 al;kjd;f
 
@@ -81,13 +81,13 @@ Read more about Africa's female philanthropists [here](http://fortune.com/2016/0
 
 ## 8. Priscilla Chan
 
-![priscilla.jpg](/uploads/priscilla.jpg)
+![priscilla-6d7bd1.jpg](/uploads/priscilla-6d7bd1.jpg)
 
 Priscilla and her husband, Mark Zuckerberg, founded the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) in 2015.
 
 ## 9. Jennifer Buffett
 
-![jennifer.jpg](/uploads/jennifer.jpg)
+![jennifer-75f5d4.jpg](/uploads/jennifer-75f5d4.jpg)
 
 Jennifer and her husband, Peter Buffett, founded the [NoVo Foundation](http://novofoundation.org/) in 2006, though they've been philanthropists since 1997. 
 
