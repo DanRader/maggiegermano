@@ -34,7 +34,7 @@ There are women all over the world doing work that uplifts others. This week, I 
 
 ![5617518534_d0c621c56c_o.jpg](/uploads/5617518534_d0c621c56c_o.jpg)
 
-aljkd;fak
+Everyone knows who Oprah is. 
 
 ## 3. Beyoncé
 
@@ -62,6 +62,8 @@ al;kjd;f
 ;aldkjf
 
 ## 7. Olajumoke Adenowo
+
+![Olajumoke_Adenowo.jpg](/uploads/Olajumoke_Adenowo.jpg)
 
 Olajumoke Olufunmilola Adenowo is a Nigerian architect, speaker and radio host, philanthropist, and author. She founded the [Awesome Treasures Foundation](http://awesometreasuresfoundation.org/index.html) in 1999, with the goal to "raise transformational leaders".
 
