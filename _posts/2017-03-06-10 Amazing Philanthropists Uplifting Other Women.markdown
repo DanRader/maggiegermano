@@ -44,7 +44,7 @@ Beyoncé has given the world a lot. Lemonade, alone, is the contribution of a li
 
 ## 4. Isabel Allende
 
-Isabel founded the [Isabel Allende Foundation](http://www.isabelallendefoundation.org/en/story) in 1995 to support the empowerment of women and girls worldwide.
+Isabel founded the [Isabel Allende Foundation](http://www.isabelallendefoundation.org/en/story) in 1995 to support the empowerment of women and girls worldwide. The foundation invests in securing reproductive rights, economic independence and freedom from violence for women and girls.
 
 ## 5. Jada Pinkett-Smith
 
