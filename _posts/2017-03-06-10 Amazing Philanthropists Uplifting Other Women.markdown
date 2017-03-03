@@ -69,7 +69,7 @@ Jada and her husband, Will Smith, founded the [Will and Jada Smith Family Founda
 
 ![layne.jpg](/uploads/layne.jpg)
 
-Layne is a former professional surfer from Australia. She won the World Championship seven (!) times. In XX, Layne founded the [Layne Beachley Aim for the Stars Foundation](https://www.aimforthestars.com.au/). 
+Layne is a former professional surfer from Australia. She won the World Championship seven (!) times. In XX, Layne founded the [Layne Beachley Aim for the Stars Foundation](https://www.aimforthestars.com.au/). The mission is to cultivate courage and foster self-belief for girls and women through mentoring and financial assistance.
 
 ## 7. Olajumoke Adenowo
 
