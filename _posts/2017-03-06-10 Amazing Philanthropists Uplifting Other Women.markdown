@@ -19,6 +19,9 @@ tags:
 - jada pinkett-smith
 - hillary clinton
 - olajumoke adenowo
+- priscilla chan
+- jennifer buffett
+- liya kebede
 image: "/uploads/world.jpg"
 tweet: 'Happy Women''s History Month! Celebrate these #women doing good w/ #money. '
 posts:
@@ -89,5 +92,7 @@ Priscilla and her husband, Mark Zuckerberg, founded the [Chan Zuckerberg Initiat
 Jennifer and her husband, Peter Buffett, founded the [NoVo Foundation](http://novofoundation.org/) in 2006, though they've been philanthropists since 1997. 
 
 ## 10. Liya Kebede
+
+![liya.jpg](/uploads/liya.jpg)
 
 Liya founded the [Liya Kebede Foundation](http://lkfound.org/) in 2005. 
