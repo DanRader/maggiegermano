@@ -75,7 +75,7 @@ al;kjd;f
 
 ![Olajumoke_Adenowo.jpg](/uploads/Olajumoke_Adenowo.jpg)
 
-Olajumoke Olufunmilola Adenowo is a Nigerian architect, speaker and radio host, philanthropist, and author. She founded the [Awesome Treasures Foundation](http://awesometreasuresfoundation.org/index.html) in 1999, with the goal to "raise transformational leaders".
+Olajumoke Olufunmilola Adenowo is a Nigerian architect, speaker and radio host, philanthropist, and author. She founded the [Awesome Treasures Foundation](http://awesometreasuresfoundation.org/index.html) in 1999, with the goal to "raise transformational leaders". Olajumoke mentors women on her weekly radio show, 
 
 Read more about Africa's female philanthropists [here](http://fortune.com/2016/05/31/africas-female-philanthropists/).
 
@@ -89,10 +89,10 @@ Priscilla and her husband, Mark Zuckerberg, founded the [Chan Zuckerberg Initiat
 
 ![jennifer-75f5d4.jpg](/uploads/jennifer-75f5d4.jpg)
 
-Jennifer and her husband, Peter Buffett, founded the [NoVo Foundation](http://novofoundation.org/) in 2006, though they've been philanthropists since 1997. 
+Jennifer and her husband, Peter Buffett, founded the [NoVo Foundation](http://novofoundation.org/) in 2006, though they've been philanthropists since 1997.
 
 ## 10. Liya Kebede
 
 ![liya.jpg](/uploads/liya.jpg)
 
-Liya founded the [Liya Kebede Foundation](http://lkfound.org/) in 2005. 
+Liya founded the [Liya Kebede Foundation](http://lkfound.org/) in 2005.
