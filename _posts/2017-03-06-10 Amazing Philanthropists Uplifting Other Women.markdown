@@ -44,7 +44,7 @@ Melinda and her husband, Bill Gates, founded the [Bill and Melinda Gates Foundat
 
 ![5617518534_d0c621c56c_o.jpg](/uploads/5617518534_d0c621c56c_o.jpg)
 
-Everyone knows who Oprah is. 
+Everyone knows who Oprah is, but in case you don't, she is an American media proprietor, talk show host, actress, producer, and philanthropist.
 
 ## 3. Beyoncé
 
