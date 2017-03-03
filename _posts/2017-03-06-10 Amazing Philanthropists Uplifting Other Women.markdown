@@ -28,7 +28,7 @@ There are women all over the world doing work that uplifts others. This week, I 
 
 ![melinda-8c3010.jpg](/uploads/melinda-8c3010.jpg)
 
-;lakdf;akd
+Melinda and her husband, Bill Gates, founded the [Bill and Melinda Gates Foundation](http://www.gatesfoundation.org/) in 2000.
 
 ## 2. Oprah Winfrey
 
