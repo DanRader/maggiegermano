@@ -56,10 +56,10 @@ Read more about Africa's female philanthropists [here](http://fortune.com/2016/0
 
 Priscilla and her husband, Mark Zuckerberg, founded the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) in 2015.
 
-## 9.
+## 9. Jennifer Buffet
 
 lkadj;fka
 
-## 10.
+## 10. Liya Kebede
 
 adkjf;ad
