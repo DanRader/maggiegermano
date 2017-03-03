@@ -50,7 +50,7 @@ Everyone knows who Oprah is, but in case you don't, she is an American media pro
 
 ![yonce.jpg](/uploads/yonce.jpg)
 
-Beyoncé has given the world a lot. Lemonade, alone, is the contribution of a lifetime.
+Beyoncé has given the world a lot. Lemonade, alone, is the contribution of a lifetime. Beyoncé founded [Chime for Change](http://www.chimeforchange.org/) with Salma Hayek back in XX. 
 
 ## 4. Isabel Allende
 
