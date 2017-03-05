@@ -44,7 +44,7 @@ Melinda is an American philanthropist and computer scientist. Melinda and her hu
 
 ![5617518534_d0c621c56c_o.jpg](/uploads/5617518534_d0c621c56c_o.jpg)
 
-Everyone knows who Oprah is, but in case you don't, she is an American media proprietor, talk show host, actress, producer, and philanthropist. In 2007, she founded the [Oprah Winfrey Leadership Academy Foundation](http://www.owla.co.za/). The foundation was established to fund the Oprah Winfrey Leadership Academy for Girls – South Africa. The academy is a girls-only boarding school in XX. All girls who have graduated from this academy have gone on to college. 
+Everyone knows who Oprah is, but in case you don't, she is an American media proprietor, talk show host, actress, producer, and philanthropist. In 2007, she founded the [Oprah Winfrey Leadership Academy Foundation](http://www.owla.co.za/). The foundation was established to fund the Oprah Winfrey Leadership Academy for Girls. The academy is a girls-only boarding school in South Africa. All girls who have graduated from this academy have gone on to attend university. 
 
 ## 3. Beyoncé Knowles-Carter
 
