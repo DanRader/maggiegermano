@@ -52,7 +52,7 @@ Everyone knows who Oprah is, but in case you don't, she is an American media pro
 
 ![yonce.jpg](/uploads/yonce.jpg)
 
-Beyoncé has given the world a lot. Lemonade, alone, is the contribution of a lifetime. However, she's been philanthropic in other ways too. Beyoncé founded [Chime for Change](http://www.chimeforchange.org/) with Salma Hayek in 2013. This organization aims to raise funds and awareness for projects promoting education, health, and justice for girls and women. In 2016, she and Jay-Z donated $1.5 million to [Black Lives Matter](http://blacklivesmatter.com/).
+Beyoncé has given the world a lot. Lemonade, alone, is the contribution of a lifetime. However, she's been philanthropic in other ways too. Beyoncé founded [Chime for Change](http://www.chimeforchange.org/) with Salma Hayek in 2013. This organization aims to raise funds and awareness for projects promoting education, health, and justice for girls and women. So far, they have funded 409 projects in 86 countries. In 2016, she and Jay-Z donated $1.5 million to [Black Lives Matter](http://blacklivesmatter.com/).
 
 ## 4. Isabel Allende
 
