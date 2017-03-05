@@ -85,7 +85,7 @@ Read more about Africa's female philanthropists [here](http://fortune.com/2016/0
 
 ![priscilla-6d7bd1.jpg](/uploads/priscilla-6d7bd1.jpg)
 
-Priscilla is an American philanthropist and pediatrician. She and her husband, Mark Zuckerberg, founded the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) in 2015. The mission of the foundation is pretty lofty: Helping cure, prevent or manage all diseases in our children’s lifetime. They also want to empower communities so that children get the best education possible.
+Priscilla is an American philanthropist and pediatrician. She and her husband, Mark Zuckerberg, founded the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) in 2015. The mission of the foundation is pretty lofty: Helping cure, prevent or manage all diseases in our children’s lifetime. They also want to empower communities so that children get the best education possible. They have so far pledged $3 billion towards this effort, but have promised to donate 99% of Facebook's shared, which amounts to $45 billion.
 
 ## 9. Jennifer Buffett
 
