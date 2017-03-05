@@ -91,7 +91,7 @@ Priscilla is an American philanthropist and pediatrician. She and her husband, M
 
 ![jennifer-75f5d4.jpg](/uploads/jennifer-75f5d4.jpg)
 
-Jennifer and her husband, Peter Buffett, founded the [NoVo Foundation](http://novofoundation.org/) in 2006, though she's been a philanthropist since 1997. Her foundation's mission is to empower girls and women worldwide and to end violence and exploitation against them. Jennifer also sits on the board of the Nike Foundation to promote [Girl Effect](http://www.girleffect.org/) and the economic and social empowerment of adolescent girls in the developing world.
+Jennifer and her husband, Peter Buffett, founded the [NoVo Foundation](http://novofoundation.org/) in 2006, though she's been a philanthropist since 1997. Her foundation's mission is to empower girls and women worldwide and to end violence and exploitation against them. Jennifer also sits on the board of the Nike Foundation to promote [Girl Effect](http://www.girleffect.org/) and the economic and social empowerment of adolescent girls in the developing world. She is also on the board of [V-Day](http://www.vday.org/).
 
 ## 10. Liya Kebede
 
