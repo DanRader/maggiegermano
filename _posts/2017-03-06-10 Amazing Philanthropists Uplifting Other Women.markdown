@@ -56,8 +56,7 @@ Beyoncé has given the world a lot. Lemonade, alone, is the contribution of a li
 
 ## 4. Isabel Allende
 
-![isabel.jpg](/uploads/isabel.jpg)\
-*(Photo by Lori Barra)*
+![isabel.jpg](/uploads/isabel.jpg)
 
 Isabel Allende is a Chilean-American author and philanthropist. Isabel founded the [Isabel Allende Foundation](http://www.isabelallendefoundation.org/en/story) in 1995 to support the empowerment of women and girls worldwide. The foundation invests in securing reproductive rights, economic independence and freedom from violence for women and girls, predominantly in Chile and California.
 
@@ -65,7 +64,7 @@ Isabel Allende is a Chilean-American author and philanthropist. Isabel founded t
 
 ![Lyda-Hill.jpg](/uploads/Lyda-Hill.jpg)
 
-Lyda Hill is an American entrepreneur and philanthropist.
+Lyda Hill is an American entrepreneur and philanthropist. She created the [Lyda Hill Foundation](http://www.lydahillfoundation.org/) in 1997, which focuses on funding advances in science and nature, empowering nonprofit organizations, and to improving the North Texas and Colorado Springs communities. More recently, Lyda has focused on breast cancer research, to which she donated $25 million in 2015. She also founded the [Oklahoma Breast Care Center](https://www.oumedicine.com/oumedicine/adult-services/women's-health/breast-health-network) and [Remeditex Ventures](http://www.remeditex.com/), a venture capital fund that invests in early biomedical research.
 
 ## 6. Layne Beachley
 
