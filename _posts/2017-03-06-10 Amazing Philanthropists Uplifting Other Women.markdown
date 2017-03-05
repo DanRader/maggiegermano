@@ -38,7 +38,7 @@ There are women all over the world doing work that uplifts others. This week, I 
 
 ![melinda-8c3010.jpg](/uploads/melinda-8c3010.jpg)
 
-Melinda is an American philanthropist and computer scientist. Melinda and her husband, Bill Gates, founded the [Bill and Melinda Gates Foundation](http://www.gatesfoundation.org/) in 2000. As of 2014, the Gateses have donated $28 billion to their foundation.  The Gates Foundation [works on](http://www.gatesfoundation.org/What-We-Do) global health, global development, education in the United States, and more. 
+Melinda is an American philanthropist and computer scientist. Melinda and her husband, Bill Gates, founded the [Bill and Melinda Gates Foundation](http://www.gatesfoundation.org/) in 2000. As of 2014, the Gateses have donated $28 billion to their foundation.  The Gates Foundation [works on](http://www.gatesfoundation.org/What-We-Do) global health, global development, education in the United States, and more.
 
 ## 2. Oprah Winfrey
 
@@ -83,13 +83,13 @@ Read more about Africa's female philanthropists [here](http://fortune.com/2016/0
 
 ![priscilla-6d7bd1.jpg](/uploads/priscilla-6d7bd1.jpg)
 
-Priscilla is an American philanthropist and pediatrician. She and her husband, Mark Zuckerberg, founded the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) in 2015. The mission on the foundation is pretty lofty: Helping cure, prevent or manage all diseases in our children’s lifetime
+Priscilla is an American philanthropist and pediatrician. She and her husband, Mark Zuckerberg, founded the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) in 2015. The mission of the foundation is pretty lofty: Helping cure, prevent or manage all diseases in our children’s lifetime. They also want to empower communities so that children get the best education possible. 
 
 ## 9. Jennifer Buffett
 
 ![jennifer-75f5d4.jpg](/uploads/jennifer-75f5d4.jpg)
 
-Jennifer and her husband, Peter Buffett, founded the [NoVo Foundation](http://novofoundation.org/) in 2006, though they've been philanthropists since 1997.
+Jennifer and her husband, Peter Buffett, founded the [NoVo Foundation](http://novofoundation.org/) in 2006, though they've been philanthropists since 1997. The foundation's mission is to empower girls and women worldwide and to end violence and exploitation against them.
 
 ## 10. Liya Kebede
 
