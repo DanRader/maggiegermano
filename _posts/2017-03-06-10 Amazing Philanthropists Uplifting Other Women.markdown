@@ -65,7 +65,7 @@ Isabel Allende is a Chilean-American author and philanthropist. Isabel founded t
 
 ![Lyda-Hill.jpg](/uploads/Lyda-Hill.jpg)
 
-Lyda Hill is an American investor and philanthropist.
+Lyda Hill is an American entrepreneur and philanthropist.
 
 ## 6. Layne Beachley
 
