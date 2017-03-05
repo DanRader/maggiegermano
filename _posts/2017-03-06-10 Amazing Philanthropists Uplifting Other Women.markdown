@@ -38,15 +38,15 @@ There are women all over the world doing work that uplifts others. This week, I 
 
 ![melinda-8c3010.jpg](/uploads/melinda-8c3010.jpg)
 
-Melinda is an American philanthropist and computer scientist. Melinda and her husband, Bill Gates, founded the [Bill and Melinda Gates Foundation](http://www.gatesfoundation.org/) in 2000. As of 2014, the Gateses have donated $28 billion to their foundation.  The Gates Foundation [works on](http://www.gatesfoundation.org/What-We-Do) global health, global development, education in the United States, and more. Over the past few years, Melinda has made providing contraceptions to poor women around the world a core priority. Her foundation has donated over $1 billion to this effort. 
+Melinda is an American philanthropist and computer scientist. Melinda and her husband, Bill Gates, founded the [Bill and Melinda Gates Foundation](http://www.gatesfoundation.org/) in 2000. As of 2014, the Gateses have donated $28 billion to their foundation.  The Gates Foundation [works on](http://www.gatesfoundation.org/What-We-Do) global health, global development, education in the United States, and more. Over the past few years, Melinda has made providing contraceptions to poor women around the world a core priority. Her foundation has donated over $1 billion to this effort.
 
-Learn more about the mission [here](https://www.nytimes.com/2016/11/01/health/melinda-gates-birth-control-poverty.html). 
+Learn more about the mission [here](https://www.nytimes.com/2016/11/01/health/melinda-gates-birth-control-poverty.html).
 
 ## 2. Oprah Winfrey
 
 ![5617518534_d0c621c56c_o.jpg](/uploads/5617518534_d0c621c56c_o.jpg)
 
-Everyone knows who Oprah is, but in case you don't, she is an American media proprietor, talk show host, actress, producer, and philanthropist. In 2007, she founded the [Oprah Winfrey Leadership Academy Foundation](http://www.owla.co.za/). The foundation was established to fund the Oprah Winfrey Leadership Academy for Girls. The academy is a girls-only boarding school in South Africa. All girls who have graduated from this academy have gone on to attend university. 
+Everyone knows who Oprah is, but in case you don't, she is an American media proprietor, talk show host, actress, producer, and philanthropist. In 2007, she founded the [Oprah Winfrey Leadership Academy Foundation](http://www.owla.co.za/). The foundation was established to fund the Oprah Winfrey Leadership Academy for Girls. The academy is a girls-only boarding school in South Africa. All girls who have graduated from this academy have gone on to attend university.
 
 ## 3. Beyoncé Knowles-Carter
 
@@ -71,7 +71,7 @@ Jada and her husband, Will Smith, founded the [Will and Jada Smith Family Founda
 
 ![layne.jpg](/uploads/layne.jpg)
 
-Layne is a former professional surfer from Australia. She won the World Championship seven (!) times. In XX, Layne founded the [Layne Beachley Aim for the Stars Foundation](https://www.aimforthestars.com.au/). The mission is to cultivate courage and foster self-belief for girls and women through mentoring and financial assistance.
+Layne is a former professional surfer from Australia. She won the World Championship seven (!) times. In 2003, Layne founded the [Layne Beachley Aim for the Stars Foundation](https://www.aimforthestars.com.au/). The mission is to cultivate courage and foster self-confidence for girls and women through mentoring and financial assistance.
 
 ## 7. Olajumoke Adenowo
 
@@ -91,7 +91,7 @@ Priscilla is an American philanthropist and pediatrician. She and her husband, M
 
 ![jennifer-75f5d4.jpg](/uploads/jennifer-75f5d4.jpg)
 
-Jennifer and her husband, Peter Buffett, founded the [NoVo Foundation](http://novofoundation.org/) in 2006, though they've been philanthropists since 1997. The foundation's mission is to empower girls and women worldwide and to end violence and exploitation against them.
+Jennifer and her husband, Peter Buffett, founded the [NoVo Foundation](http://novofoundation.org/) in 2006, though she's been a philanthropist since 1997. Her foundation's mission is to empower girls and women worldwide and to end violence and exploitation against them. Jennifer also sits on the board of the Nike Foundation to promote [Girl Effect](http://www.girleffect.org/) and the economic and social empowerment of adolescent girls in the developing world.
 
 ## 10. Liya Kebede
 
