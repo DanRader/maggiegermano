@@ -38,7 +38,9 @@ There are women all over the world doing work that uplifts others. This week, I 
 
 ![melinda-8c3010.jpg](/uploads/melinda-8c3010.jpg)
 
-Melinda is an American philanthropist and computer scientist. Melinda and her husband, Bill Gates, founded the [Bill and Melinda Gates Foundation](http://www.gatesfoundation.org/) in 2000. As of 2014, the Gateses have donated $28 billion to their foundation.  The Gates Foundation [works on](http://www.gatesfoundation.org/What-We-Do) global health, global development, education in the United States, and more.
+Melinda is an American philanthropist and computer scientist. Melinda and her husband, Bill Gates, founded the [Bill and Melinda Gates Foundation](http://www.gatesfoundation.org/) in 2000. As of 2014, the Gateses have donated $28 billion to their foundation.  The Gates Foundation [works on](http://www.gatesfoundation.org/What-We-Do) global health, global development, education in the United States, and more. Over the past few years, Melinda has made providing contraceptions to poor women around the world a core priority. Her foundation has donated over $1 billion to this effort. 
+
+Learn more about the mission [here](https://www.nytimes.com/2016/11/01/health/melinda-gates-birth-control-poverty.html). 
 
 ## 2. Oprah Winfrey
 
@@ -50,7 +52,7 @@ Everyone knows who Oprah is, but in case you don't, she is an American media pro
 
 ![yonce.jpg](/uploads/yonce.jpg)
 
-Beyoncé has given the world a lot. Lemonade, alone, is the contribution of a lifetime. However, she's been philanthropic in other ways too. Beyoncé founded [Chime for Change](http://www.chimeforchange.org/) with Salma Hayek in 2013. This organization aims to raise funds and awareness for projects promoting education, health, and Justice for girls and women. In 2016, she and Jay-Z donated $1.5 million to [Black Lives Matter](http://blacklivesmatter.com/).
+Beyoncé has given the world a lot. Lemonade, alone, is the contribution of a lifetime. However, she's been philanthropic in other ways too. Beyoncé founded [Chime for Change](http://www.chimeforchange.org/) with Salma Hayek in 2013. This organization aims to raise funds and awareness for projects promoting education, health, and justice for girls and women. In 2016, she and Jay-Z donated $1.5 million to [Black Lives Matter](http://blacklivesmatter.com/).
 
 ## 4. Isabel Allende
 
