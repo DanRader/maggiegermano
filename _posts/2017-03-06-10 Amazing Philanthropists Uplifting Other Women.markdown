@@ -84,13 +84,13 @@ Read more about Africa's female philanthropists [here](http://fortune.com/2016/0
 
 ![priscilla-6d7bd1.jpg](/uploads/priscilla-6d7bd1.jpg)
 
-Priscilla is an American philanthropist and pediatrician. She and her husband, Mark Zuckerberg, founded the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) in 2015. The mission of the foundation is pretty lofty: Helping cure, prevent or manage all diseases in our children’s lifetime. They also want to empower communities so that children get the best education possible. They have so far pledged $3 billion towards this effort, but have promised to donate 99% of Facebook's shared, which amounts to $45 billion.
+Priscilla is an American philanthropist and pediatrician. She and her husband, Mark Zuckerberg, founded the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) in 2015. The mission of the foundation is pretty lofty: Helping cure, prevent or manage all diseases in our children’s lifetime. They also want to empower communities so that children get the best education possible. They have so far pledged $3 billion towards this effort, but have promised to donate 99% of Facebook's shared, which amounts to about $45 billion.
 
 ## 9. Jennifer Buffett
 
 ![jennifer-75f5d4.jpg](/uploads/jennifer-75f5d4.jpg)
 
-Jennifer and her husband, Peter Buffett, founded the [NoVo Foundation](http://novofoundation.org/) in 2006, though she's been a philanthropist since 1997. Her foundation's mission is to empower girls and women worldwide and to end violence and exploitation against them. Jennifer also sits on the board of the Nike Foundation to promote [Girl Effect](http://www.girleffect.org/) and the economic and social empowerment of adolescent girls in the developing world. She is also on the board of [V-Day](http://www.vday.org/).
+Jennifer and her husband, Peter Buffett, founded the [NoVo Foundation](http://novofoundation.org/) in 2006, though she's been a philanthropist since 1997. Her foundation's mission is to empower girls and women worldwide and to end violence and exploitation against them. Jennifer also sits on the board of the Nike Foundation to promote the [Girl Effect](http://www.girleffect.org/) and the economic and social empowerment of adolescent girls in the developing world. She is also on the board of [V-Day](http://www.vday.org/).
 
 ## 10. Liya Kebede
 
