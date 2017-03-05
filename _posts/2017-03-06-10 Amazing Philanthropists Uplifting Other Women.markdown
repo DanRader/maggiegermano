@@ -44,7 +44,7 @@ Melinda is an American philanthropist and computer scientist. Melinda and her hu
 
 ![5617518534_d0c621c56c_o.jpg](/uploads/5617518534_d0c621c56c_o.jpg)
 
-Everyone knows who Oprah is, but in case you don't, she is an American media proprietor, talk show host, actress, producer, and philanthropist. In 2007, she founded the [Oprah Winfrey Leadership Academy Foundation](http://www.owla.co.za/). The foundation was established to fund the Oprah Winfrey Leadership Academy for Girls – South Africa.
+Everyone knows who Oprah is, but in case you don't, she is an American media proprietor, talk show host, actress, producer, and philanthropist. In 2007, she founded the [Oprah Winfrey Leadership Academy Foundation](http://www.owla.co.za/). The foundation was established to fund the Oprah Winfrey Leadership Academy for Girls – South Africa. The academy is a girls-only boarding school in XX. All girls who have graduated from this academy have gone on to college. 
 
 ## 3. Beyoncé Knowles-Carter
 
@@ -83,7 +83,7 @@ Read more about Africa's female philanthropists [here](http://fortune.com/2016/0
 
 ![priscilla-6d7bd1.jpg](/uploads/priscilla-6d7bd1.jpg)
 
-Priscilla is an American philanthropist and pediatrician. She and her husband, Mark Zuckerberg, founded the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) in 2015. The mission of the foundation is pretty lofty: Helping cure, prevent or manage all diseases in our children’s lifetime. They also want to empower communities so that children get the best education possible. 
+Priscilla is an American philanthropist and pediatrician. She and her husband, Mark Zuckerberg, founded the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) in 2015. The mission of the foundation is pretty lofty: Helping cure, prevent or manage all diseases in our children’s lifetime. They also want to empower communities so that children get the best education possible.
 
 ## 9. Jennifer Buffett
 
