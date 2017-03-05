@@ -38,7 +38,7 @@ There are women all over the world doing work that uplifts others. This week, I 
 
 ![melinda-8c3010.jpg](/uploads/melinda-8c3010.jpg)
 
-Melinda and her husband, Bill Gates, founded the [Bill and Melinda Gates Foundation](http://www.gatesfoundation.org/) in 2000.
+Melinda is an American philanthropist and computer scientist. Melinda and her husband, Bill Gates, founded the [Bill and Melinda Gates Foundation](http://www.gatesfoundation.org/) in 2000. As of 2014, the Gateses have donated $28 billion to their foundation.  The Gates Foundation [works on](http://www.gatesfoundation.org/What-We-Do) global health, global development, education in the United States, and more. 
 
 ## 2. Oprah Winfrey
 
