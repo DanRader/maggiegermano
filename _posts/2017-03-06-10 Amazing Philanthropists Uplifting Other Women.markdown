@@ -61,11 +61,9 @@ Beyoncé has given the world a lot. Lemonade, alone, is the contribution of a li
 
 Isabel Allende is a Chilean-American author and philanthropist. Isabel founded the [Isabel Allende Foundation](http://www.isabelallendefoundation.org/en/story) in 1995 to support the empowerment of women and girls worldwide. The foundation invests in securing reproductive rights, economic independence and freedom from violence for women and girls, predominantly in Chile and California.
 
-## 5. Jada Pinkett-Smith
+## 5. Lyda Hill
 
-![jada-9eeb1b.jpg](/uploads/jada-9eeb1b.jpg)
-
-Jada and her husband, Will Smith, founded the [Will and Jada Smith Family Foundation](http://www.wjsff.org/) in XX.
+Lyda Hill is an American investor and philanthropist.
 
 ## 6. Layne Beachley
 
