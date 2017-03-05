@@ -52,20 +52,19 @@ Everyone knows who Oprah is, but in case you don't, she is an American media pro
 
 ![yonce.jpg](/uploads/yonce.jpg)
 
-Beyoncé has given the world a lot. Lemonade, alone, is the contribution of a lifetime. However, she's been philanthropic in other ways too. Beyoncé founded [Chime for Change](http://www.chimeforchange.org/) with Salma Hayek in 2013. This organization aims to raise funds and awareness for projects promoting education, health, and justice for girls and women. In 2016, she and Jay-Z donated $1.5 million to [Black Lives Matter](http://blacklivesmatter.com/).
+Beyoncé has given the world a lot. Lemonade, alone, is the contribution of a lifetime. However, she's been philanthropic in other ways too. Beyoncé founded [Chime for Change](http://www.chimeforchange.org/) with Salma Hayek in 2013. This organization aims to raise funds and awareness for projects promoting education, health, and justice for girls and women. So far, they have funded 409 projects in 86 countries. In 2016, she and Jay-Z donated $1.5 million to [Black Lives Matter](http://blacklivesmatter.com/).
 
 ## 4. Isabel Allende
 
-![isabel.jpg](/uploads/isabel.jpg)\
-*(Photo by Lori Barra)*
+![isabel.jpg](/uploads/isabel.jpg)
 
 Isabel Allende is a Chilean-American author and philanthropist. Isabel founded the [Isabel Allende Foundation](http://www.isabelallendefoundation.org/en/story) in 1995 to support the empowerment of women and girls worldwide. The foundation invests in securing reproductive rights, economic independence and freedom from violence for women and girls, predominantly in Chile and California.
 
-## 5. Jada Pinkett-Smith
+## 5. Lyda Hill
 
-![jada-9eeb1b.jpg](/uploads/jada-9eeb1b.jpg)
+![Lyda-Hill.jpg](/uploads/Lyda-Hill.jpg)
 
-Jada and her husband, Will Smith, founded the [Will and Jada Smith Family Foundation](http://www.wjsff.org/) in XX.
+Lyda Hill is an American entrepreneur and philanthropist. She created the [Lyda Hill Foundation](http://www.lydahillfoundation.org/) in 1997, which focuses on funding advances in science and nature, empowering nonprofit organizations, and to improving the North Texas and Colorado Springs communities. More recently, Lyda has focused on breast cancer research, to which she donated $25 million in 2015. She also founded the [Oklahoma Breast Care Center](https://www.oumedicine.com/oumedicine/adult-services/women's-health/breast-health-network) and [Remeditex Ventures](http://www.remeditex.com/), a venture capital fund that invests in early biomedical research.
 
 ## 6. Layne Beachley
 
@@ -85,13 +84,13 @@ Read more about Africa's female philanthropists [here](http://fortune.com/2016/0
 
 ![priscilla-6d7bd1.jpg](/uploads/priscilla-6d7bd1.jpg)
 
-Priscilla is an American philanthropist and pediatrician. She and her husband, Mark Zuckerberg, founded the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) in 2015. The mission of the foundation is pretty lofty: Helping cure, prevent or manage all diseases in our children’s lifetime. They also want to empower communities so that children get the best education possible. They have so far pledged $3 billion towards this effort, but have promised to donate 99% of Facebook's shared, which amounts to $45 billion.
+Priscilla is an American philanthropist and pediatrician. She and her husband, Mark Zuckerberg, founded the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/) in 2015. The mission of the foundation is pretty lofty: Helping cure, prevent or manage all diseases in our children’s lifetime. They also want to empower communities so that children get the best education possible. They have so far pledged $3 billion towards this effort, but have promised to donate 99% of Facebook's shared, which amounts to about $45 billion.
 
 ## 9. Jennifer Buffett
 
 ![jennifer-75f5d4.jpg](/uploads/jennifer-75f5d4.jpg)
 
-Jennifer and her husband, Peter Buffett, founded the [NoVo Foundation](http://novofoundation.org/) in 2006, though she's been a philanthropist since 1997. Her foundation's mission is to empower girls and women worldwide and to end violence and exploitation against them. Jennifer also sits on the board of the Nike Foundation to promote [Girl Effect](http://www.girleffect.org/) and the economic and social empowerment of adolescent girls in the developing world.
+Jennifer and her husband, Peter Buffett, founded the [NoVo Foundation](http://novofoundation.org/) in 2006, though she's been a philanthropist since 1997. Her foundation's mission is to empower girls and women worldwide and to end violence and exploitation against them. Jennifer also sits on the board of the Nike Foundation to promote the [Girl Effect](http://www.girleffect.org/) and the economic and social empowerment of adolescent girls in the developing world. She is also on the board of [V-Day](http://www.vday.org/).
 
 ## 10. Liya Kebede
 
