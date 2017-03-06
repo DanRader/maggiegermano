@@ -1,4 +1,6 @@
-<div class="container blog-list-wrapper" id="blog-list-wrapper">
+
+<div class="blog-list-wrapper">
+<div class="container" data-page="{{ paginator.page }}" data-totalPages="{{ paginator.total_pages }}">
 
 {% for post in paginator.posts %}
 
@@ -22,4 +24,12 @@
   {% endif %}
 
 {% endfor %}
+
+  <div id="pagination" class="center">
+    {% if paginator.next_page %}
+    <a class="page-next" href="{{ paginator.next_page_path }}"><button class="on-white--ghost" type="button" name="load more">Load More</button></a>
+    {% endif %}
+  </div>
+
+</div>
 </div>
