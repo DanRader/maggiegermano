@@ -1,5 +1,5 @@
 ---
-title: 10 Kickass Entrepreneurs Helping Get Your Money Right
+title: 5 Kickass Entrepreneurs Helping Get Your Money Right
 date: 2017-03-13 11:00:00 -04:00
 published: false
 categories:
