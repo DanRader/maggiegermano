@@ -11,6 +11,15 @@ tags:
 - money
 - personal finance
 - empowerment
+- alexa von tobel
+- learnvest
+- tonya rapley
+- amanda steinberg
+- dailyworth
+- worthfm
+- tiffany aliche
+- sally krawchek
+- ellevest
 tweet: 'These #entrepreneurs want you to get your #money right! #women #womenshistory'
 posts:
 - 10 Amazing Philanthropists Uplifting Other Women Worldwide
@@ -18,10 +27,16 @@ posts:
 - Why I Became a Financial Coach for Women
 ---
 
-I've already written about Oprah Winfrey and Beyonce, so I won't repeat them here. But they are both powerful philanthropists AND entrepreneurs.
+When I sat down to write this article, the entrepreneurs who kept popping into my head are those who work in personal finance. Maybe I'm biased. 
 
 ## Alexa Von Tobel
 
+Alexa might be the reason I became a financial coach for women. Year ago, I stumbled upon LearnVest, bought her book Financially Fearless, and saw her speak on her book tour. Her passion 
+
+## Tonya Rapley
+
 ## Amanda Steinberg
+
+## Tiffany Aliche
 
 ## Sally Krawcheck
