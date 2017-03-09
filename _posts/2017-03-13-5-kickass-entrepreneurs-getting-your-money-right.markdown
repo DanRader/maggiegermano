@@ -27,7 +27,7 @@ posts:
 - Why I Became a Financial Coach for Women
 ---
 
-When I sat down to write this article, the entrepreneurs who kept popping into my head are those who work in personal finance. Maybe I'm biased. But hey, this is a personal finance blog, so let's talk about people who want to help you get your money right!
+When I sat down to write this article, the entrepreneurs who kept popping into my head are those who work in personal finance. Maybe I'm biased. But hey, this is a personal finance blog, so let's talk about women who want to help you get your money right!
 
 ## Alexa Von Tobel
 
