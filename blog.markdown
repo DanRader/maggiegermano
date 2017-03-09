@@ -1,8 +1,0 @@
----
-title: Blog
-date: 2016-11-03 18:53:00 -04:00
-position: 3
-is-menu: true
-layout: blog
----
-

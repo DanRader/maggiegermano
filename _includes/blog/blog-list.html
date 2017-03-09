@@ -1,0 +1,35 @@
+
+<div class="blog-list-wrapper">
+<div class="container" data-page="{{ paginator.page }}" data-totalPages="{{ paginator.total_pages }}">
+
+{% for post in paginator.posts %}
+
+  {% assign loopindex = forloop.index | modulo: 5 %}
+
+  {% if loopindex == 1 %}
+    <div class="row blog-list"> {% include blog/list-item.html %}
+  {% elsif loopindex == 2 %}
+    {% include blog/list-item.html %}
+  {% elsif loopindex == 3 %}
+    {% include blog/list-item.html %} </div>
+
+  {% elsif loopindex == 4 %}
+    <div class="row blog-list">{% include blog/list-item.html %}
+  {% elsif loopindex == 0 %}
+    {% include blog/list-item__highlight.html %} </div>
+  {% endif %}
+
+  {% if forloop.last == true %}
+    </div>
+  {% endif %}
+
+{% endfor %}
+
+  <div id="pagination" class="center">
+    {% if paginator.next_page %}
+    <a class="page-next" href="{{ paginator.next_page_path }}"><button class="on-white--ghost" type="button" name="load more">Load More</button></a>
+    {% endif %}
+  </div>
+
+</div>
+</div>
