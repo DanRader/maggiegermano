@@ -27,11 +27,11 @@ posts:
 - Why I Became a Financial Coach for Women
 ---
 
-When I sat down to write this article, the entrepreneurs who kept popping into my head are those who work in personal finance. Maybe I'm biased. 
+When I sat down to write this article, the entrepreneurs who kept popping into my head are those who work in personal finance. Maybe I'm biased. But hey, this is a personal finance blog, so let's talk about people who want to help you get your money right!
 
 ## Alexa Von Tobel
 
-Alexa might be the reason I became a financial coach for women. Year ago, I stumbled upon LearnVest, bought her book Financially Fearless, and saw her speak on her book tour. Her passion 
+Alexa might be the reason I became a financial coach for women. Years ago, I stumbled upon LearnVest, bought her book Financially Fearless, and saw her speak on her book tour. Her passion
 
 ## Tonya Rapley
 
