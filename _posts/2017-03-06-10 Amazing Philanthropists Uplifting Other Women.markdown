@@ -33,7 +33,7 @@ Happy Women's History Month! For the month of March each year, women get a shout
 
 There are women all over the world doing work that uplifts others. This week, I want to focus on powerful female philanthropists. Did I miss anyone? Share with me on [Twitter](twitter.com/maggiegermano) or in the comments!
 
-## 1. Melinda Gates 
+## 1. Melinda Gates  
 
 ![melinda-8c3010.jpg](/uploads/melinda-8c3010.jpg)
 
