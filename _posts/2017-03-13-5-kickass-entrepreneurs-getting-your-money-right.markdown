@@ -35,7 +35,7 @@ When I sat down to write this article, the entrepreneurs who kept popping into m
 
 ![alexa.jpg](/uploads/alexa.jpg)
 
-Alexa Von Tobel is the founder and CEO of LearnVest, a personal finance website and budgeting program. Alexa might actually be the reason I became a financial coach for women. Years ago, I stumbled upon LearnVest, bought her book [Financially Fearless](https://www.amazon.com/dp/B00DTEMGF6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), and saw her speak on her book tour. Her story and passion for financial health really left a mark on me.  I still use LearnVest as my budgeting tool, and share their advice.
+Alexa Von Tobel is the founder and CEO of [LearnVest](https://www.learnvest.com/?utm_source=CJ&utm_medium=affiliate&utm_campaign=wellness&utm_content=yoga_300x250), a personal finance website and budgeting program. Alexa might actually be the reason I became a financial coach for women. Years ago, I stumbled upon LearnVest, bought her book [Financially Fearless](https://www.amazon.com/dp/B00DTEMGF6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), and saw her speak on her book tour. Her story and passion for financial health really left a mark on me.  I still use [LearnVest](https://www.learnvest.com/?utm_source=CJ&utm_medium=affiliate&utm_campaign=wellness&utm_content=yoga_300x250) as my free budgeting tool, and often share their advice.
 
 ## Tonya Rapley
 
