@@ -54,7 +54,7 @@ Tonya Rapley is the creator of [My Fab Finance](www.myfabfinance.com), which she
 
 ![tiffany.jpg](/uploads/tiffany.jpg)
 
-Tiffany Aliche is [The Budgetnista](http://thebudgetnista.com/). Since 2008, she has taught financial empowerment to her followers. Tiffany is the author of two bestselling books: [The One Week Budget](https://www.amazon.com/dp/B005110B84/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) and [Live Richer Challenge](https://www.amazon.com/Live-Richer-Challenge-budget-improve-ebook/dp/B00RYBGMH8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1489080781&sr=1-1&keywords=live\+richer\+challenge).
+Tiffany Aliche is [The Budgetnista](http://thebudgetnista.com/). Since 2008, she has taught financial empowerment to her followers. She's bravely shared the ups and downs of her financial life , in order to show others how to change their  own lives. Tiffany is the author of two bestselling books: [The One Week Budget](https://www.amazon.com/dp/B005110B84/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) and [Live Richer Challenge](https://www.amazon.com/Live-Richer-Challenge-budget-improve-ebook/dp/B00RYBGMH8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1489080781&sr=1-1&keywords=live\+richer\+challenge).
 
 ## Sallie Krawcheck
 
