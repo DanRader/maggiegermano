@@ -39,7 +39,7 @@ Tonya is the CEO of My Fab Finance, which she started..
 
 ## Amanda Steinberg
 
-Amanda is the CEO of DailyWorth and WorthFM.
+Amanda is the CEO of DailyWorth and WorthFM. She launched DailyWorth in 2009 to create a space 
 
 ## Tiffany Aliche
 
