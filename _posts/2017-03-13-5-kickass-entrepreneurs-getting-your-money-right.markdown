@@ -41,7 +41,7 @@ Alexa Von Tobel is the founder and CEO of LearnVest, a personal finance website 
 
 ![tonya.jpg](/uploads/tonya.jpg)
 
-Tonya is the CEO of My Fab Finance, which she started..
+Tonya Rapley is the creator of [My Fab Finance](www.myfabfinance.com), which she started to use her own story and experiences to empower women and girls of all ages with tools needed to change their lives. 
 
 ## Amanda Steinberg
 
