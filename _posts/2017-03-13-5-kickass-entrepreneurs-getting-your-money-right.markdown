@@ -33,21 +33,31 @@ When I sat down to write this article, the entrepreneurs who kept popping into m
 
 ## Alexa Von Tobel
 
+![alexa.jpg](/uploads/alexa.jpg)
+
 Alexa Von Tobel is the founder and CEO of LearnVest, a personal finance website and budgeting program. Alexa might actually be the reason I became a financial coach for women. Years ago, I stumbled upon LearnVest, bought her book [Financially Fearless](https://www.amazon.com/dp/B00DTEMGF6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), and saw her speak on her book tour. Her passion 
 
 ## Tonya Rapley
+
+![tonya.jpg](/uploads/tonya.jpg)
 
 Tonya is the CEO of My Fab Finance, which she started..
 
 ## Amanda Steinberg
 
+![amanda-steinberg.jpg](/uploads/amanda-steinberg.jpg)
+
 Amanda is the CEO of DailyWorth and WorthFM. She launched DailyWorth in 2009 to create a space 
 
 ## Tiffany Aliche
 
+![tiffany.jpg](/uploads/tiffany.jpg)
+
 Tiffany is the CEO of Budgetnista.
 
 ## Sallie Krawcheck
+
+![sallie.jpg](/uploads/sallie.jpg)
 
 Sallie is the CEO of Ellevate and Ellevest.
 
