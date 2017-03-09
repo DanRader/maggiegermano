@@ -20,6 +20,7 @@ tags:
 - tiffany aliche
 - ellevest
 - sallie krawcheck
+image: "/uploads/hustle.jpg"
 tweet: 'These #entrepreneurs want you to get your #money right! #women #womenshistory'
 posts:
 - 10 Amazing Philanthropists Uplifting Other Women Worldwide
