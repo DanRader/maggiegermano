@@ -54,12 +54,14 @@ Tonya Rapley is the creator of [My Fab Finance](www.myfabfinance.com), which she
 
 ![tiffany.jpg](/uploads/tiffany.jpg)
 
-Tiffany is the CEO of Budgetnista.
+Tiffany Aliche is [The Budgetnista](http://thebudgetnista.com/). Since 2008, she has taught financial empowerment to her followers. Tiffany is the author of two bestselling books: [The One Week Budget](https://www.amazon.com/dp/B005110B84/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) and [Live Richer Challenge](https://www.amazon.com/Live-Richer-Challenge-budget-improve-ebook/dp/B00RYBGMH8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1489080781&sr=1-1&keywords=live\+richer\+challenge).
 
 ## Sallie Krawcheck
 
 ![sallie.jpg](/uploads/sallie.jpg)
 
 Sallie Krawcheck is the CEO and co-founder of [Ellevest](ellevest.com), a digital investment advisor for women, and the owner and chair of [Ellevate Network](ellevatenetwork.com), a professional women's network. (I personally use [Ellevest](ellevest.com) for my IRA and other investments and recently joined Ellevate.) Sallie started out as a wealth manager on Wall Street. Since leaving that world, she's spoken very openly about sexual harassment in the workplace and financial inequality. She recently released a book called [Own It](https://www.amazon.com/Own-Power-Women-at-Work-ebook/dp/B01FPH2MJ4/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1489080171&sr=1-1&keywords=sally\+krawcheck). 
+
+Are there other amazing entrepreneurs whom you love? Share in the comments below!
 
 *Learn about more women entrepreneurs [here](https://www.entrepreneur.com/slideshow/254071) and [here](http://fortune.com/2015/09/09/2015-most-promising-women-entrepreneurs/).*
