@@ -42,7 +42,7 @@ Alexa Von Tobel is the founder and CEO of [LearnVest](https://www.learnvest.com/
 
 ![tonya-e93cf7.jpg](/uploads/tonya-e93cf7.jpg)
 
-Tonya Rapley is the creator of [My Fab Finance](www.myfabfinance.com), which she started to use her own story and experiences to empower women and girls of all ages with tools needed to change their lives. Today, Tonya is a nationally recognized millennial money expert. Her mission, like mine, is to help millennials break the cycle of living paycheck to paycheck so that they can become financially free and do more of what they love. 
+Tonya Rapley is the creator of [My Fab Finance](www.myfabfinance.com), which she started to use her own story and experiences to empower women and girls of all ages with tools needed to change their lives. Today, Tonya is a nationally recognized millennial money expert. Her mission, like mine, is to help millennials break the cycle of living paycheck to paycheck so that they can become financially free and do more of what they love. Tonya offers online courses and travels the country speaking and teaching workshops.
 
 ## Amanda Steinberg
 
