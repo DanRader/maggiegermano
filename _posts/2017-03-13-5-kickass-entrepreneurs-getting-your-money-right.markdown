@@ -35,8 +35,16 @@ Alexa might be the reason I became a financial coach for women. Years ago, I stu
 
 ## Tonya Rapley
 
+Tonya is the CEO of My Fab Finance, which she started..
+
 ## Amanda Steinberg
+
+Amanda is the CEO of DailyWorth and WorthFM. 
 
 ## Tiffany Aliche
 
+Tiffany is the CEO of Budgetnista.
+
 ## Sally Krawcheck
+
+Sally is the CEO of Ellevate and Ellevest. 
