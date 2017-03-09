@@ -19,7 +19,7 @@ tags:
 - worthfm
 - tiffany aliche
 - ellevest
-- sally krawcheck
+- sallie krawcheck
 tweet: 'These #entrepreneurs want you to get your #money right! #women #womenshistory'
 posts:
 - 10 Amazing Philanthropists Uplifting Other Women Worldwide
@@ -45,6 +45,6 @@ Amanda is the CEO of DailyWorth and WorthFM.
 
 Tiffany is the CEO of Budgetnista.
 
-## Sally Krawcheck
+## Sallie Krawcheck
 
-Sally is the CEO of Ellevate and Ellevest.
+Sallie is the CEO of Ellevate and Ellevest.
