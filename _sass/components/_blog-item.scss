@@ -1,7 +1,7 @@
 // blog list——used on the homepage and related post
 
 .blog-list {
-  padding-bottom: 6%;
+  padding-bottom: 4%;
 }
 
   .blog-list > .col {
@@ -31,19 +31,15 @@
 
 .blog-list-content {
   padding: 15px 14px 15px 14px;
-  h3 {
-    font-family: 'Playfair Display', serif;
-    font-weight: 800;
-    font-size: 21px;
-    color: $grey;
-    line-height: 29px;
-    letter-spacing: 0.3px;
-    margin-bottom: 6px;
-  }
-  > p {
-    font-size: 15px;
-    line-height: 25px;
-  }
+}
+
+.blog-list-content > h3 {
+  font-family: 'Playfair Display', serif;
+  font-weight: 800;
+  font-size: 21px;
+  color: $grey;
+  line-height: 29px;
+  letter-spacing: 0.3px;
 }
 
 .blog-list-wrapper {

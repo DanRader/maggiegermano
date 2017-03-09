@@ -22,7 +22,6 @@ posts:
 - Why Credit Card Interest Sucks and What You Could Be Spending It On Instead
 ---
 
-<<<<<<< HEAD
 I am often asked about the difference between "good" debt and "bad" debt. I put them in quotes because using qualifiers tends to make people feel bad about themselves, and I want to avoid that.  In my experience, all debt usually *feels* bad, because you owe someone else money, but not all debt is equal.
 
 > In my experience, all debt usually *feels* bad, because you owe someone else money, but not all debt is equal.
@@ -44,6 +43,3 @@ Other examples of good debt are car loans and home equity loans. However, since 
 All this being said, having a credit card is not a bad thing. If you pay off your balance each month, your [credit score](https://www.maggiegermano.com/blog/care-about-your-credit-score) will not be hurt. The problem arises when you have credit card debt over a long period of time, because you owe more and more to credit card companies. This can hurt your credit score and prevent you from building up savings. (Not to mention it will stress you out.)
 
 The moral of the story is that we will all probably have debt at some point in our lives. Debt is not inherently bad. In fact, having credit history is really important when trying to build up your credit score. It's just important that the debt you have is giving you something in return, rather than just emptying your bank account.
-=======
-test
->>>>>>> new-blog-list

@@ -1,3 +1,5 @@
+
+
 <header>
     <div class="navbar-fixed">
       <nav>
@@ -7,20 +9,12 @@
 
 
           <ul class="right hide-on-med-and-down">
-            <!-- {% assign sorted-p = site.pages | sort: 'position'  %}
+            {% assign sorted-p = site.pages | sort: 'position' %}
               {% for p in sorted-p %}
                 {% if p.is-menu == true %}
-                 <li class="{% if p.url == page.url or page.url contains p.url %}active{% endif %} nav-links"><a href="{{ p.url }}">{{ p.url }}</a>
+                 <li class="{% if p.url == page.url or page.url contains p.url %}active{% endif %} nav-links"><a href="{{ p.url }}">{{ p.title }}</a>
                 {% endif %}
-             {% endfor %} -->
-
-
-             {% assign current = page.url | downcase | split: '/' %}
-
-                  <li class="{% if current contains 'coaching' %}active {% endif %}nav-links"><a href='/coaching'>Coaching</a></li>
-                  <li class="{% if current contains 'moneycircle' %}active {% endif %}nav-links"><a href='/moneycircle'>Money Circle</a></li>
-                  <li class="{% if current contains 'blog' %}active {% endif %}nav-links"><a href='/blog'>Blog</a></li>
-
+             {% endfor %}
             <li class="nav-links"> <a href="#contact-footer">Contact</a></li>
            <li><button data-target="modal-subscribe" class="subscribe-btn modal-trigger">Subscribe</button>
            </li>
