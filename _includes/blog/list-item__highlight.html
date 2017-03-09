@@ -1,4 +1,4 @@
-<div class="col m4 list-item">
+<div class="col m8">
   <a href="{{ post.url | prepend: site.baseurl }}">
    <section class="blog-list-item">
      <div class="blog-list-image cover" style="background-image: url('{{ post.image }}');">
@@ -6,7 +6,7 @@
      <div class="blog-list-content">
        {% include home/list-cat-2.html %}
          <h3>{{ post.title }}</h3>
-         <p>{{ post.excerpt | truncatewords:25 | strip_html }}</p>
+         <p>{{ post.excerpt | truncatewords:60 | strip_html }}</p>
          <div class="read-button">
              <i class="text-button fa fa-long-arrow-right" aria-hidden="true"></i>
              <p>Read Article</p>

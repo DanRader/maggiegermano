@@ -48,6 +48,17 @@ button.reversed:focus {
   }
 }
 
+.on-white--ghost {
+  color: $maggie-green;
+  border: 1px solid $maggie-green;
+  transition: .3s ease-in-out;
+  &:hover{
+    box-shadow: 2px 14px 40px -5px rgba(6, 144, 136, 0.43);
+    transform: translateY(-1px)
+  }
+}
+
+
 .button-fa {
   margin-right: 8px;
   margin-left: -6px;
