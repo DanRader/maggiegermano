@@ -18,8 +18,8 @@ tags:
 - dailyworth
 - worthfm
 - tiffany aliche
-- sally krawchek
 - ellevest
+- sally krawcheck
 tweet: 'These #entrepreneurs want you to get your #money right! #women #womenshistory'
 posts:
 - 10 Amazing Philanthropists Uplifting Other Women Worldwide
@@ -31,7 +31,7 @@ When I sat down to write this article, the entrepreneurs who kept popping into m
 
 ## Alexa Von Tobel
 
-Alexa might be the reason I became a financial coach for women. Years ago, I stumbled upon LearnVest, bought her book Financially Fearless, and saw her speak on her book tour. Her passion
+Alexa Von Tobel is the founder and CEO of LearnVest, a personal finance website and budgeting program. Alexa might actually be the reason I became a financial coach for women. Years ago, I stumbled upon LearnVest, bought her book [Financially Fearless](https://www.amazon.com/dp/B00DTEMGF6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), and saw her speak on her book tour. Her passion 
 
 ## Tonya Rapley
 
@@ -39,7 +39,7 @@ Tonya is the CEO of My Fab Finance, which she started..
 
 ## Amanda Steinberg
 
-Amanda is the CEO of DailyWorth and WorthFM. 
+Amanda is the CEO of DailyWorth and WorthFM.
 
 ## Tiffany Aliche
 
@@ -47,4 +47,4 @@ Tiffany is the CEO of Budgetnista.
 
 ## Sally Krawcheck
 
-Sally is the CEO of Ellevate and Ellevest. 
+Sally is the CEO of Ellevate and Ellevest.
