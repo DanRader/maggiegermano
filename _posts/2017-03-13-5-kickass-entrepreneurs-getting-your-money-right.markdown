@@ -51,4 +51,4 @@ Tiffany is the CEO of Budgetnista.
 
 Sallie is the CEO of Ellevate and Ellevest.
 
-Learn about more women entrepreneurs [here](https://www.entrepreneur.com/slideshow/254071) and here.
+*Learn about more women entrepreneurs [here](https://www.entrepreneur.com/slideshow/254071) and [here](http://fortune.com/2015/09/09/2015-most-promising-women-entrepreneurs/).*
