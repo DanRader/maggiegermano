@@ -60,6 +60,6 @@ Tiffany is the CEO of Budgetnista.
 
 ![sallie.jpg](/uploads/sallie.jpg)
 
-Sallie Krawcheck is the CEO and co-founder of [Ellevest](ellevest.com), a digital investment advisor for women, and the owner and chair of [Ellevate Network](ellevatenetwork.com), a professional women's network. I personally use Ellevest for my IRA and other investments.
+Sallie Krawcheck is the CEO and co-founder of [Ellevest](ellevest.com), a digital investment advisor for women, and the owner and chair of [Ellevate Network](ellevatenetwork.com), a professional women's network. She recently released a book called [Own It](https://www.amazon.com/Own-Power-Women-at-Work-ebook/dp/B01FPH2MJ4/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1489080171&sr=1-1&keywords=sally\+krawcheck). I personally use [Ellevest](ellevest.com) for my IRA and other investments.
 
 *Learn about more women entrepreneurs [here](https://www.entrepreneur.com/slideshow/254071) and [here](http://fortune.com/2015/09/09/2015-most-promising-women-entrepreneurs/).*
