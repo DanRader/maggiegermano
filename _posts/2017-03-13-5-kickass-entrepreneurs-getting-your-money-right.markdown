@@ -47,7 +47,7 @@ Tonya Rapley is the creator of [My Fab Finance](www.myfabfinance.com), which she
 
 ![amanda-steinberg.jpg](/uploads/amanda-steinberg.jpg)
 
-Amanda is the CEO of DailyWorth and WorthFM. She launched DailyWorth in 2009 to create a space 
+[Amanda Steinberg](https://www.amandasteinberg.net/) is the founder of [DailyWorth](dailyworth.com), a woman-focused personal finance website, and [WorthFM](worthfm.com), a digital investing service for women. She launched DailyWorth in 2009 to create a space where financial advice was geared towards people who are not part of the financial industry. 
 
 ## Tiffany Aliche
 
@@ -59,6 +59,6 @@ Tiffany is the CEO of Budgetnista.
 
 ![sallie.jpg](/uploads/sallie.jpg)
 
-Sallie is the CEO of Ellevate and Ellevest.
+Sallie Krawcheck is the CEO and co-founder of [Ellevest](ellevest.com), a digital investment advisor for women, and the owner and chair of [Ellevate Network](ellevatenetwork.com), a professional women's network.
 
 *Learn about more women entrepreneurs [here](https://www.entrepreneur.com/slideshow/254071) and [here](http://fortune.com/2015/09/09/2015-most-promising-women-entrepreneurs/).*
