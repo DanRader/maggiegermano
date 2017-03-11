@@ -13,7 +13,7 @@ tags:
 - fun
 - goals
 - dreams
-image: "/uploads/f7ae07c0-2c42-4034-affb-1b805d25debc.jpeg"
+image: "/uploads/compass.jpg"
 tweet: 3 More Ways to Spend Less While You Travel
 posts:
 - How to Vacation on a Budget
