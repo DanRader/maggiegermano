@@ -17,7 +17,7 @@ tags:
 - podcasts
 - coaching
 - financial coach
-image: "/uploads/e2beb490-bbd2-47b7-a4e0-4e94782cef92.jpeg"
+image: "/uploads/books.jpg"
 tweet: 'Don''t know where to start w/ #personalfinance? Check these resources!'
 posts:
 - The Personal Finance Checklist To Make Sure You’re Financially Healthy
