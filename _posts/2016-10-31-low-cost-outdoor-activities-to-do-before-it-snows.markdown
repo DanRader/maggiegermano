@@ -18,7 +18,7 @@ tags:
 - relationships
 - goals
 - frugal
-image: "/uploads/thiy-n_llfy-gabriel-garcia-marengo.jpg"
+image: "/uploads/autumn.jpg"
 tweet: 'Get outside for cheap before it snows! #budget #fun'
 posts:
 - You Can Have Fun with Your Friends While Spending Less
