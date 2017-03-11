@@ -20,7 +20,7 @@ tags:
 - frugal
 - interest
 - savings
-image: "/uploads/ocrpjce6gpk-vitaly-taranov.jpg"
+image: "/uploads/cash.jpg"
 tweet: 'Find out how I paid off my student loans in 4 years! #debt'
 posts:
 - The Personal Finance Checklist To Make Sure You’re Financially Healthy
