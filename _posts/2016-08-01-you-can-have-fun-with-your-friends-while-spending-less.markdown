@@ -17,7 +17,7 @@ tags:
 - frugal
 - spending
 - relationships
-image: "/uploads/9c7517a2-015b-49fe-861a-1373a0120f20.jpeg"
+image: "/uploads/friends.jpg"
 tweet: Find out how to live frugally without being a recluse!
 posts:
 - Low-Cost Outdoor Activities to Do Before it Snows
