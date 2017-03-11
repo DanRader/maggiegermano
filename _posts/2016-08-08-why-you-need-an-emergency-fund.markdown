@@ -16,7 +16,7 @@ tags:
 - personal finance
 - job loss
 - injury
-image: "/uploads/js09rllu-km-nico-beard.jpg"
+image: "/uploads/police.jpg"
 tweet: Find out why you really do need an emergency fund.
 posts:
 - 9 Easy Changes to Make Now to Spend Less Money
