@@ -20,7 +20,7 @@ tags:
 - core desired feelings
 - desire map
 - personal finance
-image: "/uploads/51b49a05-8054-4135-a3b7-9d5a8bb04685.jpeg"
+image: "/uploads/jumping.jpg"
 tweet: 'I use my money to feel how I want to feel in life. #money #goals'
 posts:
 - 5 Ways to Practice Self Care While on a Budget
