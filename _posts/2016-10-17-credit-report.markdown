@@ -16,7 +16,7 @@ tags:
 - loans
 - credit card
 - indentity theft
-image: "/uploads/17e56893-d993-4d32-8b5c-ec6f2ba0479b.jpeg"
+image: "/uploads/notebook.jpg"
 author: Maggie Germano
 author-desc: 'Certified Financial Education Instructor. Feminist and financial coach
   for women. Founder of Money Circle. '
