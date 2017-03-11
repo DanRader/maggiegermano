@@ -13,7 +13,7 @@ tags:
 - goals
 - dreams
 - interest
-image: "/uploads/8236d717-04e0-400b-9153-4d4a6b8cd30b-78a4f5.jpeg"
+image: "/uploads/high%20voltage.jpg"
 tweet: 'Your #creditscore impacts your future. Pay attention!'
 posts:
 - Why You Should Check Your Credit Report Regularly
