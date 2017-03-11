@@ -28,7 +28,7 @@ posts:
 - Why I Became a Financial Coach for Women
 ---
 
-*This is part two of my celebration of women during Women's History Month. Read my piece about philanthropists [here](https://www.maggiegermano.com/blog/10-Amazing-Philanthropists-Uplifting-Other-Women/).*
+*This is part two of my celebration of women during Women's History Month. Read my piece about  philanthropists [here](https://www.maggiegermano.com/blog/10-Amazing-Philanthropists-Uplifting-Other-Women/).*
 
 When I sat down to write this article, the entrepreneurs who kept popping into my head are those who work in personal finance. Maybe I'm biased. But hey, this is a personal finance blog, so let's talk about women who want to help you get your money right!
 
