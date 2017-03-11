@@ -21,7 +21,7 @@ tags:
 - emergency fund
 - insurance
 - investing
-image: "/uploads/e45b7ff5-f620-4149-86a3-f38157d5a663.jpg"
+image: "/uploads/pen.jpg"
 tweet: Follow this checklist and you're on your way to financial health!
 posts:
 - Why You Need an Emergency Fund
