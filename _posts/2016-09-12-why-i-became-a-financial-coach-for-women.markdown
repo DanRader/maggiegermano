@@ -19,7 +19,7 @@ tags:
 - financial coach
 - support
 - side hustle
-image: "/uploads/spie2jffnl0-chad-madden.jpg"
+image: "/uploads/woman%20mountain.jpg"
 tweet: Why I Became a Financial Coach for Women
 posts:
 - What Volunteering For The DC Abortion Fund Taught Me About Money
