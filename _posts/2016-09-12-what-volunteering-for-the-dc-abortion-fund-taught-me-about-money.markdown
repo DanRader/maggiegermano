@@ -21,7 +21,7 @@ tags:
 - causes
 - healthcare
 - financial freedom
-image: "/uploads/2tlasvhqil0-eutah-mizushima.jpg"
+image: "/uploads/girl%20on%20a%20train.jpg"
 tweet: Reproductive choice is directly connected to how much money you have.
 posts:
 - Why You Need an Emergency Fund
