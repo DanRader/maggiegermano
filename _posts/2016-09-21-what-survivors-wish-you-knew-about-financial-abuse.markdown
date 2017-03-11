@@ -16,7 +16,7 @@ tags:
 - dreams
 - empowerment
 - support
-image: "/uploads/fcf7bb07-fbe2-4f8a-a6fc-7f6645d238d4.jpg"
+image: "/uploads/strong%20woman.jpg"
 tweet: Financial abuse is real- and this is what survivors want you to know.
 posts:
 - Why I Became a Financial Coach for Women
