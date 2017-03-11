@@ -49,7 +49,7 @@ defaults:
   values:
     layout: post
     permalink: "/blog/:title/"
-    image: 
+    image:
     author: Maggie Germano
     author-desc: 'Certified Financial Education Instructor. Feminist and financial
       coach for women. Founder of Money Circle. '
