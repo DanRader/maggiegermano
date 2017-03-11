@@ -13,7 +13,7 @@ categories:
 tags:
 - spending
 - money
-image: "/uploads/06a65478-d427-4546-8e3e-62d67c4cae5a.jpeg"
+image: "/uploads/piggy%20bank.jpg"
 tweet: 9 Easy Changes to Make to Spend Less Money
 posts:
 - 5 Ways to Practice Self Care While on a Budget
