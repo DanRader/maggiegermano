@@ -22,7 +22,7 @@ tags:
 - frugal
 - stress
 - prepare
-image: "/uploads/rx1ij59jryu-annie-spratt.jpg"
+image: "/uploads/gift-c2a87a.jpg"
 tweet: You don't have to go broke to give awesome gifts!
 posts:
 - How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
