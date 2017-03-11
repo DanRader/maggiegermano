@@ -28,7 +28,7 @@ posts:
 - Why I Became a Financial Coach for Women
 ---
 
-*This is a continuation of my celebration of women during Women's History Month. Read my piece about philanthropists [here](https://www.maggiegermano.com/blog/10-Amazing-Philanthropists-Uplifting-Other-Women/).*
+*This is part two of my celebration of women during Women's History Month. Read my piece about philanthropists [here](https://www.maggiegermano.com/blog/10-Amazing-Philanthropists-Uplifting-Other-Women/).*
 
 When I sat down to write this article, the entrepreneurs who kept popping into my head are those who work in personal finance. Maybe I'm biased. But hey, this is a personal finance blog, so let's talk about women who want to help you get your money right!
 
@@ -60,7 +60,7 @@ Tiffany Aliche is [The Budgetnista](http://thebudgetnista.com/), a personal fina
 
 ![sallie.jpg](/uploads/sallie.jpg)
 
-Sallie Krawcheck is the CEO and co-founder of [Ellevest](ellevest.com), a digital investment advisor for women, and the owner and chair of [Ellevate Network](ellevatenetwork.com), a professional women's network. (I personally use [Ellevest](ellevest.com) for my IRA and other investments and recently joined Ellevate.) Sallie started out as a wealth manager on Wall Street. Since leaving that world, she's spoken very openly about sexual harassment in the workplace and financial inequality. She recently released a book called [Own It](https://www.amazon.com/Own-Power-Women-at-Work-ebook/dp/B01FPH2MJ4/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1489080171&sr=1-1&keywords=sally\+krawcheck). 
+Sallie Krawcheck is the CEO and co-founder of [Ellevest](ellevest.com), a digital investment advisor for women, and the owner and chair of [Ellevate Network](ellevatenetwork.com), a professional women's network. (I personally use [Ellevest](ellevest.com) for my IRA and other investments and recently joined Ellevate.) Sallie started out as a wealth manager on Wall Street. Since leaving that world, she's spoken very openly about sexual harassment in the workplace and financial inequality. She recently released a book called [Own It](https://www.amazon.com/Own-Power-Women-at-Work-ebook/dp/B01FPH2MJ4/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1489080171&sr=1-1&keywords=sally\+krawcheck).
 
 Are there other amazing entrepreneurs whom you love? Share in the comments below!
 
