@@ -26,7 +26,7 @@ The results of the 2016 presidential election were (and still are) pretty hard t
 
 ![elizabeth.jpg](/uploads/elizabeth.jpg)
 
-xx
+Senator Elizabeth Warren (D-MA) has been in the news recently, thanks to Mitch McConnell. I'm sure you've heard by now that she was warned, she was given an explanation. Nevertheless, [she persisted](http://www.cnn.com/2017/02/08/politics/elizabeth-warren-nevertheless-she-persisted-trnd/). But before Senator Warren gained infamy during Jeff Sessions' confirmation hearing, she made a name for herself in other ways. 
 
 ## Kamala Harris
 
