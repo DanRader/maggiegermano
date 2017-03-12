@@ -8,6 +8,7 @@ tags:
 - womens rights
 - politics
 - politicians
+image: "/uploads/women.jpg"
 posts:
 - 5 Kickass Entrepreneurs Helping Get Your Money Right
 - 10 Amazing Philanthropists Uplifting Other Women Worldwide
