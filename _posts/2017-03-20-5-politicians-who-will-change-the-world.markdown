@@ -51,3 +51,5 @@ xx
 ![ap_kirsten_gillibrand_tk_130612_mn.jpg](/uploads/ap_kirsten_gillibrand_tk_130612_mn.jpg)
 
 xx
+
+*To learn more about exciting up and coming progressive politicians, go [here](https://www.washingtonpost.com/news/the-fix/wp/2017/01/09/11-democratic-women-who-could-run-for-president-in-2020-ranked/?utm_term=.62c0cfe0c308) and [here](http://emilyslist.org/).*
