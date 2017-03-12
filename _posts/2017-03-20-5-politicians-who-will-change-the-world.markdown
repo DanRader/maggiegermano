@@ -19,20 +19,20 @@ The results of the 2016 presidential election were (and still are) pretty hard t
 
 ## Elizabeth Warren
 
-xx
+![elizabeth.jpg](/uploads/elizabeth.jpg)
 
 ## Kamala Harris
 
-xx
+![kamala.jpg](/uploads/kamala.jpg)
 
 ## Tammy Duckworth
 
-xx
+![tammy.jpg](/uploads/tammy.jpg)
 
 ## Tulsi Gabbard
 
-xx
+![tulsi.jpg](/uploads/tulsi.jpg)
 
 ## Kirsten Gillibrand
 
-xx
+![ap_kirsten_gillibrand_tk_130612_mn.jpg](/uploads/ap_kirsten_gillibrand_tk_130612_mn.jpg)
