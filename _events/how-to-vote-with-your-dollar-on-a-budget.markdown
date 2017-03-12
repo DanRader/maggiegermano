@@ -14,7 +14,12 @@ event-date: 2017-04-20 18:30:00 -04:00
 start-time: 6:30PM
 end-time: 8:30PM
 location: Private NW DC Residence (Provided upon RSVP)
+button-text: SIGN ME UP
 is-money-circle: true
 ticket-price: "$15"
 ---
 
+
+Money Circle is a safe open space where women can ask questions, air their fears, brag about accomplishments, and be honest about any confusion they may have around money.
+
+Light snacks and wine will be provided.
