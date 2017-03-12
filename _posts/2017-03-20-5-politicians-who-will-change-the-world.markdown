@@ -14,3 +14,12 @@ posts:
 - Do Your Money Habits Align with Your Values?
 ---
 
+Elizabeth Warren
+
+Kamala Harris
+
+Tammy Duckworth
+
+Tulsi Gabbard
+
+Kirsten Gillibrand
