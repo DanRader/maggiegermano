@@ -24,4 +24,4 @@ highlight3:
 layout: home
 ---
 
-**Break the taboo** of discussing debt, salary, and financial goals. Shake the feeling of anxiety and confusion when it comes to money. Maggie Germano is a Certified Financial Education Instructor and financial coach for women. She's on a mission to give women the support and tools they need to take control of their money and achieve their goals through one-on-one coaching, monthly Money Circle gatherings, writing, and speaking engagements.
+**Break the taboo** of discussing debt, salary, and financial goals. Shake the feeling of anxiety and confusion when it comes to money. Maggie Germano is a Certified Financial Education Instructor and financial coach for women. She's on a mission to give women the support and tools they need to take control of their money and achieve their goals through one-on-one coaching, monthly Money Circle gatherings, writing, and speaking engagements. 
