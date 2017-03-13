@@ -16,6 +16,8 @@ tags:
 - kirsten gillibrand
 - tammy duckworth
 image: "/uploads/women.jpg"
+tweet: 'Missing @hillaryclinton? Here are 5 #women politicians who will change the
+  world. #womenshistory'
 posts:
 - 5 Kickass Entrepreneurs Helping Get Your Money Right
 - 10 Amazing Philanthropists Uplifting Other Women Worldwide
