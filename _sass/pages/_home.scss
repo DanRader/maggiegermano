@@ -1,7 +1,13 @@
+.line1 {
+	animation-delay: .3s;
+}
+
 .line2 {
+	animation-delay: .4s;
 	color: rgba(255,255,255,.82);
 }
 .line3 {
+	animation-delay: .5s;
 	color: rgba(255,255,255,.7);
 }
 
@@ -24,7 +30,7 @@
     padding-bottom: 11px;
 }
 #hero {
-	background-image: linear-gradient(-132deg, #00B3C8 0%, #00C5A2 100%);
+  background-image: linear-gradient(-132deg, #00B3C8 0%, #00C5A2 100%);
 	position: relative;
 	overflow: hidden;
   margin-top: -72px;
@@ -60,6 +66,10 @@
 		height: 70vh;
     min-height: 150px;
 	}
+}
+
+.hero-btn {
+	animation-delay: .6s;
 }
 
 .intro-content {
