@@ -1,0 +1,59 @@
+@keyframes from-left {
+  0% {
+    opacity: 0;
+    transform: translateX(-4rem) scale(.9);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes from-bottom {
+  0% {
+    opacity: 0;
+    transform: translateY(4rem);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes clouds {
+  0% {
+    transform: translateY(1rem);
+  }
+  100% {
+    transform: none;
+  }
+}
+
+@keyframes gradient-shift {
+  0% {
+    opacity: 0;
+    background-image: linear-gradient(-132deg, #00B3C8 100%, #00C5A2 0%);
+  }
+  100% {
+    opacity: 1;
+    background-image: linear-gradient(-132deg, #00B3C8 100%, #00C5A2 0%);
+  }
+}
+
+.animate-from-left {
+  animation: from-left .9s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+  opacity: 0;
+}
+
+.animate-from-bottom {
+  animation: from-bottom 1.5s ease-out forwards;
+  opacity: 0;
+}
+
+.animate-clouds {
+  animation: clouds 1.3s ease-out forwards;
+}
+
+.animate-gradient-shift {
+  animation: gradient-shift 5s infinite;
+}
