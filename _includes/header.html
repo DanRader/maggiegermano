@@ -7,17 +7,10 @@
 
 
           <ul class="right hide-on-med-and-down">
-            <!-- {% assign sorted-p = site.pages | sort: 'position'  %}
-              {% for p in sorted-p %}
-                {% if p.is-menu == true %}
-                 <li class="{% if p.url == page.url or page.url contains p.url %}active{% endif %} nav-links"><a href="{{ p.url }}">{{ p.url }}</a>
-                {% endif %}
-             {% endfor %} -->
-
 
              {% assign current = page.url | downcase | split: '/' %}
 
-                  <li class="{% if current contains 'coaching' %}active {% endif %}nav-links"><a href='/coaching'>Coaching</a></li>
+                  <li><a href='/coaching'>Coaching</a></li>
                   <li class="{% if current contains 'moneycircle' %}active {% endif %}nav-links"><a href='/moneycircle'>Money Circle</a></li>
                   <li class="{% if current contains 'blog' %}active {% endif %}nav-links"><a href='/blog'>Blog</a></li>
 
@@ -29,12 +22,9 @@
           <ul class="side-nav" id="mobile-demo">
             <!-- <img src="/uploads/MaggieG_KO_Mark@3x.svg"> -->
            <li><a href="{{ site.url }}/">Home</a></li>
-           {% assign sorted-p = site.pages | sort: 'position' %}
-            {% for page in sorted-p %}
-              {% if page.is-menu == true %}
-                 <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-              {% endif %}
-            {% endfor %}
+            <li><a href='/coaching'>Coaching</a></li>
+            <li><a href='/moneycircle'>Money Circle</a></li>
+            <li><a href='/blog'>Blog</a></li>
            <li><a href="{{ site.url }}/subscribe">Subscribe</a></li>
            </li>
           </ul>
