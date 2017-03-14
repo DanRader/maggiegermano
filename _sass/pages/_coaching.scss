@@ -32,7 +32,7 @@ border: none !important;
   min-height: 436px;
   max-height: 892px;
     @media #{$media-max-tablet}{
-      height: 61vh;
+      height: 78vh;
       min-height: 136px;
       padding: 4%;
     }
@@ -75,7 +75,7 @@ border: none !important;
   font-size: 46px;
   color: white;
   line-height: 56px;
-  margin-bottom: 2%;
+  margin-bottom: 3%;
     @media #{$media-max-tablet}{
     font-weight: 300;
     font-size: 28px;
@@ -84,23 +84,23 @@ border: none !important;
     margin-bottom: 7%;
     }
 }
-.coach-content > a {
-  font-weight: 300;
-  font-size: 20px;
-  color: white;
-  letter-spacing: 0;
-  line-height: 24px;
-  border-bottom: 1px solid white;
-  padding-bottom: 2px;
-  @media #{$media-max-tablet}{
-    font-size: 17px;
-    line-height: 19px;
-  }
-  &:hover {
-    color: $maggie-green-dark;
-    border-bottom: 1px solid $maggie-green-dark;
-  }
-}
+// .coach-content > a {
+//   font-weight: 300;
+//   font-size: 20px;
+//   color: white;
+//   letter-spacing: 0;
+//   line-height: 24px;
+//   border-bottom: 1px solid white;
+//   padding-bottom: 2px;
+//   @media #{$media-max-tablet}{
+//     font-size: 17px;
+//     line-height: 19px;
+//   }
+//   &:hover {
+//     color: $maggie-green-dark;
+//     border-bottom: 1px solid $maggie-green-dark;
+//   }
+// }
 
 /*coach heading angles*/
 .coach-bg {
