@@ -24,7 +24,7 @@ posts:
 - Do Your Money Habits Align with Your Values?
 ---
 
-*This is part three of my celebration of women during Women’s History Month. Read my piece about philanthropists **[here](https://www.maggiegermano.com/blog/10-Amazing-Philanthropists-Uplifting-Other-Women/)** and my piece about entrepreneurs [here](https://www.maggiegermano.com/blog/5-kickass-entrepreneurs-getting-your-money-right/).*
+*This is part three of my celebration of women during Women’s History Month. Read my piece about philanthropists [here](https://www.maggiegermano.com/blog/10-Amazing-Philanthropists-Uplifting-Other-Women/) and my piece about entrepreneurs [here](https://www.maggiegermano.com/blog/5-kickass-entrepreneurs-getting-your-money-right/).*
 
 The results of the 2016 presidential election were (and still are) pretty hard to stomach. I desperately wanted to see Hillary Clinton as our first woman president, but I also don't think she was our first and only hope. This Women's History Month, let's celebrate a few other politicians who will change the world.
 
