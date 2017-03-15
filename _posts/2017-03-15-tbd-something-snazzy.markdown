@@ -18,6 +18,7 @@ tags:
 - personal finance
 - '529'
 - maryland529
+- maryland
 image: "/uploads/college.jpg"
 ---
 
