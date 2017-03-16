@@ -46,13 +46,13 @@ Warren is an active consumer protection advocate whose input led to the concepti
 
 ![tammy.jpg](/uploads/tammy.jpg)
 
-[Senator Tammy Duckworth](https://www.duckworth.senate.gov/) (D-IL) is also a brand new U.S. Senator, having won her election in November 2016. Previously, she served as the Congressional representative of Illinois' 8th district, since 2013. Senator Duckworth is also an Iraq War veteran, and was the first disabled woman to be elected to the U.S. House of Representatives. In April 2013, she returned 8% of her salary to the Treasury Department, in solidarity with furloughed government employees. 
+[Senator Tammy Duckworth](https://www.duckworth.senate.gov/) (D-IL) is also a brand new U.S. Senator, having won her election in November 2016. Previously, she served as the Congressional representative of Illinois' 8th district, since 2013. Senator Duckworth is also an Iraq War veteran, and was the first disabled woman to be elected to the U.S. House of Representatives. In April 2013, she returned 8% of her salary to the Treasury Department, in solidarity with furloughed government employees. Duckworth supports abortion rights and affordable healthcare, and believes in a pathway to citizenship for undocumented immigrants in the U.S. 
 
 ## Tulsi Gabbard
 
 ![tulsi.jpg](/uploads/tulsi.jpg)
 
-[Congresswoman Tulsi Gabbard](https://gabbard.house.gov/) (D-HI) is..
+[Congresswoman Tulsi Gabbard](https://gabbard.house.gov/) (D-HI) is the Congressional representative for Hawaii's 2nd district.  Elected in 2012, she is the first American Samoan and the first Hindu member of the United States Congress. Before 
 
 ## Kirsten Gillibrand
 
