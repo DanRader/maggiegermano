@@ -20,6 +20,10 @@ tags:
 - maryland529
 - maryland
 image: "/uploads/college.jpg"
+posts:
+- Do Your Money Habits Align with Your Values?
+- 9 Easy Changes to Make Now to Spend Less Money
+- How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
 ---
 
 *Note: This is a sponsored post, which means that I received compensation to write it. However, I would never publish anything that I don’t fully support. If you have questions, please reach out at [hello@maggiegermano.com](mailto:hello@maggiegermano.com).*
