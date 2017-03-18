@@ -59,6 +59,7 @@ defaults:
     - 
     - 
     - 
+    comments: true
 - scope:
     path: ''
     type: categories
