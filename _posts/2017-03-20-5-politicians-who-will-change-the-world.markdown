@@ -52,7 +52,7 @@ Warren is an active consumer protection advocate whose input led to the concepti
 
 ![tulsi.jpg](/uploads/tulsi.jpg)
 
-[Congresswoman Tulsi Gabbard](https://gabbard.house.gov/) (D-HI) is the Congressional representative for Hawaii's 2nd district.  Elected in 2012, she is the first American Samoan and the first Hindu member of the United States Congress. Before being elected to Congress, Gabbard was the youngest member of Hawaii's state legislature, and an Iraq War veteran. She has been an advocate for clean energy development,
+[Congresswoman Tulsi Gabbard](https://gabbard.house.gov/) (D-HI) is the Congressional representative for Hawaii's 2nd district.  Elected in 2012, she is the first American Samoan and the first Hindu member of the United States Congress. Before being elected to Congress, Gabbard was the youngest member of Hawaii's state legislature, and an Iraq War veteran. Her political views have evolved over her time in Congress. She has always been an advocate for clean energy development and environmental protection, but has more recently openly supported LGBT rights and reproductive choice.
 
 ## Kirsten Gillibrand
 
