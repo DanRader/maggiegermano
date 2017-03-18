@@ -1,7 +1,6 @@
 ---
 title: How to Vote with Your Dollar (on a Budget)
 date: 2017-04-13 18:30:00 -04:00
-published: false
 tags:
 - money circle
 - money
