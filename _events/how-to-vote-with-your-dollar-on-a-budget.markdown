@@ -9,7 +9,7 @@ tags:
 - values
 image: "/uploads/shop-1a9e0f.jpg"
 og-image: "/uploads/-Ask%20for%20what%20you%20want%20and%20be%20prepared%20to%20get%20it.-%20(2).png"
-event-date: 2017-04-20 18:30:00 -04:00
+event-date: 2017-04-13 18:30:00 -04:00
 start-time: 6:30PM
 end-time: 8:30PM
 location: Private NW DC Residence (Provided upon RSVP)
