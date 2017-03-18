@@ -20,7 +20,7 @@ posts:
 - Why You Should Care About Your Credit Score
 - How I Paid Off $25,000 In Student Loans In 4 Years Instead Of 10
 - Why Credit Card Interest Sucks and What You Could Be Spending It On Instead
-comments: false
+comments: true
 ---
 
 I am often asked about the difference between "good" debt and "bad" debt. I put them in quotes because using qualifiers tends to make people feel bad about themselves, and I want to avoid that.  In my experience, all debt usually *feels* bad, because you owe someone else money, but not all debt is equal.
