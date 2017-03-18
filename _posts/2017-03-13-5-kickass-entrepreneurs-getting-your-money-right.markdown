@@ -25,6 +25,7 @@ posts:
 - 10 Amazing Philanthropists Uplifting Other Women Worldwide
 - Why It's Important to Get Your Money Right (As a Woman)
 - Why I Became a Financial Coach for Women
+comments: false
 ---
 
 *This is part two of my celebration of women during Women's History Month. Read my piece about  philanthropists [here](https://www.maggiegermano.com/blog/10-Amazing-Philanthropists-Uplifting-Other-Women/).*
