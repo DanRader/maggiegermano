@@ -1,6 +1,6 @@
 ---
 title: How to Vote with Your Dollar (on a Budget)
-date: 2017-03-17 10:00:00 -04:00
+date: 2017-04-13 18:30:00 -04:00
 published: false
 tags:
 - money circle
@@ -19,6 +19,7 @@ is-money-circle: true
 ticket-price: "$15"
 ---
 
+I talk a lot about voting with your dollar and only spending money on companies that share your values. It's a very powerful action. But how realistic is it when you're on a budget? This month, we'll gather to talk about HOW we can vote with our dollar when we don't have a lot of dollars to throw around. 
 
 Money Circle is a safe open space where women can ask questions, air their fears, brag about accomplishments, and be honest about any confusion they may have around money.
 
