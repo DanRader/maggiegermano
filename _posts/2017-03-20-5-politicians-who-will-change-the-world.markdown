@@ -60,4 +60,8 @@ Warren is an active consumer protection advocate whose input led to the concepti
 
 [Senator Kirsten Gillibrand](https://www.gillibrand.senate.gov/) (D-NY) is the junior Senator of New York, replacing Hillary Clinton after she was tapped as Obama's Secretary of State in 2008. Previously, Senator Gillibrand represented New York's 20th district in the U.S. House of Representatives. 
 
+During her time in the House, Gillibrand was seen as fairly conservative. However, since becoming a Senator, she has shifted more towards the left. Gillibrand fought to repeal [Don't Ask, Don't Tell](http://www.nytimes.com/2011/07/23/us/23military.html), has been outspoken about sexual harassment in the workplace (including Congress!), and has advocated for sexual assault victims, both in the military and on college campuses. 
+
+Who is your favorite female politician? How is she changing the world? Share in the comments below!
+
 *To learn more about exciting up and coming progressive politicians, go [here](https://www.washingtonpost.com/news/the-fix/wp/2017/01/09/11-democratic-women-who-could-run-for-president-in-2020-ranked/?utm_term=.62c0cfe0c308) and [here](http://emilyslist.org/).*
