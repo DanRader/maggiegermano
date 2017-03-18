@@ -40,24 +40,24 @@ Warren is an active consumer protection advocate whose input led to the concepti
 
 ![kamala.jpg](/uploads/kamala.jpg)
 
-[Senator Kamala Harris](https://www.harris.senate.gov/) (D-CA) is the junior Senator in California, having won her election in November 2016. Before that, she was the California Attorney General - the first female, African-American, or Indian-American AG in the state's history. In that role, Harris was an advocate for homeowner's rights and children's issues. Since becoming a Senator, Harris has sworn to protect immigrants, and has spoken out against several of Trump's cabinet nominees. 
+[Senator Kamala Harris](https://www.harris.senate.gov/) (D-CA) is the junior Senator in California, having won her election in November 2016. Before that, she was the California Attorney General - the first female, African-American, or Indian-American AG in the state's history. In that role, Harris was an advocate for homeowner's rights and children's issues. Since becoming a Senator, Harris has sworn to protect immigrants, and has spoken out against several of Trump's cabinet nominees.
 
 ## Tammy Duckworth
 
 ![tammy.jpg](/uploads/tammy.jpg)
 
-[Senator Tammy Duckworth](https://www.duckworth.senate.gov/) (D-IL) is also a brand new U.S. Senator, having won her election in November 2016. Previously, she served as the Congressional representative of Illinois' 8th district, since 2013. Senator Duckworth is also an Iraq War veteran, and was the first disabled woman to be elected to the U.S. House of Representatives. In April 2013, she returned 8% of her salary to the Treasury Department, in solidarity with furloughed government employees. Duckworth supports abortion rights and affordable healthcare, and believes in a pathway to citizenship for undocumented immigrants in the U.S. 
+[Senator Tammy Duckworth](https://www.duckworth.senate.gov/) (D-IL) is also a brand new U.S. Senator, having won her election in November 2016. Previously, she served as the Congressional representative of Illinois' 8th district, since 2013. Senator Duckworth is also an Iraq War veteran, and was the first disabled woman to be elected to the U.S. House of Representatives. In April 2013, she returned 8% of her salary to the Treasury Department, in solidarity with furloughed government employees. Duckworth supports abortion rights and affordable healthcare, and believes in a pathway to citizenship for undocumented immigrants in the U.S.
 
 ## Tulsi Gabbard
 
 ![tulsi.jpg](/uploads/tulsi.jpg)
 
-[Congresswoman Tulsi Gabbard](https://gabbard.house.gov/) (D-HI) is the Congressional representative for Hawaii's 2nd district.  Elected in 2012, she is the first American Samoan and the first Hindu member of the United States Congress. Before being elected to Congress, Gabbard was the youngest member of Hawaii's state legislature, and an Iraq War veteran. She has been an advocate for clean energy development, 
+[Congresswoman Tulsi Gabbard](https://gabbard.house.gov/) (D-HI) is the Congressional representative for Hawaii's 2nd district.  Elected in 2012, she is the first American Samoan and the first Hindu member of the United States Congress. Before being elected to Congress, Gabbard was the youngest member of Hawaii's state legislature, and an Iraq War veteran. She has been an advocate for clean energy development,
 
 ## Kirsten Gillibrand
 
 ![ap_kirsten_gillibrand_tk_130612_mn.jpg](/uploads/ap_kirsten_gillibrand_tk_130612_mn.jpg)
 
-[Senator Kirsten Gillibrand](https://www.gillibrand.senate.gov/) (D-NY) is...
+[Senator Kirsten Gillibrand](https://www.gillibrand.senate.gov/) (D-NY) is the junior Senator of New York, replacing Hillary Clinton after she was tapped as Obama's Secretary of State in 2008. Previously, Senator Gillibrand represented New York's 20th district in the U.S. House of Representatives. 
 
 *To learn more about exciting up and coming progressive politicians, go [here](https://www.washingtonpost.com/news/the-fix/wp/2017/01/09/11-democratic-women-who-could-run-for-president-in-2020-ranked/?utm_term=.62c0cfe0c308) and [here](http://emilyslist.org/).*
