@@ -1,7 +1,11 @@
+
+
+// Homepage hero
+
 @keyframes from-left {
   0% {
     opacity: 0;
-    transform: translateX(-4rem);
+    transform: translateX(-4rem) scale(.9);
   }
   100% {
     opacity: 1;
@@ -11,7 +15,7 @@
 @keyframes from-bottom {
   0% {
     opacity: .2;
-    transform: translateY(4rem);
+    transform: translateY(6rem);
   }
   100% {
     opacity: 1;
@@ -26,9 +30,37 @@
     transform: none;
   }
 }
+
+.an-from-left {
+  animation: from-left 1.2s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+  opacity: 0;
+}
+
+.an-from-bottom {
+  animation: from-bottom 2s cubic-bezier(0.25, 0.89, 0.49, 1.18) forwards;
+  opacity: 0;
+}
+
+.an-clouds {
+  animation: clouds 2s cubic-bezier(0.25, 0.89, 0.49, 1.18) forwards;
+}
+
+// COACHING
+
+@keyframes from-left-noscale {
+  0% {
+    opacity: 0;
+    transform: translateX(-4rem);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+
 @keyframes left-angle {
   0% {
-    transform: rotate(23deg) translateY(4rem);
+    transform: rotate(23deg) translateY(10rem);
   }
   100% {
     transform: rotate(23deg) translateY(0);
@@ -50,6 +82,29 @@
     transform: rotate(-4deg);
   }
 }
+
+.an-from-left-long {
+  animation: from-left-noscale 2s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+  opacity: 0;
+}
+
+.an-left-angle {
+  animation: left-angle 2s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+}
+.an-right-angle {
+  animation: right-angle 1.5s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+}
+.an-bottom-angle {
+  animation: bottom-angle 1.8s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+}
+
+.an-from-bottom-quicker {
+  animation: from-bottom 2s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+  opacity: 0;
+}
+
+// MONEY CIRCLE
+
 @keyframes mc-circle {
   0% {
     transform: translateY(2rem);
@@ -59,60 +114,62 @@
   }
 }
 
-.an-from-left {
-  animation: from-left 1.2s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
-  opacity: 0;
-}
-
-.an-from-left-long {
-  animation: from-left 1.5s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
-  opacity: 0;
-}
-
-.an-from-bottom {
-  animation: from-bottom 2.3s ease-out forwards;
-  opacity: 0;
-}
-
-.an-from-bottom-quicker {
-  animation: from-bottom 1s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
-  opacity: 0;
-}
-
-.an-clouds {
-  animation: clouds 2s ease-out forwards;
-}
-
-
-.an-left-angle {
-  animation: left-angle 2.5s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
-}
-.an-right-angle {
-  animation: right-angle 1.5s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
-}
-.an-bottom-angle {
-  animation: bottom-angle 2s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
-}
-
 .an-mc-circle {
   animation: mc-circle 1.5s cubic-bezier(0, 0.9, 0.26, 1.07) forwards;
 }
 
+// BLOG
 
+@keyframes overlay {
+  0% {
+    transform: scaleY(178);
+  }
+  100% {
+    transform: none;
+  }
+}
+@keyframes from-top {
+  0% {
+    opacity: 0;
+    transform: translateX(-4rem) scale(.9);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.white-transition {
+  position: absolute;
+  bottom: 0;
+  background-color: white;
+  height: 1vh;
+  z-index: 2;
+  width: 100%;
+  /* transform: scaleY(200); */
+}
+
+.an-overlay {
+  animation: overlay 2s ease-out forwards;
+}
 
 // Reusable pieces
 
 .an-step-1 {
   animation-duration: 1.6s;
+  animation-delay: .4s;
 }
 .an-step-2 {
   animation-duration: 1.5s;
+  animation-delay: .5s;
 }
 .an-step-3 {
   animation-duration: 1.4s;
+  animation-delay: .6s;
 }
 .an-step-4 {
   animation-duration: 1.3s;
+  animation-delay: .7s;
 }
 
 // delays
