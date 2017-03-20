@@ -1,11 +1,14 @@
 .money-circle-hero {
   background-image: url("/uploads/money-circle-hero-image@2x.png");
-  position: relative;
+  position: absolute;
+  z-index: 0;
 }
 
 .hero-height {
   height: 90vh;
   min-height: 600px;
+  z-index: 2;
+  position: relative;
   @media #{$media-max-tablet}{
     height: 70vh;
     padding: 0 8%;
@@ -16,6 +19,7 @@
 .bottom-circle {
   position: absolute;
   bottom: -32px;
+  z-index: 5;
   @media #{$media-max-tablet}{
       bottom: -1px;
     }
