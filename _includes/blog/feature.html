@@ -1,19 +1,21 @@
 {% for post in site.posts limit: 1 %}
 <a href="{{ post.url | prepend: site.baseurl }}">
-  <div class="cover blog-feature-image" style="background-image: url('{{ post.image }}');">
-      <div class="color-over blog-feature">
+  <div class="blog-feature-wrap">
+      <div class="color-over sizing">
         <div class="blog-feature-text">
-          <div class="blog-name blog-space">
+          <div class="blog-name blog-space an-from-top an-step-1">
             <img src="/uploads/MaggieG_KO_Mark@3x.svg">
             <h1>blog</h1>
           </div>
-         <h2>{{ post.title }}</h2>
-         <p class="feature-excerpt">{{ post.excerpt | truncatewords:35 | remove: '<p>' | remove: '</p>'| strip_html  }}</p>
-        <button type="button" name="Read">Read the Article</button>
+          <h2 class="an-from-top an-step-2">{{ post.title }}</h2>
+         <p class="an-from-top an-step-3 feature-excerpt">{{ post.excerpt | truncatewords:35 | remove: '<p>' | remove: '</p>'| strip_html  }}</p>
+        <button class="an-from-top an-step-4" type="button" name="Read">Read the Article</button>
         </div>
+        <div class="black-overlay"></div>
+        <div class="an-bg-position cover-image cover" style="background-image: url('{{ post.image }}');"></div>
       </div>
-    <img class="blog-arrow" src="/uploads/down-arrow.png">
-    <div class="white-transition an-overlay"></div>
+    <div class="white-cover an-bottom-cover"></div>
+    <img class="blog-arrow an-from-bottom an-step-1" src="/uploads/down-arrow.png">
   </div>
 </a>
 {% endfor %}
