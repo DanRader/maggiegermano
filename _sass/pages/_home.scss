@@ -1,20 +1,15 @@
-.line1 {
-	animation-delay: .3s;
-}
 
 .line2 {
-	animation-delay: .4s;
 	color: rgba(255,255,255,.82);
 }
 .line3 {
-	animation-delay: .5s;
 	color: rgba(255,255,255,.7);
 }
 
 .headline {
   margin-bottom: 2%;
   z-index: 12;
-  margin-top: -6vh;
+  margin-top: -9vh;
 }
 
   .headline h1 {
@@ -30,46 +25,60 @@
     padding-bottom: 11px;
 }
 #hero {
-  background-image: linear-gradient(-132deg, #00B3C8 0%, #00C5A2 100%);
-	position: relative;
+	background: linear-gradient(-132deg, #00B3C8 0%, #00C5A2 100%);
 	overflow: hidden;
   margin-top: -72px;
+	height: 102vh;
+	position: relative;
+	min-height: 44rem;
 	@media #{$media-max-tablet} {
 		margin-top: 0;
+		height: 70vh;
+		min-height: 150px;
 	}
 }
 
 #hero svg {
     width: 100%;
     position: absolute;
-    bottom: -1px;
+    bottom: -25px;
     z-index: 3;
+		@media #{$media-max-tablet} {
+	    width: 160%;
+		}
 }
 .bg-clouds{
 	z-index: 1;
-    background-repeat: no-repeat;
-  	min-width: 100%;
-  }
+  background-repeat: no-repeat;
+	min-width: 100%;
+	overflow: hidden;
+}
 .bg-clouds img {
 	width: 100%;
 	height: auto;
-    position: absolute;
-    bottom: 0;
+  position: absolute;
+  bottom: 0;
+	@media #{$media-max-tablet} {
+			max-width: inherit;
+			width: 132%;
+		}
 }
 
 .hero-content-block {
-  height: 100vh;
+  height: 102vh;
   position: relative;
   z-index: 3;
-  min-height: 700px;
-	@media #{$media-max-tablet}{
+  min-height: 44rem;
+	@media #{$media-max-tablet} {
 		height: 70vh;
-    min-height: 150px;
+		min-height: 150px;
 	}
 }
 
-.hero-btn {
-	animation-delay: .6s;
+.overlay-wrap {
+	background-color: white;
+	z-index: 50;
+	position: relative;
 }
 
 .intro-content {
@@ -99,7 +108,7 @@ margin-bottom: 6% !important;
   position: relative;
   border-bottom: 1px solid #8F8F90;
   padding: 7% 5% 10% 5%;
-  margin: 5%;
+  margin: 0 5% 5% 5%;
   z-index: 3;
 	@media #{$media-max-tablet}{
 		padding: 7% 5% 86% 5%;

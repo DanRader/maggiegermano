@@ -1,3 +1,10 @@
+
+// Mixins
+
+
+
+// Homepage hero
+
 @keyframes from-left {
   0% {
     opacity: 0;
@@ -8,52 +15,333 @@
     transform: none;
   }
 }
-
 @keyframes from-bottom {
   0% {
+    opacity: .2;
+    transform: translateY(6rem);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+@keyframes clouds {
+  0% {
+    transform: translateY(2rem);
+  }
+  100% {
+    transform: none;
+  }
+}
+
+.an-from-left {
+  animation: from-left 1.2s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+  opacity: 0;
+}
+
+.an-from-bottom {
+  animation: from-bottom 2s cubic-bezier(0.25, 0.89, 0.49, 1.18) forwards;
+  opacity: 0;
+}
+
+.an-clouds {
+  animation: clouds 2s cubic-bezier(0.25, 0.89, 0.49, 1.18) forwards;
+}
+
+// COACHING
+
+@keyframes from-left-noscale {
+  0% {
     opacity: 0;
+    transform: translateX(-4rem);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes left-angle {
+  0% {
+    transform: rotate(23deg) translateY(10rem);
+  }
+  100% {
+    transform: rotate(23deg) translateY(0);
+  }
+}
+@keyframes right-angle {
+  0% {
+    transform: rotate(-8deg) translateY(4rem);
+  }
+  100% {
+    transform: rotate(-8deg) translateY(0);
+  }
+}
+@keyframes bottom-angle {
+  0% {
+    transform: rotate(0);
+  }
+  100% {
+    transform: rotate(-4deg);
+  }
+}
+
+.an-from-left-long {
+  animation: from-left-noscale 2s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+  opacity: 0;
+}
+
+.an-left-angle {
+  animation: left-angle 2s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+}
+.an-right-angle {
+  animation: right-angle 1.5s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+}
+.an-bottom-angle {
+  animation: bottom-angle 1.8s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+}
+
+.an-from-bottom-quicker {
+  animation: from-bottom 2s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+  opacity: 0;
+}
+
+// MONEY CIRCLE
+
+@keyframes mc-circle {
+  0% {
+    transform: translateY(2rem);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+@keyframes logo-circle-move {
+  0% {
+    opacity: .2;
+    transform: translateX(-87px);
+    }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes logo-circle-in {
+  0% {
+    opacity: 0;
+    transform: translateX(-87px) scale(.8);
+    }
+  100% {
+    transform: translateX(-87px) scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes logo-money {
+  0% {
+    opacity: .4;
+    transform: translateX(153px);
+    }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes from-top-mc {
+  0% {
+    opacity: 0;
+    transform: translateY(-2rem);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+.an-from-top-mc {
+  animation: from-top-mc 2s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+  opacity: 0;
+}
+
+#circle {
+  fill: white;
+  animation: logo-circle-move 1.8s .2s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+  opacity: 0;
+  transform-origin: center;
+}
+#money {
+  animation: logo-money 1.8s .2s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+  opacity: 0;
+  transform-origin: center;
+}
+
+#money-clip {
+  animation: logo-circle-move 1.8s .2s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+}
+
+.an-mc-circle {
+  animation: mc-circle 2s cubic-bezier(0.18, 0.9, 0.43, 1.39) forwards;
+}
+
+
+
+
+
+
+// refactor me
+.mc-wrap {
+  position: relative;
+}
+
+
+// BLOG
+
+@keyframes bg-position {
+  0% {
+    opacity: 0;
+    transform: translateY(-2rem) translateZ(0);
+    // transform: translate3d(0, -2rem, 0);
+    transform-origin: bottom;
+  }
+  90% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+    transform-origin: bottom;
+  }
+}
+@keyframes bottom-cover {
+  0% {
     transform: translateY(4rem);
   }
   100% {
-    opacity: 1;
     transform: none;
   }
 }
-
-@keyframes clouds {
-  0% {
-    transform: translateY(1rem);
-  }
-  100% {
-    transform: none;
-  }
-}
-
-@keyframes gradient-shift {
+@keyframes from-top {
   0% {
     opacity: 0;
-    background-image: linear-gradient(-132deg, #00B3C8 100%, #00C5A2 0%);
+    transform: translateY(-1rem);
   }
   100% {
     opacity: 1;
-    background-image: linear-gradient(-132deg, #00B3C8 100%, #00C5A2 0%);
+    transform: none;
   }
 }
 
-.animate-from-left {
-  animation: from-left .9s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+
+.an-bottom-cover {
+  animation: bottom-cover 1.5s cubic-bezier(0.18, 0.9, 0.32, 1.25) forwards;
+}
+.an-bg-position {
+  animation: bg-position 2s ease-out forwards;
+}
+.an-from-top {
+  animation: from-top 2s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
   opacity: 0;
 }
 
-.animate-from-bottom {
-  animation: from-bottom 1.5s ease-out forwards;
-  opacity: 0;
+// refactor me in to the blog scss file
+.cover-image {
+  position: absolute;
+  z-index: -1;
+  height: 94%;
+}
+.black-bg{
+  background-color: $darkest-grey;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  z-index: -2;
+}
+.white-cover {
+  position: absolute;
+  bottom: -3vh;
+  width: 100%;
+  height: 11vh;
+  z-index: 5;
+  background-color: white;
 }
 
-.animate-clouds {
-  animation: clouds 1.3s ease-out forwards;
+.sizing {
+  height: 90vh;
+  min-height: 521px;
+  position: relative;
+  z-index: 0;
+  @media #{$media-max-tablet}{
+    height: 65vh;
+    min-height: 221px;
+  }
+}
+.blog-name {
+      margin-top: -8vh;
 }
 
-.animate-gradient-shift {
-  animation: gradient-shift 5s infinite;
+
+// Reusable pieces
+
+.an-step-1 {
+  animation-duration: 1.6s;
+  animation-delay: .4s;
+}
+.an-step-2 {
+  animation-duration: 1.5s;
+  animation-delay: .5s;
+}
+.an-step-3 {
+  animation-duration: 1.4s;
+  animation-delay: .6s;
+}
+.an-step-4 {
+  animation-duration: 1.3s;
+  animation-delay: .7s;
+}
+.an-step-5 {
+  animation-duration: 1.2s;
+  animation-delay: .8s;
+}
+.an-step-6 {
+  animation-duration: 1.1s;
+  animation-delay: .9s;
+}
+.an-step-7 {
+  animation-duration: 1s;
+  animation-delay: 1s;
+}
+
+// delays
+.delay-01 {
+  animation-delay: .1s;
+}
+.delay-02 {
+  animation-delay: .2s;
+}
+.delay-03 {
+  animation-delay: .3s;
+}
+.delay-04 {
+  animation-delay: .4s;
+}
+.delay-05 {
+  animation-delay: .5s;
+}
+.delay-06 {
+  animation-delay: .6s;
+}
+.delay-07 {
+  animation-delay: .7s;
+}
+.delay-1 {
+  animation-delay: 1s;
+}
+.delay-15 {
+  animation-delay: 1.5s;
+}
+.delay-2 {
+  animation-delay: 2s;
 }
