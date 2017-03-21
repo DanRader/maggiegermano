@@ -119,9 +119,11 @@
 
 @keyframes logo-circle-move {
   0% {
+    opacity: .2;
     transform: translateX(-87px);
     }
   100% {
+    opacity: 1;
     transform: none;
   }
 }
@@ -136,34 +138,64 @@
     opacity: 1;
   }
 }
-.an-logo-circle {
-  animation: logo-circle-in 1s ease-out forwards, logo-circle-move 1s 1s ease-out forwards;
-}
 
 @keyframes logo-money {
   0% {
-    transform: translateX(89px) translateY(57px);
-      }
+    opacity: .4;
+    transform: translateX(153px);
+    }
   100% {
+    opacity: 1;
     transform: none;
   }
 }
 
-.an-mc-circle {
-  animation: mc-circle 1.5s cubic-bezier(0.18, 0.9, 0.43, 1.39) forwards;
+@keyframes from-top-mc {
+  0% {
+    opacity: 0;
+    transform: translateY(-2rem);
+  }
+  100% {
+    opacity: 1;
+    transform: none;
+  }
 }
+
+.an-from-top-mc {
+  animation: from-top-mc 2s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+  opacity: 0;
+}
+
+#circle {
+  fill: white;
+  animation: logo-circle-move 1.8s .2s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+  opacity: 0;
+  transform-origin: center;
+}
+#money {
+  animation: logo-money 1.8s .2s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+  opacity: 0;
+  transform-origin: center;
+}
+
+#money-clip {
+  animation: logo-circle-move 1.8s .2s cubic-bezier(0, 0.9, 0.3, 1.2) forwards;
+}
+
+.an-mc-circle {
+  animation: mc-circle 2s cubic-bezier(0.18, 0.9, 0.43, 1.39) forwards;
+}
+
+
+
+
+
 
 // refactor me
 .mc-wrap {
   position: relative;
 }
 
-
-
-#circle {
-  fill: white;
-  animation: logo-circle-in 1s cubic-bezier(0.18, 0.9, 0.43, 1.39) forwards, logo-circle-move 1s 1s cubic-bezier(0.18, 0.9, 0.43, 1.39) forwards;
-}
 
 // BLOG
 
@@ -201,6 +233,7 @@
     transform: none;
   }
 }
+
 
 .an-bottom-cover {
   animation: bottom-cover 1.5s cubic-bezier(0.18, 0.9, 0.32, 1.25) forwards;
@@ -267,6 +300,18 @@
 .an-step-4 {
   animation-duration: 1.3s;
   animation-delay: .7s;
+}
+.an-step-5 {
+  animation-duration: 1.2s;
+  animation-delay: .8s;
+}
+.an-step-6 {
+  animation-duration: 1.1s;
+  animation-delay: .9s;
+}
+.an-step-7 {
+  animation-duration: 1s;
+  animation-delay: 1s;
 }
 
 // delays
