@@ -30,6 +30,7 @@
   margin-top: -72px;
 	height: 102vh;
 	position: relative;
+	min-height: 44rem;
 	@media #{$media-max-tablet} {
 		margin-top: 0;
 		height: 70vh;
@@ -40,7 +41,7 @@
 #hero svg {
     width: 100%;
     position: absolute;
-    bottom: -1px;
+    bottom: -16px;
     z-index: 3;
 		@media #{$media-max-tablet} {
 	    width: 160%;
@@ -64,10 +65,10 @@
 }
 
 .hero-content-block {
-  height: 101vh;
+  height: 102vh;
   position: relative;
   z-index: 3;
-  min-height: 700px;
+  min-height: 44rem;
 	@media #{$media-max-tablet} {
 		height: 70vh;
 		min-height: 150px;

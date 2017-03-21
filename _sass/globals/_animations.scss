@@ -117,13 +117,52 @@
   }
 }
 
+@keyframes logo-circle-move {
+  0% {
+    transform: translateX(-87px);
+    }
+  100% {
+    transform: none;
+  }
+}
+
+@keyframes logo-circle-in {
+  0% {
+    opacity: 0;
+    transform: translateX(-87px) scale(.8);
+    }
+  100% {
+    transform: translateX(-87px) scale(1);
+    opacity: 1;
+  }
+}
+.an-logo-circle {
+  animation: logo-circle-in 1s ease-out forwards, logo-circle-move 1s 1s ease-out forwards;
+}
+
+@keyframes logo-money {
+  0% {
+    transform: translateX(89px) translateY(57px);
+      }
+  100% {
+    transform: none;
+  }
+}
+
 .an-mc-circle {
-  animation: mc-circle 1.5s cubic-bezier(0.18, 0.9, 0.32, 1.25) forwards;
+  animation: mc-circle 1.5s cubic-bezier(0.18, 0.9, 0.43, 1.39) forwards;
 }
 
 // refactor me
 .mc-wrap {
   position: relative;
+}
+
+
+
+#circle {
+  fill: white;
+  animation: logo-circle-in 1s cubic-bezier(0.18, 0.9, 0.43, 1.39) forwards, logo-circle-move 1s 1s cubic-bezier(0.18, 0.9, 0.43, 1.39) forwards;
 }
 
 // BLOG
