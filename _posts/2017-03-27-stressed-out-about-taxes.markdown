@@ -42,4 +42,4 @@ Some people just don't feel like filing their taxes yet! It's not like it's a fu
 
 Some respondents have been burned in the past. They made a mistake on their tax return, or missed an error, and then they had to pay for it (literally) later. Even though mistakes are totally human, they were afraid of feeling inadequate and having to deal with the aftermath.
 
-There's support out there if you need it
+## There's support out there if you need it
