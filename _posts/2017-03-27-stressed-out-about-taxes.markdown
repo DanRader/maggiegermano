@@ -44,18 +44,20 @@ Some respondents have been burned in the past. They made a mistake on their tax 
 
 ## So, what next?
 
-1\. Ask for help
+**1. Ask for help**
 
 I know it's hard to ask for help sometimes. But it's better to swallow your pride than to suffer in silence. Do you need to ask your parents to explain the process do you? Do it. Do you need to hire a CPA to file for you? Go for it. [Here's](https://www.maggiegermano.com/blog/how-to-do-your-taxes-on-the-cheap/) more information on how to do your taxes on the cheap.
 
-2\. Talk about it
+**2. Talk about it**
 
 Your friends probably understand exactly how you feel! You aren't alone in wanting to avoid things like filing (and potentially paying) taxes. But the less you talk about it, the more ashamed you'll feel. So go ahead, bitch and moan. Taxes suck! And then file anyway. 
 
-3\. Get it done
+**3. Get it done**
 
 April 18th is Tax Day, the deadline for filing your taxes (unless you've requested an extension). Don't wait until 11pm that night to log into TurboTax or H&R Block. Give yourself a couple days to gather your documents, and then come up with a plan of attack. Which tax program are you going to use? Are you going to hire someone to help you? Things feel less scary when you have your plan mapped out.
 
-And if you're getting a refund, learn what you should do with that money [here](https://www.maggiegermano.com/blog/heres-how-you-should-use-your-tax-refund/). Good luck!
+And if you're getting a refund, learn what you should do with that money [here](https://www.maggiegermano.com/blog/heres-how-you-should-use-your-tax-refund/). 
+
+Good luck!
 
 *Have you put off your taxes? Share your reasons in the comments below!*
