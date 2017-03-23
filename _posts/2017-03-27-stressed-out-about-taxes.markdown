@@ -43,3 +43,15 @@ Some people just don't feel like filing their taxes yet! It's not like it's a fu
 Some respondents have been burned in the past. They made a mistake on their tax return, or missed an error, and then they had to pay for it (literally) later. Even though mistakes are totally human, they were afraid of feeling inadequate and having to deal with the aftermath.
 
 ## There's support out there if you need it
+
+1\. Ask for help
+
+I know it's hard to ask for help sometimes. But it's better to swallow your pride than to suffer in silence. Do you need to ask your parents to explain the process do you? Do it. Do you need to hire a CPA to file for you? Go for it. 
+
+2\. Talk about it
+
+Your friends probably understand exactly how you feel! You aren't alone in wanting to avoid things like filing (and potentially paying) taxes. But the less you talk about it, the more ashamed you'll feel. So go ahead, bitch and moan. Taxes suck! And then file anyway. 
+
+3\. Get it done
+
+April 18th is Tax Day, the deadline for filing your taxes (unless you've requested an extension). Don't wait until 11pm that night to log into TurboTax or H&R Block. 
