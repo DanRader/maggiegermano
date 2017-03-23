@@ -32,7 +32,7 @@
 
 .event-title h1:after{
     border-radius: 0.1em;
-    bottom: -34%;
+    bottom: -23%;
     content: '';
     height: 6px;
     position: absolute;
@@ -41,14 +41,14 @@
     margin: auto;
     width: 72%;
     background-color: white;
-      @media #{$media-max-tablet}{
+      @media screen and (max-width: 992px){
         display: none;
       }
 }
 
 .event-title h1:before{
     border-radius: 0.1em;
-    top: -34%;
+    top: -15%;
     content: '';
     height: 6px;
     position: absolute;
@@ -57,7 +57,7 @@
     margin: auto;
     width: 72%;
     background-color: white;
-    @media #{$media-max-tablet}{
+    @media screen and (max-width: 992px){
       display: none;
     }
 }
