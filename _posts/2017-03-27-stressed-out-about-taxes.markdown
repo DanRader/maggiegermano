@@ -1,8 +1,13 @@
 ---
 title: Are you stressed out about doing your taxes?
-date: 2017-03-22 12:59:00 -04:00
+date: 2017-03-27 11:00:00 -04:00
 published: false
 image: "/uploads/laptop.jpg"
+tweet: 'Too stressed about your #taxes to file? You''re not alone! '
+posts:
+- How to Do Your Taxes on the Cheap
+- Here's How You Should Use Your Tax Refund
+- You Don't Have to Be Perfect to Get Your Money Right
 ---
 
 You're not alone!
