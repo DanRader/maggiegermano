@@ -25,12 +25,12 @@ Some people switched jobs, moved to a new state, made new investments, and spent
 
 ## "It's a lot of pressure."
 
-j;klj;k
+When something is required of you, and potentially high stakes, it can feel like a lot of pressure. This can create a mental block, which makes it the last thing you want to do at the end of the day.
 
 ## "I'm lazy."
 
-k;lkj
+Some people just don't feel like filing their taxes yet! It's not like it's a fun activity. And I can fully understand that. 
 
 ## "I feared making a mistake."
 
-S
+Some respondents have been burned in the past. They made a mistake on their tax return, or missed an error, and then they had to pay for it (literally) later. Even though mistakes are totally human, they were afraid of feeling inadequate and having to deal with the aftermath. 
