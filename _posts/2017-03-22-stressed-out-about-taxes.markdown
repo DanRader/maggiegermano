@@ -12,15 +12,15 @@ I put out the call to my Money Circle folks, and asked them why they've put off 
 
 ## "I knew I'd owe."
 
-A couple people responded saying that they knew they'd owe money on their taxes this year. They weren't necessarily putting off filing in order to avoid paying, but they wanted to be able to save up the money first.
+A couple people responded saying that they knew they'd owe money on their taxes this year. They weren't necessarily putting off filing in order to *avoid* paying, but they wanted to be able to save up the money first.
 
 ## "I was waiting to receive all my documents."
 
-lkj;lkj
+Although it's legally required for employers to mail out W-2s by January 31st, that doesn't always happen. Several people had been waiting for their W-2s to arrive, along with other financial paperwork, like 1099s from your bank or investment firms.
 
 ## "My taxes this year are complicated."
 
-lk;jk
+Some people switched jobs, moved to a new state, made new investments, and spent money on business. It can be intimidating to try to figure out how to file your taxes when your financial situation has changed. 
 
 ## "It's a lot of pressure."
 
