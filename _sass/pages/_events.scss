@@ -10,6 +10,9 @@
 
 .event-content-block {
     min-height: 72vh;
+    @media #{$media-max-tablet}{
+      min-height: 64vh;
+    }
 }
 
 .event-content img{
@@ -22,6 +25,9 @@
     margin-bottom: 50px;
     margin-top: 20px;
     position: relative;
+    @media #{$media-max-tablet}{
+    margin-bottom: 26px;
+      }
 }
 
 .event-title h1:after{
@@ -35,6 +41,9 @@
     margin: auto;
     width: 72%;
     background-color: white;
+      @media #{$media-max-tablet}{
+        display: none;
+      }
 }
 
 .event-title h1:before{
@@ -48,6 +57,9 @@
     margin: auto;
     width: 72%;
     background-color: white;
+    @media #{$media-max-tablet}{
+      display: none;
+    }
 }
 
 .event-content {
