@@ -9,6 +9,9 @@
     padding: 7% 0 4% 0;
     position: relative;
     z-index: 5;
+    @media #{$media-max-tablet}{
+      padding: 11% 5% 4% 5%;
+    }
 }
 
 img.footer-heart {
@@ -95,17 +98,15 @@ img.fec-badge {
 .danr-link {
   float: right;
   @media #{$media-max-tablet}{
-    .danr-link   {
       float: left;
     }
-  }
 }
 
 .footer-bp {
   background-color: $darkest-grey;
   overflow: auto;
   @media #{$media-max-tablet}{
-      padding: 8px 0;
+      padding: 8px 1%;
   }
 }
 
@@ -129,6 +130,7 @@ p.footer-bp-text {
   @media #{$media-max-tablet}{
     font-size: 24px;
     line-height: 38px;
+    margin-bottom: 8%;
   }
 }
 .footer-bp-text a {

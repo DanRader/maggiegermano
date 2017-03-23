@@ -194,6 +194,7 @@
 // refactor me
 .mc-wrap {
   position: relative;
+  overflow: hidden;
 }
 
 
@@ -206,11 +207,8 @@
     // transform: translate3d(0, -2rem, 0);
     transform-origin: bottom;
   }
-  90% {
-    opacity: 1;
-  }
   100% {
-    opacity: 1;
+    opacity: .7;
     transform: none;
     transform-origin: bottom;
   }
