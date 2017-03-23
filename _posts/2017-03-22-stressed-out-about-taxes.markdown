@@ -16,11 +16,19 @@ A couple people responded saying that they knew they'd owe money on their taxes 
 
 ## "I was waiting to receive all my documents."
 
+lkj;lkj
+
 ## "My taxes this year are complicated."
+
+lk;jk
 
 ## "It's a lot of pressure."
 
+j;klj;k
+
 ## "I'm lazy."
+
+k;lkj
 
 ## "I feared making a mistake."
 
