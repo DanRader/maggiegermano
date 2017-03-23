@@ -56,6 +56,8 @@ Your friends probably understand exactly how you feel! You aren't alone in wanti
 
 April 18th is Tax Day, the deadline for filing your taxes (unless you've requested an extension). Don't wait until 11pm that night to log into TurboTax or H&R Block. Give yourself a couple days to gather your documents, and then come up with a plan of attack. Which tax program are you going to use? Are you going to hire someone to help you? Things feel less scary when you have your plan mapped out.
 
-And if you're getting a refund, learn what you should do with that money [here](https://www.maggiegermano.com/blog/heres-how-you-should-use-your-tax-refund/). Good luck!
+And if you're getting a refund, learn what you should do with that money [here](https://www.maggiegermano.com/blog/heres-how-you-should-use-your-tax-refund/). 
+
+Good luck!
 
 *Have you put off your taxes? Share your reasons in the comments below!*
