@@ -78,6 +78,9 @@
 .mc-highlight {
   background-color: $blue-grey;
   padding: 8% 0;
+  @media #{$media-max-tablet}{
+      padding: 14% 0;
+    }
 }
 
 .mc-highlight-box {
@@ -87,7 +90,7 @@
   position: relative;
   transition: .3s ease-out;
   @media #{$media-max-tablet}{
-    padding: 34% 25px 25px 25px !important;
+    padding: 42% 25px 25px 25px !important;
   }
   &:hover {
     border: 1px solid $maggie-green;
