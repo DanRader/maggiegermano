@@ -1,7 +1,6 @@
 ---
 title: Are you stressed out about doing your taxes?
 date: 2017-03-27 11:00:00 -04:00
-published: false
 categories:
 - lifestyle
 - budget
