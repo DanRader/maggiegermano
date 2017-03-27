@@ -1,7 +1,17 @@
 ---
 title: Are you stressed out about doing your taxes?
 date: 2017-03-27 11:00:00 -04:00
-published: false
+categories:
+- lifestyle
+- budget
+tags:
+- taxes
+- tax refund
+- tax
+- personal finance
+- money
+- money mindset
+- stress
 image: "/uploads/laptop.jpg"
 tweet: 'Too stressed about your #taxes to file? You''re not alone! '
 posts:
