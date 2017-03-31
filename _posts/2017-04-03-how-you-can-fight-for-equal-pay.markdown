@@ -15,6 +15,8 @@ tags:
 - personal finance
 - salary
 - salary negotiation
+- equal rights
+- negotiation
 tweet: On April 4th, we "celebrate" Equal Pay Day. Find out how to close your own
   wage gap!
 posts:
