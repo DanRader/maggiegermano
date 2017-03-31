@@ -1,6 +1,6 @@
 ---
 title: How You Can Fight for Equal Pay
-date: 2017-03-30 11:31:00 -04:00
+date: 2017-04-03 11:00:00 -04:00
 published: false
 categories:
 - career
