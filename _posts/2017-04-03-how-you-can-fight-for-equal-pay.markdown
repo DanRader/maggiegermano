@@ -30,3 +30,5 @@ Equal Pay Day is tomorrow, April 4th. Equal Pay Day is the symbolic day when the
 > Isn't it crazy to think that it takes women (on average) an extra three months to earn as much as a man did last year, for the same work?
 
 Last year, I was in a salary negotiation workshop given by [AAUW](https://salary.aauw.org/) and that is when I decided to pursue my business as a financial coach. I went on to be trained as a facilitator for that same workshop, and I am still passionate about empowering women to negotiate.
+
+Before going into how to negotiate, I want to give you a little more context about the wage gap in the U.S. 
