@@ -31,4 +31,22 @@ Equal Pay Day is tomorrow, April 4th. Equal Pay Day is the symbolic day when the
 
 Last year, I was in a salary negotiation workshop given by [AAUW](https://salary.aauw.org/) and that is when I decided to pursue my business as a financial coach. I went on to be trained as a facilitator for that same workshop, and I am still passionate about empowering women to negotiate.
 
-Before going into how to negotiate, I want to give you a little more context about the wage gap in the U.S. 
+Before going into how to negotiate, I want to give you a little more context about the wage gap in the U.S.
+
+## The low-down on the wage gap
+
+* Women earn (on average) 80 cents on the dollar compared to a white man.
+
+* Black women earn... 
+
+* Latina women earn...
+
+* And Native American women only earn...
+
+## What that actually means for you
+
+* adfdad
+
+## What you can do to fight for yourself
+
+adfa
