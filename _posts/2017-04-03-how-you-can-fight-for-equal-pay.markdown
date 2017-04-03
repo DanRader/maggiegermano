@@ -64,6 +64,8 @@ Before going into how to negotiate, I want to give you a little more context abo
 
 * Careers occupied by women tend to be less valued, and therefore paid less.
 
+* Forty percent of mothers with children under the age of 18 are their families' primary earner. As women increasingly take on this role, the gender pay gap directly takes away money from families (which impacts men and children along with women).
+
 ## How you can fight the wage gap in your life
 
 * Know your value: Identify how you bring value to the company or organization that you currently or hope to work for. Don't sell yourself short; write out all of your skills, accomplishments, awards, certifications, etc. Learn how to talk about all of these things and connect them to the jobs that you desire.
