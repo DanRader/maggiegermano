@@ -37,15 +37,25 @@ Before going into how to negotiate, I want to give you a little more context abo
 
 * Women earn (on average) 80 cents on the dollar compared to a white man.
 
-* Black women earn... 
+* Asian women earn 85 cents to the dollar.
 
-* Latina women earn...
+* White women earn 75 cents to the dollar.
 
-* And Native American women only earn...
+* Black women earn 63 cents to the dollar.
+
+* Latina women earn 54 cents to the dollar.
+
+* The pay gap contributes to women's poverty. In 2015, 14 percent of American women ages 18-64 were living below the federal poverty level, compared to 11 percent of men.
+
+* Eliminating the gender pay gap could cut the poverty rate for working women in half (!).
 
 ## What that actually means for you
 
 * adfdad
+
+* When women retire, they receive less income from Social Security, pensions, and other income sources than men do.
+
+* Disability and life insurance benefits are also usually based on income, so they are smaller for women.
 
 ## What you can do to fight for yourself
 
