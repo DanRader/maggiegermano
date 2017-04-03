@@ -66,9 +66,9 @@ Before going into how to negotiate, I want to give you a little more context abo
 
 ## How you can fight the wage gap in your life
 
-* Know your value: Identify how you bring value to the company or organization that you currently or hope to work for.
+* Know your value: Identify how you bring value to the company or organization that you currently or hope to work for. Don't sell yourself short; write out all of your skills, accomplishments, awards, certifications, etc. Learn how to talk about all of these things and connect them to the jobs that you desire.
 
-* Identify the salary you deserve: adflkaj;f
+* Identify the salary you deserve: Use websites like [Salary.com](www.salary.com) to research how much your current or desired position typically pays. 
 
 * Ask for more: ;alkdfja
 
