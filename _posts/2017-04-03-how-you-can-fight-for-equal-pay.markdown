@@ -68,12 +68,12 @@ Before going into how to negotiate, I want to give you a little more context abo
 
 ## How you can fight the wage gap in your life
 
-* Know your value: Identify how you bring value to the company or organization that you currently or hope to work for. Don't sell yourself short; write out all of your skills, accomplishments, awards, certifications, etc. Learn how to talk about all of these things and connect them to the career that you desire.
+* **Know your value:** Identify how you bring value to the company or organization that you currently or hope to work for. Don't sell yourself short; write out all of your skills, accomplishments, awards, certifications, etc. Learn how to talk about all of these things and connect them to the career that you desire.
 
-* Identify the compensation you deserve: Use websites like [Salary.com](www.salary.com) or [Glassdoor.com](glassdoor.com) to research how much your current or desired position typically pays. Ask around at work to find out how much your peers are earning (it's not illegal, and it's important to talk about!). 
+* Identify the compensation you deserve: Use websites like [Salary.com](www.salary.com) or [Glassdoor.com](glassdoor.com) to research how much your current or desired position typically pays. Ask around at work to find out how much your peers are earning (it's not illegal, and it's important to talk about!).
 
-* Ask for more: Negotiate! Ask for more than you want, so that you have some wiggle room. If you can't get the salary you desire, negotiate your benefits. 
+* Ask for more: Negotiate! Ask for more than you want, so that you have some wiggle room. If you can't get the salary you desire, negotiate your benefits.
 
 Have you ever negotiated a higher salary or better benefits? Share your story in the comments!
 
-*For much more information on the wage gap and salary negotiation, visit [AAUW](https://salary.aauw.org/work-smart/). *
+*For much more information on the wage gap and salary negotiation, visit [AAUW](https://salary.aauw.org/work-smart/).*
