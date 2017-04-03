@@ -17,6 +17,7 @@ tags:
 - salary negotiation
 - equal rights
 - negotiation
+image: "/uploads/march.jpg"
 tweet: On April 4th, we "celebrate" Equal Pay Day. Find out how to close your own
   wage gap!
 posts:
@@ -31,4 +32,36 @@ Equal Pay Day is tomorrow, April 4th. Equal Pay Day is the symbolic day when the
 
 Last year, I was in a salary negotiation workshop given by [AAUW](https://salary.aauw.org/) and that is when I decided to pursue my business as a financial coach. I went on to be trained as a facilitator for that same workshop, and I am still passionate about empowering women to negotiate.
 
-Before going into how to negotiate, I want to give you a little more context about the wage gap in the U.S. 
+Before going into how to negotiate, I want to give you a little more context about the wage gap in the U.S.
+
+## The low-down on the wage gap
+
+* American women earn (on average) 80 cents on the dollar compared to a white man.
+
+* Asian women earn 85 cents to the dollar.
+
+* White women earn 75 cents to the dollar.
+
+* Black women earn 63 cents to the dollar.
+
+* Latina women earn 54 cents to the dollar.
+
+* The pay gap contributes to women's poverty. In 2015, 14 percent of American women ages 18-64 were living below the federal poverty level, compared to 11 percent of men.
+
+* Eliminating the gender pay gap could cut the poverty rate for working women in half (!).
+
+* The gender pay gap grows with age, as most pay increases are based upon someone's original salary.
+
+## What that actually means for you
+
+* adfdad
+
+* Women with college degrees are less able to pay off their student loans quickly, resulting in paying more in interest over a longer period of time.
+
+* When women retire, they receive less income from Social Security, pensions, and other income sources than men do.
+
+* Disability and life insurance benefits are also usually based on income, so they are smaller for women.
+
+## What you can do to fight for yourself
+
+adfa
