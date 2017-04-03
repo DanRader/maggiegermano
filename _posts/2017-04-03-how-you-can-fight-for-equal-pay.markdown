@@ -72,7 +72,7 @@ Before going into how to negotiate, I want to give you a little more context abo
 
 * **Identify the compensation you deserve:** Use websites like [Salary.com](www.salary.com) or [Glassdoor.com](glassdoor.com) to research how much your current or desired position typically pays. Ask around at work to find out how much your peers are earning (it's not illegal, and it's important to talk about!).
 
-* **Ask for more:** Negotiate! Ask for more than you want, so that you have some wiggle room. If you can't get the salary you desire, negotiate your benefits.
+* **Ask for more:** Negotiate! Ask for more than you want, so that you have some wiggle room. If you can't get the salary you desire, negotiate your benefits. Stand firm in your value to a potential employer, and demand the compensation that you deserve. (Stay tuned for a future post on negotiation!)
 
 Have you ever negotiated a higher salary or better benefits? Share your story in the comments!
 
