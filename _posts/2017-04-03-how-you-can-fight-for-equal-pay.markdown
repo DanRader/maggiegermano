@@ -54,14 +54,26 @@ Before going into how to negotiate, I want to give you a little more context abo
 
 ## What that actually means for you
 
-* adfdad
+* Women overall lose out on more than $400,000 over the course of their careers, but most women of color are shorted more than double that.
 
 * Women with college degrees are less able to pay off their student loans quickly, resulting in paying more in interest over a longer period of time.
 
 * When women retire, they receive less income from Social Security, pensions, and other income sources than men do.
 
-* Disability and life insurance benefits are also usually based on income, so they are smaller for women.
+* Disability and life insurance benefits are also usually based on income, so they tend to be smaller for women.
 
-## What you can do to fight for yourself
+* Careers occupied by women tend to be less valued, and therefore paid less.
 
-adfa
+* Forty percent of mothers with children under the age of 18 are their families' primary earner. As women increasingly take on this role, the gender pay gap directly takes away money from families (which impacts men and children along with women).
+
+## How you can fight the wage gap in your life
+
+* Know your value: Identify how you bring value to the company or organization that you currently or hope to work for. Don't sell yourself short; write out all of your skills, accomplishments, awards, certifications, etc. Learn how to talk about all of these things and connect them to the career that you desire.
+
+* Identify the compensation you deserve: Use websites like [Salary.com](www.salary.com) to research how much your current or desired position typically pays. Ask around at work to find out how much your peers are earning (it's not illegal, and it's important to talk about!). 
+
+* Ask for more: Negotiate! Ask for more than you want, so that you have some wiggle room. 
+
+Have you ever negotiated a higher salary or better benefits? Share your story in the comments!
+
+*For much more information on the wage gap and salary negotiation, visit [AAUW](https://salary.aauw.org/work-smart/). *
