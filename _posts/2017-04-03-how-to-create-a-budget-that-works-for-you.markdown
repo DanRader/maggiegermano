@@ -10,6 +10,7 @@ tags:
 - spending
 - goals
 - personal finance
+image: "/uploads/budget.jpg"
 tweet: 'We can talk about #budgeting, but it''s only successful if our budget works
   for us. Learn how!'
 posts:
