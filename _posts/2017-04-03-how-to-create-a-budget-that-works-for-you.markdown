@@ -10,5 +10,11 @@ tags:
 - spending
 - goals
 - personal finance
+tweet: 'We can talk about #budgeting, but it''s only successful if our budget works
+  for us. Learn how!'
+posts:
+- You Can Have Fun with Your Friends While Spending Less
+- 9 Easy Changes to Make Now to Spend Less Money
+- How to Be Prepared for Non-monthly Expenses
 ---
 
