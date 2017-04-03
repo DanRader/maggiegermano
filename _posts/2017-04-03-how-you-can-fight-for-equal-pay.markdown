@@ -35,7 +35,7 @@ Before going into how to negotiate, I want to give you a little more context abo
 
 ## The low-down on the wage gap
 
-* Women earn (on average) 80 cents on the dollar compared to a white man.
+* American women earn (on average) 80 cents on the dollar compared to a white man.
 
 * Asian women earn 85 cents to the dollar.
 
@@ -49,9 +49,13 @@ Before going into how to negotiate, I want to give you a little more context abo
 
 * Eliminating the gender pay gap could cut the poverty rate for working women in half (!).
 
+* The gender pay gap grows with age, as most pay increases are based upon someone's original salary.
+
 ## What that actually means for you
 
 * adfdad
+
+* Women with college degrees are less able to pay off their student loans quickly, resulting in paying more in interest over a longer period of time.
 
 * When women retire, they receive less income from Social Security, pensions, and other income sources than men do.
 
