@@ -68,9 +68,9 @@ Before going into how to negotiate, I want to give you a little more context abo
 
 * Know your value: Identify how you bring value to the company or organization that you currently or hope to work for. Don't sell yourself short; write out all of your skills, accomplishments, awards, certifications, etc. Learn how to talk about all of these things and connect them to the jobs that you desire.
 
-* Identify the salary you deserve: Use websites like [Salary.com](www.salary.com) to research how much your current or desired position typically pays. 
+* Identify the compensation you deserve: Use websites like [Salary.com](www.salary.com) to research how much your current or desired position typically pays. Ask around at work to find out how much your peers are earning (not not illegal, and it's important to talk about!). 
 
-* Ask for more: ;alkdfja
+* Ask for more: Negotiate! 
 
 Have you ever negotiated a higher salary or better benefits? Share your story in the comments!
 
