@@ -54,14 +54,24 @@ Before going into how to negotiate, I want to give you a little more context abo
 
 ## What that actually means for you
 
-* adfdad
+* Women overall lose out on more than $400,000 over the course of their careers, but most women of color are shorted more than double that.
 
 * Women with college degrees are less able to pay off their student loans quickly, resulting in paying more in interest over a longer period of time.
 
 * When women retire, they receive less income from Social Security, pensions, and other income sources than men do.
 
-* Disability and life insurance benefits are also usually based on income, so they are smaller for women.
+* Disability and life insurance benefits are also usually based on income, so they tend to be smaller for women.
 
-## What you can do to fight for yourself
+* Careers occupied by women tend to be less valued, and therefore paid less.
 
-adfa
+## How you can fight the wage gap in your life
+
+* Know your value: Identify how you bring value to the company or organization that you currently or hope to work for.
+
+* Identify the salary you deserve: adflkaj;f
+
+* Ask for more: ;alkdfja
+
+Have you ever negotiated a higher salary or better benefits? Share your story in the comments!
+
+*For much more information on the wage gap and salary negotiation, visit [AAUW](https://salary.aauw.org/work-smart/). *
