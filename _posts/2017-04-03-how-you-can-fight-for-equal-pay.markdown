@@ -76,4 +76,4 @@ Before going into how to negotiate, I want to give you a little more context abo
 
 Have you ever negotiated a higher salary or better benefits? Share your story in the comments!
 
-\*For much more information on the wage gap and salary negotiation, visit [AAUW](https://salary.aauw.org/work-smart/). \*
+*For much more information on the wage gap and salary negotiation, visit [AAUW](https://salary.aauw.org/work-smart/).*
