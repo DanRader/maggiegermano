@@ -17,6 +17,7 @@ tags:
 - salary negotiation
 - equal rights
 - negotiation
+image: "/uploads/march.jpg"
 tweet: On April 4th, we "celebrate" Equal Pay Day. Find out how to close your own
   wage gap!
 posts:
