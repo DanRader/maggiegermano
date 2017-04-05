@@ -23,17 +23,16 @@ Happy Financial Literacy Month! This week, I want to talk to you about creating 
 
 ## Identify your financial goals
 
-It'll be a lot easier to stick to a budget if you know what you're doing it for. Sticking to a budget for budget's sake is a recipe for failure. 
+It'll be a lot easier to stick to a budget if you know what you're doing it for. Sticking to a budget for budget's sake is a recipe for failure. That's why you need to identify your goals so that you can see what you're working towards. You'll feel a lot more motivated that way.
 
-What is most important to you moving forward? Do you want to make changes in your career, love life, friendships, financial situation, etc.? Pick out those overarching goals, and then you can figure out how to achieve them.
+What is most important to you moving forward? Do you want to make changes in your career, love life, friendships, financial situation, etc.? Do you want to travel? Pick out the goals that mean the most to you, and then you can figure out how to achieve them.
 
-You’re much more likely to reach your goals if you identify them and then write them down. If these goals are big, break them down into digestible steps. This will make it much less intimidating, and also feel more attainable.
+You’re much more likely to reach your goals if you identify them and then write them down. If these goals are big, break them down into digestible steps. This will make it much less intimidating, and also feel more attainable. For example, if you want to save $5,000 in a travel fund by 2018, figure out how much you'd have to save each week to make that happen. 
 
 Now that you know your goals, you can build your budget to help you reach them.
 
-
 ## Figure out how much is coming in
 
-la dee da
+Some of us don't even know how much our monthly income is. We get our direct deposit and go on with our day. But it's really important to know exactly how much is coming in each month. Look at your past four paychecks. Are they consistent? What's being taken out of them besides taxes? 
 
 ## Figure out how much is going out
