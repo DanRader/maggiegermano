@@ -27,16 +27,20 @@ It'll be a lot easier to stick to a budget if you know what you're doing it for.
 
 What is most important to you moving forward? Do you want to make changes in your career, love life, friendships, financial situation, etc.? Do you want to travel? Pick out the goals that mean the most to you, and then you can figure out how to achieve them.
 
-You’re much more likely to reach your goals if you identify them and then write them down. If these goals are big, break them down into digestible steps. This will make it much less intimidating, and also feel more attainable. For example, if you want to save $5,000 in a travel fund by 2018, figure out how much you'd have to save each week to make that happen. 
+You’re much more likely to reach your goals if you identify them and then write them down. If these goals are big, break them down into digestible steps. This will make it much less intimidating, and also feel more attainable. For example, if you want to save $5,000 in a travel fund by 2018, figure out how much you'd have to save each week to make that happen.
 
 Now that you know your goals, you can build your budget to help you reach them.
 
 ## Figure out how much is coming in
 
-Some of us don't even know how much our monthly income is. We get our direct deposit and go on with our day. But it's really important to know exactly how much is coming in each month. Look at your past four paychecks. Are they consistent? What's being taken out of them besides taxes? 
+Some of us don't even know how much our monthly income is. We get our direct deposit and go on with our day. But it's really important to know exactly how much is coming in each month. Look at your past four paychecks. Are they consistent? What's being taken out of them besides taxes?
 
 ## Figure out how much is going out
 
-Look at all of your expenses. These are broken out into fixed costs, flex spending, and 
+Look at all of your expenses. These are broken out into fixed costs, flex spending, and
+
+## Decide where you can cut back
+
+kl;kj
 
 Do you want a sample budget spreadsheet to get you started? Email me at hello@maggiegermano.com!
