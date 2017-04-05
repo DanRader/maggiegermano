@@ -19,4 +19,4 @@ posts:
 - How to Be Prepared for Non-monthly Expenses
 ---
 
-Happy Financial Literacy Month! 
+Happy Financial Literacy Month! This week, I want to talk to you about creating a budget that works for you. 
