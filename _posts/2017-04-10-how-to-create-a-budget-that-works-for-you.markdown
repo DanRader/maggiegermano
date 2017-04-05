@@ -19,7 +19,7 @@ posts:
 - Do Your Money Habits Align with Your Values?
 ---
 
-Happy Financial Literacy Month! This week, I want to talk to you about creating a budget that works for you. Just like with healthy eating and exercise habits, it's hard to stick to a budget. That's usually because we are trying to stick to a budget that doesn't make sense for us.
+Happy Financial Literacy Month! This week, I want to talk to you about creating a budget that works for you. Just like with healthy eating and exercise habits, it's really hard to stick to a budget. That's usually because we are trying to stick to a budget that doesn't make sense for us. So let's figure out how we can create a budget that will help us be financially successful. 
 
 ## Identify your financial goals
 
