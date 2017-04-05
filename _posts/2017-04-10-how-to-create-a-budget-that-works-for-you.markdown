@@ -38,3 +38,5 @@ Some of us don't even know how much our monthly income is. We get our direct dep
 ## Figure out how much is going out
 
 Look at all of your expenses. These are broken out into fixed costs, flex spending, and 
+
+Do you want a sample budget spreadsheet to get you started? Email me at hello@maggiegermano.com!
