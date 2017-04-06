@@ -37,11 +37,11 @@ Now that you know your goals, you can build your budget to help you reach them.
 
 Some of us don't even know how much our monthly income is. We get our direct deposit and go on with our day. But it's really important to know exactly how much is coming in each month. Look at your past four paychecks. Are they consistent? What's being taken out of them besides taxes?
 
-Add up your monthly paychecks and any other income you typically  receive each month.
+Add up your monthly paychecks and any other income you typically receive each month.
 
 ## Figure out how much is going out
 
-Look at all of your expenses. These are broken out into fixed costs, flex spending, debt payments, and other priorities.
+Look at all of your expenses. These are broken out into fixed costs, flex spending, debt payments, and other priorities. Add them up to figure out how much you spend every month.
 
 **Fixed costs:** any costs that usually  stay the same each month. This can be rent, insurance, utilities, and subscriptions. These are the types of expenses that you usually cannot change.
 
