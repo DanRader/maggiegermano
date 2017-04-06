@@ -43,7 +43,13 @@ To make this easier, link up your accounts to programs like [Learnvest](https://
 
 ## Decide where you can cut back
 
-Compare your spending habits to the goals you just identified. Do they align?
+Compare your spending habits to the goals you just identified. Do they align? If you realize that you're spending a lot of money on things you don't value, you can make some changes.  Here are some good questions to get you started:
+
+1. Are there any subscriptions that you are paying for but not using? (ie: gym membership, magazine subscription, ZipCar, etc.)
+
+2. Are you taking a lot of cabs when you could walk, carpool, or take public transportation?
+
+3. Do you go out for lunch everyday when you could be bringing your lunch to work?
 
 \([Read more](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) about aligning your spending with your values.)
 
