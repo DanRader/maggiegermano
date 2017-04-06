@@ -43,7 +43,7 @@ Add up your monthly paychecks and any other income you typically receive each mo
 
 Look at all of your expenses. These are broken out into fixed costs, flex spending, debt payments, and other priorities. Add them all up to figure out how much you spend every month.
 
-**Fixed costs:** Any costs that usually  stay the same each month. This can be rent, insurance, utilities, or subscriptions. These are the types of expenses that you usually cannot change (even if you want to).
+**Fixed costs:** Any costs that usually  stay the same each month. This can be rent, insurance, utilities, or subscriptions. These are the types of expenses that you usually cannot change (even if you want to). Make sure you're also including non-monthly expenses in this amount. *(Read more about [preparing for those](https://www.maggiegermano.com/blog/prepare-for-non-monthly-expenses).)*
 
 **Flex spending:** This is any spending that can fluctuate from month to month. It can include groceries, gas, shopping, dining out, etc.  You usually have some control over these amounts.
 
