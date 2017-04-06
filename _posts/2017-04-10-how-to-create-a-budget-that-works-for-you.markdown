@@ -39,7 +39,7 @@ Some of us don't even know how much our monthly income is. We get our direct dep
 
 Look at all of your expenses. These are broken out into fixed costs, flex spending, and
 
-To make this easier, link up your accounts to programs like Learnvest, Personal Capital or Mint. These will automatically categorize your spending into different buckets, so you can see where you are using most of your money.
+To make this easier, link up your accounts to programs like [Learnvest](https://track.flexlinkspro.com/a.ashx?foid=1098290.41787083&foc=1&fot=9999&fos=1), [Personal Capital](https://track.flexlinkspro.com/a.ashx?foid=1098290.2107475&foc=2&fot=9999&fos=1) or Mint. These will automatically categorize your spending into different buckets, so you can see where you are using most of your money.
 
 ## Decide where you can cut back
 
