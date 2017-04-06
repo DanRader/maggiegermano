@@ -71,10 +71,10 @@ Compare your spending habits to the goals you just identified. Do they align? If
 
 If you've realized that you're spending more than you're earning, or that your money isn't going where you want it to, you can make changes.
 
-## Automate
+## Automate!
 
 The easiest way to save is to set it and forget it. Set up direct deposit from your paycheck, or have your bank make scheduled transfers. This way, you don’t have to think about it and you won’t miss the money. You’re way more likely to save when you do this.
 
-If you are working to pay down your debt, set up auto pay or set a reminder for yourself each month. You want to make sure to pay your bills on time
+If you are working to pay down your debt, set up auto pay or set a reminder for yourself each month. You want to make sure to pay your bills on time, and this will take some of the work away from you. Just make sure you have enough in your bank account each month to pay these bills!
 
 *Do you want a sample budget spreadsheet to get you started? Email me at hello@maggiegermano.com!*
