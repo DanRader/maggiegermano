@@ -33,11 +33,21 @@ Now that you know your goals, you can build your budget to help you reach them.
 
 ## Figure out how much is coming in
 
-Some of us don't even know how much our monthly income is. We get our direct deposit and go on with our day. But it's really important to know exactly how much is coming in each month. Look at your past four paychecks. Are they consistent? What's being taken out of them besides taxes?
+Some of us don't even know how much our monthly income is. We get our direct deposit and go on with our day. But it's really important to know exactly how much is coming in each month. Look at your past four paychecks. Are they consistent? What's being taken out of them besides taxes? 
+
+Add up your monthly paychecks and any other income you typically  receive each month. 
 
 ## Figure out how much is going out
 
-Look at all of your expenses. These are broken out into fixed costs, flex spending, and
+Look at all of your expenses. These are broken out into fixed costs, flex spending, debt payments, and other priorities. 
+
+Fixed costs: any costs that usually  stay the same each month. This can be rent, insurance, utilities, and subscriptions. These are the types of expenses that you usually cannot change.
+
+Flex spending: This is any spending that can fluctuate from month to month. It can include groceries, gas, shopping, dining out, etc.  You usually have some control over these amounts.
+
+Debt payments: Whatever you're paying towards any debt each month. This can include credit card debt, student loans, car payment, etc.
+
+Other priorities: 
 
 To make this easier, link up your accounts to programs like [Learnvest](https://track.flexlinkspro.com/a.ashx?foid=1098290.41787083&foc=1&fot=9999&fos=1), [Personal Capital](https://track.flexlinkspro.com/a.ashx?foid=1098290.2107475&foc=2&fot=9999&fos=1) or [Mint](www.mint.com). These will automatically categorize your spending into different buckets, so you can see where you are using most of your money.
 
