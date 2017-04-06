@@ -73,6 +73,8 @@ If you've realized that you're spending more than you're earning, or that your m
 
 When you look at how much you're earning each month, minus your fixed costs and debt payments, how much do you have left? That number is how much you should spend on flex costs and other priorities. 
 
+Throughout this process, and as you continue to use your budget, keep your eye on the prize. Track how much closer you are to your goal, print out a picture of your dream house and keep it on your desk. Remind yourself everyday that you're doing this for an important reason! That will make it easier to stick to.
+
 ## Automate!
 
 The easiest way to save is to set it and forget it. Set up direct deposit from your paycheck, or have your bank make scheduled transfers. This way, you don’t have to think about it and you won’t miss the money. You’re way more likely to save when you do this.
