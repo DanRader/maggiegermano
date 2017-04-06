@@ -19,7 +19,7 @@ posts:
 - Do Your Money Habits Align with Your Values?
 ---
 
-Happy Financial Literacy Month! This week, I want to talk to you about creating a budget that works for you. Just like with healthy eating and exercise habits, it's really hard to stick to a budget. That's usually because we are trying to stick to a budget that doesn't make sense for us. So let's figure out how you can create a budget that will help you to be financially successful. 
+Happy Financial Literacy Month! This week, I want to talk to you about creating a budget that works for you. Just like with healthy eating and exercise habits, it's really hard to stick to a budget. That's usually because we are trying to stick to a budget that doesn't make sense for us. So let's figure out how you can create a budget that will help you to be financially successful.
 
 ## Identify your financial goals
 
@@ -39,8 +39,16 @@ Some of us don't even know how much our monthly income is. We get our direct dep
 
 Look at all of your expenses. These are broken out into fixed costs, flex spending, and
 
+To make this easier, link up your accounts to programs like Learnvest, Personal Capital or Mint. These will automatically categorize your spending into different buckets, so you can see where you are using most of your money.
+
 ## Decide where you can cut back
 
 kl;kj
+
+## Automate
+
+The easiest way to save is to set it and forget it. Set up direct deposit from your paycheck, or have your bank make scheduled transfers. This way, you don’t have to think about it and you won’t miss the money. You’re way more likely to save when you do this.
+
+If you are working to pay down your debt, set up auto pay or set a reminder for yourself each month. You want to make sure to pay your bills on time
 
 Do you want a sample budget spreadsheet to get you started? Email me at hello@maggiegermano.com!
