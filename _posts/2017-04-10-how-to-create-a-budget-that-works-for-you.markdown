@@ -12,7 +12,7 @@ tags:
 - personal finance
 image: "/uploads/budget.jpg"
 tweet: 'We can talk about #budgeting, but it''s only successful if our #budget works
-  for us. Learn how!'
+  for us. Learn how to make it so!'
 posts:
 - You Can Have Fun with Your Friends While Spending Less
 - 9 Easy Changes to Make Now to Spend Less Money
