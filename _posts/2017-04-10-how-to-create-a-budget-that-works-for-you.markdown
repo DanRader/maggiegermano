@@ -43,7 +43,9 @@ To make this easier, link up your accounts to programs like [Learnvest](https://
 
 ## Decide where you can cut back
 
-kl;kj
+Compare your spending habits to the goals you just identified. Do they align?
+
+\([Read more](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) about aligning your spending with your values.)
 
 ## Automate
 
