@@ -71,11 +71,11 @@ Compare your spending habits to the goals you just identified. Do they align? If
 
 If you've realized that you're spending more than you're earning, or that your money isn't going where you want it to, you can make changes. You have the power!
 
-When you look at how much you're earning each month, minus your fixed costs and debt payments, how much do you have left? That number is how much you should spend on flex costs and other priorities. 
+When you look at how much you're earning each month, minus your fixed costs and debt payments, how much do you have left? That number is how much you should spend on flex costs and other priorities. Don't go over that number or you risk going into debt. Allocate the number based on your needs and want. Obviously you can't cut out things like food, but you can spend less on dining out, while buying groceries more often. You can make coffee at home and bring your lunch to work. You can cut back on unnecessary shopping trips. 
 
-Throughout this process, and as you continue to use your budget, keep your eye on the prize. Track how much closer you are to your goal, print out a picture of your dream house and keep it on your desk. Remind yourself everyday that you're doing this for an important reason! That will make it easier to stick to.
+Throughout this process, and as you continue to use your budget, keep your eye on the prize. Track how much closer you are to your goal. Print out a picture of your dream house and keep it on your desk. Remind yourself everyday that you're doing this for an important reason! You're doing it for YOU! That will make it easier to stick to.
 
-## Automate!
+## Automate what you can
 
 The easiest way to save is to set it and forget it. Set up direct deposit from your paycheck, or have your bank make scheduled transfers. This way, you don’t have to think about it and you won’t miss the money. You’re way more likely to save when you do this.
 
