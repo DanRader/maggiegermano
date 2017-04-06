@@ -65,6 +65,10 @@ Compare your spending habits to the goals you just identified. Do they align? If
 
 3. Do you go out for lunch everyday when you could be bringing your lunch to work?
 
+4. Is your money going towards the things you enjoy the most?
+
+5. Do you regret any of your spending over the past few months?
+
 *([Read more](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) about aligning your spending with your values.)*
 
 ## Adjust your spending as necessary
