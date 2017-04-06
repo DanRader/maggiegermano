@@ -12,7 +12,7 @@ tags:
 - personal finance
 image: "/uploads/budget.jpg"
 tweet: 'We can talk about #budgeting, but it''s only successful if our #budget works
-  for us. Learn how to make it so!'
+  for us. Learn how to make it so'
 posts:
 - You Can Have Fun with Your Friends While Spending Less
 - 9 Easy Changes to Make Now to Spend Less Money
@@ -73,4 +73,4 @@ The easiest way to save is to set it and forget it. Set up direct deposit from y
 
 If you are working to pay down your debt, set up auto pay or set a reminder for yourself each month. You want to make sure to pay your bills on time
 
-Do you want a sample budget spreadsheet to get you started? Email me at hello@maggiegermano.com!
+*Do you want a sample budget spreadsheet to get you started? Email me at hello@maggiegermano.com!*
