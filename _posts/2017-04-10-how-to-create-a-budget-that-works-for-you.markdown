@@ -67,6 +67,10 @@ Compare your spending habits to the goals you just identified. Do they align? If
 
 *([Read more](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) about aligning your spending with your values.)*
 
+## ust your spending as necessary
+
+If you've realized that you're spending more than you're earning, or that your money isn't going where you want it to, you can make changes.
+
 ## Automate
 
 The easiest way to save is to set it and forget it. Set up direct deposit from your paycheck, or have your bank make scheduled transfers. This way, you don’t have to think about it and you won’t miss the money. You’re way more likely to save when you do this.
