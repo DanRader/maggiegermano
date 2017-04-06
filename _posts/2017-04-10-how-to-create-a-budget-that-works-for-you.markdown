@@ -47,7 +47,7 @@ Look at all of your expenses. These are broken out into fixed costs, flex spendi
 
 **Flex spending:** This is any spending that can fluctuate from month to month. It can include groceries, gas, shopping, dining out, etc.  You usually have some control over these amounts.
 
-**Debt payments:** Whatever you're paying towards any debt each month. This can include credit card debt, student loans, car payment, etc. 
+**Debt payments:** Whatever you're paying towards any debt each month. This can include credit card debt, student loans, car payment, etc.
 
 **Other priorities:** This amount is anything you're putting towards other goals, like savings or paying extra towards your debt.
 
@@ -67,7 +67,7 @@ Compare your spending habits to the goals you just identified. Do they align? If
 
 *([Read more](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) about aligning your spending with your values.)*
 
-## ust your spending as necessary
+## Adjust your spending as necessary
 
 If you've realized that you're spending more than you're earning, or that your money isn't going where you want it to, you can make changes.
 
