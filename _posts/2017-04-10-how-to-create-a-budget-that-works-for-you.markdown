@@ -35,9 +35,9 @@ Now that you know your goals, you can build your budget to help you reach them.
 
 ## Figure out how much is coming in
 
-Some of us don't even know how much our monthly income is. We get our direct deposit and go on with our day. But it's really important to know exactly how much is coming in each month. Look at your past four paychecks. Are they consistent? What's being taken out of them besides taxes?
+Some of us don't even know how much our monthly income is. We get our direct deposit and go on with our day. But it's really important to know exactly how much is coming in each month. You can't plan ahead if you don't know what you're working with.
 
-Add up your monthly paychecks and any other income you typically receive each month.
+Look at your past four paychecks. Are they consistent? What's being taken out of them besides taxes? Add up your monthly paychecks and any other income you typically receive. That's the maximum amount of money you should be spending on everything each month.
 
 ## Figure out how much is going out
 
@@ -65,15 +65,19 @@ Compare your spending habits to the goals you just identified. Do they align? If
 
 3. Do you go out for lunch everyday when you could be bringing your lunch to work?
 
+4. Is your money going towards the things you enjoy the most?
+
+5. Do you regret any of your spending over the past few months?
+
 *([Read more](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) about aligning your spending with your values.)*
 
 ## Adjust your spending as necessary
 
 If you've realized that you're spending more than you're earning, or that your money isn't going where you want it to, you can make changes. You have the power!
 
-When you look at how much you're earning each month, minus your fixed costs and debt payments, how much do you have left? That number is how much you should spend on flex costs and other priorities. Don't go over that number or you risk going into debt. Allocate the number based on your needs and want. Obviously you can't cut out things like food, but you can spend less on dining out, while buying groceries more often. You can make coffee at home and bring your lunch to work. You can cut back on unnecessary shopping trips. 
+When you look at how much you're earning each month, minus your fixed costs and debt payments, how much do you have left? That number is how much you should spend on flex costs and other priorities. Don't go over that number or you risk going into debt. Allocate the number based on your needs and wants. Obviously you can't cut out things like food, but you can spend less on dining out, while buying groceries more often. You can make coffee at home and bring your lunch to work. You can cut back on unnecessary shopping trips. *(Share in the comments how you're planning to make changes!)*
 
-Throughout this process, and as you continue to use your budget, keep your eye on the prize. Track how much closer you are to your goal. Print out a picture of your dream house and keep it on your desk. Remind yourself everyday that you're doing this for an important reason! You're doing it for YOU! That will make it easier to stick to.
+Throughout this process, and as you continue to use your budget, keep your eye on the prize. Track how much closer you are to your goal each month. Print out a picture of your dream house and keep it on your desk. Remind yourself everyday that you're doing this for an important reason! You're doing it for YOU! That will make it easier to stick to.
 
 ## Automate what you can
 
