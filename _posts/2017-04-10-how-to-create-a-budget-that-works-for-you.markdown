@@ -69,7 +69,7 @@ Compare your spending habits to the goals you just identified. Do they align? If
 
 ## Adjust your spending as necessary
 
-If you've realized that you're spending more than you're earning, or that your money isn't going where you want it to, you can make changes.
+If you've realized that you're spending more than you're earning, or that your money isn't going where you want it to, you can make changes. You have the power!
 
 When you look at how much you're earning each month, minus your fixed costs and debt payments, how much do you have left? That number is how much you should spend on flex costs and other priorities. 
 
@@ -78,5 +78,7 @@ When you look at how much you're earning each month, minus your fixed costs and 
 The easiest way to save is to set it and forget it. Set up direct deposit from your paycheck, or have your bank make scheduled transfers. This way, you don’t have to think about it and you won’t miss the money. You’re way more likely to save when you do this.
 
 If you are working to pay down your debt, set up auto pay or set a reminder for yourself each month. You want to make sure to pay your bills on time, and this will take some of the work away from you. Just make sure you have enough in your bank account each month to pay these bills!
+
+**Note: **If you're already living on a bare bones budget, and still have nothing leftover, you might have to bring in more income. Can you ask for a raise at work soon? Perhaps you can take on a side gig, like babysitting, dog walking, or bartending. Another option is to monetize your skills. If you're an awesome writer or copy editor, put yourself out there for hire!
 
 *Do you want a sample budget spreadsheet to get you started? Email me at hello@maggiegermano.com!*
