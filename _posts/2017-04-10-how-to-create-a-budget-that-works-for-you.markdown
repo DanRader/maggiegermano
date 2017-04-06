@@ -31,25 +31,29 @@ Make sure you write those goals down - you’re much more likely to reach them t
 
 Now that you know your goals, you can build your budget to help you reach them.
 
+*(Need some ideas for goals to work towards? Check out these [simple financial goals](https://www.maggiegermano.com/blog/3-easy-financial-goals-for-2017/) for 2017.)*
+
 ## Figure out how much is coming in
 
-Some of us don't even know how much our monthly income is. We get our direct deposit and go on with our day. But it's really important to know exactly how much is coming in each month. Look at your past four paychecks. Are they consistent? What's being taken out of them besides taxes? 
+Some of us don't even know how much our monthly income is. We get our direct deposit and go on with our day. But it's really important to know exactly how much is coming in each month. Look at your past four paychecks. Are they consistent? What's being taken out of them besides taxes?
 
-Add up your monthly paychecks and any other income you typically  receive each month. 
+Add up your monthly paychecks and any other income you typically  receive each month.
 
 ## Figure out how much is going out
 
-Look at all of your expenses. These are broken out into fixed costs, flex spending, debt payments, and other priorities. 
+Look at all of your expenses. These are broken out into fixed costs, flex spending, debt payments, and other priorities.
 
-Fixed costs: any costs that usually  stay the same each month. This can be rent, insurance, utilities, and subscriptions. These are the types of expenses that you usually cannot change.
+**Fixed costs:** any costs that usually  stay the same each month. This can be rent, insurance, utilities, and subscriptions. These are the types of expenses that you usually cannot change.
 
-Flex spending: This is any spending that can fluctuate from month to month. It can include groceries, gas, shopping, dining out, etc.  You usually have some control over these amounts.
+**Flex spending:** This is any spending that can fluctuate from month to month. It can include groceries, gas, shopping, dining out, etc.  You usually have some control over these amounts.
 
-Debt payments: Whatever you're paying towards any debt each month. This can include credit card debt, student loans, car payment, etc.
+**Debt payments:** Whatever you're paying towards any debt each month. This can include credit card debt, student loans, car payment, etc.
 
-Other priorities: 
+**Other priorities:** This amount is any money you're putting towards other goals, like savings or paying extra towards your debt.
 
-To make this easier, link up your accounts to programs like [Learnvest](https://track.flexlinkspro.com/a.ashx?foid=1098290.41787083&foc=1&fot=9999&fos=1), [Personal Capital](https://track.flexlinkspro.com/a.ashx?foid=1098290.2107475&foc=2&fot=9999&fos=1) or [Mint](www.mint.com). These will automatically categorize your spending into different buckets, so you can see where you are using most of your money.
+To make this easier, link up your accounts to programs like [Learnvest](https://track.flexlinkspro.com/a.ashx?foid=1098290.41787083&foc=1&fot=9999&fos=1), [Personal Capital](https://track.flexlinkspro.com/a.ashx?foid=1098290.2107475&foc=2&fot=9999&fos=1) or [Mint](www.mint.com). They will automatically categorize your spending into different buckets, so you can see where you are using most of your money.
+
+Once you can see how much is going out during a typical month, you can see how that compares to what is coming in. Are you spending more than you earn? Do you have money leftover that you can allocate to your financial goals?
 
 ## Decide where you can cut back
 
@@ -61,7 +65,7 @@ Compare your spending habits to the goals you just identified. Do they align? If
 
 3. Do you go out for lunch everyday when you could be bringing your lunch to work?
 
-\([Read more](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) about aligning your spending with your values.)
+*([Read more](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) about aligning your spending with your values.)*
 
 ## Automate
 
