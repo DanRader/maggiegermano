@@ -1,5 +1,5 @@
 ---
-title: How to Use Credit Cards Successfully
+title: You Can Make Credit Cards Work for You
 date: 2017-04-17 11:00:00 -04:00
 published: false
 categories:
