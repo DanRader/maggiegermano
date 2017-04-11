@@ -14,6 +14,7 @@ tags:
 - financial health
 - financial literacy
 - financial literacy month
+image: "/uploads/globe.jpg"
 tweet: 'Credit cards aren''t inherently bad. Find out how to use yours properly! #credit
   #money #creditcard'
 posts:
@@ -22,7 +23,7 @@ posts:
 - Why You Should Care About Your Credit Score
 ---
 
-blah blah
+Credit cards get a bad wrap. 
 
 *See below for a cool infographic from [Fundera](https://www.fundera.com/) about the path to credit card success.*
 
