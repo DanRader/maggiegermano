@@ -25,6 +25,6 @@ posts:
 
 Credit cards get a bad wrap. 
 
-*See below for a cool infographic from [Fundera](https://www.fundera.com/) about the path to credit card success.*
+*See below for a cool infographic from [Fundera](https://www.fundera.com/) for more about the path to credit card success.*
 
 ![fundera_CC_basics_x2_v04.jpg](/uploads/fundera_CC_basics_x2_v04.jpg)
