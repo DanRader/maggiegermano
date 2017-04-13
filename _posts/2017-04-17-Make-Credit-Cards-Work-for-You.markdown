@@ -57,9 +57,11 @@ Now, why do all of those things? What can credit cards really do for you?
 
 ## Airline miles
 
-Do you travel a lot? Even if you just fly home a few times a year, an airline card might be a good option for you. Most airline cards include free checked bags, and some even have a companion pass. 
+Do you travel a lot? Even if you just fly home a few times a year, an airline card might be a good option for you. Most airline cards include free checked bags, and some even have a companion pass. If you tend to fly the same airline everytime you travel, consider getting their rewards card. Most of these cards also offer a bonus amount once you reach a minimum spending requirement. These bonuses can range from 20,000-100,000 miles. *(Note: be careful. If you know you can't afford to reach the minimum spending requirement before the deadline, don't get a card like this. Don't overspend just to get bonus miles.)*
 
 ## Cash back
+
+I love cash back cards. You can use it on anything and the rewards won't expire as long as you keep your account open. 
 
 ## Other rewards
 
