@@ -8,6 +8,7 @@ event-date: 2017-05-23 18:30:00 -04:00
 start-time: 6:30PM
 end-time: 8:30PM
 location: Provided upon RSVP (NW DC)
+button-text: Sign Me Up
 is-money-circle: true
 ticket-price: "$15"
 ---
