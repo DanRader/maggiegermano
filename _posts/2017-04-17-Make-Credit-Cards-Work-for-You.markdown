@@ -34,19 +34,19 @@ Another reason that credit cards are great are the rewards that come with them. 
 
 If you trust yourself to manage credit cards well, there are a few rules to follow.
 
-1. Always pay on time. 
+## Always pay on time.
 
 If you don't trust yourself to remember, set up auto-pay. Otherwise, set a calendar reminder for your due dates.
 
-2. Always pay off your balance. 
+## Always pay off your balance.
 
 Interest rates on rewards cards tend to be sky high. That's how the companies are earning money while also giving you points, miles, and cash back. If you pay off your balance in full each month, you won't incur the high interest.
 
-3. Keep track of your one year anniversary. 
+## Keep track of your one year anniversary.
 
 Many rewards cards have no annual fee for the first year of having the card. Once that year is up, you will be charged anywhere from $50-450, depending on the car you have. If you don't want to owe an annual fee, make sure you either call and ask them to waive it for another year, ask them to downgrade you to the no-fee card, or cancel the card all together. Note: Closing a credit card within a year won't seriously hurt your credit score. It's your older accounts that matter the most.
 
-4. Keep track of all of your cards. 
+## Keep track of all of your cards.
 
 Having multiple credit cards can be great if you're taking advantage of all the rewards. But if you lose track of which cards you owe money on, you can get yourself into trouble. Missing payments can hurt your credit score, which can hurt your credit worthiness later on.
 
