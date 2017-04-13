@@ -53,6 +53,16 @@ Interest rates on rewards cards tend to be sky high. That's how the companies ar
 
 Having multiple credit cards can be great if you're taking advantage of all the rewards. But if you lose track of which cards you owe money on, you can get yourself into trouble. Missing payments can hurt your credit score, which can hurt your credit worthiness later on. Again, if you get stressed trying to manage your financial accounts, or you don't trust yourself with more than one credit card, don't do it!
 
+Now, why do all of those things? What can credit cards really do for you?
+
+## Airline miles
+
+Do you travel a lot? Even if you just fly home a few times a year, an airline card might be a good option for you. Most airline cards include free checked bags, and some even have a companion pass. 
+
+## Cash back
+
+## Other rewards
+
 *See below for a cool infographic from [Fundera](https://www.fundera.com/) for more about the path to credit card success.*
 
 ![fundera_CC_basics_x2_v04.jpg](/uploads/fundera_CC_basics_x2_v04.jpg)
