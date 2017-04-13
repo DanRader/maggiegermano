@@ -29,9 +29,9 @@ Before I get into how to get the most out of your credit cards, there's an impor
 
 There are a few reasons that credit cards are great. First of all, they help you build your credit history. If you've gone through your whole life without any credit cards or other loans, you won't have any credit history. This negatively impacts your [credit score](https://www.maggiegermano.com/blog/care-about-your-credit-score), and will hurt your chances for being approved for other loans like a mortgage or personal loan.
 
-Another reason that credit cards are great is the rewards that can come with them. I went too long in my life only using my debit card or credit cards that had no rewards program. I know better now, and only use cards that maximize rewards.
+Another reason that credit cards are great is the rewards that can come with them. I went too long in my life only using my debit card or credit cards that had no rewards program. I know better now, and I only use cards that maximize my rewards.
 
-If you trust yourself to manage credit cards well, there are a initial few rules to follow.
+If you trust yourself to manage credit cards well, there are a few rules to follow.
 
 ## Only spend what you can afford to pay back.
 
@@ -47,25 +47,21 @@ Interest rates on rewards cards tend to be sky high. That's how the companies ar
 
 ## Keep track of your one year anniversary.
 
-*(Note: This only applies if you're using rewards credit cards to maximize your ability to travel. It's not for everyone.)* Many rewards cards have no annual fee for the first year of having the card. Once that year is up, you will be charged anywhere from $50-450, depending on the car you have. If you don't want to owe an annual fee, make sure you either call and ask them to waive it for another year, ask them to downgrade you to a no-fee card, or cancel the card all together. *(Another note: Closing a credit card within a year won't seriously hurt your credit score. It's your older accounts that matter the most.)*
+*(Note: This only applies if you're using rewards credit cards to maximize your ability to travel. It's not for everyone.)* Many rewards cards have no annual fee for the first year of having the card. Once that year is up, you will be charged anywhere from $50-450, depending on the card you have. If you don't want to owe an annual fee, make sure you either call and ask them to waive it for another year, ask them to downgrade you to a no-fee card, or cancel the card all together. *(Another note: Closing a credit card within a year won't seriously hurt your credit score. It's your older accounts that matter the most.)*
 
-## Keep track of all of your cards.
-
-Having multiple credit cards can be great if you're taking advantage of all the rewards. But if you lose track of which cards you owe money on, you can get yourself into trouble. Missing payments can hurt your credit score, which can hurt your credit worthiness later on. Again, if you get stressed trying to manage your financial accounts, or you don't trust yourself with more than one credit card, don't do it!
-
-Now, why do all of those things? What can credit cards really do for you?
+Now, why do all of those things? What can credit cards really do for you? They can save or make you money if you use them right!
 
 ## Airline miles
 
-Do you travel a lot? Even if you just fly home a few times a year, an airline card might be a good option for you. Most airline cards include free checked bags, and some even have a companion pass. If you tend to fly the same airline everytime you travel, consider getting their rewards card. Most of these cards also offer a bonus amount once you reach a minimum spending requirement. These bonuses can range from 20,000-100,000 miles. *(Note: be careful. If you know you can't afford to reach the minimum spending requirement before the deadline, don't get a card like this. Don't overspend just to get bonus miles.)*
+Do you travel a lot? Even if you just fly home a few times a year, an airline card might be a good option for you. Most airline cards include free checked bags, and some even have a companion pass (when someone can fly with you for a low price). If you tend to fly the same airline every time you travel, consider getting their rewards card. Most of these cards also offer a bonus amount once you reach a minimum spending requirement. These bonuses can range from 20,000-100,000 miles. Those miles can be used for free flights in the future. For example, I flew roundtrip to the UK for only $100 in taxes and fees, using my American Airlines miles. *(Note: Be careful. If you know you can't afford to reach the minimum spending requirement before the deadline, don't get a card like this. Don't overspend just to get bonus miles.)*
 
 ## Cash back
 
-I love cash back cards. You can use it on anything and the rewards won't expire as long as you keep your account open. Many of these cards also come with a large bonus amount in the beginning. You then continue to accrue cash back as you're using the cards. This cash back can be transferred directly to your bank account, or you can use it with any account partners to get discounts when you shop. The spending requirements tend to be lower on these cards than airline cards, but stil be vigilant and honest about what you can afford.
+I love cash back cards. You can use it on anything and the rewards won't expire as long as you keep your account open. Many of these cards also come with a large bonus amount in the beginning. You then continue to accrue cash back as you're using the cards. This cash back can be transferred directly to your bank account, or you can use it with any account partners to get discounts when you shop. The spending requirements tend to be lower on these cards than airline cards, but still be vigilant and honest about what you can afford.
 
 ## Other rewards
 
-Some credit cards are not affiliated with a specific airline, but they still offer travel rewards. 
+Some credit cards are not affiliated with a specific airline, but they still offer travel rewards.
 
 Do you use rewards credit cards? What do you love about them? What do you hate about them? Share your story in the comments below!
 
