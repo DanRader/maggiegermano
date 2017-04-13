@@ -61,7 +61,7 @@ I love cash back cards. You can use it on anything and the rewards won't expire 
 
 ## Other rewards
 
-Some credit cards are not affiliated with a specific airline, but they still offer travel rewards.
+There are many other kinds of rewards cards. Hotels, car rental companies, and more have their own credit cards. There are also credit cards that have rewards that can be transferred to an airline or hotel  as points. Think about the types of rewards that would do you the best good. 
 
 Do you use rewards credit cards? What do you love about them? What do you hate about them? Share your story in the comments below!
 
