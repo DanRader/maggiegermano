@@ -23,15 +23,19 @@ posts:
 - Why You Should Care About Your Credit Score
 ---
 
-Credit cards get a bad wrap. We are taught that they are inherently bad and to avoid them at all costs. But what if you could make your credit cards work for you? I think you can!
+Credit cards get a bad rap. We are taught that they are inherently bad and to avoid them at all costs. But what if you could make your credit cards work for you? I think you can!
 
-Before I get into how to get the most out of your credit cards, there's a step you must take. **Know thyself.** Be fully aware of and honest about your habits and any money issues you have had in the past. If you struggle to pay back your credit cards in full, using rewards cards may not be the best choice for you. Of course, there are ways to mitigate those issues, and I'll get into that later.
+Before I get into how to get the most out of your credit cards, there's an important first step you must take. **Know thyself.** Be fully aware of and honest about your habits and any money issues you have had in the past. If you struggle to pay back your credit cards in full, using credit cards may not be the best choice for you. Of course, there are ways to mitigate those issues, and I'll get into that later.
 
-There are a few reasons that credit cards are great. First of all, they help you build your credit history. If you've gone through your whole life without any credit cards or other loans, you won't have any credit history. This impacts your [credit score](https://www.maggiegermano.com/blog/care-about-your-credit-score), and will hurt your chances for being approved for other loans like a mortgage or personal loan.
+There are a few reasons that credit cards are great. First of all, they help you build your credit history. If you've gone through your whole life without any credit cards or other loans, you won't have any credit history. This negatively impacts your [credit score](https://www.maggiegermano.com/blog/care-about-your-credit-score), and will hurt your chances for being approved for other loans like a mortgage or personal loan.
 
-Another reason that credit cards are great are the rewards that come with them. I went too long in my life only using my debit card or credit cards that had no rewards program.
+Another reason that credit cards are great is the rewards that can come with them. I went too long in my life only using my debit card or credit cards that had no rewards program. I know better now, and only use cards that maximize rewards.
 
-If you trust yourself to manage credit cards well, there are a few rules to follow.
+If you trust yourself to manage credit cards well, there are a initial few rules to follow.
+
+## Only spend what you can afford to pay back.
+
+This might seem like common sense, but most people look at credit cards as free money. Think of your credit card in the same way as you would your debit card. Pay attention to your [budget](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/), and know how much money you can spend each month without going into the red. Then, only put that much money on your card each month.
 
 ## Always pay on time.
 
@@ -47,7 +51,7 @@ Interest rates on rewards cards tend to be sky high. That's how the companies ar
 
 ## Keep track of all of your cards.
 
-Having multiple credit cards can be great if you're taking advantage of all the rewards. But if you lose track of which cards you owe money on, you can get yourself into trouble. Missing payments can hurt your credit score, which can hurt your credit worthiness later on. Again, if you get stressed trying to manage your financial accounts, or you don't trust yourself with more than one credit card, don't do this!
+Having multiple credit cards can be great if you're taking advantage of all the rewards. But if you lose track of which cards you owe money on, you can get yourself into trouble. Missing payments can hurt your credit score, which can hurt your credit worthiness later on. Again, if you get stressed trying to manage your financial accounts, or you don't trust yourself with more than one credit card, don't do it!
 
 *See below for a cool infographic from [Fundera](https://www.fundera.com/) for more about the path to credit card success.*
 
