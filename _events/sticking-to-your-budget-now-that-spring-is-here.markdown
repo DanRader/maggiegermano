@@ -1,6 +1,6 @@
 ---
 title: Sticking to Your Budget Now that Spring is Here
-date: 2017-04-13 10:04:00 -04:00
+date: 2017-05-23 18:30:00 -04:00
 published: false
 image: "/uploads/spring.jpg"
 og-image: "/uploads/-Ask%20for%20what%20you%20want%20and%20be%20prepared%20to%20get%20it.-%20(1).png"
@@ -13,7 +13,7 @@ is-money-circle: true
 ticket-price: "$15"
 ---
 
-Happy spring! It's finally sunny and warm, and the world feels like it's full of possibilities. You're ready to give up our Netflix binging and start going to rooftop happy hours and bottomless brunches. I hear you! But you don't have to give up on the budget that you've worked so hard to create and stick to.
+Happy spring! It's finally sunny and warm, and the world feels like it's full of possibilities. You're ready to give up your Netflix binging and start going to rooftop happy hours and bottomless brunches. I hear you! But you don't have to also give up on the budget that you've worked so hard to create and stick to.
 
 So join us for Money Circle in May, and learn how to stick to your budget while also enjoying spring and everything that comes with it.
 
