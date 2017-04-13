@@ -61,7 +61,7 @@ Do you travel a lot? Even if you just fly home a few times a year, an airline ca
 
 ## Cash back
 
-I love cash back cards. You can use it on anything and the rewards won't expire as long as you keep your account open. 
+I love cash back cards. You can use it on anything and the rewards won't expire as long as you keep your account open. Many of these cards also come with a large bonus amount in the beginning. You then continue to accrue cash back as you're using the cards. This cash back can be transferred directly to your bank account, or you can use it with any account partners to get discounts when you shop. The spending requirements tend to be lower on these cards than airline cards, but stil be vigilant and honest about what you can afford.
 
 ## Other rewards
 
