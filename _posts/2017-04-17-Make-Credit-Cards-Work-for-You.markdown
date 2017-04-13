@@ -25,7 +25,7 @@ posts:
 
 Credit cards get a bad rap. We are taught that they are inherently bad and to avoid them at all costs. But what if you could make your credit cards work for you? I think you can!
 
-Before I get into how to get the most out of your credit cards, there's an important first step you must take. **Know thyself.** Be fully aware of and honest about your habits and any money issues you have had in the past. If you struggle to pay back your credit cards in full, using credit cards may not be the best choice for you. Of course, there are ways to mitigate those issues, and I'll get into that later.
+Before I get into how to get the most out of your credit cards, there's an important first step you must take. **Know thyself.** Be fully aware of and honest about your habits and any money issues you have had in the past. If you struggle to pay back your credit cards in full, using credit cards may not be the best choice for you. Of course, there are ways to mitigate those issues, and I'll write about that in a later post.
 
 There are a few reasons that credit cards are great. First of all, they help you build your credit history. If you've gone through your whole life without any credit cards or other loans, you won't have any credit history. This negatively impacts your [credit score](https://www.maggiegermano.com/blog/care-about-your-credit-score), and will hurt your chances for being approved for other loans like a mortgage or personal loan.
 
@@ -64,6 +64,10 @@ Do you travel a lot? Even if you just fly home a few times a year, an airline ca
 I love cash back cards. You can use it on anything and the rewards won't expire as long as you keep your account open. Many of these cards also come with a large bonus amount in the beginning. You then continue to accrue cash back as you're using the cards. This cash back can be transferred directly to your bank account, or you can use it with any account partners to get discounts when you shop. The spending requirements tend to be lower on these cards than airline cards, but stil be vigilant and honest about what you can afford.
 
 ## Other rewards
+
+Some credit cards are not affiliated with a specific airline, but they still offer travel rewards. 
+
+Do you use rewards credit cards? What do you love about them? What do you hate about them? Share your story in the comments below!
 
 *See below for a cool infographic from [Fundera](https://www.fundera.com/) for more about the path to credit card success.*
 
