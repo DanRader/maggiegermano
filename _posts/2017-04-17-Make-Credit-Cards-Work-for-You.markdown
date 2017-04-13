@@ -27,6 +27,8 @@ Credit cards get a bad rap. We are taught that they are inherently bad and to av
 
 Before I get into how to get the most out of your credit cards, there's an important first step you must take. **Know thyself.** Be fully aware of and honest about your habits and any money issues you have had in the past. If you struggle to pay back your credit cards in full, using credit cards may not be the best choice for you. Of course, there are ways to mitigate those issues, and I'll write about that in a later post.
 
+> Credit cards get a bad rap. We are taught that they are inherently bad and to avoid them at all costs. But what if you could make your credit cards work for you? I think you can!
+
 There are a few reasons that credit cards are great. First of all, they help you build your credit history. If you've gone through your whole life without any credit cards or other loans, you won't have any credit history. This negatively impacts your [credit score](https://www.maggiegermano.com/blog/care-about-your-credit-score), and will hurt your chances for being approved for other loans like a mortgage or personal loan.
 
 Another reason that credit cards are great is the rewards that can come with them. I went too long in my life only using my debit card or credit cards that had no rewards program. I know better now, and I only use cards that maximize my rewards.
@@ -53,7 +55,7 @@ Now, why do all of those things? What can credit cards really do for you? They c
 
 ## Airline miles
 
-Do you travel a lot? Even if you just fly home a few times a year, an airline card might be a good option for you. Most airline cards include free checked bags, and some even have a companion pass (when someone can fly with you for a low price). If you tend to fly the same airline every time you travel, consider getting their rewards card. Most of these cards also offer a bonus amount once you reach a minimum spending requirement. These bonuses can range from 20,000-100,000 miles. Those miles can be used for free flights in the future. For example, I flew roundtrip to the UK for only $100 in taxes and fees, using my American Airlines miles. *(Note: Be careful. If you know you can't afford to reach the minimum spending requirement before the deadline, don't get a card like this. Don't overspend just to get bonus miles.)*
+Do you [travel](https://www.maggiegermano.com/blog/vacation-on-a-budget) a lot? Even if you just fly home a few times a year, an airline card might be a good option for you. Most airline cards include free checked bags, and some even have a companion pass (when someone can fly with you for a low price). If you tend to fly the same airline every time you travel, consider getting their rewards card. Most of these cards also offer a bonus amount once you reach a minimum spending requirement. These bonuses can range from 20,000-100,000 miles. Those miles can be used for free flights in the future. For example, I flew roundtrip to the UK for only $100 in taxes and fees, using my American Airlines miles. *(Note: Be careful. If you know you can't afford to reach the minimum spending requirement before the deadline, don't get a card like this. Don't overspend just to get bonus miles.)*
 
 ## Cash back
 
@@ -62,6 +64,8 @@ I love cash back cards. You can use it on anything and the rewards won't expire 
 ## Other rewards
 
 There are many other kinds of rewards cards. Hotels, car rental companies, and more have their own credit cards. There are also credit cards that have rewards that can be transferred to an airline or hotel  as points. Think about the types of rewards that would do you the best good. 
+
+You can find many different credit card options [here](https://www.creditkarma.com/creditcards/explore?pubKey=RFSVDJ8NOUC11YT1&categoryID=1010&pgsz=0&adposition=1t1), along with their pros and cons. Keep in mind things like this: minimum spending requirements, foreign transaction fees, and annual fees.
 
 Do you use rewards credit cards? What do you love about them? What do you hate about them? Share your story in the comments below!
 
