@@ -4,21 +4,23 @@
 
      <!-- popup menu  -->
      <script type="text/javascript" src="/js/js.cookie.js"></script>
+     <script type="text/javascript" src="/js/jquery.leanModal.min.js"></script>
+
 
      <script type="text/javascript">
            $(function() {
                $('a[rel*=leanModal]').leanModal();
                $("#show-pop-up").click();
            });
-    //  if(  Cookies.get('popup') == undefined )
-    //       {
-    //       Cookies.set('popup', 'true', { expires: 3 });
-    // setTimeout(function() {
-    //   $('a[rel*=leanModal]').leanModal();
-    //   $("#show-pop-up").click();
-    // }, 4000);
-    //         }
+
+    //       var popupDelay = 4000;
+    //  if(  Cookies.get('popup') == undefined ){
+    //         Cookies.set('popup', 'true', { expires: 3 });
+    //         setTimeout(function() {
+    //           $('a[rel*=leanModal]').leanModal();
+    //           $("#show-pop-up").click();
+    //         }, popupDelay);
+    //     }
      </script>
 
-
- <a href="#popup" id="show-pop-up" style="display:none" rel="leanModal" name="cartEmpty">empty cart</a>
+     <a href="#popup" id="show-pop-up" style="display:none" rel="leanModal" name="cartEmpty">empty cart</a>

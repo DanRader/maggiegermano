@@ -60,7 +60,7 @@ input {
 
 .popup-content {
   border: 4px solid #B59661;
-  padding: 5% 5% 5% 35%;
+  padding: 5% 5% 5% 34%;
   z-index: 1;
   position: relative;
 }
@@ -90,12 +90,15 @@ input {
   margin-bottom: 5%;
 }
 
-.popup--x {
+.popup--x_wrap{
   position: absolute;
   top: -19px;
   right: -21px;
   background-color: white;
   padding: 10px 12px;
+}
+
+.popup--x {
   color: $maggie-gold;
   font-size: 18px;
   transition: all .2s ease-out;
@@ -105,14 +108,24 @@ input {
   }
 }
 
-.popup--image {
-  background-image: url(/uploads/popup--image.jpg);
+
+.popup--image-wrap{
   position: absolute;
+  left: 0;
+  top: 0;
   height: 100%;
   width: 28%;
   z-index: 2;
   padding: 4% 0 4% 4%;
   box-shadow: 6px 0px 19px rgba(43, 29, 4, 0.32);
+  overflow: hidden;
+}
+
+.popup--image {
+  background-image: url(/uploads/popup_piggie.jpg);
+  position: absolute;
+  width: 120%;
+  background-position: 64% 75%;
 }
 
 .popup--field {
