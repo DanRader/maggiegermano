@@ -34,7 +34,7 @@ We tend to pay all of our bills, spend our money on things we need and want, and
 
 * **Create a budget**
 
-I've said it a million times before, and I'm saying it again: you need a budget. And it should be a budget that works for you ([find out how to do so here](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/)). Your budget will map out all of your expenses
+I've said it a million times before, and I'm saying it again: you need a budget. And it should be a budget that works for you ([find out how to do so here](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/)). Your budget will map out all of your expenses and income, so that you can figure out how much you have available to put towards your goals. From there, you can choose the number(s) that you'll pay yourself first.
 
 * **Take advantage of pre-tax offerings**
 
