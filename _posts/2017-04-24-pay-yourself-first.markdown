@@ -34,7 +34,7 @@ We tend to pay all of our bills, spend our money on things we need and want, and
 
 * **Create a budget**
 
-blah blah blah i talk about this a lot
+I've said it a million times before, and I'm saying it again: you need a budget. And it should be a budget that works for you ([find out how to do so here](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/)). 
 
 * **Take advantage of pre-tax offerings**
 
