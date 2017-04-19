@@ -18,14 +18,28 @@ posts:
 
 You've probably heard "pay yourself first" a lot. I've even shared it on my social media:
 
-![Pay Yourself First.png](/uploads/Pay%20Yourself%20First.png)
+![Pay Yourself First-8dd3e9.png](/uploads/Pay%20Yourself%20First-8dd3e9.png)
 
-But do you know what that actually means? I'm here to teach you, while also telling you why you should do it.
+But do you know what that actually means? I'm here to teach you, while also explaining how and why you should do it.
 
-What is paying yourself first?
+## What is paying yourself first?
 
 Paying yourself first means that when you get paid, you pay all your bills (including debt), then you contribute to retirement, and then you put money into savings. After you've completed all those steps, you can start spending money on other things like groceries, entertainment, gas, etc. This is called paying yourself first because you're putting your money towards your own goals and priorities before doing anything else.
 
-Why should you pay yourself first?
+## Why should you pay yourself first?
 
-We tend to pay all of our bills, spend our money on things we need and want, and then save what is left over. Unfortunately, that process isn't very effective. Why? Because there's usually nothing left! If you pay yourself first
+We tend to pay all of our bills, spend our money on things we need and want, and then save what is left over. Unfortunately, that process isn't very effective. Why? Because there's usually nothing left! If you pay yourself first, all your bases will be covered up front, and you can spend what you have left without worrying or feeling bad about yourself.
+
+## How can you pay yourself first?
+
+* Create a budget
+
+blah blah blah i talk about this a lot
+
+* Take advantage of pre-tax offerings
+
+Many employers offer a retirement savings option, like a 401k or 403b. If (when) you opt into that offering, your employer will deduct the amount from your paycheck before taxes are taken out. This is beneficial for two reasons: your taxable income is lower and you don't have to think about contributing to your retirement. 
+
+* Automate
+
+I can't stress this enough. Automation is 
