@@ -32,14 +32,14 @@ We tend to pay all of our bills, spend our money on things we need and want, and
 
 ## How can you pay yourself first?
 
-* Create a budget
+* **Create a budget**
 
 blah blah blah i talk about this a lot
 
-* Take advantage of pre-tax offerings
+* **Take advantage of pre-tax offerings**
 
 Many employers offer a retirement savings option, like a 401k or 403b. If (when) you opt into that offering, your employer will deduct the amount from your paycheck before taxes are taken out. This is beneficial for two reasons: your taxable income is lower and you don't have to think about contributing to your retirement. 
 
-* Automate
+* **Automate**
 
-I can't stress this enough. Automation is 
+I can't stress this enough. Automation is key. You don't have to think about moving your money, and it becomes a habit, so you don't miss the money as much. You're also way more likely to actually save when you automate it. So set up direct deposit from your paycheck into a savings account, or set it up so that your bank moves your money for you. You'll be surprised how quickly your savings will grow when you do this.
