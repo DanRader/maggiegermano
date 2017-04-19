@@ -1,5 +1,5 @@
 ---
-title: How to Pay Yourself First
+title: Here's Why You Should Pay Yourself First
 date: 2017-04-24 11:00:00 -04:00
 published: false
 categories:
