@@ -10,6 +10,7 @@ tags:
 - automate
 - personal finance
 - money
+image: "/uploads/jars.jpg"
 posts:
 - How to Create a Budget that Works for You
 - How to Be Prepared for Non-monthly Expenses
