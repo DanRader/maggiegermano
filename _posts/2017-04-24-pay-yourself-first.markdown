@@ -24,17 +24,17 @@ But do you know what that actually means? I'm here to teach you, while also expl
 
 ## What is paying yourself first?
 
-Paying yourself first means that when you get paid, you pay all your bills (including debt), then you contribute to retirement, and then you put money into savings. After you've completed all those steps, you can start spending money on other things like groceries, entertainment, gas, etc. This is called paying yourself first because you're putting your money towards your own goals and priorities before doing anything else.
+Paying yourself first means that when you get paid, you first pay all your bills (including debt), then you contribute to retirement, and then you put money into savings (or towards other goals). After you've completed all those steps, you can then start spending money on other things like groceries, entertainment, gas, etc. This is called paying yourself first because you're putting your money towards your own goals and priorities before doing anything else with it.
 
 ## Why should you pay yourself first?
 
-We tend to pay all of our bills, spend our money on things we need and want, and then save what is left over. Unfortunately, that process isn't very effective. Why? Because there's usually nothing left! If you pay yourself first, all your bases will be covered up front, and you can spend what you have left without worrying or feeling bad about yourself.
+We tend to pay all of our bills, spend our money on things we need and want, and then save what is left over. Unfortunately, that process isn't very effective. Why? Because there's usually nothing left! If you pay yourself first, all your bases will be covered up front, and you can spend what you have left without worrying or feeling bad about yourself. This makes it easier and more likely that you will reach your financial goals, because you're prioritizing them.
 
 ## How can you pay yourself first?
 
 * **Create a budget**
 
-I've said it a million times before, and I'm saying it again: you need a budget. And it should be a budget that works for you ([find out how to do so here](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/)). 
+I've said it a million times before, and I'm saying it again: you need a budget. And it should be a budget that works for you ([find out how to do so here](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/)). Your budget will map out all of your expenses
 
 * **Take advantage of pre-tax offerings**
 
