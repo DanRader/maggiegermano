@@ -31,14 +31,20 @@ We tend to pay all of our bills, spend our money on things we need and want, and
 
 ## How can you pay yourself first?
 
-**Create a budget**
+**1. Create a budget**
 
 I've said it a million times before, and I'm saying it again: you need a budget. And it should be a budget that works for you ([find out how to do so here](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/)). Your budget will map out all of your expenses and income, so that you can figure out how much you have available to put towards your goals. From there, you can choose the number(s) that you'll pay yourself first.
 
-**Take advantage of pre-tax offerings**
+**2. Take advantage of pre-tax offerings**
 
 Many employers offer a retirement savings option, like a 401k or 403b. If (when) you opt into that offering, your employer will deduct the amount from your paycheck before taxes are taken out. This is beneficial for two reasons: your taxable income is lower and you don't have to think about contributing to your retirement.
 
-**Automate**
+**3. Automate**
 
 I can't stress this enough. Automation is key. You don't have to think about moving your money, and it becomes a habit, so you don't miss the money as much. You're also way more likely to actually save when you automate it. So set up direct deposit from your paycheck into a savings account, or set it up so that your bank moves your money for you. You'll be surprised how quickly your savings will grow when you do this.
+
+**4. Reassess**
+
+Sometimes, your circumstances change, whether for the best or for the worse. If you get a raise, you can pay yourself more! Increase your retirement contribution, debt repayment, or savings amount. By doing this first, you can avoid income creep, and reach (or surpass) your goals faster. If you lose your job, or make a change that results in less income, you may have to lower how much you can save. You want to be conscious and realistic of what you can afford, and make adjustments as necessary.
+
+How do you pay yourself first? Has it worked for you? Share in the comments!
