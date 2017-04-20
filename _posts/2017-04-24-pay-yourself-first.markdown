@@ -41,7 +41,7 @@ Many employers offer a retirement savings option, like a 401k or 403b. If (when)
 
 **3. Automate**
 
-I can't stress this enough. Automation is key. You don't have to think about moving your money, and it becomes a habit, so you don't miss the money as much. You're also way more likely to actually save when you automate it. So set up direct deposit from your paycheck into a savings account, or set it up so that your bank moves your money for you. You'll be surprised how quickly your savings will grow when you do this.
+I can't stress this enough. Automation is key. You don't have to think about moving your money, and it becomes a habit, so you don't miss the money as much. You're also way more likely to actually save when you automate it (because you can't spend it first). So set up direct deposit from your paycheck into a savings account, or set it up so that your bank moves your money for you. You'll be surprised how quickly your savings will grow when you do this.
 
 **4. Reassess**
 
