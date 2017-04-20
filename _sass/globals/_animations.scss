@@ -280,6 +280,21 @@
       margin-top: -8vh;
 }
 
+// popups
+
+@keyframes piggie {
+  0% {
+    transform: translateX(-3rem);
+  }
+  100% {
+    transform: none;
+  }
+}
+
+.an-piggie {
+  animation: piggie 0.8s ease-out forwards;
+}
+
 
 // Reusable pieces
 
