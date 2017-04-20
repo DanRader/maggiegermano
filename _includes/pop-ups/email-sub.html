@@ -8,19 +8,15 @@
 
 
      <script type="text/javascript">
-           $(function() {
-               $('a[rel*=leanModal]').leanModal();
-               $("#show-pop-up").click();
-           });
-
-    //       var popupDelay = 4000;
-    //  if(  Cookies.get('popup') == undefined ){
-    //         Cookies.set('popup', 'true', { expires: 3 });
-    //         setTimeout(function() {
-    //           $('a[rel*=leanModal]').leanModal();
-    //           $("#show-pop-up").click();
-    //         }, popupDelay);
-    //     }
+          var popupDelay = 4000;
+          var cookie = function(){
+            Cookies.set('popup', 'true', { expires: 3 });
+            $('a[rel*=leanModal]').leanModal();
+            $("#show-pop-up").click();
+          };
+          if( Cookies.get('popup') == undefined ){
+              setTimeout(cookie, popupDelay);
+          }
      </script>
 
      <a href="#popup" id="show-pop-up" style="display:none" rel="leanModal" name="cartEmpty">empty cart</a>
