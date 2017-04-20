@@ -45,4 +45,6 @@ I can't stress this enough. Automation is key. You don't have to think about mov
 
 **4. Reassess**
 
-Sometimes, your circumstances change, whether for the best or for the worse. If you get a raise, you can pay yourself more! Increase your retirement contribution, debt repayment, or savings amount. If you lose your job, or make a change that results in less income, you may have to lower how much you can save. 
+Sometimes, your circumstances change, whether for the best or for the worse. If you get a raise, you can pay yourself more! Increase your retirement contribution, debt repayment, or savings amount. By doing this first, you can avoid income creep, and reach (or surpass) your goals faster. If you lose your job, or make a change that results in less income, you may have to lower how much you can save. You want to be conscious and realistic of what you can afford, and make adjustments as necessary.
+
+How do you pay yourself first? Has it worked for you? Share in the comments!
