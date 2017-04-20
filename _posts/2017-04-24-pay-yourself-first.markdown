@@ -27,7 +27,7 @@ Paying yourself first means that when you get paid, you first pay all your bills
 
 ## Why should you pay yourself first?
 
-We tend to pay all of our bills, spend our money on things we need and want, and then save what is left over. Unfortunately, that process isn't very effective. Why? Because there's usually nothing left! If you pay yourself first, all your bases will be covered up front, and you can spend what you have left without worrying or feeling bad about yourself. This makes it easier and more likely that you will reach your financial goals, because you're prioritizing them.
+We tend to pay all of our bills, spend our money on things we need and want, and then save what is left over. Unfortunately, that process isn't very effective. Why? Because there's usually nothing left! If you pay yourself first, all your bases will be covered up front, and you can spend what you have left without worrying or feeling bad about yourself. This makes it easier and more likely that you will reach your [financial goals](https://www.maggiegermano.com/blog/3-easy-financial-goals-for-2017/), because you're prioritizing them.
 
 ## How can you pay yourself first?
 
