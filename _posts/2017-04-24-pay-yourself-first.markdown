@@ -39,11 +39,11 @@ I've said it a million times before, and I'm saying it again: you need a budget.
 
 Many employers offer a retirement savings option, like a 401k or 403b. If (when) you opt into that offering, your employer will deduct the amount from your paycheck before taxes are taken out. This is beneficial for two reasons: your taxable income is lower and you don't have to think about contributing to your retirement. Plus you often get a match from your employer, which is free money!
 
-**3. Automate**
+**3. Automate when possible**
 
 I can't stress this enough. Automation is key. You don't have to think about moving your money, and it becomes a habit, so you don't miss the money as much. You're also way more likely to actually save when you automate it (because you can't spend it first). So set up direct deposit from your paycheck into a savings account, or set it up so that your bank moves your money for you. You'll be surprised how quickly your savings will grow when you do this.
 
-**4. Reassess**
+**4. Reassess often**
 
 Sometimes, your circumstances change, whether for better or for worse. If you get a raise, you can pay yourself more! Which means you can increase your retirement contribution, debt repayment, or savings amount. By doing this first, you can avoid income creep, and reach (or surpass) your goals faster. On the other hand, if you lose your job, or make a change that results in less income, you may have to lower how much you can save. You want to be conscious and realistic of what you can afford, and make adjustments as necessary. So make sure you reassess your situation whenever things might change.
 
