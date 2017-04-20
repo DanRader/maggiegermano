@@ -10,6 +10,7 @@ tags:
 - automate
 - personal finance
 - money
+image: "/uploads/jars.jpg"
 posts:
 - How to Create a Budget that Works for You
 - How to Be Prepared for Non-monthly Expenses
@@ -24,22 +25,22 @@ But do you know what that actually means? I'm here to teach you, while also expl
 
 ## What is paying yourself first?
 
-Paying yourself first means that when you get paid, you pay all your bills (including debt), then you contribute to retirement, and then you put money into savings. After you've completed all those steps, you can start spending money on other things like groceries, entertainment, gas, etc. This is called paying yourself first because you're putting your money towards your own goals and priorities before doing anything else.
+Paying yourself first means that when you get paid, you first pay all your bills (including debt), then you contribute to retirement, and then you put money into savings (or towards other goals). After you've completed all those steps, you can then start spending money on other things like groceries, entertainment, gas, etc. This is called paying yourself first because you're putting your money towards your own goals and priorities before doing anything else with it.
 
 ## Why should you pay yourself first?
 
-We tend to pay all of our bills, spend our money on things we need and want, and then save what is left over. Unfortunately, that process isn't very effective. Why? Because there's usually nothing left! If you pay yourself first, all your bases will be covered up front, and you can spend what you have left without worrying or feeling bad about yourself.
+We tend to pay all of our bills, spend our money on things we need and want, and then save what is left over. Unfortunately, that process isn't very effective. Why? Because there's usually nothing left! If you pay yourself first, all your bases will be covered up front, and you can spend what you have left without worrying or feeling bad about yourself. This makes it easier and more likely that you will reach your financial goals, because you're prioritizing them.
 
 ## How can you pay yourself first?
 
-* Create a budget
+* **Create a budget**
 
-blah blah blah i talk about this a lot
+I've said it a million times before, and I'm saying it again: you need a budget. And it should be a budget that works for you ([find out how to do so here](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/)). Your budget will map out all of your expenses and income, so that you can figure out how much you have available to put towards your goals. From there, you can choose the number(s) that you'll pay yourself first.
 
-* Take advantage of pre-tax offerings
+* **Take advantage of pre-tax offerings**
 
 Many employers offer a retirement savings option, like a 401k or 403b. If (when) you opt into that offering, your employer will deduct the amount from your paycheck before taxes are taken out. This is beneficial for two reasons: your taxable income is lower and you don't have to think about contributing to your retirement. 
 
-* Automate
+* **Automate**
 
-I can't stress this enough. Automation is 
+I can't stress this enough. Automation is key. You don't have to think about moving your money, and it becomes a habit, so you don't miss the money as much. You're also way more likely to actually save when you automate it. So set up direct deposit from your paycheck into a savings account, or set it up so that your bank moves your money for you. You'll be surprised how quickly your savings will grow when you do this.
