@@ -24,6 +24,8 @@ posts:
 
 You've probably heard "pay yourself first" a lot. I've said it a lot on social media and to my clients. But do you know what that actually means? I'm here to teach you, while also explaining how and why you should do it.
 
+> This is called paying yourself first because you're putting your money towards your own goals and priorities before doing anything else with it.
+
 ## What is paying yourself first?
 
 Paying yourself first means that when you get paid, you first pay all your bills (including debt), then you contribute to retirement, and then you put money into savings (or towards other goals). After you've completed all those steps, you can then start spending money on other things like groceries, entertainment, gas, etc. This is called paying yourself first because you're putting your money towards your own goals and priorities before doing anything else with it.
