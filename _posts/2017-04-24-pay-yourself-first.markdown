@@ -10,6 +10,9 @@ tags:
 - automate
 - personal finance
 - money
+- financial literacy
+- financial literacy month
+- financial health
 image: "/uploads/jars.jpg"
 tweet: 'You''re way more likely to reach your #financial goals if you #payyourselffirst!
   #money'
@@ -20,6 +23,8 @@ posts:
 ---
 
 You've probably heard "pay yourself first" a lot. I've said it a lot on social media and to my clients. But do you know what that actually means? I'm here to teach you, while also explaining how and why you should do it.
+
+> This is called paying yourself first because you're putting your money towards your own goals and priorities before doing anything else with it.
 
 ## What is paying yourself first?
 
@@ -37,7 +42,7 @@ I've said it a million times before, and I'm saying it again: you need a budget.
 
 **2. Take advantage of pre-tax offerings**
 
-Many employers offer a retirement savings option, like a 401k or 403b. If (when) you opt into that offering, your employer will deduct the amount from your paycheck before taxes are taken out. This is beneficial for two reasons: your taxable income is lower and you don't have to think about contributing to your retirement. Plus you often get a match from your employer, which is free money!
+Many employers offer a retirement savings option, like a 401k or 403b. If (when) you opt into that offering, your employer will deduct the amount from your paycheck before taxes are taken out. This is beneficial for two reasons: your taxable income is lower and you don't have to think about contributing to your retirement. Plus you often get a match from your employer, which is free money! There are other pre-tax options, too, like contributing to a health savings account or a metro card. Take advantage!
 
 **3. Automate when possible**
 
