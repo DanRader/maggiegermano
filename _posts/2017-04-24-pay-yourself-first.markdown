@@ -10,6 +10,9 @@ tags:
 - automate
 - personal finance
 - money
+- financial literacy
+- financial literacy month
+- financial health
 image: "/uploads/jars.jpg"
 tweet: 'You''re way more likely to reach your #financial goals if you #payyourselffirst!
   #money'
