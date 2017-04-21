@@ -22,7 +22,7 @@ posts:
 - Why You Need an Emergency Fund
 ---
 
-You've probably heard "pay yourself first" a lot. I've said it a lot on social media and to my clients. But do you know what that actually means? I'm here to teach you, while also explaining how and why you should do it.
+You've probably heard "pay yourself first" a lot. I've said it many times on social media and to my clients. But do you know what that actually means? I'm here to teach you, while also explaining how and why you should do it.
 
 > This is called paying yourself first because you're putting your money towards your own goals and priorities before doing anything else with it.
 
