@@ -25,7 +25,7 @@ But we can still do things in our own lives that make an impact. In fact, the mo
 
 **2. Turn off the lights**
 
-;lkj;lk
+Now this is an easy thing to do. Whenever you're not in a room, turn off the light. Better yet, unplug your phone and laptop chargers when you're not using them. I plug in my chargers to a power strip and turn off the strip whenever I'm not using it, so that the chargers don't use up energy. Then, when I'm ready to use it, I just flip the power back on. It's just one easy extra step that saves a lot of energy over time. This will also help to lower your electric bill!
 
 **3. Use less plastic**
 
