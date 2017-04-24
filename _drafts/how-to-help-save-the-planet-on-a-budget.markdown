@@ -37,11 +37,11 @@ We love our cars in America. I mean, we looooove our cars. That's why we don't h
 
 **5. Buy and donate used items**
 
-I personally get a little overwhelmed in thrift stores. There's sooo much stuff, and it's not always well-organized. However, you can find some pretty amazing things that someone else didn't want anymore. Donating your things cuts down on waste, and allows other people to buy things that they may not otherwise be able to afford. You can even get a tax break if you claim the things that you've donated.
+I personally get a little overwhelmed in thrift stores. There's sooo much stuff, and it's not always well-organized. However, you can find some pretty amazing things that someone else didn't want anymore. Donating your things cuts down on landfill waste, and allows other people to buy things that they may not otherwise be able to afford. You can even get a tax break if you claim the things that you've donated.
 
 **6. Switch to clean energy**
 
-This one is obviously harder to do. We can dream of having a house covered in solar panels, but that's not always realistic. However, some utility companies do provide the option for you to choose clean energy. In fact, I just got a letter in the mail from Pepco saying that if I sign up for 100% wind/solar energy, I can get a free pass to National Parks to use for the rest of the year.
+This one is obviously harder to do. We can dream of having a house covered in solar panels (just me?), but that's not always realistic. However, some utility companies do provide the option for you to choose clean energy. In fact, I just got a letter in the mail from Pepco saying that if I sign up for 100% wind/solar energy, I can get a free pass to National Parks to use for the rest of the year.
 
 **7. Buy local**
 
