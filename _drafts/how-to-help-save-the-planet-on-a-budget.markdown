@@ -57,4 +57,4 @@ This isn't always possible, especially if you live in a city like I do. I wish I
 
 **10. Call your representatives**
 
-This is last but it's certainly not least. We need to show our elected officials that environmental protection matters, and we need them to support it. We need the EPA and we need to mitigate for climate change. We need clean air and water. Don't let dirty energy lobbyists be the loudest voices. There's more of us anyway.
+This is last but it's certainly not least. We need to show our elected officials that environmental protection matters, and we need them to support it. We need the EPA and we need to mitigate for climate change. We need clean air and water. Don't let dirty energy lobbyists be the loudest voices. There's more of us than them anyway.
