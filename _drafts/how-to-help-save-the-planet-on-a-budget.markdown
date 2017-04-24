@@ -53,8 +53,8 @@ Sustainability is becoming more popular. So not only is it better for the planet
 
 **9. Plant a tree**
 
-Blah blah
+This isn't always possible, especially if you live in a city like I do. I wish I could go outside and plant a bunch of trees in my yard! 
 
 **10. Call your representatives**
 
-This is last but it's certainly not least. 
+This is last but it's certainly not least. We need to show our elected officials that environmental protection matters, and we need them to support it. We need the EPA, we need to mitigate for climate change. 
