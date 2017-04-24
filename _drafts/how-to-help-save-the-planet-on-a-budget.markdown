@@ -49,7 +49,7 @@ l;akdf
 
 **8. Patron companies that prioritize sustainability**
 
-Sustainability is becoming more popular. So not only is it better for the planet, but it's good for business too. The more people demand environmentally responsible practices, the more companies will adopt them. Try to buy from companies that already believe in sustainability. If there's a company that you love that could improve, ask it to improve. 
+Sustainability is becoming more popular. So not only is it better for the planet, but it's good for business too. The more people demand environmentally responsible practices, the more companies will adopt them. Try to buy from companies that already believe in sustainability. If there's a company that you love that could improve, ask it to to better.  
 
 **9. Plant a tree**
 
