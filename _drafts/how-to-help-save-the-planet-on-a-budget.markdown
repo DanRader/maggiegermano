@@ -21,7 +21,7 @@ But we can still do things in our own lives that make an impact. In fact, the mo
 
 **1. Use low-energy light bulbs and appliances**
 
-;lkj;
+By now, most of us probably use compact fluorescent light bulbs (CFLs)
 
 **2. Turn off the lights**
 
@@ -37,7 +37,7 @@ We love our cars in America. I mean, we looooove our cars. That's why we don't h
 
 **5. Buy and donate used items**
 
-I personally get a little overwhelmed in thrift stores. There's sooo much stuff, and it's not always well-organized. However, you can find some pretty amazing things that someone else didn't want anymore. Donating your things cuts down on waste, and allows other people to buy things that they may not otherwise be able to afford. You can even get a tax break if you claim the things that you've donated. 
+I personally get a little overwhelmed in thrift stores. There's sooo much stuff, and it's not always well-organized. However, you can find some pretty amazing things that someone else didn't want anymore. Donating your things cuts down on waste, and allows other people to buy things that they may not otherwise be able to afford. You can even get a tax break if you claim the things that you've donated.
 
 **6. Switch to clean energy**
 
