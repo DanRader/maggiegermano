@@ -1,11 +1,16 @@
 ---
 title: How to Help Save the Planet on a Budget
-date: 2017-04-23 21:10:00 -04:00
+date: 2017-05-01 11:00:00 -04:00
 tags:
 - earth
 - nature
 - climate change
 - earth day
+image: "/uploads/nature.jpg"
+posts:
+- Do Your Money Habits Align with Your Values?
+- 9 Easy Changes to Make Now to Spend Less Money
+- Where You Can Put Your Money If You're Feeling Hopeless
 ---
 
 Earth Day was on April 22nd, and this past Saturday was the Climate March. While pondering what more I can do for the planet, I was inspired to write this post.
