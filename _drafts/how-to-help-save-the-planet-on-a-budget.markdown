@@ -37,7 +37,7 @@ We love our cars in American. I mean, we looooove our cars. That's why we don't 
 
 **5. Buy and donate used items**
 
-;lkj;k
+I personally get a little overwhelmed in thrift stores. There's sooo much stuff, and it's not always well-organized. However, you can find some pretty amazing things that someone else didn't want anymore. 
 
 **6. Switch to clean energy**
 
