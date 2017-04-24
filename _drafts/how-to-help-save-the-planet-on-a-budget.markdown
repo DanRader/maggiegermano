@@ -29,7 +29,7 @@ But we can still do things in our own lives that make an impact. In fact, the mo
 
 **3. Use less plastic**
 
-Plastic is actually the worst. As you might have heard, two dead sperm whales recently washed up on shore, with their stomachs filled with plastic. There's an island made of plastic floating in the ocean, and it's twice the size of Texas. Plastic takes XX years to biodegrade. Of course, you can't always avoid plastic all together. But if you do use plastic, make sure to recycle it!
+Plastic is actually the worst. As you might have heard, two dead sperm whales recently washed up on shore, with their stomachs filled with plastic. There's an island made of plastic floating in the ocean, and it's twice the size of Texas. Plastic takes at least 450 years (!!!) to biodegrade. So do your part by not buying bottled water or using plastic bags. Of course, you can't always avoid plastic all together. But if you do use plastic, make sure to recycle it!
 
 **4. Walk when you can**
 
