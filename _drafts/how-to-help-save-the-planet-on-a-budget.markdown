@@ -45,7 +45,7 @@ This one is obviously harder to do. We can dream of having a house covered in so
 
 **7. Buy local**
 
-l;akdf
+This is another idea that isn't always the most budget-friendly. But not only is it good for the planet (less transportation pollution, no industrial farming practices, etc.), but it's good for the local economy as well. It also feels good to know that you're supporting local business owners. You can do this by shopping at farmers markets or finding local artists. You might have to plan ahead or save up, in order to do so without busting your budget. Here's a [great resource](http://www.thisismadeindc.com/) for things that are made right in Washington, DC. I personally love [DC Brau](http://www.dcbrau.com/), [Cherry Blossom Creative](http://cherryblossomcreative.com/), [Mallory Shelter Jewelry](https://malloryshelterjewelry.com/), and [Marcella Art \+ Illustration](http://marcellakriebel.com/). Check them out!
 
 **8. Patron companies that prioritize sustainability**
 
