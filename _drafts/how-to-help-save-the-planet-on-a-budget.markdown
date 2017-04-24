@@ -29,7 +29,7 @@ But we can still do things in our own lives that make an impact. In fact, the mo
 
 **3. Use less plastic**
 
-Plastic is actually the worst. As you might have heard, two dead sperm whales recently washed up on shore, with their stomachs filled with plastic. There's an island made of plastic floating in the ocean, and it's twice the size of Texas. Plastic takes XX years to biodegrade.
+Plastic is actually the worst. As you might have heard, two dead sperm whales recently washed up on shore, with their stomachs filled with plastic. There's an island made of plastic floating in the ocean, and it's twice the size of Texas. Plastic takes XX years to biodegrade. Of course, you can't always avoid plastic all together. But if you do use plastic, make sure to recycle it!
 
 **4. Walk when you can**
 
@@ -53,7 +53,7 @@ Sustainability is becoming more popular. So not only is it better for the planet
 
 **9. Plant a tree**
 
-This isn't always possible, especially if you live in a city like I do. I wish I could go outside and plant a bunch of trees in my yard! 
+This isn't always possible, especially if you live in a city like I do. I wish I could go outside and plant a bunch of trees in my yard! If you have a yard, plant some trees, and start a garden. You'll help take some [carbon](https://www.arborday.org/media/print/documents/10reasons/7X10.pdf) out of the atmosphere, and you'll be able to grow your own food. If you don't have the space to do this, support organizations that plant trees. Examples of these are the Arbor Day Foundation, One Tree Planted, 
 
 **10. Call your representatives**
 
