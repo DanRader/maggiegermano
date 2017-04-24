@@ -10,18 +10,44 @@ tags:
 
 Earth Day was on April 22nd, and this past Saturday was the Climate March. While pondering what more I can do for the planet, I was inspired to write this post.
 
-In my former life, I was an environmental activist. In college, I ran two environmental organizations on campus. I was trained by Sierra Club and Greenpeace and even went to jail once for protesting at the State Department (my parents weren't pleased). 
+In my former life, I was an environmental activist. In college, I ran two environmental organizations on campus. I was trained by Sierra Club and Greenpeace and even went to jail once for protesting at the State Department (my parents weren't pleased).
 
-1\. Use low-energy light bulbs and appliances
+**1. Use low-energy light bulbs and appliances**
 
-2\. Turn off the lights
+;lkj;
 
-3\. Use less plastic
+**2. Turn off the lights**
 
-Plastic is actually the worst. As you might have heard, two dead sperm whales recently washed up on shore, with their stomachs filled with plastic. There's an island made of plastic floating in the ocean, and it's twice the size of Texas. Plastic takes XX years to biodegrade. 
+;lkj;lk
 
-4\. Walk when you can
+**3. Use less plastic**
 
-5\. Buy and donate used items
+Plastic is actually the worst. As you might have heard, two dead sperm whales recently washed up on shore, with their stomachs filled with plastic. There's an island made of plastic floating in the ocean, and it's twice the size of Texas. Plastic takes XX years to biodegrade.
 
-6\. 
+**4. Walk when you can**
+
+j;klj;
+
+**5. Buy and donate used items**
+
+;lkj;k
+
+**6. Switch to clean energy**
+
+This one is obviously harder to do. We can dream of having a house covered in solar panels, but that's not always realistic. However, some 
+
+**7. Buy local**
+
+l;akdf
+
+**8. Patron companies that prioritize sustainability**
+
+Sustainability is becoming more popular. So not only is it better for the planet, but it's good for business too. 
+
+9\. adflk
+
+dafk;l
+
+10\. l;kajfd
+
+kj;lkj
