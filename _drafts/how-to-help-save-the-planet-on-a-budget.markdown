@@ -15,7 +15,7 @@ posts:
 
 Earth Day was on April 22nd, and this past Saturday was the [Climate March](https://peoplesclimate.org/). While pondering what more I can do for the planet, I was inspired to write this post. Hopefully it inspires you to make some changes in your own life.
 
-In my former life, I was an environmental activist. In college, I ran two environmental organizations on campus. I was trained by Sierra Club and Greenpeace and even went to jail once for protesting at the State Department (my parents weren't pleased). I moved to DC primarily to be in a place where I could make a difference. When the [climate bill](https://www.c2es.org/federal/congress/111/acesa) failed in Congress in 2010, I was so disheartened. It's heartbreaking to dedicate your life to something that the government and big business don't take as seriously as they should. 
+In my former life, I was an environmental activist. In college, I ran two environmental organizations on campus. I was trained by Sierra Club and Greenpeace and even went to jail once for protesting at the State Department (my parents weren't pleased). I moved to DC primarily to be in a place where I could make a difference. When the [climate bill](https://www.c2es.org/federal/congress/111/acesa) failed in Congress in 2010, I was so disheartened. It's heartbreaking to dedicate your life to something that the government and big business don't take as seriously as they should.
 
 But we can still do things in our own lives that make an impact. In fact, the more of us who do that, the more of an impact it will make. This list is just a start, but every little bit helps.
 
@@ -33,7 +33,7 @@ Plastic is actually the worst. As you might have heard, two dead sperm whales re
 
 **4. Walk when you can**
 
-j;klj;
+We love our cars in American. I mean, we looooove our cars. That's why we don't have high-speed trains, and why Amtrak is so damn expensive. Anyway, in many places in this country, walking everywhere is just not an option. Even many cities are not designed to be walkable. However, if you have the option of walking somewhere safely, do it! Not only does it lower the amount of pollution you're putting out in the world, but it gets your body moving. Win, win. If you can't walk to work or other activities, consider carpooling. 
 
 **5. Buy and donate used items**
 
@@ -41,7 +41,7 @@ j;klj;
 
 **6. Switch to clean energy**
 
-This one is obviously harder to do. We can dream of having a house covered in solar panels, but that's not always realistic. However, some 
+This one is obviously harder to do. We can dream of having a house covered in solar panels, but that's not always realistic. However, some
 
 **7. Buy local**
 
@@ -49,7 +49,7 @@ l;akdf
 
 **8. Patron companies that prioritize sustainability**
 
-Sustainability is becoming more popular. So not only is it better for the planet, but it's good for business too. The more people demand environmentally responsible practices, the more companies will adopt them. Try to buy from companies that already believe in sustainability. If there's a company that you love that could improve, ask it to to better.  
+Sustainability is becoming more popular. So not only is it better for the planet, but it's good for business too. The more people demand environmentally responsible practices, the more companies will adopt them. Try to buy from companies that already believe in sustainability. If there's a company that you love that could improve, ask it to to better.
 
 **9. Plant a tree**
 
