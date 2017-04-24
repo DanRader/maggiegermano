@@ -33,7 +33,7 @@ Plastic is actually the worst. As you might have heard, two dead sperm whales re
 
 **4. Walk when you can**
 
-We love our cars in American. I mean, we looooove our cars. That's why we don't have high-speed trains, and why Amtrak is so damn expensive. Anyway, in many places in this country, walking everywhere is just not an option. Even many cities are not designed to be walkable. However, if you have the option of walking somewhere safely, do it! Not only does it lower the amount of pollution you're putting out in the world, but it gets your body moving. Win, win. If you can't walk to work or other activities, consider carpooling. 
+We love our cars in America. I mean, we looooove our cars. That's why we don't have high-speed trains, and why Amtrak is so damn expensive. Anyway, in many places in this country, walking everywhere is just not an option. Even many cities are not designed to be walkable. However, if you have the option of walking somewhere safely, do it! Not only does it lower the amount of pollution you're putting out in the world, but it gets your body moving. Win, win. If you can't walk to work or other activities, consider carpooling. This will also help you save money on gas!
 
 **5. Buy and donate used items**
 
@@ -41,7 +41,7 @@ I personally get a little overwhelmed in thrift stores. There's sooo much stuff,
 
 **6. Switch to clean energy**
 
-This one is obviously harder to do. We can dream of having a house covered in solar panels, but that's not always realistic. However, some
+This one is obviously harder to do. We can dream of having a house covered in solar panels, but that's not always realistic. However, some utility companies do provide the option for you to choose clean energy. In fact, I just got a letter in the mail from Pepco saying that if I sign up for 100% wind/solar energy, I can get a free pass to National Parks to use for the rest of the year.
 
 **7. Buy local**
 
