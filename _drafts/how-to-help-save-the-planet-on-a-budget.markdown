@@ -13,9 +13,9 @@ posts:
 - Where You Can Put Your Money If You're Feeling Hopeless
 ---
 
-Earth Day was on April 22nd, and this past Saturday was the Climate March. While pondering what more I can do for the planet, I was inspired to write this post.
+Earth Day was on April 22nd, and this past Saturday was the [Climate March](https://peoplesclimate.org/). While pondering what more I can do for the planet, I was inspired to write this post. Hopefully it inspires you to make some changes in your own life.
 
-In my former life, I was an environmental activist. In college, I ran two environmental organizations on campus. I was trained by Sierra Club and Greenpeace and even went to jail once for protesting at the State Department (my parents weren't pleased). I moved to DC primarily to be in a place where I could make a difference. When the climate bill failed in Congress in 2009, I was so disheartened. It's heartbreaking to dedicate your life to something that the government and big business don't take as seriously as they should. 
+In my former life, I was an environmental activist. In college, I ran two environmental organizations on campus. I was trained by Sierra Club and Greenpeace and even went to jail once for protesting at the State Department (my parents weren't pleased). I moved to DC primarily to be in a place where I could make a difference. When the [climate bill](https://www.c2es.org/federal/congress/111/acesa) failed in Congress in 2010, I was so disheartened. It's heartbreaking to dedicate your life to something that the government and big business don't take as seriously as they should. 
 
 **1. Use low-energy light bulbs and appliances**
 
