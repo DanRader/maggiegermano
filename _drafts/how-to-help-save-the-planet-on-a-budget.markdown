@@ -17,7 +17,7 @@ Earth Day was on April 22nd, and this past Saturday was the [Climate March](http
 
 In my former life, I was an environmental activist. In college, I ran two environmental organizations on campus. I was trained by Sierra Club and Greenpeace and even went to jail once for protesting at the State Department (my parents weren't pleased). I moved to DC primarily to be in a place where I could make a difference. When the [climate bill](https://www.c2es.org/federal/congress/111/acesa) failed in Congress in 2010, I was so disheartened. It's heartbreaking to dedicate your life to something that the government and big business don't take as seriously as they should. 
 
-But we can still do things in our own lives that make an impact. In fact, the more of us who do that, the more of an impact it will make. This list is just a start, 
+But we can still do things in our own lives that make an impact. In fact, the more of us who do that, the more of an impact it will make. This list is just a start, but every little bit helps.
 
 **1. Use low-energy light bulbs and appliances**
 
