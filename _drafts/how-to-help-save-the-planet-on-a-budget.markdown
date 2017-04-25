@@ -21,7 +21,7 @@ But we can still do things in our own lives that make an impact. In fact, the mo
 
 **1. Use low-energy light bulbs and appliances**
 
-By now, most of us probably use compact fluorescent light bulbs (CFLs)
+By now, most of us probably use compact fluorescent light bulbs (CFLs). In fact, the U.S. will be phasing them out completely by 2020. 
 
 **2. Turn off the lights**
 
