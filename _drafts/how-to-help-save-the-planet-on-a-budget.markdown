@@ -49,7 +49,7 @@ This is another idea that isn't always the most budget-friendly. But not only is
 
 **8. Patron companies that prioritize sustainability**
 
-Sustainability is becoming more popular. So not only is it better for the planet, but it's increasingly good for business too. The more people demand environmentally responsible practices, the more companies will adopt them. Try to buy from companies that already believe in sustainability. If there's a company that you love that could improve, ask it to to better. Garnier Fructis used to put all of its products in non-recyclable containers. When a few young customers reached out and asked them to do better, they did. Now they have a whole [commitment](http://www.garnierusa.com/garnier-green.aspx) to going green.
+Sustainability is becoming more popular. So not only is it better for the planet, but it's increasingly good for business too. The more people demand environmentally responsible practices, the more companies will adopt them. Try to buy from companies that already believe in and practice sustainability. If there's a company that you love that could improve, ask it to to better. Garnier Fructis used to put all of its products in non-recyclable containers. When a few young customers reached out and asked them to do better, they did. Now they have a whole [commitment](http://www.garnierusa.com/garnier-green.aspx) to going green.
 
 **9. Plant a tree**
 
