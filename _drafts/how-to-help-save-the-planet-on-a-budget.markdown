@@ -21,7 +21,7 @@ But we can still do things in our own lives that make an impact. In fact, the mo
 
 **1. Use low-energy light bulbs and appliances**
 
-By now, most of us probably use compact fluorescent light bulbs (CFLs). In fact, the U.S. will be phasing out incandescent light bulbs completely by 2020. Why? Because CFLs, halogens, and LEDs use 25-80% less energy than traditional incandescent bulbs. 
+By now, most of us probably use compact fluorescent light bulbs (CFLs). In fact, the U.S. will be phasing out incandescent light bulbs completely by 2020. Why? Because CFLs, halogens, and LEDs use 25-80% less energy than traditional incandescent bulbs. They also tend to last a lot longer. So even if you're spending more money up front, you'll end up saving money in the long run on energy use and longevity. Plus, you're using up less coal-powered electricity. 
 
 **2. Turn off the lights**
 
