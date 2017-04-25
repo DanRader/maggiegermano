@@ -1,6 +1,6 @@
 ---
 title: Here's Why You Should Pay Yourself First
-date: 2017-04-24 11:00:00 -04:00
+date: 2017-04-25 11:00:00 -04:00
 categories:
 - savings
 - budget
