@@ -29,7 +29,7 @@ Now this is an easy thing to do. Whenever you're not in a room, turn off the lig
 
 **3. Use less plastic**
 
-Plastic is actually the worst. As you might have heard, two dead sperm whales recently washed up on shore, with their stomachs filled with plastic. There's an island made of plastic floating in the ocean, and it's twice the size of Texas. Plastic takes at least 450 years (!!!) to biodegrade. So do your part by not buying bottled water or using plastic bags. If you don't have a reusable shopping bag with you, ask for paper bags (and then recycle them after). Get a [reusable water bottle](http://gizmodo.com/9-reusable-water-bottles-recommended-by-gizmodos-staff-1705555097) - you'll save money this way too. Of course, you can't always avoid plastic all together. But if you do use plastic, make sure to recycle it!
+Plastic is actually the worst. As you might have heard, there's [an island made of plastic](http://www.cnn.com/interactive/2016/12/world/midway-plastic-island/) floating in the ocean, and it's twice the size of Texas. Plastic takes at least 450 years (!!!) to biodegrade. So do your part by not buying bottled water or using plastic bags. If you don't have a reusable shopping bag with you, ask for paper bags (and then recycle them after). Get a [reusable water bottle](http://gizmodo.com/9-reusable-water-bottles-recommended-by-gizmodos-staff-1705555097) - you'll save money this way too. Of course, you can't always avoid plastic all together. But if you do have to use plastic, make sure to recycle it!
 
 **4. Walk when you can**
 
