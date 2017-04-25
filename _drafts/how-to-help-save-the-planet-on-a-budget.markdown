@@ -33,7 +33,7 @@ Plastic is actually the worst. As you might have heard, there's [an island made 
 
 **4. Walk when you can**
 
-We love our cars in America. I mean, we looooove our cars. That's why we don't have high-speed trains, and why Amtrak is so damn expensive. Anyway, in many places in this country, walking everywhere is just not an option. Even many cities are not designed to be walkable. However, if you have the option of walking somewhere safely, do it! Not only does it lower the amount of pollution you're putting out in the world, but it gets your body moving. Win, win. If you can't walk to work or other activities, consider carpooling. This will also help you save money on gas!
+We love our cars in America. I mean, we looooove our cars. That's why we don't have high-speed trains, and why Amtrak is so damn expensive. Anyway, in many places in this country, walking everywhere is just not an option. Even many cities are not designed to be walkable. However, if you have the option of walking somewhere safely, do it! Not only does it lower the amount of pollution you're putting out in the world, but it gets your body moving too. Win, win. If you can't walk to work or other activities, consider carpooling. This will also help you save money on gas!
 
 **5. Buy and donate used items**
 
