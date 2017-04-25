@@ -1,7 +1,6 @@
 ---
 title: Here's Why You Should Pay Yourself First
 date: 2017-04-24 11:00:00 -04:00
-published: false
 categories:
 - savings
 - budget
@@ -39,7 +38,7 @@ I've said it a million times before, and I'm saying it again: you need a budget.
 
 * **Take advantage of pre-tax offerings**
 
-Many employers offer a retirement savings option, like a 401k or 403b. If (when) you opt into that offering, your employer will deduct the amount from your paycheck before taxes are taken out. This is beneficial for two reasons: your taxable income is lower and you don't have to think about contributing to your retirement. 
+Many employers offer a retirement savings option, like a 401k or 403b. If (when) you opt into that offering, your employer will deduct the amount from your paycheck before taxes are taken out. This is beneficial for two reasons: your taxable income is lower and you don't have to think about contributing to your retirement.
 
 * **Automate**
 
