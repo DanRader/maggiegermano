@@ -56,7 +56,7 @@ Sustainability is becoming more popular. So not only is it better for the planet
 
 **9. Plant a tree**
 
-This isn't always possible, especially if you live in a city like I do. I wish I could go outside and plant a bunch of trees in my yard! If you have a yard, plant some trees, and start a garden. You'll help take some [carbon](https://www.arborday.org/media/print/documents/10reasons/7X10.pdf) out of the atmosphere, and you'll be able to grow your own food. If you don't have the space to do this, support organizations that plant trees. Examples of these are the [Arbor Day Foundation](https://www.arborday.org/), [One Tree Planted](https://onetreeplanted.org/), and [Plant A Billion](http://www.plantabillion.org/).
+This isn't always possible, especially if you live in a city like I do. I wish I could go outside and plant a bunch of trees in my yard! If you have a yard, plant some trees, and start a garden. You'll help take some [carbon](https://www.arborday.org/media/print/documents/10reasons/7X10.pdf) out of the atmosphere, and you'll be able to grow your own food. Even if you live in an apartment, you can start a container garden! If you don't have the space to do either of these things, support organizations that plant trees. Examples of these are the [Arbor Day Foundation](https://www.arborday.org/), [One Tree Planted](https://onetreeplanted.org/), and [Plant A Billion](http://www.plantabillion.org/).
 
 **10. Call your representatives**
 
