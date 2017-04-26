@@ -18,13 +18,13 @@ Earth Day was on April 22nd, and this past Saturday was the [Climate March](http
 
 In my former life, I was an environmental activist. In college, I ran two environmental organizations on campus. I was trained by [Sierra Club](sierraclub.org) and [Greenpeace](greenpeace.org) and even went to jail once for protesting at the State Department (my parents weren't pleased). I moved to DC primarily to be in a place where I could make a difference. When the [climate bill](https://www.c2es.org/federal/congress/111/acesa) failed in Congress in 2010, I was so disheartened. It's heartbreaking to dedicate your life to something that the government and big business don't take as seriously as they should.
 
-> In fact, the more of us who do that, the more of an impact it will make.
+> But we can still do things in our own lives that make an impact. In fact, the more of us who do that, the more of an impact it will make. 
 
 But we can still do things in our own lives that make an impact. In fact, the more of us who do that, the more of an impact it will make. This list is just a start, but every little bit helps. *If you have other ideas to add, please share in the comments!*
 
 **1. Use low-energy light bulbs and appliances**
 
-By now, most of us probably use compact fluorescent light bulbs (CFLs). In fact, the U.S. will be [phasing out](https://energy.gov/energysaver/new-lighting-standards-began-2012) incandescent light bulbs completely by 2020. Why? Because CFLs, halogens, and LEDs use 25-80% less energy than traditional incandescent bulbs. They also tend to last a lot longer. So even if you're spending more money up front, you'll end up saving money in the long run on energy use and longevity. Plus, you're using up less coal-powered electricity. 
+By now, most of us probably use compact fluorescent light bulbs (CFLs). In fact, the U.S. will be [phasing out](https://energy.gov/energysaver/new-lighting-standards-began-2012) incandescent light bulbs completely by 2020. Why? Because CFLs, halogens, and LEDs use 25-80% less energy than traditional incandescent bulbs. They also tend to last a lot longer. So even if you're spending more money up front, you'll end up saving money in the long run on energy use and longevity. Plus, you're using up less coal-powered electricity.
 
 **2. Turn off the lights**
 
