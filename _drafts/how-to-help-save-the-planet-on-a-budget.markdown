@@ -7,6 +7,7 @@ tags:
 - climate change
 - earth day
 image: "/uploads/nature.jpg"
+tweet: 'You can do your part to save the #earth, even on a #budget. Find out how!'
 posts:
 - Do Your Money Habits Align with Your Values?
 - 9 Easy Changes to Make Now to Spend Less Money
