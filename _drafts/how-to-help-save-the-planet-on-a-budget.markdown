@@ -1,11 +1,18 @@
 ---
 title: How to Help Save the Planet on a Budget
 date: 2017-05-01 11:00:00 -04:00
+categories:
+- lifestyle
+- budget
 tags:
 - earth
 - nature
 - climate change
 - earth day
+- sustainability
+- personal finance
+- savings
+- environmental protection
 image: "/uploads/nature.jpg"
 tweet: 'You can do your part to save the #earth, even on a #budget. Find out how!'
 posts:
