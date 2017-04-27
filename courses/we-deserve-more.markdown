@@ -5,6 +5,7 @@ position: 1
 is-menu: false
 layout: course-page
 logo: "/uploads/course--WDM__logo@2x.jpg"
+description: "An email course to learn how to earn more, make the most of what you already have, and create the lifestyle you deserve"
 texture-1: "/uploads/course--WDM__watercolor1@2x.jpg"
 texture-2: "/uploads/course--WDM__watercolor2@2x.jpg"
 texture-3: "/uploads/course--WDM__watercolor3@2x.jpg"
