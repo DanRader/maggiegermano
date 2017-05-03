@@ -19,7 +19,6 @@ is-money-circle: true
 ticket-price: "$15"
 ---
 
-
 Money Circle is a safe open space where women can ask questions, air their fears, brag about accomplishments, and be honest about any confusion they may have around money.
 
 Light snacks and wine will be provided.
