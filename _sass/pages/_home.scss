@@ -1,0 +1,153 @@
+.line1 {
+	animation-delay: .3s;
+}
+
+.line2 {
+	animation-delay: .4s;
+	color: rgba(255,255,255,.82);
+}
+.line3 {
+	animation-delay: .5s;
+	color: rgba(255,255,255,.7);
+}
+
+.headline {
+  margin-bottom: 2%;
+  z-index: 12;
+  margin-top: -6vh;
+}
+
+  .headline h1 {
+		@media #{$media-max-tablet} {
+			font-size: 12vw;
+		}
+		@media #{$media-min-xl}{
+			font-size: 5vw;
+		}
+	}
+
+.mc-field-group {
+    padding-bottom: 11px;
+}
+#hero {
+  background-image: linear-gradient(-132deg, #00B3C8 0%, #00C5A2 100%);
+	position: relative;
+	overflow: hidden;
+  margin-top: -72px;
+	@media #{$media-max-tablet} {
+		margin-top: 0;
+	}
+}
+
+#hero svg {
+    width: 100%;
+    position: absolute;
+    bottom: -1px;
+    z-index: 3;
+}
+.bg-clouds{
+	z-index: 1;
+    background-repeat: no-repeat;
+  	min-width: 100%;
+  }
+.bg-clouds img {
+	width: 100%;
+	height: auto;
+    position: absolute;
+    bottom: 0;
+}
+
+.hero-content-block {
+  height: 100vh;
+  position: relative;
+  z-index: 3;
+  min-height: 700px;
+	@media #{$media-max-tablet}{
+		height: 70vh;
+    min-height: 150px;
+	}
+}
+
+.hero-btn {
+	animation-delay: .6s;
+}
+
+.intro-content {
+    padding: 22px 0;
+}
+
+
+.approach-intro {
+margin-bottom: 6% !important;
+}
+
+.approach img {
+    margin-bottom: 8%;
+    max-width: 52px;
+}
+
+.border-heart {
+    padding: 5%;
+}
+
+.border-heart p:after {
+    background-image: url("images/MaggieG_Mark@2x.png");
+}
+
+/*New homepage styles  */
+.home-intro {
+  position: relative;
+  border-bottom: 1px solid #8F8F90;
+  padding: 7% 5% 10% 5%;
+  margin: 5%;
+  z-index: 3;
+	@media #{$media-max-tablet}{
+		padding: 7% 5% 86% 5%;
+	}
+}
+
+.home-intro > img {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  width: 30%;
+  min-width: 300px;
+  z-index: -1;
+	@media #{$media-max-tablet}{
+		min-width: 150px;
+		width: 72%;
+	}
+}
+
+.home-intro-content {
+  z-index: 4;
+}
+
+.home-intro-content > p{
+    line-height: 31px;
+  }
+
+.home-intro-content strong {
+  color: $maggie-gold;
+}
+.highlight {
+  border-left: 5px solid $maggie-gold;
+  padding: 1% 3% !important;
+  margin: 4% 0;
+	@media #{$media-max-tablet}{
+		padding: 1% 5% !important;
+		margin-left: 4%;
+	}
+}
+
+.highlight > h2{
+  font-family: 'Playfair Display', serif;
+  color: $grey;
+  font-size: 30px;
+  line-height: 39px;
+  margin-bottom: 10px;
+}
+
+.highlight-wrap {
+  padding-bottom: 4%;
+}
