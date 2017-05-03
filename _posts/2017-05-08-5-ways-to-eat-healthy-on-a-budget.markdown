@@ -1,7 +1,24 @@
 ---
 title: 5 Ways to Eat Healthy on a Budget
-date: 2017-05-03 13:29:00 -04:00
+date: 2017-05-08 11:00:00 -04:00
+categories:
+- budget
+- lifestyle
+tags:
+- whole 30
+- food
+- groceries
+- grocery shopping
+- spending
+- health
+- personal finance
+- planning
+- budgeting
+- meal planning
+- money
 image: "/uploads/blueberries.jpg"
+tweet: 'You don''t have to live on ramen and rice to stick to a #budget! Read more
+  to eat healthy.'
 posts:
 - How to Help Save the Planet on a Budget
 - How to Create a Budget that Works for You
