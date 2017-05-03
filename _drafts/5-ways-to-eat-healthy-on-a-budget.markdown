@@ -33,7 +33,7 @@ I often hear people say that they can subsist on ramen noodles and rice if they'
 
 ## Plan your meals ahead of time
 
-Meal planning is recommended a lot, but that's because it works. Not only are you prepared for the week, but it'll make it easier to shop. It will also make it less likely that you'll buy a snack or go out to eat when you weren't planning to. So sit down on Saturday or Sunday and plan out your meals for the coming week. If it's easier, make a [crockpot meal](http://www.delish.com/cooking/g1419/healthy-slow-cooker-recipes/) that can last you for several days. You can also make [overnight oats](https://www.buzzfeed.com/samimain/overnight-oats-recipes-to-restore-your-faith-in-breakfast?utm_term=.dmWW774Rrv#.ic5YWWK5LV) to have breakfast ready every morning. I also like to make easy, healthy smoothies and salads. 
+Meal planning is recommended a lot, but that's because it works. Not only are you prepared for the week, but it'll make it easier to shop. It will also make it less likely that you'll buy a snack or go out to eat when you weren't planning to. So sit down on Saturday or Sunday and plan out your meals for the coming week. If it's easier, make a [crockpot meal](http://www.delish.com/cooking/g1419/healthy-slow-cooker-recipes/) that can last you for several days. You can also make [overnight oats](https://www.buzzfeed.com/samimain/overnight-oats-recipes-to-restore-your-faith-in-breakfast?utm_term=.dmWW774Rrv#.ic5YWWK5LV) to have breakfast ready every morning. I also like to make easy, healthy smoothies and [salads](https://www.realsimple.com/food-recipes/recipe-collections-favorites/healthy-meals/green-salad-recipes). 
 
 ## Stick to your grocery list
 
