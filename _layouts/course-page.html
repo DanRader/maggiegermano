@@ -1,8 +1,28 @@
 ---
 layout: default
 ---
-
-<h1>
-<img src="{{ page.logo }}" alt="{{ page.title }}">
-{{ page.title }}
-</h1>
+<div class="container course-wrap">
+  <div class="blog-name blog-list-space">
+    <img src="/uploads/MaggieG_Mark@2x.png">
+    <h2>Online Course</h2>
+  </div>
+  <h1>
+    <img src="{{ page.logo }}" alt="{{ page.title }}">
+    <!-- {{ page.title }} -->
+  </h1>
+  <p class="course--description">{{ page.description }}</p>
+  <button data-target="modal-subscribe" class="subscribe-btn">Get Started!</button>
+  {{ content }}
+  <hr>
+  <img src="{{ page.logo }}" alt="{{ page.title }}">
+  <p>{{ page.description }}</p>
+  <button data-target="modal-subscribe" class="subscribe-btn">Sign Me Up!</button>
+</div>
+<div class="course--bg course--bg__left">
+  <img class="course--txtr1" src="{{ page.texture-1}}">
+  <img class="course--txtr2" src="{{ page.texture-2}}">
+</div>
+<div class="course--bg course--bg__right">
+  <img class="course--txtr3" src="{{ page.texture-3}}">
+  <img class="course--txtr4" src="{{ page.texture-4}}">
+</div>

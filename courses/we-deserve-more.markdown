@@ -11,3 +11,11 @@ texture-2: "/uploads/course--WDM__watercolor2@2x.jpg"
 texture-3: "/uploads/course--WDM__watercolor3@2x.jpg"
 texture-4: "/uploads/course--WDM__watercolor4@2x.jpg"
 ---
+
+## Make the change you deserve
+One of the most important things in life is the sense of community; feeling like you’re not alone in life. This is especially true when it comes to issues that bring us shame and confusion.
+We live in a society where money is an unspoken taboo. We aren’t supposed to ask people how much money we earn, and women especially have a hard time knowing and asking for what they are worth. It’s more important than ever to band together and put it all on the table.
+
+## Who is teaching?
+One of the most important things in life is the sense of community; feeling like you’re not alone in life. This is especially true when it comes to issues that bring us shame and confusion.
+We live in a society where money is an unspoken taboo. We aren’t supposed to ask people how much money we earn, and women especially have a hard time knowing and asking for what they are worth. It’s more important than ever to band together and put it all on the table.
