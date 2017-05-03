@@ -53,7 +53,7 @@ For a wallet-sized guide to carry with you, visit the [Environmental Working Gro
 
 Some things really are cheaper when you buy them in bulk. Of course, this can mean an added expense of a [Costco](https://www.costco.com/) or [BJ's](http://www.bjs.com/) membership. So you should compare the potential savings with the costs and make sure it's right for you. You can also share a membership with a friend, or go to the store with them and get the benefits of their membership. 
 
-I recently realized that I was spending a whole lot of money on nuts and seeds. A bag of raw almonds at Trader Joe's is way more expensive per unit than a bag at Costco. Another item I prefer to buy in bulk is cooking oil, like olive oil and coconut oil. It's way more affordable, and lasts longer than the smaller containers at the grocery store.
+I recently realized that I was spending a whole lot of money on nuts and seeds. A bag of raw almonds at Trader Joe's is way more expensive per unit than a bag at Costco. Another item I prefer to buy in bulk is cooking oil, like olive oil and coconut oil. It's more affordable, and lasts longer than the smaller containers at the grocery store.
 
 ## Buy frozen produce
 
