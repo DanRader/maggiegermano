@@ -41,7 +41,7 @@ Once you've planned your meals for the week, make sure to write out all of the i
 
 ## Be selective in your organic purchases
 
-It's a contentious topic, but not everything you eat needs to be organic. I prefer to only eat (or drink) organic animal products, because I know way too much about antibiotics and growth hormones. But besides that, I haven't been very stringent. It's cost prohibitive to buy everything organic, unless you have a large budget.
+It's a contentious topic, but not everything you eat needs to be organic. I prefer to only eat (or drink) organic animal products, because I know way too much about [antibiotics](https://www.scientificamerican.com/article/antibiotic-use-in-food-animals-continues-to-rise/) and growth hormones. But besides that, I haven't been very stringent. It's cost prohibitive to buy everything organic, unless you have a large budget.
 
 The solution to this is to be more selective about what organic items you're buying. A good guide is to follow the "dirty dozen" and "clean fifteen". Basically, you should aim to buy these items from organic sources: strawberries, spinach, nectarines, apples, peaches, pears, cherries, grapes, celery, tomatoes, sweet bell peppers, and potatoes. The reason is that they're more susceptible to the use of pesticides.
 
