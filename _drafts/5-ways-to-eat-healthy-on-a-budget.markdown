@@ -51,12 +51,12 @@ For a wallet-sized guide to carry with you, visit the [Environmental Working Gro
 
 ## Buy in bulk
 
-Some things really are cheaper when you buy them in bulk. Of course, this can mean an added expense of a Costco or BJ's membership. So you should compare the potential savings with the costs and make sure it's right for you. You can also share a membership with a friend, or go to the store with them and get the benefits of their membership. 
+Some things really are cheaper when you buy them in bulk. Of course, this can mean an added expense of a [Costco](https://www.costco.com/) or [BJ's](http://www.bjs.com/) membership. So you should compare the potential savings with the costs and make sure it's right for you. You can also share a membership with a friend, or go to the store with them and get the benefits of their membership. 
 
 I recently realized that I was spending a whole lot of money on nuts and seeds. A bag of raw almonds at Trader Joe's is way more expensive per unit than a bag at Costco. Another item I prefer to buy in bulk is cooking oil, like olive oil and coconut oil. It's way more affordable, and lasts longer than the smaller containers at the grocery store.
 
 ## Buy frozen produce
 
-This isn't always practical, but it can save you money for two reasons. Fresh produce goes bad faster, so you can end up wasting it if you don't eat it in time. Fresh produce can also cost more than frozen, for a smaller amount.
+This isn't always practical, but buying frozen can save you money for two reasons. Fresh produce goes bad faster, so you can end up wasting it if you don't eat it in time. So not only are you wasting money, you're also wasting food. Fresh produce can also cost more than frozen, often for a smaller amount. I typically buy frozen peas, corn, strawberries, blueberries, and broccoli. That way, they're always on hand for an emergency smoothie or stir fry.
 
 *Do you have other ways that you eat healthy on a budget? Share in the comments!*
