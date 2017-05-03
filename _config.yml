@@ -59,6 +59,8 @@ defaults:
     - 
     - 
     - 
+    comments: true
+    future: false
 - scope:
     path: ''
     type: categories

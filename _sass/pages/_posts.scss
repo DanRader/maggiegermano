@@ -168,9 +168,12 @@ img.related-arrow {
     bottom: -3% !important;
   }
 
-.related-title > h2 {
-  font-size: 15px !important;
-  margin-left: 5px;
-  letter-spacing: 5px !important;
-  color: $mid-grey;
+.related-title {
+  margin-top: 0;
+  & h2 {
+    font-size: 15px !important;
+    margin-left: 5px;
+    letter-spacing: 5px !important;
+    color: $mid-grey;
+  }
 }

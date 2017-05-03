@@ -1,0 +1,22 @@
+<div id="popup" rel="leanModal" class="modal-subscribe modal">
+  {% include pop-ups/POPUP-content.html %}
+</div>
+
+     <!-- popup menu  -->
+     <script type="text/javascript" src="/js/js.cookie.js"></script>
+     <script type="text/javascript" src="/js/jquery.leanModal.min.js"></script>
+
+
+     <script type="text/javascript">
+          var popupDelay = 4000;
+          var cookie = function(){
+            Cookies.set('popup', 'true', { expires: 3 });
+            $('a[rel*=leanModal]').leanModal();
+            $("#show-pop-up").click();
+          };
+          if( Cookies.get('popup') == undefined ){
+              setTimeout(cookie, popupDelay);
+          }
+     </script>
+
+     <a href="#popup" id="show-pop-up" style="display:none" rel="leanModal" name="cartEmpty">empty cart</a>

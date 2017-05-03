@@ -45,7 +45,7 @@ Tonya Rapley is the creator of [My Fab Finance](www.myfabfinance.com), which she
 
 ## Amanda Steinberg
 
-![amanda-steinberg.jpg](/uploads/amanda-steinberg.jpg)
+![amanda-steinberg.jpg](/uploads/amanda-steinberg.jpg) 
 
 [Amanda Steinberg](https://www.amandasteinberg.net/) is the founder of [DailyWorth](dailyworth.com), a woman-focused personal finance website, and [WorthFM](worthfm.com), a digital investing service for women. She launched DailyWorth in 2009 to create a space where financial advice was geared towards people who are not part of the financial industry. I've been a subscriber and avid reader for years. Amanda decided to create WorthFM when she realized that good advice doesn't necessarily make investing accessible to everyone. She also recently released her first book, [Worth It](https://www.amazon.com/dp/B01CO3468W/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).
 
