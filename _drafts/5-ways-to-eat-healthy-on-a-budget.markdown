@@ -58,3 +58,5 @@ I recently realized that I was spending a whole lot of money on nuts and seeds. 
 ## Buy frozen produce
 
 This isn't always practical, but it can save you money for two reasons. Fresh produce goes bad faster, so you can end up wasting it if you don't eat it in time. Fresh produce can also cost more than frozen, for a smaller amount.
+
+*Do you have other ways that you eat healthy on a budget? Share in the comments!*
