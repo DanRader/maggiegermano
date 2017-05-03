@@ -41,19 +41,19 @@ Once you've planned your meals for the week, make sure to write out all of the i
 
 ## Be selective in your organic purchases
 
-It's a contentious topic, but not everything you eat needs to be organic. I prefer to only eat (or drink) organic animal products, because I know way too much about [antibiotics](https://www.scientificamerican.com/article/antibiotic-use-in-food-animals-continues-to-rise/) and growth hormones. But besides that, I haven't been very stringent. It's cost prohibitive to buy everything organic, unless you have a large budget.
+It's a contentious topic, but not everything you eat needs to be organic. I prefer to only eat (or drink) organic animal products, because I know way too much about [antibiotics](https://www.scientificamerican.com/article/antibiotic-use-in-food-animals-continues-to-rise/) and growth hormones. But besides that, I haven't been very stringent. It's cost prohibitive to buy everything organic, unless you have a large food budget.
 
 The solution to this is to be more selective about what organic items you're buying. A good guide is the "dirty dozen" and "clean fifteen". Basically, you should aim to buy these items from organic sources: strawberries, spinach, nectarines, apples, peaches, pears, cherries, grapes, celery, tomatoes, sweet bell peppers, and potatoes. The reason is that they're more susceptible to the use of pesticides.
 
-On the other hand, the clean fifteen is a group of food that is less impacted by use of pesticides, so it's okay to not buy organic. This includes: sweet corn, avocado, pineapple, cabbage, onions, frozen sweet peas, papaya, asparagus, mango, eggplant, honeydew, kiwi, cantaloupe, cauliflower, and grapefruit.
+On the other hand, the clean fifteen is a group of food that is less impacted by the use of pesticides, so it's okay to not buy organic. This includes: sweet corn, avocado, pineapple, cabbage, onions, frozen sweet peas, papaya, asparagus, mango, eggplant, honeydew, kiwi, cantaloupe, cauliflower, and grapefruit.
 
 For a wallet-sized guide to carry with you, visit the [Environmental Working Group](http://action.ewg.org/p/salsa/web/common/public/signup?signup_page_KEY=5988&_ga=2.71687761.35308811.1493834548-359463507.1493146492)!
 
 ## Buy in bulk
 
-Some things really are cheaper when you buy them in bulk. Of course, this can mean an added expense of a Costco or BJ's membership. So you should compare the potential savings with the costs and make sure it's right for you.
+Some things really are cheaper when you buy them in bulk. Of course, this can mean an added expense of a Costco or BJ's membership. So you should compare the potential savings with the costs and make sure it's right for you. You can also share a membership with a friend, or go to the store with them and get the benefits of their membership. 
 
-I recently realized that I was spending a whole lot of money on nuts and seeds. A bag of raw almonds at Trader Joe's is way more expensive per unit than a bag at Costco.
+I recently realized that I was spending a whole lot of money on nuts and seeds. A bag of raw almonds at Trader Joe's is way more expensive per unit than a bag at Costco. Another item I prefer to buy in bulk is cooking oil, like olive oil and coconut oil. It's way more affordable, and lasts longer than the smaller containers at the grocery store.
 
 ## Buy frozen produce
 
