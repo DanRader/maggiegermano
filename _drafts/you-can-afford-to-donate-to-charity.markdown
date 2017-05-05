@@ -13,5 +13,8 @@ tags:
 - money
 - personal finance
 image: "/uploads/plants.jpg"
+posts:
+- 5 Ways to Eat Healthy on a Budget
+- How to Help Save the Planet on a Budget
 ---
 
