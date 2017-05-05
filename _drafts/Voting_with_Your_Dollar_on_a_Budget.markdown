@@ -1,5 +1,5 @@
 ---
-title: How to vote with your dollar on a budget
+title: Voting with Your Dollar on a Budget
 date: 2017-05-04 22:24:00 -04:00
 categories:
 - Budget
