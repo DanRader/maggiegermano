@@ -22,4 +22,4 @@ posts:
 - Do Your Money Habits Align with Your Values?
 ---
 
-I talk a lot about voting with your dollar and only spending money on companies that share your values. It’s a very powerful action, and it allows you 
+I talk a lot about voting with your dollar and only spending money on companies that share your values. It’s a very powerful action, and it allows you to speak up outside of the voting booth. Money also tends to talk a lot louder, as businesses notice 

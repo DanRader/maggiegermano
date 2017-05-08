@@ -50,7 +50,7 @@ Look at all of your expenses. These are broken out into fixed costs, flex spendi
 
 **Other priorities:** This amount is anything you're putting towards other goals, like savings or paying extra towards your debt.
 
-To make this easier, link up your accounts to programs like [Learnvest](https://track.flexlinkspro.com/a.ashx?foid=1098290.41787083&foc=1&fot=9999&fos=1), [Personal Capital](https://track.flexlinkspro.com/a.ashx?foid=1098290.2107475&foc=2&fot=9999&fos=1) or [Mint](www.mint.com). They will automatically categorize your spending into different buckets, so you can see where you are using most of your money.
+To make this easier, link up your accounts to programs like [Learnvest](https://track.flexlinkspro.com/a.ashx?foid=1098290.41787083&foc=1&fot=9999&fos=1), [Personal Capital](https://track.flexlinkspro.com/a.ashx?foid=1098290.2107475&foc=2&fot=9999&fos=1) or [Mint](mint.com). They will automatically categorize your spending into different buckets, so you can see where you are using most of your money.
 
 Once you can see how much is going out during a typical month, you can see how that compares to what is coming in. Are you spending more than you earn? Do you have money leftover that you can allocate to your financial goals?
 
@@ -84,6 +84,6 @@ The easiest way to save is to set it and forget it. Set up direct deposit from y
 
 If you are working to pay down your debt, set up auto pay or set a reminder for yourself each month. You want to make sure to pay your bills on time, and this will take some of the work away from you. Just make sure you have enough in your bank account each month to pay these bills!
 
-**Note: **If you're already living on a bare bones budget, and still have nothing leftover, you might have to bring in more income. Can you ask for a raise at work soon? Perhaps you can take on a side gig, like babysitting, dog walking, or bartending. Another option is to monetize your skills. If you're an awesome writer or copy editor, put yourself out there for hire!
+\*\*Note: \*\*If you're already living on a bare bones budget, and still have nothing leftover, you might have to bring in more income. Can you ask for a raise at work soon? Perhaps you can take on a side gig, like babysitting, dog walking, or bartending. Another option is to monetize your skills. If you're an awesome writer or copy editor, put yourself out there for hire!
 
 *Do you want a sample budget spreadsheet to get you started? Email me at hello@maggiegermano.com!*
