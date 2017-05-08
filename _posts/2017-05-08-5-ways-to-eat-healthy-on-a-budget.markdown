@@ -29,11 +29,13 @@ posts:
 
 I just finished my second [Whole 30](https://whole30.com/), and boy was it pricey. My boyfriend and I spent over two-thirds than our normal grocery budget. That's because healthy, whole food is expensive! (It's also because we had to eat a lot more protein than usual.) Luckily, we didn't go out to eat at all during the month of April, so that helped us stay on track financially.
 
+> But should you have to sacrifice your health (and taste buds) in order to meet your money goals? I don't think so.
+
 I often hear people say that they can subsist on ramen noodles and rice if they're on a tight budget. But should you have to sacrifice your health (and taste buds) in order to meet your money goals? I don't think so. Here are five money-saving tips to follow while you're trying to eat healthy and save money.
 
 ## Plan your meals ahead of time
 
-Meal planning is recommended a lot, but that's because it works. Not only are you prepared for the week, but it'll make it easier to shop. It will also make it less likely that you'll buy a snack or go out to eat when you weren't planning to. So sit down on Saturday or Sunday and plan out your meals for the coming week. If it's easier, make a [crockpot meal](http://www.delish.com/cooking/g1419/healthy-slow-cooker-recipes/) that can last you for several days. You can also make [overnight oats](https://www.buzzfeed.com/samimain/overnight-oats-recipes-to-restore-your-faith-in-breakfast?utm_term=.dmWW774Rrv#.ic5YWWK5LV) to have breakfast ready every morning. I also like to make easy, healthy [smoothies](https://www.buzzfeed.com/jessseinfeld/8-easy-3-ingredient-smoothies?utm_term=.fbrZKKmJwx#.tyl9oo1GBw) and [salads](https://www.realsimple.com/food-recipes/recipe-collections-favorites/healthy-meals/green-salad-recipes). 
+Meal planning is recommended a lot, but that's because it works. Not only are you prepared for the week, but it'll make it easier to shop. It will also make it less likely that you'll buy a snack or go out to eat when you weren't planning to. So sit down on Saturday or Sunday and plan out your meals for the coming week. If it's easier, make a [crockpot meal](http://www.delish.com/cooking/g1419/healthy-slow-cooker-recipes/) that can last you for several days. You can also make [overnight oats](https://www.buzzfeed.com/samimain/overnight-oats-recipes-to-restore-your-faith-in-breakfast?utm_term=.dmWW774Rrv#.ic5YWWK5LV) to have breakfast ready every morning. I also like to make easy, healthy [smoothies](https://www.buzzfeed.com/jessseinfeld/8-easy-3-ingredient-smoothies?utm_term=.fbrZKKmJwx#.tyl9oo1GBw) and [salads](https://www.realsimple.com/food-recipes/recipe-collections-favorites/healthy-meals/green-salad-recipes).
 
 ## Stick to your grocery list
 
@@ -51,7 +53,7 @@ For a wallet-sized guide to carry with you, visit the [Environmental Working Gro
 
 ## Buy in bulk
 
-Some things really are cheaper when you buy them in bulk. Of course, this can mean an added expense of a [Costco](https://www.costco.com/) or [BJ's](http://www.bjs.com/) membership. So you should compare the potential savings with the costs and make sure it's right for you. You can also share a membership with a friend, or go to the store with them and get the benefits of their membership. 
+Some things really are cheaper when you buy them in bulk. Of course, this can mean an added expense of a [Costco](https://www.costco.com/) or [BJ's](http://www.bjs.com/) membership. So you should compare the potential savings with the costs and make sure it's right for you. You can also share a membership with a friend, or go to the store with them and get the benefits of their membership.
 
 I recently realized that I was spending a whole lot of money on nuts and seeds. A bag of raw almonds at Trader Joe's is way more expensive per unit than a bag at Costco. Another item I prefer to buy in bulk is cooking oil, like olive oil and coconut oil. It's more affordable, and lasts longer than the smaller containers at the grocery store.
 
