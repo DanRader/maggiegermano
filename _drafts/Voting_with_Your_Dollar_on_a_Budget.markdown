@@ -46,4 +46,4 @@ Not all impact has to be made with money. Where you spend your time also sends a
 
 ## 5. Donate to a cause
 
-Stay tuned next week for a full piece on how to donate to charity when you're on a budget.
+Another great way to vote with your dollar is to donate to causes you care about. Certain organizations saw donations sky rocket after the 2016 presidential election. That was another way for people to make their voices heard. Stay tuned next week for a full piece on how to donate to charity when you're on a budget.
