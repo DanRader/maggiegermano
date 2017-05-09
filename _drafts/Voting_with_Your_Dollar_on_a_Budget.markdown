@@ -30,7 +30,7 @@ I talk a lot about voting with your dollar and choosing to spend money on compan
 
 ## 1.  Identify your values
 
-The first step before making any changes is to identify *why* you're doing it. Once you have your "why", you will be a lot more motivated to do the thing. So figure out [what your values are](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/), and how they can play out when you're spending your money. What issues are the most important to you? What actions would feel the most meaningful? Go from there!
+The first step before making any changes is to identify *why* you're doing it. Once you have your "why", you will be a lot more motivated to do the thing. So figure out [what your values are](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/), and how they can play out when you're spending your money. What issues are the most important to you? What actions would feel the most meaningful? Go from there! (You'll also need to budget for this, so find out how to do that [here](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/)!)
 
 ## 2. Switch banks
 
