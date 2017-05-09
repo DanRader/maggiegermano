@@ -26,14 +26,14 @@ I talk a lot about voting with your dollar and only spending money on companies 
 
 The April Money Circle was all about voting with your dollar, so I wanted to share ideas with you here.
 
-1\. Switch banks
+## 1. Switch banks
 
-2\. Buy from companies you believe in (within reason)
+## 2. Buy from companies you believe in (within reason)
 
 One of the reasons it's so hard to vote with your dollar is cost. Many businesses that live our values tend to be less affordable. 
 
-3\. 
+## 3. 
 
-3\. Donate to a cause
+## 4. Donate to a cause
 
 Stay tuned next week for a full piece on how to donate to charity when you're on a budget.
