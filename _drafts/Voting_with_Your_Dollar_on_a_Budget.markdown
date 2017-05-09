@@ -36,7 +36,7 @@ The first step to making any changes is to identify *why* you're doing it. Once 
 
 An easy (though tedious) way to vote with your dollar is to switch banks or other financial institutions. For example, Wells Fargo and Bank of America tend to invest money in things like oil pipelines. For me personally, that means their values don't align with mine, so I don't want to personally contribute to their profits. Some entire cities have divested from Wells Fargo in protest of the DAPL, which sends a very clear message. 
 
-You can also change who you're investing your money with. I put most of my extra money in Ellevest, because I know they are a [fiduciary](https://www.maggiegermano.com/blog/why-the-fiduciary-rule-matters-to-your-money/) and hold similar feminist beliefs. I trust that they'll put my own best interest first when managing my money. 
+You can also change who you're investing your money with. I put most of my extra money in [Ellevest](http://ellevest.com), because I know they are a [fiduciary](https://www.maggiegermano.com/blog/why-the-fiduciary-rule-matters-to-your-money/) and hold similar feminist beliefs. I trust that they'll put my own best interest first when managing my money. 
 
 ## 3. Buy from companies you believe in
 
