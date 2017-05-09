@@ -22,7 +22,7 @@ posts:
 - Do Your Money Habits Align with Your Values?
 ---
 
-I talk a lot about voting with your dollar and only spending money on companies that share your values. It’s a very powerful action, and it allows you to speak up outside of the voting booth. Money also tends to talk, loudly. That's why boycotts work.
+I talk a lot about voting with your dollar and choosing to spend money on companies that share your values. It’s a very powerful action, and it allows you to speak up outside of the voting booth. Money also tends to talk, loudly. That's why boycotts work.
 
 The April [Money Circle](http://maggiegermano.com/moneycircle) was also about voting with your dollar, so I wanted to share ideas with you here.
 
