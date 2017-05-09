@@ -16,6 +16,8 @@ tags:
 - budgeting
 - goals
 image: "/uploads/shop-9abba3.jpg"
+tweet: 'You don''t have to be a millionaire to #vote w/ your #dollar. Find out how
+  to do it on a #budget!'
 posts:
 - How to Help Save the Planet on a Budget
 - 5 Ways to Eat Healthy on a Budget
