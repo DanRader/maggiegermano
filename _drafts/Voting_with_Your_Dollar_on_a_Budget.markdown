@@ -38,7 +38,7 @@ You can also change who you're investing your money with. I put most of my extra
 
 ## 3. Buy from companies you believe in
 
-One of the reasons it's so hard to vote with your dollar is cost. Many businesses that live our values tend to be less affordable.
+One of the reasons it's so hard to vote with your dollar is cost. Many businesses that live our values tend to be less affordable. I'd love to buy everything I own from U.S. manufacturers, but the fact is, that's cost prohibitive at this point. 
 
 One way that I vote with my dollar is *not *spending money at certain companies. Thanks to my political and social views, I no longer shop or eat at Walmart, Hobby Lobby, or Chik-fil-a. It's important to me to keep my money away from companies or organizations that use their profits in ways I disagree with.
 
