@@ -24,7 +24,7 @@ posts:
 
 I talk a lot about voting with your dollar and choosing to spend money on companies that share your values. It’s a very powerful action, and it allows you to speak up outside of the voting booth. Money also tends to talk, loudly. That's why boycotts work.
 
-The April [Money Circle](http://maggiegermano.com/moneycircle) was also about voting with your dollar, so I wanted to share ideas with you here.
+However, it can feel impossible to use your money to make your voice heard when you don't have much money to spare. I do believe it's possible to vote with your dollar on a budget, so check out the ideas below!
 
 ## 1.  Identify your values
 
@@ -36,9 +36,11 @@ An easy (though tedious) way to vote with your dollar is to switch banks or othe
 
 You can also change who you're investing your money with. I put most of my extra money in Ellevest, because I know they are a [fiduciary](https://www.maggiegermano.com/blog/why-the-fiduciary-rule-matters-to-your-money/) and hold similar feminist beliefs. I trust that they'll put my own best interest first when managing my money. 
 
-## 3. Buy from companies you believe in (within reason)
+## 3. Buy from companies you believe in
 
 One of the reasons it's so hard to vote with your dollar is cost. Many businesses that live our values tend to be less affordable.
+
+One way that I vote with my dollar is *not *spending money at certain companies. Thanks to my political and social views, I no longer shop or eat at Walmart, Hobby Lobby, or Chik-fil-a. It's important to me to keep my money away from companies or organizations that use their profits in ways I disagree with.
 
 ## 4. Volunteer
 
@@ -46,4 +48,6 @@ Not all impact has to be made with money. Where you spend your time also sends a
 
 ## 5. Donate to a cause
 
-Another great way to vote with your dollar is to donate to causes you care about. Certain organizations saw donations sky rocket after the 2016 presidential election. That was another way for people to make their voices heard. Stay tuned next week for a full piece on how to donate to charity when you're on a budget.
+Another great way to vote with your dollar is to donate to causes you care about. Certain organizations saw donations sky rocket after the 2016 presidential election. That was another way for people to make their voices heard. Stay tuned next week for a full piece on how to build donating to charity into your budget.
+
+*Do you have other ways that you vote with your dollar? Share in the comments!*
