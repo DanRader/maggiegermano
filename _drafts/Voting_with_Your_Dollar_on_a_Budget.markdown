@@ -46,7 +46,7 @@ Another way that I vote with my dollar is *not* spending money at certain compan
 
 ## 4. Volunteer
 
-Not all impact has to be made with literal money. Where you spend your time sends a clear signal about what you care about. It also truly helps the organizations that you're volunteering for. Are there organizations in your city that work on issues you care about most? Sign up to be a volunteer! It doesn't even have to be a huge time commitment. I used to serve breakfast at N Street Village only once a month. Any little bit helps!
+Not all impact has to be made with literal money. Where you spend your time sends a clear signal about what you care about. It also truly helps the organizations that you're volunteering for. Are there organizations in your city that work on issues you care about most? Sign up to be a volunteer! It doesn't even have to be a huge time commitment. I used to serve breakfast at [N Street Village](http://www.nstreetvillage.org/) only once a month. Any little bit helps!
 
 ## 5. Donate to a cause
 
