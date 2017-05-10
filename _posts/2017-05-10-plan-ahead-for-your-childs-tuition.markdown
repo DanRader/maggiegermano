@@ -25,6 +25,7 @@ posts:
 - Do Your Money Habits Align with Your Values?
 - 9 Easy Changes to Make Now to Spend Less Money
 - How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
+comments: false
 ---
 
 Have you ever wished that your parents had saved money for your college education? Are you a parent who wants to be able to do this for your own children? You’re not alone. I’ve had many clients and family members ask me how they should be saving for their children’s college tuition. As more and more people attend college, and tuition rates continue to go up, it’s important to have a plan.
