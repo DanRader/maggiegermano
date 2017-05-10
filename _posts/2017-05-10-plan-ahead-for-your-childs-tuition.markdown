@@ -27,8 +27,6 @@ posts:
 - How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
 ---
 
-*Note: This is a sponsored post, which means that I received compensation to write it. However, I would never publish anything that I don’t fully support. If you have questions, please reach out at [hello@maggiegermano.com](mailto:hello@maggiegermano.com).*
-
 Have you ever wished that your parents had saved money for your college education? Are you a parent who wants to be able to do this for your own children? You’re not alone. I’ve had many clients and family members ask me how they should be saving for their children’s college tuition. As more and more people attend college, and tuition rates continue to go up, it’s important to have a plan.
 
 **How college attendance in the U.S. used to be**
@@ -76,3 +74,5 @@ Happy saving!
 *State Contributions are not guaranteed. The State funding for contributions is limited to (i) $5,000,000 in fiscal year 2018, (ii) $7,000,000 in fiscal year 2019, and (iii) $10,000,000 in fiscal year 2020 and each fiscal year thereafter. As with the entire State budget, the Maryland General Assembly has final approval. If resources are insufficient to fully fund all eligible accounts, Maryland 529 shall provide contributions in the order in which applications are received and give priority to applications of Account Holders who did not receive a State Contribution in any prior year. Please note, an Account Holder is not eligible for the State income deduction on their taxes for any taxable year in which the Account Holder receives a State contribution. You should check with your tax advisor regarding your specific situation.*
 
 *Please read the Enrollment Kit at [https://maryland529.com ](https://maryland529.com/)which describes the investment objectives, risks, expenses, and other important information that you should consider carefully before you invest. If you or your beneficiary live outside of Maryland, you should consider before investing whether your state or your beneficiary's state offer state tax or other benefits for investing in its 529 plan.*
+
+*Note: This is a sponsored post, which means that I received compensation to write it. However, I would never publish anything that I don’t fully support. If you have questions, please reach out at [hello@maggiegermano.com](mailto:hello@maggiegermano.com).*
