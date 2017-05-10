@@ -1,7 +1,6 @@
 ---
 title: Why You May Want to Plan Ahead for Your Child’s College Tuition
 date: 2017-05-10 11:00:00 -04:00
-published: false
 categories:
 - savings
 tags:
