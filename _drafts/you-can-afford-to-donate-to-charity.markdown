@@ -31,7 +31,7 @@ You can't contribute to every cause you care about. Once, when I was having a me
 
 ## 2. See what fits in your budget
 
-The key to financial stability is having [a budget that works for you](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/). Remember, you don't need to go broke to support causes that mean a lot to you. Take a look at how much you have coming in every month, and how much is required to go back out. 
+The key to financial stability is having [a budget that works for you](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/). Remember, you don't need to go broke to support causes that mean a lot to you. Take a look at how much you have coming in every month, and how much is required to go back out. If you have money leftover (that doesn't need to go to savings or debt), 
 
 ## 3. Stick to a schedule
 
