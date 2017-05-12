@@ -14,6 +14,8 @@ tags:
 - money
 - personal finance
 image: "/uploads/plants.jpg"
+tweet: 'You don''t have to be #rich to #donate to #charity! Find out how to make a
+  plan. #money'
 posts:
 - 5 Ways to Eat Healthy on a Budget
 - How to Help Save the Planet on a Budget
