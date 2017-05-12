@@ -27,11 +27,11 @@ The key is to do some planning and be realistic. Here are some ways you can do t
 
 ## 1. Choose one or two causes
 
-You can't contribute to every cause you care about. Once, when I was having a meltdown about [mountaintop removal](http://earthjustice.org/features/campaigns/what-is-mountaintop-removal-mining) and cancer, my dad told me that there are people for every cause. For every You can't try to fix everything or you'll burn out. Choose your top issues and go from there.
+You can't contribute to every cause you care about. Once, when I was having a meltdown about [mountaintop removal](http://earthjustice.org/features/campaigns/what-is-mountaintop-removal-mining) and cancer and everything else that is wrong in the world, my dad told me that there are people for every cause. For every tragic circumstance, there is a team of people working to make it right. It's important to remember that, because you can't try to fix everything or you'll burn out. Choose your top one or two issues and go from there. If you need some help deciding, check out this piece about [values](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/).
 
 ## 2. See what fits in your budget
 
-The key to financial stability is having [a budget that works for you](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/). Remember, you don't need to go broke to support causes that mean a lot to you.
+The key to financial stability is having [a budget that works for you](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/). Remember, you don't need to go broke to support causes that mean a lot to you. Take a look at how much you have coming in every month, and how much is required to go back out. 
 
 ## 3. Stick to a schedule
 
