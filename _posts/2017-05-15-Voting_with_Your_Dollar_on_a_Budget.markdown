@@ -1,7 +1,6 @@
 ---
 title: Voting with Your Dollar on a Budget
 date: 2017-05-15 11:00:00 -04:00
-published: false
 categories:
 - Budget
 - lifestyle
