@@ -8,7 +8,7 @@ event-date: 2017-06-13 18:30:00 -04:00
 start-time: 6:30pm
 end-time: 8:30pm
 location: Private NW DC Residence (provided upon RSVP)
-button-text: Sign up!
+button-text: Sign Me Up
 ticket-price: "$15"
 ---
 
