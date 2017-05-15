@@ -12,7 +12,9 @@ button-text: Sign Me Up
 ticket-price: "$15"
 ---
 
-I bet you talk more openly with your friends about your sex life than your money life. Am I right? It's time to change that! If we could learn how to talk about money with our friends, we would all be a lot better off. We'd feel less embarrassed about spending less at the bar, or staying in more often.  Our friends would have the chance to 
+I bet you talk more openly with your friends about your sex life than your money life. Am I right? It's time to change that! If we could learn how to talk about money with our friends, we would all be a lot better off. We'd feel less embarrassed about spending less at the bar, or staying in more often.  Our friends would know our financial goals, and we would feel more supported.
+
+Come to Money Circle this month to find out how to have these conversations!
 
 Money Circle is a safe open space where women can ask questions, air their fears, brag about accomplishments, and be honest about any confusion they may have around money.
 
