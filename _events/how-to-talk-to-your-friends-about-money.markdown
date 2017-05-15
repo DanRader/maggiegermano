@@ -12,4 +12,12 @@ button-text: Sign up!
 ticket-price: "$15"
 ---
 
-I bet you talk more openly with your friends about your sex life than your money life. Am I right? It's time to change that! If we 
+I bet you talk more openly with your friends about your sex life than your money life. Am I right? It's time to change that! If we
+
+Money Circle is a safe open space where women can ask questions, air their fears, brag about accomplishments, and be honest about any confusion they may have around money.
+
+Light snacks and wine will be provided.
+
+Payment: You will be redirected Paypal to process your payment. Once completed, you will receive an email with details for the evening.
+
+Refunds: Money Circle is a limited seating event. I also purchase wine and snacks based on the number of women joining us. Because of this, if you have to cancel for any reason within 24 hours, your ticket is non-refundable. However, feel free to gift it or sell it to a friend! Just be sure to let me know of the exchange at hello@maggiegermano.com.
