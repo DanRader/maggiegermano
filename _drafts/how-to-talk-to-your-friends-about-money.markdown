@@ -5,3 +5,5 @@ categories:
 - lifestyle
 ---
 
+
+Link to the Money Circle event.
