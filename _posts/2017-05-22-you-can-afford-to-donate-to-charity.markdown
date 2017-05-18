@@ -1,6 +1,7 @@
 ---
 title: How You Can Afford to Donate to Charity
 date: 2017-05-22 11:00:00 -04:00
+published: false
 categories:
 - Budget
 - lifestyle
