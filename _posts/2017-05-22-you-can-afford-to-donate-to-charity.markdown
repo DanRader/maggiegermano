@@ -19,6 +19,7 @@ tweet: 'You don''t have to be #rich to #donate to #charity! Find out how to make
 posts:
 - 5 Ways to Eat Healthy on a Budget
 - How to Help Save the Planet on a Budget
+- Voting with Your Dollar on a Budget
 ---
 
 Have you ever thought to yourself, "I'll donate to charity when I'm rich"? I know I have. I have fantasies of giving thousands of dollars to causes that I care about. But for most of us, that's just not an option, and it might never be. Here's the thing: you don't have to be wealthy to be able to donate to charity.
