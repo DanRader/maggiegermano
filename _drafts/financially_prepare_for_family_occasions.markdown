@@ -3,6 +3,7 @@ title: How to Financially Prepare for Family Occasions
 date: 2017-05-29 11:00:00 -04:00
 categories:
 - lifestyle
+- budget
 tags:
 - family
 - values
