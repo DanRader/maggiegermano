@@ -1,11 +1,12 @@
 ---
-title: How to Afford to Attend Family Events
+title: How to Financially Prepare for Family Occasions
 date: 2017-05-29 11:00:00 -04:00
 categories:
 - lifestyle
 tags:
 - family
 - values
+image: "/uploads/wedding.jpg"
 ---
 
 save each month
