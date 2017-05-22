@@ -8,6 +8,11 @@ tags:
 - family
 - values
 image: "/uploads/wedding.jpg"
+tweet: 'Does #family mean a lot to you?  #Budget to make it to family occasions!'
+posts:
+- How You Can Afford to Donate to Charity
+- Voting with Your Dollar on a Budget
+- 5 Ways to Eat Healthy on a Budget
 ---
 
 save each month
