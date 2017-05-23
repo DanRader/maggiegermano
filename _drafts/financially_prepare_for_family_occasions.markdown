@@ -21,6 +21,8 @@ posts:
 - 5 Ways to Eat Healthy on a Budget
 ---
 
+*This is the final post under the May theme of living your values on a budget. Check out parts [one](https://www.maggiegermano.com/blog/how-to-help-save-the-planet-on-a-budget/), [two](https://www.maggiegermano.com/blog/ways-to-eat-healthy-on-a-budget/), [three](https://www.maggiegermano.com/blog/Voting_with_Your_Dollar_on_a_Budget/), and [four](https://www.maggiegermano.com/blog/you-can-afford-to-donate-to-charity/)!*
+
 I have a pretty big family. My mom has five sisters, my dad has two brothers, and between all of them, there are about 18 cousins. Plus, my cousins (and sisters) have started having their own kids! When there are that many people involved, there can be a lot of family occasions each year. Weddings, birthdays, baby showers, holidays, etc. Now that I live far away from my family, it can be difficult to get home for everything. In fact, sometimes it's downright impossible. But if you value your family as much as I do, it's likely a top priority for you to get home as much as you can.
 
 All that being said, I also believe that you should not have to spend all your money or go into debt to see your family.
