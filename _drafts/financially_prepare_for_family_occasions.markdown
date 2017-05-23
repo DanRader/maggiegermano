@@ -47,4 +47,6 @@ If you don't live near your family, it's not realistic to go home for every sing
 
 One of my cousins lives near Philadelphia, which is about two hours from DC, and about four hours from where my sisters live. We've recently talked about possibly meeting up in Philadelphia for a cousins weekend, because it's *almost* in between for the majority of us. It's impossible to please everyone when you're planning a trip, but you can try to compromise.
 
+This might be more reasonable when you're planning a trip with friends than with family. But it's worth asking! For example, my boyfriend's mom wanted to see him on her birthday. Rather than him driving the three hours to Richmond and back to DC in one day, they met in between in Virginia and had a nice lunch together. 
+
 *If there anything you do that is missing from this list? Share in the comments!*
