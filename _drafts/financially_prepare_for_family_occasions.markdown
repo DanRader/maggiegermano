@@ -31,6 +31,8 @@ All that being said, I also believe that you should not have to spend all your m
 
 If money (or time) is the reason that you can't come home for everything, make that clear! I'm a huge proponent for being open with your loved ones about your financial woes and goals. The more up front you are, the more supportive they will (likely) be. And if you're lucky, maybe they'll buy your flight home like my parents used to (thanks, mom and dad!). In all seriousness, if you want to be successful in paying down debt or building up savings, your loved ones need to be on board. 
 
+\(Find out how to [have "the talk"](https://www.maggiegermano.com/blog/have-the-money-talk) with your romantic partner.)
+
 ## Save each month
 
 Travel is a top priority for me, and that includes traveling to see my family. I put money aside each month to cover vacations and holiday travel. One day, I hope to always have money on hand to fly home whenever I want. My niece and nephew are just too cute to miss!
