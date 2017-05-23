@@ -19,10 +19,14 @@ I have a pretty big family. My mom has five sisters, my dad has two brothers, an
 
 All that being said, I also believe that you should not have to spend all your money or go into debt to see your family. 
 
-save each month
+## Communicate
 
-pick and choose
+If money (or time) is the reason that you can't come home for everything, make that clear! I'm a huge proponent for being open with your loved ones about your financial woes and goals. The more up front you are, the more supportive they will be. And if you're lucky, maybe they'll buy your flight home like my parents used to (thanks, mom and dad!). 
 
-meet in between
+## Save each month
+
+## Pick and choose
+
+## Meet in between
 
 One of my cousins lives near Philadelphia, which is about two hours from DC, and about four hours from where my sisters live. We've recently talked about possibly meeting up in Philadelphia for a cousins weekend, because it's *almost* in between for the majority of us. It's impossible to please everyone when you're planning a trip, but you can try to compromise.
