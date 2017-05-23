@@ -27,7 +27,7 @@ All that being said, I also believe that you should not have to spend all your m
 
 ## Communicate
 
-If money (or time) is the reason that you can't come home for everything, make that clear! I'm a huge proponent for being open with your loved ones about your financial woes and goals. The more up front you are, the more supportive they will be. And if you're lucky, maybe they'll buy your flight home like my parents used to (thanks, mom and dad!).
+If money (or time) is the reason that you can't come home for everything, make that clear! I'm a huge proponent for being open with your loved ones about your financial woes and goals. The more up front you are, the more supportive they will (likely) be. And if you're lucky, maybe they'll buy your flight home like my parents used to (thanks, mom and dad!).
 
 ## Save each month
 
