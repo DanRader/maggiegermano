@@ -7,6 +7,12 @@ categories:
 tags:
 - family
 - values
+- travel
+- goals
+- love
+- relationships
+- money
+- savings
 image: "/uploads/wedding.jpg"
 tweet: 'Does #family mean a lot to you?  #Budget to make it to family occasions!'
 posts:
@@ -25,7 +31,9 @@ If money (or time) is the reason that you can't come home for everything, make t
 
 ## Save each month
 
-Travel is a top priority for me, and that includes traveling to see my family. I put money aside each month to cover vacations and ... One day, I hope to always have money on hand to fly home whenever I want. My niece and nephew are just too cute to miss!
+Travel is a top priority for me, and that includes traveling to see my family. I put money aside each month to cover vacations and holiday travel. One day, I hope to always have money on hand to fly home whenever I want. My niece and nephew are just too cute to miss!
+
+I harp on using your monthly budget to save up or plan for bigger expenses. Rather than dreading the holidays because your flights will be so expensive, save a smaller amount each month so you'll have the money when the time comes. This also works for [buying gifts](https://www.maggiegermano.com/blog/stress-free-holidays). 
 
 ## Pick and choose
 
