@@ -41,7 +41,7 @@ I harp on using your monthly budget to save up or plan for bigger expenses. Rath
 
 ## Pick and choose
 
-If you don't live near your family, it's not realistic to go home for every single occasion. For example, I always go home for my niece's birthday, but I usually can't make it home for my cousins' birthdays (unfortunately). 
+If you don't live near your family, it's not realistic to go home for every single occasion. For example, I always go home for my niece's birthday, but I usually can't make it home for my cousins' birthdays (unfortunately). Think about the times that mean the most to you or your family. What are the times that you'd really regret missing out on? 
 
 ## Meet in between
 
