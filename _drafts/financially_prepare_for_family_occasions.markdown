@@ -33,7 +33,7 @@ If money (or time) is the reason that you can't come home for everything, make t
 
 Travel is a top priority for me, and that includes traveling to see my family. I put money aside each month to cover vacations and holiday travel. One day, I hope to always have money on hand to fly home whenever I want. My niece and nephew are just too cute to miss!
 
-I harp on using your monthly budget to save up or plan for bigger expenses. Rather than dreading the holidays because your flights will be so expensive, save a smaller amount each month so you'll have the money when the time comes. This also works for [buying gifts](https://www.maggiegermano.com/blog/stress-free-holidays). 
+I harp on using your monthly budget to save up or plan for bigger expenses. Rather than dreading the holidays because your flights will be so expensive, save a smaller amount each month so you'll already have the money when the time comes. This also works for [buying gifts](https://www.maggiegermano.com/blog/stress-free-holidays). You'll be surprised at how quickly your savings will grow if you deliberately put money aside each month. To make it easier, make sure you automate that savings, and keep it separate from your checking account!
 
 ## Pick and choose
 
