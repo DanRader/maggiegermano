@@ -29,7 +29,7 @@ All that being said, I also believe that you should not have to spend all your m
 
 ## Communicate
 
-If money (or time) is the reason that you can't come home for everything, make that clear! I'm a huge proponent for being open with your loved ones about your financial woes and goals. The more up front you are, the more supportive they will (likely) be. And if you're lucky, maybe they'll buy your flight home like my parents used to (thanks, mom and dad!).
+If money (or time) is the reason that you can't come home for everything, make that clear! I'm a huge proponent for being open with your loved ones about your financial woes and goals. The more up front you are, the more supportive they will (likely) be. And if you're lucky, maybe they'll buy your flight home like my parents used to (thanks, mom and dad!). In all seriousness, if you want to be successful in paying down debt or building up savings, your loved ones need to be on board. 
 
 ## Save each month
 
@@ -38,6 +38,8 @@ Travel is a top priority for me, and that includes traveling to see my family. I
 I harp on using your monthly budget to save up or plan for bigger expenses. Rather than dreading the holidays because your flights will be so expensive, save a smaller amount each month so you'll already have the money when the time comes. This also works for [buying gifts](https://www.maggiegermano.com/blog/stress-free-holidays). You'll be surprised at how quickly your savings will grow if you deliberately put money aside each month. To make it easier, make sure you automate that savings, and keep it separate from your checking account!
 
 ## Pick and choose
+
+If you don't live near your family, it's not realistic to go home for every single occasion. For example, I always go home for my niece's birthday, but I usually can't make it home for my cousins' birthdays (unfortunately). 
 
 ## Meet in between
 
