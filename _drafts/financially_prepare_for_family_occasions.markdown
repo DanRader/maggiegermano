@@ -17,13 +17,15 @@ posts:
 
 I have a pretty big family. My mom has five sisters, my dad has two brothers, and between all of them, there are about 18 cousins. Plus, my cousins (and sisters) have started having their own kids! When there are that many people involved, there can be a lot of family occasions each year. Weddings, birthdays, baby showers, holidays, etc. Now that I live far away from my family, it can be difficult to get home for everything. In fact, sometimes it's downright impossible. But if you value your family as much as I do, it's likely a top priority for you to get home as much as you can.
 
-All that being said, I also believe that you should not have to spend all your money or go into debt to see your family. 
+All that being said, I also believe that you should not have to spend all your money or go into debt to see your family.
 
 ## Communicate
 
-If money (or time) is the reason that you can't come home for everything, make that clear! I'm a huge proponent for being open with your loved ones about your financial woes and goals. The more up front you are, the more supportive they will be. And if you're lucky, maybe they'll buy your flight home like my parents used to (thanks, mom and dad!). 
+If money (or time) is the reason that you can't come home for everything, make that clear! I'm a huge proponent for being open with your loved ones about your financial woes and goals. The more up front you are, the more supportive they will be. And if you're lucky, maybe they'll buy your flight home like my parents used to (thanks, mom and dad!).
 
 ## Save each month
+
+Travel is a top priority for me, and that includes traveling to see my family. I put money aside each month to cover vacations and ... One day, I hope to always have money on hand to fly home whenever I want. My niece and nephew are just too cute to miss!
 
 ## Pick and choose
 
