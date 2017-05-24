@@ -1,7 +1,6 @@
 ---
 title: How to Talk to Your Friends About Money
 date: 2017-06-13 18:30:00 -04:00
-published: false
 tags:
 - money circle
 - money
