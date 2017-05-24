@@ -19,7 +19,7 @@ start-time: 6:30pm
 end-time: 8:30pm
 location: Private NW DC Residence (provided upon RSVP)
 button-text: Sign Me Up
-ticket-price: "$15"
+ticket-price: "$20"
 ---
 
 I bet you talk more openly with your friends about your sex life than your money life. Am I right? It's time to change that! If we could learn how to talk about money with our friends, we would all be a lot better off. We'd feel less embarrassed about spending less at the bar, or staying in more often.  Our friends would know our financial goals, and we would feel more supported.
