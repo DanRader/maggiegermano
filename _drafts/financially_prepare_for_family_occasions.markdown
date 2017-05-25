@@ -29,24 +29,26 @@ All that being said, I also believe that you should not have to spend all your m
 
 ## Communicate
 
-If money (or time) is the reason that you can't come home for everything, make that clear! I'm a huge proponent for being open with your loved ones about your financial woes and goals. The more up front you are, the more supportive they will (likely) be. And if you're lucky, maybe they'll buy your flight home like my parents used to (thanks, mom and dad!). In all seriousness, if you want to be successful in paying down debt or building up savings, your loved ones need to be on board. 
+If money (or time) is the reason that you can't come home for everything, make that clear! I'm a huge proponent for being open with your loved ones about your financial woes and goals. The more up front you are, the more supportive they will (likely) be. And if you're lucky, maybe they'll buy your flight home like my parents used to (thanks, mom and dad!). In all seriousness, if you want to be successful in paying down debt or building up savings, your loved ones need to be on board.
 
-\(Find out how to [have "the talk"](https://www.maggiegermano.com/blog/have-the-money-talk) with your romantic partner.)
+\(Related, find out how to [have "the talk"](https://www.maggiegermano.com/blog/have-the-money-talk) with your romantic partner.)
 
 ## Save each month
 
 Travel is a top priority for me, and that includes traveling to see my family. I put money aside each month to cover vacations and holiday travel. One day, I hope to always have money on hand to fly home whenever I want. My niece and nephew are just too cute to miss!
 
-I harp on using your monthly budget to save up or plan for bigger expenses. Rather than dreading the holidays because your flights will be so expensive, save a smaller amount each month so you'll already have the money when the time comes. This also works for [buying gifts](https://www.maggiegermano.com/blog/stress-free-holidays). You'll be surprised at how quickly your savings will grow if you deliberately put money aside each month. To make it easier, make sure you automate that savings, and keep it separate from your checking account!
+I harp on using your monthly budget to save up or plan for bigger expenses. Rather than dreading the holidays because your flights will be so expensive, save a smaller amount each month so you'll already have the money when the time comes. This also works for [buying gifts](https://www.maggiegermano.com/blog/stress-free-holidays). You'll be surprised at how quickly your savings will grow if you deliberately put money aside each month. To make it easier, make sure you [automate](https://www.maggiegermano.com/blog/pay-yourself-first/) that savings, and keep it separate from your checking account!
 
 ## Pick and choose
 
-If you don't live near your family, it's not realistic to go home for every single occasion. For example, I always go home for my niece's birthday, but I usually can't make it home for my cousins' birthdays (unfortunately). Think about the times that mean the most to you or your family. What are the times that you'd really regret missing out on? 
+If you don't live near your family, it's not realistic to go home for every single occasion. For example, I always go home for my niece's birthday, but I usually can't make it home for my cousins' birthdays (unfortunately). Think about the times that mean the most to you or your family. What are the times that you'd really regret missing out on? Once you have a clear idea of what is the [most important](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) to you, it'll be easier to be more selective in when you choose to go home. 
 
 ## Meet in between
 
 One of my cousins lives near Philadelphia, which is about two hours from DC, and about four hours from where my sisters live. We've recently talked about possibly meeting up in Philadelphia for a cousins weekend, because it's *almost* in between for the majority of us. It's impossible to please everyone when you're planning a trip, but you can try to compromise.
 
-This might be more reasonable when you're planning a trip with friends than with family. But it's worth asking! For example, my boyfriend's mom wanted to see him on her birthday. Rather than him driving the three hours to Richmond and back to DC in one day, they met in between in Virginia and had a nice lunch together. 
+This might be more reasonable when you're planning a trip with friends than with family. But it's worth asking! For example, my boyfriend's mom wanted to see him on her birthday recently. Rather than him driving the three hours to Richmond and back to DC in one day, they met in between in Virginia and had a nice lunch together. This kind of compromise can save both time and money.
+
+Good luck and have fun with your family!
 
 *If there anything you do that is missing from this list? Share in the comments!*
