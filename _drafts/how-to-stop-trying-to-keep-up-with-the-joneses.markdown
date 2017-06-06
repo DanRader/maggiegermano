@@ -13,5 +13,6 @@ tags:
 - competition
 - money mindset
 - appearances
+image: "/uploads/social%20media.jpg"
 ---
 
