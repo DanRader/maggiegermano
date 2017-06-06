@@ -18,4 +18,4 @@ image: "/uploads/social%20media.jpg"
 
 *Pre-S: This month's blog theme is money and how it relates to our loved ones.*
 
-Who even are the Joneses? Why do we care about them?
+Who even are the Joneses? Why do we care about them? "Keeping up with the Joneses" is an old idiom that refers to comparing yourself to those around you in order to determine your social status. Funny enough, this phrase originated from a [comic strip](https://en.wikipedia.org/wiki/Keeping_Up_with_the_Joneses_(comics)) of the same name, which ran from 1913 to 1940
