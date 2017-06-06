@@ -16,3 +16,5 @@ tags:
 image: "/uploads/social%20media.jpg"
 ---
 
+*Pre-S: This month's blog theme is money and how it relates to our loved ones. *
+
