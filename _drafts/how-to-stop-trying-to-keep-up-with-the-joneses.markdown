@@ -14,6 +14,12 @@ tags:
 - money mindset
 - appearances
 image: "/uploads/social%20media.jpg"
+tweet: 'Stop trying to keep up with the Joneses! They don''t matter, you do. #money
+  #budget #goals'
+posts:
+- Why You May Want to Plan Ahead for Your Child’s College Tuition
+- Do Your Money Habits Align with Your Values?
+- How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
 ---
 
 *Pre-S: This month's blog theme is money and how it relates to our loved ones.*
