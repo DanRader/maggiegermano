@@ -28,7 +28,7 @@ So how can you be true to yourself instead of trying to keep up with the Joneses
 
 ## 1. Get clear on your own values
 
-It's important that your [money habits](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) line up with your personal values.
+It's important that your [money habits](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) line up with your personal values. It turns out, one of the key ways to find fulfillment is to make choices that align with our values. Values are beliefs and principles that make what we do in life worthwhile and meaningful to us. Do you value the things you see your friends spending money on? If not, then you don't need to spend money on the same things. Getting clear on what differentiates you from others will make it easier for you to make financial decisions based on what *you* want, rather than what you thing you *should* be doing.
 
 ## 2. Get better friends
 
