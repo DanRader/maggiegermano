@@ -32,7 +32,7 @@ It's important that your [money habits](https://www.maggiegermano.com/blog/do-yo
 
 ## 2. Plan for the things that make you happy
 
-I don't believe that sticking to a budget means you aren't allowed to do anything that makes you happy. What's the point of having money if you can't do the things you enjoy? Of course, there's a limit
+I don't believe that sticking to a budget means you aren't allowed to do anything that makes you happy. What's the point of having money if you can't do the things you enjoy? Of course, there's a limit to what you can do while still living within your means. But that's why it's important to [create a budget](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/) that works for your lifestyle. 
 
 ## 3. Get better friends
 
