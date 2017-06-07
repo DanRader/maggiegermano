@@ -30,10 +30,12 @@ So how can you be true to yourself instead of trying to keep up with the Joneses
 
 It's important that your [money habits](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) line up with your personal values. It turns out, one of the key ways to find fulfillment is to make choices that align with our values. Values are beliefs and principles that make what we do in life worthwhile and meaningful to us. Do you value the things you see your friends spending money on? If not, then you don't need to spend money on the same things. Getting clear on what differentiates you from others will make it easier for you to make financial decisions based on what *you* want, rather than what you thing you *should* be doing.
 
-2\. Plan the things that make you happy
+## 2. Plan for the things that make you happy
 
 I don't believe that sticking to a budget means you aren't allowed to do anything that makes you happy. What's the point of having money if you can't do the things you enjoy? Of course, there's a limit
 
-## 2. Get better friends
+## 3. Get better friends
 
-If you feel pressured by your friends, neighbors, or loved ones to live outside of your means, maybe it's time for them to go. It's important to remember that not everyone is meant to stay in our lives. Just because you were friends with someone in middle school doesn't mean you need to be friends with them now.
+If you feel pressured by your friends, neighbors, or loved ones to live outside of your means, maybe it's time for them to go. That might sound harsh! But it's important to remember that not everyone is meant to stay in our lives. Just because you were friends with someone in middle school doesn't mean you need to be friends with them now. You should make it clear to your loved ones that you have specific financial goals (paying down debt, building savings, sticking to a budget, etc.), and see how supportive they are. If they don't respect the fact that you need to cut back on spending, perhaps you should spend less time with them.
+
+In the meantime, at least unfollow the people on social media who make you feel bad about yourself.
