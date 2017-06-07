@@ -1,7 +1,6 @@
 ---
 title: Why You May Want to Plan Ahead for Your Child’s College Tuition
-date: 2017-03-15 11:44:00 -04:00
-published: false
+date: 2017-05-10 11:00:00 -04:00
 categories:
 - savings
 tags:
@@ -20,13 +19,14 @@ tags:
 - maryland529
 - maryland
 image: "/uploads/college.jpg"
+tweet: 'Kids w/ #college #savings are more likely to attend. Start planning for your
+  kid’s future now. #529'
 posts:
 - Do Your Money Habits Align with Your Values?
 - 9 Easy Changes to Make Now to Spend Less Money
 - How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
+comments: false
 ---
-
-*Note: This is a sponsored post, which means that I received compensation to write it. However, I would never publish anything that I don’t fully support. If you have questions, please reach out at [hello@maggiegermano.com](mailto:hello@maggiegermano.com).*
 
 Have you ever wished that your parents had saved money for your college education? Are you a parent who wants to be able to do this for your own children? You’re not alone. I’ve had many clients and family members ask me how they should be saving for their children’s college tuition. As more and more people attend college, and tuition rates continue to go up, it’s important to have a plan.
 
@@ -54,7 +54,7 @@ As with most financial topics, we don’t talk much about college savings, but w
 
 Maryland 529 (formerly College Savings Plans of Maryland) is an independent, non-profit state agency that provides flexible and affordable 529 plans to help Maryland families save for future college expenses and reduce dependence on student loans.
 
-What exactly is a 529 plan? A 529 plan is a [tax-advantaged](http://www.investopedia.com/terms/t/tax-advantaged.asp) savings plan designed to encourage saving for future college costs. These plans are sponsored by states, state agencies, or educational institutions, and are authorized by Section 529 of the [Internal Revenue Code](https://www.irs.gov/uac/529-plans-questions-and-answers). There are two types of 529 plans: pre-paid tuition plans and college savings plans. All 50 states and the District of Columbia sponsor at least one type of 529 plan.
+What exactly is a 529 plan? A 529 plan is a [tax-advantaged](http://www.investopedia.com/terms/t/tax-advantaged.asp) savings plan designed to encourage saving for future college costs. These plans are sponsored by states, state agencies, or educational institutions, and are authorized by Section 529 of the [Internal Revenue Code](https://www.irs.gov/uac/529-plans-questions-and-answers). There are two types of 529 plans: pre-paid tuition plans and college savings plans. Almost every state, and the District of Columbia, sponsors at least one type of 529 plan.
 
 Maryland 529 has a program called the Save4College State Contribution Program. This program is designed to help lower to middle-income families in Maryland save money for higher education. Right now, if you open a new [Maryland College Investment Plan](https://maryland529.com/college-savings-plans-of-maryland/maryland-college-investment-plan) with them, you can receive a free $250 contribution to your account. If you open the account between now and June 1, 2017, you are eligible for this offer\*. From there, you have until November 1, 2017 to make the minimum contribution required to qualify for the $250.
 
@@ -75,3 +75,5 @@ Happy saving!
 *State Contributions are not guaranteed. The State funding for contributions is limited to (i) $5,000,000 in fiscal year 2018, (ii) $7,000,000 in fiscal year 2019, and (iii) $10,000,000 in fiscal year 2020 and each fiscal year thereafter. As with the entire State budget, the Maryland General Assembly has final approval. If resources are insufficient to fully fund all eligible accounts, Maryland 529 shall provide contributions in the order in which applications are received and give priority to applications of Account Holders who did not receive a State Contribution in any prior year. Please note, an Account Holder is not eligible for the State income deduction on their taxes for any taxable year in which the Account Holder receives a State contribution. You should check with your tax advisor regarding your specific situation.*
 
 *Please read the Enrollment Kit at [https://maryland529.com ](https://maryland529.com/)which describes the investment objectives, risks, expenses, and other important information that you should consider carefully before you invest. If you or your beneficiary live outside of Maryland, you should consider before investing whether your state or your beneficiary's state offer state tax or other benefits for investing in its 529 plan.*
+
+*Note: This is a sponsored post, which means that I received compensation to write it. However, I would never publish anything that I don’t fully support. If you have questions, please reach out at [hello@maggiegermano.com](mailto:hello@maggiegermano.com).*
