@@ -1,4 +1,5 @@
 ---
+title: Privacy Notice
 layout: privacy
 ---
 
@@ -12,21 +13,13 @@ Maggie Germano Financial Coaching collects such information in order to send e-m
 
 If you want to unsubscribe from receiving e-mails from Maggie Germano Financial Coaching, you may do so at any time. Each e-mail from Maggie Germano Financial Coaching includes instructions for unsubscribing from these e-mail communications.
 
-Maggie Germano Financial Coaching may collect domain information and “cookies” (small files saved on your hard drive by your web browser) to analyze website and advertisement performance, track user patterns, save information from your previous visits and customize your experience. Maggie Germano Financial Coaching or its third-party vendors may collect nonpersonal information through the use of these technologies. Nonpersonal information might include the browser you use, the type of computer you use and technical information about your means of connection to this website such as the operating systems and the Internet service providers utilized and other similar information. Maggie Germano Financial Coaching’s systems may also automatically gather information about the areas you visit and search terms you use on this website and about the links you may select from within this website to other areas of the Internet.
+Maggie Germano Financial Coaching may collect domain information and “cookies” (small files saved on your hard drive by your web browser) to analyze website and advertisement performance, track user patterns, save information from your previous visits and customize your experience. Maggie Germano Financial Coaching or its third-party vendors may collect non-personal information through the use of these technologies. Non-personal information might include the browser you use, the type of computer you use and technical information about your means of connection to this website such as the operating systems and the Internet service providers utilized and other similar information. Maggie Germano Financial Coaching’s systems may also automatically gather information about the areas you visit and search terms you use on this website and about the links you may select from within this website to other areas of the Internet.
 
-Maggie Germano Financial Coaching respects your privacy and will never sell, trade or transfer your personally identifiable information to third parties (beyond what is necessary for fulfilling a
-customer transaction or for the basic functionality of an online service) without your consent. However, Maggie Germano Financial Coaching may choose to release personal information to enforce its Terms of Use, manage its business, protect users or the general public, or to otherwise comply with legal obligations.
+Maggie Germano Financial Coaching respects your privacy and will never sell, trade or transfer your personally identifiable information to third parties (beyond what is necessary for fulfilling a customer transaction or for the basic functionality of an online service) without your consent. However, Maggie Germano Financial Coaching may choose to release personal information to enforce its Terms of Use, manage its business, protect users or the general public, or to otherwise comply with legal obligations.
 
 If you give Maggie Germano Financial Coaching your permission, it may also use personal identification information for internal or external marketing and promotional purposes.
 
 On occasion, Maggie Germano Financial Coaching may collect personal identification information from you in connection with optional contests, special offers or promotions. Maggie Germano Financial Coaching will share such information with necessary third parties for the purpose of carrying out the contest, special offer or promotion. Your participation in the contest, special offer or promotion constitutes your consent to such disclosure and use of such information.
-
-Online Tracking:
-[choose one, delete the other]
-[option 1 – no tracking]
-We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
-[option 2 - include this paragraph only if your site collects personally identifiable information about a consumer’s online activities over time as they move from your site to third-party web sites or services]
-If your web browser uses a “Do Not Track” mechanism, [describe how your site responds to these signals; you may need to contact your website designer to get this information].
 
 Please note that any comments or information that you post on the website, including Maggie Germano Financial Coaching’s social media pages, become public and third parties may use your information. Maggie Germano Financial Coaching is not be responsible for any unauthorized uses by third parties in such context. You disclose such information at your own risk.
 
@@ -38,4 +31,4 @@ This Privacy Policy applies only to Maggie Germano Financial Coaching’s online
 
 This website is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide will be transferred to the United States. By using this website, participating in any of its services and/or providing your information, you consent to this transfer.
 
-Maggie Germano Financial Coaching may change, modify or update this Privacy Policy at any time by posting updates to this page. If you have any questions or concerns about this Privacy Policy, or wish to change your personal information in our records, contact hello@maggiegermano.com.  This policy is effective as of May 13, 2017.
+Maggie Germano Financial Coaching may change, modify or update this Privacy Policy at any time by posting updates to this page. If you have any questions or concerns about this Privacy Policy, or wish to change your personal information in our records, contact [hello@maggiegermano.com](mailto:hello@maggiegermano.com).  This policy is effective as of May 13, 2017.
