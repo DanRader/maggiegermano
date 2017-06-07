@@ -32,7 +32,7 @@ It's important that your [money habits](https://www.maggiegermano.com/blog/do-yo
 
 ## 2. Plan for the things that make you happy
 
-I don't believe that sticking to a budget means you aren't allowed to do anything that makes you happy. What's the point of having money if you can't do the things you enjoy? Of course, there's a limit to what you can do while still living within your means. But that's why it's important to [create a budget](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/) that works for your lifestyle. If you love traveling, you don't have to break the bank to make it happen. Set money aside every month (if you can) to make sure you have money to spend on trips when they come up. 
+I don't believe that sticking to a budget means you aren't allowed to do anything that makes you happy. What's the point of having money if you can't do the things you enjoy? Of course, there's a limit to what you can do while still living within your means. But that's why it's important to [create a budget](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/) that works for your lifestyle. If you love [traveling](https://www.maggiegermano.com/blog/vacation-on-a-budget), you don't have to break the bank to make it happen. Set money aside every month (if you can) to make sure you have money to spend on trips when they come up. If it's important to you to go out to brunch, get your hair done, or anything else like that, build the costs into your monthly budget. Even if you have to set the money aside in a separate account, plan for it so that you know it's there.
 
 ## 3. Get better friends
 
