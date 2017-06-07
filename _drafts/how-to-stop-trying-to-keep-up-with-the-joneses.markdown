@@ -22,6 +22,8 @@ Who even are the Joneses? Why do we care about them? "Keeping up with the Jonese
 
 Now how does this idiom impact us? It puts unseen pressure on us to be as good, as successful, as wealthy, as impressive as those around us seem to be. This pressure leads us to do things we don't truly want to do and spend more money than we have or want to spend.
 
+Social media makes this pressure even stronger. We see people Instagram-ing pictures of their latest "treat yourself" item, going out to brunch every weekend, or going on amazing international vacations. It makes us wonder if we're doing life wrong. 
+
 ## 1. Clarify your own values
 
 It's important that your money habits line up with your personal values.
