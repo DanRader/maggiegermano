@@ -28,7 +28,7 @@ So how can you be true to yourself instead of trying to keep up with the Joneses
 
 ## 1. Get clear on your own values
 
-It's important that your money habits line up with your personal values.
+It's important that your [money habits](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) line up with your personal values.
 
 ## 2. Get better friends
 
