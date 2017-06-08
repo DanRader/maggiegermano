@@ -8,13 +8,14 @@
 
 
      <script type="text/javascript">
-          var popupDelay = 4000;
+          var popupDelay = 0;
           var cookie = function(){
             Cookies.set('popup', 'true', { expires: 3 });
             $('a[rel*=leanModal]').leanModal();
             $("#show-pop-up").click();
           };
-          if( Cookies.get('popup') == undefined ){
+          var mq = window.matchMedia('(min-width: 600px)');
+          if( !Cookies.get('popup') && mq.matches){
               setTimeout(cookie, popupDelay);
           }
      </script>
