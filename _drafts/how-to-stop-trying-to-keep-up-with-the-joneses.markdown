@@ -46,4 +46,4 @@ If you feel pressured by your friends, neighbors, or loved ones to live outside 
 
 You should make it clear to your [loved ones](https://www.maggiegermano.com/blog/have-the-money-talk) that you have specific financial goals (paying down debt, building savings, sticking to a budget, etc.), and see how supportive they are. If they don't respect the fact that you need to cut back on spending, perhaps you should spend less time with them. In the meantime, at least unfollow the people on social media who make you feel bad about yourself.
 
-When have you tried to keep up with the spending of others?
+*When have you tried to keep up with the spending of others? How has it made you feel? Share in the comments!*
