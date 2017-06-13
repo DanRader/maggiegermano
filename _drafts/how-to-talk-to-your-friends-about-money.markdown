@@ -3,6 +3,11 @@ title: How to Talk to Your Friends about Money
 date: 2017-04-21 09:58:00 -04:00
 categories:
 - lifestyle
+image: "/uploads/friends-f3006e.jpg"
+posts:
+- How to Stop Trying to Keep Up with "the Joneses"
+- How to Financially Prepare for Family Occasions
+- Why You May Want to Plan Ahead for Your Child’s College Tuition
 ---
 
 *This is part three for June's theme of money and how it relates to our loved ones. Check out part [one](https://www.maggiegermano.com/blog/financially_prepare_for_family_occasions/) and [two](https://www.maggiegermano.com/blog/how-to-stop-trying-to-keep-up-with-the-joneses/)!*
