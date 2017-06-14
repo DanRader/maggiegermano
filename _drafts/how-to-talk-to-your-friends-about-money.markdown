@@ -28,8 +28,12 @@ I really believe it's time to change that! Why? If we could learn how to talk ab
 
 > Somehow it's more comfortable to discuss what's happening between the sheets than what's happening in our bank accounts.
 
-I'm not saying that you should walk around bragging about how much money you have or screaming about how much debt you're in. (Though, if that's cathartic for you, go for it.) 
+I'm not saying that you should walk around bragging about how much money you have or screaming about how much debt you're in. (Though, if that's cathartic for you, go for it.)
 
 ## Be vulnerable
 
-At [Money Circle](https://www.maggiegermano.com/moneycircle/) last week, one attendee said, "the only way to counter shame is vulnerability". (Thanks, [Brené Brown](http://brenebrown.com/)!) It's true. Money brings up a lot of shame, especially in women. But the only way to deal with that shame, and hopefully step out of it, is to be honest about our experiences. 
+At [Money Circle](https://www.maggiegermano.com/moneycircle/) last week, one attendee said, "the only way to counter shame is vulnerability". (Thanks, [Brené Brown](http://brenebrown.com/)!) It's true. Money brings up a lot of shame, especially in women. But the only way to deal with that shame, and hopefully step out of it, is to be honest about our experiences.
+
+Ask about their goals
+
+I mentioned this in my piece about having the money talk with your romantic partner, but it works just as well with friends. 
