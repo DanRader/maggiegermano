@@ -2,6 +2,7 @@
 title: How to Earn More Money
 date: 2017-07-18 18:30:00 -04:00
 published: false
+image: "/uploads/dollar.jpg"
 event-date: 2017-07-18 18:30:00 -04:00
 start-time: 6:30PM
 end-time: 8:30PM
