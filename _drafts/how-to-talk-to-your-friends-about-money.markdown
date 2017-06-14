@@ -3,6 +3,16 @@ title: How to Talk to Your Friends about Money
 date: 2017-06-19 11:00:00 -04:00
 categories:
 - lifestyle
+tags:
+- money
+- money mindset
+- goals
+- dreams
+- friends
+- friendship
+- communication
+- shame
+- spending
 image: "/uploads/friends-f3006e.jpg"
 posts:
 - How to Stop Trying to Keep Up with "the Joneses"
