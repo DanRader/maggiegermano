@@ -34,6 +34,6 @@ I'm not saying that you should walk around bragging about how much money you hav
 
 At [Money Circle](https://www.maggiegermano.com/moneycircle/) last week, one attendee said, "the only way to counter shame is vulnerability". (Thanks, [Brené Brown](http://brenebrown.com/)!) It's true. Money brings up a lot of shame, especially in women. But the only way to deal with that shame, and hopefully step out of it, is to be honest about our experiences.
 
-Ask about their goals
+## Ask about their goals
 
 I mentioned this in my piece about having the [money talk](https://www.maggiegermano.com/blog/have-the-money-talk) with your romantic partner, but it works just as well with friends. 
