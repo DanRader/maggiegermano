@@ -36,4 +36,4 @@ At [Money Circle](https://www.maggiegermano.com/moneycircle/) last week, one att
 
 Ask about their goals
 
-I mentioned this in my piece about having the money talk with your romantic partner, but it works just as well with friends. 
+I mentioned this in my piece about having the [money talk](https://www.maggiegermano.com/blog/have-the-money-talk) with your romantic partner, but it works just as well with friends. 
