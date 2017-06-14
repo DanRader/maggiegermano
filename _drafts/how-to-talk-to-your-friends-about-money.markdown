@@ -14,6 +14,7 @@ tags:
 - shame
 - spending
 image: "/uploads/friends-f3006e.jpg"
+tweet: 'We need to start talking to our friends about #money. Find out how!'
 posts:
 - How to Stop Trying to Keep Up with "the Joneses"
 - How to Financially Prepare for Family Occasions
