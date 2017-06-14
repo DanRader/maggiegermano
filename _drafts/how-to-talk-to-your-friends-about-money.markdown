@@ -1,6 +1,6 @@
 ---
 title: How to Talk to Your Friends about Money
-date: 2017-04-21 09:58:00 -04:00
+date: 2017-06-19 11:00:00 -04:00
 categories:
 - lifestyle
 image: "/uploads/friends-f3006e.jpg"
