@@ -49,8 +49,8 @@ I mentioned this in my piece about having the [money talk](https://www.maggieger
 
 ## Offer support
 
-We all do better when we have a buddy. Accountability is really hard on our own. So if it turns out that your friends have similar financial goals to yours, team up! You could set weekly money dates, where you both review your spending and compare with your monthly budget. You could plan fun, affordable outings together. You could also just simply send each other encouraging texts every week. 
+We all do better when we have a buddy. Accountability is really hard on our own. So if it turns out that your friends have similar financial goals to yours, team up! You could set weekly money dates, where you both review your spending and compare with your monthly budget. You could plan fun, affordable outings together. You could also just simply send each other encouraging texts every week. It's easier to keep working towards a goal when we know we're not alone.
 
-Some people might not respond well to these conversations. A lot of us have resistance to money (which is normal; it's scary!). It also can be a bummer to have to worry about money when you really just want to have fun. So if any of your friends are less than understanding, it's okay. There's nothing wrong with you; in fact, it's great that you want to take control of your financial future. Hopefully you'll inspire your friends to do the same.
+Some people might not respond well to these frank conversations. A lot of us have resistance to money (which is normal; it's scary!). It also can be a bummer to have to worry about money when you really just want to have fun. So if any of your friends are less than understanding, it's okay. There's nothing wrong with you; in fact, it's great that you want to take control of your financial future. Hopefully you'll inspire your friends to do the same.
 
 *Have you had the "money talk" with your friends? Share your experiences in the comments!*
