@@ -37,7 +37,7 @@ It might go without saying in this article, but you need to actually talk to you
 
 ## Be vulnerable
 
-At [Money Circle](https://www.maggiegermano.com/moneycircle/) last week, one attendee said, "the only way to counter shame is vulnerability". (Thanks, [Brené Brown](http://brenebrown.com/)!) It's true. Money brings up a lot of shame, especially in women. But the only way to deal with that shame, and hopefully step out of it, is to be honest about our experiences. If we hide what we're struggling with, the shame will only grow stronger. 
+At [Money Circle](https://www.maggiegermano.com/moneycircle/) last week, one attendee said, "the only way to counter shame is vulnerability". (Thanks, [Brené Brown](http://brenebrown.com/)!) It's true. Money brings up a lot of shame, especially in women. But the only way to deal with that shame, and hopefully step out of it, is to be honest about our experiences. If we hide what we're struggling with, the shame will only grow stronger. Get real about what your money issues are. Talk about your debt, talk about your spending habits. 
 
 ## Talk about your goals
 
@@ -45,7 +45,7 @@ I've said this before, but just saying "I'm broke" probably isn't a very compell
 
 ## Ask about their goals
 
-I mentioned this in my piece about having the [money talk](https://www.maggiegermano.com/blog/have-the-money-talk) with your romantic partner, but it works just as well with friends.
+I mentioned this in my piece about having the [money talk](https://www.maggiegermano.com/blog/have-the-money-talk) with your romantic partner, but it works just as well with friends. Do you know what your friends hope to achieve? Maybe they want to earn more money, maybe they want to save up to buy a house. 
 
 ## Offer support
 
