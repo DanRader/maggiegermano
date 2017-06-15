@@ -46,3 +46,7 @@ I've talked about this before, but just saying "I'm broke" probably isn't a very
 ## Ask about their goals
 
 I mentioned this in my piece about having the [money talk](https://www.maggiegermano.com/blog/have-the-money-talk) with your romantic partner, but it works just as well with friends.
+
+## Offer support
+
+We all do better when we have a buddy. Accountability is really hard on our own. So if it turns out that your friends have similar financial goals to yours, team up! Text each other to remin
