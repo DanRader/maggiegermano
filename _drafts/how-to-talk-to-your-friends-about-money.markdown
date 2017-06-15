@@ -27,17 +27,17 @@ I bet you talk more openly with your friends about your sex life than your money
 
 > Somehow it's more comfortable to discuss what's happening between the sheets than what's happening in our bank accounts.
 
-We'd feel less embarrassed about spending less at the bar, or staying in more often.  Our friends would know our financial goals, and we would feel more supported. We'd also feel less alone. I hear so often that people think they're the only ones struggling with money, that they just "don't have it together". If we talked to our friends about our money issues, we could see that they might be struggling with the same things. It builds community, compassion, and understanding. And you might even get an accountability buddy!
+We'd feel less embarrassed about spending less at the bar, or staying in more often.  Our friends would know our financial goals, and we would be more supported. We'd also feel less alone. I hear so often that people think they're the only ones struggling with money, that they just "don't have it together". If we talked to our friends about our money issues, we could see that they might be struggling with the same things. It builds community, compassion, and understanding. And you might even get an accountability buddy out of it!
 
-So let's start the conversation. Here are some tips for how to approach the money convo with your friends.
+So let's start the conversation. Here are some tips for how to approach the money talk with your friends.
 
 ## Be honest
 
-It might go without saying in this article, but you need to actually talk to your friends about money. In the past, I would say no to plans or bail at the last minute because I couldn't or didn't want to spend the money. But I wouldn't tell my friends *why* I was canceling, I would just cancel. I ended up feeling isolated, and I pissed off some of my friends. If you're honest about what your limitations are,
+It might go without saying in this article, but you need to actually talk to your friends about money. In the past, I would say no to plans or bail at the last minute because I couldn't or didn't want to spend the money. But I wouldn't tell my friends *why* I was canceling, I would just cancel, or make up a different excuse. I ended up feeling isolated, and I pissed off some of my friends. If you're honest about what your limitations are, your friends will better understand where you're coming from. Maybe they'll even feel relieved, because they were struggling with the same issue. 
 
 ## Be vulnerable
 
-At [Money Circle](https://www.maggiegermano.com/moneycircle/) last week, one attendee said, "the only way to counter shame is vulnerability". (Thanks, [Brené Brown](http://brenebrown.com/)!) It's true. Money brings up a lot of shame, especially in women. But the only way to deal with that shame, and hopefully step out of it, is to be honest about our experiences. If we hide
+At [Money Circle](https://www.maggiegermano.com/moneycircle/) last week, one attendee said, "the only way to counter shame is vulnerability". (Thanks, [Brené Brown](http://brenebrown.com/)!) It's true. Money brings up a lot of shame, especially in women. But the only way to deal with that shame, and hopefully step out of it, is to be honest about our experiences. If we hide what we're struggling with, the shame will only grow stronger. 
 
 ## Talk about your goals
 
