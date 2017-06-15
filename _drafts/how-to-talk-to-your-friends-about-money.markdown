@@ -31,10 +31,18 @@ I really believe it's time to change that! Why? If we could learn how to talk ab
 
 I'm not saying that you should walk around bragging about how much money you have or screaming about how much debt you're in. (Though, if that's cathartic for you, go for it.)
 
+## Be honest
+
+It might go without saying in this article, but you need to actually talk to your friends about money. In the past, I would say no to plans or bail at the last minute because I couldn't or didn't want to spend the money. But I wouldn't tell my friends *why* I was canceling, I would just cancel. I ended up feeling isolated, and I pissed off some of my friends. If you're honest about what your limitations are, 
+
 ## Be vulnerable
 
 At [Money Circle](https://www.maggiegermano.com/moneycircle/) last week, one attendee said, "the only way to counter shame is vulnerability". (Thanks, [Brené Brown](http://brenebrown.com/)!) It's true. Money brings up a lot of shame, especially in women. But the only way to deal with that shame, and hopefully step out of it, is to be honest about our experiences.
 
+## Talk about your goals
+
+I've talked about this before, but just saying "I'm broke" probably isn't a very compelling excuse to your friends. However, if you let them in on your long term goals, they will probably be more supportive. This might involve getting pretty vulnerable, like I mentioned above, but it will pay off in the long run. 
+
 ## Ask about their goals
 
-I mentioned this in my piece about having the [money talk](https://www.maggiegermano.com/blog/have-the-money-talk) with your romantic partner, but it works just as well with friends. 
+I mentioned this in my piece about having the [money talk](https://www.maggiegermano.com/blog/have-the-money-talk) with your romantic partner, but it works just as well with friends.
