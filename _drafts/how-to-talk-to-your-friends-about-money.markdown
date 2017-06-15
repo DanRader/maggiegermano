@@ -41,7 +41,7 @@ At [Money Circle](https://www.maggiegermano.com/moneycircle/) last week, one att
 
 ## Talk about your goals
 
-I've said this before, but just saying "I'm broke" probably isn't a very compelling excuse to your friends. However, if you let them in on your long term goals, they will probably be more supportive. This might involve getting pretty vulnerable, like I mentioned above, but it will pay off in the long run.
+I've said this before, but just saying "I'm broke" probably isn't a very compelling excuse to your friends. However, if you let them in on your long term goals, they will probably be more supportive. This might involve getting pretty vulnerable, like I mentioned above, but it will pay off in the long run. Let them know that you have a set weekly budget because you're saving up for a big trip, or because you want to have your credit card paid off by next spring. 
 
 ## Ask about their goals
 
