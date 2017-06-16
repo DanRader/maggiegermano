@@ -1,5 +1,5 @@
 ---
-title: How to Identify Financial Infidelity and What to Do About It
+title: Financial Infidelity and the Damage it Does
 date: 2017-04-18 15:28:00 -04:00
 categories:
 - lifestyle
