@@ -1,6 +1,6 @@
 ---
 title: Financial Infidelity and the Damage it Does
-date: 2017-04-18 15:28:00 -04:00
+date: 2017-06-26 11:00:00 -04:00
 categories:
 - lifestyle
 posts:
