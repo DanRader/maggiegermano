@@ -1,6 +1,9 @@
 ---
 title: How to Pick a Salary Number that Works for You
 date: 2017-07-10 11:00:00 -04:00
+categories:
+- Career
+- lifestyle
 posts:
 - Non-salary Perks You Should Ask For
 - Why I Became a Financial Coach for Women
