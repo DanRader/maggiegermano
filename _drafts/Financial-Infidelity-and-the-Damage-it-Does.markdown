@@ -23,3 +23,14 @@ posts:
 - What Survivors Wish You Knew About Financial Abuse
 ---
 
+Financial infidelity is when someone lies about or withholds important information about money. 
+
+## What counts as financial infidelity?
+
+## Why is financial infidelity harmful?
+
+## What are some of the consequences?
+
+## What you should do now
+
+Your next steps obviously depend on the severity of the financial infidelity. If you or your partner have been stealing from each other, things might be unsalvageable.  But if you just need to start being more truthful with each other, there may be hope.
