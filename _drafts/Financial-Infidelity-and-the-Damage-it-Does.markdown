@@ -47,7 +47,7 @@ Your next steps obviously depend on the severity of the financial infidelity. If
 
 **2. Confront or confess.** If you're already in a serious relationship and you've discovered financial infidelity (or committed it yourself), approach your partner.
 
-**3. Get on the same page.** Xxx
+**3. Get on the same page.** Talk about your financial goals and restrictions
 
 **4. Start rebuilding trust.** X
 
