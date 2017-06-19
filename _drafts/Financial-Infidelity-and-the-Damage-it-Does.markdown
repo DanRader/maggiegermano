@@ -41,7 +41,7 @@ Lying about spending
 
 ## Why is financial infidelity harmful?
 
-Money is already one of the leading reasons for divorce. Financial infidelity makes things even worse. Seventy-five percent of people say that financial deception has negatively impacted their relationship.
+Money is already one of the leading reasons for divorce. Financial infidelity makes things even worse. Seventy-five percent of people who have experienced financial infidelity say that it has negatively impacted their relationship.
 
 ## What are some of the consequences?
 
