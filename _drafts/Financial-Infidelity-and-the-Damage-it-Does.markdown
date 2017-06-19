@@ -31,7 +31,13 @@ A 2016 Harris poll for the [National Endowment for Financial Education ](http://
 
 Acts of financial infidelity are wide-ranging. The can be seemingly harmless, or severely damaging. **This is different than having your own financial accounts.** My boyfriend and I keep our finances separate right now, but we know what accounts we each have. I actually recommend to my clients that they have some of their own money, even if they're married. Financial infidelity is very different than financial independence. Wondering what counts?
 
-Secret credit cards
+Secret accounts
+
+Hiding large purchases
+
+Spending joint funds
+
+Lying about spending
 
 ## Why is financial infidelity harmful?
 
