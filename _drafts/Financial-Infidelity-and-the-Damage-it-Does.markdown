@@ -57,12 +57,14 @@ Your next steps obviously depend on the severity of the financial infidelity. If
 
 **1. Have the money talk.** First of all, if you're new to a romantic relationship, you should [have the money talk](https://www.maggiegermano.com/blog/have-the-money-talk) ASAP. Even if you and your partner differ when it comes to money, you should both be aware of where the other is coming from. It's important to get on the same page, so that no one feels like they have to be dishonest. And if you can't work through the differences, it's better to find out early on.
 
-**2. Confront or confess.** If you're already in a serious relationship and you've discovered financial infidelity (or committed it yourself), approach your partner.
+**2. Confront or confess.** If you're already in a serious relationship and you've discovered financial infidelity (or committed it yourself), approach your partner. Don't throw wild accusations or go into the conversation angry. Sit them down and explain what you found (or what you did). Try to stay calm and allow your partner (or yourself) to explain themselves. 
 
-**3. Get on the same page.** Talk about your financial goals and restrictions
+**3. Get on the same page.** Talk about your financial goals and restrictions together. If you never had the money talk at the beginning of your relationship, have it now. Put it all out on the table. If your financial goals differ, how can you compromise? Is there a way that all your goals can work together?
 
 **4. Start rebuilding trust.** If you think your relationship is salvageable, you and your partner need to begin to rebuild trust. Once you're back on the same financial page, you should set up ways to prove that you can trust each other. 
 
-**5. Walk away.** X
+**5. Walk away.** If things have gone past the point of no return, sometimes the only option is to walk away. If you know you could never trust your partner again, it's okay to admit that. Be as kind as you can, protect yourself (financially, emotionally, physically), and start the process of leaving.
+
+*If you have experienced financial fidelity, please share your story in the comments! *
 
 \*I want to point out that financial infidelity and financial abuse are not necessarily the same thing. If you are in an abusive relationship where money is being used against you, please [get help](http://www.thehotline.org/). If you are in this situation, you are not alone. One in four women experience domestic abuse in their lifetime. 99% of those women also experience financial abuse within the relationship. Abusers often use money as a weapon against their victims, making it difficult for the victim to leave the relationship safely. For more information and resources on financial abuse, visit [Purple Purse](http://purplepurse.com/).\*
