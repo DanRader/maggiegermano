@@ -27,6 +27,8 @@ Financial infidelity is when someone lies about or withholds important informati
 
 A 2016 Harris poll for the [National Endowment for Financial Education ](http://www.nefe.org/press-room/news/americans-confess-to-financial-infidelity.aspx)revealed that 42% of Americans admit to deceiving their spouses financially, up from 33% in 2014.
 
+> Financial infidelity is when someone lies about or withholds important information about money.
+
 ## What counts as financial infidelity?
 
 Acts of financial infidelity are wide-ranging. The can be seemingly harmless, or severely damaging. **This is different than having your own separate financial accounts.** My boyfriend and I keep our finances separate right now, but we know what accounts we each have and generally how much we have and owe. I actually recommend to my clients that they have some of their own money, even if they're married (this will help them down the road if the relationship ends). Financial infidelity is very different than financial independence. Wondering what counts?
@@ -37,7 +39,7 @@ I'm all about having and using your own money, but your accounts shouldn't be a 
 
 **Hiding large purchases**
 
-xx
+This could consist of making and hiding large purchases, or just making the decision to purchase unilaterally. Again, I'm all about everyone having their own money to spend as they like, but when you're in it together, big purchases should be okay-ed by both partners. 
 
 **Spending joint funds**
 
@@ -46,6 +48,8 @@ If you have joint bank accounts, with guidelines for how you each spend that mon
 **Lying about spending**
 
 I've heard of people saying that they're pay the rent or utility bills, and then spending the money on something else. Then when the lights get turned off, or you get evicted, their partner is completely shocked and caught off guard. Saying your money is going one place when it's really going somewhere else is dishonest and can lead to debt.
+
+There are many other actions that can be considered financial infidelity. Learn more [here](https://www.forbes.com/sites/vanessamcgrady/2016/06/02/infidelity/#5eb6147d3735).
 
 ## Why is financial infidelity harmful?
 
