@@ -29,15 +29,27 @@ A 2016 Harris poll for the [National Endowment for Financial Education ](http://
 
 ## What counts as financial infidelity?
 
-Acts of financial infidelity are wide-ranging. The can be seemingly harmless, or severely damaging. This is different than having your own financial accounts. My boyfriend and I keep our finances separate right now, but we know what we each have. I actually recommend to my clients that they have some of their own money, even if they're married. Financial infidelity is very different than that. Wondering what counts? 
+Acts of financial infidelity are wide-ranging. The can be seemingly harmless, or severely damaging. **This is different than having your own financial accounts.** My boyfriend and I keep our finances separate right now, but we know what accounts we each have. I actually recommend to my clients that they have some of their own money, even if they're married. Financial infidelity is very different than financial independence. Wondering what counts?
 
-Secret credit cards
+**Secret accounts**
+
+xx
+
+**Hiding large purchases**
+
+xx
+
+**Spending joint funds**
+
+xx
+
+**Lying about spending**
+
+xx
 
 ## Why is financial infidelity harmful?
 
-Money is already one of the leading reasons for divorce. Financial infidelity makes things even worse. Seventy-five percent of people say that financial deception has negatively impacted their relationship. 
-
-## What are some of the consequences?
+Money is already one of the leading reasons for divorce. Financial infidelity makes things even worse. Seventy-five percent of people who have experienced financial infidelity say that it has negatively impacted their relationship.
 
 ## What you should do now
 
@@ -47,10 +59,10 @@ Your next steps obviously depend on the severity of the financial infidelity. If
 
 **2. Confront or confess.** If you're already in a serious relationship and you've discovered financial infidelity (or committed it yourself), approach your partner.
 
-**3. Get on the same page. **Xxx
+**3. Get on the same page.** Talk about your financial goals and restrictions
 
-**4. Start rebuilding trust.** X
+**4. Start rebuilding trust.** If you think your relationship is salvageable, 
 
 **5. Walk away.** X
 
-\*I want to point out that financial infidelity and financial abuse are not necessarily the same. If you are in an abusive relationship where money is being used against you, please [get help](http://www.thehotline.org/). If you are in this situation, you are not alone. One in four women experience domestic abuse in their lifetime. 99% of those women also experience financial abuse within the relationship. Abusers often use money as a weapon against their victims, making it difficult for the victim to leave the relationship safely. For more information and resources on financial abuse, visit [Purple Purse](http://purplepurse.com/).\*
+\*I want to point out that financial infidelity and financial abuse are not necessarily the same thing. If you are in an abusive relationship where money is being used against you, please [get help](http://www.thehotline.org/). If you are in this situation, you are not alone. One in four women experience domestic abuse in their lifetime. 99% of those women also experience financial abuse within the relationship. Abusers often use money as a weapon against their victims, making it difficult for the victim to leave the relationship safely. For more information and resources on financial abuse, visit [Purple Purse](http://purplepurse.com/).\*
