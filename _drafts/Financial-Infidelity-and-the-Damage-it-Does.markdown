@@ -53,7 +53,7 @@ Your next steps obviously depend on the severity of the financial infidelity. If
 
 **3. Get on the same page.** Talk about your financial goals and restrictions
 
-**4. Start rebuilding trust.** X
+**4. Start rebuilding trust.** If you think your relationship is salvageable, 
 
 **5. Walk away.** X
 
