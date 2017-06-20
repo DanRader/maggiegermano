@@ -41,11 +41,11 @@ xx
 
 **Spending joint funds**
 
-xx
+If you have joint bank accounts, with guidelines for how you each spend that money, it should be clear how that money is used. If you or your partner are pulling from your shared cash to spend on things that are not agreed upon, you're committing financial infidelity. This type of act would likely be discovered more quickly than others (unless the other partner never checks the accounts), but it's no less harmful
 
 **Lying about spending**
 
-xx
+I've heard of people saying that they're pay the rent or utility bills, and then spending the money on something else. Then when the lights get turned off, or you get evicted, their partner is completely shocked and caught off guard. Saying your money is going one place when it's really going somewhere else is dishonest and can lead to debt.
 
 ## Why is financial infidelity harmful?
 
