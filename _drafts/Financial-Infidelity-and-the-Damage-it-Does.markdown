@@ -33,7 +33,7 @@ Acts of financial infidelity are wide-ranging. The can be seemingly harmless, or
 
 **Secret accounts**
 
-I'm all about having and using your own money, but your accounts shouldn't be secret. If you feel like you have to hide your spending from your partner, something is wrong. Having secret bank accounts or credit cards could mean there's overspending happening, which could end up hurting the whole family.
+I'm all about having and using your own money, but your accounts shouldn't be secret. If you feel like you have to hide your spending from your partner, something is wrong. Having secret bank accounts or credit cards could mean there's overspending happening, which could end up hurting the whole family. There could also be more sinister motives behind these secret accounts. Perhaps your partner 
 
 **Hiding large purchases**
 
