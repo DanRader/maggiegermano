@@ -51,6 +51,10 @@ xx
 
 Money is already one of the leading reasons for divorce. Financial infidelity makes things even worse. Seventy-five percent of people who have experienced financial infidelity say that it has negatively impacted their relationship.
 
+Breach of trust
+
+Financial ruin
+
 ## What you should do now
 
 Your next steps obviously depend on the severity of the financial infidelity. If you or your partner have been stealing from each other, things might be unsalvageable.  But if you just need to start being more truthful with each other, there may be hope.
@@ -61,7 +65,7 @@ Your next steps obviously depend on the severity of the financial infidelity. If
 
 **3. Get on the same page.** Talk about your financial goals and restrictions
 
-**4. Start rebuilding trust.** If you think your relationship is salvageable, 
+**4. Start rebuilding trust.** If you think your relationship is salvageable,
 
 **5. Walk away.** X
 
