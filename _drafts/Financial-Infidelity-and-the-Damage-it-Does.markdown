@@ -59,15 +59,15 @@ There are many other actions that can be considered financial infidelity. Learn 
 
 ## What you should do now
 
-Your next steps obviously depend on the severity of the financial infidelity. If you or your partner have been stealing from each other, things might be unsalvageable.  But if you just need to start being more truthful with each other, there may be hope.
+Your next steps obviously depend on the severity of the financial infidelity. If you or your partner have been stealing from each other, things might not be salvageable.  But if you just need to start being more truthful with each other, there may still be hope.
 
-**1. Have the money talk.** First of all, if you're new to a romantic relationship, you should [have the money talk](https://www.maggiegermano.com/blog/have-the-money-talk) ASAP. Even if you and your partner differ when it comes to money, you should both be aware of where the other is coming from. It's important to get on the same page, so that no one feels like they have to be dishonest. And if you can't work through the differences, it's better to find out early on.
+**1. Have the money talk.** First of all, if you're new to a romantic relationship, you should [have the money talk](https://www.maggiegermano.com/blog/have-the-money-talk) ASAP. Even if you and your partner differ when it comes to money, you should both be aware of where the other is coming from. It's important to get on the same page, so that no one feels like they have to be dishonest later on. And if you can't work through the differences, it's better to find out early on in the relationship.
 
 **2. Confront or confess.** If you're already in a serious relationship and you've discovered financial infidelity (or committed it yourself), approach your partner. Don't throw wild accusations or go into the conversation angry. Sit them down and explain what you found (or what you did). Try to stay calm and allow your partner (or yourself) to explain themselves. 
 
-**3. Get on the same page.** Talk about your financial goals and restrictions together. If you never had the money talk at the beginning of your relationship, have it now. Put it all out on the table. If your financial goals differ, how can you compromise? Is there a way that all your goals can work together?
+**3. Get on the same page.** Talk about your financial goals and restrictions together. If you never had the money talk at the beginning of your relationship, have it now. Put it all out on the table. If your financial goals differ, how can you compromise? Is there a way that all your goals can work together? Being in agreement means you can be more honest and communicative with each other moving forward.
 
-**4. Start rebuilding trust.** If you think your relationship is salvageable, you and your partner need to begin to rebuild trust. Once you're back on the same financial page, you should set up ways to prove that you can trust each other. 
+**4. Start rebuilding trust.** If you think your relationship is salvageable, you and your partner need to begin to rebuild trust. Once you're back on the same financial page, you should set up ways to prove that you can trust each other. Perhaps you can set a "money date" once a week to sit down and go through your finances together. Or you can set up a joint [Mint](http://www.mint.com) or [LearnVest](http://www.anrdoezrs.net/click-8097813-12662287) account so you can see what the other person is up to. If you can take the small steps to prove that you're trustworthy, you can start rebuilding trust within your relationship.
 
 **5. Walk away.** If things have gone past the point of no return, sometimes the only option is to walk away. If you know you could never trust your partner again, it's okay to admit that. Be as kind as you can, protect yourself (financially, emotionally, physically), and start the process of leaving.
 
