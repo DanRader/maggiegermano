@@ -49,7 +49,9 @@ xx
 
 ## Why is financial infidelity harmful?
 
-Money is already one of the leading reasons for divorce. Financial infidelity makes things even worse. Seventy-five percent of people who have experienced financial infidelity say that it has negatively impacted their relationship.
+**Loss of trust.** Money is already one of the leading reasons for divorce. Financial infidelity makes things even worse. Seventy-five percent of people who have experienced financial infidelity say that it has negatively impacted their relationship.
+
+**Financial ruin.** Yes, financial infidelity can hurt your interpersonal relationships, but it can do a lot more damage than that. If your partner is racking up debt in your name, or not paying the bills, your credit can be severely impacted. 
 
 ## What you should do now
 
