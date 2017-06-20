@@ -43,8 +43,6 @@ Lying about spending
 
 Money is already one of the leading reasons for divorce. Financial infidelity makes things even worse. Seventy-five percent of people who have experienced financial infidelity say that it has negatively impacted their relationship.
 
-## What are some of the consequences?
-
 ## What you should do now
 
 Your next steps obviously depend on the severity of the financial infidelity. If you or your partner have been stealing from each other, things might be unsalvageable.  But if you just need to start being more truthful with each other, there may be hope.
