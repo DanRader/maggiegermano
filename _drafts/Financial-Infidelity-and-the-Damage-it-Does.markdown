@@ -31,31 +31,31 @@ A 2016 Harris poll for the [National Endowment for Financial Education ](http://
 
 ## What counts as financial infidelity?
 
-Acts of financial infidelity are wide-ranging. The can be seemingly harmless, or severely damaging. **This is different than having your own separate financial accounts.** My boyfriend and I keep our finances separate right now, but we know what accounts we each have and generally how much we have and owe. I actually recommend to my clients that they have some of their own money, even if they're married (this will help them down the road if the relationship ends). Financial infidelity is very different than financial independence. Wondering what counts?
+Acts of financial infidelity are wide-ranging. They can be seemingly harmless, or severely damaging. **This is different than having your own separate financial accounts.** My boyfriend and I keep our finances separate right now, but we know what accounts we each have and generally how much we have and owe. I actually recommend to my clients that they have some of their own money, even if they're married (this will help them down the road if the relationship ends). Financial infidelity is very different than financial independence. Wondering what counts?
 
 **Secret accounts**
 
-I'm all about having and using your own money, but your accounts shouldn't be a secret. If you feel like you have to hide your spending from your partner, something is wrong. Having secret bank accounts or credit cards could mean there's overspending happening, which could end up hurting the whole family. There could also be more sinister motives behind these secret accounts. Some people feel the need to hide money from their partner if their partner is abusive. Others might have secret accounts that they use to spend money on an affair.
+I'm all about having and using your own money, but your accounts shouldn't be a secret. If you feel like you have to hide your spending from your partner, something is wrong. Having secret bank accounts or credit cards could mean there's overspending happening, which could end up hurting the whole family. There could also be more sinister motives behind these secret accounts. Some people feel the need to hide money from their partner if that partner is abusive. Others might have secret accounts that they use to spend money on an affair or an addiction.
 
 **Hiding large purchases**
 
-This could consist of making and hiding large purchases, or just making the decision to purchase unilaterally. Again, I'm all about everyone having their own money to spend as they like, but when you're in it together, big purchases should be okay-ed by both partners. 
+This could consist of making and hiding large purchases, or just making the decision to purchase unilaterally. Again, I'm all about everyone having their own money to spend as they like, but when you're in it together, big purchases should be okay-ed by both partners. An example of this could be if your partner decides to buy a new car without discussing it with you first. It's especially damaging if you can't afford the payments for that new car.
 
 **Spending joint funds**
 
-If you have joint bank accounts, with guidelines for how you each spend that money, it should be clear how that money is used. If you or your partner are pulling from your shared cash to spend on things that are not agreed upon, you're committing financial infidelity. This type of act would likely be discovered more quickly than others (unless the other partner never checks the accounts), but it's no less harmful
+If you have joint bank accounts, you should create guidelines for how you each spend that money. For example, you may decide to use joint funds to pay the mortgage, or pay off debt. If you or your partner are pulling from your shared cash to spend on things that are not mutually agreed upon, you're committing financial infidelity. This act could be particularly alarming to the other partner, because it's partly their own money that is being spent.
 
 **Lying about spending**
 
-I've heard of people saying that they're pay the rent or utility bills, and then spending the money on something else. Then when the lights get turned off, or you get evicted, their partner is completely shocked and caught off guard. Saying your money is going one place when it's really going somewhere else is dishonest and can lead to debt.
+I've heard of people saying that they're paying the rent or utility bills, and then spending the money on something else. Then when the lights get turned off, or they get evicted, their partner is completely shocked and caught off guard. Saying your money is going one place when it's really going somewhere else is dishonest and can lead to debt and credit problems.
 
 There are many other actions that can be considered financial infidelity. Learn more [here](https://www.forbes.com/sites/vanessamcgrady/2016/06/02/infidelity/#5eb6147d3735).
 
 ## Why is financial infidelity harmful?
 
-**Loss of trust.** Money is already one of the leading reasons for divorce. Financial infidelity makes things even worse. Seventy-five percent of people who have experienced financial infidelity say that it has negatively impacted their relationship.
+**Loss of trust.** Money is already one of the leading reasons for divorce. When two people are not on the same page when it comes to money, there is a lot of potential conflict. Financial infidelity makes things even worse. Seventy-five percent of people who have experienced financial infidelity say that it has negatively impacted their relationship. Infidelity of any kind can erode trust within a relationship, and financial infidelity is no different.
 
-**Financial ruin.** Yes, financial infidelity can hurt your interpersonal relationships, but it can do a lot more damage than that. If your partner is racking up debt in your name, or not paying the bills, your credit can be severely impacted. 
+**Financial ruin.** Yes, financial infidelity can hurt your interpersonal relationships, but it can do a lot more damage than that. If your partner is racking up debt in your name, or not paying the bills, your credit can be severely impacted. This can lead to having to file bankrupcy, losing your house, having your credit score tank, and more. These types of financial issues can follow you far beyond your relationship.
 
 ## What you should do now
 
