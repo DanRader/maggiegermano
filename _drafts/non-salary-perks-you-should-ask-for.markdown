@@ -17,6 +17,8 @@ tags:
 - personal finance
 - self worth
 image: "/uploads/work.jpg"
+tweet: 'Salary isn''t the only thing you can #negotiate w/ an employer. Find out what
+  else you should ask for!'
 posts:
 - How to Talk to Your Friends about Money
 - How to Stop Trying to Keep Up with "the Joneses"
