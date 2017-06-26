@@ -25,3 +25,4 @@ posts:
 - How to Financially Prepare for Family Occasions
 ---
 
+*This is part one for July's theme of getting the most out of your career!*
