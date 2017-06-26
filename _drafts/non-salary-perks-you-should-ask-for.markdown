@@ -4,6 +4,18 @@ date: 2017-07-03 11:00:00 -04:00
 categories:
 - Career
 - lifestyle
+tags:
+- negotiation
+- salary negotiation
+- salary
+- benefits
+- income
+- compensation
+- career
+- employment
+- money
+- personal finance
+- self worth
 image: "/uploads/work.jpg"
 posts:
 - How to Talk to Your Friends about Money
