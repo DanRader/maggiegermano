@@ -33,6 +33,8 @@ As the world starts to change, employees want to have a better work-life blend. 
 
 ## Paid Time Off
 
+It actually never occurred to me that time off could be negotiable until I saw a friend do it. I have been fortunate to work for a company that has very generous time off, but I've seen other people struggle with the opposite. When my friend (and former co-worker) decided to change jobs, she was okay with taking a slight pay cut. 
+
 ## Flexible Schedule
 
 ## Teleworking
