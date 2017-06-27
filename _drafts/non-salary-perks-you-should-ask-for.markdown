@@ -27,7 +27,9 @@ posts:
 
 *This is part one for July's theme of getting the most out of your career!*
 
-When I look around and read about career negotiation, I typically only see advice about negotiating your salary. This is very important; I'll be writing about it soon myself! But there are other things that are negotiable when you're choosing an employer, and you 
+When I look around and read about career negotiation, I typically only see advice about negotiating your salary. This is very important; I'll be writing about it soon myself! But there are other things that are negotiable when you're choosing an employer, and you should make sure to ask for them. 
+
+As the world starts to change, employees want to have a better work-life blend. We don't want to be chained to our desks all day, everyday. We want our lives to be flexible and fulfilling, and employers are beginning to change their policies to accommodate that. However, if you are offered a job by an employer that does not yet have these policies, you may have to ask for them yourself. That's really the only way things change anyway; we have to demand it.
 
 ## Paid Time Off
 
