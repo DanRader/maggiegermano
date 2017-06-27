@@ -43,9 +43,11 @@ I've struggled my entire life with getting up early. I could barely do it in hig
 
 ## Teleworking
 
-In this day and age, many of us do not need to physically be in our office to do our work. 
+In this day and age, many of us do not need to physically be in our office to do our work. Companies are becoming more and more likely to offer a telework option. I personally hope to get to a place where I can fly home and spend a couple weeks with my family
 
 ## Professional Development
+
+This item is something that people often forget to ask about, but it's SO important! Professional development can come in the form of conferences, classes, certifications, etc. These are the types of things that might not cost your employer very much, but can make a world of difference for you. Professional development allows you to get relevant experience and add to your resume without worrying about the cost.
 
 ## Mentorship
 
