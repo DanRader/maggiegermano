@@ -27,7 +27,7 @@ posts:
 
 *This is part one for July's theme of getting the most out of your career!*
 
-When I look around and read about career negotiation, I typically only see advice about negotiating your salary. This is very important; I'll be writing about it soon myself! But there are other things that are negotiable when you're choosing an employer, and you should make sure to ask for them.
+When I look around and read about negotiation, I typically only see advice about negotiating your salary. This is very important, of course; I'll be writing about it soon myself! But there are other things that are negotiable when you're choosing an employer, and you should make sure to ask for them.
 
 As the world starts to change, employees want to have a better work-life blend. We don't want to be chained to our desks all day, everyday. We want our lives to be flexible and fulfilling, and employers are beginning to change their policies to accommodate that. However, if you are offered a job by an employer that does not yet have these policies, you may have to ask for them yourself. That's really the only way things change anyway; we have to demand it.
 
@@ -43,7 +43,7 @@ I've struggled my entire life with getting up early. I could barely do it in hig
 
 ## Teleworking
 
-In this day and age, many of us do not need to physically be in our office to do our work. Luckily, companies are becoming more and more likely to offer a telework option. Even my rigid workplace allows us to work from home if we need to. Teleworking 
+In this day and age, many of us do not need to physically be in our office to do our work. Luckily, companies are becoming more and more likely to offer a telework option. Even my rigid workplace allows us to work from home if we need to. Teleworking
 
 ## Professional Development
 
@@ -51,9 +51,9 @@ This item is something that people often forget to ask about, but it's SO import
 
 ## Mentorship
 
-According to The Hartford’s [Millennial Leadership Survey](https://www.thehartford.com/sites/the_hartford/files/2015-millennial-leadership.pdf), the number one thing employers can do to demonstrate their investment in a young person becoming a leader is to train and develop them, including coaching and mentoring. [Deloitte's 2016 Millennial Survey](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-millenial-survey-2016-exec-summary.pdf) also found that those intending to stay with their organization for more than five years are twice as likely to have a mentor, than not. Those are pretty compelling numbers. 
+According to The Hartford’s [Millennial Leadership Survey](https://www.thehartford.com/sites/the_hartford/files/2015-millennial-leadership.pdf), the number one thing employers can do to demonstrate their investment in a young person becoming a leader is to train and develop them, including coaching and mentoring. [Deloitte's 2016 Millennial Survey](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-millenial-survey-2016-exec-summary.pdf) also found that those intending to stay with their organization for more than five years are twice as likely to have a mentor, than not. Those are pretty compelling numbers.
 
-Both mentors and mentees benefit from mentoring relationships. Mentors are sharing their wisdom and getting a sense of impact, while mentees are learning and are able to ask for advice. So when you're interviewing for a job, ask if there is a mentorship program. If they don't have one, ask if they would support you (either financially or allowing you to take time off) seeking out your own mentor. And make sure your mentor is someone who will actually be able to help you. Just because someone is older than you doesn't mean they're a good fit. 
+Both mentors and mentees benefit from mentoring relationships. Mentors are sharing their wisdom and getting a sense of impact, while mentees are learning and are able to ask for advice. So when you're interviewing for a job, ask if there is a mentorship program. If they don't have one, ask if they would support you (either financially or allowing you to take time off) seeking out your own mentor. And make sure your mentor is someone who will actually be able to help you. Just because someone is older than you doesn't mean they're a good fit.
 
 Don't know where to start? Check out [The Mentor Method](www.thementormethod.com), a social enterprise that provides curated mentor matches, connecting the next generation of tech leaders with change-making mentors at the top of their game.
 
