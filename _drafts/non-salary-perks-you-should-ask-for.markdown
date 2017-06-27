@@ -39,7 +39,7 @@ But once you get those extra vacation days, don't forget to actually use them! H
 
 ## Flexible Schedule
 
-I've struggled my entire life with getting up early. I could barely do it in high school, I flat out refused in college, and now as a "real adult", I still have a hard time getting to work on time. I've always considered it a personal failing, but it turns out, [it might just be my genes](https://www.facebook.com/Vox/videos/657820167738922/?pnref=story)! article about our brains operating at diff times of day
+I've struggled my entire life with getting up early. I could barely do it in high school, I flat out refused in college, and now as a "real adult", I still have a hard time getting to work on time. I've always considered it a personal failing, but it turns out, [it might just be my genes](https://www.facebook.com/Vox/videos/657820167738922/?pnref=story)! Not only do our genes make it harder or easier to get up early, but they also determine when we're the most productive. Some people are useless before 11am, others get the most done in the middle of the night. If you are the type of person who isn't the most productive during the typical 9-5 workday, see if your employer offers flexible schedules. 
 
 ## Teleworking
 
