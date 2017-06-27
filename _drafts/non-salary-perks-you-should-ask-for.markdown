@@ -53,7 +53,7 @@ This item is something that people often forget to ask about, but it's SO import
 
 Mention Janice here
 
-Check out The Mentor Method, 
+Don't know where to start? Check out [The Mentor Method](www.thementormethod.com), a social enterprise that provides curated mentor matches, connecting the next generation of tech leaders with change-making mentors at the top of their game.
 
 ## Timed Pay Increase
 
