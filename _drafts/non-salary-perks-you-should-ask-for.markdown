@@ -47,7 +47,7 @@ In this day and age, many of us do not need to physically be in our office to do
 
 ## Professional Development
 
-This item is something that people often forget to ask about, but it's SO important! Professional development can come in the form of conferences, classes, certifications, etc. These are the types of things that might not cost your employer very much, but can make a world of difference for you. Professional development allows you to get relevant experience and add to your resume without worrying about the cost.
+This item is something that people often forget to ask about, but it's SO important! Professional development can come in the form of conferences, classes, certifications, etc. These are the types of things that might not cost your employer very much, but can make a world of difference for you. Professional development allows you to get relevant experience and add to your resume without worrying about the cost. It can also make you a happier employee, which is good for your company in the long run!
 
 ## Mentorship
 
