@@ -51,7 +51,7 @@ This item is something that people often forget to ask about, but it's SO import
 
 ## Mentorship
 
-Mention Janice here
+According to The Hartford’s [Millennial Leadership Survey](https://www.thehartford.com/sites/the_hartford/files/2015-millennial-leadership.pdf), the number one thing employers can do to demonstrate their investment in a young person becoming a leader is to train and develop them, including coaching and mentoring. [Deloitte's 2016 Millennial Survey](https://www2.deloitte.com/content/dam/Deloitte/global/Documents/About-Deloitte/gx-millenial-survey-2016-exec-summary.pdf) also found that those intending to stay with their organization for more than five years are twice as likely to have a mentor, than not. Those are pretty compelling numbers. 
 
 Don't know where to start? Check out [The Mentor Method](www.thementormethod.com), a social enterprise that provides curated mentor matches, connecting the next generation of tech leaders with change-making mentors at the top of their game.
 
