@@ -39,7 +39,7 @@ But once you get those extra vacation days, don't forget to actually use them! H
 
 ## Flexible Schedule
 
-article about our brains operating at diff times of day
+I've struggled my entire life with getting up early. I could barely do it in high school, I flat out refused in college, and now as a "real adult", I still have a hard time getting to work on time. I've always considered it a personal failing, but it turns out, [it might just be my genes](https://www.facebook.com/Vox/videos/657820167738922/?pnref=story)! article about our brains operating at diff times of day
 
 ## Teleworking
 
