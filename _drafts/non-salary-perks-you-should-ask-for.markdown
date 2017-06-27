@@ -56,3 +56,5 @@ Mention Janice here
 If you have trouble negotiating these things at hiring, there's still hope! One thing you can ask for in your contract is to have a performance review and subsequent raise down the line. This can work! My boyfriend negotiated a $3,000 raise 3 months into one of his old jobs. They weren't able to give him the starting salary he wanted, so he asked to get a pay increase after the 3-month probationary period if he'd performed well. The employer agreed and he got the raise!
 
 The moral of this article is that you never know unless you ask. Employers are not inclined to offer extra benefits on their own. 
+
+*What have you negotiated in your career? Did you succeed? Share in the comments!*
