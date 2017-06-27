@@ -16,6 +16,7 @@ tags:
 - money
 - personal finance
 - self worth
+- worth
 image: "/uploads/work.jpg"
 tweet: 'Salary isn''t the only thing you can #negotiate w/ an employer. Find out what
   else you should ask for!'
