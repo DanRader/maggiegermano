@@ -28,9 +28,9 @@ posts:
 
 *This is part one for July's theme of getting the most out of your career!*
 
-When I look around and read about negotiation, I typically only see advice about negotiating your salary. This is very important, of course; I'll be writing about it soon myself! But there are other things that are negotiable when you're choosing an employer, and you should make sure to ask for them.
+When I look around and read about negotiation, I typically only see advice about negotiating your salary. This is very important, of course - I'll be writing about it soon myself! But there are other things that are negotiable when you're choosing an employer, and you should make sure to ask for them.
 
-As the world starts to change, employees want to have a better work-life blend. We don't want to be chained to our desks all day, everyday. We want our lives to be flexible and fulfilling, and employers are beginning to change their policies to accommodate that. However, if you are offered a job by an employer that does not yet have these policies, you may have to ask for them yourself. That's really the only way things change anyway; we have to demand it.
+As the world starts to change, employees want to have a better work-life blend. We don't want to be chained to our desks all day, everyday. We want our lives to be flexible and fulfilling, and employers are beginning to change their policies to accommodate that. However, if you are offered a job by an employer that does not yet have these policies, you may have to ask for them yourself. That's really the only way things change anyway; we have to demand it. So here are a few things you might be able to get if you ask for them.
 
 ## Paid Time Off
 
@@ -40,7 +40,7 @@ But once you get those extra vacation days, don't forget to actually use them! H
 
 ## Flexible Schedule
 
-I've struggled my entire life with getting up early. I could barely do it in high school, I flat out refused in college, and now as a "real adult", I still have a hard time getting to work on time. I've always considered it a personal failing, but it turns out, [it might just be my genes](https://www.facebook.com/Vox/videos/657820167738922/?pnref=story)! Not only do our genes make it harder or easier to get up early, but they also determine when we're the most productive. Some people are useless before 11am, others get the most done in the middle of the night. If you are the type of person who isn't the most productive during the typical 9-5 workday, see if your employer offers flexible schedule options. 
+I've struggled my entire life with getting up early. I could barely do it in high school, I flat out refused in college, and now as a "real adult", I still have a hard time getting to work on time. I've always considered it a personal failing, but it turns out, [it might just be my genes](https://www.facebook.com/Vox/videos/657820167738922/?pnref=story)! Not only do our genes make it harder or easier to get up early, but they also determine when we're the most productive. Some people are useless before 11am, others get the most done in the middle of the night. If you are the type of person who isn't the most productive during the typical 9-5 workday, see if your employer offers flexible schedule options.
 
 ## Teleworking
 
