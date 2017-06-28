@@ -37,4 +37,4 @@ Now that you've looked at the actual numbers, you should think about what you re
 
 Do your homework! Find out how much the typical salary is for the work you want to do. You can do this by asking people you know who work in the field or at the organization you're interested in. (That's also a good way to get some informational interviews.) You can also use resources like [Salary.com](www.salary.com) or [Glassdoor.com](glassdoor.com). 
 
-Don't forget to negotiate your full compensation package.
+Don't forget to negotiate your full compensation package! 
