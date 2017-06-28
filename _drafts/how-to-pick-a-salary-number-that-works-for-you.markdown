@@ -31,16 +31,16 @@ Look at your numbers. How much money do you need to earn to cover your minimum r
 
 ## How much do you want?
 
-Now that you've looked at the actual numbers, you should think about what you *really* want. What are your [goals](https://www.maggiegermano.com/blog/3-easy-financial-goals-for-2017/)? Think big. What number would help you achieve your goals? What number would make you feel fairly compensated? This number is also very important! You should feel great about the salary you are asking for. If you're confident in what you're asking for, you'll be more confident during the negotiation process.
+Now that you've looked at the actual numbers, you should think about what you *really* want. What are your [goals](https://www.maggiegermano.com/blog/3-easy-financial-goals-for-2017/)? Think big. Maybe you want to be completely debt-free in 5 years. Perhaps you want to buy a house. The list of possibilities goes on! What number would help you achieve your goals? What number would make you feel fairly compensated? This number is very important! You should feel great about the salary you are asking for. If you're confident in what you're asking for, you'll be more confident during the negotiation process.
 
 ## What does the sector pay?
 
-Do your homework! Find out how much the typical salary is for the work you want to do. You can do this by asking people you know who work in the field or at the organization you're interested in. (That's also a good way to get some informational interviews.) You can also use resources like [Salary.com](www.salary.com) or [Glassdoor.com](glassdoor.com).
-
-Don't forget to negotiate your full compensation package! Check out last week's blog to learn other benefits you can negotiate.
+Do your homework! Find out how much the typical salary is for the work you want to do. You can do this by asking people you know who work in the field or at the organization you're interested in. (That's also a good way to get some informational interviews.) You can also use resources like [Salary.com](www.salary.com) or [Glassdoor.com](glassdoor.com). Not only will this give you a good idea of the range you should ask for, but you can also use this information to back up your ask. If a potential employer pushes back at what you're asking for, you can point to your market research as proof of what you're worth.
 
 ## Do these numbers line up?
 
 Look at how much you need, how much you want, and how much the sector pays. Do the numbers match up? Are they even close? 
+
+Don't forget to negotiate your full compensation package! Check out last week's blog to learn other benefits you can negotiate.
 
 *Looking for more resources on how to negotiate your salary? Check out [AAUW](https://salary.aauw.org/) and Linda Babcock's books: [Women Don’t Ask](https://www.amazon.com/Women-Dont-Ask-Negotiation-Strategies/dp/0553383876) and [Ask for it](https://www.amazon.com/Ask-Women-Power-Negotiation-Really/dp/0553384554/ref=pd_lpo_sbs_14_t_0/133-1617862-7126846?_encoding=UTF8&psc=1&refRID=GMZ6ZW21CXQBCV1HR8SN).*
