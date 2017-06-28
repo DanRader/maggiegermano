@@ -27,11 +27,11 @@ It's hard for me to answer that question, because it really depends on the indiv
 
 ## How much do you need?
 
-Look at your numbers. How much money do you need to earn to cover your minimum required expenses? This includes retirement savings, debt payments, and other savings goals. 
+Look at your numbers. How much money do you need to earn to cover your minimum required expenses? This includes retirement savings, debt payments, and other savings goals. This number is important, because you always want to make sure that you're earning more than you're spending. 
 
 ## How much do you want?
 
-Now that you've looked at the actual numbers, you should think about what you really want. What are your [goals](https://www.maggiegermano.com/blog/3-easy-financial-goals-for-2017/)? 
+Now that you've looked at the actual numbers, you should think about what you really want. What are your [goals](https://www.maggiegermano.com/blog/3-easy-financial-goals-for-2017/)? Think big. What number would help you achieve your goals? What number would make you feel fairly compensated? 
 
 ## What does the sector pay?
 
