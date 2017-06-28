@@ -27,11 +27,11 @@ It's hard for me to answer that question, because it really depends on the indiv
 
 ## How much do you need?
 
-Look at your numbers. How much money do you need to earn to cover your minimum required expenses? This includes retirement savings, debt payments, groceries, transportation, etc. This number is important, because you always want to make sure that you're earning more than you're spending. If you
+Look at your numbers. How much money do you need to earn to cover your minimum required expenses? This includes retirement savings, debt payments, groceries, transportation, etc. This number is important, because you always want to make sure that you're earning more than you're spending. If you aren't sure about your number, set up an account with Mint, Learnvest, or ClarityMoney. You can review that past few months worth of spending to see what you typically spend in a month. This will also give you clarity on areas that you might want to cut back in. Bonus: ClarityMoney will point out all your recurring expenses and flag if there is anything you might want to cancel.
 
 ## How much do you want?
 
-Now that you've looked at the actual numbers, you should think about what you *really* want. What are your [goals](https://www.maggiegermano.com/blog/3-easy-financial-goals-for-2017/)? Think big. What number would help you achieve your goals? What number would make you feel fairly compensated? This number is actually very important! You should feel great about the salary you are asking for. If you're confident in what you're asking for, you'll be more confident during the negotiation process.
+Now that you've looked at the actual numbers, you should think about what you *really* want. What are your [goals](https://www.maggiegermano.com/blog/3-easy-financial-goals-for-2017/)? Think big. What number would help you achieve your goals? What number would make you feel fairly compensated? This number is also very important! You should feel great about the salary you are asking for. If you're confident in what you're asking for, you'll be more confident during the negotiation process.
 
 ## What does the sector pay?
 
