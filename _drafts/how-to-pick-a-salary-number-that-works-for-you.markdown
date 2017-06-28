@@ -23,4 +23,14 @@ posts:
 
 A very common question I get is: how much money should I ask for?
 
-It's hard for me to answer that question, because it really depends on the individual. Just like there's no [one-size-fits-all budget](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/), there's no go-to salary number. Of course, there's an appropriate range in each sector, 
+It's hard for me to answer that question, because it really depends on the individual. Just like there's no [one-size-fits-all budget](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/), there's no go-to salary number. Of course, there's an appropriate range in each sector,
+
+## How much do you need?
+
+Look at your numbers. How much money do you need to earn to cover your minimum required expenses. 
+
+## How much do you want?
+
+## What does the sector pay?
+
+Do your homework! Find out how much the typical salary is for the work you want to do. 
