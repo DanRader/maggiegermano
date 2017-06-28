@@ -27,7 +27,7 @@ It's hard for me to answer that question, because it really depends on the indiv
 
 ## How much do you need?
 
-Look at your numbers. How much money do you need to earn to cover your minimum required expenses? 
+Look at your numbers. How much money do you need to earn to cover your minimum required expenses? This includes retirement savings, debt payments, and other savings goals. 
 
 ## How much do you want?
 
