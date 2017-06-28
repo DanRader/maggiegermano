@@ -4,6 +4,14 @@ date: 2017-07-10 11:00:00 -04:00
 categories:
 - Career
 - lifestyle
+tags:
+- negotiation
+- salary negotiation
+- salary
+- money
+- career
+- personal finance
+- self worth
 image: "/uploads/calculate.jpg"
 posts:
 - Non-salary Perks You Should Ask For
