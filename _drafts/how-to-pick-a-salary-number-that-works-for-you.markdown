@@ -38,3 +38,5 @@ Now that you've looked at the actual numbers, you should think about what you re
 Do your homework! Find out how much the typical salary is for the work you want to do. You can do this by asking people you know who work in the field or at the organization you're interested in. (That's also a good way to get some informational interviews.) You can also use resources like [Salary.com](www.salary.com) or [Glassdoor.com](glassdoor.com). 
 
 Don't forget to negotiate your full compensation package! 
+
+Looking for more resources on how to negotiate your salary? Check out [AAUW](https://salary.aauw.org/) and Linda Babcock's books: [Women Don’t Ask](https://www.amazon.com/Women-Dont-Ask-Negotiation-Strategies/dp/0553383876) and [Ask for it](https://www.amazon.com/Ask-Women-Power-Negotiation-Really/dp/0553384554/ref=pd_lpo_sbs_14_t_0/133-1617862-7126846?_encoding=UTF8&psc=1&refRID=GMZ6ZW21CXQBCV1HR8SN). 
