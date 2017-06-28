@@ -31,7 +31,7 @@ Look at your numbers. How much money do you need to earn to cover your minimum r
 
 ## How much do you want?
 
-Now that you've looked at the actual numbers, you should think about what you really want. What are your goals? 
+Now that you've looked at the actual numbers, you should think about what you really want. What are your [goals](https://www.maggiegermano.com/blog/3-easy-financial-goals-for-2017/)? 
 
 ## What does the sector pay?
 
