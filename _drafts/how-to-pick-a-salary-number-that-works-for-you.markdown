@@ -13,6 +13,8 @@ tags:
 - personal finance
 - self worth
 image: "/uploads/calculate.jpg"
+tweet: 'What #salary should you ask for? Find out how to pick a number that works
+  for you!'
 posts:
 - Non-salary Perks You Should Ask For
 - Why I Became a Financial Coach for Women
