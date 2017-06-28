@@ -44,7 +44,7 @@ I've struggled my entire life with getting up early. I could barely do it in hig
 
 ## Teleworking Options
 
-In this day and age, many of us do not need to physically be in our office to do our work. Luckily, companies are becoming more and more likely to offer a telework option. Even my rigid workplace allows us to work from home if we need to. Teleworking
+In this day and age, many of us do not need to physically be in our office to do our work. Luckily, companies are becoming more and more likely to offer a telework option. Even my rigid workplace allows us to work from home if we need to. Teleworking offers freedom and flexibility when we need it. 
 
 ## Professional Development
 
