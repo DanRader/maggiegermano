@@ -41,6 +41,6 @@ Don't forget to negotiate your full compensation package! Check out last week's 
 
 ## Do these numbers line up?
 
-Look at how much you need, how much you want, and how much the sector pays. Do the numbers match up? Are they close? 
+Look at how much you need, how much you want, and how much the sector pays. Do the numbers match up? Are they even close? 
 
 *Looking for more resources on how to negotiate your salary? Check out [AAUW](https://salary.aauw.org/) and Linda Babcock's books: [Women Don’t Ask](https://www.amazon.com/Women-Dont-Ask-Negotiation-Strategies/dp/0553383876) and [Ask for it](https://www.amazon.com/Ask-Women-Power-Negotiation-Really/dp/0553384554/ref=pd_lpo_sbs_14_t_0/133-1617862-7126846?_encoding=UTF8&psc=1&refRID=GMZ6ZW21CXQBCV1HR8SN).*
