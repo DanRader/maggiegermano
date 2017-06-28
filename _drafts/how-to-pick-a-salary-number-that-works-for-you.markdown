@@ -31,6 +31,8 @@ Look at your numbers. How much money do you need to earn to cover your minimum r
 
 ## How much do you want?
 
+Now that you've looked at the actual numbers, you should look at 
+
 ## What does the sector pay?
 
 Do your homework! Find out how much the typical salary is for the work you want to do. 
