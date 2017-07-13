@@ -21,3 +21,4 @@ posts:
 - Non-salary Perks You Should Ask For
 ---
 
+Okay, so you now know how to figure out how much money you want to earn, but do you know how to ask for it? Buckle up, let's go!
