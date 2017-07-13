@@ -24,7 +24,7 @@ Do you ever feel insecure at work? Like you aren't really contributing to your o
 
 ## Track your wins
 
-Keep a brag list. Write down every single thing you've done well at work. Save emails from colleagues that praise and thank you. **Note:** This list will also be helpful when you ask for a raise or promotion. 
+Keep a brag list. Write down every single thing you've done well at work. Save emails from colleagues that praise and thank you. **Note:** This list will also be helpful when you [ask for a raise or promotion](www.maggiegermano.com/blog/how-to-ask-for-a-raise/).
 
 ## Use your voice
 
