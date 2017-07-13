@@ -21,4 +21,4 @@ posts:
 - Non-salary Perks You Should Ask For
 ---
 
-Okay, so you now know how to figure out how much money you want to earn, but do you know how to ask for it? Buckle up, let's go!
+Okay, so you now know how to figure out how much money you want to earn, but do you know how to ask for it? This can be especially hard when you're already employed and you want to ask for a raise. If you love your job, but you know you deserve to be earning more, it's important to ask for it.
