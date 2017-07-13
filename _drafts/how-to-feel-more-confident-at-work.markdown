@@ -14,5 +14,9 @@ tags:
 - employee
 - boss
 image: "/uploads/boss.jpg"
+tweet: 'Feeling insecure at work? Find out how to get more confidence! #boss #career'
+posts:
+- How to Know if a Job is Right for You
+- How to Pick a Salary Number that Works for You
 ---
 
