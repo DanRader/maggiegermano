@@ -25,8 +25,8 @@ What kind of workplace do you want to be in? What environment makes you feel the
 
 ## Work/Life Balance
 
-Some workplaces don't encourage balance. In fact, they can discourage even taking a lunch break.
+Some workplaces don't encourage balance. In fact, some places can discourage even taking a lunch break. 
 
 ## Commute
 
-I don't know about you, but my commute to work has a huge impact on my mental health. I know for a fact that I could never drive long distances in traffic everyday. I often watch other people in their cars, yelling and honking. I don't want to spend hours of my day that way. So how about you? What are you able to deal with? Would a long commute be worth it for your dream job? You should figure out what 
+I don't know about you, but my commute to work has a huge impact on my mental health. I know for a fact that I could never drive long distances in traffic everyday. I often watch other people in their cars, yelling and honking. I don't want to spend hours of my day that way. So how about you? What are you able to deal with? Would a long commute be worth it for your dream job? You should figure out what you'
