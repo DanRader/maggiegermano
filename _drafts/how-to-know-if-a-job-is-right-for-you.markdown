@@ -11,6 +11,8 @@ tags:
 - company
 - values
 image: "/uploads/office.jpg"
+tweet: 'Salary and benefits are great, but do you know if a job is right for you?
+  #career'
 posts:
 - How to Pick a Salary Number that Works for You
 - Non-salary Perks You Should Ask For
