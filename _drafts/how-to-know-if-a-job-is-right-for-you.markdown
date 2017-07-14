@@ -21,11 +21,11 @@ This month, we've talked about what [benefits you should negotiate](https://www.
 
 ## Culture
 
-What kind of workplace do you want to be in? What environment makes you feel the most at home? These are absolutely questions you should be asking yourself when looking for a new job. 
+What kind of workplace do you want to be in? What environment makes you feel the most at home? These are absolutely questions you should be asking yourself when looking for a new job. Pay attention to how people in the office are dressed and how they interact with each other. Ask around about the culture and values of the organization. Does that align with the type of space you want to be in? 
 
 ## Work/Life Balance
 
-Some workplaces don't encourage balance. In fact, some places can discourage even taking a lunch break. 
+Some workplaces don't encourage balance. In fact, some places can discourage even taking a lunch break. If it's important to you to be with your loved ones uninterrupted after 6pm, find out 
 
 ## Commute
 
