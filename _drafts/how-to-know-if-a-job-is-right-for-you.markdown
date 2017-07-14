@@ -27,7 +27,7 @@ Culture is the character and personality of your organization. It's the sum of i
 
 ## Work/Life Balance
 
-Work/life balance is the concept of having balanced prioritization between your career and the rest of your life. This can ensure that your relationships thrive, your health doesn't suffer, and you generally are a well-balanced person. Sounds great, right? Unfortunately, many workplaces don't encourage balance. In fact, some places can discourage even taking a lunch break. There can be perceived If it's important to you to be with your loved ones uninterrupted after 6pm, find out 
+Work/life balance is the concept of having balanced prioritization between your career and the rest of your life. This can ensure that your relationships thrive, your health doesn't suffer, and you generally are a well-balanced person. Sounds great, right? Unfortunately, many workplaces don't encourage balance. In fact, some places can discourage even taking a lunch break. There can be perceived competition to work the "hardest", which often looks like working the longest. If it's important to you to be with your loved ones uninterrupted after 6pm, find out about the expectations in the office. This also applies to things like vacation and sick days. I personally think we all need to protect our free time intensely. 
 
 ## Commute
 
