@@ -15,6 +15,8 @@ tags:
 - salary
 - salary negotiation
 image: "/uploads/hand.jpg"
+tweet: 'You know how to #negotiate w/ a new employer. But what about asking for a
+  #raise at your current #job?'
 posts:
 - How to Know if a Job is Right for You
 - How to Pick a Salary Number that Works for You
