@@ -1,7 +1,6 @@
 ---
 title: How to Know if a Job is Right for You
 date: 2017-07-17 11:00:00 -04:00
-published: false
 categories:
 - Career
 - lifestyle
