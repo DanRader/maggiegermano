@@ -29,7 +29,7 @@ Okay, so you now know how to figure out how much money you want to earn, but do 
 
 ## Track your accomplishments
 
-This is SO important! Keep track of every project you work on, each success you have, every email of praise.
+This is SO important! It's easy to do our job everyday and not really pay attention to what a kickass job we're doing. So, keep track of every project you work on, each success you have, every email of praise.
 
 And if you don't get the raise or promotion that you want, you now have a fantastic list of things to add to your resume. (hint, hint)
 
