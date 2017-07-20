@@ -44,3 +44,7 @@ At many organizations, the performance review process is unclear or even nonexis
 Some places are less structured, and may do reviews more randomly. However
 
 ## Request a meeting with your boss
+
+I recommend having regular meetings with your boss whether you're asking for a raise or not. Most bosses are not going to decide to give you a raise or promotion on their own. You need to ask for it, while showing that you deserve it. 
+
+So if you don't already have regular check-ins, set them up. Meet weekly or bi-weekly to let your boss know what you're working on and any successes you've had. Make sure to also ask for feedback from them. This can be a difficult conversation to have, but it's so important! Ask your boss if there is anything you can do better, if there's anything you're already doing well, and if they have any advice for moving up within the organization. 
