@@ -1,7 +1,6 @@
 ---
 title: How to Plan and Save for Vacation
 date: 2017-07-20 09:59:00 -04:00
-published: false
 tags:
 - travel
 - savings
