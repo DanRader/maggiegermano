@@ -1,7 +1,6 @@
 ---
 title: How to Plan and Save for Vacation
-date: 2017-07-20 09:59:00 -04:00
-published: false
+date: 2017-09-19 18:30:00 -04:00
 tags:
 - travel
 - savings
@@ -27,6 +26,7 @@ ticket-price: "$20"
 I love vacations. Traveling is one of the best ways to experience the world while recharging. However, half of Americans do not use their time off from work. Why is that? I think it's for a couple reasons:
 
 1\. They fear they'll lose their jobs if they take time off.
+
 2\. They can't afford (or think they can't afford) to travel.
 
 I want to help change at least part of that! Come to Money Circle in September to learn how you can plan ahead and save for the vacation of your dreams.
