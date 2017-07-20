@@ -35,7 +35,7 @@ And if you don't get the raise or promotion that you want, you now have a fantas
 
 ## Do your research
 
-Do you have an inkling that you might be underpaid? Perhaps you didn't negotiate your pay when you started the job. Or maybe you've been in your position for several years and have only gotten cost of living pay increases. If this is the case, you're not out of luck! Start researching how much someone in your position, with your experience, should be earning. Go to Glassdoor.com and Salary.com. Ask colleagues and mentors about their salary expectations.
+Do you have an inkling that you might be underpaid? Perhaps you didn't negotiate your pay when you started the job. Or maybe you've been in your position for several years and have only gotten cost of living pay increases. If this is the case, you're not out of luck! Start researching how much someone in your position, with your experience, should be earning. Go to [Glassdoor.com](http://www.glassdoor.com) and [Salary.com](http://www.salary.com). Ask colleagues and mentors about their salary expectations.
 
 ## Find out about performance reviews
 
