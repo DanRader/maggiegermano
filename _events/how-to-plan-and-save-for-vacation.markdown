@@ -2,6 +2,20 @@
 title: How to Plan and Save for Vacation
 date: 2017-07-20 09:59:00 -04:00
 published: false
+tags:
+- travel
+- savings
+- money circle
+- money
+- planning
+- personal finance
+- saving
+- budget
+- budgeting
+- vacation
+- self care
+image: "/uploads/travel.jpg"
+og-image: "/uploads/-Ask%20for%20what%20you%20want%20and%20be%20prepared%20to%20get%20it.-%20(4).png"
 event-date: 2017-09-19 18:30:00 -04:00
 start-time: 6:30pm
 end-time: 8:30pm
