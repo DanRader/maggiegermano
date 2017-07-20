@@ -20,6 +20,7 @@ event-date: 2017-09-19 18:30:00 -04:00
 start-time: 6:30pm
 end-time: 8:30pm
 location: Private DC Residence (Provided upon RSVP)
+button-text: Sign Me Up
 ticket-price: "$20"
 ---
 
