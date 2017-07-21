@@ -25,11 +25,11 @@ posts:
 
 *Welcome to part 4 of July’s theme of getting the most out of your career! If you haven't yet, check out parts [one](https://www.maggiegermano.com/blog/non-salary-perks-you-should-ask-for/), [two](https://www.maggiegermano.com/blog/how-to-pick-a-salary-number-that-works-for-you/), and [three](https://www.maggiegermano.com/blog/how-to-know-if-a-job-is-right-for-you/).*
 
-Okay, so you now know how to figure out how much money you want to earn, but do you know how to ask for it? This can be especially hard when you're already employed and you want to ask for a raise. If you love your job, but you know you deserve to be earning more, it's important to ask for it.
+Okay, so you now know how to figure out how much money you want to earn, but do you know how to ask for it? This can be especially hard when you're already employed and you want to ask for a raise. If you love your job, but you know you deserve to be earning more, it's important to ask for it. But do you want to feel more prepared for that ask? Check out the tips below.
 
 ## Track your accomplishments
 
-This is SO important! It's easy to do our job everyday and not really pay attention to what a kickass job we're doing. So, keep track of every project you work on, each success you have, every email of praise.
+This is SO important! It's easy to do our job everyday and not really pay attention to what a kickass job we're doing. So, keep track of every project you work on, each success you have, every email of praise. I'm serious, even an exuberant thank you email is worth keeping. 
 
 And if you don't get the raise or promotion that you want, you now have a fantastic list of things to add to your resume. (hint, hint)
 
