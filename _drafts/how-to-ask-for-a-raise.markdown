@@ -35,11 +35,13 @@ Women, in particular, tend not to brag about themselves. This means we leave mon
 
 ## Do your research
 
-Do you have an inkling that you might be underpaid? Perhaps you didn't negotiate your pay when you started the job. Or maybe you've been in your position for several years and have only gotten cost of living pay increases. If this is the case, you're not out of luck! Start researching how much someone in your position, with your experience, should be earning. Go to [Glassdoor.com](http://www.glassdoor.com) and [Salary.com](http://www.salary.com). Ask colleagues and mentors about their salaries. 
+Do you have an inkling that you might be underpaid? Perhaps you didn't negotiate your pay when you started the job. Or maybe you've been in your position for several years and have only gotten cost of living pay increases. If this is the case, you're not out of luck! Start researching how much someone in your position, with your experience, should be earning. Go to [Glassdoor.com](http://www.glassdoor.com) and [Salary.com](http://www.salary.com). Ask your colleagues and mentors about their salaries (break that money taboo!). Plus, don't forget to figure out [how much](https://www.maggiegermano.com/blog/how-to-pick-a-salary-number-that-works-for-you/) money would be best for you. 
+
+With all this information in hand, you'll be able to point to it to back up your ask.  Your boss (and HR) will see that you have legitimate salary data, not just the desire for more money. 
 
 ## Find out about performance reviews
 
-At many organizations, the performance review process is unclear or even nonexistent. So your first step is to find out if there is a structured process in place. If there is, find out when it happens, and if there is a general rule for when people get raises and promotions throughout the year. For example, at my company, performance reviews happen at the end of the fiscal year. At this time, we all get a cost-of-living increase, but we may also get a larger raise or promotion. Promotions also sometimes happen in January, at the mid-point of the fiscal year. At any other time of year, you're unlikely to get a change in pay or position.
+At many organizations, the performance review process is unclear or even nonexistent. So your first step is to find out if there is a structured process in place. If there is, find out when it happens, and if there is a general rule for when people get raises and promotions throughout the year. For example, at my day job, performance reviews happen at the end of the fiscal year. At this time, we all get a cost-of-living increase, but we may also get a larger raise or promotion. Promotions also sometimes happen in January, at the mid-point of the fiscal year. At any other time of year, you're unlikely to get a change in pay or position.
 
 Some places are less structured, and may do reviews more randomly. However
 
