@@ -43,7 +43,7 @@ With all this information in hand, you'll be able to point to it to back up your
 
 At many organizations, the performance review process is unclear or even nonexistent. So your first step is to find out if there is a structured process in place. If there is, find out when it happens, and if there is a general rule for when people get raises and promotions throughout the year. For example, at my day job, performance reviews happen at the end of the fiscal year. At this time, we all get a cost-of-living increase, but we may also get a larger raise or promotion. Promotions also sometimes happen in January, at the mid-point of the fiscal year. At any other time of year, you're unlikely to get a change in pay or position.
 
-Some places are less structured, and may do reviews more randomly. However
+Some places are less structured, and may do reviews more randomly. Some places might not have performance reviews at all! So it's up to you to find out. Once you do that, move on to the next step.
 
 ## Request a meeting with your boss
 
