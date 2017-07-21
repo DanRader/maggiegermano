@@ -23,19 +23,19 @@ posts:
 - Non-salary Perks You Should Ask For
 ---
 
-*Welcome to part 4 of July’s theme of getting the most out of your career! If you haven't yet, check out parts [one](https://www.maggiegermano.com/blog/non-salary-perks-you-should-ask-for/), [two](https://www.maggiegermano.com/blog/how-to-pick-a-salary-number-that-works-for-you/), and [three](https://www.maggiegermano.com/blog/how-to-know-if-a-job-is-right-for-you/).*
+*Welcome to part four of July’s theme of getting the most out of your career! If you haven't yet, check out parts [one](https://www.maggiegermano.com/blog/non-salary-perks-you-should-ask-for/), [two](https://www.maggiegermano.com/blog/how-to-pick-a-salary-number-that-works-for-you/), and [three](https://www.maggiegermano.com/blog/how-to-know-if-a-job-is-right-for-you/).*
 
 Okay, so you now know how to figure out how much money you want to earn, but do you know how to ask for it? This can be especially hard when you're already employed and you want to ask for a raise. If you love your job, but you know you deserve to be earning more, it's important to ask for it. But do you want to feel more prepared for that ask? Check out the tips below.
 
 ## Track your accomplishments
 
-This is SO important! It's easy to do our job everyday and not really pay attention to what a kickass job we're doing. So, keep track of every project you work on, each success you have, every email of praise. I'm serious, even an exuberant thank you email is worth keeping. 
+This is SO important! It's easy to do our job everyday and not really pay attention to what a kickass job we're actually doing. So, keep track of every project you work on, each success you have, every email of praise. I'm serious, even an exuberant "thank you" email is worth keeping. Not only will this exercise boost your confidence, but it will also provide proof that you deserve that raise or promotion.
 
-And if you don't get the raise or promotion that you want, you now have a fantastic list of things to add to your resume. (hint, hint)
+Women, in particular, tend not to brag about themselves. This means we leave money on the table and don't get the recognition we deserve. Fight the urge to downplay how awesome you are, because it will pay off in the long run. And if you don't get the raise or promotion that you want, you now have a fantastic list of things to add to your resume. (hint, hint)
 
 ## Do your research
 
-Do you have an inkling that you might be underpaid? Perhaps you didn't negotiate your pay when you started the job. Or maybe you've been in your position for several years and have only gotten cost of living pay increases. If this is the case, you're not out of luck! Start researching how much someone in your position, with your experience, should be earning. Go to [Glassdoor.com](http://www.glassdoor.com) and [Salary.com](http://www.salary.com). Ask colleagues and mentors about their salary expectations.
+Do you have an inkling that you might be underpaid? Perhaps you didn't negotiate your pay when you started the job. Or maybe you've been in your position for several years and have only gotten cost of living pay increases. If this is the case, you're not out of luck! Start researching how much someone in your position, with your experience, should be earning. Go to [Glassdoor.com](http://www.glassdoor.com) and [Salary.com](http://www.salary.com). Ask colleagues and mentors about their salaries. 
 
 ## Find out about performance reviews
 
