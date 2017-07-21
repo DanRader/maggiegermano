@@ -47,13 +47,13 @@ Some places are less structured, and may do reviews more randomly. Some places m
 
 ## Request a meeting with your boss
 
-I recommend having regular meetings with your boss whether you're asking for a raise or not. Most bosses are not going to decide to give you a raise or promotion on their own. You need to ask for it, while showing that you deserve it.
+I recommend having regular meetings with your boss whether you're asking for a raise or not. Most bosses are not going to decide to give you a raise or promotion on their own. You need to ask for it, while also showing that you deserve it.
 
 So if you don't already have regular check-ins, set them up. Meet weekly or bi-weekly to let your boss know what you're working on and any successes you've had. Make sure to also ask for feedback from them. This can be a difficult conversation to have, but it's so important! Ask your boss if there is anything you can do better, if there's anything you're already doing well, and if they have any advice for moving up within the organization.
 
 ## Make the ask
 
-Once you've done all of the above, it's time to ask for that raise! It's scary, and you might second-guess yourself, but you gotta ask for what you're worth. Bring your list of accomplishments, along with the salary research you did, and make your case. Explain why you deserve to earn more money.
+Once you've done all of the above, it's time to ask for that raise! It's scary, and you might second-guess yourself, but you gotta ask for what you're worth. Bring your list of accomplishments, along with the salary research you did, and make your case. Explain in detail why you deserve to earn more.
 
 Even if you don't get what you ask for, you should be proud of yourself for asking. It's also great practice for the next time you want to ask for a raise or negotiate your salary. Plus, if you decide to look for a new job, you'll have plenty of information to show how qualified you are and why you deserve to earn good money. Good luck!
 
