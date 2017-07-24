@@ -1,7 +1,6 @@
 ---
 title: How to Ask for a Raise
 date: 2017-07-24 11:00:00 -04:00
-published: false
 categories:
 - Career
 - lifestyle
