@@ -28,6 +28,8 @@ posts:
 
 Okay, so you now know how to figure out how much money you want to earn, but do you know how to ask for it? This can be especially hard when you're already employed and you want to ask for a raise. If you love your job, but you know you deserve to be earning more, it's important to ask for it. But do you want to feel more prepared for that ask? Check out the tips below.
 
+> If you love your job, but you know you deserve to be earning more, it's important to ask for it.
+
 ## Track your accomplishments
 
 This is SO important! It's easy to do our job everyday and not really pay attention to what a kickass job we're actually doing. So, keep track of every project you work on, each success you have, every email of praise. I'm serious, even an exuberant "thank you" email is worth keeping. Not only will this exercise boost your confidence, but it will also provide proof that you deserve that raise or promotion.
@@ -36,9 +38,9 @@ Women, in particular, tend not to brag about themselves. This means we leave mon
 
 ## Do your research
 
-Do you have an inkling that you might be underpaid? Perhaps you didn't negotiate your pay when you started the job. Or maybe you've been in your position for several years and have only gotten cost of living pay increases. If this is the case, you're not out of luck! Start researching how much someone in your position, with your experience, should be earning. Go to [Glassdoor.com](http://www.glassdoor.com) and [Salary.com](http://www.salary.com). Ask your colleagues and mentors about their salaries (break that money taboo!). Plus, don't forget to figure out [how much](https://www.maggiegermano.com/blog/how-to-pick-a-salary-number-that-works-for-you/) money would be best for you. 
+Do you have an inkling that you might be underpaid? Perhaps you didn't negotiate your pay when you started the job. Or maybe you've been in your position for several years and have only gotten cost of living pay increases. If this is the case, you're not out of luck! Start researching how much someone in your position, with your experience, should be earning. Go to [Glassdoor.com](http://www.glassdoor.com) and [Salary.com](http://www.salary.com). Ask your colleagues and mentors about their salaries (break that money taboo!). Plus, don't forget to figure out [how much](https://www.maggiegermano.com/blog/how-to-pick-a-salary-number-that-works-for-you/) money would be best for you.
 
-With all this information in hand, you'll be able to point to it to back up your ask.  Your boss (and HR) will see that you have legitimate salary data, not just the desire for more money. 
+With all this information in hand, you'll be able to point to it to back up your ask.  Your boss (and HR) will see that you have legitimate salary data, not just the desire for more money.
 
 ## Find out about performance reviews
 
@@ -57,5 +59,7 @@ So if you don't already have regular check-ins, set them up. Meet weekly or bi-w
 Once you've done all of the above, it's time to ask for that raise! It's scary, and you might second-guess yourself, but you gotta ask for what you're worth. Bring your list of accomplishments, along with the salary research you did, and make your case. Explain in detail why you deserve to earn more.
 
 Even if you don't get what you ask for, you should be proud of yourself for asking. It's also great practice for the next time you want to ask for a raise or negotiate your salary. Plus, if you decide to look for a new job, you'll have plenty of information to show how qualified you are and why you deserve to earn good money. Good luck!
+
+For more information on salary negotiation, check out [AAUW](https://salary.aauw.org/)!
 
 *Have you successfully negotiated a raise at work? Have you been not so lucky? Share your story in the comments!*
