@@ -38,6 +38,6 @@ A piece of feed
 
 Ever since I started my financial coaching business, I've noticed that I have more confidence in myself. Of course, I do still question myself and get caught up in self-doubt. However, in coaching other women about their finances and helping them get to a better place, I've really honed in on my skills and unique knowledge. So not only am I helping others, but I'm helping myself! 
 
-You can do this at work too! If you notice someone who is new to the organization, or who often seems nervous at work, take them under your wing. Ask them out for coffee and see if there is any way you can help or support them. 
+You can do this at work (or elsewhere) too! If you notice someone who is new to the organization, or who often seems nervous at work, take them under your wing. Ask them out for coffee and see if there is any way you can help or support them. You'll not only be helping them move forward in their career, but you'll feel good doing it.
 
 If you're looking for a mentor for yourself, but don't know where to start, check out [The Mentor Method](http://www.thementormethod.com/)!
