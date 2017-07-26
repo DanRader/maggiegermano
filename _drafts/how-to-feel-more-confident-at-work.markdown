@@ -20,7 +20,7 @@ posts:
 - How to Pick a Salary Number that Works for You
 ---
 
-Do you ever feel insecure at work? Like you aren't really contributing to your organization? I've been there too! In fact, I think it's easy to fall into a rut and forget how great we are at our job.
+Do you ever feel insecure at work? Like you aren't really contributing to your organization? I've been there too! In fact, I think it's easy to fall into a rut and forget how great we are at our job. This self-doubt can not only impact us emotionally, but it can affect how we function at work. So let's get you back to your confident self with the tips below!
 
 ## Track your wins
 
