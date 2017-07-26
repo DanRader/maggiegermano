@@ -28,10 +28,16 @@ Keep a brag list. Write down every single thing you've done well at work. Keep t
 
 ## Use your voice
 
-A piece of feedback I've consistently gotten at work is that I don't speak up enough. I know, I know. Those who know me personally are completely shocked by this. (I'm a gabber.) Anyway, it's really easy to sit back quietly in meetings. But one of the easiest ways to feel like you're contributing at work is to actually contribute to conversations.
+A piece of feedback I've consistently gotten at work is that I don't speak up enough. I know, I know. Those who know me personally are probably shocked by this. (I'm a gabber.) Anyway, it's really easy to sit back quietly in meetings. But one of the easiest ways to feel like you're contributing at work is to actually contribute to conversations.
 
 ## Take initiative
 
 A piece of feed
 
 ## Mentor others
+
+Ever since I started my financial coaching business, I've noticed that I have more confidence in myself. Of course, I do still question myself and get caught up in self-doubt. However, in coaching other women about their finances and helping them get to a better place, I've really honed in on my skills and unique knowledge. So not only am I helping others, but I'm helping myself! 
+
+You can do this at work too! If you notice someone who is new to the organization, or who often seems nervous at work, take them under your wing. Ask them out for coffee and see if there is any way you can help or support them. 
+
+If you're looking for a mentor for yourself, but don't know where to start, check out [The Mentor Method](http://www.thementormethod.com/)!
