@@ -24,7 +24,9 @@ Do you ever feel insecure at work? Like you aren't really contributing to your o
 
 ## Track your wins
 
-Keep a brag list. Write down every single thing you've done well at work. Keep track of all of the projects you've been on, and any impact you've had on your organization. Save emails from colleagues that praise and thank you. This is a great way to remind yourself that you're actually better off than you thought! It will boost your confidence in your abilities, and as I mentioned last week, this list will also be helpful when you [ask for a raise or promotion](www.maggiegermano.com/blog/how-to-ask-for-a-raise/).
+Keep a brag list. Write down every single thing you've done well at work. Keep track of all of the projects you've been on, and any impact you've had on your organization. Save emails from colleagues that praise and thank you. This is a great way to remind yourself that you're actually better off than you thought! It will boost your confidence in your abilities, 
+
+And as I mentioned last week, this list will also be helpful when you [ask for a raise or promotion](www.maggiegermano.com/blog/how-to-ask-for-a-raise/).
 
 ## Use your voice
 
