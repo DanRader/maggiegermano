@@ -28,7 +28,7 @@ Keep a brag list. Write down every single thing you've done well at work. Keep t
 
 ## Use your voice
 
-A piece of feedback I've consistently gotten at work is that I don't speak up enough. It's really easy to sit back quietly in meetings, especially if you're on the lower end of the hierarchy spectrum. But one of the easiest ways to feel like you're contributing at work is to actually contribute to conversations. If you have an opinion about something, say it! Not only will you feel better about yourself, but your colleagues will likely notice you (in a good way). 
+A piece of feedback I've consistently gotten at work is that I don't speak up enough. It's really easy to sit back quietly in meetings, especially if you're on the lower end of the hierarchy spectrum. But one of the easiest ways to feel like you're contributing at work is to actually contribute to conversations. If you have an opinion about something, say it! Not only will you feel better about yourself, but your colleagues will likely notice you (in a good way). You'll be showing that you care about the work, and that you have ideas and solutions. This can help get you on new projects, give you more leadership opportunities, and even eventually be a basis for a promotion.
 
 ## Take initiative
 
