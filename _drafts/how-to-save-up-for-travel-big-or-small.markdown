@@ -15,5 +15,6 @@ tags:
 - financial freedom
 - financial health
 - fun
+image: "/uploads/travel%20plan.jpg"
 ---
 
