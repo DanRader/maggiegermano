@@ -1,5 +1,5 @@
 ---
-title: 'Clutter-free Finances: Applying the KonMariTM Method to Your Bank Account'
+title: 'Clutter-free Finances: Applying the KonMari Method to Your Bank Account'
 date: 2017-09-11 11:00:00 -04:00
 tags:
 - declutter dc
@@ -14,7 +14,7 @@ tags:
 
 If you are feeling bogged down by the clutter in your home (and maybe also humidity in DC these days?), then going through your things mindfully can help you create a space that reflects who you are in your life now.  But what about your finances?  Many of us get into a routine of not checking bills that get automatically deducted from our accounts, don’t add up our happy hour spending week to week, and buy summer clothing we see online, all while assuming our money is doing what it is supposed to because our checking account balances ‘seem fine.’
 
-> “The question of what you want to own is actually the question of how you want to live your life.” \
+> “The question of what you want to own is actually the question of how you want to live your life.” 
 > -Marie Kondo
 
 Instead of looking the other way at what is happening in your bank account, a more mindful approach can actually improve your financial health.  Take a page from Marie Kondo and her book, ‘The Life Changing Magic of Tidying Up’.  She addresses how to set up your home only with things that spark joy and are useful, principles which can also be applied to your finances.  Here are some tips using her KonMariTM method to give you structure and compassion in this process so that you can move forward towards financial freedom with a clutter-free bank account.
