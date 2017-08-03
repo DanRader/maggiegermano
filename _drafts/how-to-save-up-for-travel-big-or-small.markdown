@@ -16,6 +16,10 @@ tags:
 - financial health
 - fun
 image: "/uploads/travel%20plan.jpg"
+posts:
+- How to Vacation on a Budget
+- 9 Easy Changes to Make Now to Spend Less Money
+- How to Create a Budget that Works for You
 ---
 
 *Since August is a huge travel month, the blog theme is financially responsible travel! Tune in for plenty of tips on how to travel on a budget.*
