@@ -18,3 +18,5 @@ tags:
 image: "/uploads/travel%20plan.jpg"
 ---
 
+Since August is a huge travel month, the blog theme is financially responsible travel! Tune in for plenty of tips on how to travel on a budget.
+
