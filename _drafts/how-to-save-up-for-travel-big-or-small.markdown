@@ -24,6 +24,8 @@ posts:
 
 *Since August is a huge travel month, the blog theme is financially responsible travel! Tune in for plenty of tips on how to travel on a budget.*
 
+Is travel a value of yours? Do you cherish experiences over things? I know how you feel! I love to travel and see new places, and I make it a priority in my life. However, I often hear from other people that they wish they could travel, but they just can't afford it. Of course, not everyone can afford to travel abroad on an annual basis, but that doesn't mean that you will never be able to see the cities you dream of. If you plan ahead, you can afford to 
+
 ## Plan out your trips ahead of time
 
 It's a dream of mine to be able to take advantage of an amazing travel deal and book a trip at the last minute. It sounds so luxurious to be free to travel whenever you want. But that's not actually a realistic dream for most of us. (At least not yet!) So, in order to
