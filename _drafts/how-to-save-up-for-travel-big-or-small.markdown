@@ -22,13 +22,13 @@ image: "/uploads/travel%20plan.jpg"
 
 ## Plan out your trips ahead of time
 
-It's a dream of mine to be able to take advantage of an amazing travel deal and book a trip at the last minute. It sounds so luxurious to be free to travel whenever you want. But that's not actually a realistic dream for most of us. (At least not yet!) So, in order to 
+It's a dream of mine to be able to take advantage of an amazing travel deal and book a trip at the last minute. It sounds so luxurious to be free to travel whenever you want. But that's not actually a realistic dream for most of us. (At least not yet!) So, in order to
 
-Look at your calendar. What does the next year look like for you? Write down all of the obligations that you might have, especially those that include travel. It could be holidays, a friend's wedding, your mom's 60th birthday party, etc. 
+Look at your calendar. What does the next year look like for you? Write down all of the obligations that you might have, especially those that include travel. It could be holidays, a friend's wedding, your mom's 60th birthday party, etc.
 
-## Determine how much money you need
+## Determine how much money you'll need
 
-Once you have written down all of the travel that you plan to do, 
+Once you have written down all of the travel that you plan to do,
 
 ## Set money aside each month
 
@@ -36,4 +36,4 @@ xx
 
 ## Save your windfalls
 
-xx
+Did you get an end-of-year bonus at work? Are you expecting a hefty tax refund? If you don't have important bills to pay off with that money, set it aside for travel savings! 
