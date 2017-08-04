@@ -26,6 +26,8 @@ posts:
 
 Is travel a value of yours? Do you cherish experiences over things? I know how you feel! I love to travel and see new places, and I make it a priority in my life. However, I often hear from other people that they wish they could travel, but they just can't afford it. Of course, not everyone can afford to travel abroad on an annual basis, but that doesn't mean that you will never be able to see the cities you dream of. If you plan ahead, you can afford to get on the road. Here are some of my ways for how to do that!
 
+> Of course, not everyone can afford to travel abroad on an annual basis, but that doesn't mean that you will never be able to see the cities you dream of.
+
 ## Plan out your trips ahead of time
 
 It's a dream of mine to be able to take advantage of an amazing travel deal and book a trip at the last minute. It sounds so luxurious to be free to travel whenever you want. But that's not actually a realistic dream for most of us. (At least not yet!) So, in order to
@@ -42,4 +44,4 @@ Start saving for travel before you even have set plans. Put aside money every mo
 
 ## Save your windfalls
 
-Did you get an end-of-year bonus at work? Are you expecting a hefty tax refund? If you don't have important bills to pay off with that money, set it aside for travel savings!
+Did you get an end-of-year bonus at work? Are you expecting a hefty [tax refund](https://www.maggiegermano.com/blog/heres-how-you-should-use-your-tax-refund/)? If you don't have important bills to pay off with that money, set it aside for travel savings!
