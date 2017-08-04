@@ -24,7 +24,7 @@ posts:
 
 *Since August is a huge travel month, the blog theme is financially responsible travel! Tune in for plenty of tips on how to travel on a budget.*
 
-Is travel a [value](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) of yours? Do you cherish experiences over things? I know how you feel! I love to travel and see new places, and I make it a priority in my life. However, I often hear from other people that they wish they could travel, but they just can't afford it. Of course, not everyone can afford to travel abroad on an annual basis, but that doesn't mean that you will never be able to see the cities you dream of. If you plan ahead, you can afford to get on the road. Here are some of my ways for how to do that!
+Is travel a [value](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) of yours? Do you cherish experiences over things? I know how you feel! I love to travel and see new places, and I make it a priority in my life. However, I often hear from other people that they wish they could travel, but they just can't afford it. Of course, not everyone can afford to travel abroad on an annual basis, but that doesn't mean that you will never be able to see the cities you dream of. If you plan ahead, you can afford to get on the road. Here are some ways to do that!
 
 > Of course, not everyone can afford to travel abroad on an annual basis, but that doesn't mean that you will never be able to see the cities you dream of.
 
