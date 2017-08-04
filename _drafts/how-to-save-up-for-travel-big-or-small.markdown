@@ -48,4 +48,8 @@ Do you often feel tempted to spend your savings on everyday purchases? Put the m
 
 ## Save your windfalls
 
-Did you get an end-of-year bonus at work? Are you expecting a hefty [tax refund](https://www.maggiegermano.com/blog/heres-how-you-should-use-your-tax-refund/)? If you don't have important bills to pay off with that money, set it aside for travel savings!
+Did you get an end-of-year bonus at work? Are you expecting a hefty [tax refund](https://www.maggiegermano.com/blog/heres-how-you-should-use-your-tax-refund/)? If you don't have important bills to pay off with that money, set it aside for travel savings! 
+
+It can be so tempting to just spend any extra money that comes our way, I understand! But would you rather that money go towards a trip you've been dreaming of, or towards things like food or beer? I would personally enjoy drinking wine in Spain more than drinking wine at bar down the street. Plus, it will be easier to spend less money day to day when you know that your reward is travel that you can actually afford.
+
+*Where are you off to over the next year? Share in the comments!*
