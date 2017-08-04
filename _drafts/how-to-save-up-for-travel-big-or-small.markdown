@@ -24,7 +24,7 @@ posts:
 
 *Since August is a huge travel month, the blog theme is financially responsible travel! Tune in for plenty of tips on how to travel on a budget.*
 
-Is travel a value of yours? Do you cherish experiences over things? I know how you feel! I love to travel and see new places, and I make it a priority in my life. However, I often hear from other people that they wish they could travel, but they just can't afford it. Of course, not everyone can afford to travel abroad on an annual basis, but that doesn't mean that you will never be able to see the cities you dream of. If you plan ahead, you can afford to get on the road. Here are some of my ways for how to do that!
+Is travel a [value](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) of yours? Do you cherish experiences over things? I know how you feel! I love to travel and see new places, and I make it a priority in my life. However, I often hear from other people that they wish they could travel, but they just can't afford it. Of course, not everyone can afford to travel abroad on an annual basis, but that doesn't mean that you will never be able to see the cities you dream of. If you plan ahead, you can afford to get on the road. Here are some ways to do that!
 
 > Of course, not everyone can afford to travel abroad on an annual basis, but that doesn't mean that you will never be able to see the cities you dream of.
 
@@ -42,14 +42,14 @@ If this big number seems daunting, break it down. How much would you have to sav
 
 ## Set money aside each month
 
-Put aside money every month in a travel savings account.  I recommend automating the savings, so that you don't spend the money before you can set it aside. Not sure how much to save? Take the number you came up with above and divide it by 12. That's how much you should automate to go into your travel savings account each month. You can either have your bank deduct the amount from your checking account each month, or you can set it up as direct deposit through your employer.
+Put aside money every month in a travel savings account.  I recommend automating the savings, so that you don't spend the money before you can set it aside. Not sure how much to save? Take the number you came up with above and divide it by 12. That's how much you should automate to go into your travel savings account each month. You can either have your bank deduct the amount from your checking account, or you can set it up as direct deposit through your employer.
 
-Do you often feel tempted to spend your savings on everyday purchases? Put the money in an account that isn't connected to your checking account. I recommend online banks like Ally Bank to my clients. Not only do online banks have higher interest rates than brick and mortar banks, but you'll have a 2-3 waiting period before the money is transferred to your checking account. This will hopefully give you time to rethink if you really want to use the savings on something other than what it was saved for. 
+Do you often feel tempted to spend your savings on everyday purchases? Put the money in an account that isn't connected to your checking account. I recommend online banks like [Ally Bank](http://www.ally.com) to my clients. Not only do online banks have higher interest rates than brick and mortar banks, but you'll have a 2-3 waiting period before the money is transferred to your checking account. This will hopefully give you time to rethink if you really want to use the savings on something other than what it was saved for. 
 
 ## Save your windfalls
 
 Did you get an end-of-year bonus at work? Are you expecting a hefty [tax refund](https://www.maggiegermano.com/blog/heres-how-you-should-use-your-tax-refund/)? If you don't have important bills to pay off with that money, set it aside for travel savings! 
 
-It can be so tempting to just spend any extra money that comes our way, I understand! But would you rather that money go towards a trip you've been dreaming of, or towards things like food or beer? I would personally enjoy drinking wine in Spain more than drinking wine at bar down the street. Plus, it will be easier to spend less money day to day when you know that your reward is travel that you can actually afford.
+It can be so tempting to just spend any extra money that comes our way, I understand! But would you rather that money go towards a trip you've been dreaming of, instead of towards things like going out to eat? I would personally enjoy drinking wine in Spain more than drinking wine at bar down the street. Plus, it will be easier to spend less money day to day when you know that your reward is travel that you can actually afford.
 
 *Where are you off to over the next year? Share in the comments!*
