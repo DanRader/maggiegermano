@@ -36,11 +36,13 @@ Look at your calendar. What does the next year look like for you? Write down all
 
 ## Determine how much money you'll need
 
-Once you have written down all of the travel that you plan to do,
+Once you have written down all of the travel that you plan to do, start researching how much it might cost. These costs would include flights (or other modes of transportation), lodging (hotels, Airbnb, hostels), food, activities, and shopping. Overestimate how much you think you'll spend, because you're probably more likely to spend more than less. 
+
+If this number seems unachievable, break it down. How much would you have to save each month to make it happen? Does it seem more realistic when you look at it that way? If it looks like you won't be able to save enough money to afford all the traveling you want to do, you might have to reassess your plans. Perhaps that trip to Europe can wait until next year. And look at it this way: with more time to plan and save up for a trip, the experience will be even better!
 
 ## Set money aside each month
 
-Start saving for travel before you even have set plans. Put aside money every month in a travel savings account.  I recommend automating the savings, so that you don't spend the money before you can set it aside. Not sure how much to save? Take the number you came up with above and divide it by 12. That's how much you should automate to go into your travel savings account each month. 
+Put aside money every month in a travel savings account.  I recommend automating the savings, so that you don't spend the money before you can set it aside. Not sure how much to save? Take the number you came up with above and divide it by 12. That's how much you should automate to go into your travel savings account each month. 
 
 ## Save your windfalls
 
