@@ -42,7 +42,7 @@ If this big number seems daunting, break it down. How much would you have to sav
 
 ## Set money aside each month
 
-Put aside money every month in a travel savings account.  I recommend automating the savings, so that you don't spend the money before you can set it aside. Not sure how much to save? Take the number you came up with above and divide it by 12. That's how much you should automate to go into your travel savings account each month. You can either have your bank deduct the amount from your checking account each month, or you can set it up as direct deposit through your employer.
+Put aside money every month in a travel savings account.  I recommend automating the savings, so that you don't spend the money before you can set it aside. Not sure how much to save? Take the number you came up with above and divide it by 12. That's how much you should automate to go into your travel savings account each month. You can either have your bank deduct the amount from your checking account, or you can set it up as direct deposit through your employer.
 
 Do you often feel tempted to spend your savings on everyday purchases? Put the money in an account that isn't connected to your checking account. I recommend online banks like Ally Bank to my clients. Not only do online banks have higher interest rates than brick and mortar banks, but you'll have a 2-3 waiting period before the money is transferred to your checking account. This will hopefully give you time to rethink if you really want to use the savings on something other than what it was saved for. 
 
