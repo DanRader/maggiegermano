@@ -30,15 +30,15 @@ Is travel a value of yours? Do you cherish experiences over things? I know how y
 
 ## Plan out your trips ahead of time
 
-It's a dream of mine to be able to take advantage of an amazing travel deal and book a trip at the last minute. It sounds so luxurious to be free to travel whenever you want. But that's not actually a realistic dream for most of us. (At least not yet!) So, in order to
+It's a dream of mine to be able to take advantage of an amazing travel deal and book a trip at the last minute. It sounds so luxurious to be free to travel whenever you want. But that's not actually a realistic dream for most of us. (At least not yet!) So, in order to be prepared enough to take a great vacation, you should plan ahead.
 
-Look at your calendar. What does the next year look like for you? Write down all of the obligations that you might have, especially those that include travel. It could be holidays, a friend's wedding, your mom's 60th birthday party, etc.
+Look at your calendar. What does the next year look like for you? Write down all of the obligations that you might have, especially those that include travel. It could be holidays, a friend's wedding, your mom's 60th birthday party, a trip to Mexico, etc. If you know what the year ahead looks like, it'll be easier to plan ahead and not be strapped for cash when the time comes.
 
 ## Determine how much money you'll need
 
-Once you have written down all of the travel that you plan to do, start researching how much it might cost. These costs would include flights (or other modes of transportation), lodging (hotels, Airbnb, hostels), food, activities, and shopping. Overestimate how much you think you'll spend, because you're probably more likely to spend more than less. 
+Once you have written down all of the traveling that you plan to do, start researching how much it might cost. These costs would include flights (or other modes of transportation), lodging (hotels, Airbnb, hostels), food, activities, and shopping. Overestimate how much you think you'll spend, because you're probably more likely to spend more than less. 
 
-If this number seems unachievable, break it down. How much would you have to save each month to make it happen? Does it seem more realistic when you look at it that way? If it looks like you won't be able to save enough money to afford all the traveling you want to do, you might have to reassess your plans. Perhaps that trip to Europe can wait until next year. And look at it this way: with more time to plan and save up for a trip, the experience will be even better!
+If this big number seems daunting, break it down. How much would you have to save each month to make it happen? Does it seem more realistic when you look at it that way? If it looks like you won't be able to save enough money in time to afford all the traveling you want to do, you might have to reassess your plans. Perhaps that trip to Europe can wait until next year. And look at it this way: with more time to plan and save up for a trip, the experience will be even better!
 
 ## Set money aside each month
 
