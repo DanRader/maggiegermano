@@ -38,8 +38,8 @@ Once you have written down all of the travel that you plan to do,
 
 ## Set money aside each month
 
-xx
+Start saving for travel before you even have set plans. Put aside money every month in a travel savings account.  I recommend automating the savings, so that you don't spend the money before you can set it aside. Not sure how much to save? Take the number you came up with above and divide it by 12. That's how much you should automate to go into your travel savings account each month. 
 
 ## Save your windfalls
 
-Did you get an end-of-year bonus at work? Are you expecting a hefty tax refund? If you don't have important bills to pay off with that money, set it aside for travel savings! 
+Did you get an end-of-year bonus at work? Are you expecting a hefty tax refund? If you don't have important bills to pay off with that money, set it aside for travel savings!
