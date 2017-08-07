@@ -9,5 +9,9 @@ tags:
 - credit card
 - credit report
 - credit score
+posts:
+- How to Save Up for Travel, Big or Small
+- How to Vacation on a Budget
+- Why Credit Card Interest Sucks and What You Could Be Spending It On Instead
 ---
 
