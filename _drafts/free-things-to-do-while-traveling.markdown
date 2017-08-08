@@ -19,6 +19,8 @@ tags:
 
 ## Hiking
 
+xx
+
 ## Tours
 
 Last month, I was in Colorado for about a week. One activity I like to do while traveling is go on brewery tours. I'm a beer fan, and I always find it interesting to see what different breweries are like.
