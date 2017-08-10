@@ -22,7 +22,7 @@ posts:
 - How to Financially Prepare for Family Occasions
 ---
 
-Oftentimes, when we (and the internet) talk about vacation, we're referring to big, expensive trips across the country or overseas. Yes, it's important to talk about making those trips possible, but what about the smaller vacations we take throughout the year? It's also necessary to talk about those, and plan for them, so they don't break our budget.
+Oftentimes, when we (and the internet) talk about vacation, we're referring to big, expensive trips across the country or overseas. Yes, it's important to talk about making those trips possible, but what about the smaller vacations we take throughout the year? It's also necessary to talk about those so they don't break our budget.
 
 Short trips, like taking a long weekend to wine country, can seem easy and inexpensive. Because of this, you might not financially plan or prepare for them ahead of time. And then you get back to reality only to notice that you're already over budget for the month. So you end up stressed out from the trip that was supposed to be fun. Let's plan ahead and prevent debt and anxiety.
 
