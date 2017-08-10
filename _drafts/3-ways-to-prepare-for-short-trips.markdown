@@ -32,7 +32,7 @@ Like I said [last week](https://www.maggiegermano.com/blog/how-to-save-up-for-tr
 
 ## Be frugal
 
-When we're out of our normal daily routine, it's easy to be extravagant and overspend. But it doesn't have to be that way! 
+When we're out of our normal daily routine, it's easy to be extravagant and overspend. But it doesn't have to be that way! If you're careful, you can try to stay within your normal monthly budget, even when you're out of town. 
 
 ## Make up for it the rest of the month
 
