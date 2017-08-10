@@ -1,6 +1,6 @@
 ---
 title: 3 Ways to Prepare for Short Trips
-date: 2017-08-10 14:17:00 -04:00
+date: 2017-08-14 11:00:00 -04:00
 categories:
 - lifestyle
 - budget
@@ -13,6 +13,12 @@ tags:
 - financial freedom
 - financial health
 - budgeting
+tweet: 'Big, international trips are not the only #vacations to save #money for. Plan
+  for the little trips too!'
+posts:
+- How to Save Up for Travel, Big or Small
+- How to Vacation on a Budget
+- How to Financially Prepare for Family Occasions
 ---
 
 Oftentimes, when we (and the internet) talk about vacation, we're referring to big, expensive trips across the country or overseas. Yes, it's important to talk about making those trips possible, but what about the smaller vacations we take throughout the year? It's important to talk about those, and plan for them too, so they don't break our budget.
