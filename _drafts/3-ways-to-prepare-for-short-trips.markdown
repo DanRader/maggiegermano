@@ -27,8 +27,10 @@ Short trips, like taking a long weekend, can seem easy and inexpensive. Because 
 
 Plan ahead, if you can
 
-Like I said last week, it's important to plan ahead and get a good handle on what is coming up in terms of travel. 
+Like I said last week, it's important to plan ahead and get a good handle on what is coming up in terms of travel.
+
+Be frugal
 
 Make up for it the rest of the month
 
-If you weren't able to save up for your trip, you might have to compensate for it throughout the rest of the month. If you typically budget to spend $800 a month (after fixed expenses), but you spent $300 on your weekend trip, you've already spent nearly half of your monthly budget. 
+If you weren't able to save up for your trip, you might have to compensate for it throughout the rest of the month. If you typically budget to spend $800 a month (after fixed expenses), but you spent $300 on your weekend trip, you've already spent nearly half of your monthly budget.
