@@ -28,10 +28,10 @@ Short trips, like taking a long weekend, can seem easy and inexpensive. Because 
 
 ## Plan ahead, if you can
 
-Like I said [last week](https://www.maggiegermano.com/blog/how-to-save-up-for-travel-big-or-small/), it's important to plan ahead and get a good handle on what is coming up in terms of travel.
+Like I said [last week](https://www.maggiegermano.com/blog/how-to-save-up-for-travel-big-or-small/), it's important to plan ahead and get a good handle on what is coming up in terms of travel. I personally like to set money aside every month to use for future travel. Sometimes, this is for travel I know is coming up, but other times I end up using it to fly home at the last minute, or spend a needed weekend out of the city. I really love the freedom that this allows me, always knowing I have money available to me if I want to go somewhere fun. I hold this money sacred and never use it for anything other than travel, and it sits in a special travel savings account. Do you need one of those accounts?
 
 ## Be frugal
 
 ## Make up for it the rest of the month
 
-If you weren't able to save up for your trip, you might have to compensate for it throughout the rest of the month. If you typically budget to spend $800 a month (after [fixed expenses](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/)), but you spent $300 on your weekend trip, you've already spent nearly half of your monthly budget.
+If you weren't able to save up for your trip, you might have to compensate for it throughout the rest of the month. If you typically budget to spend $800 a month (after [fixed expenses](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/)), but you spent $300 on your weekend trip, you've already spent nearly half of your monthly budget. Rather than overdraft, or add to your debt, you can cut back for the rest of the month. Bring your lunch to work everyday and cook dinner at home every night. If you have plans with friends, get a soda water at the bar, or have your friend over for a cheap bottle of wine instead. Sometimes, in order to make up for overspending, we need to shake up our normal routine and cut back.
