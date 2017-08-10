@@ -22,15 +22,17 @@ posts:
 - How to Financially Prepare for Family Occasions
 ---
 
-Oftentimes, when we (and the internet) talk about vacation, we're referring to big, expensive trips across the country or overseas. Yes, it's important to talk about making those trips possible, but what about the smaller vacations we take throughout the year? It's important to talk about those, and plan for them too, so they don't break our budget.
+Oftentimes, when we (and the internet) talk about vacation, we're referring to big, expensive trips across the country or overseas. Yes, it's important to talk about making those trips possible, but what about the smaller vacations we take throughout the year? It's also necessary to talk about those, and plan for them, so they don't break our budget.
 
-Short trips, like taking a long weekend, can seem easy and inexpensive. Because of this, you might not financially plan or prepare for them. And then you get back to reality only to notice that you're already over budget for the month. So you end up stressed out from the trip that was supposed to be fun. Here's how I prepare for smaller trips that pop up throughout the year.
+Short trips, like taking a long weekend to wine country, can seem easy and inexpensive. Because of this, you might not financially plan or prepare for them ahead of time. And then you get back to reality only to notice that you're already over budget for the month. So you end up stressed out from the trip that was supposed to be fun. Let's plan ahead and prevent debt and anxiety.
 
 ## Plan ahead, if you can
 
-Like I said [last week](https://www.maggiegermano.com/blog/how-to-save-up-for-travel-big-or-small/), it's important to plan ahead and get a good handle on what is coming up in terms of travel. I personally like to set money aside every month to use for future travel. Sometimes, this is for travel I know is coming up, but other times I end up using it to fly home at the last minute, or spend a needed weekend out of the city. I really love the freedom that this allows me, always knowing I have money available to me if I want to go somewhere fun. I hold this money sacred and never use it for anything other than travel, and it sits in a special travel savings account. Do you need one of those accounts?
+Like I said [last week](https://www.maggiegermano.com/blog/how-to-save-up-for-travel-big-or-small/), it's important to plan ahead and get a good handle on what is coming up in terms of travel. If you know what's on the books, you can have a better idea of how much money you need to save. I personally like to set money aside every month to use for any and all future travel. Sometimes, this is for travel I know is coming up, but other times I end up using it to fly home at the last minute, or spend a much-needed weekend out of the city. I really love the freedom that this allows me, always knowing I have money available to me if I want to go somewhere fun. I hold this money sacred and never use it for anything other than travel, and it sits in a special travel savings account. Do you need one of those accounts? How much would you have to save each month to be covered?
 
 ## Be frugal
+
+When we're out of our normal daily routine, it's easy to be extravagant and overspend. But it doesn't have to be that way! 
 
 ## Make up for it the rest of the month
 
