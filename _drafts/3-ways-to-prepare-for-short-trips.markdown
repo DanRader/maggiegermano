@@ -13,6 +13,7 @@ tags:
 - financial freedom
 - financial health
 - budgeting
+image: "/uploads/travel-b79fbb.jpg"
 tweet: 'Big, international trips are not the only #vacations to save #money for. Plan
   for the little trips too!'
 posts:
