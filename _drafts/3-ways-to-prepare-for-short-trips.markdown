@@ -32,7 +32,7 @@ Like I said [last week](https://www.maggiegermano.com/blog/how-to-save-up-for-tr
 
 ## Be frugal
 
-When we're out of our normal daily routine, it's easy to be extravagant and overspend. But it doesn't have to be that way! If you're careful, you can try to stay within your normal monthly budget, even when you're out of town. 
+When we're out of our normal daily routine, it's easy to be extravagant and overspend. But it doesn't have to be that way! If you're careful, you can try to stay within your normal monthly budget, even when you're out of town. Set a spending limit for the trip, and try to stick to it. A few years ago, I took a trip to the beach in Delaware with some friends. I didn't have travel savings at the time, so I wanted to stay within my normal monthly budget. I brought my own snacks and alcohol for our time in the car and on the beach, and then I was careful with what I ordered when we went out. I ended up staying under the budget I had set for myself, and that made the trip even better!
 
 ## Make up for it the rest of the month
 
