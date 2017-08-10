@@ -26,12 +26,12 @@ Oftentimes, when we (and the internet) talk about vacation, we're referring to b
 
 Short trips, like taking a long weekend, can seem easy and inexpensive. Because of this, you might not financially plan or prepare for them. And then you get back to reality only to notice that you're already over budget for the month. So you end up stressed out from the trip that was supposed to be fun. Here's how I prepare for smaller trips that pop up throughout the year.
 
-Plan ahead, if you can
+## Plan ahead, if you can
 
-Like I said last week, it's important to plan ahead and get a good handle on what is coming up in terms of travel.
+Like I said [last week](https://www.maggiegermano.com/blog/how-to-save-up-for-travel-big-or-small/), it's important to plan ahead and get a good handle on what is coming up in terms of travel.
 
-Be frugal
+## Be frugal
 
-Make up for it the rest of the month
+## Make up for it the rest of the month
 
-If you weren't able to save up for your trip, you might have to compensate for it throughout the rest of the month. If you typically budget to spend $800 a month (after fixed expenses), but you spent $300 on your weekend trip, you've already spent nearly half of your monthly budget.
+If you weren't able to save up for your trip, you might have to compensate for it throughout the rest of the month. If you typically budget to spend $800 a month (after [fixed expenses](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/)), but you spent $300 on your weekend trip, you've already spent nearly half of your monthly budget.
