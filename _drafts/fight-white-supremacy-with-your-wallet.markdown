@@ -15,7 +15,7 @@ posts:
 - Do Your Money Habits Align with Your Values?
 ---
 
-I want to use this platform and my privilege as a white woman to explicitly condemn the racist white supremacist rally in Charlottesville, VA this past weekend. I'm sick over their message and the resulting violence and death. It is clear that this hatred is not new, and did not come out of nowhere.
+I want to use this platform and my privilege as a white woman to explicitly condemn the racist white supremacist rally in Charlottesville, VA this past weekend. I'm sick over their message and the resulting violence and death. It is clear that this hatred is not new, and did not come out of nowhere. I have seen a lot of other white people expressing shock and disbelief over the blatant racism that was on display. This hatred and racism is not new; white people are just now finally being forced to face it. People of color have had to experience this hatred in the form of [police brutality](https://www.vanityfair.com/news/2016/07/data-police-racial-bias), [redlining](https://www.theatlantic.com/business/archive/2014/05/the-racist-housing-policy-that-made-your-neighborhood/371439/), gerrymandering, 
 
 ## Donate to anti-racism/hate organizations
 
