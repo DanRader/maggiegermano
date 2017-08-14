@@ -9,6 +9,9 @@ tags:
 - credit card
 - credit report
 - credit score
+- adventure
+- vacation
+- credit
 image: "/uploads/plane.jpg"
 posts:
 - How to Save Up for Travel, Big or Small
