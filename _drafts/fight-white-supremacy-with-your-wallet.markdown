@@ -30,7 +30,8 @@ There are so many organizations that are fighting racism and violence in the Uni
 [ACLU](https://www.aclu.org/)\
 [Anti-Defamation League](https://www.adl.org/)\
 [Border Angels](http://www.borderangels.org/)\
-[Council on American-Islamic Relations](https://www.cair.com/)
+[Council on American-Islamic Relations](https://www.cair.com/)\
+[Native American Rights Fund](http://www.narf.org/)
 
 ## Donate to progressive candidates
 
