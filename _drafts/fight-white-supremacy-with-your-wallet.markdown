@@ -58,7 +58,7 @@ There are representatives out there who aren't openly supporting white supremaci
 
 ## Educate yourself
 
-If you're a white person, it's not up to people of color to educate you on the history of racism and its impact today. When those who are most impacted by racism have to expend their time and energy educating those who aren't, it's an added layer of emotional labor. But when people of color DO want to educate you, listen! Don't monopolize the conversation by insisting that you've never seen that kind of racism, or that you aren't a racist person. Sit back, listen, and learn.
+If you're a white person, it's not up to people of color to educate you on the history of racism and its impact today. When those who are most impacted by racism have to expend their time and energy educating those who aren't, it's an added layer of emotional labor. But when people of color DO want to educate you, listen! Don't monopolize the conversation by insisting that you've never seen that kind of racism, or that you aren't a racist person. Step back, listen, and learn.
 
 Here's a helpful [syllabus](https://docs.google.com/document/d/1By9bUjJ78snEeZuLXNGBdlVMJgEQWMEjR-Gfx8ER7Iw/mobilebasic#heading=h.bi12zdslqy3z) to get you started.
 
