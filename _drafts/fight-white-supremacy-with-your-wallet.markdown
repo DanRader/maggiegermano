@@ -33,6 +33,8 @@ There are so many organizations that are fighting racism and violence in the Uni
 [Council on American-Islamic Relations](https://www.cair.com/)\
 [Native American Rights Fund](http://www.narf.org/)
 
+Are there other orgs you think we should support? Share them in the comments!
+
 ## Donate to progressive candidates
 
 Yes, the 2016 presidential election was important, but the 2018 mid-term elections and all local elections matter just as much, if not more. Our representatives in Congress make our laws, good or bad.
@@ -55,4 +57,4 @@ There are representatives out there who aren't openly supporting white supremaci
 
 ## Vote!
 
-There is truly no excuse for not voting, if you are an eligible voter. I know our political system can be demoralizing, and it often feels like our vote doesn't matter. But the only time our vote doesn't matter is when we don't cast it.
+There is truly no excuse for not voting, if you are an eligible voter. I know our political system can be demoralizing, and it often feels like our vote doesn't matter. But the only time our vote doesn't matter is when we don't cast it. So make sure you are [registered to vote](https://www.usa.gov/register-to-vote), find out where your [polling place](https://www.headcount.org/find-your-polling-place/) is, and get to the polls on election day. I'm not just talking about the presidential election, either. I'm talking about mid-term congressional elections, and mayoral elections, and even school board elections! They all matter, and they impact you and the people you love. So make sure you're doing something about it.
