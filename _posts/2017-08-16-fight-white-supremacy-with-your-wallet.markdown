@@ -9,6 +9,11 @@ tags:
 - white supremacy
 - equality
 - resist
+- freedom
+- resistance
+- hate
+- hate speech
+- love
 image: "/uploads/protest.jpg"
 tweet: 'Stand up against #hate and #racism. Here''s how.'
 posts:
