@@ -9,6 +9,7 @@ tags:
 - credit card
 - credit report
 - credit score
+image: "/uploads/plane.jpg"
 posts:
 - How to Save Up for Travel, Big or Small
 - How to Vacation on a Budget
