@@ -54,7 +54,7 @@ I believe that silence makes you complicit. If you don't speak up when you hear 
 
 ## Call your representatives
 
-There are representatives out there who aren't openly supporting white supremacists, but they aren't condemning them either. And like I said above, that's basically condoning their message. Let your representatives know that you will not stand for racism and violence, and that they shouldn't either. [Remind them](https://callyourrep.co/) that 2018 is right around the corner. This applies to your local politicians as well, so contact your mayor, city council, and state representatives.
+There are representatives out there who aren't openly supporting white supremacists, but many of them aren't explicitly condemning them either. And like I said above, that's basically condoning their message. Let your representatives know that you will not stand for racism and violence, and that they shouldn't either. [Remind them](https://callyourrep.co/) that 2018 is right around the corner. This applies to your local politicians as well, so contact your mayor, city council, and state representatives.
 
 ## Educate yourself
 
