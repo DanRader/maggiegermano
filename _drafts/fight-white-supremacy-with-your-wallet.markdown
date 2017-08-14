@@ -8,6 +8,7 @@ tags:
 - racism
 - white supremacy
 image: "/uploads/protest.jpg"
+tweet: 'Stand up against #hate and #racism. '
 posts:
 - Where You Can Put Your Money If You're Feeling Hopeless
 - How You Can Afford to Donate to Charity
