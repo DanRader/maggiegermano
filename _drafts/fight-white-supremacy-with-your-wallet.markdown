@@ -50,7 +50,7 @@ If you want to be active in the resistance against hatred and white supremacy, y
 
 ## Speak up
 
-I believe that silence makes you complicit. If you don't speak up when you hear or see racist, homophobic, sexist, or transphobic words or behavior, you're condoning it. Your silence tells your friends and family that what they do and say is okay, and that they will not have to face consequences. And just a reminder: this is not a free speech issue. You aren't infringing their right to say hateful things, you are merely holding them accountable for their harmful beliefs. They can say anything they want, but there can also be social consequences. (Remember, though, [inciting violence](https://www.theatlantic.com/politics/archive/2014/11/when-does-the-first-amendment-protect-threats-elonis-united-states-supreme-court-free-speech/383255/) is NOT covered by the first amendment.)
+I believe that silence makes you complicit. If you don't speak up when you hear or see racist, homophobic, sexist, or transphobic words or behavior, you're condoning it. Your silence tells your friends and family that what they do and say is okay, and that they will not have to face consequences. And just a reminder: this is not a free speech issue. You aren't infringing on their right to say hateful things, you are merely holding them accountable for their harmful beliefs. They can say anything they want, but there can (and should) also be social consequences. (Remember, though, [inciting violence](https://www.theatlantic.com/politics/archive/2014/11/when-does-the-first-amendment-protect-threats-elonis-united-states-supreme-court-free-speech/383255/) is NOT covered by the first amendment.)
 
 ## Call your representatives
 
