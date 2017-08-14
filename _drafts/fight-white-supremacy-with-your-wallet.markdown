@@ -15,11 +15,11 @@ posts:
 - Do Your Money Habits Align with Your Values?
 ---
 
-I want to use this platform and my privilege as a white woman to explicitly condemn the racist white supremacist rally in Charlottesville, VA this past weekend. I'm sick over their message and the resulting violence and death. It is clear that this hatred is not new, and did not come out of nowhere. I have seen a lot of other white people expressing shock and disbelief over the blatant racism that was on display. This hatred and racism is not new; white people are just now finally being forced to face it. People of color have had to experience this hatred in the form of [police brutality](https://www.vanityfair.com/news/2016/07/data-police-racial-bias), [redlining](https://www.theatlantic.com/business/archive/2014/05/the-racist-housing-policy-that-made-your-neighborhood/371439/), gerrymandering, 
+I want to use this platform and my privilege as a white woman to explicitly condemn the racist white supremacist rally in Charlottesville, VA this past weekend. I'm sick over their message and the resulting violence and death. It is clear that this hatred is not new, and did not come out of nowhere. I have seen a lot of other white people expressing shock and disbelief over the blatant racism that was on display. This hatred and racism is not new; white people are just now finally being forced to face it. People of color have had to experience this hatred in the form of [police brutality](https://www.vanityfair.com/news/2016/07/data-police-racial-bias), [redlining](https://www.theatlantic.com/business/archive/2014/05/the-racist-housing-policy-that-made-your-neighborhood/371439/), gerrymandering, and more. This isn't new to them. So let's do our part and stand up against blatant racism, white supremacy, and hatred.
 
-## Donate to anti-racism/hate organizations
+## Donate to progressive organizations
 
-There are so many organizations that are fighting racism and violence in the United States. There are also organizations that are providing much needed services to our underserved populations. So, if you can, donate to the organizations below and help them continue their invaluable work.
+There are so many organizations that are fighting racism and violence in the United States. There are also organizations that are providing much needed services to our under served populations. So, if you can, donate to the organizations below and help them continue their invaluable work.
 
 [NAACP](http://www.naacp.org/)\
 [Black Lives Matter](http://blacklivesmatter.com/)\
@@ -33,13 +33,13 @@ There are so many organizations that are fighting racism and violence in the Uni
 [Council on American-Islamic Relations](https://www.cair.com/)\
 [Native American Rights Fund](http://www.narf.org/)
 
-Are there other orgs you think we should support? Share them in the comments!
+*Are there other organizations you think we should support? Share them in the comments!*
 
 ## Donate to progressive candidates
 
-Yes, the 2016 presidential election was important, but the 2018 mid-term elections and all local elections matter just as much, if not more. Our representatives in Congress make our laws, good or bad.
+Yes, the 2016 presidential election was important, but the 2018 mid-term elections and all local elections matter just as much, if not more. Our representatives in Congress make our laws, good or bad. Just because someone has been in Congress for 40 years doesn't mean they should stay there. Let's get people into government who actually reflect our values and want to make our country better.
 
-Don't know where to start? Check out organizations like [EMILY's List](http://www.emilyslist.org/), [Run for Something](https://www.runforsomething.net/),
+Don't know where to start? Check out organizations like [EMILY's List ](http://www.emilyslist.org/)and [Run for Something.](https://www.runforsomething.net/)
 
 Of course, there are many things we can do that do not involve opening our wallets. If you want to take things a step further, or if you can't afford to donate your money, there are other things you can do.
 
