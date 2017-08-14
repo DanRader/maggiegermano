@@ -47,11 +47,11 @@ If you want to be active in the resistance against hatred and white supremacy, y
 
 ## Speak up
 
-I believe that silence makes you complicit. If you don't speak up when you hear or see racist, homophobic, sexist, or transphobic words or behavior, you're condoning it. Your silence tells your friends and family that what they do and say is okay, and that they will not have to face consequences. And 
+I believe that silence makes you complicit. If you don't speak up when you hear or see racist, homophobic, sexist, or transphobic words or behavior, you're condoning it. Your silence tells your friends and family that what they do and say is okay, and that they will not have to face consequences. And just a reminder: this is not a free speech issue. You aren't infringing their right to say hateful things, you are merely holding them accountable for their harmful beliefs. They can say anything they want, but there can also be social consequences.
 
 ## Call your representatives
 
-There are representatives out there who aren't openly supporting white supremacists, but they aren't condemning them either. And like I said above, that's basically condoning their message. Let your representatives know that you will not stand for racism and violence, and that they shouldn't either. Remind them that 2018 is right around the corner.
+There are representatives out there who aren't openly supporting white supremacists, but they aren't condemning them either. And like I said above, that's basically condoning their message. Let your representatives know that you will not stand for racism and violence, and that they shouldn't either. [Remind them](https://callyourrep.co/) that 2018 is right around the corner. This applies to your local politicians as well, so contact your mayor, city council, and state representatives. 
 
 ## Vote!
 
