@@ -1,5 +1,5 @@
 ---
-title: Fight White Supremacy with Your Wallet
+title: Fight White Supremacy with Your Wallet and Your Voice
 date: 2017-08-16 11:00:00 -04:00
 published: false
 categories:
