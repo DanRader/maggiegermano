@@ -53,10 +53,16 @@ I believe that silence makes you complicit. If you don't speak up when you hear 
 
 ## Call your representatives
 
-There are representatives out there who aren't openly supporting white supremacists, but they aren't condemning them either. And like I said above, that's basically condoning their message. Let your representatives know that you will not stand for racism and violence, and that they shouldn't either. [Remind them](https://callyourrep.co/) that 2018 is right around the corner. This applies to your local politicians as well, so contact your mayor, city council, and state representatives. 
+There are representatives out there who aren't openly supporting white supremacists, but they aren't condemning them either. And like I said above, that's basically condoning their message. Let your representatives know that you will not stand for racism and violence, and that they shouldn't either. [Remind them](https://callyourrep.co/) that 2018 is right around the corner. This applies to your local politicians as well, so contact your mayor, city council, and state representatives.
+
+## Educate yourself
+
+If you're a white person, it's not up to people of color to educate you on the history of racism. By asking them to take the time and energy to But when people of color DO want to educate you, listen! Don't monopolize the conversation by insisting that you've never seen that kind of racism, or that you aren't a racist person. Sit back, listen, and learn.
+
+Here's a helpful [syllabus](https://docs.google.com/document/d/1By9bUjJ78snEeZuLXNGBdlVMJgEQWMEjR-Gfx8ER7Iw/mobilebasic#heading=h.bi12zdslqy3z) to get you started.
 
 ## Vote!
 
-There is truly no excuse for not voting, if you are an eligible voter, with easy access to your polling place. I know our political system can be demoralizing, and it often feels like our vote doesn't matter. But the only time our vote doesn't matter is when we don't cast it. So make sure you are [registered to vote](https://www.usa.gov/register-to-vote), find out where your [polling place](https://www.headcount.org/find-your-polling-place/) is, and get to the polls on election day. I'm not just talking about the presidential election, either. I'm talking about mid-term congressional elections, and mayoral elections, and even school board elections! They all matter, and they impact you and the people you love. So make sure you're doing something about it. 
+There is truly no excuse for not voting, if you are an eligible voter, with easy access to your polling place. I know our political system can be demoralizing, and it often feels like our vote doesn't matter. But the only time our vote doesn't matter is when we don't cast it. So make sure you are [registered to vote](https://www.usa.gov/register-to-vote), find out where your [polling place](https://www.headcount.org/find-your-polling-place/) is, and get to the polls on election day. I'm not just talking about the presidential election, either. I'm talking about mid-term congressional elections, and mayoral elections, and even school board elections! They all matter, and they impact you and the people you love. So make sure you're doing something about it.
 
 If you want to take it a step further, sign up to [register people to vote](https://www.rockthevote.com/get-involved/register-voters/) and/or volunteer to drive people to their polling place. And don't forget to fight [voter ID laws](https://www.aclu.org/other/oppose-voter-id-legislation-fact-sheet) in your state.
