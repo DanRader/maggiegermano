@@ -3,10 +3,11 @@ title: Fight White Supremacy with Your Wallet
 date: 2017-08-16 11:00:00 -04:00
 categories:
 - lifestyle
-- budget
 tags:
 - racism
 - white supremacy
+- equality
+- resist
 image: "/uploads/protest.jpg"
 tweet: 'Stand up against #hate and #racism. Here''s how.'
 posts:
