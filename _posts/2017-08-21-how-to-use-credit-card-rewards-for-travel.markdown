@@ -22,7 +22,7 @@ posts:
 - Why Credit Card Interest Sucks and What You Could Be Spending It On Instead
 ---
 
-**Disclaimer:** While I fully take advantage of credit card rewards programs, credit cards are not for everyone. If you struggle with debt and overspending, you probably shouldn't sign up for rewards cards. The interest rates tend to be much higher, so if you can't pay off your card in full every month, you'll end up spending a lot more money in interest over time. So proceed with caution!
+***Disclaimer:** While I fully take advantage of credit card rewards programs, credit cards are not for everyone. If you struggle with debt and overspending, you probably shouldn't sign up for rewards cards. The interest rates tend to be much higher, so if you can't pay off your card in full every month, you'll end up spending a lot more money in interest over time. So proceed with caution!*
 
 The best thing about rewards credit cards is that you usually get a large bonus after signing up and spending the minimum required amount. This is often the best way to get you the amount of points you need to pay for expensive travel. However, you usually have to spend from $500 to $5,000 to get that initial large bonus. Don't overspend just to get the bonus points! You always want to be able to pay off the card at the end of the month. Depending on what you need or prefer, there are several different kinds of rewards cards. Check them out below!
 
