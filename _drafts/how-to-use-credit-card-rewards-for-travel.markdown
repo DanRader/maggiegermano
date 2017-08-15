@@ -27,23 +27,23 @@ The best thing about rewards credit cards is that you usually get a large bonus 
 
 ## Airline Miles
 
-Signing up for an airline's loyalty program, and getting the associated credit card, can take you a long way towards the vacation of your dreams. Oftentimes, the most expensive part of a trip is the flight. If you can get that covered, you are much more likely to afford the trip as a whole.
+Signing up for an airline's loyalty program, and getting the associated credit card, can take you a long way towards the vacation of your dreams. Oftentimes, the most expensive part of a trip is the flight. If you can get that covered, you are much more likely to afford the trip as a whole. To make things better, many airlines are in [alliances](http://www.latimes.com/travel/la-tr-alliances-20160926-snap-story.html) with each other, which makes it possible for you to transfer points from one to another. 
 
-To make things better, many airlines are in [alliances](http://www.latimes.com/travel/la-tr-alliances-20160926-snap-story.html) with each other, which makes it possible for you to transfer points from one to another. A few years ago, I used US Airways points to fly to the UK roundtrip. I only had to pay $106 for taxes and fees. Just last summer, I used American Airlines points to fly my boyfriend and me home from Spain for about $60.
+A few years ago, I used US Airways (RIP) points to fly to the UK roundtrip. I only had to pay $106 for taxes and fees. Just last summer, I used [American Airlines](https://www.aa.com/i18n/aadvantage-program/aadvantage-program.jsp?anchorLocation=DirectURL&title=AAdvantage) points to fly my boyfriend and me home from Spain for about $60.
 
 To see if your favorite airline has a credit card, [click here](https://www.nerdwallet.com/blog/top-credit-cards/nerdwallets-best-airline-credit-cards/).
 
 ## Hotel Points
 
-If you frequent hotels, it might benefit you to get the credit card offered by your favorite hotel chain. Their cards provide large bonuses, plus you can get a free night on your credit card anniversary. If you like to stay at hotels over Airbnb or hostels, these kinds of rewards could save you a lot of money.  Last month, I used Hilton Honors points to cover a full week's stay in Denver for free. That saved me probably $1,000.
+If you frequent hotels, it might benefit you to get the credit card offered by your favorite hotel chain. Their cards provide large bonuses, plus you can often get a free night on your credit card anniversary. If you like to stay at hotels over [Airbnb](airbnb.com) or hostels, these kinds of rewards could save you a lot of money.  Last month, I used [Hilton Honors](http://hiltonhonors3.hilton.com/en/explore/points/index.html) points to cover a full week's stay in Denver for free. That saved me probably $1,000.
 
 To learn about the hotel credit cards that are available, [check out this list](https://thepointsguy.com/guide/best-hotel-credit-cards/).
 
 ## Points as Cash
 
-Many credit cards have great cash back rewards programs.
+Many credit cards have great cash back rewards programs. Usually, you get a bonus up front, and then you get 1 point per dollar you spend. Some cards offer up to 5% cash back, depending on where you're using the card. You can transfer these points into your bank account as cash, you can use them to book travel at a discount, or you can apply them as a credit on your statement.
 
-The Barclaycard World Arrival credit card let's you use your points as a credit towards your travel spending. So if you have 12,500 points, you can get $125 applied to any travel spending on your credit card. For example, I used points to knock over $100 off of a car rental.
+The [Barclaycard World Arrival Plus](https://home.barclaycardus.com/cards/barclaycard-arrival-plus-world-elite-mastercard.html) credit card let's you use your points as a credit towards your travel spending. So if you have 12,500 points, you can get $125 applied to any travel spending on your credit card. For example, I used points to knock over $100 off of a car rental.
 
 For a list of cash back credit cards, [go here](https://www.creditkarma.com/credit-cards/cash-back-cards).
 
