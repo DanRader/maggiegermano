@@ -35,7 +35,7 @@ To see if your favorite airline has a credit card, [click here](https://www.nerd
 
 ## Hotel Points
 
-If you frequent hotels, it might benefit you to get the credit card offered by your favorite hotel chain. Their cards provide large bonuses, plus you can often get a free night on your credit card anniversary. If you like to stay at hotels over [Airbnb](airbnb.com) or hostels, these kinds of rewards could save you a lot of money.  Last month, I used [Hilton Honors](http://hiltonhonors3.hilton.com/en/explore/points/index.html) points to cover a full week's stay in Denver for free. That saved me probably $1,000.
+If you frequent hotels, it might benefit you to get the credit card offered by your favorite hotel chain. Their cards provide large bonuses, plus you can often get a free night on your credit card anniversary. If you like to stay at hotels over [Airbnb](airbnb.com) or hostels, these kinds of rewards could save you a lot of money.  Last month, I used [Hilton Honors](https://track.flexlinkspro.com/a.ashx?foid=1098290.137572993&foc=2&fot=9999&fos=1) points to cover a full week's stay in Denver for free. That saved me probably $1,000.
 
 To learn about the hotel credit cards that are available, [check out this list](https://thepointsguy.com/guide/best-hotel-credit-cards/).
 
