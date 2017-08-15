@@ -13,6 +13,8 @@ tags:
 - vacation
 - credit
 image: "/uploads/plane.jpg"
+tweet: 'Credit cards aren''t for everyone, but if they''re for you, you can use them
+  for #travel!'
 posts:
 - How to Save Up for Travel, Big or Small
 - 3 Ways to Prepare for Short Trips
