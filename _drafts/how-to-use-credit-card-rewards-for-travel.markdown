@@ -27,7 +27,7 @@ The best thing about rewards credit cards is that you usually get a large bonus 
 
 ## Airline Miles
 
-Signing up for an airline's loyalty program, and getting the associated credit card, can take you a long way towards the vacation of your dreams. Oftentimes, the most expensive part of a trip is the flight. If you can get that covered, you are much more likely to afford the trip as a whole. To make things better, many airlines are in [alliances](http://www.latimes.com/travel/la-tr-alliances-20160926-snap-story.html) with each other, which makes it possible for you to transfer points from one to another. 
+Signing up for an airline's loyalty program, and getting the associated credit card, can take you a long way towards the vacation of your dreams. Oftentimes, the most expensive part of a trip is the flight. If you can get that covered, you are much more likely to afford the trip as a whole. To make things better, many airlines are in [alliances](http://www.latimes.com/travel/la-tr-alliances-20160926-snap-story.html) with each other, which makes it possible for you to transfer points from one to another.
 
 A few years ago, I used US Airways (RIP) points to fly to the UK roundtrip. I only had to pay $106 for taxes and fees. Just last summer, I used [American Airlines](https://www.aa.com/i18n/aadvantage-program/aadvantage-program.jsp?anchorLocation=DirectURL&title=AAdvantage) points to fly my boyfriend and me home from Spain for about $60.
 
@@ -38,6 +38,8 @@ To see if your favorite airline has a credit card, [click here](https://www.nerd
 If you frequent hotels, it might benefit you to get the credit card offered by your favorite hotel chain. Their cards provide large bonuses, plus you can often get a free night on your credit card anniversary. If you like to stay at hotels over [Airbnb](airbnb.com) or hostels, these kinds of rewards could save you a lot of money.  Last month, I used [Hilton Honors](http://hiltonhonors3.hilton.com/en/explore/points/index.html) points to cover a full week's stay in Denver for free. That saved me probably $1,000.
 
 To learn about the hotel credit cards that are available, [check out this list](https://thepointsguy.com/guide/best-hotel-credit-cards/).
+
+If you don't want to get a credit card, but you still want hotel rewards, check out [Hotels.com](http://www.jdoqocy.com/click-8097813-10433850)! You can get rooms at a discount, plus for every 10 nights that you stay, you get a free night.
 
 ## Points as Cash
 
@@ -55,4 +57,4 @@ Although car rental companies typically don't have their own credit cards, you c
 
 For credit cards that offer rental car insurance, [check out this list](https://www.nerdwallet.com/blog/credit-card-benefits/rental-car-insurance/).
 
-*I'm not getting any financial kick back from any of the companies I've mentioned here. I just like a good deal and want to share with you!*
+**Disclosure:** *Some of the links above are affiliate links. This means that, at no cost to you,  I may earn commission if you click through and make a purchase or open an account.*
