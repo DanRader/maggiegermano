@@ -23,7 +23,11 @@ posts:
 
 **Disclaimer:** While I fully take advantage of credit card rewards programs, credit cards are not for everyone. If you struggle with debt and overspending, you probably shouldn't sign up for rewards cards. The interest rates tend to be much higher, so if you can't pay off your card in full every month, you'll end up spending a lot more money in interest over time.
 
+The best thing about rewards credit cards is that you usually get a large bonus after signing up and spending the minimum required amount. This is often 
+
 ## Airline Miles
+
+Signing up for an airline's loyalty program, and getting the associated credit card, can take you a long way towards the vacation of your dreams. Oftentimes, the most expensive part of a trip is the flight. If you can get that covered, you are much more likely to afford the trip as a whole. 
 
 A few years ago, I used US Airways points to fly to the UK roundtrip. I only had to pay $106 for taxes and fees. Just last summer, I used American Airlines points to fly my boyfriend and me home from Spain for about $60.
 
