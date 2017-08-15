@@ -23,7 +23,7 @@ posts:
 
 **Disclaimer:** While I fully take advantage of credit card rewards programs, credit cards are not for everyone. If you struggle with debt and overspending, you probably shouldn't sign up for rewards cards. The interest rates tend to be much higher, so if you can't pay off your card in full every month, you'll end up spending a lot more money in interest over time. So proceed with caution!
 
-The best thing about rewards credit cards is that you usually get a large bonus after signing up and spending the minimum required amount. This is often
+The best thing about rewards credit cards is that you usually get a large bonus after signing up and spending the minimum required amount. This is often the best way to get you the amount of points you need to pay for expensive travel. 
 
 ## Airline Miles
 
