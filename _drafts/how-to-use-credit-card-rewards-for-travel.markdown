@@ -29,9 +29,7 @@ The best thing about rewards credit cards is that you usually get a large bonus 
 
 Signing up for an airline's loyalty program, and getting the associated credit card, can take you a long way towards the vacation of your dreams. Oftentimes, the most expensive part of a trip is the flight. If you can get that covered, you are much more likely to afford the trip as a whole.
 
-Many airlines are in [alliances](http://www.latimes.com/travel/la-tr-alliances-20160926-snap-story.html) with each other, which makes it possible for you to transfer points from one to another. 
-
-A few years ago, I used US Airways points to fly to the UK roundtrip. I only had to pay $106 for taxes and fees. Just last summer, I used American Airlines points to fly my boyfriend and me home from Spain for about $60.
+To make things better, many airlines are in [alliances](http://www.latimes.com/travel/la-tr-alliances-20160926-snap-story.html) with each other, which makes it possible for you to transfer points from one to another. A few years ago, I used US Airways points to fly to the UK roundtrip. I only had to pay $106 for taxes and fees. Just last summer, I used American Airlines points to fly my boyfriend and me home from Spain for about $60.
 
 To see if your favorite airline has a credit card, [click here](https://www.nerdwallet.com/blog/top-credit-cards/nerdwallets-best-airline-credit-cards/).
 
