@@ -13,6 +13,9 @@ tags:
 - adventure
 - vacation
 - credit
+- points
+- miles
+- wanderlust
 image: "/uploads/plane.jpg"
 tweet: 'Credit cards aren''t for everyone, but if they''re for you, you can use them
   for #travel!'
