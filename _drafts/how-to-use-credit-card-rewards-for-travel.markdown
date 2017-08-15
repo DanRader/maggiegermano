@@ -23,11 +23,11 @@ posts:
 
 **Disclaimer:** While I fully take advantage of credit card rewards programs, credit cards are not for everyone. If you struggle with debt and overspending, you probably shouldn't sign up for rewards cards. The interest rates tend to be much higher, so if you can't pay off your card in full every month, you'll end up spending a lot more money in interest over time. So proceed with caution!
 
-The best thing about rewards credit cards is that you usually get a large bonus after signing up and spending the minimum required amount. This is often 
+The best thing about rewards credit cards is that you usually get a large bonus after signing up and spending the minimum required amount. This is often
 
 ## Airline Miles
 
-Signing up for an airline's loyalty program, and getting the associated credit card, can take you a long way towards the vacation of your dreams. Oftentimes, the most expensive part of a trip is the flight. If you can get that covered, you are much more likely to afford the trip as a whole. 
+Signing up for an airline's loyalty program, and getting the associated credit card, can take you a long way towards the vacation of your dreams. Oftentimes, the most expensive part of a trip is the flight. If you can get that covered, you are much more likely to afford the trip as a whole.
 
 A few years ago, I used US Airways points to fly to the UK roundtrip. I only had to pay $106 for taxes and fees. Just last summer, I used American Airlines points to fly my boyfriend and me home from Spain for about $60.
 
@@ -41,8 +41,14 @@ To learn about the hotel credit cards that are available, [check out this list](
 
 ## Points as Cash
 
-Many credit cards have great cash back rewards programs. 
+Many credit cards have great cash back rewards programs.
 
-The Barclaycard World Arrival credit card let's you use your points as a credit towards your travel spending. So if you have 12,500 points, you can get $125 applied to any travel spending on your credit card. For example, I used points to knock over $100 off of a car rental. 
+The Barclaycard World Arrival credit card let's you use your points as a credit towards your travel spending. So if you have 12,500 points, you can get $125 applied to any travel spending on your credit card. For example, I used points to knock over $100 off of a car rental.
 
-For a list of cash back credit cards, [go here](https://www.creditkarma.com/credit-cards/cash-back-cards). 
+## Rental Cars
+
+Although car rental companies typically don't have their own credit cards, you can still use a credit card to save money on a rental. Most rewards cards include their own rental car insurance, so you can decline the extra insurance that the rental company offers.
+
+**Note:** Not all countries are included under the car insurance benefit. When I was in Mexico earlier this year, if I declined insurance coverage from the rental company, I had to allow them to put a $12,000 hold on my credit card. $12,000! That amount was higher than my credit limit, so I ended up paying extra for insurance through the rental company. I was not pleased. So do your research ahead of time!
+
+For a list of cash back credit cards, [go here](https://www.creditkarma.com/credit-cards/cash-back-cards).
