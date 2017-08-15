@@ -54,3 +54,5 @@ Although car rental companies typically don't have their own credit cards, you c
 **Note:** Not all countries are included under the car insurance benefit. When I was in Mexico earlier this year, if I declined insurance coverage from the rental company, I had to allow them to put a $12,000 hold on my credit card. **$12,000!** That amount was higher than my credit limit, so I ended up paying extra for insurance through the rental company. I was not pleased. So do your research ahead of time!
 
 For credit cards that offer rental car insurance, [check out this list](https://www.nerdwallet.com/blog/credit-card-benefits/rental-car-insurance/).
+
+*I'm not getting any financial kick back from any of the companies I've mentioned here. I just like a good deal and want to share with you!*
