@@ -57,4 +57,4 @@ Although car rental companies typically don't have their own credit cards, you c
 
 For credit cards that offer rental car insurance, [check out this list](https://www.nerdwallet.com/blog/credit-card-benefits/rental-car-insurance/).
 
-**Disclosure:** *Some of the links above are affiliate links. This means that, at no cost to you,  I may earn commission if you click through and make a purchase or open an account.*
+**Disclosure:** *Some of the links above are affiliate links. This means that, at no cost to you,  I may earn commission if you click through and make a purchase or open an account. I only link to companies that I personally use and endorse!*
