@@ -27,16 +27,16 @@ I want to use this platform and my privilege as a white woman to explicitly cond
 
 There are so many organizations that are fighting racism and violence in the United States. There are also organizations that are providing much needed services to our under served populations. So, if you can, donate to organizations like the ones below and help them continue their invaluable work.
 
-* [NAACP](http://www.naacp.org/)
-* [Black Lives Matter](http://blacklivesmatter.com/)
-* [Planned Parenthood](https://www.plannedparenthood.org/)
-* [Southern Poverty Law Center](https://www.splcenter.org/)
-* [National Center for Transgender Equality](https://www.transequality.org/)
-* [Anne Frank Center for Mutual Respect](http://annefrank.com/)
-* [Anti-Defamation League](https://www.adl.org/)
-* [Border Angels](http://www.borderangels.org/)
-* [Council on American-Islamic Relations](https://www.cair.com/)
-* [Native American Rights Fund](http://www.narf.org/)
+[NAACP](http://www.naacp.org/)
+[Black Lives Matter](http://blacklivesmatter.com/)
+[Planned Parenthood](https://www.plannedparenthood.org/)
+[Southern Poverty Law Center](https://www.splcenter.org/)
+[National Center for Transgender Equality](https://www.transequality.org/)
+[Anne Frank Center for Mutual Respect](http://annefrank.com/)
+[Anti-Defamation League](https://www.adl.org/)
+[Border Angels](http://www.borderangels.org/)
+[Council on American-Islamic Relations](https://www.cair.com/)
+[Native American Rights Fund](http://www.narf.org/)
 
 *Are there other organizations you think we should support? Share them in the comments!*
 
