@@ -41,7 +41,7 @@ To learn about the hotel credit cards that are available, [check out this list](
 
 ## Points as Cash
 
-Many credit cards have great cash back rewards programs. Usually, you get a bonus up front, and then you get 1 point per dollar you spend. Some cards offer up to 5% cash back, depending on where you're using the card. You can transfer these points into your bank account as cash, you can use them to book travel at a discount, or you can apply them as a credit on your statement.
+Many credit cards have great cash back rewards programs. Usually, you get a bonus up front, and then you get one point per dollar you spend from then on. Some cards even offer up to 5% cash back, depending on where you're using the card. You can transfer these points into your bank account as cash, you can use them to book travel at a discount, or you can apply them as a credit on your statement.
 
 The [Barclaycard World Arrival Plus](https://home.barclaycardus.com/cards/barclaycard-arrival-plus-world-elite-mastercard.html) credit card let's you use your points as a credit towards your travel spending. So if you have 12,500 points, you can get $125 applied to any travel spending on your credit card. For example, I used points to knock over $100 off of a car rental.
 
