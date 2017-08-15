@@ -35,7 +35,7 @@ To see if your favorite airline has a credit card, [click here](https://www.nerd
 
 ## Hotel Points
 
-I used the points I received from the Hilton Honors for a full week's stay in Denver for free.
+If you frequent hotels, it might  I used the points I received from the Hilton Honors for a full week's stay in Denver for free.
 
 To learn about the hotel credit cards that are available, [check out this list](https://thepointsguy.com/guide/best-hotel-credit-cards/).
 
