@@ -31,12 +31,18 @@ Signing up for an airline's loyalty program, and getting the associated credit c
 
 A few years ago, I used US Airways points to fly to the UK roundtrip. I only had to pay $106 for taxes and fees. Just last summer, I used American Airlines points to fly my boyfriend and me home from Spain for about $60.
 
+To see if your favorite airline has a credit card, [click here](https://www.nerdwallet.com/blog/top-credit-cards/nerdwallets-best-airline-credit-cards/).
+
 ## Hotel Points
 
 I used the points I received from the Hilton Honors for a full week's stay in Denver for free.
 
-## Travel Credit
+To learn about the hotel credit cards that are available, [check out this list](https://thepointsguy.com/guide/best-hotel-credit-cards/).
+
+## Points as Cash
+
+Many credit cards have great cash back rewards programs. 
 
 The Barclaycard World Arrival credit card let's you use your points as a credit towards your travel spending. So if you have 12,500 points, you can get $125 applied to any travel spending on your credit card. For example, I used points to knock over $100 off of a car rental. 
 
-## Points as Cash
+For a list of cash back credit cards, [go here](https://www.creditkarma.com/credit-cards/cash-back-cards). 
