@@ -1,7 +1,6 @@
 ---
 title: Fight White Supremacy with Your Wallet and Your Voice
 date: 2017-08-16 11:00:00 -04:00
-published: false
 categories:
 - lifestyle
 tags:
@@ -34,7 +33,6 @@ There are so many organizations that are fighting racism and violence in the Uni
 [Southern Poverty Law Center](https://www.splcenter.org/)\
 [National Center for Transgender Equality](https://www.transequality.org/)\
 [Anne Frank Center for Mutual Respect](http://annefrank.com/)\
-[ACLU](https://www.aclu.org/)\
 [Anti-Defamation League](https://www.adl.org/)\
 [Border Angels](http://www.borderangels.org/)\
 [Council on American-Islamic Relations](https://www.cair.com/)\
@@ -46,7 +44,7 @@ There are so many organizations that are fighting racism and violence in the Uni
 
 Yes, the 2016 presidential election was important, but the 2018 mid-term elections and all local elections matter just as much, if not more. Our representatives in Congress make our laws, good or bad. Just because someone has been in Congress for 40 years doesn't mean they should stay there. Let's get people into government who actually reflect our values and want to make our country better.
 
-Don't know where to start? Check out organizations like [EMILY's List ](http://www.emilyslist.org/)and [Run for Something.](https://www.runforsomething.net/)
+Don't know where to start? Check out organizations like [EMILY's List ](http://www.emilyslist.org/)and [Run for Something.](https://www.runforsomething.net/) Do research around candidates in your own area. You can donate or volunteer at their local campaign office. 
 
 Of course, there are many things we can do that do not involve opening our wallets. If you want to take things a step further, or if you can't afford to donate your money, there are other things you can do.
 
@@ -64,7 +62,7 @@ There are representatives out there who aren't openly supporting white supremaci
 
 ## Educate yourself
 
-If you're a white person, it's not up to people of color to educate you on the history of racism and its continued impact today. When those who are most impacted by racism have to expend their time and energy educating those who aren't, it's an added layer of emotional labor. So do your part to educate yourself. Here's a helpful [syllabus](https://docs.google.com/document/d/1By9bUjJ78snEeZuLXNGBdlVMJgEQWMEjR-Gfx8ER7Iw/mobilebasic#heading=h.bi12zdslqy3z) to get you started. But when people of color DO want to educate you, listen! Don't monopolize the conversation by insisting that you've never seen that kind of racism, or that you aren't a racist person. That derails the conversation and makes it about you, rather than the actual issue at hand. Step back, listen, and learn.
+If you're a white person, it's not up to people of color to educate you on the history of racism and its continued impact today. When those who are most impacted by racism have to expend their time and energy educating those who aren't, it's an added layer of emotional labor. So do your part to educate yourself. Here's a helpful [syllabus](https://docs.google.com/document/d/1By9bUjJ78snEeZuLXNGBdlVMJgEQWMEjR-Gfx8ER7Iw/mobilebasic#heading=h.bi12zdslqy3z) to get you started. But when people of color DO want to educate you, listen and believe them! Don't monopolize the conversation by insisting that you've never seen that kind of racism, or that you aren't a racist person. That derails the conversation and makes it about you, rather than the actual issue at hand. Step back, listen, and learn.
 
 ## Vote!
 
