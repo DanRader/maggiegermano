@@ -28,6 +28,7 @@ I want to use this platform and my privilege as a white woman to explicitly cond
 There are so many organizations that are fighting racism and violence in the United States. There are also organizations that are providing much needed services to our under served populations. So, if you can, donate to the organizations below and help them continue their invaluable work.
 
 [NAACP](http://www.naacp.org/)
+
 [Black Lives Matter](http://blacklivesmatter.com/)
 [Planned Parenthood](https://www.plannedparenthood.org/)
 [Southern Poverty Law Center](https://www.splcenter.org/)
@@ -44,7 +45,7 @@ There are so many organizations that are fighting racism and violence in the Uni
 
 Yes, the 2016 presidential election was important, but the 2018 mid-term elections and all local elections matter just as much, if not more. Our representatives in Congress make our laws, good or bad. Just because someone has been in Congress for 40 years doesn't mean they should stay there. Let's get people into government who actually reflect our values and want to make our country better.
 
-Don't know where to start? Check out organizations like [EMILY's List ](http://www.emilyslist.org/)and [Run for Something.](https://www.runforsomething.net/) Do research around candidates in your own area. You can donate or volunteer at their local campaign office. 
+Don't know where to start? Check out organizations like [EMILY's List ](http://www.emilyslist.org/)and [Run for Something.](https://www.runforsomething.net/) Do research around candidates in your own area. You can donate or volunteer at their local campaign office.
 
 Of course, there are many things we can do that do not involve opening our wallets. If you want to take things a step further, or if you can't afford to donate your money, there are other things you can do.
 
