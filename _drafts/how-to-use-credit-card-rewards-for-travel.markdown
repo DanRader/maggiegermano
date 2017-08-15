@@ -45,10 +45,12 @@ Many credit cards have great cash back rewards programs.
 
 The Barclaycard World Arrival credit card let's you use your points as a credit towards your travel spending. So if you have 12,500 points, you can get $125 applied to any travel spending on your credit card. For example, I used points to knock over $100 off of a car rental.
 
+For a list of cash back credit cards, [go here](https://www.creditkarma.com/credit-cards/cash-back-cards).
+
 ## Rental Cars
 
 Although car rental companies typically don't have their own credit cards, you can still use a credit card to save money on a rental. Most rewards cards include their own rental car insurance, so you can decline the extra insurance that the rental company offers.
 
 **Note:** Not all countries are included under the car insurance benefit. When I was in Mexico earlier this year, if I declined insurance coverage from the rental company, I had to allow them to put a $12,000 hold on my credit card. $12,000! That amount was higher than my credit limit, so I ended up paying extra for insurance through the rental company. I was not pleased. So do your research ahead of time!
 
-For a list of cash back credit cards, [go here](https://www.creditkarma.com/credit-cards/cash-back-cards).
+For credit cards that offer rental car insurance, [check out this list](https://www.nerdwallet.com/blog/credit-card-benefits/rental-car-insurance/).
