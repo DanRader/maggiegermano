@@ -21,6 +21,7 @@ posts:
 - How to Save Up for Travel, Big or Small
 ---
 
+
 ## Hiking
 
 xx
@@ -31,7 +32,7 @@ Last month, I was in Colorado for about a week. One activity I like to do while 
 
 ## Museums
 
-Not all cities have free museums. In fact, I feel pretty spoiled having lived in DC for 8 years. We have so many free museums that I'm always shocked when I have to pay to go in one somewhere else. But 
+Not all cities have free museums. In fact, I feel pretty spoiled having lived in DC for 8 years. We have so many free museums that I'm always shocked when I have to pay to go in one somewhere else. But
 
 ## Gardens
 
