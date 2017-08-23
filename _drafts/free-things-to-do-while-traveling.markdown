@@ -1,6 +1,6 @@
 ---
 title: Free Things to Do While Traveling
-date: 2017-08-07 20:28:00 -04:00
+date: 2017-08-28 11:00:00 -04:00
 categories:
 - lifestyle
 tags:
@@ -14,6 +14,10 @@ tags:
 - budgeting
 - budget
 - money
+posts:
+- How to Use Credit Card Rewards for Travel
+- 3 Ways to Prepare for Short Trips
+- How to Save Up for Travel, Big or Small
 ---
 
 
