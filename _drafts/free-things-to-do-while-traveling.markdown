@@ -14,6 +14,7 @@ tags:
 - budgeting
 - budget
 - money
+image: "/uploads/hike.jpg"
 posts:
 - How to Use Credit Card Rewards for Travel
 - 3 Ways to Prepare for Short Trips
