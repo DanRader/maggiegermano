@@ -31,7 +31,7 @@ If you're interested in seeing many different national parks, consider buying an
 
 ## Tours
 
-Last month, I was in Colorado for about a week. One activity I like to do while traveling is go on brewery tours. I'm a beer fan, and I always find it interesting to see what different breweries are like. The tours themselves are often free, even if you do end up paying for some beer. You can also look for things like winery or distillery tours. Don't drink? In Boulder, Colorado, you can do a free tour of the [Celestial Seasonings](http://www.celestialseasonings.com/visit-us) tea factory! That was probably the best tour I've ever done. Plus, all the tea for sale there was cheaper than it is in stores.
+Last month, I was in Colorado for about a week. One activity I like to do while traveling is go on brewery tours. I'm a beer fan, and I always find it interesting to see what different breweries are like. Colorado did not disappoint! The tours themselves are often free, even if you do end up paying for some beer. You can also look for things like winery or distillery tours. Don't drink? In Boulder, Colorado, you can do a free tour of the [Celestial Seasonings](http://www.celestialseasonings.com/visit-us) tea factory! That was probably the best tour I've ever done. Plus, all the tea for sale there was cheaper than it is in stores. So do some research before you travel; see what tours are available that you might not have thought of before.
 
 ## Museums
 
