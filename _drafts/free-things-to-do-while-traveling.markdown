@@ -25,7 +25,9 @@ Travel always seems like something that is so expensive. There's the transportat
 
 ## Nature
 
-xx
+I don't know about you, but natural wonders are one of the main reasons that I travel. Most of the activities on my list when I travel are related to nature. I love going to parks, to waterfalls, to mountains, etc. Not only do these places make for amazing photos, they also tend to be cheaper than other activities. Yes, sometimes you have to pay a small fee to get into a state or national park, but it's often worth it! 
+
+If you're interested in seeing many different national parks, consider buying an [annual pass](https://www.nps.gov/planyourvisit/passes.htm#CP_JUMP_5088574). For $80 a year, you can get into as many national parks as you want. Plus, you're supporting the National Park Service, which needs our help!
 
 ## Tours
 
@@ -38,5 +40,3 @@ Not all cities have free museums. In fact, I feel pretty spoiled having lived in
 ## Gardens
 
 In Portland last week, I went to the International Rose Garden. It was beautiful AND free. Plus it gave us a great view of the city.
-
-Other Natural Destinations
