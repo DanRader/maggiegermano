@@ -15,6 +15,8 @@ tags:
 - budget
 - money
 image: "/uploads/hike.jpg"
+tweet: 'Not everything about #travel has to be expensive! Here are several #free or
+  #cheap activities.'
 posts:
 - How to Use Credit Card Rewards for Travel
 - 3 Ways to Prepare for Short Trips
