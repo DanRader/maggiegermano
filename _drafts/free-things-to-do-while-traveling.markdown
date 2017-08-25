@@ -29,9 +29,11 @@ Travel always seems like something that is so expensive. There's the transportat
 
 I don't know about you, but natural wonders are one of the main reasons that I travel. Most of the activities on my list when I travel are related to nature. I love going to parks, to waterfalls, to mountains, etc. Not only do these places make for amazing photos, they also tend to be cheaper than other activities. Yes, sometimes you have to pay a small fee to get into a state or national park, but it's often worth it!
 
-If you're interested in seeing many different national parks, consider buying an [annual pass](https://www.nps.gov/planyourvisit/passes.htm#CP_JUMP_5088574). For $80 a year, you can get into as many national parks as you want. Plus, you're supporting the National Park Service, which needs our help!
+So find out about nearby hiking trails or beaches. Research [UNESCO World Heritage](http://whc.unesco.org/en/list) sites and see if there are any near where you'll be. In Portland last week, I went to the [International Rose Test Garden](https://www.portlandoregon.gov/parks/finder/index.cfm?action=ViewPark&PropertyID=1113). It was beautiful AND free. Plus it gave us a great view of the city. The opportunities are nearly endless.
 
-## Tours
+*If you're interested in seeing many different National Parks in the US, consider buying an [annual pass](https://www.nps.gov/planyourvisit/passes.htm#CP_JUMP_5088574). For $80 a year, you can get into as many National Parks as you want. Plus, you're supporting the National Park Service, which needs our help!*
+
+## Booze Tours
 
 Last month, I was in Colorado for about a week. One activity I like to do while traveling is go on brewery tours. I'm a beer fan, and I always find it interesting to see what different breweries are like. Colorado did not disappoint! The tours themselves are often free, even if you do end up paying for some beer. You can also look for things like winery or distillery tours. Don't drink? In Boulder, Colorado, you can do a free tour of the [Celestial Seasonings](http://www.celestialseasonings.com/visit-us) tea factory! That was probably the best tour I've ever done. Plus, all the tea for sale there was cheaper than it is in stores. So do some research before you travel; see what tours are available that you might not have thought of before.
 
