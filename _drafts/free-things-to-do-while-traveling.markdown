@@ -23,7 +23,7 @@ posts:
 - How to Save Up for Travel, Big or Small
 ---
 
-Travel always seems like something that is so expensive. There's the transportation, the accommodations, the food, the activities... And yes, a lot about traveling IS expensive (unless you use [rewards points](https://www.maggiegermano.com/blog/how-to-use-credit-card-rewards-for-travel/)). But there are many activities that cost little or no money! Sometimes, those things can end up being the most rewarding as well. So do your research when you're planning a trip, and find activities like the categories below.
+Travel always seems like something that is so expensive. There's the transportation, the accommodations, the food, the activities... And yes, a lot about traveling IS expensive (unless you use [rewards points](https://www.maggiegermano.com/blog/how-to-use-credit-card-rewards-for-travel/)). But there are many activities that cost little or no money! Sometimes, those things can also end up being the most rewarding. So do your research when you're planning a trip, and find activities in the categories below.
 
 ## Nature
 
@@ -39,7 +39,7 @@ One activity I like to do while traveling is go on brewery tours. I'm a beer fan
 
 ## Museums
 
-Not all cities have free museums. In fact, I feel pretty spoiled having lived in DC for 8 years. We have so many free museums that I'm always shocked when I have to pay to go in one somewhere else. So if you don't live in DC, but you're planning a visit, there are plenty of [free museums](https://www.si.edu/) for you to explore. 
+Not all cities have free museums. In fact, I feel pretty spoiled having lived in DC for 8 years. We have so many free museums that I'm always shocked when I have to pay to go in one somewhere else. So if you don't live in DC, but you're planning a visit, there are plenty of [free museums](https://www.si.edu/) for you to explore.
 
 If you're not traveling to DC, find out how much it costs to go to museums where you'll be. It's amazing the types of museums you might find: science, art, history, wax, toy, maritime, and more! There's really something for everyone. You can spend days exploring museums, sometimes for a low or non-existent price.
 
