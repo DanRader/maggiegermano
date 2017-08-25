@@ -35,12 +35,10 @@ So find out about nearby hiking trails or beaches. Research [UNESCO World Herita
 
 ## Booze Tours
 
-Last month, I was in Colorado for about a week. One activity I like to do while traveling is go on brewery tours. I'm a beer fan, and I always find it interesting to see what different breweries are like. Colorado did not disappoint! The tours themselves are often free, even if you do end up paying for some beer. You can also look for things like winery or distillery tours. Don't drink? In Boulder, Colorado, you can do a free tour of the [Celestial Seasonings](http://www.celestialseasonings.com/visit-us) tea factory! That was probably the best tour I've ever done. Plus, all the tea for sale there was cheaper than it is in stores. So do some research before you travel; see what tours are available that you might not have thought of before.
+One activity I like to do while traveling is go on brewery tours. I'm a beer fan, and I always find it interesting to see what different breweries are like. The tours themselves are often free, even if you do end up paying for some beer. You can also look for things like winery or distillery tours. Don't drink? Look for tours of other factories. In Boulder, Colorado, you can do a free tour of the [Celestial Seasonings](http://www.celestialseasonings.com/visit-us) tea factory! That was probably the best tour I've ever done. Plus, all the tea for sale there was cheaper than it is in stores. So do some research before you travel and see what tours are available that you might not have thought of before.
 
 ## Museums
 
 Not all cities have free museums. In fact, I feel pretty spoiled having lived in DC for 8 years. We have so many free museums that I'm always shocked when I have to pay to go in one somewhere else. But
 
-## Gardens
-
-In Portland last week, I went to the International Rose Garden. It was beautiful AND free. Plus it gave us a great view of the city.
+Like I said, travel can be expensive, but there are plenty of fun things to do that are also inexpensive or free. You just have to do a little digging and think outside of the box. You might even find hidden gems (like the waterfall I got engaged at last week)...
