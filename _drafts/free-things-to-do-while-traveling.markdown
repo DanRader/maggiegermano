@@ -35,7 +35,7 @@ So find out about nearby hiking trails or beaches. Research [UNESCO World Herita
 
 ## Booze Tours
 
-One activity I like to do while traveling is go on brewery tours. I'm a beer fan, and I always find it interesting to see what different breweries are like. The tours themselves are often free, even if you do end up paying for some beer. You can also look for things like winery or distillery tours. Don't drink? Look for tours of other factories. In Boulder, Colorado, you can do a free tour of the [Celestial Seasonings](http://www.celestialseasonings.com/visit-us) tea factory! That was probably the best tour I've ever done. Plus, all the tea for sale there was cheaper than it is in stores. So do some research before you travel and see what tours are available that you might not have thought of before.
+One activity I like to do while traveling is go on brewery tours. I'm a beer fan, and I always find it interesting to see what different breweries are like. The tours themselves are often free, but you may end up paying for some beer. You can also look for things like winery or distillery tours. Don't drink? Look for tours of other factories. In Boulder, Colorado, you can do a free tour of the [Celestial Seasonings](http://www.celestialseasonings.com/visit-us) tea factory! That was probably the best tour I've ever done. Plus, all the tea for sale there was cheaper than it is in stores. So do some research before you travel and see what tours are available that you might not have thought of before.
 
 ## Museums
 
