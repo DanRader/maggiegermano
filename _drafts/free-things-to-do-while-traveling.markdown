@@ -23,11 +23,11 @@ posts:
 - How to Save Up for Travel, Big or Small
 ---
 
-Travel always seems like something that is so expensive. There's the transportation, the accommodations, the food, the activities... And yes, a lot about traveling IS expensive (unless you use [rewards points](https://www.maggiegermano.com/blog/how-to-use-credit-card-rewards-for-travel/)). But there are many activities that cost little or no money! Sometimes, those things can end up being the most rewarding as well. 
+Travel always seems like something that is so expensive. There's the transportation, the accommodations, the food, the activities... And yes, a lot about traveling IS expensive (unless you use [rewards points](https://www.maggiegermano.com/blog/how-to-use-credit-card-rewards-for-travel/)). But there are many activities that cost little or no money! Sometimes, those things can end up being the most rewarding as well. So do your research when you're planning a trip, and find activities like the categories below.
 
 ## Nature
 
-I don't know about you, but natural wonders are one of the main reasons that I travel. Most of the activities on my list when I travel are related to nature. I love going to parks, to waterfalls, to mountains, etc. Not only do these places make for amazing photos, they also tend to be cheaper than other activities. Yes, sometimes you have to pay a small fee to get into a state or national park, but it's often worth it! 
+I don't know about you, but natural wonders are one of the main reasons that I travel. Most of the activities on my list when I travel are related to nature. I love going to parks, to waterfalls, to mountains, etc. Not only do these places make for amazing photos, they also tend to be cheaper than other activities. Yes, sometimes you have to pay a small fee to get into a state or national park, but it's often worth it!
 
 If you're interested in seeing many different national parks, consider buying an [annual pass](https://www.nps.gov/planyourvisit/passes.htm#CP_JUMP_5088574). For $80 a year, you can get into as many national parks as you want. Plus, you're supporting the National Park Service, which needs our help!
 
