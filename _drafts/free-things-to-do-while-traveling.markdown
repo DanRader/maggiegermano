@@ -39,7 +39,7 @@ One activity I like to do while traveling is go on brewery tours. I'm a beer fan
 
 ## Museums
 
-Not all cities have free museums. In fact, I feel pretty spoiled having lived in DC for 8 years. We have so many free museums that I'm always shocked when I have to pay to go in one somewhere else. But
+Not all cities have free museums. In fact, I feel pretty spoiled having lived in DC for 8 years. We have so many free museums that I'm always shocked when I have to pay to go in one somewhere else. So if you don't live in DC, but you're planning a visit, there are plenty of free museums for you to explore. 
 
 Like I said, travel can be expensive, but there are plenty of fun things to do that are also inexpensive or free. You just have to do a little digging and think outside of the box. You might even find beautiful hidden gems (like the waterfall I got engaged at last week)...
 
