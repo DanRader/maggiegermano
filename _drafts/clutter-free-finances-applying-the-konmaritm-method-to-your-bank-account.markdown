@@ -10,6 +10,7 @@ tags:
 - financial freedom
 - financial health
 - budgeting
+image: "/uploads/Jenny-110.jpg"
 author: Jenny Albertini
 ---
 
