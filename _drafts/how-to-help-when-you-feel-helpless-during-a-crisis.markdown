@@ -28,7 +28,7 @@ Over this past weekend, Hurricane Harvey, a category X hurricane, made landfall
 
 ## Spread the word
 
-Maybe you don't have much money to spare. That's okay!
+Maybe you don't have much money to spare. That's okay! You can still contribute by using your voice. Do you have friends or family in the affected area? Let them know who to call for help, or where to turn for support of any kind. No loved ones in the area? Let your friends know where they can donate and which organizations to support. Just because we are far away doesn't mean we can't help. 
 
 ## Open your home
 
