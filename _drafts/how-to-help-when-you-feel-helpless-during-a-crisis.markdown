@@ -42,4 +42,4 @@ I read yesterday that [AirBnb](https://www.airbnb.com/disaster/hurricaneharveyev
 
 ## Advocate for disaster preparedness
 
-As time goes on, the effects of climate change are going to get worse and worse. Intense storms are 
+As time goes on, the effects of climate change are going to get worse and worse. Intense storms are one of those consequences.  
