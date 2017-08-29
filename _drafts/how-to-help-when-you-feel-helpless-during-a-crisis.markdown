@@ -50,8 +50,6 @@ There are so many important, amazing organizations that are on the ground during
 
 * [Houston Humane Society](http://www.houstonhumane.org/giving)
 
-* 
-
 There's also the option of donating to the [GoFundMe](https://www.gofundme.com/hurricaneharvey) pages of those directly impacted.
 
 If you worry about the validity of a charity, check them out on [Charity Navigator](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5239) to make sure it's legit. [Do your research!](https://www.propublica.org/article/5-tips-for-donating-after-disasters)
@@ -71,3 +69,5 @@ There's no doubt, [climate change is real](https://www.youtube.com/watch?v=EtW2r
 So push your city to plan for climate change when 
 
 And while you're at it, [do your part](https://www.maggiegermano.com/blog/how-to-help-save-the-planet-on-a-budget/) everyday too!
+
+*Do you have other recommendations for how to help during times of crisis? Share in the comments!*
