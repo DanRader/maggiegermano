@@ -42,4 +42,8 @@ I read yesterday that [AirBnb](https://www.airbnb.com/disaster/hurricaneharveyev
 
 ## Advocate for disaster preparedness
 
-As time goes on, the effects of climate change are going to get worse and worse. Intense storms are one of those consequences.  
+There's no doubt, [climate change is real](https://www.youtube.com/watch?v=EtW2rrLHs08), and we've caused it. As time goes on, the effects of climate change are going to get worse and worse. Intense storms are one of those consequences, as warmer weather causes stronger storms. At this point,  a lot of the 
+
+So push your city to plan for climate change when 
+
+And while you're at it, [do your part](https://www.maggiegermano.com/blog/how-to-help-save-the-planet-on-a-budget/) everyday too!
