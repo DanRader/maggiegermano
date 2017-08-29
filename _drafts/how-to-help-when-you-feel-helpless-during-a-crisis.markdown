@@ -38,7 +38,17 @@ There are so many important, amazing organizations that are on the ground during
 
 * [Galveston Food Bank](http://www.galvestoncountyfoodbank.org/)
 
-* The Coalition for the Homeless of Houston/Harris County
+* [The Coalition for the Homeless of Houston/Harris County](http://www.homelesshouston.org/)
+
+* [SPCA of Texas](https://spca.org/give)
+
+* [Feeding Texas](https://donatenow.networkforgood.org/feeding-texas)
+
+* [Carter BloodCare](http://www.carterbloodcare.org/donate-blood/)
+
+* [South Texas Blood and Tissue Center](https://www.donatingforlife.org/index.cfm?utm_source=website&utm_medium=locations&utm_campaign=11.23.15-dfl-locations-page-website-find-a-blood-drive-link)
+
+* 
 
 If you worry about the validity of a charity, check them out on [Charity Navigator](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5239) to make sure it's legit. [Do your research!](https://www.propublica.org/article/5-tips-for-donating-after-disasters)
 
