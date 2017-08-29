@@ -26,9 +26,9 @@ Over this past weekend, Hurricane Harvey, a category 4 hurricane, made landfall 
 
 ## Donate money, supplies, or blood
 
-There are so many organizations that are on the ground during times of need. There are large, national organizations like the American Red Cross. And there are local organizations that also need your donations.
+There are so many important, amazing organizations that are on the ground during times of need. There are large, national organizations like the American Red Cross and . And there are also local organizations that also need your donations. So check out the list below for organizations to support during this difficult time.
 
-If you worry about the validity of a charity, check them out on [Charity Navigator](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5239) to make sure it's legit.
+If you worry about the validity of a charity, check them out on [Charity Navigator](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5239) to make sure it's legit. [Do your research!](https://www.propublica.org/article/5-tips-for-donating-after-disasters)
 
 ## Spread the word
 
