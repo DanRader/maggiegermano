@@ -28,17 +28,17 @@ Over this past weekend, Hurricane Harvey, a category 4 hurricane, made landfall 
 
 There are so many important, amazing organizations that are on the ground during times of need. There are large, national organizations like the [American Red Cross](http://www.redcrossblood.org/). And there are local organizations that also need your donations. So check out the list below for organizations to support during this difficult time. If you can't donate cash, you can also give blood and supplies.
 
-* Houston Food Bank
+* [Houston Food Bank](http://www.houstonfoodbank.org/)
 
-* Food Bank of Corpus Christi
+* [Food Bank of Corpus Christi](http://www.foodbankcc.com/)
 
-* Texas Diaper Bank
+* [Texas Diaper Bank](https://texasdiaperbank.networkforgood.com/projects/33717-change-a-life)
 
 * [Hurricane Harvey Relief Fund](http://ghcf.org/hurricane-relief/)
 
-* Galveston Food Bank
+* [Galveston Food Bank](http://www.galvestoncountyfoodbank.org/)
 
-* 
+* The Coalition for the Homeless of Houston/Harris County
 
 If you worry about the validity of a charity, check them out on [Charity Navigator](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5239) to make sure it's legit. [Do your research!](https://www.propublica.org/article/5-tips-for-donating-after-disasters)
 
