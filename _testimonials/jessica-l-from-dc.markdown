@@ -1,6 +1,7 @@
 ---
 title: Jessica L. from DC
 date: 2017-01-03 17:16:00 -05:00
+position: 7
 image: "/uploads/JessL.jpg"
 ---
 
