@@ -1,6 +1,7 @@
 ---
 title: How to Help When You Feel Helpless During a Crisis
 date: 2017-08-29 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 tags:
@@ -13,7 +14,7 @@ tags:
 - donation
 - personal finance
 - hurricane harvey
-image: "/uploads/storm.jpg"
+image: "/uploads/hurricane.jpg"
 tweet: 'How you can help during crises like #HurricaneHarvey: '
 posts:
 - Fight White Supremacy with Your Wallet and Your Voice
@@ -24,6 +25,8 @@ posts:
 When a crisis is occurring and we are far away from it, we can feel either helpless or indifferent. When something doesn't impact us personally, it's easy to turn a blind eye. But as our world becomes more and more connected, it's more and more important to do what we can to help our fellow humans.
 
 Over this past weekend, [Hurricane Harvey](https://www.theguardian.com/us-news/2017/aug/28/tropical-storm-harvey-hits-houston-what-we-know-so-far), a category 4 hurricane, made landfall in Texas. So far, there have been 26 inches of rain, with more to come by the end of the week. Estimates are that there will be 50 inches of rain in total. This, in addition to the 130mph winds, has and will cause incredible damage. Below are ways that you can help the people impacted by the hurricane.
+
+> But as our world becomes more and more connected, it's more and more important to do what we can to help our fellow humans.
 
 ## Donate money, supplies, or blood
 
