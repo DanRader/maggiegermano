@@ -65,7 +65,7 @@ I read yesterday that [AirBnb](https://www.airbnb.com/disaster/hurricaneharveyev
 
 ## Advocate for disaster preparedness
 
-There's no doubt, [climate change is real](https://www.youtube.com/watch?v=EtW2rrLHs08), and we've caused it. As time goes on, the effects of climate change are going to get worse and worse. Intense storms are one of those [consequences](https://www.nrdc.org/stories/are-effects-global-warming-really-bad), as warmer weather causes stronger storms. At this point,  a lot of the 
+There's no doubt, [climate change is real](https://www.youtube.com/watch?v=EtW2rrLHs08), and we've caused it. As time goes on, the effects of climate change are going to get worse and worse. Intense storms are one of those [consequences](https://www.nrdc.org/stories/are-effects-global-warming-really-bad), as warmer weather causes stronger storms. At this point,  a lot of the effects are unavoidable, but there are still ways that we can mitigate or adapt to climate change.
 
 So push your city to plan for climate change when 
 
