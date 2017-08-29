@@ -23,7 +23,7 @@ posts:
 
 When a crisis is occurring and we are far away from it, we can feel either helpless or indifferent. When something doesn't impact us personally, it's easy to turn a blind eye. But as our world becomes more and more connected, it's more and more important to do what we can to help our fellow humans.
 
-Over this past weekend, Hurricane Harvey, a category 4 hurricane, made landfall in Texas. So far, there have been 26 inches of rain, with more to come by the end of the week. Estimates are that there will be 50 inches of rain in total. This, in addition to the 130mph winds, has and will cause incredible damage. Below are ways that you can help the people impacted by the hurricane.
+Over this past weekend, [Hurricane Harvey](https://www.theguardian.com/us-news/2017/aug/28/tropical-storm-harvey-hits-houston-what-we-know-so-far), a category 4 hurricane, made landfall in Texas. So far, there have been 26 inches of rain, with more to come by the end of the week. Estimates are that there will be 50 inches of rain in total. This, in addition to the 130mph winds, has and will cause incredible damage. Below are ways that you can help the people impacted by the hurricane.
 
 ## Donate money, supplies, or blood
 
@@ -67,7 +67,7 @@ I read yesterday that [AirBnb](https://www.airbnb.com/disaster/hurricaneharveyev
 
 There's no doubt, [climate change is real](https://www.youtube.com/watch?v=EtW2rrLHs08), and we've caused it. As time goes on, the effects of climate change are going to get worse and worse. Intense storms are one of those [consequences](https://www.nrdc.org/stories/are-effects-global-warming-really-bad), as warmer weather causes stronger storms. At this point,  a lot of the effects are unavoidable, but there are still ways that we can mitigate or adapt to climate change.
 
-So push your city to implement  
+So push your city to implement  Call your representatives and encourage them to implement state and local plans to 
 
 And while you're at it, [do your part](https://www.maggiegermano.com/blog/how-to-help-save-the-planet-on-a-budget/) everyday too!
 
