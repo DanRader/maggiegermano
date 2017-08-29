@@ -61,7 +61,7 @@ Maybe you don't have much money to spare. Maybe you're unable to donate blood. T
 
 ## Open your home
 
-I read yesterday that [AirBnb](https://www.airbnb.com/disaster/hurricaneharveyevacuees) has created a platform where hosts can rent out their space for free, and people from Houston can sign up if they need place to stay. AirBnb is also waiting service fees for those affected by the hurricane and checking in between August 23rd and September 1st. This is such a fantastic idea, as many people are unable to leave their homes due to financial limitations. If you rent out space on AirBnb, and you aren't far from Houston, I highly recommend that you offer up that space to people fleeing the hurricane. And remember this option in the future when other disasters inevitably happen. 
+I read yesterday that [AirBnb](https://www.airbnb.com/disaster/hurricaneharveyevacuees) has created a platform where hosts can rent out their space for free, and people from Houston can sign up if they need place to stay. AirBnb is also waiving service fees for those affected by the hurricane and checking in between August 23rd and September 1st. This is such a fantastic idea, as many people are unable to leave their homes due to financial limitations. If you rent out space on AirBnb, and you aren't far from Houston, I highly recommend that you offer up that space to people fleeing the hurricane. And remember this option in the future when other disasters inevitably happen. 
 
 ## Advocate for disaster preparedness
 
