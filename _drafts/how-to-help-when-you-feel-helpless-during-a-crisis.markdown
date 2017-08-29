@@ -41,3 +41,5 @@ I read yesterday that [AirBnb](https://www.airbnb.com/disaster/hurricaneharveyev
 \(AirBnb is also waiving all service fees for those affected by the hurricane and checking in between August 23rd and September 1st.)
 
 ## Advocate for disaster preparedness
+
+As time goes on, the effects of climate change are going to get worse and worse. Intense storms are 
