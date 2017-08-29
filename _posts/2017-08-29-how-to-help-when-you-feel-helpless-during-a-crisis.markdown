@@ -68,7 +68,7 @@ If you worry about the validity of a charity, check it out on [Charity Navigator
 
 Maybe you don't have much money to spare. Maybe you're unable to donate blood. That's okay! You can still contribute by using your voice. Do you have friends or family in the affected area? Let them know who to call for help, or where to turn for support of any kind. No loved ones in the area? Let your friends know where they can donate and which organizations to support. Just because we are far away doesn't mean we can't help.
 
-## Open your home
+## Open your home ([and church](http://www.newsweek.com/hurricane-harvey-joel-osteen-lakewood-church-656250))
 
 I read yesterday that [Airbnb](https://www.airbnb.com/disaster/hurricaneharveyevacuees) has created a platform where hosts can rent out their space for free, and people from Houston can sign up if they need place to stay. Airbnb is also waiving service fees for those affected by the hurricane and checking in between August 23rd and September 1st. This is such a fantastic idea, as many people are unable to leave their homes due to financial limitations. If you rent out space on Airbnb, and you aren't far from Houston, I highly recommend that you offer up that space to people fleeing the hurricane. And remember this option in the future when other disasters inevitably happen.
 
