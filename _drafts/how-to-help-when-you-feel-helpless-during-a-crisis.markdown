@@ -25,6 +25,8 @@ When a crisis is occurring and we are far away from it, we can feel either helpl
 
 Over this past weekend, [Hurricane Harvey](https://www.theguardian.com/us-news/2017/aug/28/tropical-storm-harvey-hits-houston-what-we-know-so-far), a category 4 hurricane, made landfall in Texas. So far, there have been 26 inches of rain, with more to come by the end of the week. Estimates are that there will be 50 inches of rain in total. This, in addition to the 130mph winds, has and will cause incredible damage. Below are ways that you can help the people impacted by the hurricane.
 
+> But as our world becomes more and more connected, it's more and more important to do what we can to help our fellow humans.
+
 ## Donate money, supplies, or blood
 
 There are so many important, amazing organizations that are on the ground during times of need. There are large, national organizations like the [American Red Cross](http://www.redcrossblood.org/). And then there are local organizations that also need your donations. So check out the list below for organizations to support during this difficult time. If you can't donate cash, you can also give blood and supplies.
