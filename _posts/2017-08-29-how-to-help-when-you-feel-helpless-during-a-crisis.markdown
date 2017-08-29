@@ -54,6 +54,12 @@ There are so many important, amazing organizations that are on the ground during
 
 * [Houston Humane Society](http://www.houstonhumane.org/giving)
 
+* [GlobalGiving](https://www.globalgiving.org/projects/hurricane-harvey-relief-fund/)
+
+* [Portlight](http://www.portlight.org/)
+
+* [Driscoll Children's Hospital](https://co.clickandpledge.com/advanced/default.aspx?wid=45664)
+
 There's also the option of donating to the [GoFundMe](https://www.gofundme.com/hurricaneharvey) pages of those directly impacted.
 
 If you worry about the validity of a charity, check it out on [Charity Navigator](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5239) to make sure it's legit. [Do your research!](https://www.propublica.org/article/5-tips-for-donating-after-disasters)
@@ -64,12 +70,14 @@ Maybe you don't have much money to spare. Maybe you're unable to donate blood. T
 
 ## Open your home
 
-I read yesterday that [Airbnb](https://www.airbnb.com/disaster/hurricaneharveyevacuees) has created a platform where hosts can rent out their space for free, and people from Houston can sign up if they need place to stay. Airbnb is also waiving service fees for those affected by the hurricane and checking in between August 23rd and September 1st. This is such a fantastic idea, as many people are unable to leave their homes due to financial limitations. If you rent out space on Airbnb, and you aren't far from Houston, I highly recommend that you offer up that space to people fleeing the hurricane. And remember this option in the future when other disasters inevitably happen. 
+I read yesterday that [Airbnb](https://www.airbnb.com/disaster/hurricaneharveyevacuees) has created a platform where hosts can rent out their space for free, and people from Houston can sign up if they need place to stay. Airbnb is also waiving service fees for those affected by the hurricane and checking in between August 23rd and September 1st. This is such a fantastic idea, as many people are unable to leave their homes due to financial limitations. If you rent out space on Airbnb, and you aren't far from Houston, I highly recommend that you offer up that space to people fleeing the hurricane. And remember this option in the future when other disasters inevitably happen.
 
-## Advocate for disaster preparedness
+## Advocate for better disaster preparedness
 
 There's no doubt: [climate change is real](https://www.youtube.com/watch?v=EtW2rrLHs08), and we've caused it. As time goes on, the effects of climate change are going to get worse and worse. Intense storms are one of those [consequences](https://www.nrdc.org/stories/are-effects-global-warming-really-bad), as warmer weather leads to stronger storms. At this point,  a lot of the longterm effects are unavoidable, but there are still ways that we can mitigate or proactively adapt to climate change.
 
 So push your city officials to consider climate change and flooding when it's doing urban planning. [Call your representatives](https://5calls.org/) and encourage them to implement [federal, state, and local](http://www.rollingstone.com/politics/features/how-politicians-must-fight-climate-change-in-the-trump-era-w489549) plans that address climate change and lower emissions. Advocate for the switch to clean energy sources like solar and wind power. And while you're at it, [do your part](https://www.maggiegermano.com/blog/how-to-help-save-the-planet-on-a-budget/) everyday too!
+
+One more thing: I'm no expert on flood insurance, but it seems like the current system isn't working. In fact, [a new law in Texas](https://www.texastribune.org/2017/08/28/harvey-insurance-claims/) reduces the penalty fees that insurance companies face for late payments if the policyholder files a lawsuit.
 
 *Do you have other recommendations for how to help during times of crisis? Share in the comments!*
