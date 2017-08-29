@@ -65,10 +65,8 @@ I read yesterday that [AirBnb](https://www.airbnb.com/disaster/hurricaneharveyev
 
 ## Advocate for disaster preparedness
 
-There's no doubt, [climate change is real](https://www.youtube.com/watch?v=EtW2rrLHs08), and we've caused it. As time goes on, the effects of climate change are going to get worse and worse. Intense storms are one of those [consequences](https://www.nrdc.org/stories/are-effects-global-warming-really-bad), as warmer weather causes stronger storms. At this point,  a lot of the effects are unavoidable, but there are still ways that we can mitigate or adapt to climate change.
+There's no doubt: [climate change is real](https://www.youtube.com/watch?v=EtW2rrLHs08), and we've caused it. As time goes on, the effects of climate change are going to get worse and worse. Intense storms are one of those [consequences](https://www.nrdc.org/stories/are-effects-global-warming-really-bad), as warmer weather leads to stronger storms. At this point,  a lot of the longterm effects are unavoidable, but there are still ways that we can mitigate or proactively adapt to climate change.
 
-So push your city to implement  Call your representatives and encourage them to implement state and local plans to 
-
-And while you're at it, [do your part](https://www.maggiegermano.com/blog/how-to-help-save-the-planet-on-a-budget/) everyday too!
+So push your city officials to consider climate change and flooding when it's doing its planning. [Call your representatives](https://5calls.org/) and encourage them to implement [federal, state, and local](http://www.rollingstone.com/politics/features/how-politicians-must-fight-climate-change-in-the-trump-era-w489549) plans that address climate change and lower emissions. Advocate for the switch to clean energy sources like solar and wind power. And while you're at it, [do your part](https://www.maggiegermano.com/blog/how-to-help-save-the-planet-on-a-budget/) everyday too!
 
 *Do you have other recommendations for how to help during times of crisis? Share in the comments!*
