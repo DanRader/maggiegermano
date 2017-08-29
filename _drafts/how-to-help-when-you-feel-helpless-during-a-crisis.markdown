@@ -12,6 +12,7 @@ tags:
 - good causes
 - donation
 - personal finance
+- hurricane harvey
 image: "/uploads/storm.jpg"
 tweet: 'How you can help during crises like #HurricaneHarvey: '
 posts:
