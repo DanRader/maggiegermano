@@ -24,9 +24,11 @@ When a crisis is occurring and we are far away from it, we can feel either helpl
 
 Over this past weekend, Hurricane Harvey, a category 4 hurricane, made landfall in Texas. So far, there has been 26 inches of rain, with more to come by the end of the week. Estimates are that there will be 50 inches of rain. This, in addition to the 130mph winds, causes incredible damage. This piece will be focused on how to help people in Houston who are suffering, but it can also apply to future crises. 
 
-## Donate
+## Donate money, supplies, or blood
 
-There are so many organizations that are on the ground during times of need. There are large, international organizations like the American Red Cross. And there are local organizations that also need your donations.
+There are so many organizations that are on the ground during times of need. There are large, national organizations like the American Red Cross. And there are local organizations that also need your donations.
+
+If you worry about the validity of a charity, check them out on [Charity Navigator](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5239) to make sure it's legit.
 
 ## Spread the word
 
