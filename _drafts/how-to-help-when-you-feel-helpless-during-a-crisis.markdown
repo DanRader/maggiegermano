@@ -26,7 +26,19 @@ Over this past weekend, Hurricane Harvey, a category 4 hurricane, made landfall 
 
 ## Donate money, supplies, or blood
 
-There are so many important, amazing organizations that are on the ground during times of need. There are large, national organizations like the American Red Cross and . And there are also local organizations that also need your donations. So check out the list below for organizations to support during this difficult time.
+There are so many important, amazing organizations that are on the ground during times of need. There are large, national organizations like the [American Red Cross](http://www.redcrossblood.org/). And there are local organizations that also need your donations. So check out the list below for organizations to support during this difficult time. If you can't donate cash, you can also give blood and supplies.
+
+* Houston Food Bank
+
+* Food Bank of Corpus Christi
+
+* Texas Diaper Bank
+
+* [Hurricane Harvey Relief Fund](http://ghcf.org/hurricane-relief/)
+
+* Galveston Food Bank
+
+* 
 
 If you worry about the validity of a charity, check them out on [Charity Navigator](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5239) to make sure it's legit. [Do your research!](https://www.propublica.org/article/5-tips-for-donating-after-disasters)
 
@@ -40,7 +52,7 @@ I read yesterday that [AirBnb](https://www.airbnb.com/disaster/hurricaneharveyev
 
 ## Advocate for disaster preparedness
 
-There's no doubt, [climate change is real](https://www.youtube.com/watch?v=EtW2rrLHs08), and we've caused it. As time goes on, the effects of climate change are going to get worse and worse. Intense storms are one of those consequences, as warmer weather causes stronger storms. At this point,  a lot of the 
+There's no doubt, [climate change is real](https://www.youtube.com/watch?v=EtW2rrLHs08), and we've caused it. As time goes on, the effects of climate change are going to get worse and worse. Intense storms are one of those [consequences](https://www.nrdc.org/stories/are-effects-global-warming-really-bad), as warmer weather causes stronger storms. At this point,  a lot of the 
 
 So push your city to plan for climate change when 
 
