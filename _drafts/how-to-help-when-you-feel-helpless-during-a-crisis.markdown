@@ -22,7 +22,7 @@ posts:
 
 When a crisis is occurring and we are far away from it, we can feel either helpless or disinterested. When something doesn't impact us, it's easy to turn a blind eye. But as our world becomes more and more connected, it's more and more important to do what we can to help our fellow humans.
 
-Over this past weekend, Hurricane Harvey, a category X hurricane, made landfall
+Over this past weekend, Hurricane Harvey, a category 4 hurricane, made landfall in Texas. 
 
 ## Donate
 
@@ -30,7 +30,7 @@ There are so many organizations that are on the ground during times of need. The
 
 ## Spread the word
 
-Maybe you don't have much money to spare. That's okay! You can still contribute by using your voice. Do you have friends or family in the affected area? Let them know who to call for help, or where to turn for support of any kind. No loved ones in the area? Let your friends know where they can donate and which organizations to support. Just because we are far away doesn't mean we can't help. 
+Maybe you don't have much money to spare. That's okay! You can still contribute by using your voice. Do you have friends or family in the affected area? Let them know who to call for help, or where to turn for support of any kind. No loved ones in the area? Let your friends know where they can donate and which organizations to support. Just because we are far away doesn't mean we can't help.
 
 ## Open your home
 
