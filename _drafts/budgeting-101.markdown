@@ -1,6 +1,7 @@
 ---
 title: Budgeting 101
 date: 2017-09-04 11:00:00 -04:00
+image: "/uploads/dollar-2df9ed.jpg"
 ---
 
 September's blog theme is budgeting!
