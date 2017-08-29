@@ -23,11 +23,11 @@ posts:
 
 When a crisis is occurring and we are far away from it, we can feel either helpless or indifferent. When something doesn't impact us personally, it's easy to turn a blind eye. But as our world becomes more and more connected, it's more and more important to do what we can to help our fellow humans.
 
-Over this past weekend, Hurricane Harvey, a category 4 hurricane, made landfall in Texas. So far, there has been 26 inches of rain, with more to come by the end of the week. Estimates are that there will be 50 inches of rain. This, in addition to the 130mph winds, causes incredible damage. This piece will be focused on how to help people in Houston who are suffering, but it can also apply to future crises. 
+Over this past weekend, Hurricane Harvey, a category 4 hurricane, made landfall in Texas. So far, there have been 26 inches of rain, with more to come by the end of the week. Estimates are that there will be 50 inches of rain in total. This, in addition to the 130mph winds, has and will cause incredible damage. Below are ways that you can help the people impacted by the hurricane.
 
 ## Donate money, supplies, or blood
 
-There are so many important, amazing organizations that are on the ground during times of need. There are large, national organizations like the [American Red Cross](http://www.redcrossblood.org/). And there are local organizations that also need your donations. So check out the list below for organizations to support during this difficult time. If you can't donate cash, you can also give blood and supplies.
+There are so many important, amazing organizations that are on the ground during times of need. There are large, national organizations like the [American Red Cross](http://www.redcrossblood.org/). And then there are local organizations that also need your donations. So check out the list below for organizations to support during this difficult time. If you can't donate cash, you can also give blood and supplies.
 
 * [Houston Food Bank](http://www.houstonfoodbank.org/)
 
@@ -53,11 +53,11 @@ There are so many important, amazing organizations that are on the ground during
 
 There's also the option of donating to the [GoFundMe](https://www.gofundme.com/hurricaneharvey) pages of those directly impacted.
 
-If you worry about the validity of a charity, check them out on [Charity Navigator](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5239) to make sure it's legit. [Do your research!](https://www.propublica.org/article/5-tips-for-donating-after-disasters)
+If you worry about the validity of a charity, check it out on [Charity Navigator](https://www.charitynavigator.org/index.cfm?bay=content.view&cpid=5239) to make sure it's legit. [Do your research!](https://www.propublica.org/article/5-tips-for-donating-after-disasters)
 
 ## Spread the word
 
-Maybe you don't have much money to spare. That's okay! You can still contribute by using your voice. Do you have friends or family in the affected area? Let them know who to call for help, or where to turn for support of any kind. No loved ones in the area? Let your friends know where they can donate and which organizations to support. Just because we are far away doesn't mean we can't help.
+Maybe you don't have much money to spare. Maybe you're unable to donate blood. That's okay! You can still contribute by using your voice. Do you have friends or family in the affected area? Let them know who to call for help, or where to turn for support of any kind. No loved ones in the area? Let your friends know where they can donate and which organizations to support. Just because we are far away doesn't mean we can't help.
 
 ## Open your home
 
