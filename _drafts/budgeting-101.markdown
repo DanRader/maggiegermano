@@ -1,6 +1,10 @@
 ---
 title: Budgeting 101
 date: 2017-09-04 11:00:00 -04:00
+categories:
+- Budget
+tags:
+- budgeting
 image: "/uploads/dollar-2df9ed.jpg"
 tweet: 'Don''t know where to star when it comes to your #budget? Check out this budgeting
   101 piece!'
