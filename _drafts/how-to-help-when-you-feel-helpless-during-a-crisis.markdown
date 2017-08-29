@@ -13,7 +13,7 @@ tags:
 - donation
 - personal finance
 - hurricane harvey
-image: "/uploads/storm.jpg"
+image: "/uploads/hurricane.jpg"
 tweet: 'How you can help during crises like #HurricaneHarvey: '
 posts:
 - Fight White Supremacy with Your Wallet and Your Voice
