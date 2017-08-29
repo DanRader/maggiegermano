@@ -20,9 +20,9 @@ posts:
 - Where You Can Put Your Money If You're Feeling Hopeless
 ---
 
-When a crisis is occurring and we are far away from it, we can feel either helpless or disinterested. When something doesn't impact us, it's easy to turn a blind eye. But as our world becomes more and more connected, it's more and more important to do what we can to help our fellow humans.
+When a crisis is occurring and we are far away from it, we can feel either helpless or indifferent. When something doesn't impact us personally, it's easy to turn a blind eye. But as our world becomes more and more connected, it's more and more important to do what we can to help our fellow humans.
 
-Over this past weekend, Hurricane Harvey, a category 4 hurricane, made landfall in Texas. 
+Over this past weekend, Hurricane Harvey, a category 4 hurricane, made landfall in Texas. So far, there has been 26 inches of rain, with more to come by the end of the week. Estimates are that there will be 50 inches of rain. This, in addition to the 130mph winds, causes incredible damage. This piece will be focused on how to help people in Houston who are suffering, but it can also apply to future crises. 
 
 ## Donate
 
