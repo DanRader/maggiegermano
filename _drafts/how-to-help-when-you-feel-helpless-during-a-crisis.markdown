@@ -1,6 +1,6 @@
 ---
 title: How to Help When You Feel Helpless During a Crisis
-date: 2017-08-28 15:53:00 -04:00
+date: 2017-08-29 11:00:00 -04:00
 categories:
 - lifestyle
 tags:
