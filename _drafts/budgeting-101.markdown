@@ -33,3 +33,5 @@ I want to start off by saying that, sadly, there is no one-size-fits-all approac
 ## 4. Figure out how much is left over
 
 ## 5. Identify where you can cut spending
+
+## 6. Readjust as needed
