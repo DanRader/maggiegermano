@@ -26,7 +26,11 @@ I want to start off by saying that, sadly, there is no one-size-fits-all approac
 
 ## 1. Figure out how much you earn each month
 
+This one can be easy, if you have a steady paycheck. All you have to do is look at your paystubs that come each month. 
+
 ## 2. Figure out how much you spend each month
+
+This part can be a little trickier and tedious. First, I would break this into two different categories: fixed/required expenses and flex spending. 
 
 ## 3. Don't forget about non-monthly expenses
 
