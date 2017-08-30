@@ -34,6 +34,8 @@ This part can be a little trickier and tedious. First, I would break this into t
 
 ## 3. Don't forget about non-monthly expenses
 
+Quarterly or annual expenses can be easy to forget. And they can throw you off your budget if you aren't prepared. So keep track of all of your non-monthly expenses. Put reminders in your calendar for right before you'll be charged for them. This exercise might even show that there are subscriptions or other bills you should cancel. 
+
 ## 4. Figure out how much is left over
 
 ## 5. Identify where you can cut spending
