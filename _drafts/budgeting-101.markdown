@@ -22,7 +22,7 @@ posts:
 
 *The blog theme this month is budgeting!*
 
-I want to start off by saying that, sadly, there is no one-size-fits-all approach to budgeting. People often ask me what budget template they should use, or how much they should be spending or saving. There's no easy answer because it always depends on the individual. It depends on your current circumstances, your long-term goals, and your personality.
+I want to start off by saying that, sadly, there is no one-size-fits-all approach to budgeting. People often ask me what budget template they should use, or how much they should be spending or saving. There's no easy answer because it always depends on the individual. It depends on your current circumstances, your long-term goals, and your personality. BUT once you figure out a budget that suits you, you'll be much better off. Let's dig in.
 
 ## 1. Figure out how much you earn each month
 
