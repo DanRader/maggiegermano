@@ -26,7 +26,7 @@ I want to start off by saying that, sadly, there is no one-size-fits-all approac
 
 ## 1. Figure out how much you earn each month
 
-This one can be easy, if you have a steady paycheck. All you have to do is look at your paystubs that come each month.
+This one can be easy, if you have a steady paycheck. All you have to do is look at your paystubs that come each month. If you get two consistent paychecks each month, add them up and that's your monthly income. That's the maximum number you should reach when it comes to your expenses and spending. 
 
 ## 2. Figure out how much you spend each month
 
@@ -39,6 +39,8 @@ If you don't want to link up to a budgeting program, you can do this part manual
 ## 3. Don't forget about non-monthly expenses
 
 Quarterly or annual expenses can be easy to forget. And they can throw you off your budget if you aren't prepared. So keep track of all of your [non-monthly expenses](https://www.maggiegermano.com/blog/prepare-for-non-monthly-expenses). Put reminders in your calendar for right before you'll be charged for them. This exercise might even show that there are subscriptions or other bills you should cancel. (The ClarityMoney app shows you any recurring payments that you have an gives you the option to cancel them through the app if you don't want them anymore.)
+
+If you want to be extra prepared for non-monthly expenses, set up a savings account just for them. I set aside money each month to cover things like renter's insurance, holiday and birthday gifts, yearly subscriptions, etc. I decided to do this after I was caught off guard by the $160 renter's insurance bill that only comes once a year. It's not much money over the course of the year, but it can break your monthly budget if you aren't ready for it. So, set up a savings account, and automate a monthly amount that will go into that account so that you always have enough to cover those costs. 
 
 ## 4. Figure out how much is left over
 
