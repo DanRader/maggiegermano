@@ -28,7 +28,7 @@ I want to start off by saying that, sadly, there is no one-size-fits-all approac
 
 This one can be easy, if you have a steady paycheck. All you have to do is look at your pay stubs that come each month. If you get two consistent paychecks each month, add them up and that's your monthly income. That's the maximum number you should reach when it comes to your expenses and spending. If you're spending more than what is coming in, you'll end up in debt. Ideally, you want to be spending more than a little bit less than you're earning, so that there is money leftover to save or put towards debt.
 
-Figuring out your monthly income can be trickier if you're a business owner, or if you are an hourly employer. 
+Figuring out your monthly income can be trickier if you're a business owner, or if you are an hourly employer. If your income varies due to these circumstances, 
 
 ## 2. Figure out how much you spend each month
 
