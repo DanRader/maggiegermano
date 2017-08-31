@@ -48,6 +48,6 @@ Once you account for all of your monthly (and non-monthly) spending, what's left
 
 ## 5. Identify where you can cut spending
 
-This process won't necessarily feel good, because you will be forced to face whether you're overspending or not. You may realize that your money habits are not reflecting your [values](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) or your long-term goals. 
+This process won't necessarily feel good, because you will be forced to face whether you're overspending or not. You may realize that your money habits are not reflecting your [values](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) or your long-term goals. That's okay! Most of us haven't been taught how to manage our money, and we especially haven't been taught to align our money with what means the most to us. So, feel the bad feelings and then forgive yourself. Going through this process is the first step to getting to where you want to go, so you're on the right track!
 
 ## 6. Readjust as needed
