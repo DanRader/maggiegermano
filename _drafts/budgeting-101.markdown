@@ -38,7 +38,7 @@ If you don't want to link up to a budgeting program, you can do this part manual
 
 ## 3. Don't forget about non-monthly expenses
 
-Quarterly or annual expenses can be easy to forget. And they can throw you off your budget if you aren't prepared. So keep track of all of your non-monthly expenses. Put reminders in your calendar for right before you'll be charged for them. This exercise might even show that there are subscriptions or other bills you should cancel. (The ClarityMoney app shows you any recurring payments that you have an gives you the option to cancel them through the app if you don't want them anymore.)
+Quarterly or annual expenses can be easy to forget. And they can throw you off your budget if you aren't prepared. So keep track of all of your [non-monthly expenses](https://www.maggiegermano.com/blog/prepare-for-non-monthly-expenses). Put reminders in your calendar for right before you'll be charged for them. This exercise might even show that there are subscriptions or other bills you should cancel. (The ClarityMoney app shows you any recurring payments that you have an gives you the option to cancel them through the app if you don't want them anymore.)
 
 ## 4. Figure out how much is left over
 
@@ -46,6 +46,6 @@ Once you account for all of your monthly (and non-monthly) spending, what's left
 
 ## 5. Identify where you can cut spending
 
-I mentioned values earlier
+This process won't necessarily feel good, because you will be forced to face whether you're overspending or not. You may realize that your money habits are not reflecting your [values](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) or your long-term goals. 
 
 ## 6. Readjust as needed
