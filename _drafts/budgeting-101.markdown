@@ -20,7 +20,7 @@ posts:
 - The Personal Finance Checklist To Make Sure You’re Financially Healthy
 ---
 
-*The blog theme this month is budgeting!*
+*The blog theme this month is all about budgeting!*
 
 I want to start off by saying that, sadly, there is no one-size-fits-all approach to budgeting. People often ask me what budget template they should use, or how much they should be spending or saving. There's no easy answer because it always depends on the individual. It depends on your current circumstances, your long-term goals, and your personality. BUT once you figure out a budget that suits you, you'll be much better off. Let's dig in.
 
