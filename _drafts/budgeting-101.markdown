@@ -46,7 +46,7 @@ If you want to be extra prepared for non-monthly expenses, set up a savings acco
 
 ## 4. Figure out how much is left over
 
-Once you account for all of your monthly (and non-monthly) spending, what's leftover? Is there anything leftover? Are you in the negative? If you have money leftover after paying
+Once you account for all of your monthly (and non-monthly) spending, what's leftover? Is there anything leftover? Are you in the negative? If you have money leftover after paying all your bills and doing your typical flex spending, you then decide what you want to do with it. 
 
 ## 5. Identify where you can cut spending
 
