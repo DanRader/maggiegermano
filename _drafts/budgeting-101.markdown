@@ -52,4 +52,6 @@ This process won't necessarily feel good, because you will be forced to face whe
 
 ## 6. Readjust as needed
 
+You'll likely have to stop going out to eat or drink as often. This might impact your relationships with your romantic partner or friends. 
+
 Maybe you need to [ask for a raise](https://www.maggiegermano.com/blog/how-to-ask-for-a-raise/) or start looking for a [higher paying](https://www.maggiegermano.com/blog/how-to-pick-a-salary-number-that-works-for-you/) job. 
