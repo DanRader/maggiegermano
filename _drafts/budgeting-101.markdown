@@ -24,6 +24,8 @@ posts:
 
 I want to start off by saying that, sadly, there is no one-size-fits-all approach to budgeting. People often ask me what budget template they should use, or how much they should be spending or saving. There's no easy answer because it always depends on the individual. It depends on your current circumstances, your long-term goals, and your personality. BUT once you figure out a budget that suits you, you'll be much better off. Let's dig in.
 
+> Sadly, there is no one-size-fits-all approach to budgeting.
+
 ## 1. Figure out how much you earn each month
 
 This one can be easy, if you have a steady paycheck. All you have to do is look at your pay stubs that come each month. If you get two consistent paychecks each month, add them up and that's your monthly income. That's the maximum number you should reach when it comes to your expenses and spending. If you're spending more than what is coming in, you'll end up in debt. Ideally, you want to be spending more than a little bit less than you're earning, so that there is money leftover to save or put towards debt.
