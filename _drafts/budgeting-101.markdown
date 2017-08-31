@@ -26,7 +26,7 @@ I want to start off by saying that, sadly, there is no one-size-fits-all approac
 
 ## 1. Figure out how much you earn each month
 
-This one can be easy, if you have a steady paycheck. All you have to do is look at your paystubs that come each month. If you get two consistent paychecks each month, add them up and that's your monthly income. That's the maximum number you should reach when it comes to your expenses and spending. 
+This one can be easy, if you have a steady paycheck. All you have to do is look at your paystubs that come each month. If you get two consistent paychecks each month, add them up and that's your monthly income. That's the maximum number you should reach when it comes to your expenses and spending. If you're spending more than what is coming in, you'll end up in debt. Ideally, you want to be spending more than a little bit less than you're earning, so that there is money leftover to save or put towards debt.
 
 ## 2. Figure out how much you spend each month
 
@@ -34,7 +34,7 @@ This part can be a little trickier and tedious. First, I would break this into t
 
 An easier way of doing this is to create an account with an app like ClarityMoney, Learnvest, Mint, etc. Link all of your accounts and the program will give you a breakdown of how you've been spending your money over time. You might have to go in and re-categorize some things, but this should give you a good idea of how much you're spending and on what.
 
-If you don't want to link up to a budgeting program, you can do this part manually. It will take longer, but it will likely give you a lot of clarity about your spending habits and where your money is actually going. 
+If you don't want to link up to a budgeting program, you can do this part manually. It will take longer, but it will likely give you a lot of clarity about your spending habits and where your money is actually going. I like to use Google Sheets for this kind of activity. Email me for a 
 
 ## 3. Don't forget about non-monthly expenses
 
@@ -51,3 +51,5 @@ Once you account for all of your monthly (and non-monthly) spending, what's left
 This process won't necessarily feel good, because you will be forced to face whether you're overspending or not. You may realize that your money habits are not reflecting your [values](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) or your long-term goals. That's okay! Most of us haven't been taught how to manage our money, and we especially haven't been taught to align our money with what means the most to us. So, feel the bad feelings and then forgive yourself. Going through this process is the first step to getting to where you want to go, so you're on the right track!
 
 ## 6. Readjust as needed
+
+Maybe you need to [ask for a raise](https://www.maggiegermano.com/blog/how-to-ask-for-a-raise/) or start looking for a [higher paying](https://www.maggiegermano.com/blog/how-to-pick-a-salary-number-that-works-for-you/) job. 
