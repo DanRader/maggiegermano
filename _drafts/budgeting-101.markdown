@@ -54,8 +54,6 @@ Once you account for all of your monthly (and non-monthly) spending, what's left
 
 This process won't necessarily feel good, because you will be forced to face whether you're overspending or not. You may realize that your money habits are not reflecting your [values](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) or your long-term goals. That's okay! Most of us haven't been taught how to manage our money, and we definitely haven't been taught to align our money with what means the most to us. So, let yourself feel the bad feelings and then forgive yourself. Going through this process is the first step to getting to where you want to go, so you're on the right track!
 
-Once you get through that, take an honest look at where you can cut your spending. This might mean that you have to adjust your habits and lifestyle. You'll likely have to [stop going out](https://www.maggiegermano.com/blog/spend-less-money) to eat or drink as often. This might impact your relationships with your romantic partner or friends.
+Once you get through that, take an honest look at where you can cut your spending. This might mean that you have to adjust your habits and lifestyle. You'll likely have to [stop going out](https://www.maggiegermano.com/blog/spend-less-money) to eat or drink as often. This might impact your relationships with your [romantic partner](https://www.maggiegermano.com/blog/have-the-money-talk) or friends. So make sure that you [talk to them](https://www.maggiegermano.com/blog/how-to-talk-to-your-friends-about-money/) about it. 
 
-## 
-
-Maybe you need to [ask for a raise](https://www.maggiegermano.com/blog/how-to-ask-for-a-raise/) or start looking for a [higher paying](https://www.maggiegermano.com/blog/how-to-pick-a-salary-number-that-works-for-you/) job.
+Sometimes, we've cut all the spending that we possibly can, and the only option is to earn more. Therefore, it may be time to [ask for a raise](https://www.maggiegermano.com/blog/how-to-ask-for-a-raise/) or start looking for a [higher paying](https://www.maggiegermano.com/blog/how-to-pick-a-salary-number-that-works-for-you/) job.
