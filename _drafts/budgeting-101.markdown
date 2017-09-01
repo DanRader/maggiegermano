@@ -48,14 +48,14 @@ If you want to be extra prepared for non-monthly expenses, set up a savings acco
 
 ## 4. Figure out how much is left over
 
-Once you account for all of your monthly (and non-monthly) spending, what's leftover? Is there anything leftover? Are you in the negative? If you have money leftover after paying all your bills and doing your typical flex spending, you then decide what you want to do with it. 
+Once you account for all of your monthly (and non-monthly) spending, what's leftover? Is there anything leftover? Are you in the negative? If you have money leftover after paying all your bills and doing your typical flex spending, you then decide what you want to do with it. If you realize that there isn't anything or enough leftover, you may have to make some changes. Which leads me to...
 
 ## 5. Identify where you can cut spending
 
 This process won't necessarily feel good, because you will be forced to face whether you're overspending or not. You may realize that your money habits are not reflecting your [values](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) or your long-term goals. That's okay! Most of us haven't been taught how to manage our money, and we definitely haven't been taught to align our money with what means the most to us. So, let yourself feel the bad feelings and then forgive yourself. Going through this process is the first step to getting to where you want to go, so you're on the right track!
 
-## 6. Readjust as needed
+Once you get through that, take an honest look at where you can cut your spending. This might mean that you have to adjust your habits and lifestyle. You'll likely have to [stop going out](https://www.maggiegermano.com/blog/spend-less-money) to eat or drink as often. This might impact your relationships with your romantic partner or friends.
 
-If you're like most of us, you probably need to readjust your current spending habits and lifestyle. You'll likely have to [stop going out](https://www.maggiegermano.com/blog/spend-less-money) to eat or drink as often. This might impact your relationships with your romantic partner or friends. It's important for you to make those changes for yourself 
+## 
 
 Maybe you need to [ask for a raise](https://www.maggiegermano.com/blog/how-to-ask-for-a-raise/) or start looking for a [higher paying](https://www.maggiegermano.com/blog/how-to-pick-a-salary-number-that-works-for-you/) job.
