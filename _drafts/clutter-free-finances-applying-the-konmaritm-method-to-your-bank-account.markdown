@@ -12,6 +12,12 @@ tags:
 - budgeting
 image: "/uploads/Jenny-110.jpg"
 author: Jenny Albertini
+author-image: "/uploads/Jenny-A-for-Maggie.jpg"
+tweet: 'Need to simplify your finances? Check out this guest post by #DeclutterDC!'
+posts:
+- Budgeting 101
+- How to Create a Budget that Works for You
+- 5 Ways to Practice Self Care While on a Budget
 ---
 
 If you are feeling bogged down by the clutter in your home (and maybe also humidity in DC these days?), then going through your things mindfully can help you create a space that reflects who you are in your life now.  But what about your finances?  Many of us get into a routine of not checking bills that get automatically deducted from our accounts, don’t add up our happy hour spending week to week, and buy summer clothing we see online, all while assuming our money is doing what it is supposed to because our checking account balances ‘seem fine.’
