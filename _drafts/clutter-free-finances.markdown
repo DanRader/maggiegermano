@@ -25,7 +25,7 @@ If you are feeling bogged down by the clutter in your home (and maybe also humid
 > “The question of what you want to own is actually the question of how you want to live your life.”
 > -Marie Kondo
 
-Instead of looking the other way at what is happening in your bank account, a more mindful approach can actually improve your financial health.  Take a page from Marie Kondo and her book, ‘The Life Changing Magic of Tidying Up’.  She addresses how to set up your home only with things that spark joy and are useful, principles which can also be applied to your finances.  Here are some tips using her KonMariTM method to give you structure and compassion in this process so that you can move forward towards financial freedom with a clutter-free bank account.
+Instead of looking the other way at what is happening in your bank account, a more mindful approach can actually improve your financial health.  Take a page from [Marie Kondo](https://konmari.com/) and her book, ‘The Life Changing Magic of Tidying Up’.  She addresses how to set up your home only with things that spark joy and are useful, principles which can also be applied to your finances.  Here are some tips using her KonMariTM method to give you structure and compassion in this process so that you can move forward towards financial freedom with a clutter-free bank account.
 
 ## Visualize Your Ideal Financial Situation
 
@@ -37,7 +37,7 @@ Go through your financial expenses by category (housing, student loans, internet
 
 ## Focus on Joy
 
-A main principle of the KonMariTM method is that we should focus on keeping the things that bring us joy or are useful.  Maybe paying your rent isn’t joyful, but it sure is necessary.  But this is where you can look at what purchases you have made that brought you the most joy; maybe it was a trip to France with your partner, or the veggie spiralizer you bought last year that changed the way you cook. The things that bring joy to your life are what you should prioritize saving for and spending money on as you move forward.  Focus your finances on the things that matter, as opposed to mindless spending that takes your time, attention, and funds away from the important stuff.  Be sure to leave space for new items that pop up: emergency vet bills, finally finding that antique table you have been looking for online for months, etc.  You want to be able to have space in your finances to grow into the life you are setting up for yourself.
+A main principle of the KonMari method is that we should focus on keeping the things that bring us joy or are useful.  Maybe paying your rent isn’t joyful, but it sure is necessary.  But this is where you can look at what purchases you have made that brought you the most joy; maybe it was a trip to France with your partner, or the veggie spiralizer you bought last year that changed the way you cook. The things that bring joy to your life are what you should prioritize saving for and spending money on as you move forward.  Focus your finances on the things that matter, as opposed to mindless spending that takes your time, attention, and funds away from the important stuff.  Be sure to leave space for new items that pop up: emergency vet bills, finally finding that antique table you have been looking for online for months, etc.  You want to be able to have space in your finances to grow into the life you are setting up for yourself.
 
 ## Honor the Past
 
