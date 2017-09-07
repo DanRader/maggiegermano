@@ -2,6 +2,9 @@
 title: 'Clutter-free Finances: Applying the KonMari Method to Your Bank Account'
 date: 2017-09-11 11:00:00 -04:00
 published: false
+categories:
+- budget
+- lifestyle
 tags:
 - declutter dc
 - konmari method
