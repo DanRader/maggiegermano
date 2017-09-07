@@ -17,7 +17,7 @@ tags:
 image: "/uploads/Jenny-110.jpg"
 author: Jenny Albertini
 author-image: "/uploads/Jenny-A-for-Maggie.jpg"
-tweet: 'Need to simplify your finances? Check out this guest post by #DeclutterDC!'
+tweet: 'Need to simplify your finances? Check out this guest post by Jenny at #DeclutterDC!'
 posts:
 - Budgeting 101
 - How to Create a Budget that Works for You
