@@ -16,6 +16,7 @@ tags:
 - budgeting
 image: "/uploads/Jenny-110.jpg"
 author: Jenny Albertini
+author-desc: Owner and COO of Declutter DC. DC-based KonMari consultant.
 author-image: "/uploads/Jenny-A-for-Maggie.jpg"
 tweet: 'Need to simplify your finances? Check out this guest post by Jenny at #DeclutterDC!'
 posts:
