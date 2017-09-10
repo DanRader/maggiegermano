@@ -32,13 +32,13 @@ There are several next steps, depending on what you're most comfortable with:
 
 **1. Check if your information is affected**
 
-Like I said, it's highly likely that your information was accessed by the hackers. But to be sure, go to the [website](https://www.equifaxsecurity2017.com/potential-impact/) that Experian set up and check. I'm not 100% sure that this form has an accurate response, or if they're just telling everyone that they *may* be affected. I'm hoping that they directly contact those of us whose information has actually been stolen. 
+Like I said, it's highly likely that your information was accessed by the hackers. But to be sure, go to the [website](https://www.equifaxsecurity2017.com/potential-impact/) that Experian set up and check. I'm not 100% sure that this form has an accurate response, or if they're just telling everyone that they *may* be affected. I'm hoping that they directly contact those of us whose information has actually been stolen.
 
 **2. Enroll in their free credit monitoring plan**
 
 Experian is offering free credit monitoring to those who are affected by the breach. This means that for one year, you'll get an alert every time your credit is accessed. This makes it so that you're aware if someone is trying to open accounts in your name. However, there is fine print in this seemingly generous offer. By enrolling in the plan, you're waiving your right to sue Experian if your identity is stolen and your credit is damaged. Personally, I feel less protected when they throw that little clause in.
 
-*If you want to enroll:* Once you check [if your information has been impacted](https://www.equifaxsecurity2017.com/potential-impact/), they give you the option to enroll in the plan. When you click through, they will tell you what date you're eligible to sign up. For example, I'm eligible on September 12th. 
+*If you want to enroll:* Once you check [if your information has been impacted](https://www.equifaxsecurity2017.com/potential-impact/), they give you the option to enroll in the plan. When you click through, they will tell you what date you're eligible to sign up. For example, I'm eligible on September 12th.
 
 **3. Enroll in a different credit monitoring plan**
 
@@ -50,7 +50,7 @@ I've written about checking your [credit report](https://www.maggiegermano.com/b
 
 **5. Freeze your credit**
 
-If you don't want to even risk having your identity stolen, another option is to[freeze your credit](https://www.washingtonpost.com/news/the-switch/wp/2017/09/09/after-the-equifax-breach-heres-how-to-freeze-your-credit-to-protect-your-identity/?utm_term=.244cd813f9e9). This means that it will be more difficult for new credit accounts to be opened in your name. Only your existing lenders and debt collectors will be able to pull your credit. That means identity thieves wouldn't be able to open accounts in your name, so you would be in the clear. Depending on where you live, freezing your credit can cost between $5 and $10 for each bureau, for a total of $15 to $30. That's not a big expense if it prevents your identity from being stolen. 
+If you don't want to even risk having your identity stolen, another option is to [freeze your credit](https://www.washingtonpost.com/news/the-switch/wp/2017/09/09/after-the-equifax-breach-heres-how-to-freeze-your-credit-to-protect-your-identity/?utm_term=.244cd813f9e9). This means that it will be more difficult for new credit accounts to be opened in your name. Only your existing lenders and debt collectors will be able to pull your credit. That means identity thieves wouldn't be able to open accounts in your name, so you would be in the clear. Depending on where you live, freezing your credit can cost between $5 and $10 for each bureau, for a total of $15 to $30. That's not a big expense if it prevents your identity from being stolen.
 
 Later on, if you want to lift the freeze, you can do so by calling the bureaus. You can even lift the freeze for a limited amount of time, say, if you want to open a new credit card account or buy a car. There is likely a small fee associated with this as well.
 
