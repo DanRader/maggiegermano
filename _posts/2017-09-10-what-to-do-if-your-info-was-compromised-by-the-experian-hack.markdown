@@ -1,6 +1,6 @@
 ---
 title: What to Do If Your Info Was Compromised by the Experian Hack
-date: 2017-09-09 22:40:00 -04:00
+date: 2017-09-10 09:00:00 -04:00
 published: false
 categories:
 - Credit
@@ -15,6 +15,11 @@ tags:
 - financial health
 - experian
 - experian hack
+image: "/uploads/computer-c27ede.jpg"
+posts:
+- Why You Should Care About Your Credit Score
+- Why You Should Check Your Credit Report Regularly
+- The Personal Finance Checklist To Make Sure You’re Financially Healthy
 ---
 
 I'm sure by now you've heard about the [Experian breach](http://www.latimes.com/business/technology/la-fi-tn-equifax-data-breach-20170907-story.html). If not, the quick story is that the social security numbers, birthdates, names, and addresses of 143 million Americans have been compromised and accessed by hackers. This means that there's about a 43% chance that your information is part of that. So what does this mean and what should you do?\
