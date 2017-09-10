@@ -24,7 +24,7 @@ ticket-price: "$20"
 
 If you're like many Americans, you probably don't know much about taxes. Yes, you see them taken out of your paychecks and you know you have to file your taxes before April 15th. But what does all of that really mean? Where does your tax money go? What do you need to know about potential tax policy changes that could impact you?
 
-Join Money Circle, in conjunction with [Generation Progress](http://genprogress.org/), to learn the answers to these questions! XX will be in attendance to answer your questions and discuss how national conversations and proposals on taxes could impact millennial women.
+Join the October Money Circle to learn the answers to these questions! Hannah Finnie from youth advocate organization [Generation Progress](http://genprogress.org/) will be in attendance to discuss how national conversations and proposals on taxes could impact millennial women.
 
 --
 
