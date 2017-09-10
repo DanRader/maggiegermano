@@ -18,6 +18,7 @@ event-date: 2017-10-04 18:30:00 -04:00
 start-time: 6:30PM
 end-time: 8:30PM
 location: Cherry Blossom Creative (2128 8th St NW)
+button-link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7YMXU3LSSYLVA
 ticket-price: "$20"
 ---
 
