@@ -1,5 +1,5 @@
 ---
-title: What to Do If Your Info Was Compromised by the Experian Hack
+title: What to Do If Your Info Was Compromised by the Equifax Hack
 date: 2017-09-10 09:00:00 -04:00
 categories:
 - Credit
@@ -12,8 +12,6 @@ tags:
 - money
 - personal finance
 - financial health
-- experian
-- experian hack
 image: "/uploads/computer-c27ede.jpg"
 tweet: 'Worried about the #Experian hack? Here''s what you can do next. #credit'
 posts:
@@ -23,7 +21,7 @@ posts:
 future: true
 ---
 
-I'm sure by now you've heard about the [Experian breach](http://www.latimes.com/business/technology/la-fi-tn-equifax-data-breach-20170907-story.html). If not, the quick story is that the social security numbers, birthdates, names, and addresses of 143 million Americans have been compromised and accessed by hackers. This means that there's about a 43% chance that your information is part of that. So what does this mean and what should you do?
+I'm sure by now you've heard about the [Equifax breach](http://www.latimes.com/business/technology/la-fi-tn-equifax-data-breach-20170907-story.html). If not, the quick story is that the social security numbers, birthdates, names, and addresses of 143 million Americans have been compromised and accessed by hackers. This means that there's about a 43% chance that your information is part of that. So what does this mean and what should you do?
 
 First of all, this breach means that you're vulnerable to identity theft. This information is what someone needs in order to open accounts in your name. These could be credit cards, utility accounts, loans, and more. They then wouldn't need to actually pay for these things in the long run, because it's not their life. If you don't catch the identity theft and have it dealt with and removed from your record, it can ruin your credit. Read more about [why your credit score matters](https://www.maggiegermano.com/blog/care-about-your-credit-score).
 
@@ -31,21 +29,21 @@ There are several next steps, depending on what you're most comfortable with:
 
 **1. Check if your information is affected**
 
-Like I said, it's highly likely that your information was accessed by the hackers. But to be sure, go to the [website](https://www.equifaxsecurity2017.com/potential-impact/) that Experian set up and check. I'm not 100% sure that this form has an accurate response, or if they're just telling everyone that they *may* be affected. I'm hoping that they directly contact those of us whose information has actually been stolen.
+Like I said, it's highly likely that your information was accessed by the hackers. But to be sure, go to the [website](https://www.equifaxsecurity2017.com/potential-impact/) that Equifax set up and check. I'm not 100% sure that this form has an accurate response, or if they're just telling everyone that they *may* be affected. I'm hoping that they directly contact those of us whose information has actually been stolen.
 
 **2. Enroll in their free credit monitoring plan**
 
-Experian is offering free credit monitoring to those who are affected by the breach. This means that for one year, you'll get an alert every time your credit is accessed. This makes it so that you're aware if someone is trying to open accounts in your name. However, there is fine print in this seemingly generous offer. By enrolling in the plan, you're waiving your right to sue Experian if your identity is stolen and your credit is damaged. Personally, I feel less protected when they throw that little clause in.
+Experian is offering free credit monitoring to those who are affected by the breach. This means that for one year, you'll get an alert every time your credit is accessed. This makes it so that you're aware if someone is trying to open accounts in your name. However, there is fine print in this seemingly generous offer. By enrolling in the plan, you're waiving your right to sue Equifax if your identity is stolen and your credit is damaged. Personally, I feel less protected when they throw that little clause in.
 
 *If you want to enroll:* Once you check [if your information has been impacted](https://www.equifaxsecurity2017.com/potential-impact/), they give you the option to enroll in the plan. When you click through, they will tell you what date you're eligible to sign up. For example, I'm eligible on September 12th.
 
 **3. Enroll in a different credit monitoring plan**
 
-Like I said above, there is fine print on Experian's offer. However, there are other free programs like [Credit Sesame](http://www.creditsesame.com/). Not only does Credit Sesame give you your credit score for free, but it will also alert you if any new accounts have been opened in your name. You will get an email if someone has pulled your credit report. If you get an alert, but you didn't open a new account, you can reach out to the credit bureaus and [dispute it](https://www.creditkarma.com/article/dispute-credit-report-errors).
+Like I said above, there is fine print on Equifax's offer. However, there are other free programs like [Credit Sesame](http://www.creditsesame.com/). Not only does Credit Sesame give you your credit score for free, but it will also alert you if any new accounts have been opened in your name. You will get an email if someone has pulled your credit report. If you get an alert, but you didn't open a new account, you can reach out to the credit bureaus and [dispute it](https://www.creditkarma.com/article/dispute-credit-report-errors).
 
 **4. Check your credit report regularly**
 
-I've written about checking your [credit report](https://www.maggiegermano.com/blog/check-your-credit-report) in the past. You should pull your report regularly to make sure nothing sketchy is on there. Each of the three credit bureaus (one of which is Experian...) are required to provide a free credit report once a year. So you can pull your credit report three times a year for free (once from each bureau) at [www.annualcreditreport.com](http://www.annualcreditreport.com/). Not only will you see where you stand in terms of your credit history, but you'll catch any fraudulent or erroneous items on your report.
+I've written about checking your [credit report](https://www.maggiegermano.com/blog/check-your-credit-report) in the past. You should pull your report regularly to make sure nothing sketchy is on there. Each of the three credit bureaus (one of which is Equifax...) are required to provide a free credit report once a year. So you can pull your credit report three times a year for free (once from each bureau) at [www.annualcreditreport.com](http://www.annualcreditreport.com/). Not only will you see where you stand in terms of your credit history, but you'll catch any fraudulent or erroneous items on your report.
 
 **5. Freeze your credit**
 
