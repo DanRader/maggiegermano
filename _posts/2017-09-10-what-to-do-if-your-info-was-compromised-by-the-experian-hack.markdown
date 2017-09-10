@@ -20,6 +20,7 @@ posts:
 - Why You Should Care About Your Credit Score
 - Why You Should Check Your Credit Report Regularly
 - The Personal Finance Checklist To Make Sure You’re Financially Healthy
+future: true
 ---
 
 I'm sure by now you've heard about the [Experian breach](http://www.latimes.com/business/technology/la-fi-tn-equifax-data-breach-20170907-story.html). If not, the quick story is that the social security numbers, birthdates, names, and addresses of 143 million Americans have been compromised and accessed by hackers. This means that there's about a 43% chance that your information is part of that. So what does this mean and what should you do?\
