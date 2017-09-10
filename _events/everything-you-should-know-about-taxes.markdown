@@ -1,7 +1,6 @@
 ---
 title: Everything You Should Know About Taxes
 date: 2017-10-04 18:30:00 -04:00
-published: false
 tags:
 - taxes
 - money circle
