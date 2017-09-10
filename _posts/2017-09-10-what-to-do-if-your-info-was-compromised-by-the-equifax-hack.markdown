@@ -13,7 +13,7 @@ tags:
 - personal finance
 - financial health
 image: "/uploads/computer-c27ede.jpg"
-tweet: 'Worried about the #Experian hack? Here''s what you can do next. #credit'
+tweet: 'Worried about the #Equifax hack? Here''s what you can do next. #credit'
 posts:
 - Why You Should Care About Your Credit Score
 - Why You Should Check Your Credit Report Regularly
