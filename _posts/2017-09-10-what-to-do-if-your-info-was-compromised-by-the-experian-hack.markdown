@@ -1,7 +1,6 @@
 ---
 title: What to Do If Your Info Was Compromised by the Experian Hack
 date: 2017-09-10 09:00:00 -04:00
-published: false
 categories:
 - Credit
 tags:
