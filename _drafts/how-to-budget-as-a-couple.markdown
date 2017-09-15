@@ -30,6 +30,10 @@ So now that you've had the money talk,
 
 # Create a shared spreadsheet
 
+It's always easier to stick to a budget when you have it written down or tracked somewhere. Budgeting as a couple is no different. Create a simple spreadsheet in Google Sheets or sign up for a program like Honeyfi. 
+
 # Make sure the bills are getting paid
+
+I'm sure few things shake up a relationship more than someone forgetting to pay a utility bill or the rent.
 
 # Set up "money dates"
