@@ -18,7 +18,7 @@ tweet: 'It doesn''t have to be hard to #budget with your #partner. Learn how! #m
   #love'
 posts:
 - 'Clutter-free Finances: Applying the KonMari Method to Your Bank Account'
-- Budgeting 101
+- Financial Infidelity and the Damage it Does
 - How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
 ---
 
