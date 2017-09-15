@@ -38,4 +38,4 @@ I'm sure few things shake up a relationship more than someone forgetting to pay 
 
 # Set up "money dates"
 
-Yes, you've had the money talk and created a joint budget. That's great! But things do tend to change over time. To stay on the same page, you should set up regular money dates with your partner. 
+Yes, you've had the money talk and created a joint budget. That's great! But things do tend to change over time. To stay on the same page, you should set up regular money dates with your partner. You can use these dates to review your spending, see if you need to adjust your budget, or discuss if priorities need to shift. It keeps financial communication open, which is very beneficial to your relationship in the long term. These dates don't have to be every week. They can be monthly or even quarterly. Just make sure they are a regular habit so that important things don't go unsaid.
