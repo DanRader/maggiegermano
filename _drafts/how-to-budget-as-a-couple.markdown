@@ -30,7 +30,7 @@ So now that you've had the money talk,
 
 # Create a shared spreadsheet
 
-It's always easier to stick to a budget when you have it written down or tracked somewhere. Budgeting as a couple is no different. Create a simple spreadsheet in Google Sheets or sign up for a program like Honeyfi. 
+It's always easier to stick to a budget when you have it written down or tracked somewhere. Budgeting as a couple is no different. Create a simple spreadsheet in [Google Sheets](https://www.google.com/sheets/about/) or sign up for a program like [Honeyfi](http://www.honeyfi.com/). 
 
 # Make sure the bills are getting paid
 
