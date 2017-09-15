@@ -34,7 +34,7 @@ It's always easier to stick to a budget when you have it written down or tracked
 
 # Make sure the bills are getting paid
 
-I'm sure few things shake up a relationship more than someone forgetting to pay a utility bill or the rent.
+I'm sure few things shake up a relationship more than someone forgetting to pay a utility bill or the rent. Decide who should be responsible for paying which bills. For example, I pay all the bills in my household, because I'm better at keeping track and making sure everything is paid on time. (Not to mention [I'm a financial coach](https://www.maggiegermano.com/coaching/).) 
 
 # Set up "money dates"
 
