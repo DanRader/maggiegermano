@@ -37,3 +37,5 @@ It's always easier to stick to a budget when you have it written down or tracked
 I'm sure few things shake up a relationship more than someone forgetting to pay a utility bill or the rent.
 
 # Set up "money dates"
+
+Yes, you've had the money talk and created a joint budget. That's great! But things do tend to change over time. To stay on the same page, you should set up regular money dates with your partner. 
