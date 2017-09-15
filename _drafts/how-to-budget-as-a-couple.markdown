@@ -22,4 +22,6 @@ posts:
 - How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
 ---
 
-I've previously written about how you should [talk to your romantic partner](https://www.maggiegermano.com/blog/have-the-money-talk) about money. It's so important to have an open dialogue about finances. Money is connected to a lot of the aspects of life, and often the hang-ups that we have. So in order to be honest with each other, and able to plan for the future, we need 
+I've previously written about how you should [talk to your romantic partner](https://www.maggiegermano.com/blog/have-the-money-talk) about money. It's so important to have an open dialogue about finances. Money is connected to a lot of the aspects of life, and often the hang-ups that we have. So in order to be honest with each other, and able to plan for the future, we need to work together.
+
+So now that you've had the money talk, 
