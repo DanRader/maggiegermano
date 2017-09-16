@@ -22,7 +22,7 @@ posts:
 - How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
 ---
 
-I'm not sure if you know this, but money is pervasive in all areas of our lives. It can influence how we feel about ourselves, it can determine the choices we are able to make, and it can impact our relationships with others. In fact, money is one of the top causes of relationship discord. 
+I'm not sure if you know this, but money is pervasive in all areas of our lives. And it sure is tricky. It can influence how we feel about ourselves, it can determine the choices we are able to make, and it can impact our relationships with others. In fact, money is one of the top causes of relationship discord. That's why it's so important to be open about money and our financial 
 
 # Have the money talk
 
@@ -34,14 +34,14 @@ This part can be tricky and maybe a little emotional. The easiest thing to do is
 
 # Create a shared spreadsheet
 
-It's always easier to stick to a [budget](https://www.maggiegermano.com/blog/budgeting-101/) when you have it written down or tracked somewhere. Budgeting as a couple is no different. Create a simple spreadsheet in [Google Sheets](https://www.google.com/sheets/about/) or sign up for a program like [Honeyfi](http://www.honeyfi.com/). This way, both of you can see where you stand at any given time. 
+It's always easier to stick to a [budget](https://www.maggiegermano.com/blog/budgeting-101/) when you have it written down or tracked somewhere. Budgeting as a couple is no different. Create a simple spreadsheet in [Google Sheets](https://www.google.com/sheets/about/) or sign up for a program like [Honeyfi](http://www.honeyfi.com/). This way, both of you can see where you stand at any given time. Just make sure someone is actually checking and updating it!
 
 # Make sure the bills are getting paid
 
-I'm sure few things shake up a relationship more than someone forgetting to pay a utility bill or the rent. Decide who should be responsible for paying which bills. For example, I pay all the bills in my household, because I'm better at keeping track and making sure everything is paid on time. (Not to mention [I'm a financial coach](https://www.maggiegermano.com/coaching/).) 
+I'm sure few things shake up a relationship more than someone forgetting to pay a utility bill or the rent. Decide who should be responsible for paying which bills. For example, I pay all the bills in my household, because I'm better at keeping track and making sure everything is paid on time. (Not to mention [I'm a financial coach](https://www.maggiegermano.com/coaching/).) If no one wants to take the lead on this within your relationship, set up auto-pay. Have the amount owed deducted from your bank account on the same day each month. Just make sure you always have enough money so you don't overdraft. 
 
 # Set up "money dates"
 
-Yes, you've had the money talk and created a joint budget. That's great! But things do tend to change over time. To stay on the same page, you should set up regular money dates with your partner. You can use these dates to review your spending, see if you need to adjust your budget, or discuss if priorities need to shift. It keeps financial communication open, which is very beneficial to your relationship in the long term. These dates don't have to be every week. They can be monthly or even quarterly. Just make sure they are a regular habit so that important things don't go unsaid.
+Yes, you've had the money talk and created a joint budget. That's great! But things do tend to change over time. It's easy to get off track as life goes on. To stay on the same page, you should set up regular money dates with your partner. You can use these dates to review your spending, see if you need to adjust your budget, or discuss if priorities need to shift. It keeps financial communication open, which is very beneficial to your relationship in the long term. These dates don't have to be every week. They can be monthly or even quarterly. Just make sure they are a regular habit so that important things don't go unsaid.
 
 *Have you had success in budgeting with your partner? Have you had difficulty? Share in the comments!*
