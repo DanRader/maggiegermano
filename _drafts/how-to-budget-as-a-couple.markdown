@@ -22,7 +22,7 @@ posts:
 - How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
 ---
 
-I'm not sure if you know this, but money is pervasive in all areas of our lives. And it sure is tricky. It can influence how we feel about ourselves, it can determine the choices we are able to make, and it can impact our relationships with others. In fact, money is one of the top causes of relationship discord. That's why it's so important to be open about money and our financial 
+I'm not sure if you know this, but money is pervasive in all areas of our lives. And it sure is tricky. It can influence how we feel about ourselves, it can determine the choices we are able to make, and it can impact our relationships with others. In fact, money is one of the top causes of relationship discord. That's why it's so important to be open about money and our financial situation, especially with our romantic partners. So if you're merging finances with your partner, here's how to prepare and manage your budget.
 
 # Have the money talk
 
