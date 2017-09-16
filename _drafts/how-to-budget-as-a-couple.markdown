@@ -17,15 +17,16 @@ image: "/uploads/birds.jpg"
 tweet: 'It doesn''t have to be hard to #budget with your #partner. Learn how! #money
   #love'
 posts:
-- 'Clutter-free Finances: Applying the KonMari Method to Your Bank Account'
+- How to Create a Budget that Works for You
 - Financial Infidelity and the Damage it Does
 - How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
 ---
 
+I'm not sure if you know this, but money is pervasive in all areas of our lives. It can influence how we feel about ourselves, it can determine the choices we are able to make, and it can impact our relationships with others. In fact, money is one of the top causes of relationship discord. 
 
 # Have the money talk
 
-I've previously written about how you should [talk to your romantic partner](https://www.maggiegermano.com/blog/have-the-money-talk) about money. It's so important to have an open dialogue about finances. Money is connected to a lot of the aspects of life, and often the hang-ups that we have. So in order to be honest with each other, and able to plan for the future, we need to work together.
+I've previously written about how you should [talk to your romantic partner](https://www.maggiegermano.com/blog/have-the-money-talk) about money. It's so important to have an open dialogue about finances. Money is connected to a lot of the aspects of life, and often the hang-ups that we have. So in order to be honest with each other, and able to plan for the future, we need to work together. We also need to 
 
 # Decide how you'll split expenses
 
@@ -42,3 +43,5 @@ I'm sure few things shake up a relationship more than someone forgetting to pay 
 # Set up "money dates"
 
 Yes, you've had the money talk and created a joint budget. That's great! But things do tend to change over time. To stay on the same page, you should set up regular money dates with your partner. You can use these dates to review your spending, see if you need to adjust your budget, or discuss if priorities need to shift. It keeps financial communication open, which is very beneficial to your relationship in the long term. These dates don't have to be every week. They can be monthly or even quarterly. Just make sure they are a regular habit so that important things don't go unsaid.
+
+*Have you had success in budgeting with your partner? Have you had difficulty? Share in the comments!*
