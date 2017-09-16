@@ -34,7 +34,7 @@ This part can be tricky and maybe a little emotional. The easiest thing to do is
 
 # Create a shared spreadsheet
 
-It's always easier to stick to a [budget](https://www.maggiegermano.com/blog/budgeting-101/) when you have it written down or tracked somewhere. Budgeting as a couple is no different. Create a simple spreadsheet in [Google Sheets](https://www.google.com/sheets/about/) or sign up for a program like [Honeyfi](http://www.honeyfi.com/). 
+It's always easier to stick to a [budget](https://www.maggiegermano.com/blog/budgeting-101/) when you have it written down or tracked somewhere. Budgeting as a couple is no different. Create a simple spreadsheet in [Google Sheets](https://www.google.com/sheets/about/) or sign up for a program like [Honeyfi](http://www.honeyfi.com/). This way, both of you can see where you stand at any given time. 
 
 # Make sure the bills are getting paid
 
