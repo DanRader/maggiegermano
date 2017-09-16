@@ -26,11 +26,11 @@ I'm not sure if you know this, but money is pervasive in all areas of our lives.
 
 # Have the money talk
 
-I've previously written about how you should [talk to your romantic partner](https://www.maggiegermano.com/blog/have-the-money-talk) about money. It's so important to have an open dialogue about finances. Money is connected to a lot of the aspects of life, and often the hang-ups that we have. So in order to be honest with each other, and able to plan for the future, we need to work together. We also need to 
+I've previously written about how you should [talk to your romantic partner](https://www.maggiegermano.com/blog/have-the-money-talk) about money. It's so important to have an open dialogue about finances. Money is connected to a lot of the aspects of life, and often the hang-ups that we have. So in order to be honest with each other, and able to plan for the future, we need to work together. We also need to know where our partners stand, financially. Find out if your partner has debt, and how much. Make sure you also share your own financial situation. The more honest you are, the better off you'll be.
 
 # Decide how you'll split expenses
 
-This part can be tricky and maybe a little emotional. The easiest thing to do is to just split everything 50/50. However, it's not always that simple. Sometimes, when one person makes significantly more money than the other, it makes most sense to divide expenses more equitably. This means that the person who earns more would pay a larger percentage of the costs. This could mean that they pay more in rent, or 
+This part can be tricky and maybe a little emotional. The easiest thing to do is to just split everything 50/50. However, it's not always that simple. Sometimes, when one person makes significantly more money than the other, it makes most sense to divide expenses equitably. This means that the person who earns more would pay a larger percentage of the costs. This could mean that they pay more in rent, or that they cover things like groceries, etc. The numbers will really depend on the individual situation, so make sure you talk openly about what will work for both of you. This can always change later as circumstances shift.
 
 # Create a shared spreadsheet
 
