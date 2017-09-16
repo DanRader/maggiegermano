@@ -28,6 +28,8 @@ So now that you've had the money talk,
 
 # Decide how you'll split expenses
 
+This part can be tricky and maybe a little emotional. The easiest thing to do is to just split everything 50/50. However, it's not always that simple. Sometimes, when one person makes significantly more money than the other, it makes most sense to divide expenses more equitably. This means that the person who earns more would pay a larger percentage of the costs. This could mean that they pay more in rent, or 
+
 # Create a shared spreadsheet
 
 It's always easier to stick to a budget when you have it written down or tracked somewhere. Budgeting as a couple is no different. Create a simple spreadsheet in [Google Sheets](https://www.google.com/sheets/about/) or sign up for a program like [Honeyfi](http://www.honeyfi.com/). 
