@@ -22,9 +22,10 @@ posts:
 - How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
 ---
 
-I've previously written about how you should [talk to your romantic partner](https://www.maggiegermano.com/blog/have-the-money-talk) about money. It's so important to have an open dialogue about finances. Money is connected to a lot of the aspects of life, and often the hang-ups that we have. So in order to be honest with each other, and able to plan for the future, we need to work together.
 
-So now that you've had the money talk,
+# Have the money talk
+
+I've previously written about how you should [talk to your romantic partner](https://www.maggiegermano.com/blog/have-the-money-talk) about money. It's so important to have an open dialogue about finances. Money is connected to a lot of the aspects of life, and often the hang-ups that we have. So in order to be honest with each other, and able to plan for the future, we need to work together.
 
 # Decide how you'll split expenses
 
@@ -32,7 +33,7 @@ This part can be tricky and maybe a little emotional. The easiest thing to do is
 
 # Create a shared spreadsheet
 
-It's always easier to stick to a budget when you have it written down or tracked somewhere. Budgeting as a couple is no different. Create a simple spreadsheet in [Google Sheets](https://www.google.com/sheets/about/) or sign up for a program like [Honeyfi](http://www.honeyfi.com/). 
+It's always easier to stick to a [budget](https://www.maggiegermano.com/blog/budgeting-101/) when you have it written down or tracked somewhere. Budgeting as a couple is no different. Create a simple spreadsheet in [Google Sheets](https://www.google.com/sheets/about/) or sign up for a program like [Honeyfi](http://www.honeyfi.com/). 
 
 # Make sure the bills are getting paid
 
