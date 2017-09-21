@@ -3,6 +3,7 @@ title: Budgeting for the Fun Stuff
 date: 2017-09-25 11:00:00 -04:00
 categories:
 - Budget
+- lifestyle
 tags:
 - budgeting
 - fun
