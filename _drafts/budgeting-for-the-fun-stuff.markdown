@@ -10,6 +10,8 @@ tags:
 - money
 - personal finance
 image: "/uploads/guitar.jpg"
+tweet: 'Getting your #money right doesn''t mean you can''t have #fun. Make sure you
+  #budget for it!'
 posts:
 - How to Budget as a Couple
 - 'Clutter-free Finances: Applying the KonMari Method to Your Bank Account'
