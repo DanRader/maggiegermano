@@ -9,6 +9,10 @@ tags:
 - money
 - personal finance
 image: "/uploads/guitar.jpg"
+posts:
+- How to Budget as a Couple
+- 'Clutter-free Finances: Applying the KonMari Method to Your Bank Account'
+- Budgeting 101
 ---
 
 
