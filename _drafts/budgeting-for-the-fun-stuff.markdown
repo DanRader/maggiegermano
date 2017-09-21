@@ -20,6 +20,8 @@ I am not one of those financial bloggers who tells you that you have to give up 
 
 ## First, remind yourself of what you value most
 
+I've written about aligning your money with your values before. But it's really worth saying again. You'll feel so much better about your money if you're putting it towards the things you really care about and that make you happy. So sit down with yourself and think: what are the things that matter to you most? What brings you the most joy? It could be your hobbies, it could be trying new restaurants with your partner, it could be going to concerts with friends, it could be anything! But all that matters is that it brings joy to *you*. 
+
 ## Second, review your recent expenses
 
 ## Next, prioritize your spending
