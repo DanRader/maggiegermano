@@ -1,6 +1,6 @@
 ---
 title: Budgeting for the Fun Stuff
-date: 2017-09-20 09:30:00 -04:00
+date: 2017-09-25 11:00:00 -04:00
 categories:
 - Budget
 tags:
