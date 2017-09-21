@@ -34,4 +34,4 @@ Now that you know you need
 
 I've said this before, and I will say it for the rest of my life: you have to automate to reach your money goals! Whether it's paying down debt or building up savings, automation takes the thought and human error out of the equation. So if you want to make sure you have enough money to buy gifts during the holidays, to go on vacation once a year, to get a massage every month... whatever it is! Make sure you're setting that money aside without even thinking about it. I think the best move is to open up a savings account for that specific thing, and have money deposited into it directly from your paycheck. For example, I always want to have enough money on hand to go get a massage or buy a new outfit. To make that possible without busting my budget, I automate $100 a month into a special "fun" savings account. I only touch that money for things that are what I would consider a "splurge". 
 
-What fun things do you want to budget for? Share in the comments!
+*What fun things do you want to budget for? Share in the comments!*
