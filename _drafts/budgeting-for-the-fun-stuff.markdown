@@ -26,7 +26,7 @@ I've written about aligning your money with your values before. But it's really 
 
 ## Second, review your recent expenses
 
-Go through the last 3 months or so of your spending. You can do this by looking through your bank account or credit card statements, or you can sign up for a program like Mint, Learnvest, or ClarityMoney. Look at how you've been spending your money. Does it reflect your values and the things that make you happiest? If not, that's okay! We all get off track. 
+Go through the last 3 months or so of your spending. You can do this by looking through your bank account or credit card statements, or you can sign up for a program like [Mint](http://www.mint.com), [Learnvest](http://www.learnvest.com), or ClarityMoney. Look at how you've been spending your money. Does it reflect your values and the things that make you happiest? If not, that's okay! We all get off track. 
 
 ## Next, prioritize your spending
 
