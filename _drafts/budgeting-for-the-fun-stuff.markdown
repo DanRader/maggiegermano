@@ -18,6 +18,8 @@ posts:
 
 I am not one of those financial bloggers who tells you that you have to give up every single thing you love in order to get your money right. I don't think it's sustainable to deprive yourself of anything that brings you joy just because it costs money. Yes, you probably have to make some sacrifices, but you don't have to give up everything. There are ways to cut spending, pay down debt, build up savings, AND still have fun. So let's do it!
 
+> There are ways to cut spending, pay down debt, build up savings, AND still have fun.
+
 ## First, remind yourself of what you value most
 
 I've written about aligning your money with your values before. But it's really worth saying again. You'll feel so much better about your money if you're putting it towards the things you really care about and that make you happy. So sit down with yourself and think: what are the things that matter to you most? What brings you the most joy? It could be indulging in your hobbies, it could be trying new restaurants with your partner, it could be going to concerts with friends, it could be anything! But all that matters is that it brings joy to *you*. 
