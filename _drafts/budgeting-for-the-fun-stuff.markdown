@@ -30,7 +30,7 @@ Go through the last 3 months or so of your spending. You can do this by looking 
 
 ## Next, prioritize your spending
 
-Now that you know you need 
+Now that you know you want to have money for, you can build it into your budget. 
 
 ## Then, automate!
 
