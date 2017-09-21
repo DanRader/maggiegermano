@@ -15,9 +15,12 @@ posts:
 - Budgeting 101
 ---
 
+I am not one of those financial bloggers who tells you that you have to give up every single thing you love in order to get your money right. I don't think it's sustainable to deprive yourself of anything that brings you joy just because it costs money. Yes, you probably have to make some sacrifices, but you don't have to give up everything. There are ways to cut spending, pay down debt, build up savings, AND still have fun.
 
 Review your past expenses
 
 What do you value
+
+Prioritize
 
 Automate
