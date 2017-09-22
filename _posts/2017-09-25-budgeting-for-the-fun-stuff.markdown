@@ -1,6 +1,7 @@
 ---
 title: Budgeting for the Fun Stuff
 date: 2017-09-25 11:00:00 -04:00
+published: false
 categories:
 - Budget
 - lifestyle
@@ -34,11 +35,11 @@ I've written about [aligning your money with your values](https://www.maggiegerm
 
 ## Second, review your recent expenses
 
-Go through the last three months or so of your spending. You can do this by looking through your bank account or credit card statements manually, or you can sign up for a program like [Mint](http://www.mint.com), [Learnvest](http://www.learnvest.com), or [ClarityMoney](https://claritymoney.com/). Look at how you've been spending your money. Does it reflect your values and the things that make you happiest? If not, that's okay! We all get off track. But recognizing that our money isn't going where we want it to go is the first step to making a change. 
+Go through the last three months or so of your spending. You can do this by looking through your bank account or credit card statements manually, or you can sign up for a program like [Mint](http://www.mint.com), [Learnvest](http://www.learnvest.com), or [ClarityMoney](https://claritymoney.com/). Look at how you've been spending your money. Does it reflect your values and the things that make you happiest? If not, that's okay! We all get off track. But recognizing that our money isn't going where we want it to go is the first step to making a change.
 
 ## Next, prioritize your spending
 
-Now that you know what you want to have money for, you can build it into your budget. Life is all about balance. If you need to make space for the things you enjoy most, you probably have to cut spending in another area. So, if you know you want to get a manicure twice a month, maybe you need to go out to eat a few times less each month. 
+Now that you know what you want to have money for, you can build it into your budget. Life is all about balance. If you need to make space for the things you enjoy most, you probably have to cut spending in another area. So, if you know you want to get a manicure twice a month, maybe you need to go out to eat a few times less each month. It might be hard at first, but in order to really be able to budget for the things you love, you have to remove the things you don't care about as much. After a while, you'll wonder why you were spending so much money on things you didn't value!
 
 ## Then, automate!
 
