@@ -9,6 +9,12 @@ tags:
 - fun
 - money
 - personal finance
+- dreams
+- spending
+- entertainment
+- treat yourself
+- value
+- values
 image: "/uploads/guitar.jpg"
 tweet: 'Getting your #money right doesn''t mean you can''t have #fun. Make sure you
   #budget for it!'
