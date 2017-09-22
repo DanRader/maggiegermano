@@ -34,11 +34,11 @@ I've written about [aligning your money with your values](https://www.maggiegerm
 
 ## Second, review your recent expenses
 
-Go through the last 3 months or so of your spending. You can do this by looking through your bank account or credit card statements, or you can sign up for a program like [Mint](http://www.mint.com), [Learnvest](http://www.learnvest.com), or [ClarityMoney](https://claritymoney.com/). Look at how you've been spending your money. Does it reflect your values and the things that make you happiest? If not, that's okay! We all get off track.
+Go through the last three months or so of your spending. You can do this by looking through your bank account or credit card statements manually, or you can sign up for a program like [Mint](http://www.mint.com), [Learnvest](http://www.learnvest.com), or [ClarityMoney](https://claritymoney.com/). Look at how you've been spending your money. Does it reflect your values and the things that make you happiest? If not, that's okay! We all get off track. But recognizing that our money isn't going where we want it to go is the first step to making a change. 
 
 ## Next, prioritize your spending
 
-Now that you know you want to have money for, you can build it into your budget.
+Now that you know what you want to have money for, you can build it into your budget. Life is all about balance. If you need to make space for the things you enjoy most, you probably have to cut spending in another area. So, if you know you want to get a manicure twice a month, maybe you need to go out to eat a few times less each month. 
 
 ## Then, automate!
 
