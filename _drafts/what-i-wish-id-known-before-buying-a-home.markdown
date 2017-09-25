@@ -15,6 +15,7 @@ tags:
 - savings
 - personal finance
 - debt
+- homeowner
 image: "/uploads/house.jpg"
 tweet: Buying a home is part of the American Dream. But do you really know what it
   entails?
