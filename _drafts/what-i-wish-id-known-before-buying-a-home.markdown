@@ -56,3 +56,5 @@ For me, once I decided I wanted to buy a house, it felt urgent that we find one.
 ## Negotiating with the sellers can be awful
 
 Our sellers had been trying to sell their house for about two years. Which, in the DC-area market, is AGES. It was a little overpriced, but otherwise, we couldn't really understand how no one else had snatched it up. The sellers were newly retired and they wanted to move back to their home country to live out their retirement. We easily negotiated on an asking price and closing costs, and thought things would move smoothly from there.
+
+One issue with our real estate agent is that she didn't really prepare us for this type of situation. It felt completely crazy and out of the norm to us. Because it felt not normal, I worried that we would lose the house at any moment. I worried that the sellers didn't really want to sell their house, and that's why they were making it so difficult. It took my friend Liz reassuring me that this process is always the worst to calm me down. But I still wasn't completely confident that the house was ours until we actually signed the papers.
