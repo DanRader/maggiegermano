@@ -21,17 +21,17 @@ posts:
 
 ***This blog post is part of the Suicide Prevention Awareness Month blog tour in partnership with[ Debt Drop](http://giving.rockstarfinance.com/debt-drop/). If you are feeling suicidal, please call the National Suicide Prevention Lifeline at 1-800-273-8255 or text HOME to 741741.***
 
-September is Suicide Prevention Awareness Month. This issue is still shrouded in stigma, which only makes people feel more alone. It’s a vicious cycle. Mental health is a hard thing to prioritize in general, but it gets even harder if you're tight on money. Plus, financial problems can cause even more mental health issues. So here are some budget-friendly options if you're feeling hopeless.
+September is Suicide Prevention Awareness Month. This issue is still shrouded in stigma, which only makes people feel *more* alone. It’s a vicious cycle. Mental health is a hard thing to prioritize in general, but it gets even harder if you're tight on money. Plus, financial problems can cause even more mental health issues. So here are some budget-friendly options if you're feeling hopeless.
 
 ## Ask for help
 
-First of all, it's important to know that **you are not alone**. Major depression is one of the most common mental illnesses, affecting 6.7% (or more than 16 million) of American adults each year. We tend to keep quiet about these issues, but I guarantee there are other people in your life who have been through the same thing as you have. Who in your life can you trust? Who do you feel comfortable confiding in? 
+First of all, it's important to know that **you are not alone**. Major depression is one of the most common mental illnesses, affecting 6.7% (or more than 16 million) of American adults each year. We tend to keep quiet about these issues, but I guarantee there are other people in your life who have been through the same thing as you have. Who in your life can you trust? Who do you feel comfortable confiding in? I know that when I was depressed, I saw the light at the end of the tunnel when I began to open up about it and hear other people's stories of healing.
 
 If you don't feel comfortable confiding in someone you know about your depression or suicidal thoughts, you can reach out to someone else. Call the [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) at 1-800-273-8255. 
 
 ## Join a support group
 
-There are so many support groups out there. There is one for every issue you can imagine. There are [in-person](https://adaa.org/supportgroups) options, but there are [online](https://www.inspire.com/groups/mental-health-america/) opportunities, if that is preferable to you. Like I said above, you are not alone! And honestly, truly knowing you're not alone does wonders. You are not broken, you are not abnormal. There are many people who are struggling with the same things as you, and it may help to be part of a community that will support you.
+There are so many support groups out there. There is one for every issue you can imagine. There are [in-person](https://adaa.org/supportgroups) options, but there are also [online](https://www.inspire.com/groups/mental-health-america/) opportunities, if that is preferable to you. Like I said above, you are not alone! And honestly, truly knowing you're not alone does wonders. You are not broken, you are not abnormal. There are many people who are struggling with the same things as you, and it will help to be part of a community that will support you.
 
 ## Use a therapy/support app
 
