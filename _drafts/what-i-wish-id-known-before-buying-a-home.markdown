@@ -25,7 +25,7 @@ Oh, homebuying. It's sold to us as the American Dream. And it really is great to
 
 I often read about older generations scolding Millennials for not being able to buy our own homes. But it isn't just young people being too lazy or bad with money. The housing bubble burst when we were just entering the workforce. Banks are more squeamish about giving out mortgages. Costs are higher! I don't fault anyone for not being able to or not wanting to go through this process.
 
-In fact, the only reason my fiance and I were able to buy a house is because I received a settlement this summer for an injury I experienced. If that didn't happen, I honestly don't know when we would have been able to afford to buy. 
+In fact, the only reason my fiance and I were able to buy a house is because I received a settlement this summer for an injury I experienced. If that didn't happen, I honestly don't know when we would have been able to afford to buy.
 
 All in all, I'm happy that we were able to buy a house. We aren't living in it yet, but I'm so excited to make it our home. However, there were a lot of lessons learned during the homebuying process, and I want to make sure you all know them before you do it yourself (if you do).
 
@@ -43,18 +43,26 @@ When we first started looking at houses, I had many dealbreakers in mind. It cou
 
 ## The process isn't quick or easy
 
+Before we made an offer on our home, we looked at about 27 houses. This doesn't seem like many, but that was in the course of about 2 months. We spent every weekend touring houses in the DC-area. We thought that once we found a house and our offer was accepted that things would move quickly. Unfortunately, negotiating repairs with the sellers took over a month! In fact, we were still arguing about fixes the day of closing. 
+
 ## Closing costs are super expensive
 
 Ever wonder how your parents or grandparents were able to buy a house? Well I think I found the secret. In years past, people were able to buy houses without a big downpayment and without closing costs. That meant they just had to get approved for the mortgage by the bank and then pay every month! Now, we have to come up with up to 20% of the cost of the home, or else we have to pay private mortgage insurance. Not only that, but we have to pay huge closing costs once we sign for the house. Closing costs tend to be about 3% of the cost of the house. If you're buying a $300,000 house, that's quite a bit of cash!
 
 This was not something I was initially aware of, and it kind of knocked me on my ass when I saw the number. Luckily, when we were making an offer on our house, we requested that the sellers pay for most of the closing costs. They agreed, and then a repair credit from them covered the rest.
 
-## Looking for a house is very emotional
+## Looking for a house can be very emotional
 
-For me, once I decided I wanted to buy a house, it felt urgent that we find one. But the housing market in the DC-area is really tough! Houses are metaphorically flying off the shelves. There were several homes that we weren't even able to tour because they sold within hours or days of going on the market. The first house we loved had been on the market for 45 days with no offers. But somehow the moment we saw it and decided to make an offer, someone else bought it! I didn't think I would find another house that I loved like that one. (It's the one that got away...) When my friends told me that they made offers on 9 or 10 houses before they got one, I couldn't believe it! How could you love that many houses?? 
+For me, once I decided I wanted to buy a house, it felt urgent that we find one. But the housing market in the DC-area is really tough! Houses are metaphorically flying off the shelves. There were several homes that we weren't even able to tour because they sold within hours or days of going on the market. The first house we loved had been on the market for 45 days with no offers. But somehow the moment we saw it and decided to make an offer, someone else bought it! I didn't think I would find another house that I loved like that one. (It's the one that got away...) When my friends told me that they made offers on 9 or 10 houses before they got one, I couldn't believe it! How could you love that many houses??
+
+## The home inspection is not necessarily fun
+
+I don't know if I'm just super naive, but I expected to enjoy the home inspection process. I couldn't wait to know every little thing about my future home. I knew there was potential for problems, but I had no idea how extensive it could be. We ended up leaving our inspection fearing the worst about our foundation, worrying about major electrical issues, and stressed about other problems. Luckily for us, a structural engineer signed off on the foundation being safe and functional, but we won't know the extent of the electrical problems until we get a full safety assessment from an electrician. 
 
 ## Negotiating with the sellers can be awful
 
 Our sellers had been trying to sell their house for about two years. Which, in the DC-area market, is AGES. It was a little overpriced, but otherwise, we couldn't really understand how no one else had snatched it up. The sellers were newly retired and they wanted to move back to their home country to live out their retirement. We easily negotiated on an asking price and closing costs, and thought things would move smoothly from there.
+
+Unfortunately, things got really difficult after the home inspection. The inspector found issues that could have amounted to about $30,000 in repairs (including the potential foundation work). Many of the problems were the result of the seller doing a lot of the work himself, so we wanted to hire our own contractors to fix the problems. The sellers would not agree to that. In the end, after weeks of negotiating, they only fixed a few things and gave us a small credit to cover the rest. 
 
 One issue with our real estate agent is that she didn't really prepare us for this type of situation. It felt completely crazy and out of the norm to us. Because it felt not normal, I worried that we would lose the house at any moment. I worried that the sellers didn't really want to sell their house, and that's why they were making it so difficult. It took my friend Liz reassuring me that this process is always the worst to calm me down. But I still wasn't completely confident that the house was ours until we actually signed the papers.
