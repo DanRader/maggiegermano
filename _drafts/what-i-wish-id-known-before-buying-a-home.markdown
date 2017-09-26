@@ -39,7 +39,7 @@ Everything turned out fine, but we didn't feel like our agent knew what we reall
 
 ## Dealbreakers aren't always dealbreakers
 
-When we first started looking at houses, I had many dealbreakers in mind. It couldn't be over a certain price. It couldn't be more than a 10 minute walk from a metro. It had to be a combination of old and new. It had to have at least 2 bathrooms. 
+When we first started looking at houses, I had many dealbreakers in mind. It couldn't be over a certain price. It couldn't be more than a 10 minute walk from a metro. It had to be a combination of old and new. It had to have at least 2 bathrooms. It also had to be livable, with no major problems. Ha! That bubble was burst pretty quickly. If you expect to get every single thing you're looking for, you can also expect to pay a premium for your home. If you expect to pay a smaller number for a home, expect it to be a fixer-upper. 
 
 ## The process isn't quick or easy
 
@@ -47,6 +47,10 @@ When we first started looking at houses, I had many dealbreakers in mind. It cou
 
 Ever wonder how your parents or grandparents were able to buy a house? Well I think I found the secret. In years past, people were able to buy houses without a big downpayment and without closing costs. That meant they just had to get approved for the mortgage by the bank and then pay every month! Now, we have to come up with up to 20% of the cost of the home, or else we have to pay private mortgage insurance. Not only that, but we have to pay huge closing costs once we sign for the house. Closing costs tend to be about 3% of the cost of the house. If you're buying a $300,000 house, that's quite a bit of cash! 
 
-This was not something I was initially aware of, and it kind of knocked me on my ass when I realized the number. Luckily, when we were making an offer on our house, we requested that the sellers pay for most of the closing costs. They agreed, and then a repair credit from them covered the rest. 
+This was not something I was initially aware of, and it kind of knocked me on my ass when I saw the number. Luckily, when we were making an offer on our house, we requested that the sellers pay for most of the closing costs. They agreed, and then a repair credit from them covered the rest. 
 
 ## Looking for a house is very emotional
+
+Negotiating with the sellers can be awful
+
+Our sellers had been trying to sell their house for about two years. Which, in the DC-area market, is AGES. It was a little overpriced, but otherwise, we couldn't really understand how no one else had snatched it up. The sellers were newly retired and they wanted to move back to their home country to live out their retirement. We easily negotiated on an asking price and closing costs, and thought things would move smoothly from there.
