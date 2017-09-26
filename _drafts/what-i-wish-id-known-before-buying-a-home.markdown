@@ -21,7 +21,7 @@ tweet: Buying a home is part of the American Dream. But do you really know what 
   entails?
 ---
 
-Oh, homebuying. It's sold to us as the American Dream. Older generations scold Millennials for not being able to buy our own homes. 
+Oh, homebuying. It's sold to us as the American Dream. And it really is great to know that you own your home, and that you aren't just giving your money to a landlord or management company. I often read about older generations scold Millennials for not being able to buy our own homes. But it isn't just young people being too lazy or bad with money. The housing bubble burst when we were just entering the workforce. Banks are more squeamish about giving out mortgages. 
 
 ## Your real estate agent matters
 
