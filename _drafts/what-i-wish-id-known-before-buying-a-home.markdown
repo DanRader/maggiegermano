@@ -51,6 +51,6 @@ This was not something I was initially aware of, and it kind of knocked me on my
 
 ## Looking for a house is very emotional
 
-Negotiating with the sellers can be awful
+## Negotiating with the sellers can be awful
 
 Our sellers had been trying to sell their house for about two years. Which, in the DC-area market, is AGES. It was a little overpriced, but otherwise, we couldn't really understand how no one else had snatched it up. The sellers were newly retired and they wanted to move back to their home country to live out their retirement. We easily negotiated on an asking price and closing costs, and thought things would move smoothly from there.
