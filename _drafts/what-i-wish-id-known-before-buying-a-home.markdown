@@ -21,9 +21,9 @@ tweet: Buying a home is part of the American Dream. But do you really know what 
   entails?
 ---
 
-Oh, homebuying. It's sold to us as the American Dream. And it really is great to know that you own your home, and that you aren't just giving your money to a landlord or management company. But it's not possible for everyone. 
+Oh, homebuying. It's sold to us as the American Dream. And it really is great to know that you own your home, and that you aren't just giving your money to a landlord or management company. But it's not possible for everyone.
 
-I often read about older generations scolding Millennials for not being able to buy our own homes. But it isn't just young people being too lazy or bad with money. The housing bubble burst when we were just entering the workforce. Banks are more squeamish about giving out mortgages. Costs are higher! I don't fault anyone for not being able to or not wanting to go through this process. 
+I often read about older generations scolding Millennials for not being able to buy our own homes. But it isn't just young people being too lazy or bad with money. The housing bubble burst when we were just entering the workforce. Banks are more squeamish about giving out mortgages. Costs are higher! I don't fault anyone for not being able to or not wanting to go through this process.
 
 In fact, the only reason my fiance and I were able to buy a house is because I received a settlement this summer for an injury I experienced. If that didn't happen, I honestly don't know when we would have been able to afford to buy. 
 
@@ -39,17 +39,19 @@ Everything turned out fine, but we didn't feel like our agent knew what we reall
 
 ## Dealbreakers aren't always dealbreakers
 
-When we first started looking at houses, I had many dealbreakers in mind. It couldn't be over a certain price. It couldn't be more than a 10 minute walk from a metro. It had to be a combination of old and new. It had to have at least 2 bathrooms. It also had to be livable, with no major problems. Ha! That bubble was burst pretty quickly. If you expect to get every single thing you're looking for, you can also expect to pay a premium for your home. If you expect to pay a smaller number for a home, expect it to be a fixer-upper. 
+When we first started looking at houses, I had many dealbreakers in mind. It couldn't be over a certain price. It couldn't be more than a 10 minute walk from a metro. It had to be a combination of old and new. It had to have at least 2 bathrooms. It also had to be livable, with no major problems. Ha! That bubble was burst pretty quickly. If you expect to get every single thing you're looking for, you can also expect to pay a premium for your home. If you expect to pay a smaller number for a home, expect it to be a fixer-upper.
 
 ## The process isn't quick or easy
 
 ## Closing costs are super expensive
 
-Ever wonder how your parents or grandparents were able to buy a house? Well I think I found the secret. In years past, people were able to buy houses without a big downpayment and without closing costs. That meant they just had to get approved for the mortgage by the bank and then pay every month! Now, we have to come up with up to 20% of the cost of the home, or else we have to pay private mortgage insurance. Not only that, but we have to pay huge closing costs once we sign for the house. Closing costs tend to be about 3% of the cost of the house. If you're buying a $300,000 house, that's quite a bit of cash! 
+Ever wonder how your parents or grandparents were able to buy a house? Well I think I found the secret. In years past, people were able to buy houses without a big downpayment and without closing costs. That meant they just had to get approved for the mortgage by the bank and then pay every month! Now, we have to come up with up to 20% of the cost of the home, or else we have to pay private mortgage insurance. Not only that, but we have to pay huge closing costs once we sign for the house. Closing costs tend to be about 3% of the cost of the house. If you're buying a $300,000 house, that's quite a bit of cash!
 
-This was not something I was initially aware of, and it kind of knocked me on my ass when I saw the number. Luckily, when we were making an offer on our house, we requested that the sellers pay for most of the closing costs. They agreed, and then a repair credit from them covered the rest. 
+This was not something I was initially aware of, and it kind of knocked me on my ass when I saw the number. Luckily, when we were making an offer on our house, we requested that the sellers pay for most of the closing costs. They agreed, and then a repair credit from them covered the rest.
 
 ## Looking for a house is very emotional
+
+For me, once I decided I wanted to buy a house, it felt urgent that we find one. But the housing market in the DC-area is really tough! Houses are metaphorically flying off the shelves. There were several homes that we weren't even able to tour because they sold within hours or days of going on the market. The first house we loved had been on the market for 45 days with no offers. But somehow the moment we saw it and decided to make an offer, someone else bought it! I didn't think I would find another house that I loved like that one. (It's the one that got away...) When my friends told me that they made offers on 9 or 10 houses before they got one, I couldn't believe it! How could you love that many houses?? 
 
 ## Negotiating with the sellers can be awful
 
