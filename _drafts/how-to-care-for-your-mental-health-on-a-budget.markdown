@@ -1,6 +1,6 @@
 ---
 title: How to Care for Your Mental Health on a Budget
-date: 2017-09-28 11:00:00 -04:00
+date: 2017-09-27 11:27:00 -04:00
 categories:
 - lifestyle
 - Budget
