@@ -53,4 +53,4 @@ Mental health coverage in the U.S. is woefully inadequate. Many of us are not re
 
 So if you have health insurance, call your provider and get details about your coverage. What options do you have under your plan? Are therapy sessions covered? Is medication covered? Knowing this will make a world of difference when it comes to your mental health.
 
-*For more affordable resources, visit [here](https://lifehacker.com/top-10-free-and-affordable-mental-health-and-counseling-1788814933) and [here](https://www.thepennyhoarder.com/life/wellness/low-cost-and-free-mental-health-services/). *
+*For more affordable resources, visit [here](https://lifehacker.com/top-10-free-and-affordable-mental-health-and-counseling-1788814933) and [here](https://www.thepennyhoarder.com/life/wellness/low-cost-and-free-mental-health-services/).*
