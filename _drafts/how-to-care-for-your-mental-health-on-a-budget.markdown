@@ -21,7 +21,7 @@ posts:
 
 ***This blog post is part of the Suicide Prevention Awareness Month blog tour in partnership with[ Debt Drop](http://giving.rockstarfinance.com/debt-drop/). If you are feeling suicidal, please call the National Suicide Prevention Lifeline at 1-800-273-8255 or text HOME to 741741.***
 
-September is Suicide Prevention Awareness Month. This issue is still shrouded in stigma, which only makes people feel more alone. It’s a vicious cycle. Mental health is a hard thing to prioritize in general, but it gets even harder if you're tight on money. Plus, financial problems can cause even more mental health issues. So
+September is Suicide Prevention Awareness Month. This issue is still shrouded in stigma, which only makes people feel more alone. It’s a vicious cycle. Mental health is a hard thing to prioritize in general, but it gets even harder if you're tight on money. Plus, financial problems can cause even more mental health issues. So here are some budget-friendly options if you're feeling hopeless.
 
 ## Ask for help
 
