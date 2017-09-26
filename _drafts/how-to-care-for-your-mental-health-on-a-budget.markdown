@@ -21,4 +21,22 @@ posts:
 
 ***This blog post is part of the Suicide Prevention Awareness Month blog tour in partnership with[ Debt Drop](http://giving.rockstarfinance.com/debt-drop/). If you are feeling suicidal, please call the National Suicide Prevention Lifeline at 1-800-273-8255 or text HOME to 741741.***
 
-September is Suicide Prevention Awareness Month. This issue is still shrouded in stigma, which only makes people feel more alone. It’s a vicious cycle. Mental health is a hard thing to prioritize in general, but it gets even harder if you're on a budget. 
+September is Suicide Prevention Awareness Month. This issue is still shrouded in stigma, which only makes people feel more alone. It’s a vicious cycle. Mental health is a hard thing to prioritize in general, but it gets even harder if you're tight on money. Plus, financial problems can cause even more mental health issues. So
+
+## Ask for help
+
+First of all, it's important that **you are not alone**. Major depression is one of the most common mental illnesses, affecting 6.7% ( or more than 16 million) of American adults each year. We tend to keep quiet about these issues, but I guarantee there are other people in your life who have been through the same thing as you have. Who in your life can you trust? Who do you feel comfortable confiding in? 
+
+If you don't feel comfortable confiding in someone you know about your depression or suicidal thoughts, reach out to someone else. Call the [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) at 1-800-273-8255. 
+
+## Join a support group
+
+There are so many support groups out there. There is one for every issue you can imagine. There are [in-person](https://adaa.org/supportgroups) options, but there are [online](https://www.inspire.com/groups/mental-health-america/) opportunities, if that is preferable to you. 
+
+## Use a therapy app
+
+Technology can truly be a wonderful thing. There are many apps out there that make it easier for us to access mental health professionals. Since it can be so hard to find a good therapist, this is a great alternative. 
+
+## Find out what your insurance covers
+
+Mental health coverage in the U.S. is woefully inadequate. 
