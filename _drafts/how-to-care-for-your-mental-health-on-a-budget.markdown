@@ -33,10 +33,12 @@ If you don't feel comfortable confiding in someone you know about your depressio
 
 There are so many support groups out there. There is one for every issue you can imagine. There are [in-person](https://adaa.org/supportgroups) options, but there are [online](https://www.inspire.com/groups/mental-health-america/) opportunities, if that is preferable to you. 
 
-## Use a therapy app
+## Use a therapy/support app
 
 Technology can truly be a wonderful thing. There are many apps out there that make it easier for us to access mental health professionals. Since it can be so hard to find a good therapist, this is a great alternative. 
 
+[Code Blue](http://codeblue.io/) is an app that will alert your support network when you're in need. Specifically designed for teens, this app lets your family or friends know in real time when you're being bullied or feeling depressed or suicidal.
+
 ## Find out what your insurance covers
 
-Mental health coverage in the U.S. is woefully inadequate. 
+Mental health coverage in the U.S. is woefully inadequate. Many of us are not receiving the help and treatment that we need and deserve. 
