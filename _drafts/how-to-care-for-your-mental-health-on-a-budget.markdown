@@ -25,9 +25,9 @@ September is Suicide Prevention Awareness Month. This issue is still shrouded in
 
 ## Ask for help
 
-First of all, it's important that **you are not alone**. Major depression is one of the most common mental illnesses, affecting 6.7% ( or more than 16 million) of American adults each year. We tend to keep quiet about these issues, but I guarantee there are other people in your life who have been through the same thing as you have. Who in your life can you trust? Who do you feel comfortable confiding in? 
+First of all, it's important to know that **you are not alone**. Major depression is one of the most common mental illnesses, affecting 6.7% (or more than 16 million) of American adults each year. We tend to keep quiet about these issues, but I guarantee there are other people in your life who have been through the same thing as you have. Who in your life can you trust? Who do you feel comfortable confiding in? 
 
-If you don't feel comfortable confiding in someone you know about your depression or suicidal thoughts, reach out to someone else. Call the [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) at 1-800-273-8255. 
+If you don't feel comfortable confiding in someone you know about your depression or suicidal thoughts, you can reach out to someone else. Call the [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) at 1-800-273-8255. 
 
 ## Join a support group
 
