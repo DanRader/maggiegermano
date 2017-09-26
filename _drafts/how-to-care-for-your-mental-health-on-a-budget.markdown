@@ -37,7 +37,13 @@ There are so many support groups out there. There is one for every issue you can
 
 Technology can truly be a wonderful thing. There are many apps out there that make it easier for us to access mental health professionals. Since it can be so hard to find a good therapist, this is a great alternative. 
 
-[Code Blue](http://codeblue.io/) is an app that will alert your support network when you're in need. Specifically designed for teens, this app lets your family or friends know in real time when you're being bullied or feeling depressed or suicidal.
+* [Code Blue](http://codeblue.io/) is an app that will alert your support network when you're in need. Specifically designed for teens, this app lets your family or friends know in real time when you're being bullied or feeling depressed or suicidal.
+
+
+* [PTSD Coach](https://www.ptsd.va.gov/public/materials/apps/ptsdcoach.asp) is an app that was developed by Veterans Affairs to help veterans deal with PTSD symptoms. The app is also available to civilians, and it connects you to resources and support in your area.
+
+
+* [Talkspace](https://itunes.apple.com/us/app/talkspace-therapy/id661829386?mt=8) is probably the most well-known therapy app. It connects you with a licensed therapist via chat. You do have to pay $30 a week for this therapist, but it could be a great option if you don't have health insurance that covers therapy.
 
 ## Find out what your insurance covers
 
