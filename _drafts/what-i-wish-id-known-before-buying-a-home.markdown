@@ -45,6 +45,8 @@ When we first started looking at houses, I had many dealbreakers in mind. It cou
 
 Before we made an offer on our home, we looked at about 27 houses. This doesn't seem like many, but that was in the course of about 2 months. We spent every weekend touring houses in the DC-area. We thought that once we found a house and our offer was accepted that things would move quickly. Unfortunately, negotiating repairs with the sellers took over a month! In fact, we were still arguing about fixes the day of closing. 
 
+It also takes quite a while for the bank to approve your mortgage. They need to check every single piece of your financial history. You should budget at least 30-45 days from signing the contract to actually closing on the home. And depending on other issues, it often takes longer than that.
+
 ## Closing costs are super expensive
 
 Ever wonder how your parents or grandparents were able to buy a house? Well I think I found the secret. In years past, people were able to buy houses without a big downpayment and without closing costs. That meant they just had to get approved for the mortgage by the bank and then pay every month! Now, we have to come up with up to 20% of the cost of the home, or else we have to pay private mortgage insurance. Not only that, but we have to pay huge closing costs once we sign for the house. Closing costs tend to be about 3% of the cost of the house. If you're buying a $300,000 house, that's quite a bit of cash!
