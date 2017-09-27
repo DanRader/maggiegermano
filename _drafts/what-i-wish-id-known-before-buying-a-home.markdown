@@ -19,6 +19,10 @@ tags:
 image: "/uploads/house.jpg"
 tweet: Buying a home is part of the American Dream. But do you really know what it
   entails?
+posts:
+- How to Budget as a Couple
+- Budgeting 101
+- How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
 ---
 
 Oh, homebuying. It's sold to us as the American Dream. And it really is great to know that you own your home, and that you aren't just giving your money to a landlord or management company. But it's just not possible (or desirable) for everyone.
