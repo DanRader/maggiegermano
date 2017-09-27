@@ -51,7 +51,7 @@ It also takes quite a while for the bank to approve your mortgage. They need to 
 
 Ever wonder how your parents or grandparents were able to buy a house? Well I think I found the secret. In years past, people were able to buy houses without a big downpayment and without closing costs. That meant they just had to get approved for the mortgage by the bank and then pay every month! Now, we have to come up with up to 20% of the cost of the home, or else we have to pay private mortgage insurance. Not only that, but we have to pay huge closing costs once we sign for the house. Closing costs tend to be about 3% of the cost of the house. If you're buying a $300,000 house, that's quite a bit of cash!
 
-This was not something I was initially aware of, and it kind of knocked me on my ass when I saw the number. Luckily, when we were making an offer on our house, we requested that the sellers pay for most of the closing costs. They agreed, and then a repair credit from them covered the rest.
+This was not something I was initially aware of, and it kind of knocked me on my ass when I saw the number. Luckily, when we were making the offer on our house, we requested that the sellers pay for most of the closing costs. They agreed, and then a repair credit from them covered the rest.
 
 ## Looking for a house can be very emotional
 
