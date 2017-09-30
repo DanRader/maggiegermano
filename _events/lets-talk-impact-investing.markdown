@@ -26,4 +26,4 @@ Danielle is the Cross Department Manager at ImpactUs Marketplace. ImpactUs has b
 
 Money Circle is a safe open space where women can ask questions, air their fears, brag about accomplishments, and be honest about any confusion they may have around money.
 
-Light snacks and wine will be provided.
+Light snacks and wine will be provided. 
