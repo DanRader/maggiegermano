@@ -8,6 +8,7 @@ collections:
   posts:
     title: Posts
     output: true
+    future: false
   testimonials:
     title: Testimonials
     output: true
