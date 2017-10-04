@@ -19,6 +19,8 @@ Are you interested in starting your own small business? Obviously, you're not al
 
 ## Come up with a name
 
+You need an official business name in order to legally start a business. 
+
 ## Decide what kind of business you want to be
 
 There are a few options to choose from: LLC, S Corp, Corporation
@@ -27,7 +29,7 @@ There are a few options to choose from: LLC, S Corp, Corporation
 
 ## Open a business bank account
 
-It's very important to separate your business finances from your personal finances. This helps with planning, taxes, and tracking expenses. 
+It's very important to separate your business finances from your personal finances. This helps with planning, taxes, and tracking expenses.
 
 ## Sign up for free business counseling
 
