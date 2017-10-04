@@ -23,8 +23,10 @@ Are you interested in starting your own small business? Obviously, you're not al
 
 ## Open a business bank account
 
+It's very important to separate your business finances from your personal finances. This helps with planning, taxes, and tracking expenses. 
+
 ## Sign up for free business counseling
 
-The Washington, DC [Women's Business Center](http://www.ncrc.org/dcwbc/how-to-register-for-free-counseling.html) offers free one-on-one business counseling. They can help you come up with a business plan, and give advice on 
+The Washington, DC [Women's Business Center](http://www.ncrc.org/dcwbc/how-to-register-for-free-counseling.html) offers free one-on-one business counseling. They can help you come up with a business plan, and give advice on ... I went to a few sessions when I first started my business, and it was very helpful.
 
 ## Register as a woman-owned business
