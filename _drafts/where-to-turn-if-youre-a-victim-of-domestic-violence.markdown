@@ -15,4 +15,8 @@ posts:
 - Why I Became a Financial Coach for Women
 ---
 
-October is Domestic Violence Awareness Month. It's absolutely not a month to celebrate, but it's important. 
+***If you're being abused and need help, call the [National Domestic Violence Hotline](http://www.thehotline.org/) at 1-800-799-7233.***
+
+October is Domestic Violence Awareness Month. It's absolutely not a month to celebrate, but it's an important thing to talk about. Three in ten women in the United States have experienced domestic violence. That is 30% of American women. That's an enormous number. Not only that, but 98% of domestic violence victims are also victims of financial abuse.
+
+I've written about financial abuse in the past, because
