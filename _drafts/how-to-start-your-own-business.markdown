@@ -19,6 +19,10 @@ Are you interested in starting your own small business? Obviously, you're not al
 
 ## Come up with a name
 
+## Decide what kind of business you want to be
+
+There are a few options to choose from: LLC, S Corp, Corporation
+
 ## Register your business
 
 ## Open a business bank account
