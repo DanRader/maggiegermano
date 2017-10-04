@@ -9,6 +9,8 @@ tags:
 - money
 - women
 - domestic violence awareness
+image: "/uploads/woman-3e49d4.jpg"
+tweet: 'October is Domestic Violence Awareness Month? Here are resources for survivors:'
 posts:
 - What Survivors Wish You Knew About Financial Abuse
 - Financial Infidelity and the Damage it Does
