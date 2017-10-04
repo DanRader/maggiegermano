@@ -25,6 +25,6 @@ Are you interested in starting your own small business? Obviously, you're not al
 
 ## Sign up for free business counseling
 
-The Washington, DC [Women's Business Center](http://www.ncrc.org/dcwbc/how-to-register-for-free-counseling.html) offers free one-on-one business counseling. 
+The Washington, DC [Women's Business Center](http://www.ncrc.org/dcwbc/how-to-register-for-free-counseling.html) offers free one-on-one business counseling. They can help you come up with a business plan, and give advice on 
 
 ## Register as a woman-owned business
