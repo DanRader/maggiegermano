@@ -19,4 +19,4 @@ posts:
 
 October is Domestic Violence Awareness Month. It's absolutely not a month to celebrate, but it's an important thing to talk about. Three in ten women in the United States have experienced domestic violence. That is 30% of American women. That's an enormous number. Not only that, but 98% of domestic violence victims are also victims of financial abuse.
 
-I've written about financial abuse in the past, because
+I've [written](https://www.maggiegermano.com/blog/financial-abuse-survivors-want-you-to-know) about financial abuse in the past, because
