@@ -49,7 +49,13 @@ Now, most of us have heard of popular terms like “conventional loan” and “
 
 * Many will come with a 30-Year Fixed Term, but can be 10, 15, or 20 years, and interest rates do vary a bit between these terms.  Shorter terms are considered riskier, often requiring more down and a higher interest rate paid on the loan.
 
-* These generally require a good credit score\* and a solid Debt-to-Income Ratio of 43% \*\*.
+* These generally require a good credit score\* and a solid Debt-to-Income Ratio of 43%\*\*.
+
+*\* What’s a good credit score? Many consider somewhere around 700-750 to be considered Good to Very Good. Anything above that is often considered Very Good to Excellent. I’m not a lender and different lenders consider different scores “Good” so make sure you connect with them. If you’re worried, you should absolutely talk to Maggie for tips on how to improve your credit score!*
+
+*\*\* What’s a solid Debt to Income Ratio? Your debt-to-income ratio is all your monthly debt payments divided by your gross monthly income. This number is a critical way lenders measure your ability to manage your mortgage payments & other debts.*
+
+*To calculate your debt-to-income ratio, you add up all your monthly debt payments and divide them by your gross monthly income. Your gross monthly income is the total amount of money you have earned before your taxes and other deductions are taken out. Really, it’s time to talk to [Maggie](http://www.maggiegermano.com/coaching) if this is also a concern for you.*
 
 **FHA Loans**
 
