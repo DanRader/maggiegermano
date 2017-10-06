@@ -60,7 +60,7 @@ Now, most of us have heard of popular terms like “conventional loan” and “
 
 * These generally require a good credit score\* and a solid Debt-to-Income Ratio of 43%\*\*.
 
-*\* What’s a good credit score? Many consider somewhere around 700-750 to be considered Good to Very Good. Anything above that is often considered Very Good to Excellent. I’m not a lender and different lenders consider different scores “Good” so make sure you connect with them. If you’re worried, you should absolutely talk to Maggie for tips on how to improve your credit score!*
+*\* What’s a good credit score? Many consider somewhere around 700-750 to be considered Good to Very Good. Anything above that is often considered Very Good to Excellent. I’m not a lender and different lenders consider different scores “Good” so make sure you connect with them. If you’re worried, you should absolutely [talk to Maggie](http://www.maggiegermano.com/coaching) for tips on how to [improve your credit score](https://www.maggiegermano.com/blog/care-about-your-credit-score)!*
 
 *\*\* What’s a solid Debt to Income Ratio? Your debt-to-income ratio is all your monthly debt payments divided by your gross monthly income. This number is a critical way lenders measure your ability to manage your mortgage payments & other debts.*
 
