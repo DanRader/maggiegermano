@@ -71,6 +71,8 @@ Now, most of us have heard of popular terms like “conventional loan” and “
 
 * Before you ask for this loan, know this: there are various lender and loan restrictions, and the property you buy has to already be in excellent condition.  That means The Man is looking to cut out any other risk besides loaning to you. These loans can also take more time to process.
 
+*\*\*\* What’s mortgage insurance? Your Up Front Monthly Insurance Premium could be 1.75% of your total loan amount, but the FHA will include it on top of your loan. That means you’re not paying that separately; it’ll just be added to your total loan and you’ll pay it over time in your mortgage. Your Monthly Insurance Premium is likely smaller and could be 0.85% (less than 1%) and is also included in your mortgage payment.*
+
 **VA Loans**
 
 * This loan program is for members of the military, veterans, reservists and National Guard. It’s guaranteed by the Department of Veterans Affairs (VA). The program is very beneficial for those who are giving or have given service to their country. I Salute you!
