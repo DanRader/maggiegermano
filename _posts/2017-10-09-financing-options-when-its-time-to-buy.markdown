@@ -1,6 +1,7 @@
 ---
 title: Financing Options When It's Time to Buy a Home
 date: 2017-10-09 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 tags:
