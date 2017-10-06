@@ -19,7 +19,7 @@ author-desc: 'A proud native Washingtonian and real estate agent with Jason Mart
   -- buyers and sellers. '
 author-image: "/uploads/liz.jpg"
 tweet: 'What kind of mortgage do you need? Here are all your options! #homebuying
-  #mortgage #loans'
+  #mortgage #loan'
 posts:
 - What I Wish I'd Known Before Buying a Home
 - How to Budget as a Couple
@@ -68,7 +68,7 @@ Now, most of us have heard of popular terms like “conventional loan” and “
 
 * This is a mortgage loan insured by the Federal Housing Administration (FHA), which means it’s backed by the government.
 
-* FHA Loans ask for as little as 3% down payment; that means on a $500,000 loan, your 3% down payment is $15,000. There aren’t technically any income limitations to qualify to put less down, but the way these loans are structured may ask you to put more down in certain zip codes.  Talk to a lender!
+* FHA Loans ask for as little as 3% down payment; that means on a $500,000 loan, your 3% down payment is $15,000. There aren’t technically any income limitations to qualify to put less down, but the way these loans are structured may ask you to put more down in certain zip codes. Talk to a lender!
 
 * These loans require mortgage insurance\*\*\*.  These have can both be an upfront and monthly premium; that’s because these types of loans are riskier to the government. They’re smaller percentages and are added to your loan amount.  You don’t pay those separately!
 
@@ -80,10 +80,11 @@ Now, most of us have heard of popular terms like “conventional loan” and “
 
 **VA Loans**
 
-* This loan program is for members of the military, veterans, reservists and National Guard. It’s guaranteed by the Department of Veterans Affairs (VA). The program is very beneficial for those who are giving or have given service to their country. I Salute you!
+* This loan program is for members of the military, veterans, reservists and National Guard. It’s guaranteed by the Department of Veterans Affairs (VA). The program is very beneficial for those who are giving or have given service to their country. I [salute](https://www.youtube.com/watch?v=Kjpa0SMOug0) you!
 
-* These can ask for as little as 0% Down Payment (for qualified buyers), which are among the last available like this that aren’t considered “down payment assistance programs.” Even though they’re under 20% down, they don’t require PMI (Private Mortgage Insurance).
-  Many times, borrowers with a VA Loan have no money due at closing.
+* These can ask for as little as 0% down payment (for qualified buyers), which are among the last available like this that aren’t considered “down payment assistance programs.” Even though they’re under 20% down, they don’t require Private Mortgage Insurance.
+
+* Many times, borrowers with a VA Loan have no money due at closing.
 
 * They’re also assumable, meaning if a seller with a VA Loan doesn’t finish paying their mortgage, a buyer with a VA Loan qualification can take it over for them.  Which is awesome and nearly impossible to do with other loan products.
 
@@ -91,7 +92,7 @@ Now, most of us have heard of popular terms like “conventional loan” and “
 
 **Cash**
 
-* Did you know that 20% of all homes purchased in DC were paid for by cash in 2016?  It can be hard to imagine, but some buyers can buy their homes in cash.  Buyers with this type of money will simply provide “proof of funds” from their bank.  That indicates to the seller that they could buy it in cash.  A buyer can then get a mortgage after the deal closes.
+* Did you know that 20% of all homes purchased in DC were paid for by cash in 2016?  It can be hard to imagine, but some buyers can buy their homes in cash.  Buyers with this type of money will simply provide “proof of funds” from their bank. That indicates to the seller that they could buy it in cash. A buyer can then get a mortgage after the deal closes.
 
 * It's no secret that having a cash offer is very favorable, but why is that? It's because a cash offer is generally very "clean," which means it can move very quickly and come with minimal (if any) contingencies. Does this mean that cash offers win all the time? Absolutely not, but they generally start with a leg up on the competition.
 
