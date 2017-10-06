@@ -21,6 +21,8 @@ posts:
 
 Buying a home is unlike buying anything else in your life – no one needs an agent to buy a taco or stacks of paperwork to agree over exactly how a pair of pants was made before they buy them.  Tacos and pants also don’t cost most of your savings and tie up your money into a hard asset. That’s why it’s so important to know that there’s not just one type of loan available to buyers when you’re ready to buy a home.  So, how do you start?
 
+> That’s why it’s so important to know that there’s not just one type of loan available to buyers when you’re ready to buy a home.
+
 ## Get Pre-Approved
 
 First, get pre-approved.  When it’s time to get serious about buying, the first step is to talk to a lender. They’ll ask you to provide lots of background on your current financial situation, including tax returns, bank statements, and employment verification.  Lenders will always check that you’ve filed your taxes and that you’ve got steady employment or income.  Many people in DC are contractors and not considered “employees” – don’t worry, there are options for you that great lenders can walk you through.
