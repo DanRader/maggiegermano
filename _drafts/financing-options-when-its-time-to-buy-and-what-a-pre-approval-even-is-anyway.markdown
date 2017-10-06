@@ -13,6 +13,13 @@ tags:
 - house
 - down payment
 image: "/uploads/money.jpg"
+author: Liz Delgado-Steo
+author-desc: 'A proud native Washingtonian and real estate agent with Jason Martin
+  Group. She''s knowledgable, committed, and unstoppable while representing her clients
+  -- buyers and sellers. '
+author-image: "/uploads/liz.jpg"
+tweet: 'What kind of mortgage do you need? Here are all your options! #homebuying
+  #mortgage #loans'
 posts:
 - What I Wish I'd Known Before Buying a Home
 - How to Budget as a Couple
