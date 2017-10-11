@@ -12,7 +12,7 @@ posts:
 - How to Budget as a Couple
 ---
 
-You did it! You found the house! It’s a 3 bed, 2.5 bath with gorgeous master bedroom, open concept kitchen, shiplap walls, and Spanish tiles in the entryway. It’s like JoJo from Fixer Upper designed it herself. And it was only $100,000! Okay, let’s get real, folks. Buying in Washington, DC often takes a sizable chunk of your change. Even after you’ve scrimped and saved it can be hard to pour every penny you have into the down payment, the closing costs, and the moving fees. In fact, no reputable agent or lender would advise that you do that; that’s where the term “house poor” comes from.
+You did it! You found the house! It’s a 3 bed, 2.5 bath with gorgeous master bedroom, open concept kitchen, shiplap walls, and Spanish tiles in the entryway. It’s like [JoJo from Fixer Upper](https://www.youtube.com/watch?v=X1WV2mO_N0Q&feature=youtu.be&t=16m8s) designed it herself. And it was only $100,000! Okay, let’s get real, folks. Buying in Washington, DC often takes a sizable chunk of your change. Even after you’ve scrimped and saved it can be hard to pour every penny you have into the down payment, the closing costs, and the moving fees. In fact, no reputable agent or lender would advise that you do that; that’s where the term “house poor” comes from.
 
 Fortunately, you’re not alone; there are programs out there from the federal government, the DC government, and from private lenders that help cover some or all of these fees. (No, movers won’t be covered – but if you’re moving in from out of state or from abroad, there’s a good chance your employer will help if asked!) Let’s get familiar with these costs:
 
@@ -50,15 +50,15 @@ Lenders prefer you put down more because they think it means you’re less likel
 
 **Home Purchase Assistance Program (HPAP)**
 
-* **Help when you need it.** HPAP gives low-income first-time buyers interest-free loans and help with closing costs to those who qualify.  
+* **Help when you need it.** HPAP gives low-income first-time buyers interest-free loans and help with closing costs to those who qualify.
 
-* **You’ve got time. **Paying off the loan is deferred (held off) for 5 full years.  This means you’ll have time to save money to get the loan paid off. 
+* \*\*You’ve got time. \*\*Paying off the loan is deferred (held off) for 5 full years.  This means you’ll have time to save money to get the loan paid off.
 
-* **Serious assistance. **The amount awarded is based on income, the size of your household, and the amount of your down payment. HPAP offers a maximum of $80,000 in assistance and an additional $4,000 or 4% whichever is less in closing costs. 
+* \*\*Serious assistance. \*\*The amount awarded is based on income, the size of your household, and the amount of your down payment. HPAP offers a maximum of $80,000 in assistance and an additional $4,000 or 4% whichever is less in closing costs.
 
-* **Not everyone can ride this train. **Here’s just a few of the eligibility criteria: be the head of the household and first time home buyer, low-to-moderate income resident, with priority on existing DC residents who may also be elderly, handicapped, disabled, or displaced. 
+* \*\*Not everyone can ride this train. \*\*Here’s just a few of the eligibility criteria: be the head of the household and first time home buyer, low-to-moderate income resident, with priority on existing DC residents who may also be elderly, handicapped, disabled, or displaced.
 
-* **Get schooled. **This program takes a while to get processed and asks for the buyers to take classes and appointments with a loan counselor, so anyone considering this program should consider the time commitment.  
+* \*\*Get schooled. \*\*This program takes a while to get processed and asks for the buyers to take classes and appointments with a loan counselor, so anyone considering this program should consider the time commitment.
 
 * **Timing is everything.** It can be tough to get the HPAP paperwork done during an offer; buyers should be aware that this loan will often take longer than the terms of a standard contract which may make them less attractive to a seller who wants their house sold quickly.
 
