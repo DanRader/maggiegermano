@@ -73,3 +73,9 @@ Also, some versions of these programs require that you take a class or two on ho
 * Before you start sweating heavily this is part of your total down payment, not in addition to it!
 
 \**A ratified offer* is when both the buyers and sellers agree to the terms of the offer; it means the seller has chosen to your offer to volunteer as tribute move forward in the process to purchase.
+
+**Let’s Not Forget Closing Costs**
+
+Buyers have paid at the start of the process with their EMD, secured a loan to pay a mortgage, and are now ready to get the keys to a new home. But, wait! We’re not quite done. All of the other experts in the business haven’t been paid, yet. Your title attorney and lender, having done the lion’s share to ensure your home is really yours and that your finances are in order, are going to get paid here. The DC Government also wants a piece of the action and will ask for a recordation tax. (Yep, so you have to pay to record your purchase. The seller has to pay both the recordation and the transfer tax.)
+
+You’ll also have to pay mortgage insurance, title insurance, and I’m surprised they don’t ask you to insure your lunch for the next day. All this insurance protects you (and them) in case you can’t pay the mortgage or someone says your house is theirs.
