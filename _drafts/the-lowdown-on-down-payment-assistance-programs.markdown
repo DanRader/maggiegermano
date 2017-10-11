@@ -58,7 +58,7 @@ Lenders prefer you put down more because they think it means you’re less likel
 
 * **Not everyone can ride this train.** Here’s just a few of the eligibility criteria: be the head of the household and first time home buyer, low-to-moderate income resident, with priority on existing DC residents who may also be elderly, handicapped, disabled, or displaced.
 
-* \*\*Get schooled.\*\*This program takes a while to get processed and asks for the buyers to take classes and appointments with a loan counselor, so anyone considering this program should consider the time commitment.
+* **Get schooled.** This program takes a while to get processed and asks for the buyers to take classes and appointments with a loan counselor, so anyone considering this program should consider the time commitment.
 
 * **Timing is everything.** It can be tough to get the HPAP paperwork done during an offer; buyers should be aware that this loan will often take longer than the terms of a standard contract which may make them less attractive to a seller who wants their house sold quickly.
 
@@ -72,4 +72,4 @@ Also, some versions of these programs require that you take a class or two on ho
 
 * Before you start sweating heavily this is part of your total down payment, not in addition to it!
 
-\**A ratified offer* is when both the buyers and sellers agree to the terms of the offer; it means the seller has chosen to your offer to ~~volunteer as tribute~~ move forward in the process to purchase.
+\**A ratified offer* is when both the buyers and sellers agree to the terms of the offer; it means the seller has chosen to your offer to volunteer as tribute move forward in the process to purchase.
