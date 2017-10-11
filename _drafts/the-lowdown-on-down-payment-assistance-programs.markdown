@@ -22,8 +22,44 @@ This is the amount of money you “put down” to spend at the start of the purc
 
 Lenders prefer you put down more because they think it means you’re less likely to default on your mortgage (that’s industry term for not paying your mortgage and it’s a really bad idea, I wouldn’t suggest it).  Your credit score, history, total debt, and annual income all impact the loan amount you can qualify for. See my post [last week](https://www.maggiegermano.com/blog/financing-options-when-its-time-to-buy/) on how a lender pre-approves your loan.
 
-**Down Payment Assistance**
+## Down Payment Assistance
 
-* DC Open Doors (DCOD)
+**DC Open Doors (DCOD)**
 
-* \
+* **You get a grant, and you get a grant!** This program provides a grant that covers the cost of your down payment up to 3-3.5% for buyers who might exceed the income cap of other federal programs.
+
+* **Friendly income cap.** The maximum borrower individual income is $132,360 so chances are many reading this can apply.
+
+* **Can’t forget your credit score.** Applicants need a credit score of 640 or higher and a maximum debt-to-income ratio of 45%. Your credit score is fully within your control. Talk with Maggie if you need help improving your credit score!
+
+* \*\*Sit tight. \*\*The loan is forgiven at a rate of 20% a year, meaning you’ll be fully paid off in 5 years. If you need to sell before that time, you’ll owe the remainder of the loan plus interest. So, only consider this loan if you’re planning on sticking around for a while.
+
+* **Two flavors.** These are backed via an FHA (aka government) loan or a Fannie Mae (aka private) loan.
+
+* **A local program.** This is offered by the DC Housing Finance Agency.
+
+**Down Payment Assistance Programs by Private Lenders**
+
+* **Competition benefits you.** Some lenders provide programs similar to DC Open Doors where they make grants up to 3% of the down payment, but they don’t have to be repaid. You read that right! (Talk to me about reputable lenders that provide these.)
+
+* **Timing is everything.** Local private lenders are often faster and more responsive during your offer timeline, which keeps a frequently stressful timeline on track.
+
+* **Maybe not now, but later.** These programs often have less favorable interest rates (the interest you pay on the loan you take out) so you might end up paying more over time, rather than up front, so think about it carefully.
+
+* **It’s a re-package.** I’ve got it on good authority that many of these programs are either a re-branding of the Fannie Mae loan called HomeReady or something comparable.  There’s nothing wrong with that – but you should know!
+
+**Home Purchase Assistance Program (HPAP)**
+
+* **Help when you need it.** HPAP gives low-income first-time buyers interest-free loans and help with closing costs to those who qualify.  
+
+* **You’ve got time. **Paying off the loan is deferred (held off) for 5 full years.  This means you’ll have time to save money to get the loan paid off. 
+
+* **Serious assistance. **The amount awarded is based on income, the size of your household, and the amount of your down payment. HPAP offers a maximum of $80,000 in assistance and an additional $4,000 or 4% whichever is less in closing costs. 
+
+* **Not everyone can ride this train. **Here’s just a few of the eligibility criteria: be the head of the household and first time home buyer, low-to-moderate income resident, with priority on existing DC residents who may also be elderly, handicapped, disabled, or displaced. 
+
+* **Get schooled. **This program takes a while to get processed and asks for the buyers to take classes and appointments with a loan counselor, so anyone considering this program should consider the time commitment.  
+
+* **Timing is everything.** It can be tough to get the HPAP paperwork done during an offer; buyers should be aware that this loan will often take longer than the terms of a standard contract which may make them less attractive to a seller who wants their house sold quickly.
+
+Also, some versions of these programs require that you take a class or two on home ownership and financing; while that’s time out of your schedule they’re often helpful and free. You can also [schedule a meeting with me](mailto:liz@jasonmartingroup.com) to discuss what the home buying process will look like!  While I’m no teacher, I do wear glasses and have a jacket with patches on the elbows.
