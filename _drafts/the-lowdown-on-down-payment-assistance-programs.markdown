@@ -21,3 +21,9 @@ Fortunately, you’re not alone; there are programs out there from the federal g
 This is the amount of money you “put down” to spend at the start of the purchase that is part of your home loan. It’s typically 3-25% of the total loan; so, on a $400,000 condo, your down payment could be anywhere from $12,000 - $100,000. That’s quite a spread; put that on your bread and butter it! Most people in DC will put down 10-20% but as a buyer, it’s good to know you can put down less.
 
 Lenders prefer you put down more because they think it means you’re less likely to default on your mortgage (that’s industry term for not paying your mortgage and it’s a really bad idea, I wouldn’t suggest it).  Your credit score, history, total debt, and annual income all impact the loan amount you can qualify for. See my post [last week](https://www.maggiegermano.com/blog/financing-options-when-its-time-to-buy/) on how a lender pre-approves your loan.
+
+**Down Payment Assistance**
+
+* DC Open Doors (DCOD)
+
+* \
