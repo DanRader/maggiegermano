@@ -32,7 +32,7 @@ Lenders prefer you put down more because they think it means you’re less likel
 
 * **Can’t forget your credit score.** Applicants need a credit score of 640 or higher and a maximum debt-to-income ratio of 45%. Your credit score is fully within your control. Talk with Maggie if you need help improving your credit score!
 
-* \*\*Sit tight. \*\*The loan is forgiven at a rate of 20% a year, meaning you’ll be fully paid off in 5 years. If you need to sell before that time, you’ll owe the remainder of the loan plus interest. So, only consider this loan if you’re planning on sticking around for a while.
+* **Sit tight.** The loan is forgiven at a rate of 20% a year, meaning you’ll be fully paid off in 5 years. If you need to sell before that time, you’ll owe the remainder of the loan plus interest. So, only consider this loan if you’re planning on sticking around for a while.
 
 * **Two flavors.** These are backed via an FHA (aka government) loan or a Fannie Mae (aka private) loan.
 
