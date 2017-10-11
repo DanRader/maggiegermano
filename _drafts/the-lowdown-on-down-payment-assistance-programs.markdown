@@ -52,14 +52,24 @@ Lenders prefer you put down more because they think it means you’re less likel
 
 * **Help when you need it.** HPAP gives low-income first-time buyers interest-free loans and help with closing costs to those who qualify.
 
-* \*\*You’ve got time. \*\*Paying off the loan is deferred (held off) for 5 full years.  This means you’ll have time to save money to get the loan paid off.
+* **You’ve got time.** Paying off the loan is deferred (held off) for 5 full years.  This means you’ll have time to save money to get the loan paid off.
 
-* \*\*Serious assistance. \*\*The amount awarded is based on income, the size of your household, and the amount of your down payment. HPAP offers a maximum of $80,000 in assistance and an additional $4,000 or 4% whichever is less in closing costs.
+* **Serious assistance.** The amount awarded is based on income, the size of your household, and the amount of your down payment. HPAP offers a maximum of $80,000 in assistance and an additional $4,000 or 4% whichever is less in closing costs.
 
-* \*\*Not everyone can ride this train. \*\*Here’s just a few of the eligibility criteria: be the head of the household and first time home buyer, low-to-moderate income resident, with priority on existing DC residents who may also be elderly, handicapped, disabled, or displaced.
+* **Not everyone can ride this train.** Here’s just a few of the eligibility criteria: be the head of the household and first time home buyer, low-to-moderate income resident, with priority on existing DC residents who may also be elderly, handicapped, disabled, or displaced.
 
-* \*\*Get schooled. \*\*This program takes a while to get processed and asks for the buyers to take classes and appointments with a loan counselor, so anyone considering this program should consider the time commitment.
+* \*\*Get schooled.\*\*This program takes a while to get processed and asks for the buyers to take classes and appointments with a loan counselor, so anyone considering this program should consider the time commitment.
 
 * **Timing is everything.** It can be tough to get the HPAP paperwork done during an offer; buyers should be aware that this loan will often take longer than the terms of a standard contract which may make them less attractive to a seller who wants their house sold quickly.
 
 Also, some versions of these programs require that you take a class or two on home ownership and financing; while that’s time out of your schedule they’re often helpful and free. You can also [schedule a meeting with me](mailto:liz@jasonmartingroup.com) to discuss what the home buying process will look like!  While I’m no teacher, I do wear glasses and have a jacket with patches on the elbows.
+
+## Earnest Money Deposit (EMD)
+
+* The EMD should make a cameo appearance on any blog that talks about home costs for a DC buyer. It’s a portion of your down payment that’s used to show the seller that you’ve got skin in the game; you’ll put this amount down when it’s time to make the offer and it’s ratified\*. The title company holds that money in escrow as an impartial party until close (the day you actually purchase the home).
+
+* In D.C., you’re likely to put down different amounts depending on where you plan to purchase: the average is 3% but competitive properties in popular neighborhoods can go anywhere from 5-10%.
+
+* Before you start sweating heavily this is part of your total down payment, not in addition to it!
+
+\**A ratified offer* is when both the buyers and sellers agree to the terms of the offer; it means the seller has chosen to your offer to ~~volunteer as tribute~~ move forward in the process to purchase.
