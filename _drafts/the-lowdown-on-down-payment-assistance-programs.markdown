@@ -40,7 +40,7 @@ Lenders prefer you put down more because they think it means you’re less likel
 
 ## Down Payment Assistance
 
-**DC Open Doors (DCOD)**
+**[DC Open Doors](http://www.dchfa.org/DCHFAHome/Homebuyers/DownPaymentAssistance/tabid/276/Default.aspx) (DCOD)**
 
 * **You get a grant, and you get a grant!** This program provides a grant that covers the cost of your down payment up to 3-3.5% for buyers who might exceed the income cap of other federal programs.
 
