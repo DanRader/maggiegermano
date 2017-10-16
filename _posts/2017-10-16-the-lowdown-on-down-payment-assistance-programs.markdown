@@ -40,7 +40,7 @@ Lenders prefer you put down more because they think it means you’re less likel
 
 ## Down Payment Assistance
 
-**DC Open Doors (DCOD)**
+**[DC Open Doors](http://www.dchfa.org/DCHFAHome/Homebuyers/DownPaymentAssistance/tabid/276/Default.aspx) (DCOD)**
 
 * **You get a grant, and you get a grant!** This program provides a grant that covers the cost of your down payment up to 3-3.5% for buyers who might exceed the income cap of other federal programs.
 
@@ -64,7 +64,7 @@ Lenders prefer you put down more because they think it means you’re less likel
 
 * **It’s a re-package.** I’ve got it on good authority that many of these programs are either a re-branding of the Fannie Mae loan called HomeReady or something comparable.  There’s nothing wrong with that – but you should know!
 
-**Home Purchase Assistance Program (HPAP)**
+**[Home Purchase Assistance Program](https://dhcd.dc.gov/service/home-purchase-assistance-program-hpap) (HPAP)**
 
 * **Help when you need it.** HPAP gives low-income first-time buyers interest-free loans and help with closing costs to those who qualify.
 
@@ -100,7 +100,7 @@ You’ll also have to pay mortgage insurance, title insurance, and I’m surpris
 
 * **Great news for your wallet!** As of October 1, 2017, DC is now asking for a whole lot less money to record your property.
 
-* **It’s less than a percent.** The \*\*benefit is 0.725% tax \*\*on eligible homes.
+* **It’s less than a percent.** The **benefit is 0.725%** tax on eligible homes.
 
 * **Lots of homes fit this discount.** All residential properties (and co-ops) purchased **up to $625,000** can use this new rate.
 
@@ -114,7 +114,7 @@ You’ll also have to pay mortgage insurance, title insurance, and I’m surpris
 
 ## Saving Money with Title Attorneys and Lenders
 
-* **Take your pick.** While your real estate agent, if they’re knowledgeable, will have relationships with other leaders who are also great at their job, it doesn’t hurt to shop around. This is your money. Websites like UrbanTurf have done studies on industry rates.
+* **Take your pick.** While your real estate agent, if they’re knowledgeable, will have relationships with other leaders who are also great at their job, it doesn’t hurt to shop around. This is your money. Websites like [UrbanTurf](https://dc.urbanturf.com/) have done studies on industry rates.
 
 * **You get what you pay for.** Be careful with lenders and title companies offering fantastic discounts; there’s a reason why they really want to discount their business. Title attorneys and lenders should be proving their value throughout the process. As a matter of professional preference only, going with a mobile lender or attorney doesn’t always go smoothly as a lot can happen at a settlement table—although it’s your option!
 
