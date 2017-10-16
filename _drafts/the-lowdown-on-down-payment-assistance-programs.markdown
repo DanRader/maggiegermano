@@ -64,7 +64,7 @@ Lenders prefer you put down more because they think it means you’re less likel
 
 * **It’s a re-package.** I’ve got it on good authority that many of these programs are either a re-branding of the Fannie Mae loan called HomeReady or something comparable.  There’s nothing wrong with that – but you should know!
 
-**Home Purchase Assistance Program (HPAP)**
+**[Home Purchase Assistance Program](https://dhcd.dc.gov/service/home-purchase-assistance-program-hpap) (HPAP)**
 
 * **Help when you need it.** HPAP gives low-income first-time buyers interest-free loans and help with closing costs to those who qualify.
 
