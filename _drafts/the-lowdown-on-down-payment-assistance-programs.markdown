@@ -100,7 +100,7 @@ You’ll also have to pay mortgage insurance, title insurance, and I’m surpris
 
 * **Great news for your wallet!** As of October 1, 2017, DC is now asking for a whole lot less money to record your property.
 
-* **It’s less than a percent.** The \*\*benefit is 0.725% tax \*\*on eligible homes.
+* **It’s less than a percent.** The **benefit is 0.725%** tax on eligible homes.
 
 * **Lots of homes fit this discount.** All residential properties (and co-ops) purchased **up to $625,000** can use this new rate.
 
