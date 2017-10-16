@@ -74,8 +74,32 @@ Also, some versions of these programs require that you take a class or two on ho
 
 \**A ratified offer* is when both the buyers and sellers agree to the terms of the offer; it means the seller has chosen to your offer to volunteer as tribute move forward in the process to purchase.
 
-**Let’s Not Forget Closing Costs**
+## Let’s Not Forget Closing Costs
 
 Buyers have paid at the start of the process with their EMD, secured a loan to pay a mortgage, and are now ready to get the keys to a new home. But, wait! We’re not quite done. All of the other experts in the business haven’t been paid, yet. Your title attorney and lender, having done the lion’s share to ensure your home is really yours and that your finances are in order, are going to get paid here. The DC Government also wants a piece of the action and will ask for a recordation tax. (Yep, so you have to pay to record your purchase. The seller has to pay both the recordation and the transfer tax.)
 
 You’ll also have to pay mortgage insurance, title insurance, and I’m surprised they don’t ask you to insure your lunch for the next day. All this insurance protects you (and them) in case you can’t pay the mortgage or someone says your house is theirs.
+
+## Saving Money Through the DC Recordation Tax
+
+* **Great news for your wallet! **As of October 1, 2017, DC is now asking for a whole lot less money to record your property.
+
+* **It’s less than a percent.** The **benefit is 0.725% tax **on eligible homes.
+
+* **Lots of homes fit this discount.** All residential properties (and co-ops) purchased **up to $625,000** can use this new rate.
+
+* **Newbies only.** Buyers who have never owned an eligible DC property before, or who lost it during a divorce/separation proceeding can apply.
+
+* **DC should be your home. **Applicant buyers have to prove they live in or intend to make DC their home permanently.
+
+* **None of your business. **LLC’s, revocable trusts, and other business entities are not eligible for this tax reduction.
+
+* **There are income limits. **These are all based on the number of dependents; there’s a table in the [Homestead Application](https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/FP-100%20HOMESTEAD%20RECONFIRMATION_0000%2003092017.pdf) (Form FP-100) offered by the DC Office of Tax and Revenue.
+
+## Saving Money with Title Attorneys and Lenders
+
+* **Take your pick. **While your real estate agent, if they’re knowledgeable, will have relationships with other leaders who are also great at their job, it doesn’t hurt to shop around. This is your money. Websites like UrbanTurf have done studies on industry rates.
+
+* **You get what you pay for.** Be careful with lenders and title companies offering fantastic discounts; there’s a reason why they really want to discount their business. Title attorneys and lenders should be proving their value throughout the process. As a matter of professional preference only, going with a mobile lender or attorney doesn’t always go smoothly as a lot can happen at a settlement table—although it’s your option!
+
+* **Don’t drag your feet.** You might be putting yourself in a very uncomfortable spot if you don’t pick a lender early on in the process. You may even lose the offer because of the timing of the loan. So again, it’s your choice, but definitely make one.
