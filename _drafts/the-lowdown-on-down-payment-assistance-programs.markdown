@@ -1,6 +1,7 @@
 ---
 title: The Lowdown on Down Payment Assistance Programs
 date: 2017-10-16 11:00:00 -04:00
+image: "/uploads/houses.jpg"
 author: Liz Delgado-Steo
 author-desc: A proud native Washingtonian and real estate agent with Jason Martin
   Group. She's knowledgable, committed, and unstoppable while representing her clients
