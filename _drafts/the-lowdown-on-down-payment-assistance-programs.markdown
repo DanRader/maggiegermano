@@ -6,6 +6,8 @@ author-desc: A proud native Washingtonian and real estate agent with Jason Marti
   Group. She's knowledgable, committed, and unstoppable while representing her clients
   -- buyers and sellers.
 author-image: "/uploads/liz.jpg"
+tweet: 'Don''t have $ for a #downpayment or other #homebuying costs? You still have
+  options!'
 posts:
 - Financing Options When It's Time to Buy a Home
 - What I Wish I'd Known Before Buying a Home
@@ -82,24 +84,32 @@ You’ll also have to pay mortgage insurance, title insurance, and I’m surpris
 
 ## Saving Money Through the DC Recordation Tax
 
-* **Great news for your wallet! **As of October 1, 2017, DC is now asking for a whole lot less money to record your property.
+* **Great news for your wallet!** As of October 1, 2017, DC is now asking for a whole lot less money to record your property.
 
-* **It’s less than a percent.** The **benefit is 0.725% tax **on eligible homes.
+* **It’s less than a percent.** The \*\*benefit is 0.725% tax \*\*on eligible homes.
 
 * **Lots of homes fit this discount.** All residential properties (and co-ops) purchased **up to $625,000** can use this new rate.
 
 * **Newbies only.** Buyers who have never owned an eligible DC property before, or who lost it during a divorce/separation proceeding can apply.
 
-* **DC should be your home. **Applicant buyers have to prove they live in or intend to make DC their home permanently.
+* **DC should be your home.** Applicant buyers have to prove they live in or intend to make DC their home permanently.
 
-* **None of your business. **LLC’s, revocable trusts, and other business entities are not eligible for this tax reduction.
+* **None of your business.** LLC’s, revocable trusts, and other business entities are not eligible for this tax reduction.
 
-* **There are income limits. **These are all based on the number of dependents; there’s a table in the [Homestead Application](https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/FP-100%20HOMESTEAD%20RECONFIRMATION_0000%2003092017.pdf) (Form FP-100) offered by the DC Office of Tax and Revenue.
+* **There are income limits.** These are all based on the number of dependents; there’s a table in the [Homestead Application](https://otr.cfo.dc.gov/sites/default/files/dc/sites/otr/publication/attachments/FP-100%20HOMESTEAD%20RECONFIRMATION_0000%2003092017.pdf) (Form FP-100) offered by the DC Office of Tax and Revenue.
 
 ## Saving Money with Title Attorneys and Lenders
 
-* **Take your pick. **While your real estate agent, if they’re knowledgeable, will have relationships with other leaders who are also great at their job, it doesn’t hurt to shop around. This is your money. Websites like UrbanTurf have done studies on industry rates.
+* **Take your pick.** While your real estate agent, if they’re knowledgeable, will have relationships with other leaders who are also great at their job, it doesn’t hurt to shop around. This is your money. Websites like UrbanTurf have done studies on industry rates.
 
 * **You get what you pay for.** Be careful with lenders and title companies offering fantastic discounts; there’s a reason why they really want to discount their business. Title attorneys and lenders should be proving their value throughout the process. As a matter of professional preference only, going with a mobile lender or attorney doesn’t always go smoothly as a lot can happen at a settlement table—although it’s your option!
 
 * **Don’t drag your feet.** You might be putting yourself in a very uncomfortable spot if you don’t pick a lender early on in the process. You may even lose the offer because of the timing of the loan. So again, it’s your choice, but definitely make one.
+
+## Saving Money on Title Insurance
+
+* **Do your research.** The [American Land Title Association](http://www.homeclosing101.org/) is a great resource for buyers to find title insurance companies in order to compare them. (They’re also a great resource that will [dive into closing costs](http://www.homeclosing101.org/the-closing-process/closing-costs-explained/).)
+
+* **Ask the seller to pay.** I only recommend this on a case by case basis, as in DC this is not particularly common. You have a shot at saving money in DC if the seller has purchased title insurance on a home less than 10 years ago and has a copy of that insurance. Your agent can ask the seller’s agent for a copy of it to get a solid discount on your new insurance.
+
+The list of costs is long when buying a home, there’s no doubt about that. But a savvy agent makes a savvy buyer. Talk with your agent to discuss these options; they may not know every answer but a great agent is always challenging themselves to learn. Don’t have an agent yet? [Talk to me](mailto:liz@jasonmartingroup.com) – you know I’ve already got your back. Because we all have to [get by with a little help from our friends](https://youtu.be/iuFnHa_s-P0?t=3m).
