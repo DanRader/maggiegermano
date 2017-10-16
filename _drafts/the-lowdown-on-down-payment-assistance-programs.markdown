@@ -114,7 +114,7 @@ You’ll also have to pay mortgage insurance, title insurance, and I’m surpris
 
 ## Saving Money with Title Attorneys and Lenders
 
-* **Take your pick.** While your real estate agent, if they’re knowledgeable, will have relationships with other leaders who are also great at their job, it doesn’t hurt to shop around. This is your money. Websites like UrbanTurf have done studies on industry rates.
+* **Take your pick.** While your real estate agent, if they’re knowledgeable, will have relationships with other leaders who are also great at their job, it doesn’t hurt to shop around. This is your money. Websites like [UrbanTurf](https://dc.urbanturf.com/) have done studies on industry rates.
 
 * **You get what you pay for.** Be careful with lenders and title companies offering fantastic discounts; there’s a reason why they really want to discount their business. Title attorneys and lenders should be proving their value throughout the process. As a matter of professional preference only, going with a mobile lender or attorney doesn’t always go smoothly as a lot can happen at a settlement table—although it’s your option!
 
