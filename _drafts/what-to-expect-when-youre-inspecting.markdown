@@ -50,7 +50,7 @@ So, what are inspectors going to look for anyways? They’re going to check out 
 
 * **Exterior:** The home inspector will look for siding cracks, rot, or decay; cracking or flaking masonry; cracks in stucco; dents or bowing in vinyl; blistering or flaking paint; and adequate clearing between siding and earth, which should be a minimum of 6 inches to avoid damage from moisture (although dirt will of course be in contact with the cement foundation).
 
-* **Structure:** Is the house foundation solid? Is it standing up straight or leaning? What about the window and door frames? If you’ve ever heard anyone talk about a house “having good bones” this is what they’re looking for; keep in mind, lots of homes in DC are older and may not always have perfectly square corners. That’s not the same thing
+* **Structure:** Is the house foundation solid? Is it standing up straight or leaning? What about the window and door frames? If you’ve ever heard anyone talk about a house “having good bones” this is what they’re looking for; keep in mind, lots of homes in DC are older and may not always have perfectly square corners. That’s not the same thing.
 
 * **Roof:** Even though it’s not legally required, a great inspector will try to inspect the roof with a bit more effort than staring at it from the front yard. The inspector’s looking for defects in shingles, flashing, and fascia, all of which can cause roof leaks, loose gutters; and defects in chimneys and skylights.
 
@@ -86,7 +86,7 @@ I’ve sat down with the guy who is #1 on my home inspection speed dial to captu
 
 * **There are different kinds of inspections.** Buyers can ask for pre-inspections, a more standard inspection while under contract, or specific inspections of different parts of the home (like termite, electrical, structural). Sellers can ask, too, for inspections of their renovation.
 
-* \*\*Experts call in other experts. \*\*Knowing what you don’t know is a strength. So, if your inspector recommends you call a structural engineer to check out sagging stairs, it’s in your best interest to get them checked out by a specialist.
+* **Experts call in other experts.** Knowing what you don’t know is a strength. So, if your inspector recommends you call a structural engineer to check out sagging stairs, it’s in your best interest to get them checked out by a specialist.
 
 Need a smart inspector who will go above and beyond? [Email us](mailto:familyhomeinspections@outlook.com?subject=I%20read%20your%20post%20-%20and%20need%20your%20help!) or [talk to me](mailto:liz@jasonmartingroup.com?subject=Mayday!%20%20I%20need%20your%20expert%20advice!) to get some help from our crack team.
 
