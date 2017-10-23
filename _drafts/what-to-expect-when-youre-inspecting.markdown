@@ -58,7 +58,7 @@ So, what are inspectors going to look for anyways? They’re going to check out 
 
 * **Interior rooms:** Inspectors check for leaning walls and poor framing; stained ceilings and walls that could indicate past or present water damage; adequate insulation in the walls; and where the heating and cooling vents are located for proper flow. They’ll also look at evenness of the floors, age and condition of hardwood, carpet, vinyl or tile.
 
-* **Appliances:** They’ll be checking the water heater, heat pump, water boiler (if different), A/C Unit Handler & exterior unit, sump pump (if any), fridge & ice-maker, stove, oven, microwave, and any other appliances in the house, noting age, condition, and function.
+* **Appliances:** They’ll be checking the water heater, heat pump, water boiler (if different), A/C unit handler & exterior unit, sump pump (if any), fridge & ice-maker, stove, oven, microwave, and any other appliances in the house, noting age, condition, and function.
 
 * **Kitchen:** Inspectors turn on the oven, the cooktop burners, and the microwave. They’ll check that the range hood fan is working and any in-sink disposal functions; ground fault circuit interrupter (GFCI) protection exists for electrical outlets within a specific distance; they check the faucets work, the sink is secured, and that there’s no leaking under the sink; and cabinet doors and drawers operate properly.
 
@@ -74,13 +74,13 @@ They’ll also catch if the seller thought of themselves as a DIY guru, since th
 
 *(With Andrew Tuzzio of Family Home Inspections)*
 
-I’ve sat down with the guy who is #1 on my home inspection speed dial to capture some, might I add very quotable, pearls of wisdom on what he wishes you knew:
+I’ve sat down with the guy who is #1 on my home inspection speed dial to capture some pearls of wisdom on what he wishes you knew:
 
 * **This is just like a physical.** Very similar to going to visit your doctor once a year, you’re looking for signs and symptoms of health in the home.
 
 * **But it’s not an x-ray.** There’s no chance to look inside the walls. But that doesn’t mean you don’t get a lot of really good information that helps you be an informed buyer. A good inspector will be able to have some idea if there may or may not be issues with common tell-tale signs.
 
-* **This takes time.** To properly go over everything and not rush, a general home inspection takes 3 hours on average; writing the home inspection in a report takes a while, too. There’s nothing good about rushing that. (*Agent note:* your agent should work with the inspector to get the report within the contract timeline.)
+* **This takes time.** To properly go over everything and not rush, a general home inspection takes 3 hours on average; writing the home inspection in a report takes a while, too. There’s nothing good about rushing that. (N*ote:* your agent should work with the inspector to get the report within the contract timeline.)
 
 * **It’s not a spectator sport.** The team approach is important and you should stay involved throughout the inspection. That’s because not all of the knowledge is technical and you should learn about what you’re going to buy.
 
