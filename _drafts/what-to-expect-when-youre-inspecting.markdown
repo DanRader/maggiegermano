@@ -11,6 +11,10 @@ tags:
 - real estate
 - budget
 - inspection
+- home inspection
+- home inspector
+- money
+- goals
 image: "/uploads/homes.jpg"
 author: Liz Delgado-Steo
 author-desc: A proud native Washingtonian and real estate agent with Jason Martin
