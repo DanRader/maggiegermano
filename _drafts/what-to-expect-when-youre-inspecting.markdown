@@ -28,9 +28,9 @@ posts:
 - What I Wish I'd Known Before Buying a Home
 ---
 
-There is a man on a roof with a flashlight peering into a crack near the outside of a chimney. No, this home isn’t being broken into and it sure isn’t Santa. This, dear readers, is your home inspection, which kicks in on your offer timeline right after the sellers agree to your offer. It’s often terrifying for buyers and frustrating to sellers. There should be a [Lifetime Original Movie](http://www.refinery29.com/2015/09/93353/lifetime-movies-based-on-true-stories) on it at this point – *The Silent Killer: A Home Inspection Story*, starring Melissa Joan Hart as the buyer and Joey Lawrence as the seller. I’d watch it but it would hit too close to home. (Get it? Okay, I’ll stop.)\
-\
-That’s because buyers often come in expecting their “perfect” house to work “perfectly” and sellers think their home is just fine. A home inspection is a reality check; you’re never going to like your house more after the inspection. Let me repeat that: you *aren’t* going like your house more after the inspection. But that’s okay! You should know as much about the house you’re about to buy as you possibly can and don’t have to be fixed immediately. Plus, most actually are fixable and maybe you want to do your own [home improvement](https://www.youtube.com/watch?v=eZ9Xk0Lln5Y)! Let’s first explore what happens during the inspection and you’ll understand why.
+There is a man on a roof with a flashlight peering into a crack near the outside of a chimney. No, this home isn’t being broken into and it sure isn’t Santa. This, dear readers, is your home inspection, which kicks in on your offer timeline right after the sellers agree to your offer. It’s often terrifying for buyers and frustrating to sellers. There should be a [Lifetime Original Movie](http://www.refinery29.com/2015/09/93353/lifetime-movies-based-on-true-stories) on it at this point – *The Silent Killer: A Home Inspection Story*, starring Melissa Joan Hart as the buyer and Joey Lawrence as the seller. I’d watch it but it would hit too close to home. (Get it? Okay, I’ll stop.)
+
+That’s because buyers often come in expecting their “perfect” house to work “perfectly” and sellers think their home is just fine. A home inspection is a reality check; you’re never going to like your house more after the inspection. Let me repeat that: you *aren’t* going like your house more after the inspection. But that’s okay! You should know as much about the house you’re about to buy as you possibly can. Plus, most are actually fixable and maybe you want to do your own [home improvement](https://www.youtube.com/watch?v=eZ9Xk0Lln5Y)! Let’s first explore what happens during the inspection and you’ll understand why.
 
 ## Pick the Inspector
 
@@ -54,11 +54,11 @@ So, what are inspectors going to look for anyways? They’re going to check out 
 
 * **Roof:** Even though it’s not legally required, a great inspector will try to inspect the roof with a bit more effort than staring at it from the front yard. The inspector’s looking for defects in shingles, flashing, and fascia, all of which can cause roof leaks, loose gutters; and defects in chimneys and skylights.
 
-* **Window, doors, trim:** If eyes are windows to the soul, then windows are a great way to lose money in winter if they’re in bad condition. Windows are critical insulation from the elements, and boy do we have those in the DMV. A home exposed to all [4 Seasons](https://youtu.be/3pWBnodrR1M) of the year should have good windows. They keep the cold out, the heat in, and could keep your home energy efficient. The inspector will see if frames are secure and without dry rot or water damage, properly sealed frames, and the condition of the glass.
+* **Windows, doors, trim:** If eyes are windows to the soul, then windows are a great way to lose money in winter if they’re in bad condition. Windows are critical insulation from the elements, and boy do we have those in the DMV. A home exposed to all [four seasons](https://www.youtube.com/watch?v=3pWBnodrR1M&feature=youtu.be) of the year should have good windows. They keep the cold out, the heat in, and could keep your home energy efficient. The inspector will see if frames are secure and without dry rot or water damage, properly sealed frames, and the condition of the glass.
 
 * **Interior rooms:** Inspectors check for leaning walls and poor framing; stained ceilings and walls that could indicate past or present water damage; adequate insulation in the walls; and where the heating and cooling vents are located for proper flow. They’ll also look at evenness of the floors, age and condition of hardwood, carpet, vinyl or tile.
 
-* **Appliances:** They’ll be checking the water heater, heat pump, water boiler (if different), A/C Unit Handler & exterior unit, sump pump (if any), fridge & ice-maker, stove, oven, microwave, and any other appliances in the house, noting age, condition, and function.
+* **Appliances:** They’ll be checking the water heater, heat pump, water boiler (if different), A/C unit handler & exterior unit, sump pump (if any), fridge & ice-maker, stove, oven, microwave, and any other appliances in the house, noting age, condition, and function.
 
 * **Kitchen:** Inspectors turn on the oven, the cooktop burners, and the microwave. They’ll check that the range hood fan is working and any in-sink disposal functions; ground fault circuit interrupter (GFCI) protection exists for electrical outlets within a specific distance; they check the faucets work, the sink is secured, and that there’s no leaking under the sink; and cabinet doors and drawers operate properly.
 
@@ -74,13 +74,13 @@ They’ll also catch if the seller thought of themselves as a DIY guru, since th
 
 *(With Andrew Tuzzio of Family Home Inspections)*
 
-I’ve sat down with the guy who is #1 on my home inspection speed dial to capture some, might I add very quotable, pearls of wisdom on what he wishes you knew:
+I’ve sat down with the guy who is #1 on my home inspection speed dial to capture some pearls of wisdom on what he wishes you knew:
 
 * **This is just like a physical.** Very similar to going to visit your doctor once a year, you’re looking for signs and symptoms of health in the home.
 
 * **But it’s not an x-ray.** There’s no chance to look inside the walls. But that doesn’t mean you don’t get a lot of really good information that helps you be an informed buyer. A good inspector will be able to have some idea if there may or may not be issues with common tell-tale signs.
 
-* **This takes time.** To properly go over everything and not rush, a general home inspection takes 3 hours on average; writing the home inspection in a report takes a while, too. There’s nothing good about rushing that. (*Agent note:* your agent should work with the inspector to get the report within the contract timeline.)
+* **This takes time.** To properly go over everything and not rush, a general home inspection takes 3 hours on average; writing the home inspection in a report takes a while, too. There’s nothing good about rushing that. (N*ote:* your agent should work with the inspector to get the report within the contract timeline.)
 
 * **It’s not a spectator sport.** The team approach is important and you should stay involved throughout the inspection. That’s because not all of the knowledge is technical and you should learn about what you’re going to buy.
 
@@ -92,16 +92,18 @@ Need a smart inspector who will go above and beyond? [Email us](mailto:familyhom
 
 ## The Inspection Report & Response
 
-After receiving the report from the Inspector, your Agent will review and draw up a list of issues & items that will be sent to the sellers. That begins the negotiation process, where a buyer can either ask that a seller complete the fixes before they move out or for a lump sum credit from the sellers to get the fixes done after the new buyers move in. This is the part where emotions tend to run high. Buyers don’t want to incur immediate additional costs on top of their down-payment, and sellers are being told to fix problems they’ve likely lived with for a long time. So I ask you do the following:
+After receiving the report from the inspector, your agent will review and draw up a list of issues and items that will be sent to the sellers. That begins the negotiation process, where a buyer can either ask that a seller complete the fixes before they move out or ask for a lump sum credit from the sellers to get the fixes done after the new buyers move in. This is the part where emotions tend to run high. Buyers don’t want to incur immediate additional costs on top of their down-payment, and sellers are being told to fix problems they’ve likely lived with for a long time. So I ask you do the following:
 
-* Just breathe. Let your Agent handle the tough conversations and [take a moment](https://www.calm.com/) to step back because not all of it is in your court. You may be a great buyer but you might have a tough seller. It’s in their interest to work with you if you’re making reasonable asks.
+* **Just breathe.** Let your agent handle the tough conversations and [take a moment](https://www.calm.com/) to step back because not all of this is in your court. You may be a great buyer but you might have a tough seller. It’s in their interest to work with you if you’re making reasonable asks.
 
-* Prioritize. Some problems are bigger than others; work with your Agent and Inspector’s report to ensure you tackle the big ones first before focusing on small dollar fixes. (That’s not to say you can’t include those items especially if you’re paying a premium.)
+* **Prioritize.** Some problems are bigger than others; work with your agent and inspector’s report to ensure you tackle the big ones first before focusing on small dollar fixes. (That’s not to say you can’t include those items, especially if you’re paying a premium.)
 
-* Get proof.If you’re asking that sellers complete the work, there should be receipts, photos, and general proof the work was done. People can lie. So make sure they don’t. If all else fails, you will get a final walk-through the day before closing to check.
+* **Get proof.** If you’re asking that sellers complete the work, there should be receipts, photos, and general proof the work was done. People can lie. So make sure they don’t. If all else fails, you will get a final walk-through the day before closing to check.
 
-* Know when to fold ‘em. Take the Inspector’s report and your Agent’s advice on whether a house is worth all the effort and expense to fix. We’ve been in sometimes hundreds or thousands of them!
+* **Know when to fold ‘em.** Take the inspector’s report and your agent’s advice on whether a house is worth all the effort and expense to fix. We’ve been in sometimes hundreds or thousands of these situations!
 
-Fortunately, there are great Agents ([like myself](http://jasonmartingroup.com/about/Elizabeth-Delgado-Steo/6689), there I said it) and Inspectors out there who are ready to be on your crack team. Don’t take this part of the contract lightly but also remember it’s a standard part of the process and your team should be doing whatever they can to protect your interests. If you wished you had read this before you bought, connect with [Maggie](mailto:boss@maggiegermano.com) to save money to fix your home.
+Fortunately, there are great agents ([like myself](http://jasonmartingroup.com/about/Elizabeth-Delgado-Steo/6689), there I said it) and inspectors out there who are ready to be on your crack team. Don’t take this part of the contract lightly, but also remember it’s a standard part of the process and your team should be doing whatever they can to protect your interests. If you wished you had read this before you bought, connect with [Maggie](mailto:boss@maggiegermano.com) to save money to fix your home.
 
-I strongly recommend you get a home inspected. Sellers can offer their homes “As-Is” which means a buyer waives their ability to use a home inspection to leave the contract, or to negotiate with the seller to fix the items. That could put you and your finances in peril, especially if they’re [hiding snakes in the walls](https://patch.com/maryland/annapolis/1-5-million-snake-house-lawsuit-settled-unknown-sum). If you’re considering this, I sure hope you’re a developer, planning on rebuilding the home, or like snake-skin shoes.\*\*
+I strongly recommend you get a home inspection. Sellers can offer their homes “As-Is” which means a buyer waives their ability to use a home inspection to leave the contract, or to negotiate with the seller to fix the items. That could put you and your finances in peril, especially if they’re [hiding snakes in the walls](https://patch.com/maryland/annapolis/1-5-million-snake-house-lawsuit-settled-unknown-sum). If you’re considering this, I sure hope you’re a developer, planning on rebuilding the home, or enjoy snake-skin shoes.\*\*
+
+***\***\*You can get an inspector to do a pre-inspection with you before you even put in an offer, but they’re not as thorough and don’t give you any leverage during the contract period.*
