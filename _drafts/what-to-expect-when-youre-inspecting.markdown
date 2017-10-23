@@ -105,3 +105,7 @@ After receiving the report from the Inspector, your Agent will review and draw u
 Fortunately, there are great Agents ([like myself](http://jasonmartingroup.com/about/Elizabeth-Delgado-Steo/6689), there I said it) and Inspectors out there who are ready to be on your crack team. Don’t take this part of the contract lightly but also remember it’s a standard part of the process and your team should be doing whatever they can to protect your interests. If you wished you had read this before you bought, connect with [Maggie](mailto:boss@maggiegermano.com) to save money to fix your home.
 
 I strongly recommend you get a home inspected. Sellers can offer their homes “As-Is” which means a buyer waives their ability to use a home inspection to leave the contract, or to negotiate with the seller to fix the items. That could put you and your finances in peril, especially if they’re [hiding snakes in the walls](https://patch.com/maryland/annapolis/1-5-million-snake-house-lawsuit-settled-unknown-sum). If you’re considering this, I sure hope you’re a developer, planning on rebuilding the home, or like snake-skin shoes.\*\*
+
+**\***\*You can get an inspector to do a pre-inspection with you before you even put in an offer, but they’re not as thorough and don’t give you any leverage during the contract period.
+
+\*Contingencies are terms of an offer that officially allow you, the buyer, to leave the contract and keep your earnest money deposit.
