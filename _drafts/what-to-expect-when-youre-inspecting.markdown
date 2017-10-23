@@ -43,6 +43,7 @@ If you’ve got a [great Agent](mailto:liz@jasonmartingroup.com?subject=I'd%20re
 * **Experience counts.** The more an inspector already knows about what to check in advance, the better. Our [favorite go-to inspector](mailto:liz@jasonmartingroup.com?subject=Liz,%20connect%20me%20to%20your%20home%20inspectors!) at JMG used to build and remodel homes. He knows what to look out for and where people often cut corners when fixing things. That kind of knowledge is crucial and could save you thousands of dollars.
 
 ## Inspecting the Home
+
 So, what are inspectors going to look for anyways? They’re going to check out potentially up to 2,000 different items in the home, small and large, primarily using visual inspection. You’ll follow them around and listen to any comments made. As much as any agent would like them to, they aren’t legally allowed to [bust open walls](https://youtu.be/Xpc0s9FsA1Q?t=5s) to see stuff. Here’s a summary of what they do look at:
 
 * **The Yard:** Is there any water coming into the house? They’re checking around the perimeter of the house for signs of water issues such as standing puddles and incorrect grading or downspouts. They’ll look at the landscaping only when it’s immediately impacting the home. After evaluating pathways, retaining walls, sheds, and railings, they’ll share any issues.
@@ -68,3 +69,23 @@ So, what are inspectors going to look for anyways? They’re going to check out 
 * **Electrical:** Last but absolutely not least, inspectors will check if the visible wiring and electrical panels are in good shape, light switches work correctly, and there are enough outlets in each room.
 
 They’ll also catch if the seller thought of themselves as a DIY guru, since thankfully there are standards for electrical, plumbing, tiling, appliance installation, etc. You do not have to buy a home that is held together with scotch tape and paperclips. Your inspector should tell you what’s “up to code.”
+
+## What Your Inspector Wishes You Knew
+
+*(With Andrew Tuzzio of Family Home Inspections)*
+
+I’ve sat down with the guy who is #1 on my home inspection speed dial to capture some, might I add very quotable, pearls of wisdom on what he wishes you knew:
+
+* **This is just like a physical. **Very similar to going to visit your doctor once a year, you’re looking for signs and symptoms of health in the home.
+
+* **But it’s not an x-ray. **There’s no chance to look inside the walls. But that doesn’t mean you don’t get a lot of really good information that helps you be an informed buyer. A good inspector will be able to have some idea if there may or may not be issues with common tell-tale signs.
+
+* **This takes time. **To properly go over everything and not rush, a general home inspection takes 3 hours on average; writing the home inspection in a report takes a while, too. There’s nothing good about rushing that. (*Agent note:* your agent should work with the inspector to get the report within the contract timeline.)
+
+* **It’s not a spectator sport. **The team approach is important and you should stay involved throughout the inspection. That’s because not all of the knowledge is technical and you should learn about what you’re going to buy.
+
+* **There are different kinds of inspections. **Buyers can ask for pre-inspections, a more standard inspection while under contract, or specific inspections of different parts of the home (like termite, electrical, structural). Sellers can ask, too, for inspections of their renovation.
+
+* **Experts call in other experts. **Knowing what you don’t know is a strength. So, if your inspector recommends you call a structural engineer to check out sagging stairs, it’s in your best interest to get them checked out by a specialist.
+
+Need a smart inspector who will go above and beyond? [Email us](mailto:familyhomeinspections@outlook.com?subject=I%20read%20your%20post%20-%20and%20need%20your%20help!) or [talk to me](mailto:liz@jasonmartingroup.com?subject=Mayday!%20%20I%20need%20your%20expert%20advice!) to get some help from our crack team.
