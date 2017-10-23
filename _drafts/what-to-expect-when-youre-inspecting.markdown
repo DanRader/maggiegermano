@@ -11,6 +11,7 @@ tags:
 - real estate
 - budget
 - inspection
+image: "/uploads/homes.jpg"
 author: Liz Delgado-Steo
 author-desc: A proud native Washingtonian and real estate agent with Jason Martin
   Group. She's knowledgable, committed, and unstoppable while representing her clients
