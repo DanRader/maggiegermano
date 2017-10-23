@@ -76,16 +76,32 @@ They’ll also catch if the seller thought of themselves as a DIY guru, since th
 
 I’ve sat down with the guy who is #1 on my home inspection speed dial to capture some, might I add very quotable, pearls of wisdom on what he wishes you knew:
 
-* **This is just like a physical. **Very similar to going to visit your doctor once a year, you’re looking for signs and symptoms of health in the home.
+* **This is just like a physical.** Very similar to going to visit your doctor once a year, you’re looking for signs and symptoms of health in the home.
 
-* **But it’s not an x-ray. **There’s no chance to look inside the walls. But that doesn’t mean you don’t get a lot of really good information that helps you be an informed buyer. A good inspector will be able to have some idea if there may or may not be issues with common tell-tale signs.
+* **But it’s not an x-ray.** There’s no chance to look inside the walls. But that doesn’t mean you don’t get a lot of really good information that helps you be an informed buyer. A good inspector will be able to have some idea if there may or may not be issues with common tell-tale signs.
 
-* **This takes time. **To properly go over everything and not rush, a general home inspection takes 3 hours on average; writing the home inspection in a report takes a while, too. There’s nothing good about rushing that. (*Agent note:* your agent should work with the inspector to get the report within the contract timeline.)
+* **This takes time.** To properly go over everything and not rush, a general home inspection takes 3 hours on average; writing the home inspection in a report takes a while, too. There’s nothing good about rushing that. (*Agent note:* your agent should work with the inspector to get the report within the contract timeline.)
 
-* **It’s not a spectator sport. **The team approach is important and you should stay involved throughout the inspection. That’s because not all of the knowledge is technical and you should learn about what you’re going to buy.
+* **It’s not a spectator sport.** The team approach is important and you should stay involved throughout the inspection. That’s because not all of the knowledge is technical and you should learn about what you’re going to buy.
 
-* **There are different kinds of inspections. **Buyers can ask for pre-inspections, a more standard inspection while under contract, or specific inspections of different parts of the home (like termite, electrical, structural). Sellers can ask, too, for inspections of their renovation.
+* **There are different kinds of inspections.** Buyers can ask for pre-inspections, a more standard inspection while under contract, or specific inspections of different parts of the home (like termite, electrical, structural). Sellers can ask, too, for inspections of their renovation.
 
-* **Experts call in other experts. **Knowing what you don’t know is a strength. So, if your inspector recommends you call a structural engineer to check out sagging stairs, it’s in your best interest to get them checked out by a specialist.
+* \*\*Experts call in other experts. \*\*Knowing what you don’t know is a strength. So, if your inspector recommends you call a structural engineer to check out sagging stairs, it’s in your best interest to get them checked out by a specialist.
 
 Need a smart inspector who will go above and beyond? [Email us](mailto:familyhomeinspections@outlook.com?subject=I%20read%20your%20post%20-%20and%20need%20your%20help!) or [talk to me](mailto:liz@jasonmartingroup.com?subject=Mayday!%20%20I%20need%20your%20expert%20advice!) to get some help from our crack team.
+
+## The Inspection Report & Response
+
+After receiving the report from the Inspector, your Agent will review and draw up a list of issues & items that will be sent to the sellers. That begins the negotiation process, where a buyer can either ask that a seller complete the fixes before they move out or for a lump sum credit from the sellers to get the fixes done after the new buyers move in. This is the part where emotions tend to run high. Buyers don’t want to incur immediate additional costs on top of their down-payment, and sellers are being told to fix problems they’ve likely lived with for a long time. So I ask you do the following:
+
+* Just breathe. Let your Agent handle the tough conversations and [take a moment](https://www.calm.com/) to step back because not all of it is in your court. You may be a great buyer but you might have a tough seller. It’s in their interest to work with you if you’re making reasonable asks.
+
+* Prioritize. Some problems are bigger than others; work with your Agent and Inspector’s report to ensure you tackle the big ones first before focusing on small dollar fixes. (That’s not to say you can’t include those items especially if you’re paying a premium.)
+
+* Get proof.If you’re asking that sellers complete the work, there should be receipts, photos, and general proof the work was done. People can lie. So make sure they don’t. If all else fails, you will get a final walk-through the day before closing to check.
+
+* Know when to fold ‘em. Take the Inspector’s report and your Agent’s advice on whether a house is worth all the effort and expense to fix. We’ve been in sometimes hundreds or thousands of them!
+
+Fortunately, there are great Agents ([like myself](http://jasonmartingroup.com/about/Elizabeth-Delgado-Steo/6689), there I said it) and Inspectors out there who are ready to be on your crack team. Don’t take this part of the contract lightly but also remember it’s a standard part of the process and your team should be doing whatever they can to protect your interests. If you wished you had read this before you bought, connect with [Maggie](mailto:boss@maggiegermano.com) to save money to fix your home.
+
+I strongly recommend you get a home inspected. Sellers can offer their homes “As-Is” which means a buyer waives their ability to use a home inspection to leave the contract, or to negotiate with the seller to fix the items. That could put you and your finances in peril, especially if they’re [hiding snakes in the walls](https://patch.com/maryland/annapolis/1-5-million-snake-house-lawsuit-settled-unknown-sum). If you’re considering this, I sure hope you’re a developer, planning on rebuilding the home, or like snake-skin shoes.\*\*
