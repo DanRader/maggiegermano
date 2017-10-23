@@ -92,7 +92,7 @@ Need a smart inspector who will go above and beyond? [Email us](mailto:familyhom
 
 ## The Inspection Report & Response
 
-After receiving the report from the inspector, your agent will review and draw up a list of issues and items that will be sent to the sellers. That begins the negotiation process, where a buyer can either ask that a seller complete the fixes before they move out or for a lump sum credit from the sellers to get the fixes done after the new buyers move in. This is the part where emotions tend to run high. Buyers don’t want to incur immediate additional costs on top of their down-payment, and sellers are being told to fix problems they’ve likely lived with for a long time. So I ask you do the following:
+After receiving the report from the inspector, your agent will review and draw up a list of issues and items that will be sent to the sellers. That begins the negotiation process, where a buyer can either ask that a seller complete the fixes before they move out or ask for a lump sum credit from the sellers to get the fixes done after the new buyers move in. This is the part where emotions tend to run high. Buyers don’t want to incur immediate additional costs on top of their down-payment, and sellers are being told to fix problems they’ve likely lived with for a long time. So I ask you do the following:
 
 * **Just breathe.** Let your Agent handle the tough conversations and [take a moment](https://www.calm.com/) to step back because not all of it is in your court. You may be a great buyer but you might have a tough seller. It’s in their interest to work with you if you’re making reasonable asks.
 
