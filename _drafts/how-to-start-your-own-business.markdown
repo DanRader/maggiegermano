@@ -29,6 +29,8 @@ There are a few options to choose from: LLC, S Corp, Corporation
 
 ## Register your business
 
+I found this part to be really easy in the District of Columbia. You go [online](https://otr.cfo.dc.gov/page/new-business-registration) and register your business and pay about $200. That initial fee is then owed again every two years (at least in DC). These rules and fees can vary by state, so do your research. You also probably have to hire a Registered Agent, who will serve as the recipient of any legal documents for your business. The one I chose only costs $49 a year, and I haven't had to 
+
 ## Open a business bank account
 
 It's very important to separate your business finances from your personal finances. This helps with planning, taxes, and tracking expenses.
