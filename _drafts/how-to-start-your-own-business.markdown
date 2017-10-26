@@ -33,7 +33,9 @@ I found this part to be really easy in the District of Columbia. You go [online]
 
 ## Open a business bank account
 
-It's very important to separate your business finances from your personal finances. This helps with planning, taxes, and tracking expenses.
+It's very important to separate your business finances from your personal finances. This helps with planning, taxes, and tracking expenses. I would also recommend that you open at least one savings account for your business as well. I have one for taxes and one for expenses. It's important to have backup money for your business, just like you would for your personal expenses. 
+
+When you choose a bank, bring your licensing documents with you. You'll need them to open the account. You'll also need an employer identification number, which you can get really easily [here](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online).
 
 ## Sign up for free business counseling
 
