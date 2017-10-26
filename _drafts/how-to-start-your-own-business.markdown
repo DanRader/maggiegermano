@@ -9,6 +9,10 @@ tags:
 - women
 - women owned business
 - womens small business month
+- career
+- entrepreneurs
+- entrepreneur
+- business owner
 image: "/uploads/woc.jpg"
 ---
 
