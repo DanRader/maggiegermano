@@ -14,6 +14,12 @@ tags:
 - entrepreneur
 - business owner
 image: "/uploads/woc.jpg"
+tweet: 'Want to start a #business but don''t know where to start? Check this out!
+  #womensbusiness'
+posts:
+- Why I Became a Financial Coach for Women
+- How Money Can Help Me Feel How I Want to Feel
+- You Don't Have to Be Perfect to Get Your Money Right
 ---
 
 October is National Women's Small Business Month! [As of 2015](https://www.nawbo.org/resources/women-business-owner-statistics), 9.1 million business in the United States were owned by women, 2.9 million of which are owned by women of color. These businesses generate $1.4 trillion dollars in sales. This has been a huge increase from years past. So basically, women are kicking ass in business!
