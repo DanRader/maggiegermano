@@ -10,6 +10,16 @@ tags:
 - home
 - real estate
 - homeowner
+author: Liz Delgado-Steo
+author-desc: A proud native Washingtonian and real estate agent with Jason Martin
+  Group. She's knowledgable, committed, and unstoppable while representing her clients
+  -- buyers and sellers.
+author-image: "/uploads/liz.jpg"
+tweet: 'Ever heard of #radon? It matters for your health at home!'
+posts:
+- What to Expect When You're Inspecting
+- The Lowdown on Down Payment Assistance Programs
+- Financing Options When It's Time to Buy a Home
 ---
 
 *This is a bonus blog post from real estate agent Liz Delgado-Steo!*
@@ -37,6 +47,8 @@ Buyers in DC use something called a GCAAR Contract when they put in an offer, wh
 2. **Negotiation**: If radon is found there are two things that a buyer can do. The first is to request that the seller remediates the situation. This typically costs around $1,000, but can vary depending on a number of factors. The second option is to void the contract and walk away.
 
 ## What's the likelihood of your home having radon?
+
+[Click here to download the EPA's pamphlet about radon.](https://drive.google.com/file/d/0B_wrShoA7W5MTWcyNHZYbWViOUE/view?usp=sharing)
 
 Your home inspector will put a radon test in the basement that will take 48 hours to work. The home inspector will tell you the levels, the EPA standard, and any remediation procedures. That’s a fancy way of saying if they find some, they’ll recommend you put a pipe in basement that’s pushed through to the ground, and a fan to let the gas out of the basement area.
 
