@@ -72,6 +72,6 @@ To be honest, I haven't found this to be a very straight forward process, and I 
 
 ## Now, get started!
 
-I know you're probably thinking something like "I'll start my business when I'm ready." Or "I'll start my business when I'm more confident or an expert." The excuses probably go on for days! I know they did for me. But the truth is, you'll never be fully ready to take a leap and do something brave like starting a business. There's no such thing as perfection, and you only get really good at something once you're actually *doing* it. 
+I know you're probably thinking something like "I'll start my business later, when I'm ready." Or "I'll start my business when I'm more confident or more of an expert." The excuses probably go on for days! I know they did for me. But the truth is, you'll never be fully ready to take a leap and do something brave like starting a business. 
 
-So start writing blog posts, start soliciting clients. Put yourself out there! Don't hold yourself back out of fear.
+There's no such thing as perfection, and you only get really good at something once you're actually *doing* it. So start writing blog posts, start soliciting clients. Put yourself out there! Don't hold yourself back out of fear. Good luck, and let me know how it goes!
