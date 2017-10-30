@@ -10,7 +10,7 @@ tags:
 - home
 - real estate
 - homeowner
-image: "/uploads/basement.jpg"
+image: "/uploads/underground.jpg"
 author: Liz Delgado-Steo
 author-desc: A proud native Washingtonian and real estate agent with Jason Martin
   Group. She's knowledgable, committed, and unstoppable while representing her clients
