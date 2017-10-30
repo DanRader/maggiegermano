@@ -40,7 +40,9 @@ Make sure the name you choose reflects what your business is meant to do. And ma
 
 ## Decide what kind of entity you want to be
 
-There are a few options to choose from: [limited liability company](http://www.investopedia.com/terms/l/llc.asp) (LLC), [sole proprietorship](https://www.entrepreneur.com/encyclopedia/sole-proprietorship), or a corporation (from here, you can choose from an [S corp](https://www.irs.gov/businesses/small-businesses-self-employed/s-corporations) or a [C corp](http://www.investopedia.com/terms/c/c-corporation.asp)). Do your research and see which would work best for you. I'm personally registered as an LLC, because I'm the only person working for me so far. Plus, being an LLC protects my personal assets if anyone takes legal action against me as a business owner. 
+There are a few options to choose from: [limited liability company](http://www.investopedia.com/terms/l/llc.asp) (LLC), [sole proprietorship](https://www.entrepreneur.com/encyclopedia/sole-proprietorship), or a corporation (from here, you can choose from an [S corp](https://www.irs.gov/businesses/small-businesses-self-employed/s-corporations) or a [C corp](http://www.investopedia.com/terms/c/c-corporation.asp)). 
+
+Do your research and see which would work best for you. I'm personally registered as an LLC, because I'm the only person working for me so far. Plus, being an LLC protects my personal assets if anyone takes legal action against me as a business owner. 
 
 ## Register your business
 
