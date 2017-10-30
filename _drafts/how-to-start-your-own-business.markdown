@@ -56,8 +56,12 @@ When you choose a bank, bring your licensing documents with you. You'll need the
 
 ## Sign up for free business counseling
 
-The Washington, DC [Women's Business Center](http://www.ncrc.org/dcwbc/how-to-register-for-free-counseling.html) offers free one-on-one business counseling. They can help you come up with a business plan, and give advice on ... I went to a few sessions when I first started my business, and it was very helpful.
+The Washington, DC [Women's Business Center](http://www.ncrc.org/dcwbc/how-to-register-for-free-counseling.html) offers free one-on-one business counseling. They can help you come up with a business plan, answer any questions you have, and give advice on your business approach. I went to a few sessions when I first started my business, and it was very helpful.
 
 ## Register as a woman-owned business
 
 As of now, the federal government is required to contract with a certain percentage of woman-owned businesses. You can even apply for specific grants or contracts *because* you're a woman who owns a business.
+
+## Get started!
+
+I know you're probably thinking something like "I'll start my business when I'm ready". Or "I'll start my business when I'm more confident or an expert". The excuses probably go on for days! I know they did for me. But the truth is, you'll never be fully ready to take a leap and do something brave like starting a business. There's no such thing as perfection, 
