@@ -14,9 +14,9 @@ tags:
 
 *This is a bonus blog post from real estate agent Liz Delgado-Steo!*
 
-Last week, we discussed the home inspection and what you might find throughout the house. Your home inspector can also test for radon. What is it? Not a [scary sci-fi monster](https://www.youtube.com/watch?v=WaATlgyHbxc). 
+Last week, we discussed the home inspection and what you might find throughout the house. Your home inspector can also test for radon. What is it? Not a [scary sci-fi monster](https://www.youtube.com/watch?v=WaATlgyHbxc).
 
-[Ever heard of radon](https://youtu.be/EbwyMd3smGk?t=55s)?
+## What is radon?
 
 Lots of first-time home buyers might have heard of the term, but did you know that it’s believed to be the second leading cause of lung cancer in the United States? As a realtor, this is something you should consider testing for when [buying a home in Washington, DC](http://jasonmartingroup.com/about). It’s not in all homes and when it actually is present, the EPA does consider some levels safe, so don’t panic until your qualified home inspector tells you otherwise.
 
