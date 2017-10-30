@@ -32,7 +32,11 @@ Get clear on your vision. What do you want to bring to the world with your busin
 
 ## Come up with a name
 
-You need an official business name in order to legally start a business. Now that you have the specifics for your business plans, you should pick a name that reflects the work. You should also make sure that y
+You need an official business name in order to legally start a business. This name will be on your legal paperwork, on any business bank accounts or credit cards you open, and on your tax forms. You'll probably also use it on your website and other public platforms. So make sure you like it! I personally could not come up with a name that I trusted I'd like long-term. I didn't want to end up changing the name later on and possibly losing some of my audience. That's why I ended up just using my own name. I know my name won't change (even after I get married), so I trust that there won't be a reason to change it.
+
+Make sure the name you choose reflects what your business is meant to do. And make sure you'll feel proud and excited to introduce your business to strangers.
+
+*Do you have a business? What was your name-choosing process? Share in the comments!*
 
 ## Decide what kind of business you want to be
 
