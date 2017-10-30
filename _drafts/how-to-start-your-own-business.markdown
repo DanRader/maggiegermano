@@ -28,11 +28,11 @@ Are you one of them? Obviously, you're not alone, so I want to help you get star
 
 ## Narrow in on your idea
 
-Get clear on your vision. What do you want to bring to the world with your business?
+Get clear on your vision. What do you want to bring to the world with your business? The more specific you can get, the better. You don't necessarily have to write a business plan at this point, but you should know exactly what you want to do with your business. 
 
 ## Come up with a name
 
-You need an official business name in order to legally start a business.
+You need an official business name in order to legally start a business. Now that you have the specifics for your business plans, you should pick a name that reflects the work. You should also make sure that y
 
 ## Decide what kind of business you want to be
 
