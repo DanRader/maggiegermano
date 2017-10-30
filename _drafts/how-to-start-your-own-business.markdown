@@ -1,6 +1,6 @@
 ---
 title: How to Start Your Own Business
-date: 2017-10-04 10:02:00 -04:00
+date: 2017-10-30 11:00:00 -04:00
 categories:
 - Career
 tags:
@@ -62,14 +62,16 @@ Once you choose a bank, bring your licensing [documents](https://localfirstbank.
 
 The Washington, DC [Women's Business Center](http://www.ncrc.org/dcwbc/how-to-register-for-free-counseling.html) offers free one-on-one business counseling. They can help you come up with a business plan, answer any questions you have, and give advice on your business approach. I went to a few sessions when I first started my business, and it was very helpful.
 
+Not in DC? There are women's business centers all over the United States. Visit [this site](https://www.sba.gov/tools/local-assistance/wbc) to find yours!
+
 ## Register as a woman-owned business
 
-As of now, the federal government is required to contract with a certain percentage of woman-owned businesses. You can even apply for specific grants or contracts *because* you're a woman who owns a business. But in order to qualify for all these things, you have to register your business as woman-owned. 
+As of now, the federal government is required to contract with a certain percentage of woman-owned businesses. You can even apply for specific grants or contracts *because* you're a woman who owns a business. But in order to qualify for all these things, you first have to register your business as woman-owned. 
 
-To be honest, I haven't found it to be a very straight forward process, and I haven't registered my business as such just yet. But if you're interested in doing it for yours, find more information at the [Small Business Administration](https://www.sba.gov/contracting/government-contracting-programs/women-owned-small-businesses/what-you-need-know-if-you-are-women-owned-small-business). 
+To be honest, I haven't found this to be a very straight forward process, and I haven't registered my business as such just yet. But if you're interested in doing it for yours, find more information at the [Small Business Administration](https://www.sba.gov/contracting/government-contracting-programs/women-owned-small-businesses/what-you-need-know-if-you-are-women-owned-small-business). *(And if you figure out how to make it happen, let me know!)*
 
 ## Now, get started!
 
-I know you're probably thinking something like "I'll start my business when I'm ready." Or "I'll start my business when I'm more confident or an expert." The excuses probably go on for days! I know they did for me. But the truth is, you'll never be fully ready to take a leap and do something brave like starting a business. There's no such thing as perfection, and you only get really good at something once you're actually *doing* it. 
+I know you're probably thinking something like "I'll start my business later, when I'm ready." Or "I'll start my business when I'm more confident or more of an expert." The excuses probably go on for days! I know they did for me. But the truth is, you'll never be fully ready to take a leap and do something brave like starting a business. 
 
-So start writing blog posts, start soliciting clients. Put yourself out there! Don't hold yourself back out of fear.
+There's no such thing as perfection, and you only get really good at something once you're actually *doing* it. So start writing blog posts, start soliciting clients. Put yourself out there! Don't hold yourself back out of fear. Good luck, and let me know how it goes!
