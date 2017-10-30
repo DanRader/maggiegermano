@@ -37,9 +37,13 @@ In short, it's a naturally occurring radioactive gas that is emitted from the ea
 
 It's generally found in a basement and seeps through cracks in the walls and floors. To test for Radon, a licensed inspector will leave an electrically-charged device that collects air samples in your home for 48 hours or more. Ideally, your home should have a reading at or below 4 pCi/L.
 
+![Screen Shot 2017-10-30 at 5.30.47 PM.png](/uploads/Screen%20Shot%202017-10-30%20at%205.30.47%20PM.png)
+
 ## When does the home get inspected for radon? 
 
 Buyers in DC use something called a GCAAR Contract when they put in an offer, which stands for Greater Capital Area Association of Realtors… say that three times fast! In order to make sure the radon test is included, be sure your realtor chooses to add a Radon Inspection Contingency. That means that they’ll test and based on results you receive, you’ve got options to remedy the situation. See a snapshot of the September 2017 version below:
+
+![Screen Shot 2017-10-30 at 5.31.05 PM.png](/uploads/Screen%20Shot%202017-10-30%20at%205.31.05%20PM.png)
 
 ## What does this all mean?
 
@@ -48,6 +52,8 @@ Buyers in DC use something called a GCAAR Contract when they put in an offer, wh
 2. **Negotiation**: If radon is found there are two things that a buyer can do. The first is to request that the seller remediates the situation. This typically costs around $1,000, but can vary depending on a number of factors. The second option is to void the contract and walk away.
 
 ## What's the likelihood of your home having radon?
+
+![Screen Shot 2017-10-30 at 5.30.35 PM.png](/uploads/Screen%20Shot%202017-10-30%20at%205.30.35%20PM.png)
 
 [Click here to download the EPA's pamphlet about radon.](https://drive.google.com/file/d/0B_wrShoA7W5MTWcyNHZYbWViOUE/view?usp=sharing)
 
