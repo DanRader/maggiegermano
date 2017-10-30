@@ -36,7 +36,7 @@ You need an official business name in order to legally start a business.
 
 ## Decide what kind of business you want to be
 
-There are a few options to choose from: LLC, S Corp, Corporation
+There are a couple options to choose from: limited liability company (LLC) or a corporation (you can choose from an S corp or a C corp). Do your research and see which would work best for you. I'm personally registered as an LLC, because I'm the only person working for me so far. However, being an LLC protects my personal assets if anyone takes legal action against me as a business owner. 
 
 ## Register your business
 
