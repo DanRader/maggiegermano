@@ -28,7 +28,7 @@ Are you one of them? Obviously, you're not alone, so I want to help you get star
 
 ## Narrow in on your idea
 
-Get clear on your vision. What do you want to bring to the world with your business? The more specific you can get, the better. You don't necessarily have to write a business plan at this point, but you should know exactly what you want to do with your business. 
+Get clear on your vision. What do you want to bring to the world with your business? What are you dreaming to do with your life? The more specific you can get, the better. You don't necessarily have to write a business plan at this point, but you should know exactly what you want to do with your business. 
 
 ## Come up with a name
 
@@ -38,9 +38,9 @@ Make sure the name you choose reflects what your business is meant to do. And ma
 
 *Do you have a business? What was your name-choosing process? Share in the comments!*
 
-## Decide what kind of business you want to be
+## Decide what kind of entity you want to be
 
-There are a couple options to choose from: limited liability company (LLC) or a corporation (you can choose from an S corp or a C corp). Do your research and see which would work best for you. I'm personally registered as an LLC, because I'm the only person working for me so far. However, being an LLC protects my personal assets if anyone takes legal action against me as a business owner. 
+There are a few options to choose from: [limited liability company](http://www.investopedia.com/terms/l/llc.asp) (LLC), [sole proprietorship](https://www.entrepreneur.com/encyclopedia/sole-proprietorship), or a corporation (from here, you can choose from an [S corp](https://www.irs.gov/businesses/small-businesses-self-employed/s-corporations) or a [C corp](http://www.investopedia.com/terms/c/c-corporation.asp)). Do your research and see which would work best for you. I'm personally registered as an LLC, because I'm the only person working for me so far. Plus, being an LLC protects my personal assets if anyone takes legal action against me as a business owner. 
 
 ## Register your business
 
