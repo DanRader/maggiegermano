@@ -1,6 +1,7 @@
 ---
 title: How to Protect Yourself and Your Family from Radon
 date: 2017-10-31 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 tags:
@@ -25,7 +26,7 @@ posts:
 
 *This is a bonus blog post from real estate agent Liz Delgado-Steo!*
 
-Last week, we discussed the home inspection and what you might find throughout your house. Your home inspector can also test for radon. What is it? Not a [scary sci-fi monster](https://www.youtube.com/watch?v=WaATlgyHbxc).
+[Last week](https://www.maggiegermano.com/blog/what-to-expect-when-youre-inspecting/), we discussed the home inspection and what you might find throughout your house. Your home inspector can also test for radon. What is it? Not a [scary sci-fi monster](https://www.youtube.com/watch?v=WaATlgyHbxc).
 
 ## What is radon?
 
