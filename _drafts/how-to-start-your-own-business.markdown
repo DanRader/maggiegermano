@@ -62,11 +62,13 @@ Once you choose a bank, bring your licensing [documents](https://localfirstbank.
 
 The Washington, DC [Women's Business Center](http://www.ncrc.org/dcwbc/how-to-register-for-free-counseling.html) offers free one-on-one business counseling. They can help you come up with a business plan, answer any questions you have, and give advice on your business approach. I went to a few sessions when I first started my business, and it was very helpful.
 
+Not in DC? There are women's business centers all over the United States. Visit [this site](https://www.sba.gov/tools/local-assistance/wbc) to find yours!
+
 ## Register as a woman-owned business
 
-As of now, the federal government is required to contract with a certain percentage of woman-owned businesses. You can even apply for specific grants or contracts *because* you're a woman who owns a business. But in order to qualify for all these things, you have to register your business as woman-owned. 
+As of now, the federal government is required to contract with a certain percentage of woman-owned businesses. You can even apply for specific grants or contracts *because* you're a woman who owns a business. But in order to qualify for all these things, you first have to register your business as woman-owned. 
 
-To be honest, I haven't found it to be a very straight forward process, and I haven't registered my business as such just yet. But if you're interested in doing it for yours, find more information at the [Small Business Administration](https://www.sba.gov/contracting/government-contracting-programs/women-owned-small-businesses/what-you-need-know-if-you-are-women-owned-small-business). 
+To be honest, I haven't found this to be a very straight forward process, and I haven't registered my business as such just yet. But if you're interested in doing it for yours, find more information at the [Small Business Administration](https://www.sba.gov/contracting/government-contracting-programs/women-owned-small-businesses/what-you-need-know-if-you-are-women-owned-small-business). *(And if you figure out how to make it happen, let me know!)*
 
 ## Now, get started!
 
