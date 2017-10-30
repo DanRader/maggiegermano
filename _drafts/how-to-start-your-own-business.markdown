@@ -46,13 +46,17 @@ Do your research and see which would work best for you. I'm personally registere
 
 ## Register your business
 
-I found this part to be really easy in the District of Columbia. You go [online](https://otr.cfo.dc.gov/page/new-business-registration) and register your business and pay about $200. That initial fee is then owed again every two years (at least in DC). These rules and fees can vary by state, so do your research. You also probably have to hire a Registered Agent, who will serve as the recipient of any legal documents for your business. The one I chose only costs $49 a year, and I haven't had to
+I found this part to be really easy in the District of Columbia. I went [online](https://otr.cfo.dc.gov/page/new-business-registration) and registered my LLC and paid about $200 up front. That initial fee is then owed again every two years (at least in DC). These rules and fees can vary by state and type of business, so do your research. 
+
+I also had to hire a [registered agent](https://www.legalzoom.com/articles/why-do-i-need-a-registered-agent), who will serve as the recipient of any legal documents for my business. If someone decided to sue me, the paperwork would be served to my registered agent, who would make sure it got to me. This ensures you won't miss any important paperwork if you move, etc. The one I chose only costs $49 a year, and I haven't had to contact them yet.
 
 ## Open a business bank account
 
-It's very important to separate your business finances from your personal finances. This helps with planning, taxes, and tracking expenses. I would also recommend that you open at least one savings account for your business as well. I have one for taxes and one for expenses. It's important to have backup money for your business, just like you would for your personal expenses.
+It's very important to separate your business finances from your personal finances. This helps with planning, taxes, and tracking expenses. I would recommend that you open at least one savings account for your business as well. I have one for taxes and one for regular expenses. It's important to have backup money for your business, just like you would for your personal expenses.
 
-When you choose a bank, bring your licensing documents with you. You'll need them to open the account. You'll also need an employer identification number, which you can get really easily [here](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online).
+There are many banks to choose from. Fees and perks vary. If you're looking for an account that doesn't have fees, check out [this list](https://www.nerdwallet.com/blog/small-business/find-free-business-checking-account/).
+
+Once you choose a bank, bring your licensing [documents](https://localfirstbank.com/content/what-is-required-to-open-a-business-checking-account) with you. You'll need them to open the account. You'll also need an employer identification number, which you can get really easily [here](https://www.irs.gov/businesses/small-businesses-self-employed/apply-for-an-employer-identification-number-ein-online).
 
 ## Sign up for free business counseling
 
@@ -60,9 +64,11 @@ The Washington, DC [Women's Business Center](http://www.ncrc.org/dcwbc/how-to-re
 
 ## Register as a woman-owned business
 
-As of now, the federal government is required to contract with a certain percentage of woman-owned businesses. You can even apply for specific grants or contracts *because* you're a woman who owns a business.
+As of now, the federal government is required to contract with a certain percentage of woman-owned businesses. You can even apply for specific grants or contracts *because* you're a woman who owns a business. But in order to qualify for all these things, you have to register your business as woman-owned. 
 
-## Get started!
+To be honest, I haven't found it to be a very straight forward process, and I haven't registered my business as such just yet. But if you're interested in doing it for yours, find more information at the [Small Business Administration](https://www.sba.gov/contracting/government-contracting-programs/women-owned-small-businesses/what-you-need-know-if-you-are-women-owned-small-business). 
+
+## Now, get started!
 
 I know you're probably thinking something like "I'll start my business when I'm ready." Or "I'll start my business when I'm more confident or an expert." The excuses probably go on for days! I know they did for me. But the truth is, you'll never be fully ready to take a leap and do something brave like starting a business. There's no such thing as perfection, and you only get really good at something once you're actually *doing* it. 
 
