@@ -35,7 +35,7 @@ When I sat down to write this article, the entrepreneurs who kept popping into m
 
 ![alexa.jpg](/uploads/alexa.jpg)
 
-Alexa Von Tobel is the founder and CEO of [LearnVest](https://www.learnvest.com/?utm_source=CJ&utm_medium=affiliate&utm_campaign=wellness&utm_content=yoga_300x250), a personal finance website and budgeting program. Alexa might actually be the reason I became a financial coach for women. Years ago, I stumbled upon LearnVest, bought her book [Financially Fearless](https://www.amazon.com/dp/B00DTEMGF6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), and saw her speak on her book tour. Her story and passion for financial health really left a mark on me.  I still use [LearnVest](https://www.learnvest.com/?utm_source=CJ&utm_medium=affiliate&utm_campaign=wellness&utm_content=yoga_300x250) as my free budgeting tool, and often share their advice.
+Alexa Von Tobel is the founder and CEO of [LearnVest](https://www.learnvest.com0), a personal finance website and budgeting program. Alexa might actually be the reason I became a financial coach for women. Years ago, I stumbled upon LearnVest, bought her book [Financially Fearless](https://www.amazon.com/dp/B00DTEMGF6/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1), and saw her speak on her book tour. Her story and passion for financial health really left a mark on me.  I still use [LearnVest](https://www.learnvest.com) as my free budgeting tool, and often share their advice.
 
 ## Tonya Rapley
 
@@ -45,7 +45,7 @@ Tonya Rapley is the creator of [My Fab Finance](www.myfabfinance.com), which she
 
 ## Amanda Steinberg
 
-![amanda-steinberg.jpg](/uploads/amanda-steinberg.jpg) 
+![amanda-steinberg.jpg](/uploads/amanda-steinberg.jpg)
 
 [Amanda Steinberg](https://www.amandasteinberg.net/) is the founder of [DailyWorth](dailyworth.com), a woman-focused personal finance website, and [WorthFM](worthfm.com), a digital investing service for women. She launched DailyWorth in 2009 to create a space where financial advice was geared towards people who are not part of the financial industry. I've been a subscriber and avid reader for years. Amanda decided to create WorthFM when she realized that good advice doesn't necessarily make investing accessible to everyone. She also recently released her first book, [Worth It](https://www.amazon.com/dp/B01CO3468W/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1).
 
