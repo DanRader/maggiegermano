@@ -48,7 +48,7 @@ As I said, for two years, I paid nothing towards my federal loans. At first, whe
 
 ## 2. I included paying extra in my budget.
 
-I had to figure out exactly where my money was going, so I set up a detailed budget spreadsheet in Google docs. From there, I figured out where I could spend less or eliminate spending altogether. If you don’t know how much you’re spending every month, you won’t know how much money you *can* put towards your debt. Figure out how much comes in, how much goes out for your bills, and how much you’re spending on things like groceries, gas, shopping, dining out, etc. Where can you cut back? Make your own spreadsheet, or use helpful (and free!) apps like [Mint](https://www.mint.com/) or [LearnVest](https://www.learnvest.com/?utm_source=CJ&utm_medium=affiliate&utm_campaign=wellness&utm_content=yoga_300x250) to keep track.
+I had to figure out exactly where my money was going, so I set up a detailed budget spreadsheet in Google docs. From there, I figured out where I could spend less or eliminate spending altogether. If you don’t know how much you’re spending every month, you won’t know how much money you *can* put towards your debt. Figure out how much comes in, how much goes out for your bills, and how much you’re spending on things like groceries, gas, shopping, dining out, etc. Where can you cut back? Make your own spreadsheet, or use helpful (and free!) apps like [Mint](https://www.mint.com/) or [LearnVest](https://www.learnvest.com) to keep track.
 
 ## 3. I started bringing my lunch to work every day.
 
