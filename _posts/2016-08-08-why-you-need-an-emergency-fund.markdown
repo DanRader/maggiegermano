@@ -28,7 +28,7 @@ Have you ever suddenly lost your job? Or needed a surprise root canal? Perhaps y
 
 These unexpected moments in life can put you into debt if you're not prepared. That's why you need an emergency savings account to protect you. What's an emergency savings account? A savings account that is only to be tapped into when a real emergency arises.
 
-Alexa Von Tobel, CEO of [Learnvest](https://www.learnvest.com/?utm_source=CJ&utm_medium=affiliate&utm_campaign=wellness&utm_content=yoga_300x250), also likes to call this a [Freedom Fund](http://www.inc.com/magazine/201405/alexa-von-tobel/need-for-freedom-fund-savings-living-expenses.html). Because yes, you'll be covered in an emergency like illness or injury, but it will also give you the freedom to pursue a new career or leave a toxic work environment. It will give you peace of mind, knowing that you don't have to worry about paying your bills.
+Alexa Von Tobel, CEO of [Learnvest](https://www.learnvest.com), also likes to call this a [Freedom Fund](http://www.inc.com/magazine/201405/alexa-von-tobel/need-for-freedom-fund-savings-living-expenses.html). Because yes, you'll be covered in an emergency like illness or injury, but it will also give you the freedom to pursue a new career or leave a toxic work environment. It will give you peace of mind, knowing that you don't have to worry about paying your bills.
 
 > These unexpected moments in life can put you into debt if you're not prepared.
 
