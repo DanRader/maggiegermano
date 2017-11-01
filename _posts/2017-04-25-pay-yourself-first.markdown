@@ -51,4 +51,4 @@ I can't stress this enough. Automation is key. You don't have to think about mov
 
 Sometimes, your circumstances change, whether for better or for worse. If you get a raise, you can pay yourself more! Which means you can increase your retirement contribution, debt repayment, or savings amount. By doing this first, you can avoid income creep, and reach (or surpass) your goals faster. On the other hand, if you lose your job, or make a change that results in less income, you may have to lower how much you can save. You want to be conscious and realistic of what you can afford, and make adjustments as necessary. So make sure you reassess your situation whenever things might change.
 
-How do you pay yourself first? Has it worked for you? Share in the comments!
+*How do you pay yourself first? Has it worked for you? Share in the comments!*
