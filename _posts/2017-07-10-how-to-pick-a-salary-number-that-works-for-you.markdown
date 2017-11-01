@@ -27,7 +27,7 @@ It's hard for me to answer that question, because it really depends on the indiv
 
 ## How much do you need?
 
-Look at your numbers. How much money do you need to earn to cover your minimum required expenses? This includes retirement savings, debt payments, groceries, transportation, etc. This number is important, because you always want to make sure that you're earning more than you're spending. If you aren't sure about your number, set up an account with [Mint](www.mint.com), [Learnvest](http://www.kqzyfj.com/click-8097813-12662287), or [ClarityMoney](https://claritymoney.com/). You can review the past few months worth of spending to see what you typically spend in a month. This will also give you clarity on areas that you might want to cut back in. **Bonus:** [ClarityMoney](https://claritymoney.com/) will point out all your recurring expenses and flag if there is anything you might want to cancel.
+Look at your numbers. How much money do you need to earn to cover your minimum required expenses? This includes retirement savings, debt payments, groceries, transportation, etc. This number is important, because you always want to make sure that you're earning more than you're spending. If you aren't sure about your number, set up an account with [Mint](www.mint.com), [Learnvest](http://www.learnvest.com), or [ClarityMoney](https://claritymoney.com/). You can review the past few months worth of spending to see what you typically spend in a month. This will also give you clarity on areas that you might want to cut back in. **Bonus:** [ClarityMoney](https://claritymoney.com/) will point out all your recurring expenses and flag if there is anything you might want to cancel.
 
 ## How much do you want?
 
