@@ -29,7 +29,7 @@ posts:
 - Why You Should Care About Your Credit Score
 ---
 
-Back in October, I attended the [Millennial Week](http://millennialweek.com/) Unconference in Washington, DC. I walked away with a lot of exciting ideas for my financial coaching business. I also met some really cool people and got to hear several inspirational speakers. One of the speakers, [Learnvest](https://www.learnvest.com/?utm_source=CJ&utm_medium=affiliate&utm_campaign=wellness&utm_content=yoga_300x250) CEO (and my shero) Alexa Von Tobel, gave us a financial checklist to get through before starting a business.
+Back in October, I attended the [Millennial Week](http://millennialweek.com/) Unconference in Washington, DC. I walked away with a lot of exciting ideas for my financial coaching business. I also met some really cool people and got to hear several inspirational speakers. One of the speakers, [Learnvest](https://www.learnvest.com) CEO (and my shero) Alexa Von Tobel, gave us a financial checklist to get through before starting a business.
 
 I found this list incredibly helpful, but I also wanted to tweak it so that it can apply to anyone — not just people starting a business. It’s hard to get your money right when you don’t know where to start, so hopefully this list will serve to help anyone who’s just starting to think about taking control of their finances. Or, if you’ve had a financial hiccup, maybe seeing these steps written out will help you get back on track. Here you go!
 
