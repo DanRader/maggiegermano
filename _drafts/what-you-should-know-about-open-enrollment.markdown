@@ -8,6 +8,12 @@ tags:
 - healthcare
 - health
 - health insurance
+- open enrollment
+- obamacare
+- affordable care act
+- aca
+- marketplace
+- affordable healthcare
 ---
 
 Open enrollment season began on November 1st! This is the period of the year when Americans can enroll in a health insurance plan for the following year. 
