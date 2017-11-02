@@ -24,10 +24,10 @@ Open enrollment season began on November 1st! This is the period of the year whe
 
 3. 80% of people in [HealthCare.gov](http://www.healthcare.gov) states can find a plan for less than $75/month, up from 71% last year, more people than ever before.\
 
-4. 100% of counties have an insurer offering coverage despite what you may have read on Twitter.\
+4. 100% of U.S. counties have an insurer offering health insurance coverage, despite what you may have read on Twitter.\
 
-5. 70% of counties have at least two issuers, meaning consumers have multiple plans to choose from in nearly every county in America, some consumers will have access to insurance with zero dollar premiums contingent on age and income.\
+5. 70% of counties have at least two insurance issuers, meaning consumers have multiple plans to choose from in nearly every county in America. Some consumers will even have access to insurance with zero dollar premiums depending on age and income.\
 
-6. Premiums are upwards of 130% increased on the Silver plans but that Bronze and Gold plans have plans  at no-cost or low-cost. many people will be eligible for plans for $0, $10, $20 a month. 8/10 people are eligible for a plan that is less than $75 a month\
+6. Premiums are upwards of 130% increased on the Silver plans but Bronze and Gold plans offer plans  at no-cost or low-cost. Many people will be eligible for plans for $0, $10, $20 a month. In fact, 8/10 people are eligible for a plan that is less than $75 a month. Compare that to what you're spending now!\
 
 7. 
