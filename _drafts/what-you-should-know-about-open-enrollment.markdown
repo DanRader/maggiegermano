@@ -16,7 +16,7 @@ tags:
 - affordable healthcare
 ---
 
-Open enrollment season began on November 1st! This is the period of the year when Americans can enroll in a health insurance plan for the following year.
+Open enrollment season began on November 1st! This is the period of the year when Americans can enroll in a health insurance plan for the following year. Typically, the enrollment period is about 90 days long, but this year it's only 45 days. This doesn't give you a ton of time to do research before enrolling, so start now!
 
 1. The Affordable Care Act is still alive and well. Congress has held several repeal votes this year, but none have succeeded. The marketplace is still available for 2018 and the regulations are still in place.\
 
