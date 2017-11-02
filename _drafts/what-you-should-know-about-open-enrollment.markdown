@@ -1,6 +1,13 @@
 ---
 title: X Things You Should Know About Open Enrollment This Year
 date: 2017-11-02 14:16:00 -04:00
+categories:
+- lifestyle
+- budget
+tags:
+- healthcare
+- health
+- health insurance
 ---
 
 Open enrollment season began on November 1st! This is the period of the year when Americans can enroll in a health insurance plan for the following year. 
