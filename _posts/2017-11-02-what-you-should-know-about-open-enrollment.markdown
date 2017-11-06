@@ -1,7 +1,6 @@
 ---
 title: What You Should Know About Open Enrollment This Year
 date: 2017-11-02 14:16:00 -04:00
-published: false
 categories:
 - lifestyle
 - budget
