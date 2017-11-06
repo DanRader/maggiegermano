@@ -39,10 +39,14 @@ Open enrollment season began on November 1st! This is the period of the year whe
 
 **Want to see what health insurance plan is right for you?** Check out [Take Command Health](https://www.takecommandhealth.com/maggie-germano) to see your options and ensure you're making the right choice! *(Note: I will receive a commission if you sign up using my link. This in no way alters my opinion of this product; I only recommend things I truly believe in.)*
 
-For more information on the Affordable Care Act, health insurance, and open enrollment, see the resources below.
+For more information on the Affordable Care Act, health insurance, and open enrollment, see the resources below:
 
 * [National Latina Institute for Reproductive Health](http://www.latinainstitute.org/en/what-we-do/healthcare-access)
 
 * [Healthcare.gov](https://www.healthcare.gov/) 
 
-* [Get Covered America](https://connector.getcoveredamerica.org/en-us/widget/?original=/connector/) (find a local 
+* [Get Covered America](https://connector.getcoveredamerica.org/en-us/widget/?original=/connector/) 
+
+* Protect Our Care
+
+* xx
