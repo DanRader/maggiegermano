@@ -28,7 +28,7 @@ Open enrollment season began on November 1st! This is the time of year when Amer
 
 > Open enrollment for 2018 is from November 1st until December 15th. **You must enroll by December 15th in order to be covered for 2018.**
 
-There's a lot of misinformation out there about health insurance and enrollment. So here are some facts to get you on the right page, so you can make the best decision for you. 
+There's a lot of misinformation out there about health insurance and enrollment. So here are some facts to get you on the right page, so you can make the best decision for you.
 
 1. The [Affordable Care Act](https://www.healthcare.gov/glossary/affordable-care-act/) is still alive and well. Congress has held several repeal votes this year, but none have succeeded. The marketplace is still available for 2018 and the ACA regulations are still in place.
 
@@ -40,9 +40,9 @@ There's a lot of misinformation out there about health insurance and enrollment.
 
 5. 70% of counties have at least two insurance issuers, meaning consumers have multiple plans to choose from in nearly every county in America. Some consumers will even have access to insurance with zero dollar premiums depending on age and income.
 
-6. The average consumer shopping on the HealthCare.gov website will be able to choose among multiple issuers and about 26 different plans.
+6. The average consumer shopping on the [HealthCare.gov](http://www.healthcare.gov) website will be able to choose among multiple issuers and about 26 different plans.
 
-7. Premiums are upwards of 130% increased on the Silver plans but Bronze and Gold plans offer plans at no-cost or low-cost. 
+7. Premiums are upwards of 130% increased on the Silver plans but Bronze and Gold plans offer plans at no-cost or low-cost.
 
 8. Many people will be eligible for plans for $0, $10, or $20 a month. In fact, 8/10 people are eligible for a plan that is less than $75 a month. Compare that to what you're spending now!
 
@@ -52,15 +52,15 @@ For more information on the Affordable Care Act, health insurance, and open enro
 
 * [National Latina Institute for Reproductive Health](http://www.latinainstitute.org/en/what-we-do/healthcare-access)
 
-* [Healthcare.gov](https://www.healthcare.gov/) 
+* [Healthcare.gov](https://www.healthcare.gov/)
 
-* [Get Covered America](https://connector.getcoveredamerica.org/en-us/widget/?original=/connector/) 
+* [Get Covered America](https://connector.getcoveredamerica.org/en-us/widget/?original=/connector/)
 
 * [Protect Our Care](http://protectourcare.us/)
 
 * [Families USA](http://familiesusa.org/blog/2017/10/open-enrollment-here-resources-get-covered)
 
-* Call the Healthcare.gov hotline at **1-800-318-2596**
+* Call the [Healthcare.gov](http://www.healthcare.gov) hotline at **1-800-318-2596**
 
 * [Center for American Progress](https://www.americanprogress.org/issues/healthcare/reports/2017/11/01/441915/health-insurance-marketplaces-offer-more-low-cost-options-than-ever-before/)
 
