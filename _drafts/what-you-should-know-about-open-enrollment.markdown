@@ -25,6 +25,8 @@ posts:
 
 Open enrollment season began on November 1st! This is the time of year when Americans can enroll in a health insurance plan for the following year. Typically, the enrollment period is about 90 days long, but this year it's only 45 days. This doesn't give you a ton of time to do research before enrolling, so start now!
 
+> Open enrollment for 2018 is from November 1st until December 15th. **You must enroll by December 15th in order to be covered for 2018.**
+
 There's a lot of misinformation out there about health insurance and enrollment. So here are some facts to get you on the right page, so you can make the best decision for you. 
 
 1. The [Affordable Care Act](https://www.healthcare.gov/glossary/affordable-care-act/) is still alive and well. Congress has held several repeal votes this year, but none have succeeded. The marketplace is still available for 2018 and the ACA regulations are still in place.
