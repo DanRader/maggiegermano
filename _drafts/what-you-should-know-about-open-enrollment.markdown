@@ -45,4 +45,4 @@ For more information on the Affordable Care Act, health insurance, and open enro
 
 * [Healthcare.gov](https://www.healthcare.gov/) 
 
-* xx
+* [Get Covered America](https://connector.getcoveredamerica.org/en-us/widget/?original=/connector/) (find a local 
