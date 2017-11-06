@@ -59,7 +59,7 @@ For more information on the Affordable Care Act, health insurance, and open enro
 
 * [Families USA](http://familiesusa.org/blog/2017/10/open-enrollment-here-resources-get-covered)
 
-* Call the Healthcare.gov hotline at** 1-800-318-2596**
+* Call the Healthcare.gov hotline at **1-800-318-2596**
 
 * [Center for American Progress](https://www.americanprogress.org/issues/healthcare/reports/2017/11/01/441915/health-insurance-marketplaces-offer-more-low-cost-options-than-ever-before/)
 
