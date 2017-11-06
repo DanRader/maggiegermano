@@ -39,7 +39,9 @@ There's a lot of misinformation out there about health insurance and enrollment.
 
 6. The average consumer shopping on the HealthCare.gov website will be able to choose among multiple issuers and about 26 different plans.
 
-7. Premiums are upwards of 130% increased on the Silver plans but Bronze and Gold plans offer plans at no-cost or low-cost. Many people will be eligible for plans for $0, $10, $20 a month. In fact, 8/10 people are eligible for a plan that is less than $75 a month. Compare that to what you're spending now!
+7. Premiums are upwards of 130% increased on the Silver plans but Bronze and Gold plans offer plans at no-cost or low-cost. 
+
+8. Many people will be eligible for plans for $0, $10, $20 a month. In fact, 8/10 people are eligible for a plan that is less than $75 a month. Compare that to what you're spending now!
 
 **Want to see what health insurance plan is right for you?** Check out [Take Command Health](https://www.takecommandhealth.com/maggie-germano) to see your options and ensure you're making the right choice! *(Note: I will receive a commission if you sign up using my link. This in no way alters my opinion of this product; I only recommend things I truly believe in.)*
 
