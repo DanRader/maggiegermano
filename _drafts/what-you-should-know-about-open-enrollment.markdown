@@ -41,7 +41,7 @@ There's a lot of misinformation out there about health insurance and enrollment.
 
 7. Premiums are upwards of 130% increased on the Silver plans but Bronze and Gold plans offer plans at no-cost or low-cost. 
 
-8. Many people will be eligible for plans for $0, $10, $20 a month. In fact, 8/10 people are eligible for a plan that is less than $75 a month. Compare that to what you're spending now!
+8. Many people will be eligible for plans for $0, $10, or $20 a month. In fact, 8/10 people are eligible for a plan that is less than $75 a month. Compare that to what you're spending now!
 
 **Want to see what health insurance plan is right for you?** Check out [Take Command Health](https://www.takecommandhealth.com/maggie-germano) to see your options and ensure you're making the right choice! *(Note: I will receive a commission if you sign up using my link. This in no way alters my opinion of this product; I only recommend things I truly believe in.)*
 
@@ -53,10 +53,12 @@ For more information on the Affordable Care Act, health insurance, and open enro
 
 * [Get Covered America](https://connector.getcoveredamerica.org/en-us/widget/?original=/connector/) 
 
-* Protect Our Care
+* [Protect Our Care](http://protectourcare.us/)
 
 * [Families USA](http://familiesusa.org/blog/2017/10/open-enrollment-here-resources-get-covered)
 
 * Call the Healthcare.gov hotline at** 1-800-318-2596**
 
 * [Center for American Progress](https://www.americanprogress.org/issues/healthcare/reports/2017/11/01/441915/health-insurance-marketplaces-offer-more-low-cost-options-than-ever-before/)
+
+* [Take Command Health](https://www.takecommandhealth.com/)
