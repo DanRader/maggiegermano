@@ -16,6 +16,8 @@ tags:
 - obamacare
 - open enrollment
 image: "/uploads/meds.jpg"
+tweet: "#Healthcare isn't one size fits all. Your personal situation matters. Here's
+  how to choose a plan."
 posts:
 - What You Should Know About Open Enrollment This Year
 - How to Care for Your Mental Health on a Budget
