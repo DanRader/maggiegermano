@@ -24,3 +24,4 @@ posts:
 - 5 Ways to Practice Self Care While on a Budget
 ---
 
+November 1st until December 15th is the open enrollment period. 
