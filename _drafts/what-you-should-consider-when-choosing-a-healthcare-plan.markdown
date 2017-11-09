@@ -15,5 +15,10 @@ tags:
 - finance
 - obamacare
 - open enrollment
+image: "/uploads/meds.jpg"
+posts:
+- What You Should Know About Open Enrollment This Year
+- How to Care for Your Mental Health on a Budget
+- 5 Ways to Practice Self Care While on a Budget
 ---
 
