@@ -24,4 +24,4 @@ posts:
 - 5 Ways to Practice Self Care While on a Budget
 ---
 
-November 1st until December 15th is the open enrollment period. 
+November 1st until December 15th is the open enrollment period this year. You have until December 15th to choose a healthcare plan for 2018. That is why I'm dedicating my November blog posts to all things healthcare and health insurance. Check out [last week's post](https://www.maggiegermano.com/blog/what-you-should-know-about-open-enrollment/) about open enrollment, and stay tuned for the rest of the month!
