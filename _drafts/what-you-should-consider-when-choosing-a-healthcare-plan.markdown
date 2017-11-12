@@ -36,4 +36,8 @@ This week, I want to talk about the priorities for your health insurance plan. I
 
 ## Mental health coverage
 
-## Dependents 
+## Dependents
+
+**Want to see what health insurance plan is right for you?** Check out [Take Command Health](https://www.takecommandhealth.com/maggie-germano) to see your options and ensure you’re making the right choice!\
+\
+*(Note: I will receive a commission if you sign up using my links. This in no way alters my opinion of the product; I only recommend things I truly believe in.)*
