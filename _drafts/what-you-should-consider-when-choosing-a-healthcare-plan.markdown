@@ -24,15 +24,15 @@ posts:
 - 5 Ways to Practice Self Care While on a Budget
 ---
 
-November 1st until December 15th is the open enrollment period this year. You have until December 15th to choose a healthcare plan for 2018. That is why I'm dedicating my November blog posts to all things healthcare and health insurance. Check out [last week's post](https://www.maggiegermano.com/blog/what-you-should-know-about-open-enrollment/) about open enrollment, and stay tuned for the rest of the month!
+November 1st until December 15th is the open enrollment period this year. You have until December 15th to choose a healthcare plan for 2018. Sign up at [HealthCare.gov](http://www.healthcare.gov)! That is why I'm dedicating my November blog posts to all things healthcare and health insurance. Check out [last week's post](https://www.maggiegermano.com/blog/what-you-should-know-about-open-enrollment/) about open enrollment, and stay tuned for the rest of the month!
 
-> November 1st until December 15th is the open enrollment period this year. You have until December 15th to choose a healthcare plan for 2018. 
+> November 1st until December 15th is the open enrollment period this year. You have until December 15th to choose a healthcare plan for 2018.
 
 This week, I want to talk about the priorities for your health insurance plan. It's so important that you get a plan that works for you. So here are a few things that I think you should consider when choosing your plan for 2018.
 
 ## Deductible
 
-High deductible insurance plans usually cost much less out of pocket up front. But they also require you to spend upwards of $1,500 to $6,000 a year before your insurance coverage really kicks in. 
+High deductible insurance plans usually cost much less out of pocket up front. But they also require you to spend upwards of $1,500 to $6,000 a year before your insurance coverage really kicks in.
 
 ## Co-pays
 
@@ -40,15 +40,21 @@ Something that matters to me quite a bit is the co-pay cost for things like doct
 
 ## Prescriptions
 
-Do you rely on medication to manage your health? You'll want to make sure your insurance plan has good prescription coverage. If you need a medication that does not have a generic option, find out how much brand name prescriptions will cost you. 
+Do you rely on medication to manage your health? You'll want to make sure your insurance plan has good prescription coverage. If you need a medication that does not have a generic option, find out how much brand name prescriptions will cost you.
 
 ## Mental health coverage
 
-Unfortunately, mental health is not taken as seriously as physical health yet in our society. Of course, it's just as important. You shouldn't have to worry about being able to afford your therapist, psychiatrist, or medication when you have health insurance. (Obviously, you shouldn't have to worry about affording these services no matter what, but we aren't there yet in the U.S.) Find out what kind of mental health coverage your potential plan offers. 
+Unfortunately, mental health is not taken as seriously as physical health yet in our society. Of course, it's just as important. You shouldn't have to worry about being able to afford your therapist, psychiatrist, or medication when you have health insurance. (Obviously, you shouldn't have to worry about affording these services no matter what, but we aren't there yet in the U.S.) Find out what kind of mental health coverage your potential plan offers.
 
 ## Dependents
 
-Do you have a partner or children who need health insurance? Consider their medical needs when choosing a plan. Find out how much it costs to add a dependent or entire family. From there, find out what is covered for them. On my fiance's old insurance plan, it would have cost almost $300 a month just to add me to his plan. Without me, he only had to pay about $15 a month out of pocket for the premium. Talk about an increase! Would a cost like that put you over budget? 
+Do you have a partner or children who need health insurance? Consider their medical needs when choosing a plan. Find out how much it costs to add a dependent or entire family. From there, find out what is covered for them. On my fiance's old insurance plan, it would have cost almost $300 a month just to add me to his plan. Without me, he only had to pay about $15 a month out of pocket for the premium. Talk about an increase! Would a cost like that put you over budget?
+
+## Health savings account
+
+This is especially important if you have high medical expenses during the year, if you have dependents, and if you're planning to have an expensive procedure soon. A health savings account (also known as an HSA) 
+
+Don't forget to sign up for health insurance at [HealthCare.gov](http://www.healthcare.gov) if you don't have an employer-provided plan!
 
 *What else matters to you when it comes to health insurance? Which plan has worked best for you? Share in the comments!*
 
