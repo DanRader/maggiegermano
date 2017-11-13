@@ -32,7 +32,7 @@ This week, I want to talk about the priorities for your health insurance plan. I
 
 ## Deductible
 
-High deductible insurance plans usually cost much less out of pocket up front. But they also require you to spend upwards of $1,500 to $6,000 a year before your insurance coverage really kicks in.
+High deductible insurance plans usually cost much less out of pocket up front. But they also require you to spend upwards of $1,500 to $6,000 a year before your insurance coverage really kicks in. This can be totally fine if you're someone who doesn't get sick often, and don't have to manage any disorders or diseases. However, you never really know when you might be in an accident or fall ill, so I typically advise people to use caution when choosing a high-deductible plan. If you don't have thousands of dollars in savings, and something happens to you, you might have a hard time covering your deductible. 
 
 ## Co-pays
 
@@ -52,9 +52,9 @@ Do you have a partner or children who need health insurance? Consider their medi
 
 ## Health savings account
 
-This is especially important if you have high medical expenses during the year, if you have dependents, and if you're planning to have an expensive procedure soon. A [health savings account](https://www.healthcare.gov/glossary/health-savings-account-HSA/) (also known as an HSA) can only be used if you are on a high-deductible insurance plan. 
+This is especially important if you have high medical expenses during the year, if you have dependents, and if you're planning to have an expensive procedure soon. A [health savings account](https://www.healthcare.gov/glossary/health-savings-account-HSA/) (also known as an HSA) can only be used if you are on a high-deductible insurance plan. With an HSA, you can deduct money pre-tax and have it automatically put into a savings account for you. This helps you in two ways: your overall taxable income is lower, and you have money to cover medical costs without having to think about it. This money can be used to cover the high deductible that you must meet.
 
-Don't forget to sign up for health insurance at [HealthCare.gov](http://www.healthcare.gov) if you don't have an employer-provided plan!
+**Don't forget to sign up for health insurance at [HealthCare.gov](http://www.healthcare.gov) if you don't have an employer-provided plan!**
 
 *What else matters to you when it comes to health insurance? Which plan has worked best for you? Share in the comments!*
 
