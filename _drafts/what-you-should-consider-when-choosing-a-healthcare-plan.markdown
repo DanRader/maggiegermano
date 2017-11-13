@@ -48,7 +48,7 @@ Unfortunately, mental health is not taken as seriously as physical health yet in
 
 ## Dependents
 
-Do you have a partner or children who need health insurance? Consider their medical needs when choosing a plan. Find out how much it costs to add a dependent or entire family. From there, find out what is covered for them. On my fiance's old insurance plan, it would have cost almost $300 a month just to add me to his plan. Without me, he only had to pay about $15 a month out of pocket for the premium. 
+Do you have a partner or children who need health insurance? Consider their medical needs when choosing a plan. Find out how much it costs to add a dependent or entire family. From there, find out what is covered for them. On my fiance's old insurance plan, it would have cost almost $300 a month just to add me to his plan. Without me, he only had to pay about $15 a month out of pocket for the premium. Talk about an increase! Would a cost like that put you over budget? 
 
 *What else matters to you when it comes to health insurance? Which plan has worked best for you? Share in the comments!*
 
