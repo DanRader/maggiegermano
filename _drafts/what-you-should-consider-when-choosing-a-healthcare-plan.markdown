@@ -44,6 +44,8 @@ Something that matters to me quite a bit is the co-pay cost for things like doct
 
 Do you have a partner or children who need health insurance? Consider their medical needs when choosing a plan. 
 
+*What else matters to you when it comes to health insurance? Which plan has worked best for you? Share in the comments!*
+
 **Want to see what health insurance plan is right for you?** Check out [Take Command Health](https://www.takecommandhealth.com/maggie-germano) to see your options and ensure you’re making the right choice!\
 \
 *(Note: I will receive a commission if you sign up using my links. This in no way alters my opinion of the product; I only recommend things I truly believe in.)*
