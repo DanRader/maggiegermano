@@ -56,7 +56,7 @@ This is especially important if you have high medical expenses during the year, 
 
 **Don't forget to sign up for health insurance at [HealthCare.gov](http://www.healthcare.gov) if you don't have an employer-provided plan!**
 
-*What else matters to you when it comes to health insurance? Which plan has worked best for you? Share in the comments!*
+--
 
 **Want to see what health insurance plan is right for you?** Check out [Take Command Health](https://www.takecommandhealth.com/maggie-germano) to see your options and ensure you’re making the right choice!\
 \
