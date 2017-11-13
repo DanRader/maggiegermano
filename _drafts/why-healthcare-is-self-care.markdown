@@ -1,0 +1,25 @@
+---
+title: Why Healthcare is Self Care
+date: 2017-11-20 11:00:00 -05:00
+categories:
+- lifestyle
+tags:
+- healthcare
+- self care
+- health
+- mental health
+- affordable healthcare
+- affordable care act
+- health insurance
+- healthy
+image: "/uploads/coffee.jpg"
+tweet: 'We hear a lot about #selfcare, but do you also prioritize your #healthcare? '
+posts:
+- What You Should Consider When Choosing a Healthcare Plan
+- What You Should Know About Open Enrollment This Year
+- 5 Ways to Practice Self Care While on a Budget
+---
+
+I hear about self-care everywhere I look these days. And it's a good thing, we all need to take better care of ourselves.
+
+Looking for awesome self-care resources? Check out the [Girls' Night In newsletter](http://girlsnightinclub.com?ref=WFFuTlErVEg=)!
