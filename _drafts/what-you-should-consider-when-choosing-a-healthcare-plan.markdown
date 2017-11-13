@@ -48,7 +48,7 @@ Unfortunately, mental health is not taken as seriously as physical health yet in
 
 ## Dependents
 
-Do you have a partner or children who need health insurance? Consider their medical needs when choosing a plan. Find out how much it costs to add a [dependent](https://www.healthcare.gov/young-adults/children-under-26/) or entire family. From there, find out what is covered for them. On my fiance's old insurance plan, it would have cost almost $300 a month just to add me to his plan. Without me, he only had to pay about $15 a month out of pocket for the premium. Talk about an increase! Would a cost like that put you over budget? Find out how much you would have to pay for dependents. You should also find out if they get good coverage based on their needs.
+Do you have a partner or children who need health insurance? Consider their medical needs when choosing a plan. Find out how much it costs to add a [dependent](https://www.healthcare.gov/young-adults/children-under-26/) or entire family. From there, find out what is covered for them. On my fiance's old insurance plan, it would have cost almost $300 a month just to add me to his plan. Without me, he only had to pay about $15 a month out of pocket for the premium. Talk about an increase! Would a cost like that put you over budget? Find out how much you would have to pay for dependents. You should also find out if they would get good coverage based on their health needs.
 
 ## Health savings account
 
