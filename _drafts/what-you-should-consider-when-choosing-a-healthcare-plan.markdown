@@ -32,7 +32,7 @@ This week, I want to talk about the priorities for your health insurance plan. I
 
 ## Deductible
 
-[High deductible insurance](https://www.healthcare.gov/glossary/high-deductible-health-plan/) plans usually cost much less out of pocket up front. But they also require you to spend upwards of $1,500 to $6,000 a year before your insurance coverage really kicks in. This can be totally fine if you're someone who doesn't get sick often, and don't have to manage any disorders or diseases. However, you never really know when you might be in an accident or fall ill, so I typically advise people to use caution when choosing a high-deductible plan. If you don't have thousands of dollars in savings, and something happens to you, you might have a hard time covering your deductible. 
+[High deductible insurance](https://www.healthcare.gov/glossary/high-deductible-health-plan/) plans usually cost much less out of pocket up front. But they also require you to spend upwards of $1,500 to $6,000 a year before your insurance coverage really kicks in. This can be totally fine if you're someone who doesn't get sick often, and don't have to manage any health conditions. However, you never really know when you might be in an accident or fall ill, so I typically advise people to use caution when choosing a high-deductible plan. If you don't have thousands of dollars in savings, and something happens to you, you might have a hard time covering your deductible. 
 
 ## Co-pays
 
