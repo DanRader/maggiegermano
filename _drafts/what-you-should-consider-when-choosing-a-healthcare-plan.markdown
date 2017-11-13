@@ -48,15 +48,13 @@ Unfortunately, mental health is not taken as seriously as physical health yet in
 
 ## Dependents
 
-Do you have a partner or children who need health insurance? Consider their medical needs when choosing a plan. Find out how much it costs to add a dependent or entire family. From there, find out what is covered for them. On my fiance's old insurance plan, it would have cost almost $300 a month just to add me to his plan. Without me, he only had to pay about $15 a month out of pocket for the premium. Talk about an increase! Would a cost like that put you over budget?
+Do you have a partner or children who need health insurance? Consider their medical needs when choosing a plan. Find out how much it costs to add a [dependent](https://www.healthcare.gov/young-adults/children-under-26/) or entire family. From there, find out what is covered for them. On my fiance's old insurance plan, it would have cost almost $300 a month just to add me to his plan. Without me, he only had to pay about $15 a month out of pocket for the premium. Talk about an increase! Would a cost like that put you over budget?
 
 ## Health savings account
 
 This is especially important if you have high medical expenses during the year, if you have dependents, and if you're planning to have an expensive procedure soon. A [health savings account](https://www.healthcare.gov/glossary/health-savings-account-HSA/) (also known as an HSA) can only be used if you are on a high-deductible insurance plan. With an HSA, you can deduct money pre-tax and have it automatically put into a savings account for you. This helps you in two ways: your overall taxable income is lower, and you have money to cover medical costs without having to think about it. This money can be used to cover the high deductible that you must meet.
 
 **Don't forget to sign up for health insurance at [HealthCare.gov](http://www.healthcare.gov) if you don't have an employer-provided plan!**
-
---
 
 **Want to see what health insurance plan is right for you?** Check out [Take Command Health](https://www.takecommandhealth.com/maggie-germano) to see your options and ensure you’re making the right choice!\
 \
