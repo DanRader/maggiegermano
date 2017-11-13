@@ -40,7 +40,7 @@ Something that matters to me quite a bit is the [co-pay](https://www.healthcare.
 
 ## Prescriptions
 
-Do you rely on medication to manage your health? You'll want to make sure your insurance plan has good prescription coverage. If you need a medication that does not have a generic option, find out how much brand name prescriptions will cost you.
+Do you rely on medication to manage your health? You'll want to make sure your insurance plan has good prescription coverage. Prescription co-pays can vary wildly. Some things, like birth control, have no co-pay at all (for now). Others can range from $5 to much, much more. If you need a medication that does not have a generic option, find out how much brand name prescriptions will cost you.
 
 ## Mental health coverage
 
