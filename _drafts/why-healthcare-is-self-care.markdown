@@ -12,6 +12,7 @@ tags:
 - affordable care act
 - health insurance
 - healthy
+image: "/uploads/coffee.jpg"
 tweet: 'We hear a lot about #selfcare, but do you also prioritize your #healthcare? '
 posts:
 - What You Should Consider When Choosing a Healthcare Plan
