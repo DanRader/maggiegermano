@@ -58,6 +58,6 @@ This option is especially important if you have high medical expenses during the
 
 **Don't forget to sign up for health insurance at [HealthCare.gov](http://www.healthcare.gov) if you don't have an employer-provided plan!**
 
-**Want to see what health insurance plan is right for you?** Check out [Take Command Health](https://www.takecommandhealth.com/maggie-germano) to see your options and ensure you’re making the right choice! They are passionate about helping people save money and get the best insurance coverage they can get. \
-\
+**Want to see what health insurance plan is right for you?** Check out [Take Command Health](https://www.takecommandhealth.com/maggie-germano) to see your options and ensure you’re making the right choice! They are passionate about helping people save money and get the best insurance coverage they can get.
+
 *(Note: I will receive a commission if you sign up using my links. This in no way alters my opinion of the product; I only recommend things I truly believe in.)*
