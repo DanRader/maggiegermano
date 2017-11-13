@@ -44,7 +44,7 @@ Do you rely on medication to manage your health? You'll want to make sure your i
 
 ## Mental health coverage
 
-Unfortunately, mental health is not taken as seriously as physical health yet in our society. Of course, it's just as important. 
+Unfortunately, mental health is not taken as seriously as physical health yet in our society. Of course, it's just as important. You shouldn't have to worry about being able to afford your therapist, psychiatrist, or medication when you have health insurance. (Obviously, you shouldn't have to worry about affording these services no matter what, but we aren't there yet in the U.S.) Find out what kind of mental health coverage your potential plan offers. 
 
 ## Dependents
 
