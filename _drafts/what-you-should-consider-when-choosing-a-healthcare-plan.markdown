@@ -52,7 +52,7 @@ Do you have a partner or children who need health insurance? Consider their medi
 
 ## Health savings account
 
-This is especially important if you have high medical expenses during the year, if you have dependents, and if you're planning to have an expensive procedure soon. A health savings account (also known as an HSA) 
+This is especially important if you have high medical expenses during the year, if you have dependents, and if you're planning to have an expensive procedure soon. A [health savings account](https://www.healthcare.gov/glossary/health-savings-account-HSA/) (also known as an HSA) can only be used if you are on a high-deductible insurance plan. 
 
 Don't forget to sign up for health insurance at [HealthCare.gov](http://www.healthcare.gov) if you don't have an employer-provided plan!
 
