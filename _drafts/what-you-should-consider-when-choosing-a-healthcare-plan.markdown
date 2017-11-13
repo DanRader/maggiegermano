@@ -40,7 +40,11 @@ Something that matters to me quite a bit is the co-pay cost for things like doct
 
 ## Prescriptions
 
+Do you rely on medication to manage your health? You'll want to make sure your insurance plan has good prescription coverage. If you need a medication that does not have a generic option, find out how much brand name prescriptions will cost you. 
+
 ## Mental health coverage
+
+Unfortunately, mental health is not taken as seriously as physical health yet in our society. Of course, it's just as important. 
 
 ## Dependents
 
