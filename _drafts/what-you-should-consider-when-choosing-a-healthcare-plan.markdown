@@ -36,7 +36,7 @@ This week, I want to talk about the priorities for your health insurance plan. I
 
 ## Co-pays
 
-Something that matters to me quite a bit is the [co-pay](https://www.healthcare.gov/glossary/co-payment/) cost for things like doctors appointments. Health insurance isn't very useful if you can't afford the cost of going to the doctor in the first place.  The co-pay for a doctor visit can range from about $15 to $50, but urgent care and emergency room visits can be much more expensive, ranging from $75 to $300 depending on your plan. If you know you have to go to the doctor often, your co-pay amount will matter to you more than other things might. So pay close attention when you're choosing your plan.
+Something that matters to me quite a bit is the [co-pay](https://www.healthcare.gov/glossary/co-payment/) cost for things like doctors appointments. Health insurance isn't very useful if you can't afford the cost of going to the doctor in the first place.  The co-pay for a doctor visit can range from about $15 to $50, but urgent care and emergency room visits can be much more expensive, ranging from $75 to $300 depending on your plan. If you know you have to go to the doctor often, your co-pay amount will matter to you more than other things might. Typically, the co-pay amounts will be lower if you pay a higher monthly premium. That means the high-deductible plans will also have higher co-pays.  Weigh your needs with your budget and decide what works best for you.
 
 ## Prescriptions
 
@@ -48,14 +48,14 @@ Unfortunately, mental health is not taken as seriously as physical health yet in
 
 ## Dependents
 
-Do you have a partner or children who need health insurance? Consider their medical needs when choosing a plan. Find out how much it costs to add a [dependent](https://www.healthcare.gov/young-adults/children-under-26/) or entire family. From there, find out what is covered for them. On my fiance's old insurance plan, it would have cost almost $300 a month just to add me to his plan. Without me, he only had to pay about $15 a month out of pocket for the premium. Talk about an increase! Would a cost like that put you over budget?
+Do you have a partner or children who need health insurance? Consider their medical needs when choosing a plan. Find out how much it costs to add a [dependent](https://www.healthcare.gov/young-adults/children-under-26/) or entire family. From there, find out what is covered for them. On my fiance's old insurance plan, it would have cost almost $300 a month just to add me to his plan. Without me, he only had to pay about $15 a month out of pocket for the premium. Talk about an increase! Would a cost like that put you over budget? Find out how much you would have to pay for dependents. You should also find out if they get good coverage based on their needs.
 
 ## Health savings account
 
-This is especially important if you have high medical expenses during the year, if you have dependents, and if you're planning to have an expensive procedure soon. A [health savings account](https://www.healthcare.gov/glossary/health-savings-account-HSA/) (also known as an HSA) can only be used if you are on a high-deductible insurance plan. With an HSA, you can deduct money pre-tax and have it automatically put into a savings account for you. This helps you in two ways: your overall taxable income is lower, and you have money to cover medical costs without having to think about it. This money can be used to cover the high deductible that you must meet.
+This option is especially important if you have high medical expenses during the year, if you have dependents, and if you're planning to have an expensive procedure soon. A [health savings account](https://www.healthcare.gov/glossary/health-savings-account-HSA/) (also known as an HSA) can only be used if you are on a high-deductible insurance plan. With an HSA, you can deduct money pre-tax and have it automatically put into a savings account for you. This helps you in two ways: your overall taxable income is lower, and you have money to cover medical costs without having to think about it. This money can be used to cover the high deductible that you must meet. You should definitely take advantage of this account if you choose the high-deductible plan.
 
 **Don't forget to sign up for health insurance at [HealthCare.gov](http://www.healthcare.gov) if you don't have an employer-provided plan!**
 
-**Want to see what health insurance plan is right for you?** Check out [Take Command Health](https://www.takecommandhealth.com/maggie-germano) to see your options and ensure you’re making the right choice!\
+**Want to see what health insurance plan is right for you?** Check out [Take Command Health](https://www.takecommandhealth.com/maggie-germano) to see your options and ensure you’re making the right choice! They are passionate about helping people save money and get the best insurance coverage they can get. \
 \
 *(Note: I will receive a commission if you sign up using my links. This in no way alters my opinion of the product; I only recommend things I truly believe in.)*
