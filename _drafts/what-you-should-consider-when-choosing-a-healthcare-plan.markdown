@@ -52,7 +52,9 @@ Do you have a partner or children who need health insurance? Consider their medi
 
 ## Health savings account
 
-This option is especially important if you have high medical expenses during the year, if you have dependents, and if you're planning to have an expensive procedure soon. A [health savings account](https://www.healthcare.gov/glossary/health-savings-account-HSA/) (also known as an HSA) can only be used if you are on a high-deductible insurance plan. With an HSA, you can deduct money pre-tax and have it automatically put into a savings account for you. This helps you in two ways: your overall taxable income is lower, and you have money to cover medical costs without having to think about it. This money can be used to cover the high deductible that you must meet. You should definitely take advantage of this account if you choose the high-deductible plan.
+This option is especially important if you have high medical expenses during the year, if you have dependents, and if you're planning to have an expensive procedure soon. A [health savings account](https://www.healthcare.gov/glossary/health-savings-account-HSA/) (also known as an HSA) can only be used if you are on a high-deductible insurance plan. With an HSA, you can deduct money pre-tax and have it automatically put into a savings account for you. This helps you in two ways: your overall taxable income is lower (so you get taxed less), and you have money to cover medical costs without having to think about it. This money can be used to cover the high deductible that you must meet. You should definitely take advantage of this account if you choose a high-deductible plan.
+
+*What do you look for when choosing a health insurance plan? Do you feel equipped to make the right decision this year? Share in the comments!*
 
 **Don't forget to sign up for health insurance at [HealthCare.gov](http://www.healthcare.gov) if you don't have an employer-provided plan!**
 
