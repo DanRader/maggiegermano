@@ -30,13 +30,19 @@ This week, I want to talk about the priorities for your health insurance plan. I
 
 ## Deductible
 
+High deductible insurance plans usually cost much less out of pocket up front. But they also require you to spend upwards of $1,500 to $6,000 a year before your insurance coverage really kicks in. 
+
 ## Co-pays
+
+Something that matters to me quite a bit is the co-pay cost for things like doctors appointments. Health insurance isn't very useful if you can't afford the cost of going to the doctor in the first place.  The co-pay for a doctor visit can range from about $15 to $50, but urgent care and emergency room visits can be much more expensive, ranging from $75 to $300 depending on your plan. If you know you have to go to the doctor often, your co-pay amount will matter to you more than other things might.
 
 ## Prescriptions
 
 ## Mental health coverage
 
 ## Dependents
+
+Do you have a partner or children who need health insurance? Consider their medical needs when choosing a plan. 
 
 **Want to see what health insurance plan is right for you?** Check out [Take Command Health](https://www.takecommandhealth.com/maggie-germano) to see your options and ensure you’re making the right choice!\
 \
