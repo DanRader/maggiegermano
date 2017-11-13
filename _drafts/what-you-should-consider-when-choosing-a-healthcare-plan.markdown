@@ -44,7 +44,7 @@ Do you rely on medication to manage your health and any conditions? You'll want 
 
 ## Mental health coverage
 
-Unfortunately, mental health is not taken as seriously as physical health yet in our society. Of course, both are equally important. You shouldn't have to worry about being able to afford your therapist, psychiatrist, or medication when you have health insurance. (Obviously, you shouldn't have to worry about affording these services no matter what, but we aren't there yet in the U.S.) Find out what kind of mental health coverage your potential plan offers.
+Unfortunately, mental health is not taken as seriously as physical health yet in our society. Of course, both are equally important. You shouldn't have to worry about being able to afford your therapist, psychiatrist, or medication when you have health insurance. (Obviously, you shouldn't have to worry about affording these services no matter what, but we aren't there yet in the U.S.) Find out what kind of [mental health coverage](https://lifehacker.com/how-to-tell-if-your-health-insurance-covers-mental-heal-1625153418) your potential plan offers. If you know you'll need these services, make sure you choose a plan that has affordable co-pays and (preferably) no cap on how many appointments you can have.
 
 ## Dependents
 
