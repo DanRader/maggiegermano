@@ -26,7 +26,9 @@ However, it's important to remember that investing in healthcare IS self care. H
 
 ## Annual Physicals
 
-Preventative medicine is so, so important for long term health. 
+Preventative medicine is so, so important for long term health. I think our country is just now catching onto the idea that we should be able to keep ourselves healthy *before* we get seriously ill. This is why preventative care, including annual physicals, are now fully covered under the Affordable Care Act. 
+
+You should go to the doctor at least once a year to get all of your blood work and other tests done. This can show if there are any potentially serious problems that you might be able to manage or prevent. 
 
 ## Women's Health
 
