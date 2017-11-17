@@ -20,8 +20,22 @@ posts:
 - 5 Ways to Practice Self Care While on a Budget
 ---
 
-I hear about self-care everywhere I look these days. And it's a good thing, we all need to take better care of ourselves. There's always so much information coming at us, and busyness is a new epidemic. 
+I hear about self-care everywhere I look these days. And it's a good thing, we all need to take better care of ourselves. There's always so much information coming at us, and busyness is an epidemic. We don't make a lot of time to actually slow down and take care of ourselves. So
 
-However, it's important to remember that taking care of our 
+However, it's important to remember that investing in healthcare IS self care. Here are all the things you have access to if you have health insurance and take advantage of it. 
+
+## Annual Physicals
+
+Preventative medicine is so, so important for long term health. 
+
+## Women's Health
+
+## Mental Health Services
+
+## Access to Medication
+
+## Sick Visits
+
+How many people do you know who never go to the doctor, even when they're sick? Are you one of those people?
 
 Looking for awesome self-care resources? Check out the [Girls' Night In newsletter](http://girlsnightinclub.com?ref=WFFuTlErVEg=)!
