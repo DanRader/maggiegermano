@@ -38,4 +38,6 @@ Preventative medicine is so, so important for long term health.
 
 How many people do you know who never go to the doctor, even when they're sick? Are you one of those people?
 
+Enroll at [HealthCare.gov](http://www.healthcare.gov) by December 15th!
+
 Looking for awesome self-care resources? Check out the [Girls' Night In newsletter](http://girlsnightinclub.com?ref=WFFuTlErVEg=)!
