@@ -32,7 +32,9 @@ You should go to the doctor at least once a year to get all of your blood work a
 
 Every woman should go to the gynecologist every year. Some experts say that women only need a pap smear every three years, but since an annual exam is covered by insurance, why not go every year? These exams can catch sexually-transmitted infections, pre-cancerous cells, cancer, and other issues. This visit also includes a breast exam, which can find any potentially dangerous lumps. 
 
-Yes, going to they gynecologist is the worst. In fact, it can be downright traumatizing for some people. I wish there was a better way for us to make sure we're healthy. However, I always breathe a sigh of relief after my annual gynecological exam. As a borderline hypochondriac, I assume that the doctor will find something scary. So going every January is a way to calm my anxiety and confirm that I'm taking good care of myself. 
+In the past 30 years, the number of cervical cancer cases and corresponding rates of death have decreased by more than 50 percent, which the CDC and American Cancer Society attribute to many women getting regular pap tests, which can find cervical pre-cancer before it turns to cancer. This stage, and early stages of cervical cancer often don't show up with any symptoms. That is why it's important to catch it early before it progresses. 
+
+Yes, going to they gynecologist is the worst. In fact, it can be downright traumatizing for some people. I wish there was a better way for us to make sure we're healthy. However, I always breathe a sigh of relief after my annual gynecological exam. So going every January is a way to calm my anxiety and confirm that I'm in good health. 
 
 ## Mental Health Services
 
