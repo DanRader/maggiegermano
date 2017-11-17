@@ -32,9 +32,13 @@ You should go to the doctor at least once a year to get all of your blood work a
 
 ## Women's Health
 
-Every woman should go to the gynecologist every year. 
+Every woman should go to the gynecologist every year. Some experts say that women only need a pap smear every three years, but since an annual exam is covered by insurance, why not go every year? These exams can catch sexually-transmitted infections, pre-cancerous cells, cancer, and other issues. This visit also includes a breast exam, which can find any potentially dangerous lumps. 
+
+Yes, going to they gynecologist is the worst. In fact, it can be downright traumatizing for some people. I wish there was a better way for us to make sure we're healthy. However, I always breathe a sigh of relief after my annual gynecological exam. As a borderline hypochondriac, I assume that the doctor will find something scary. So going every January is a way to calm my anxiety and confirm that I'm taking good care of myself. 
 
 ## Mental Health Services
+
+I've said this previously: mental health is just as important as physical health. There are so many people who can't afford to go to therapy or a psychiatrist. Many people will mental illness are completely failed by our systems or lack thereof. It's a stain on our society and leads to increased rates of homelessness, . 
 
 ## Access to Medication
 
