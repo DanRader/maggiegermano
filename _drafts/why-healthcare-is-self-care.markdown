@@ -28,7 +28,7 @@ I hear about self care everywhere I look these days. And it's a good thing; we a
 
 Preventative medicine is so, so important for long term health. I think our country is just now catching onto the idea that we should be able to keep ourselves healthy *before* we get seriously ill. This is why preventative care, including annual physicals, are now fully covered under the Affordable Care Act.
 
-You should go to the doctor at least once a year to get all of your blood work and other tests done. This can show if there are any potentially serious problems that you might be able to manage or prevent. It can also give you the peace of mind that everything is fine and you don't have to worry about your health.
+You should go to the doctor at least once a year to get all of your blood work and other tests done. This can show if there are any potentially serious problems that you might be able to manage, treat, or prevent. It can also give you the peace of mind that everything is fine and you don't have to worry about your health. 
 
 ## Women's Health
 
