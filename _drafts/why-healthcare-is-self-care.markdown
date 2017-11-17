@@ -20,6 +20,8 @@ posts:
 - 5 Ways to Practice Self Care While on a Budget
 ---
 
-I hear about self-care everywhere I look these days. And it's a good thing, we all need to take better care of ourselves.
+I hear about self-care everywhere I look these days. And it's a good thing, we all need to take better care of ourselves. There's always so much information coming at us, and busyness is a new epidemic. 
+
+However, it's important to remember 
 
 Looking for awesome self-care resources? Check out the [Girls' Night In newsletter](http://girlsnightinclub.com?ref=WFFuTlErVEg=)!
