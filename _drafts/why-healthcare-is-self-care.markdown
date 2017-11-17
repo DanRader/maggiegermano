@@ -44,7 +44,7 @@ If you've ever had to rely on something like antidepressants or anti-anxiety med
 
 ## Sick Visits
 
-How many people do you know who never go to the doctor, even when they're sick? Are you one of those people?
+How many people do you know who never go to the doctor, even when they're sick? Are you one of those people? Knock it off! Sometimes we can weather that cold, but other times you might actually need an antibiotic or some other sort of medical support. With insurance, you don't have to suffer because you're afraid that you can't afford to go to the doctor when you're ill or hurt. 
 
 Enroll at [HealthCare.gov](http://www.healthcare.gov) by December 15th!
 
