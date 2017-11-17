@@ -40,6 +40,8 @@ I've said this previously: mental health is just as important as physical health
 
 ## Access to Medication
 
+If you've ever had to rely on something like antidepressants or anti-anxiety medicine, you *know* how important it is to have access to your medication. 
+
 ## Sick Visits
 
 How many people do you know who never go to the doctor, even when they're sick? Are you one of those people?
