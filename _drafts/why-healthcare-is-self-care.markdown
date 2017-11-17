@@ -36,19 +36,21 @@ Every woman should go to the gynecologist every year. Some experts say that wome
 
 In the past 30 years, the number of cervical cancer cases and corresponding rates of death have decreased by more than 50 percent, which the [CDC](https://www.cdc.gov/cancer/cervical/statistics/index.htm) and [American Cancer Society](https://www.cancer.org/cancer/cervical-cancer/detection-diagnosis-staging.html) attribute to many women getting regular pap tests, which can find cervical pre-cancer before it turns to cancer. This pre-cancerous stage, and early stages of cervical cancer often don't show up with any symptoms. That is why it's important to catch it early before it progresses.
 
-Yes, going to they gynecologist is the worst. In fact, it can be downright traumatizing for some people. I wish there was a better way for us to make sure we're healthy. However, I always breathe a sigh of relief after my annual gynecological exam. So going every January is a way to calm my anxiety and confirm that I'm in good health.
+Yes, going to they gynecologist is the worst. In fact, it can be downright traumatizing for some people. I wish there was a better way for us to make sure we're healthy. However, I always breathe a sigh of relief after my annual gynecological exam. So going every January is a way to calm my anxiety and confirm that I'm in good health. I hope you do the same.
 
 ## Mental Health Services
 
-I've said this previously: mental health is just as important as physical health. There are so many people who can't afford to go to therapy or a psychiatrist. Many people will mental illness are completely failed by our systems or lack thereof. It's a stain on our society and leads to increased rates of homelessness, .
+I've said this [previously](https://www.maggiegermano.com/blog/what-you-should-consider-when-choosing-a-healthcare-plan/): mental health is just as important as physical health. There are so many people who can't afford to go to therapy or a psychiatrist. Many people with mental illness are completely failed by our systems or lack thereof. It's a stain on our society that I hope someday soon will be remedied.
+
+If you suffer from mental illness, utilize your health insurance for things like therapy, psychiatry, medication, acupuncture, and anything else that helps you feel better. These services often come with a co-pay, and sometimes your insurance company will reimburse you even if you have to pay out of pocket for a therapist who doesn't take insurance.
 
 ## Access to Medication
 
-If you've ever had to rely on something like antidepressants or anti-anxiety medicine, you *know* how important it is to have access to your medication.
+If you've ever had to rely on something like antidepressants or anti-anxiety medicine, you *know* how important it is to have access to your medication. It's unacceptable that so many people in our society can't afford the medications that they need (or want). So whether its birth control, acne medication, antidepressants, or blood pressure medication, make sure you're getting what you need to maintain your health and lifestyle.
 
 ## Sick Visits
 
-How many people do you know who never go to the doctor, even when they're sick? Are you one of those people? Knock it off! Sometimes we can weather that cold, but other times you might actually need an antibiotic or some other sort of medical support. With insurance, you don't have to suffer because you're afraid that you can't afford to go to the doctor when you're ill or hurt.
+How many people do you know who never go to the doctor, even when they're sick? Are you one of those people? Knock it off! Sometimes we can weather that cold, but other times you might actually need an antibiotic or some other kind of medical support. With insurance, you shouldn't have to suffer because you're afraid that you can't afford to go to the doctor when you're ill or hurt. Find out how much your co-pay is for a sick visit, and get yourself to the doctor (and [get a flu shot](https://20somethingfinance.com/where-to-get-cheap-or-free-flu-shots/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A\+20somethingfinancecom\+%2820SomethingFinance.com%29)!).
 
 *How do you leverage your health insurance to practice self care? Share in the comments!*
 
