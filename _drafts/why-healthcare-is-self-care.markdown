@@ -22,6 +22,6 @@ posts:
 
 I hear about self-care everywhere I look these days. And it's a good thing, we all need to take better care of ourselves. There's always so much information coming at us, and busyness is a new epidemic. 
 
-However, it's important to remember 
+However, it's important to remember that taking care of our 
 
 Looking for awesome self-care resources? Check out the [Girls' Night In newsletter](http://girlsnightinclub.com?ref=WFFuTlErVEg=)!
