@@ -40,9 +40,9 @@ Yes, going to they gynecologist is the worst. In fact, it can be downright traum
 
 ## Mental Health Services
 
-I've said this [previously](https://www.maggiegermano.com/blog/what-you-should-consider-when-choosing-a-healthcare-plan/): mental health is just as important as physical health. There are so many people who can't afford to go to therapy or a psychiatrist. Many people with mental illness are completely failed by our systems or lack thereof. It's a stain on our society that I hope someday soon will be remedied.
+I've said this [previously](https://www.maggiegermano.com/blog/what-you-should-consider-when-choosing-a-healthcare-plan/): mental health is just as important as physical health. There are so many people who still can't afford to go to therapy or a psychiatrist. Many people with mental illness are completely failed by our systems or lack thereof. It's a stain on our society that I hope someday soon will be remedied. Until then, we need to rely on the insurance plans that are offered to us.
 
-If you suffer from mental illness, utilize your health insurance for things like therapy, psychiatry, medication, acupuncture, and anything else that helps you feel better. These services often come with a co-pay, and sometimes your insurance company will reimburse you even if you have to pay out of pocket for a therapist who doesn't take insurance.
+If you suffer from mental illness, utilize your health insurance for things like therapy, psychiatry, medication, acupuncture, and anything else that helps you get better. These services often come with a co-pay, and sometimes your insurance company will reimburse you even if you have to pay out of pocket for a therapist who doesn't take insurance.
 
 ## Access to Medication
 
