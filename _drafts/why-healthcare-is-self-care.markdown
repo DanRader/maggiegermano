@@ -56,7 +56,7 @@ How many people do you know who never go to the doctor, even when they're sick? 
 
 *How do you leverage your health insurance to practice self care? Share in the comments!*
 
-**Resources:**
+**Other Resources:**
 
 * Enroll at [HealthCare.gov](http://www.healthcare.gov) by December 15th!
 
