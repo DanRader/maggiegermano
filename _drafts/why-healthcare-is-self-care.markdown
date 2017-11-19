@@ -48,6 +48,8 @@ If you suffer from mental illness, utilize your health insurance for things like
 
 If you've ever had to rely on something like antidepressants or anti-anxiety medicine, you *know* how important it is to have access to your medication. It's unacceptable that so many people in our society can't afford the medications that they need (or want). So whether its birth control, acne medication, antidepressants, or blood pressure medication, make sure you're getting what you need to maintain your health and lifestyle.
 
+When you're choosing a healthcare plan, look at their prescription coverage. How much are the co-pays? Do they not cover brand name medications? Is there anything that you need that they don't cover? These are important questions to ask so that you don't end up not having access to your medication.
+
 ## Sick Visits
 
 How many people do you know who never go to the doctor, even when they're sick? Are you one of those people? Knock it off! Sometimes we can weather that cold, but other times you might actually need an antibiotic or some other kind of medical support. With insurance, you shouldn't have to suffer because you're afraid that you can't afford to go to the doctor when you're ill or hurt. Find out how much your co-pay is for a sick visit, and get yourself to the doctor (and [get a flu shot](https://20somethingfinance.com/where-to-get-cheap-or-free-flu-shots/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A\+20somethingfinancecom\+%2820SomethingFinance.com%29)!).
