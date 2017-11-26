@@ -1,6 +1,6 @@
 ---
 title: Why Health Insurance is Worth Paying For
-date: 2017-11-26 14:39:00 -05:00
+date: 2017-11-27 11:00:00 -05:00
 categories:
 - lifestyle
 - budget
@@ -14,5 +14,9 @@ tags:
 - affordable care act
 - insurance
 - self care
+posts:
+- Why Healthcare is Self Care
+- What You Should Consider When Choosing a Healthcare Plan
+- What You Should Know About Open Enrollment This Year
 ---
 
