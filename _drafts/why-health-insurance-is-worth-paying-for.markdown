@@ -14,6 +14,7 @@ tags:
 - affordable care act
 - insurance
 - self care
+image: "/uploads/hospital.jpg"
 posts:
 - Why Healthcare is Self Care
 - What You Should Consider When Choosing a Healthcare Plan
