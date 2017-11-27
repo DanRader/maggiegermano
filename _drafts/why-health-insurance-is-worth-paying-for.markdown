@@ -32,11 +32,11 @@ It's always shocked me when I meet people who don't have health insurance becaus
 
 ## Prevention is key
 
-Like I said [last week](https://www.maggiegermano.com/blog/why-healthcare-is-self-care/), preventive medicine is so important. Going to annual medical visits can not only give you peace of mind, but it can catch issues before they get too serious. For example, a basic blood test can discover if your cholesterol is elevated, and you can adopt habits to fix it before you will need medication. 
+Like I said [last week](https://www.maggiegermano.com/blog/why-healthcare-is-self-care/), preventive medicine is so important. Going to annual medical visits can not only give you peace of mind, but it can catch issues before they get too serious. For example, a basic blood test can discover if your cholesterol is elevated, and you can adopt habits to fix it so you won't need medication. 
 
 ## Accidents happen
 
-We all hope we'll never be the victim of an accident, but we really never know what might happen. 
+We all hope we'll never be the victim of an accident, but we really never know what might happen. Emergency room visits and surgery are incredibly expensive
 
 ## Prescriptions are expensive
 
