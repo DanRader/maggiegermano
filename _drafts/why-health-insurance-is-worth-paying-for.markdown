@@ -50,4 +50,12 @@ Medical costs are the number one cause of [bankruptcy](https://www.cnbc.com/id/1
 
 Whether you do or don't have health insurance, you should try to build up an [emergency fund](https://www.maggiegermano.com/blog/you-need-an-emergency-fund). This will protect you financially in the event of an unexpected illness or injury.
 
+## It's our responsibility
+
+I will continue to harp about enrolling in a health insurance plan, and exalt the benefits of the Affordable Care Act. One of the pieces of the ACA that conservatives tend to complain about is the [individual mandate](https://www.healthcare.gov/fees/fee-for-not-being-covered/). This is the fee that Americans must pay if they can afford health insurance but choose not to enroll in a plan. It is a major function of financing the lower-cost insurance for low-income individuals and families.
+
+You may be asking why you, a healthy person who doesn't need insurance, should have to pay in order to provide coverage for others. Well, when you're a member of a society, you don't exist in isolation. You are one of many of us who are responsible for making our community healthier, safer, and more equal for everyone. It is up to all of us to make our country better. This is why it's important to [get vaccinated](https://www.vaccines.gov/basics/protection/index.html). It's why you are required to get car insurance in most states (which I don't often hear people screaming about and trying to repeal). 
+
+The more people who have health insurance covered, the better off we'll be. More people will be healthier over time, which means costs will eventually go down. People with chronic and/or serious illnesses will get the care they need, which will decrease the financial and emotional strain on their families. These are all good things that are good for our nation as a whole! So whether or not you think you need health insurance, [find a plan](https://www.takecommandhealth.com/maggie-germano?mc_cid=4441b3942f&mc_eid=4a369b2109) that works for your needs and your budget, and [sign up today](http://www.healthcare.gov).
+
 *Have you been protected from financial ruin due to your health insurance? Have you been on the other side and ended up in medical debt? Share your story in the comments!*
