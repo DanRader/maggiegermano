@@ -46,4 +46,6 @@ I know many medications are not covered by insurance at all, and others are stil
 
 ## Medical debt is real
 
-Medical costs are the number one cause of bankruptcy in the United States. Let that sink in. We are the wealthiest country in the world, yet our citizens are regularly going broke when they get sick or injured. 
+Medical costs are the number one cause of bankruptcy in the United States. Let that sink in. We are the wealthiest country in the world, yet our citizens are regularly going broke when they get sick or injured. Even minor medical issues can break the bank if you don't have insurance. 
+
+Whether you do or don't have health insurance, you should try to build up an [emergency fund](https://www.maggiegermano.com/blog/you-need-an-emergency-fund). This will protect you in the event of an unexpected illness or injury.
