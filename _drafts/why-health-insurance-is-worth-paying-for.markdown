@@ -32,7 +32,7 @@ It's always shocked me when I meet people who don't have health insurance becaus
 
 ## Prevention is key
 
-Like I said [last week](https://www.maggiegermano.com/blog/why-healthcare-is-self-care/), preventive medicine is so important.
+Like I said [last week](https://www.maggiegermano.com/blog/why-healthcare-is-self-care/), preventive medicine is so important. Going to annual medical visits 
 
 ## Accidents happen
 
