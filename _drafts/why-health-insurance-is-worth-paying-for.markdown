@@ -28,21 +28,21 @@ As I've said during the entire month of November, it's open enrollment season! T
 
 My mother has always said that I was born a 35-year-old woman. I say that because I have never felt invincible, and as such, I've always wanted to take good care of myself. I get a physical every year, I go to the dentist twice a year, and I almost always go to the doctor if I'm not feeling right.
 
-It's always shocked me when I meet people who don't have health insurance because they are "young" and assume that means they are and will remain healthy. Of course, our healthcare system doesn't make it as easy and affordable as it should to get health coverage. I'm not shaming those who genuinely struggle to afford healthcare; I want to reach those who *choose* not to buy insurance. (But if you do struggle to afford insurance, go to [HealthCare.gov](http://www.healthcare.gov) to find a plan that works for you and your budget!)
+It's always shocked me when I meet people who don't have health insurance because they are "young" and assume that means they are and will remain healthy. Of course, our healthcare system doesn't make it as easy and affordable as it should to get health coverage. I'm not shaming those who genuinely struggle to afford healthcare; I want to reach those who *choose* not to buy insurance. Even if you feel like you don't need it, health insurance is definitely worth paying for.
+
+*(But if you do struggle to afford insurance, go to [HealthCare.gov](http://www.healthcare.gov) to find a plan that works for you and your budget!)*
 
 ## Prevention is key
 
-Like I said [last week](https://www.maggiegermano.com/blog/why-healthcare-is-self-care/), preventive medicine is so important. Going to annual medical visits can not only give you peace of mind, but it can catch issues before they get too serious. For example, a basic blood test can discover if your cholesterol is elevated, and you can adopt habits to fix it so you won't need medication. This applies to many different health issues, and preventive care can save you money and stress over time.
+Like I said [last week](https://www.maggiegermano.com/blog/why-healthcare-is-self-care/), preventive medicine is so important. Going to annual medical visits can not only give you peace of mind, but it can catch issues before they get too serious. For example, a basic blood test can discover if your cholesterol is elevated, and you can adopt habits to fix it so you won't need medication. This applies to many different health issues, both simple and serious, and preventive care can save you money and stress over time (and even your life).
 
 ## Accidents happen
 
-We all hope we'll never be the victim of an accident, but we really never know what might happen. Emergency room visits and surgery are incredibly expensive. I've heard of people who don't go to the hospital when they get hurt, because they don't have health insurance. Not only is this awful for the injured person, but it can also lead to long-term health problems. If you don't get the immediate care you need, your health issues can worsen over time. 
+We all hope we'll never be the victim of an accident, but we really never know what might happen. Emergency room visits and surgery are incredibly expensive, and are often what put people into massive debt. I've heard of people who don't go to the hospital when they get hurt, because they don't have health insurance. Not only is this awful for the injured person, but it can also lead to long-term health problems. If you don't get the immediate care you need, your health issues can worsen over time. 
 
 ## Prescriptions are expensive
 
-Have you ever had to pay for a prescription out of pocket? Medications that might be $10 with insurance can cost at least 10 times that without it. 
-
-I know many medications are not covered by insurance at all, and others are still prohibitively expensive. This needs to change, and hopefully it will in the future. But until then, insurance coverage can make your prescriptions more affordable so that you're getting the care you need.
+Have you ever had to pay for a prescription out of pocket? Medications that might be $10 with insurance can cost at least 10 times that without it. I know many medications are not covered by insurance at all, and others are still prohibitively expensive. This needs to change, and hopefully it will in the future. But until then, insurance coverage can make your prescriptions more affordable so that you're getting the care you need.
 
 ## Medical debt is real
 
