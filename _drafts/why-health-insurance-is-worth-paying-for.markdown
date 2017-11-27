@@ -15,6 +15,7 @@ tags:
 - insurance
 - self care
 image: "/uploads/hospital.jpg"
+tweet: Here's why health insurance is worth paying for
 posts:
 - Why Healthcare is Self Care
 - What You Should Consider When Choosing a Healthcare Plan
@@ -45,4 +46,4 @@ I know many medications are not covered by insurance at all, and others are stil
 
 ## Medical debt is real
 
-Medical costs are the number one cause of bankruptcy in the United States. Let that sink in.
+Medical costs are the number one cause of bankruptcy in the United States. Let that sink in. We are the wealthiest country in the world, yet our citizens are regularly going broke when they get sick or injured. 
