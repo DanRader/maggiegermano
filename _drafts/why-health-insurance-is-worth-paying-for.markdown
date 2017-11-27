@@ -28,3 +28,15 @@ As I've said during the entire month of November, it's open enrollment season! T
 My mother has always said that I was born a 35-year-old woman. I say that because I have never felt invincible, and as such, I've always wanted to take good care of myself. I get a physical every year, I go to the dentist twice a year, and I almost always go to the doctor if I'm not feeling right. 
 
 It's always shocked me when I meet people who don't have health insurance because they are "young" and assume that means they are and will remain healthy. Of course, our healthcare system doesn't make it as easy and affordable as it should to get health coverage. I'm not shaming those who genuinely struggle to afford 
+
+## Prevention is key
+
+x
+
+## Accidents happen
+
+x
+
+## Medical debt is real
+
+Medical costs are the number one cause of bankruptcy in the United States. Let that sink in. 
