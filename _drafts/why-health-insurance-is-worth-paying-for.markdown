@@ -36,7 +36,7 @@ Like I said [last week](https://www.maggiegermano.com/blog/why-healthcare-is-sel
 
 ## Accidents happen
 
-We all hope we'll never be the victim of an accident, but we really never know what might happen. Emergency room visits and surgery are incredibly expensive. I've heard of people who don't go to the hospital when they get hurt, because they don't have health insurance. 
+We all hope we'll never be the victim of an accident, but we really never know what might happen. Emergency room visits and surgery are incredibly expensive. I've heard of people who don't go to the hospital when they get hurt, because they don't have health insurance. Not only is this awful for the injured person, but it can also lead to long-term health problems. If you don't get the immediate care you need, your health issues can worsen over time. 
 
 ## Prescriptions are expensive
 
