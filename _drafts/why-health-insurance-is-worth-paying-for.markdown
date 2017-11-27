@@ -42,9 +42,7 @@ We all hope we'll never be the victim of an accident, but we really never know w
 
 ## Prescriptions are expensive
 
-Have you ever had to pay for a prescription out of pocket? Medications that might be $10 with insurance can cost at least 10 times that without it. 
-
-I know many medications are not covered by insurance at all, and others are still prohibitively expensive. This needs to change, and hopefully it will in the future. But until then, insurance coverage can make your prescriptions more affordable so that you're getting the care you need.
+Have you ever had to pay for a prescription out of pocket? Medications that might be $10 with insurance can cost at least 10 times that without it. I know many medications are not covered by insurance at all, and others are still prohibitively expensive. This needs to change, and hopefully it will in the future. But until then, insurance coverage can make your prescriptions more affordable so that you're getting the care you need.
 
 ## Medical debt is real
 
