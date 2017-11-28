@@ -13,10 +13,12 @@ posts:
 
 You KNOW the holidays are almost here. You've been inundated with ads since before Halloween.
 
-Who are you buying for?
+## Who are you buying for?
 
-How much do you have to spend?
+## How much do you have to spend?
 
-How much can you spend on each person?
+## How much can you spend on each person?
 
-Are there low-cost or free gifts you can give?
+## What is influencing you to spend money?
+
+## Are there low-cost or free gifts you can give?
