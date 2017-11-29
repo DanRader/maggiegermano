@@ -11,7 +11,7 @@ posts:
 - Budgeting 101
 ---
 
-You KNOW the holidays are almost here. You've been inundated with ads since before Halloween.
+You KNOW the holidays are almost here. You've been inundated with ads since before Halloween. Christmas music has been playing on the radio for almost a month. Black Friday, Small Business Saturday, and Cyber Monday have come and gone. 
 
 ## Who are you buying for?
 
