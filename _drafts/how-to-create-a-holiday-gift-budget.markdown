@@ -11,7 +11,7 @@ posts:
 - Budgeting 101
 ---
 
-You KNOW the holidays are almost here. You've been inundated with ads since before Halloween. Christmas music has been playing on the radio for almost a month. Black Friday, Small Business Saturday, and Cyber Monday have come and gone. 
+You KNOW the holidays are almost here. You've been inundated with ads since before Halloween. Christmas music has been playing on the radio for almost a month. Black Friday, Small Business Saturday, and Cyber Monday have come and gone. But just in case you haven't already spent all of your money on holiday gifts, here are some questions you should ask yourself when planning your budget.
 
 ## Who are you buying for?
 
