@@ -27,21 +27,21 @@ Contrary to [popular rhetoric](http://money.cnn.com/2017/10/12/news/economy/trum
 
 ## What does the tax bill do?
 
-* cuts the tax rate on corporations from 35 percent to 20 percent, which would reduce the amount of taxes paid by corporations by $2 trillion over the next 10 years
+* Cuts the tax rate on corporations from 35 percent to 20 percent, which would reduce the amount of taxes paid by corporations by $2 trillion over the next 10 years
 
-* cuts the top-bracket tax rate to the levels that existed under President George W. Bush, while actually raising the lowest-bracket rate
+* Cuts the top-bracket tax rate to the levels that existed under President George W. Bush, while actually raising the lowest-bracket rate
 
-* it eliminates the tax on wealthy estates – those valued at more than $5.5 million, or $11 million for couples. That means that the heirs of the wealthiest 0.2 percent of estates in America (or 1 in 500) will receive their inheritances tax-free.
+* Eliminates the tax on wealthy estates – those valued at more than $5.5 million, or $11 million for couples. That means that the heirs of the wealthiest 0.2 percent of estates in America (or 1 in 500) will receive their inheritances tax-free.
 
-* eliminates the individual alternative minimum tax, which exists to prevent high-income filers from claiming so many deductions and preferences that they pay little or no tax. (In 2005, Trump would have paid a tax rate of less than 4 percent were it not for the alternative minimum tax.)
+* Eliminates the individual alternative minimum tax, which exists to prevent high-income filers from claiming so many deductions and preferences that they pay little or no tax. (In 2005, Trump would have paid a tax rate of less than 4 percent were it not for the alternative minimum tax.)
 
-* carve out a special new loophole for high-income owners of so-called pass-through business entities (such as partnerships, S-corporations and limited liability companies) – cutting the rate they pay from 39.6 percent to 25 percent. upwards of 86 percent of small businesses won't benefit at all.
+* Creates a special new loophole for high-income owners of so-called pass-through business entities, cutting the rate they pay from 39.6 percent to 25 percent. (Upwards of 86 percent of small businesses won't benefit at all.)
 
-* eliminates personal and dependent exemptions.
+* Eliminates personal and dependent exemptions.
 
-* eliminates the ability to deduct large medical expenses and "casualty" losses, such as property damage from hurricanes that is not covered by insurance.
+* Eliminates the ability to deduct large medical expenses and "casualty" losses, such as property damage from hurricanes that is not covered by insurance.
 
-* eliminates the ability to deduct one's state and local taxes paid.
+* Eliminates the ability to deduct one's state and local taxes paid.
 
 ## What does all that even mean?
 
