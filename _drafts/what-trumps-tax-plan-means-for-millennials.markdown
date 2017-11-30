@@ -21,7 +21,17 @@ posts:
 - Are you stressed out about doing your taxes?
 ---
 
-I'm sure you've heard about the new tax bill that [moved to the Senate floor](https://www.nytimes.com/2017/11/30/us/politics/tax-overhaul-senate-debate.html) today. If you're like me, your eyes probably cross when you're trying to understand the details of the bill, called “Unified Framework for Fixing Our Broken Tax Code.” But even though taxes are complicated and boring, this bill, if passed, will have major impacts on American citizens. 
+I'm sure you've heard about the new tax bill that [moved to the Senate floor](https://www.nytimes.com/2017/11/30/us/politics/tax-overhaul-senate-debate.html) today. If you're like me, your eyes probably cross when you're trying to understand the details of the bill, called “Unified Framework for Fixing Our Broken Tax Code.” But even though taxes are complicated and boring, this bill, if passed, will have major impacts on American citizens.
+
+Contrary to [popular rhetoric](http://money.cnn.com/2017/10/12/news/economy/trump-us-highest-taxes/index.html), the United States is not the highest taxed nation in the world.
+
+## What can you do?
+
+**1. Call your Senators!**
+
+This is especially important if you have a Republican Senator. Republican leadership is confident that they can vote this bill through without any support from Democrats. They have a majority, after all. However, some Republicans actually do care about their constituents, and won't blindly vote along party line. And maybe if enough constituents complain, other Republicans will change their vote! (One can hope...)
+
+**2. Spread the word**
 
 **More Resources:**
 [Tall Tax Tales](https://www.usnews.com/opinion/economic-intelligence/articles/2017-10-02/donald-trump-and-the-gop-are-trumpeting-tax-reform-that-benefits-the-rich)
