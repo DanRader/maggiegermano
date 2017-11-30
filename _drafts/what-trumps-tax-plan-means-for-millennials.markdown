@@ -49,6 +49,10 @@ Contrary to [popular rhetoric](http://money.cnn.com/2017/10/12/news/economy/trum
 
 Because of the enormous corporate and high-income tax cuts, it would increase deficits by $2.4 trillion over the next decade and another $3.2 trillion in the decade after that. If Congress doesn't want to increase the deficit, they have to pull money from other sources.
 
+tax graduate-student tuition waivers and eliminate the deductibility of student debt.
+
+By adding a projected $1.5 trillion to the federal debt, the tax bills will increase the pressure for further cuts.
+
 ## What can you do?
 
 **1. Call your Senators!**
