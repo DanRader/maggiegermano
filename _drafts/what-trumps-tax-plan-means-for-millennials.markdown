@@ -66,3 +66,4 @@ There is a lot of misinformation out there. But the truth is: trickle-down econo
 [The Entire Rationale For These Tax Cuts Is Bullshit](https://splinternews.com/the-entire-rationale-for-these-tax-cuts-is-bullshit-1819135455)
 [What the Tax Bill Would Look Like for 25,000 Middle-Class Families](https://www.nytimes.com/interactive/2017/11/28/upshot/what-the-tax-bill-would-look-like-for-25000-middle-class-families.html?hp&action=click&pgtype=Homepage&clickSource=g-artboard\+g-artboard-v3&module=b-lede-package-region&region=top-news&WT.nav=top-news)
 [Six Charts That Help Explain the Republican Tax Plan](https://www.nytimes.com/interactive/2017/09/27/us/politics/six-charts-to-explain-the-republican-tax-plan.html?_r=0)
+[An 11th-Hour Raid by the Wealthiest Baby Boomers](https://www.theatlantic.com/politics/archive/2017/11/young-people-will-foot-the-bill-for-the-gops-tax-plan/547097/?utm_source=atlfb)
