@@ -45,7 +45,7 @@ Contrary to [popular rhetoric](http://money.cnn.com/2017/10/12/news/economy/trum
 
 ## What does all that even mean?
 
-Because of the enormous corporate and high-income tax cuts, it would increase deficits by $2.4 trillion over the next decade and another $3.2 trillion in the decade after that.
+Because of the enormous corporate and high-income tax cuts, it would increase deficits by $2.4 trillion over the next decade and another $3.2 trillion in the decade after that. If Congress doesn't want to increase the deficit, they have to pull money from other sources.
 
 ## What can you do?
 
