@@ -25,6 +25,28 @@ I'm sure you've heard about the new tax bill that [moved to the Senate floor](ht
 
 Contrary to [popular rhetoric](http://money.cnn.com/2017/10/12/news/economy/trump-us-highest-taxes/index.html), the United States is not the highest taxed nation in the world.
 
+## What does the tax bill do?
+
+* cuts the tax rate on corporations from 35 percent to 20 percent, which would reduce the amount of taxes paid by corporations by $2 trillion over the next 10 years
+
+* cuts the top-bracket tax rate to the levels that existed under President George W. Bush, while actually raising the lowest-bracket rate
+
+* it eliminates the tax on wealthy estates – those valued at more than $5.5 million, or $11 million for couples. That means that the heirs of the wealthiest 0.2 percent of estates in America (or 1 in 500) will receive their inheritances tax-free.
+
+* eliminates the individual alternative minimum tax, which exists to prevent high-income filers from claiming so many deductions and preferences that they pay little or no tax. (In 2005, Trump would have paid a tax rate of less than 4 percent were it not for the alternative minimum tax.)
+
+* carve out a special new loophole for high-income owners of so-called pass-through business entities (such as partnerships, S-corporations and limited liability companies) – cutting the rate they pay from 39.6 percent to 25 percent. upwards of 86 percent of small businesses won't benefit at all.
+
+* eliminates personal and dependent exemptions.
+
+* eliminates the ability to deduct large medical expenses and "casualty" losses, such as property damage from hurricanes that is not covered by insurance.
+
+* eliminates the ability to deduct one's state and local taxes paid.
+
+## What does all that even mean?
+
+Because of the enormous corporate and high-income tax cuts, it would increase deficits by $2.4 trillion over the next decade and another $3.2 trillion in the decade after that.
+
 ## What can you do?
 
 **1. Call your Senators!**
@@ -32,6 +54,8 @@ Contrary to [popular rhetoric](http://money.cnn.com/2017/10/12/news/economy/trum
 This is especially important if you have a Republican Senator. Republican leadership is confident that they can vote this bill through without any support from Democrats. They have a majority, after all. However, some Republicans actually do care about their constituents, and won't blindly vote along party line. And maybe if enough constituents complain, other Republicans will change their vote! (One can hope...)
 
 **2. Spread the word**
+
+There is a lot of misinformation out there. But the truth is: trickle-down economics does not boost economic growth. Tax cuts for the mega rich and for corporations only helps those people and businesses. They don't spread their tax savings among the less fortunate of us. In fact, tax breaks for the very rich actually make the wealth gap bigger and bigger. When you hear this fallacy, correct it. Share the resources below. And tell your friends and family to call their Senators!
 
 **More Resources:**
 [Tall Tax Tales](https://www.usnews.com/opinion/economic-intelligence/articles/2017-10-02/donald-trump-and-the-gop-are-trumpeting-tax-reform-that-benefits-the-rich)
