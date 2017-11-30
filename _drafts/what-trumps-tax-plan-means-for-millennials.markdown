@@ -27,6 +27,8 @@ Contrary to [popular rhetoric](http://money.cnn.com/2017/10/12/news/economy/trum
 
 ## What does the tax bill do?
 
+* Reduces the current marginal income tax brackets to four from seven; 12, 25, 35 and 39.6 percent
+
 * Cuts the tax rate on corporations from 35 percent to 20 percent, which would reduce the amount of taxes paid by corporations by $2 trillion over the next 10 years
 
 * Cuts the top-bracket tax rate to the levels that existed under President George W. Bush, while actually raising the lowest-bracket rate
