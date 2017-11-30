@@ -21,6 +21,8 @@ posts:
 - Are you stressed out about doing your taxes?
 ---
 
+I'm sure you've heard about the new tax bill that [moved to the Senate floor](https://www.nytimes.com/2017/11/30/us/politics/tax-overhaul-senate-debate.html) today. If you're like me, your eyes probably cross when you're trying to understand the details of the bill, called “Unified Framework for Fixing Our Broken Tax Code.” But even though taxes are complicated and boring, this bill, if passed, will have major impacts on American citizens. 
+
 **More Resources:**
 [Tall Tax Tales](https://www.usnews.com/opinion/economic-intelligence/articles/2017-10-02/donald-trump-and-the-gop-are-trumpeting-tax-reform-that-benefits-the-rich)
 [A Preliminary Analysis of the Unified Framework](http://www.taxpolicycenter.org/publications/preliminary-analysis-unified-framework)
