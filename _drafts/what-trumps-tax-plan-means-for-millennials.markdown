@@ -61,7 +61,7 @@ Because of the enormous corporate and high-income tax cuts, this bill would incr
 
 * The House version of the bill would cut $25 billion from [Medicare](https://www.medicare.gov/sign-up-change-plans/decide-how-to-get-medicare/whats-medicare/what-is-medicare.html) in fiscal year 2018 and hundreds of billions of dollars of cuts to the program overall.
 
-* The House bill will eliminate the deduction for high out-of-pocket medical expenses.
+* The House bill would eliminate the deduction for high out-of-pocket medical expenses.
 
 **Women**
 
@@ -77,7 +77,7 @@ Because of the enormous corporate and high-income tax cuts, this bill would incr
 
 * The bill eliminates funding for the [Promoting Safe and Stable Families Program](https://www.acf.hhs.gov/cb/resource/pssf-title-iv-b-subpart-2-ssa), which, among other things, helps states keep children safe from maltreatment.
 
-This is just a list of 
+This isn't even a complete list of the negative impacts this tax bill would have on American citizens. Tax cuts always have to be off-set from somewhere else, and this bill has it 
 
 ## What can you do?
 
