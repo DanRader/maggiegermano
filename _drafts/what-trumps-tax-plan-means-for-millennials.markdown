@@ -47,27 +47,27 @@ I'm sure you've heard about the new tax bill that [moved to the Senate floor](ht
 
 ## What does all this even mean for you?
 
-Because of the enormous corporate and high-income tax cuts, this bill would increase deficits by $1.4 trillion over the next decade. That money has to come from somewhere and, in this bill, it comes from programs and services that many of us rely on. All in all, this bill is terrible for anyone who isn't in the top 1 percent.
+Because of the enormous corporate and high-income tax cuts, this bill would increase deficits by $1.4 trillion over the next decade. That money has to come from somewhere and, in this bill, it comes from programs, deductions, and services that many of us rely on. All in all, this bill is terrible for anyone who isn't in the top 1 percent. Here are just a few examples of the programs and benefits that would be gutted.
 
 **Education**
 
 * The House bill eliminates the student loan interest deduction, though the Senate bill, as currently written, would leave this in place.
 
-* 
+* The bill slashes funding for [Federal Pell Grants](https://studentaid.ed.gov/sa/types/grants-scholarships/pell), which are an important financial aid for low-income students.
 
 **Healthcare**
 
-* The bill eliminates the Affordable Care Act’s individual mandate, which would drive up premiums by 10 percent in 2019, and cause 13 million Americans to lose their health insurance.
+* The bill eliminates the Affordable Care Act’s [individual mandate](https://www.healthcare.gov/fees/fee-for-not-being-covered/), which would drive up premiums by 10 percent in 2019, and cause 13 million Americans to lose their health insurance.
 
-* The House version of the bill would cut $25 billion from Medicare in fiscal year 2018 and hundreds of billions of dollars of cuts to the program overall.
+* The House version of the bill would cut $25 billion from [Medicare](https://www.medicare.gov/sign-up-change-plans/decide-how-to-get-medicare/whats-medicare/what-is-medicare.html) in fiscal year 2018 and hundreds of billions of dollars of cuts to the program overall.
 
-* The House bill will eliminate the deduction for high out-of-pocket medical expenses.
+* The House bill would eliminate the deduction for high out-of-pocket medical expenses.
 
 **Women**
 
-* The bill eliminates funding for the Crime Victims Fund, which supports state programs that help crime victims, including efforts to combat violence against women, human trafficking, and child abuse and neglect.
+* The bill eliminates funding for the [Crime Victims Fund](https://www.ovc.gov/about/victimsfund.html), which supports state programs that help crime victims, including efforts to combat violence against women, human trafficking, and child abuse and neglect.
 
-* The bill designates fetuses as eligible beneficiaries of “section 529” college savings accounts. This is a sneaky way to grant personhood to unborn fetuses, stripping away women's right to choose.
+* The bill designates fetuses as eligible beneficiaries of [529 college savings accounts](https://www.sec.gov/reportspubs/investor-publications/investorpubsintro529htm.html). This is a sneaky way to grant personhood to unborn fetuses, with the goal of stripping away women's right to choose.
 
 **Food, Housing, and more**
 
@@ -75,9 +75,11 @@ Because of the enormous corporate and high-income tax cuts, this bill would incr
 
 * Funding for the Affordable Housing Program is cut completely. This program supports federal home loan bank contributions to subsidize affordable housing and homeownership.
 
-* The bill eliminates funding for the Promoting Safe and Stable Families Program, which, among other things, helps states keep children safe from maltreatment.
+* The bill eliminates funding for the [Promoting Safe and Stable Families Program](https://www.acf.hhs.gov/cb/resource/pssf-title-iv-b-subpart-2-ssa), which, among other things, helps states keep children safe from maltreatment.
 
-## What can you do?
+This isn't even a complete list of the negative impacts this tax bill would have on American citizens. 
+
+## So, what can you do?
 
 **1. Call your Senators!**
 
