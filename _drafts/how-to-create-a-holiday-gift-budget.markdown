@@ -54,9 +54,21 @@ Spending money on someone is not the only way to show that you care, and it's no
 
 ## Are there low-cost or free gifts you can give?
 
-Okay, maybe you've decided that you do want to give a gift to all of your close friends and family. That's so generous! But assuming you don't have unlimited funds, you're going to have to get creative. Brainstorm some things that are inexpensive or free that you can give as gifts. You don't have to spend a bunch of money to make a gift worthwhile. 
+Okay, maybe you've decided that you do want to give a gift to all of your close friends and family. That's so generous! But assuming you don't have unlimited funds, you're going to have to get creative. Brainstorm some things that are inexpensive or free that you can give as gifts. You don't have to spend a bunch of money to make a gift worthwhile and thoughtful. 
 
 One thing I like to ask people is: **what is something that you're really good at?** What do people compliment you on or ask you for? If you find your friends constantly asking you to bake cookies for them, maybe your gift this year can be an assortment of your favorite Christmas cookies! (Sidenote: I'm always accepting [peanut butter blossoms](https://www.hersheys.com/kitchens/en_us/recipes/peanut-butter-blossoms.html).) Or maybe you really have a way with words and your mom would be happy with a thoughtful card instead of an expensive necklace. 
+
+**Other inexpensive gift ideas:**
+
+* A framed picture of the two of you
+
+* Homemade jewelry
+
+* A home-cooked meal
+
+* A knitted hat or scarf
+
+* Quality time together
 
 Happy holidays!
 
