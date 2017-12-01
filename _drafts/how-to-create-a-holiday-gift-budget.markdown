@@ -34,7 +34,7 @@ Regardless of what Capitalism tells us, you don't actually have to buy a gift fo
 
 ## How much do you have to spend?
 
-Be realistic. How much money can you spend without going into debt or not being able to pay your rent in January? 
+Be realistic. How much money can you spend without going into debt or not being able to pay your rent in January? Make sure that you're accounting for all of your fixed expenses (and things like food) when you're deciding your budget. 
 
 If you're disappointed with the amount of money you have (or don't have) to spend this year, [start planning](https://www.maggiegermano.com/blog/stress-free-holidays) for next year. I like to set aside a small amount each month so that I will have plenty to spend on gifts throughout the year. Adding this line item to my budget has been a game changer when it comes to holidays and birthdays. I now know that I'll always have at least a little bit of money set aside for gifts, so I never have to bust my monthly budget. 
 
