@@ -29,3 +29,5 @@ Be realistic. How much money can you spend without going into debt or not being 
 Are you feeling pressured to buy someone a gift? Where is that pressure coming from? Figure out if it's a sincere desire to make that person feel special, or if there is another reason.
 
 ## Are there low-cost or free gifts you can give?
+
+Okay, maybe you've decided that you do want to give a gift to all of your close friends and family. That's so generous! 
