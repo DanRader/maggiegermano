@@ -23,15 +23,15 @@ posts:
 
 I'm sure you've heard about the new tax bill that [moved to the Senate floor](https://www.nytimes.com/2017/11/30/us/politics/tax-overhaul-senate-debate.html) today. If you're like me, your eyes probably cross when you're trying to understand the details of the bill, called “Unified Framework for Fixing Our Broken Tax Code.” But even though taxes are complicated and seem boring, this bill, if passed, will have major impacts on American citizens.
 
-## What does the tax bill do?
+## What does this tax bill do?
 
-* Reduces the current marginal income tax brackets to four from seven; 12, 25, 35 and 39.6 percent
+* Reduces the current marginal income tax brackets to four from seven
 
 * Cuts the tax rate on corporations from 35 percent to 20 percent, which would reduce the amount of taxes paid by corporations by $2 trillion over the next 10 years
 
-* Cuts the top-bracket tax rate to the levels that existed under President George W. Bush, while actually raising the lowest-bracket rate
+* Cuts the top-bracket tax rate to the levels that existed under President George W. Bush, while raising the lowest-bracket rate
 
-* Eliminates the tax on wealthy estates – those valued at more than $5.5 million, or $11 million for couples. That means that the heirs of the wealthiest 0.2 percent of estates in America (or 1 in 500) will receive their inheritances tax-free.
+* Eliminates the tax on wealthy estates (those valued at more than $5.5 million, or $11 million for couples)
 
 * Eliminates the individual alternative minimum tax, which exists to prevent high-income filers from claiming so many deductions and preferences that they pay little or no tax. (In 2005, Trump would have paid a tax rate of less than 4 percent were it not for the alternative minimum tax.)
 
@@ -55,7 +55,7 @@ By adding a projected $1.5 trillion to the federal debt, the tax bills will incr
 
 **1. Call your Senators!**
 
-This is especially important if you have a Republican Senator. Republican leadership is confident that they can vote this bill through without any support from Democrats. They have a majority, after all. However, some Republicans actually do care about their constituents, and won't blindly vote along party line. And maybe if enough constituents complain, other Republicans will change their vote! (One can hope...)
+The Senate is planning to vote as soon as possible, so it's time to call. This is especially important if you have a Republican Senator. Republican leadership is confident that they can vote this bill through without any support from Democrats. They have a majority, after all. However, some Republicans actually do care about their constituents, and won't blindly vote along party line. And maybe if enough constituents complain, other Republicans will change their vote! (One can hope...)
 
 **2. Spread the word**
 
