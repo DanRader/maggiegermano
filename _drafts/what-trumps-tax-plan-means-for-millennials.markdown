@@ -33,23 +33,47 @@ I'm sure you've heard about the new tax bill that [moved to the Senate floor](ht
 
 * Eliminates the tax on wealthy estates (those valued at more than $5.5 million, or $11 million for couples)
 
-* Eliminates the individual alternative minimum tax, which exists to prevent high-income filers from claiming so many deductions and preferences that they pay little or no tax. (In 2005, Trump would have paid a tax rate of less than 4 percent were it not for the alternative minimum tax.)
+* Eliminates the individual alternative minimum tax, which exists to prevent high-income filers from claiming so many deductions and preferences that they pay little or no tax
 
-* Creates a special new loophole for high-income owners of so-called pass-through business entities, cutting the rate they pay from 39.6 percent to 25 percent. (Upwards of 86 percent of small businesses won't benefit at all.)
+* Creates a special new loophole for high-income owners of so-called pass-through business entities, cutting the rate they pay from 39.6 percent to 25 percent (Upwards of 86 percent of small businesses won't benefit at all)
 
-* Eliminates personal and dependent exemptions.
+* Eliminates personal and dependent exemptions
 
-* Eliminates the ability to deduct large medical expenses and "casualty" losses, such as property damage from hurricanes that is not covered by insurance.
+* Eliminates the ability to deduct large medical expenses and "casualty" losses, such as property damage from hurricanes that is not covered by insurance
 
-* Eliminates the ability to deduct one's state and local taxes paid.
+* Eliminates the ability to deduct one's state and local taxes paid
 
-## What does all that even mean?
+* Designates fetuses as eligible beneficiaries of “section 529” college savings accounts
 
-Because of the enormous corporate and high-income tax cuts, it would increase deficits by $2.4 trillion over the next decade and another $3.2 trillion in the decade after that. If Congress doesn't want to increase the deficit, they have to pull money from other sources.
+## What does all this even mean for you?
 
-tax graduate-student tuition waivers and eliminate the deductibility of student debt.
+Because of the enormous corporate and high-income tax cuts, this bill would increase deficits by $1.4 trillion over the next decade. That money has to come from somewhere and, in this bill, it comes from programs and services that many of us rely on.
 
-By adding a projected $1.5 trillion to the federal debt, the tax bills will increase the pressure for further cuts.
+**Education**
+
+* The House bill eliminates the student loan interest deduction, though the Senate bill, as currently written, would leave this in place.
+
+* 
+
+**Healthcare**
+
+* The bill eliminates the Affordable Care Act’s individual mandate, which would drive up premiums by 10 percent in 2019, and cause 13 million Americans to lose their health insurance.
+
+* The House version of the bill would cut $25 billion from Medicare in fiscal year 2018 and hundreds of billions of dollars of cuts to the program overall
+
+**Women**
+
+* The bill eliminates funding for the Crime Victims Fund, which supports state programs that help crime victims, including efforts to combat violence against women, human trafficking, and child abuse and neglect.
+
+* The bill designates fetuses as eligible beneficiaries of “section 529” college savings accounts. This is a sneaky way to grant personhood to unborn fetuses, stripping away women's right to choose.
+
+**Food, Housing, and more**
+
+* The bill eliminates funding for the Commodity Assistance Program, which provides food donations to help the elderly and low-income populations, among others.
+
+* Funding for the Affordable Housing Program is cut completely. This program supports federal home loan bank contributions to subsidize affordable housing and homeownership.
+
+* The bill eliminates
 
 ## What can you do?
 
