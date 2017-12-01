@@ -32,7 +32,7 @@ You KNOW the holidays are almost here. You've been inundated with ads since befo
 
 Regardless of what Capitalism tells us, you don't actually have to buy a gift for everyone you know. If you can't afford to buy gifts for everyone who is important to you, you have to prioritize. So, who are the people you absolutely want to buy gifts for this year? You can make a tier 1 (must gift) and tier 2 (maybe gift) list, based on what your budget will end up being.
 
-If you have a really big family (like I do), it might be completely unreasonable to get a gift for every single person. A great solution that my family came up with is this: throw everyone's name into a hat and have each person pull a name out. That is the person they have to buy a gift for that year. It seriously cuts down and spending and takes a lot of the pressure off. 
+If you have a really big family (like I do), it might be completely unreasonable to get a gift for every single person. A great solution that my family came up with is this: throw everyone's name into a hat and have each person pull a name out. That is the person they have to buy a gift for that year. It seriously cuts down on spending and takes a lot of the pressure off. 
 
 ## How much do you have to spend?
 
