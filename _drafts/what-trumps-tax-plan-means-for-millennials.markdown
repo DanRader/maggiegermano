@@ -77,7 +77,7 @@ Because of the enormous corporate and high-income tax cuts, this bill would incr
 
 * The bill eliminates funding for the [Promoting Safe and Stable Families Program](https://www.acf.hhs.gov/cb/resource/pssf-title-iv-b-subpart-2-ssa), which, among other things, helps states keep children safe from maltreatment.
 
-This isn't even a complete list of the negative impacts this tax bill would have on American citizens. Tax cuts always have to be off-set from somewhere else, and this bill has it 
+This isn't even a complete list of the negative impacts this tax bill would have on American citizens. 
 
 ## So, what can you do?
 
