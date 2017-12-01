@@ -3,6 +3,7 @@ title: How to Create a Holiday Gift Budget
 date: 2017-12-04 11:00:00 -05:00
 categories:
 - Budget
+image: "/uploads/gifts.jpg"
 tweet: 'Don''t go wild spending on gifts this year! Here''s how to create a gift-buying
   #budget:'
 posts:
