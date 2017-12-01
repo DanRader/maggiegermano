@@ -70,6 +70,12 @@ One thing I like to ask people is: **what is something that you're really good a
 
 * Quality time together
 
+* A book
+
+* A bottle of wine
+
+* A beautiful house plant
+
 Happy holidays!
 
 *How well do you usually budget around the holidays? Have you found creative ways to show your love? Share in the comments!*
