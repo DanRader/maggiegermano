@@ -47,7 +47,7 @@ I'm sure you've heard about the new tax bill that [moved to the Senate floor](ht
 
 ## What does all this even mean for you?
 
-Because of the enormous corporate and high-income tax cuts, this bill would increase deficits by $1.4 trillion over the next decade. That money has to come from somewhere and, in this bill, it comes from programs and services that many of us rely on.
+Because of the enormous corporate and high-income tax cuts, this bill would increase deficits by $1.4 trillion over the next decade. That money has to come from somewhere and, in this bill, it comes from programs and services that many of us rely on. All in all, this bill is terrible for anyone who isn't in the top 1 percent.
 
 **Education**
 
@@ -59,7 +59,9 @@ Because of the enormous corporate and high-income tax cuts, this bill would incr
 
 * The bill eliminates the Affordable Care Act’s individual mandate, which would drive up premiums by 10 percent in 2019, and cause 13 million Americans to lose their health insurance.
 
-* The House version of the bill would cut $25 billion from Medicare in fiscal year 2018 and hundreds of billions of dollars of cuts to the program overall
+* The House version of the bill would cut $25 billion from Medicare in fiscal year 2018 and hundreds of billions of dollars of cuts to the program overall.
+
+* The House bill will eliminate the deduction for high out-of-pocket medical expenses.
 
 **Women**
 
@@ -94,3 +96,4 @@ There is a lot of misinformation out there. But the truth is: trickle-down econo
 [Six Charts That Help Explain the Republican Tax Plan](https://www.nytimes.com/interactive/2017/09/27/us/politics/six-charts-to-explain-the-republican-tax-plan.html?_r=0)
 [An 11th-Hour Raid by the Wealthiest Baby Boomers](https://www.theatlantic.com/politics/archive/2017/11/young-people-will-foot-the-bill-for-the-gops-tax-plan/547097/?utm_source=atlfb)
 [Congressional GOP Tax and Budget Plans Benefit Wealthiest at the Expense of Vulnerable Young People](http://genprogress.org/voices/2017/11/22/45990/congressional-gop-tax-budget-plans-benefit-wealthiest-expense-vulnerable-young-people/)
+[Ivanka Trump Should Stop Pretending the Tax Bill Will Help Women and Families](https://www.americanprogress.org/issues/women/news/2017/11/27/443288/ivanka-trump-stop-pretending-tax-bill-will-help-women-families/)
