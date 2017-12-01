@@ -30,4 +30,4 @@ Are you feeling pressured to buy someone a gift? Where is that pressure coming f
 
 ## Are there low-cost or free gifts you can give?
 
-Okay, maybe you've decided that you do want to give a gift to all of your close friends and family. That's so generous! 
+Okay, maybe you've decided that you do want to give a gift to all of your close friends and family. That's so generous! But assuming you don't have unlimited funds, you're going to have to get creative. Brainstorm some things that are inexpensive or free that you can give as gifts. 
