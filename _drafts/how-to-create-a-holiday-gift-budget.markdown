@@ -3,6 +3,20 @@ title: How to Create a Holiday Gift Budget
 date: 2017-12-04 11:00:00 -05:00
 categories:
 - Budget
+tags:
+- christmas
+- hannukah
+- holiday
+- holidays
+- happy holidays
+- merry christmas
+- gifts
+- presents
+- spending
+- family
+- friends
+- friendship
+- debt
 image: "/uploads/gifts.jpg"
 tweet: 'Don''t go wild spending on gifts this year! Here''s how to create a gift-buying
   #budget:'
@@ -26,7 +40,7 @@ Be realistic. How much money can you spend without going into debt or not being 
 
 ## What is influencing you to spend money?
 
-Are you feeling pressured to buy someone a gift? Where is that pressure coming from? Figure out if it's a sincere desire to make that person feel special, or if there is another reason.
+Are you feeling pressured to buy someone a gift? Where is that pressure coming from? Figure out if it's a sincere desire to make that person feel special, or if there is another reason. Spending money on someone is not the only way to show that you care, and it's not the most important way! Some people's love language is gift-giving and/or receiving gifts, but others aren't wired that way. 
 
 ## Are there low-cost or free gifts you can give?
 
