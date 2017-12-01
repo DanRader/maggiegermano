@@ -42,7 +42,7 @@ How much can you put aside each month to prepare you for next December?
 
 ## How much can you spend on each person?
 
-So now you know how many gifts you want to buy and how much you can spend total. That pretty much determines how much you should be spending on each gift. If you want all the gifts to be fairly equal in cost, divide your total budget by the number of people you're shopping for. 
+So now you know how many gifts you want to buy and how much you can spend total. That pretty much determines how much you should be spending on each gift. If you want all the gifts to be fairly equal in cost, divide your total budget by the number of people you're shopping for. If you know that you'll want to get something bigger or more expensive for one person, and smaller gifts for the rest, allocate accordingly. 
 
 ## What is influencing you to spend money?
 
