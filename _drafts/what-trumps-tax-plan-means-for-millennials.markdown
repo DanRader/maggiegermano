@@ -75,7 +75,9 @@ Because of the enormous corporate and high-income tax cuts, this bill would incr
 
 * Funding for the Affordable Housing Program is cut completely. This program supports federal home loan bank contributions to subsidize affordable housing and homeownership.
 
-* The bill eliminates funding for the Promoting Safe and Stable Families Program, which, among other things, helps states keep children safe from maltreatment.
+* The bill eliminates funding for the [Promoting Safe and Stable Families Program](https://www.acf.hhs.gov/cb/resource/pssf-title-iv-b-subpart-2-ssa), which, among other things, helps states keep children safe from maltreatment.
+
+This is just a list of 
 
 ## What can you do?
 
