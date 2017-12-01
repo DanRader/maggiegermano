@@ -47,7 +47,7 @@ I'm sure you've heard about the new tax bill that [moved to the Senate floor](ht
 
 ## What does all this even mean for you?
 
-Because of the enormous corporate and high-income tax cuts, this bill would increase deficits by $1.4 trillion over the next decade. That money has to come from somewhere and, in this bill, it comes from programs and services that many of us rely on. All in all, this bill is terrible for anyone who isn't in the top 1 percent.
+Because of the enormous corporate and high-income tax cuts, this bill would increase deficits by $1.4 trillion over the next decade. That money has to come from somewhere and, in this bill, it comes from programs, deductions, and services that many of us rely on. All in all, this bill is terrible for anyone who isn't in the top 1 percent. Here are just a few examples of the programs and benefits that would be gutted.
 
 **Education**
 
