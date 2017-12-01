@@ -34,7 +34,11 @@ Regardless of what Capitalism tells us, you don't actually have to buy a gift fo
 
 ## How much do you have to spend?
 
-Be realistic. How much money can you spend without going into debt or not being able to pay your rent in January?
+Be realistic. How much money can you spend without going into debt or not being able to pay your rent in January? 
+
+If you're disappointed with the amount of money you have (or don't have) to spend this year, [start planning](https://www.maggiegermano.com/blog/stress-free-holidays) for next year. I like to set aside a small amount each month so that I will have plenty to spend on gifts throughout the year. Adding this line item to my budget has been a game changer when it comes to holidays and birthdays. I now know that I'll always have at least a little bit of money set aside for gifts, so I never have to bust my monthly budget. 
+
+How much can you put aside each month to prepare you for next December?
 
 ## How much can you spend on each person?
 
@@ -42,7 +46,9 @@ So now you know how many gifts you want to buy and how much you can spend total.
 
 ## What is influencing you to spend money?
 
-Are you feeling pressured to buy someone a gift? Where is that pressure coming from? Figure out if it's a sincere desire to make that person feel special, or if there is another reason. Spending money on someone is not the only way to show that you care, and it's not the most important way! Some people's [love language](http://www.5lovelanguages.com/) is gift-giving and/or receiving gifts, but others aren't wired that way. 
+Are you feeling pressured to buy someone a gift? Where is that pressure coming from? Figure out if it's a sincere desire to make that person feel special, or if there is another reason. Everyday, we are inundated with commercials and other ads telling us that we have to buy, buy, buy. This often makes us feel resentful or overwhelmed, and for many people, it results in debt. 
+
+Spending money on someone is not the only way to show that you care, and it's not the most important way! Some people's [love language](http://www.5lovelanguages.com/) is gift-giving and/or receiving gifts, but others aren't wired that way. 
 
 ## Are there low-cost or free gifts you can give?
 
