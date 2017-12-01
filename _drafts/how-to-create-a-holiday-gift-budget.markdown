@@ -16,7 +16,11 @@ You KNOW the holidays are almost here. You've been inundated with ads since befo
 
 ## Who are you buying for?
 
+Regardless of what Capitalism tells us, you don't actually have to buy a gift for everyone you know. If you can't afford to buy gifts for everyone who is important to you, you have to prioritize. So, who are the people you absolutely need to buy gifts for this year? You can make a tier 1 and tier 2 list, based on what your budget will end up being. 
+
 ## How much do you have to spend?
+
+Be realistic. How much money can you spend without going into debt or not being able to pay your rent in January? 
 
 ## How much can you spend on each person?
 
