@@ -108,3 +108,7 @@ There is a lot of misinformation out there. But the truth is: trickle-down econo
 * [Congressional GOP Tax and Budget Plans Benefit Wealthiest at the Expense of Vulnerable Young People](http://genprogress.org/voices/2017/11/22/45990/congressional-gop-tax-budget-plans-benefit-wealthiest-expense-vulnerable-young-people/)
 
 * [Ivanka Trump Should Stop Pretending the Tax Bill Will Help Women and Families](https://www.americanprogress.org/issues/women/news/2017/11/27/443288/ivanka-trump-stop-pretending-tax-bill-will-help-women-families/)
+
+* [The Senate Tax Bill Would Eliminate Programs for Farmers, Crime Victims, the Elderly, and Children](https://www.americanprogress.org/issues/economy/news/2017/11/21/443207/senate-tax-bill-eliminate-programs-farmers-crime-victims-elderly-children/)
+
+* [Millions of Working- and Middle-Class Americans Would See a Tax Increase Under the Senate GOP Tax Plan](https://www.americanprogress.org/issues/economy/news/2017/11/27/443316/millions-working-middle-class-americans-see-tax-increase-senate-gop-tax-plan/)
