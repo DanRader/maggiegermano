@@ -1,6 +1,7 @@
 ---
 title: How to Create a Holiday Gift Budget
 date: 2017-12-04 11:00:00 -05:00
+published: false
 categories:
 - Budget
 tags:
@@ -76,6 +77,6 @@ One thing I like to ask people is: **what is something that you're really good a
 
 * A beautiful house plant
 
-Happy holidays!
+**Happy holidays!**
 
 *How well do you usually budget around the holidays? Have you found creative ways to show your love? Share in the comments!*
