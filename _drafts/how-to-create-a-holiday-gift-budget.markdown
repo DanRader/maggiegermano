@@ -38,9 +38,11 @@ Be realistic. How much money can you spend without going into debt or not being 
 
 ## How much can you spend on each person?
 
+So now you know how many gifts you want to buy and how much you can spend total. That pretty much determines how much you should be spending on each gift. If you want all the gifts to be fairly equal in cost, divide your total budget by the number of people you're shopping for. 
+
 ## What is influencing you to spend money?
 
-Are you feeling pressured to buy someone a gift? Where is that pressure coming from? Figure out if it's a sincere desire to make that person feel special, or if there is another reason. Spending money on someone is not the only way to show that you care, and it's not the most important way! Some people's love language is gift-giving and/or receiving gifts, but others aren't wired that way. 
+Are you feeling pressured to buy someone a gift? Where is that pressure coming from? Figure out if it's a sincere desire to make that person feel special, or if there is another reason. Spending money on someone is not the only way to show that you care, and it's not the most important way! Some people's [love language](http://www.5lovelanguages.com/) is gift-giving and/or receiving gifts, but others aren't wired that way. 
 
 ## Are there low-cost or free gifts you can give?
 
