@@ -79,7 +79,7 @@ Because of the enormous corporate and high-income tax cuts, this bill would incr
 
 This isn't even a complete list of the negative impacts this tax bill would have on American citizens. Tax cuts always have to be off-set from somewhere else, and this bill has it 
 
-## What can you do?
+## So, what can you do?
 
 **1. Call your Senators!**
 
