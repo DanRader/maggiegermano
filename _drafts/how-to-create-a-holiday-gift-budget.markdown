@@ -50,7 +50,7 @@ So now you know how many gifts you want to buy and how much you can spend total.
 
 Are you feeling pressured to buy gifts? Where is that pressure coming from? Figure out if it's a sincere desire to make that person feel special, or if there is another, less authentic, reason. Everyday, we are inundated with commercials and other ads telling us that we have to buy, buy, buy. This often makes us feel resentful or overwhelmed, and for many people, it results in debt. 
 
-Spending money on someone is not the only way to show that you care, and it's not the most important way! Some people's [love language](http://www.5lovelanguages.com/) is gift-giving and/or receiving gifts, but others aren't wired that way. So get clear on *why* you want to buy gifts, how you think it will make your loved ones *feel*, and then focus on how to make it happen. 
+Spending money on someone is not the only way to show that you care, and it's not the most important way! Some people's [love language](http://www.5lovelanguages.com/) is gift-giving and/or receiving gifts, but others aren't wired that way. So get clear on *why* you want to buy gifts, how you think it will make your loved ones *feel*, and then focus on how to make it happen (or not). 
 
 ## Are there low-cost or free gifts you can give?
 
