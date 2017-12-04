@@ -2,10 +2,20 @@
 title: Goal Setting for 2018
 date: 2017-12-04 12:12:00 -05:00
 published: false
+image: "/uploads/goals-c84ae4.jpg"
+og-image: "/uploads/_Ask%20for%20what%20you%20want%20and%20be%20prepared%20to%20get%20it._.png"
+event-date: 2018-01-23 18:30:00 -05:00
+start-time: 6:30pm
+end-time: 8:30pm
+button-text: Join Us!
 ticket-price: "$20"
 ---
 
 2018 is upon us! I'm not really one for New Year's resolutions, because we usually abandon them and then feel bad about ourselves. So let's re-frame this tradition and set goals for the year instead.
+
+Join a group of supportive women to get real about your goals for 2018 and beyond. These can be financial goals, or any other life goal! The most important thing is that you're specific, excited, and ready to get started.
+
+You bring your dreams, and I'll bring the markers and wine.
 
 --
 
