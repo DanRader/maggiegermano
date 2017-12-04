@@ -2,6 +2,7 @@
 title: Goal Setting for 2018
 date: 2017-12-04 12:12:00 -05:00
 published: false
+ticket-price: "$20"
 ---
 
 2018 is upon us! I'm not really one for New Year's resolutions, because we usually abandon them and then feel bad about ourselves. So let's re-frame this tradition and set goals for the year instead.
