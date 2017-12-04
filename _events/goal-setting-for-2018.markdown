@@ -11,7 +11,7 @@ button-text: Join Us!
 ticket-price: "$20"
 ---
 
-2018 is upon us! I'm not really one for New Year's resolutions, because we usually abandon them and then feel bad about ourselves. So let's re-frame this tradition and set goals for the year instead.
+2018 is upon us! I'm not really one for New Year's resolutions, because we usually abandon them and then feel bad about ourselves. We need to feel truly empowered and motivated by the things we want to do in order to achieve them. So let's re-frame this tradition and set exciting goals for the year instead.
 
 Join a group of supportive women to get real about your goals for 2018 and beyond. These can be financial goals, or any other life goal! The most important thing is that you're specific, excited, and ready to get started.
 
