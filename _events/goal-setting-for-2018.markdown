@@ -7,6 +7,10 @@ ticket-price: "$20"
 
 2018 is upon us! I'm not really one for New Year's resolutions, because we usually abandon them and then feel bad about ourselves. So let's re-frame this tradition and set goals for the year instead.
 
+Join a group of supportive women to get real about your goals for 2018 and beyond. These can be financial goals, or any other life goal! The most important thing is that you're specific, excited, and ready to get started.
+
+You bring your dreams, and I'll bring the markers and wine.
+
 --
 
 Money Circle is a safe open space where women can ask questions, air their fears, brag about accomplishments, and be honest about any confusion they may have around money.
