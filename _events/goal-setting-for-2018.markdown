@@ -8,6 +8,7 @@ start-time: 6:30pm
 end-time: 8:30pm
 location: 3629 11th Street NW, Washington, DC 20010
 button-text: Join Us!
+button-link: https://www.eventbrite.com/e/money-circle-setting-motivating-goals-for-2018-tickets-41025036990
 ticket-price: "$20"
 ---
 
