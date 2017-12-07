@@ -7,6 +7,7 @@ og-image: "/uploads/_Ask%20for%20what%20you%20want%20and%20be%20prepared%20to%20
 event-date: 2018-01-23 18:30:00 -05:00
 start-time: 6:30pm
 end-time: 8:30pm
+location: 3629 11th Street NW, Washington, DC 20009
 button-text: Join Us!
 ticket-price: "$20"
 ---
