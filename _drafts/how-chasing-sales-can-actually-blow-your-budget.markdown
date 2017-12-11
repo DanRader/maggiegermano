@@ -58,7 +58,7 @@ Almost 40 percent of American consumers reported overspending on the holidays in
 
 **Create a budget**
 
-I wrote about this [last week](https://www.maggiegermano.com/blog/how-to-create-a-holiday-gift-budget/), but it's so key to create a spending budget at the holidays. Make sure you're also accounting for any travel (or celebrating) that you will have to do. This will give you a framework to stay within. 
+I wrote about this [last week](https://www.maggiegermano.com/blog/how-to-create-a-holiday-gift-budget/), but it's so key to create a spending budget at the holidays. Make sure you're also accounting for any travel (or celebrating) that you will have to do. This will give you a framework to stay within. Keep your budget number with you and write down the amount every time you buy a gift. That way, you'll always be aware of how much you've spent and how much spending you have left. 
 
 **Set spending limits**
 
