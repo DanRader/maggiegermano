@@ -48,6 +48,8 @@ Almost 40 percent of American consumers reported overspending on the holidays in
 
 * 58 percent of holiday spending goes towards gifts, while the rest accounts for travel, food, celebrations, etc.
 
+* Those who didn't plan ahead spend 125 percent (!) more than those who stuck to their plan
+
 ## What you can do to avoid overspending at the holidays
 
 **Create a budget**
