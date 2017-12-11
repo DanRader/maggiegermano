@@ -66,7 +66,7 @@ Once you've created your budget, set a cap on how much you can spend per person 
 
 **Plan for unexpected costs**
 
-Things happen. If your car breaks down or something else goes wrong around the holidays, it only adds stress to you and your budget.
+Things happen. If your car breaks down or something else goes wrong around the holidays, it only adds stress to you and your budget. It helps to plan for these types of expenses. Make it a long-term goal to build up your [emergency savings](https://www.maggiegermano.com/blog/you-need-an-emergency-fund) account. This fund will 
 
 **Avoid savings traps**
 
