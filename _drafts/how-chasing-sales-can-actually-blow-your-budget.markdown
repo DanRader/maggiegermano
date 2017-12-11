@@ -40,7 +40,7 @@ Almost 40 percent of American consumers reported overspending on the holidays in
 
 * Those who went over budget spend about 15 percent more than planned
 
-* 86 percent of shoppers use some kind of savings tactic, like shopping sales
+* 86 percent of shoppers use some kind of savings tactic, like shopping sales or using coupons
 
 * Consumers were 45 percent more likely to go over budget if they chased sales
 
