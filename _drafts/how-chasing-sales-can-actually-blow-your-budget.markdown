@@ -62,7 +62,7 @@ I wrote about this [last week](https://www.maggiegermano.com/blog/how-to-create-
 
 **Set spending limits**
 
-Once you've created your budget, set a cap on how much you can spend per person or per gift. Keep track of your spending as you go, and stick to your limits. 
+Once you've created your budget, set a cap on how much you can spend per person or per gift. Keep track of your spending as you go, and stick to your limits. If you know you don't want to spend more than $20 per person (except for very special people), don't even look at items that cost more than that. 
 
 **Plan for unexpected costs**
 
