@@ -16,5 +16,9 @@ tags:
 - merry christmas
 - money
 image: "/uploads/fly.jpg"
+posts:
+- How to Create a Holiday Gift Budget
+- How to Ensure the Holidays Are (Financially) Stress-Free
+- How to Celebrate Valentine's (or Galentine's) Day Without Breaking the Bank
 ---
 
