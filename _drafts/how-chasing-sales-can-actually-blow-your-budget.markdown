@@ -58,15 +58,15 @@ Almost 40 percent of American consumers reported overspending on the holidays in
 
 **Create a budget**
 
-I wrote about this [last week](https://www.maggiegermano.com/blog/how-to-create-a-holiday-gift-budget/), but it's so key to create a spending budget at the holidays. Make sure you're also accounting for any travel (or celebrating) that you will have to do. This will give you a framework to stay within. 
+I wrote about this [last week](https://www.maggiegermano.com/blog/how-to-create-a-holiday-gift-budget/), but it's so key to create a spending budget at the holidays. Make sure you're also accounting for any travel (or celebrating) that you will have to do. This will give you a framework to stay within. Keep your budget number with you and write down the amount every time you buy a gift. That way, you'll always be aware of how much you've spent and how much spending you have left. 
 
 **Set spending limits**
 
-Once you've created your budget, set a cap on how much you can spend per person or per gift. Keep track of your spending as you go, and stick to your limits. 
+Once you've created your budget, set a cap on how much you can spend per person or per gift. Keep track of your spending as you go, and stick to your limits. If you know you don't want to spend more than $20 per person (except for very special people), don't even look at items that cost more than that. It can be tempting to spend more, but remind yourself of your parameters and keep yourself in line.
 
 **Plan for unexpected costs**
 
-Things happen. If your car breaks down or something else goes wrong around the holidays, it only adds stress to you and your budget. It helps to plan for these types of expenses. Make it a long-term goal to build up your [emergency savings](https://www.maggiegermano.com/blog/you-need-an-emergency-fund) account. This fund will 
+Things happen. If your car breaks down or something else goes wrong around the holidays, it only adds stress to you and your budget. It helps to plan for these types of expenses. Make it a long-term goal to build up your [emergency savings](https://www.maggiegermano.com/blog/you-need-an-emergency-fund) account. This fund will protect you when unexpected costs arise. How does that help you around the holidays? It won't force you to pull money from your gift budget, so you won't have to deviate from your plans!
 
 **Avoid savings traps**
 
