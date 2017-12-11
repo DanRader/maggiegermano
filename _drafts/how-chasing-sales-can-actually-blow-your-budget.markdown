@@ -30,7 +30,7 @@ posts:
 - How to Financially Prepare for Family Occasions
 ---
 
-The holidays are upon us! As I mentioned in my [last post](https://www.maggiegermano.com/blog/how-to-create-a-holiday-gift-budget/), we've been inundated with ads for weeks or months by now. There are hundreds of sales and special offers enticing us to buy. Do you ever find yourself spending more than planned even after you take advantage of the many sales opportunities? You're not alone. According to a [recent survey](https://www.newmiddleclass.org/blog/2017/11/13/holiday-spending-traps-how-us-consumers-get-through-holidays/) from [Elevate's](https://www.elevate.com/home.html) [Center for the New Middle Class](https://www.newmiddleclass.org/blog/), you're not alone.
+The holidays are upon us! As I mentioned in my [last post](https://www.maggiegermano.com/blog/how-to-create-a-holiday-gift-budget/), we've been inundated with ads for weeks or months by now. There are hundreds of sales and special offers enticing us to buy. Do you ever find yourself spending more than planned even after you take advantage of the many sales opportunities? According to a [recent survey](https://www.newmiddleclass.org/blog/2017/11/13/holiday-spending-traps-how-us-consumers-get-through-holidays/) from [Elevate's](https://www.elevate.com/home.html) [Center for the New Middle Class](https://www.newmiddleclass.org/blog/), you're not alone.
 
 Almost 40 percent of American consumers reported overspending on the holidays in 2016. Plus, debt counseling companies see a [25 percent increase](http://abcnews.go.com/Business/story?id=88539) in customers looking for support in January and February. But it doesn't have to be this way. We can learn from our mistakes, and make new decisions moving forward.
 
@@ -58,7 +58,7 @@ Almost 40 percent of American consumers reported overspending on the holidays in
 
 **Create a budget**
 
-I wrote about this [last week](https://www.maggiegermano.com/blog/how-to-create-a-holiday-gift-budget/), but it's so key to create a spending budget at the holidays. Make sure you're also accounting for any travel (or celebrating) that you will have to do. This will give you a framework to stay within. Keep your budget number with you and write down the amount every time you buy a gift. That way, you'll always be aware of how much you've spent and how much spending you have left. 
+I wrote about this [last week](https://www.maggiegermano.com/blog/how-to-create-a-holiday-gift-budget/), but it's so key to create a spending budget at the holidays. Make sure you're also accounting for any travel (or celebrating) that you will have to do. This will give you a framework to stay within. Keep your budget number with you and write down the amount every time you buy a gift. That way, you'll always be aware of how much you've spent and how much spending you have left.
 
 **Set spending limits**
 
