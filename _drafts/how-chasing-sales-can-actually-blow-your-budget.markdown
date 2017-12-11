@@ -36,6 +36,10 @@ Almost 40 percent of American consumers reported overspending on the holidays in
 
 ## What the data says about shopping and chasing sales
 
+* 39 percent of consumers spend more than planned during the holidays
+
+* Those who went over budget spend about 15 percent more than planned
+
 * 86 percent of shoppers use some kind of savings tactic, like shopping sales
 
 * Consumers were 45 percent more likely to go over budget if they chased sales
