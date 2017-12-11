@@ -34,9 +34,21 @@ The holidays are upon us! As I mentioned in my [last post](https://www.maggieger
 
 Almost 40 percent of American consumers reported overspending on the holidays in 2016. Plus, debt counseling companies see a [25 percent increase](http://abcnews.go.com/Business/story?id=88539) in customers looking for support in January and February. But it doesn't have to be this way. We can learn from our mistakes, and make new decisions moving forward.
 
-## How sales can cause you to overspend:
+## What the data says about shopping and chasing sales
 
-## What you can do to avoid overspending at the holidays:
+* 86 percent of shoppers use some kind of savings tactic, like shopping sales
+
+* Consumers were 45 percent more likely to go over budget if they chased sales
+
+* People who use coupons were 22 percent more likely to overspend
+
+* Couponers who didn't set a budget were 76 percent more likely to overspend than those who did budget
+
+* Using a credit or debt card made people 38 percent more likely to overspend than those who used cash
+
+* 58 percent of holiday spending goes towards gifts, while the rest accounts for travel, food, celebrations, etc.
+
+## What you can do to avoid overspending at the holidays
 
 **Create a budget**
 
