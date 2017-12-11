@@ -42,8 +42,16 @@ Almost 40 percent of American consumers reported overspending on the holidays in
 
 **Set spending limits**
 
+Once you've created your budget, set a cap on how much you can spend per person or per gift. 
+
 **Plan for unexpected costs**
+
+Things happen. If your car breaks down or something else goes wrong around the holidays, it only adds stress to you and your budget. 
 
 **Avoid savings traps**
 
+Have you ever gone to the store looking for one item, but then there's a sale if you buy two or more? So then you end up buying more (and therefore spending more) than you intended? Me too! That's called a "savings trap". It seems like you're saving money but you're actually spending more than you would have otherwise. Once you have your gift list and/or budget set, don't deviate, even if there is a sale. 
+
 **Use cash**
+
+If you tend to overspend even when you have a budget, consider using cash only. Once you set a spending limit for yourself, take that amount out of your bank account. Carry that with you when doing your holiday shopping, and once it's gone, you're done!  Consider leaving your credit cards at home so you aren't tempted to keep shopping.
