@@ -71,3 +71,5 @@ Have you ever gone to the store looking for one item, but then there's a sale if
 **Use cash**
 
 If you tend to overspend even when you have a budget, consider using cash only. Once you set a spending limit for yourself, take that amount out of your bank account. Carry that with you when doing your holiday shopping, and once it's gone, you're done!  Consider leaving your credit cards at home so you aren't tempted to keep shopping.
+
+*How do you typically plan (or not) around the holidays? How does it turn out for you? Share in the comments!*
