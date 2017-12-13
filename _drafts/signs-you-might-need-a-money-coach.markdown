@@ -8,7 +8,7 @@ date: 2017-12-11 11:42:00 -05:00
 
 ## You Feel Ashamed of Your Finances
 
-## You Spend Money to Deal with Emotions
+## You Spend Money to Deal with Your Emotions
 
 ## 
 
