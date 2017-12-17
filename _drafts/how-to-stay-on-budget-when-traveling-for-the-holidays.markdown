@@ -22,7 +22,7 @@ posts:
 - How to Celebrate Valentine's (or Galentine's) Day Without Breaking the Bank
 ---
 
-Most articles about holiday spending and budgeting focus on giving gifts. Of course, I've already written several of the same! This week, though, I want to talk about how to stay on budget if you're traveling for the holidays.
+Most articles about holiday spending and budgeting focus on giving gifts. Of course, I've already written [several](https://www.maggiegermano.com/blog/how-to-create-a-holiday-gift-budget/) of the [same](https://www.maggiegermano.com/blog/how-chasing-sales-can-actually-blow-your-budget/)! This week, though, I want to talk about how to stay on budget if you're traveling for the holidays.
 
 There are many costs associated with holiday travel. Whether you're traveling by plane, bus, train, or car, the costs can get out of hand if you're not careful. Here are some basic rules you can follow to keep your expenses low.
 
