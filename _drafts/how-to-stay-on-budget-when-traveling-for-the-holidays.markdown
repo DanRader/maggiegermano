@@ -28,7 +28,7 @@ There are many costs associated with holiday travel. Whether you're traveling by
 
 ## Plan Ahead
 
-I know you know that prices sky rocket as the holidays get closer.
+I know you know that prices sky rocket as the holidays get closer. Yes, flights and other modes of travel will always be somewhat more expensive around a holiday, but you can save some money if you time it right. Typically, you can get the best price if you buy a flight in [early October](https://www.cnbc.com/2017/10/06/now-is-the-best-time-to-book-holiday-travel.html). From there, prices slowly climb, and they are the highest in the two weeks leading up to Christmas.
 
 ## Pack Food
 
