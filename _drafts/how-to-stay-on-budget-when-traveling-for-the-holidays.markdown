@@ -41,3 +41,5 @@ One of the hardest things about money is [talking about it](https://www.maggiege
 ## Track Spending
 
 It's not always fun, but the number one way to stay on budget is to track your spending. Personally, my spending can get a little out of hand if I'm not in my normal routine. It can get even worse if I'm seeing friends and family that I don't get to see very often. However, if I'm paying attention to each purchase I make, I'm much more likely to spend less. 
+
+If you stay on budget around the holidays, you'll set yourself up for a healthy start in the new year. Though it's not very fun to watch your spending, you're doing yourself a favor. Happy holidays!
