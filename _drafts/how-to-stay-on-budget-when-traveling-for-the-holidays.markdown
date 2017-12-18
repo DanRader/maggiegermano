@@ -36,4 +36,4 @@ Like with everything, if you have few options to choose from, you'll be more inc
 
 ## Be Honest
 
-One of the hardest things about money is [talking about it](https://www.maggiegermano.com/blog/how-to-talk-to-your-friends-about-money/) with friends and family. 
+One of the hardest things about money is [talking about it](https://www.maggiegermano.com/blog/how-to-talk-to-your-friends-about-money/) with friends and family, I know. But it's also one of the most important things you can do. If you need to stay on a strict budget during the holidays, 
