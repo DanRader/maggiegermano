@@ -1,7 +1,6 @@
 ---
 title: How to Stay on Budget When Traveling for the Holidays
 date: 2017-12-18 11:00:00 -05:00
-published: false
 categories:
 - Budget
 - lifestyle
