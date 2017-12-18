@@ -28,7 +28,7 @@ There are many costs associated with holiday travel. Whether you're traveling by
 
 ## Plan Ahead
 
-I know you know that prices sky rocket as the holidays get closer. Yes, flights and other modes of travel will always be somewhat more expensive around a holiday, but you can save some money if you time it right. Typically, you can get the best price if you buy a flight in [early October](https://www.cnbc.com/2017/10/06/now-is-the-best-time-to-book-holiday-travel.html). From there, prices slowly climb, and they are the highest in the two weeks leading up to Christmas. 
+I know you know that prices sky rocket as the holidays get closer. Yes, flights and other modes of travel will always be somewhat more expensive around a holiday, but you can save some money if you time it right. Typically, you can get the best price if you buy a flight in [early October](https://www.cnbc.com/2017/10/06/now-is-the-best-time-to-book-holiday-travel.html). From there, prices slowly climb, and they are the highest in the two weeks leading up to Christmas.
 
 ## Pack Food
 
@@ -36,8 +36,8 @@ Like with everything, if you have few options to choose from, you'll be more inc
 
 ## Be Honest
 
-One of the hardest things about money is [talking about it](https://www.maggiegermano.com/blog/how-to-talk-to-your-friends-about-money/) with friends and family, I know. But it's also one of the most important things you can do. If you need to stay on a strict budget during the holidays, 
+One of the hardest things about money is [talking about it](https://www.maggiegermano.com/blog/how-to-talk-to-your-friends-about-money/) with friends and family, I know. But it's also one of the most important things you can do. If you need to stay on a strict budget during the holidays,
 
 ## Track Your Spending
 
-It's not always fun, but the number one way to stay on budget is to track your spending. 
+It's not always fun, but the number one way to stay on budget is to track your spending. Personally, my spending can get a little out of hand if I'm not in my normal routine. It can get even worse if I'm seeing friends and family that I don't get to see very often. However, if I'm paying attention to each purchase I make, I'm much more likely to spend less. 
