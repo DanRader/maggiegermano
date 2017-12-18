@@ -38,6 +38,6 @@ Like with everything, if you have few options to choose from, you'll be more inc
 
 One of the hardest things about money is [talking about it](https://www.maggiegermano.com/blog/how-to-talk-to-your-friends-about-money/) with friends and family, I know. But it's also one of the most important things you can do. If you need to stay on a strict budget during the holidays, don't hide that fact. Let your loved ones know that you want to stick to more affordable activities while you're in town. That way, you won't have to flake on plans or feel stressed when you overspend. 
 
-## Track Your Spending
+## Track Spending
 
 It's not always fun, but the number one way to stay on budget is to track your spending. Personally, my spending can get a little out of hand if I'm not in my normal routine. It can get even worse if I'm seeing friends and family that I don't get to see very often. However, if I'm paying attention to each purchase I make, I'm much more likely to spend less. 
