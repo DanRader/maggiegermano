@@ -17,6 +17,8 @@ tags:
 - merry christmas
 - money
 image: "/uploads/fly.jpg"
+tweet: 'Just because you''re traveling for the #holidays doesn''t mean you have to
+  blow your budget. '
 posts:
 - How to Create a Holiday Gift Budget
 - How to Ensure the Holidays Are (Financially) Stress-Free
