@@ -33,3 +33,7 @@ I know you know that prices sky rocket as the holidays get closer.
 ## Pack Food
 
 Like with everything, if you have few options to choose from, you'll be more inclined to spend extra. The same goes for food at places like the airport or train station. Meals and snacks are marked up to a lot more than you would pay normally. Plus, most airport food is very unhealthy. So kill two birds with one stone and pack your meals and snacks.
+
+## Be Honest
+
+One of the hardest things about money is [talking about it](https://www.maggiegermano.com/blog/how-to-talk-to-your-friends-about-money/) with friends and family. 
