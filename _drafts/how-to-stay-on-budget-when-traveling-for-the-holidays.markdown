@@ -32,11 +32,11 @@ I know you know that prices sky rocket as the holidays get closer. Yes, flights 
 
 ## Pack Food
 
-Like with everything, if you have few options to choose from, you'll be more inclined to spend extra. The same goes for food at places like the airport or train station. Meals and snacks are marked up to a lot more than you would pay normally. Plus, most airport food is very unhealthy. So kill two birds with one stone and pack your meals and snacks.
+Like with everything, if you have few options to choose from, you'll be more inclined to spend extra money. The same goes for food at places like the airport or train station. Meals and snacks are marked up to a lot more than you would pay normally. It will save you quite a bit of money if you don't buy airport food. Plus, most airport food is very unhealthy. So kill two birds with one stone and pack your meals and snacks. This will also prevent you from getting hangry and splurging on food you wouldn't otherwise want to eat.
 
 ## Be Honest
 
-One of the hardest things about money is [talking about it](https://www.maggiegermano.com/blog/how-to-talk-to-your-friends-about-money/) with friends and family, I know. But it's also one of the most important things you can do. If you need to stay on a strict budget during the holidays, don't hide that fact. Let your loved ones know that you want to stick to more affordable activities while you're in town. That way, you won't have to flake on plans or feel stressed when you overspend. 
+One of the hardest things about money is [talking about it](https://www.maggiegermano.com/blog/how-to-talk-to-your-friends-about-money/) with friends and family, I know. But it's also one of the most important things you can do. If you need to stay on a strict budget during the holidays, don't hide that fact. Let your loved ones know that you want to stick to more affordable activities while you're in town. That way, you won't have to flake on plans or feel stressed when you overspend. Together, you can come up with ways to spend time together that don't cost a lot of money for either of you. You can have just as much quality time even if you aren't spending money. This way, you'll get to spend time with your loved ones *and* save some money. And since the holidays can be very expensive, your loved ones will probably thank you for saving them money too!
 
 ## Track Spending
 
