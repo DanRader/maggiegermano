@@ -19,7 +19,7 @@ posts:
 - Do This Instead of Setting New Year’s Resolutions
 ---
 
-Merry Christmas, if you're celebrating today! I hope you're spending the day with people you love, or indulging in some much-needed alone time. 
+Merry Christmas, if you're celebrating today! I hope you're spending the day with people you love, or indulging in some much-needed alone time. Next weekend, once you've wound down from the holidays, it'll be time to ring in the new year. 
 
 ## Use Cash Only
 
@@ -27,7 +27,7 @@ The best way to limit your spending is to make it impossible to spend more than 
 
 ## Eat Before You Go
 
-If you're going out to a bar or party for New Year's Eve, a great way to save money is to eat before you get there. Make yourself dinner at home Plus, you won't get as drunk as you would otherwise.
+If you're going out to a bar or party for New Year's Eve, a great way to save money is to eat before you get there. Make yourself dinner at home so you're not tempted to order food once you're out. Plus, you won't get as drunk as you would if you don't eat. 
 
 ## Host a Party (or Brunch)
 
