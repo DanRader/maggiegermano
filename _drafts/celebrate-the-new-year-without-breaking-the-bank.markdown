@@ -21,6 +21,8 @@ posts:
 
 Merry Christmas, if you're celebrating today! I hope you're spending the day with people you love, or indulging in some much-needed alone time. 
 
+This coming weekend, it's time to ring in the new year! 
+
 ## Use Cash Only
 
 The best way to limit your spending is to make it impossible to spend more than you've budgeted for. The easiest way to do this is to leave your credit and debit cards home. Set a budget for your evening celebration. What's a number that will allow you to have fun without going over budget? Take that amount out of the bank in cash and only bring that with you on New Year's Eve. 
