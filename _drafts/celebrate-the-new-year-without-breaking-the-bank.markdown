@@ -19,7 +19,7 @@ posts:
 - Do This Instead of Setting New Year’s Resolutions
 ---
 
-Merry Christmas, if you're celebrating today! I hope you're spending the day with people you love, or indulging in some much-needed alone time.
+Merry Christmas, if you're celebrating today! I hope you're spending the day with people you love, or indulging in some much-needed alone time. 
 
 ## Use Cash Only
 
