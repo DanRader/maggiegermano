@@ -27,4 +27,8 @@ Merry Christmas, if you're celebrating today! I hope you're spending the day wit
 
 Plus, you won't get as drunk as you would otherwise. 
 
-## 
+## Host a Party (or Brunch)
+
+My fiance and I are hosting a New Year's Day brunch this year. We're not as interested in going out on New Year's Eve anymore, but we still want to celebrate. So we're having friends over to our new house and hosting a potluck brunch. There will be plenty of champagne flowing, but we'll likely be spending less than we would out at a bar. 
+
+So if you want to be with the people you love, but don't necessarily want to go out or spend a bunch of money at a restaurant or bar, throw your own party! Have your guests bring a drink or dish to pass and everyone will have plenty to imbibe without spending very much.
