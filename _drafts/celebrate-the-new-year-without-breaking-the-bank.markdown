@@ -12,5 +12,6 @@ tags:
 - fun
 - friends
 - friendship
+image: "/uploads/new%20year.jpg"
 ---
 
