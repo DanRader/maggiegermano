@@ -19,9 +19,7 @@ posts:
 - Do This Instead of Setting New Year’s Resolutions
 ---
 
-Merry Christmas, if you're celebrating today! I hope you're spending the day with people you love, or indulging in some much-needed alone time. 
-
-This coming weekend, it's time to ring in the new year! 
+Merry Christmas, if you're celebrating today! I hope you're spending the day with people you love, or indulging in some much-needed alone time. Next weekend, once you've wound down from the holidays, it'll be time to ring in the new year. 
 
 ## Use Cash Only
 
