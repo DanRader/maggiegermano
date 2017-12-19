@@ -15,3 +15,5 @@ tags:
 image: "/uploads/new%20year.jpg"
 ---
 
+
+Use Cash Only
