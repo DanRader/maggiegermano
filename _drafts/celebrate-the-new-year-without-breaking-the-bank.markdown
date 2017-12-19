@@ -13,6 +13,10 @@ tags:
 - friends
 - friendship
 image: "/uploads/new%20year.jpg"
+posts:
+- How to Stay on Budget When Traveling for the Holidays
+- How to Financially Prepare for Family Occasions
+- Do This Instead of Setting New Year’s Resolutions
 ---
 
 
