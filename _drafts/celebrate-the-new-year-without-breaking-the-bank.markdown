@@ -21,4 +21,10 @@ posts:
 
 Merry Christmas, if you're celebrating today! I hope you're spending the day with people you love, or indulging in some much-needed alone time. 
 
-Use Cash Only
+## Use Cash Only
+
+## Eat Before You Go
+
+Plus, you won't get as drunk as you would otherwise. 
+
+## 
