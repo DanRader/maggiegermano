@@ -27,7 +27,7 @@ The best way to limit your spending is to make it impossible to spend more than 
 
 ## Eat Before You Go
 
-Plus, you won't get as drunk as you would otherwise.
+If you're going out to a bar or party for New Year's Eve, a great way to save money is to eat before you get there. Make yourself dinner at home Plus, you won't get as drunk as you would otherwise.
 
 ## Host a Party (or Brunch)
 
