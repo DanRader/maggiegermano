@@ -31,6 +31,10 @@ The best way to limit your spending is to make it impossible to spend more than 
 
 If you're going out to a bar or party for New Year's Eve, a great way to save money is to eat before you get there. Make yourself dinner at home so you're not tempted to order food once you're out. Plus, you won't get as drunk as you would if you don't eat.
 
+## Stay Home
+
+For the first 22 years of my life, I never went out to celebrate New Year's. In my family, we all traveled to my grandma's or aunt's house to spend the evening together. Most of us didn't leave near each other, so this was our chance to celebrate a late Christmas, open gifts, eat fondue, and enjoy each other's company. 
+
 ## Host a Party (or Brunch)
 
 My fiance and I are hosting a New Year's Day brunch this year. We're not as interested in going out on New Year's Eve anymore, but we still want to celebrate. So we're having friends over to our new house and hosting a potluck brunch. There will be plenty of champagne flowing, but we'll likely be spending less than we would out at a bar.
