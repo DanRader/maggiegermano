@@ -59,7 +59,7 @@ This was not something I was initially aware of, and it kind of knocked me on my
 
 ## Looking for a house can be very emotional
 
-For me, once I decided I wanted to buy a house, it felt urgent that we find one. But the housing market in the DC area is really tough! Houses are metaphorically flying off the shelves. There were several homes that we weren't even able to tour because they sold within hours or days of going on the market. The first house we loved had been on the market for 45 days with no offers. But somehow the moment we saw it and decided to make an offer, someone else bought it! I didn't think I would find another house that I loved like that one. (It's still the one that got away...) When my friends told me that they made offers on 9 or 10 houses before they got one, I couldn't believe it! How could you love that many houses?? There were a lot of emotional ups and downs, with Dan and I switching back and forth between despair and cautious optimism. 
+For me, once I decided I wanted to buy a house, it felt urgent that we find one. But the housing market in the DC area is really tough! Houses are metaphorically flying off the shelves. There were several homes that we weren't even able to tour because they sold within hours or days of going on the market. The first house we loved had been on the market for 45 days with no offers. But somehow the moment we saw it and decided to make an offer, someone else bought it! I didn't think I would find another house that I loved like that one. (It's still the one that got away...) When my friends told me that they made offers on 9 or 10 houses before they got one, I couldn't believe it! How could you love that many houses?? There were a lot of emotional ups and downs, with Dan and I switching back and forth between despair and cautious optimism.
 
 ## The home inspection is not necessarily fun
 
@@ -76,3 +76,5 @@ Our real estate agent didn't really prepare us for this type of situation. It fe
 Writing this article felt pretty cathartic, and I hope it didn't scare you off from buying property! I just think it's important to know all the good and bad things that can happen. That way, you'll be more emotionally prepared when the bad things come around.
 
 *Have you been through the homebuying process? Share your experience in the comments!*
+
+<script src="https://embeds.nerdwallet.com/embed.js" data-id="457598" data-utm_campaign="mr_prod_457598"></script>
