@@ -75,6 +75,6 @@ Our real estate agent didn't really prepare us for this type of situation. It fe
 
 Writing this article felt pretty cathartic, and I hope it didn't scare you off from buying property! I just think it's important to know all the good and bad things that can happen. That way, you'll be more emotionally prepared when the bad things come around.
 
-*Have you been through the homebuying process? Share your experience in the comments!*
+*Have you been through the homebuying process? Share your experience in the comments! Wondering how much your closing costs might be? Check out the great [NerdWallet](https://www.nerdwallet.com/) calculator below!*
 
 <script src="https://embeds.nerdwallet.com/embed.js" data-id="457587" data-utm_campaign="mr_prod_457587"></script>
