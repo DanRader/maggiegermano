@@ -25,7 +25,7 @@ This weekend, once you've wound down from the holidays, it'll be time to ring in
 
 ## Set a Budget
 
-You're probably in a little pain after spending money on holiday gifts and/or travel. Keep that in mind when you think about how much you want to spend on New Year's Eve. 
+You're probably in a little pain after spending money on holiday gifts and/or travel. Keep that in mind when you think about how much you want to spend on New Year's Eve. You can pick a specific spending number, or maybe choose an amount of drinks. I sometimes like to limit myself to only 2-3 drinks so that I don't spend too much or feel terrible the next day. 
 
 ## Use Cash Only
 
