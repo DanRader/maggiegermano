@@ -64,6 +64,6 @@ This content was originally featured on:
 
 ![The-Financial-Diet-Logo-94x94.jpg](/uploads/The-Financial-Diet-Logo-94x94.jpg)
 
-Interested in income-based repayment? Learn more from the [NerdWallet](http://www.nerdwallet.com) widget below:
+*Interested in income-based repayment? Learn more from the [NerdWallet](http://www.nerdwallet.com) widget below:*
 
 <script src="https://embeds.nerdwallet.com/embed.js" data-id="457639" data-utm_campaign="sl_prod_457639"></script>
