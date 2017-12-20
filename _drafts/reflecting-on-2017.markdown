@@ -21,8 +21,10 @@ A couple years go, I came across the idea of celebrating your wins of the previo
 
 2017 was a very interesting and intense year for me. It's funny, because a lot of it seems like it was either very stressful or just boring, but that's because I haven't taken the time to pause and reflect.
 
-Personal Wins
+## Personal Wins
 
 * 
+
+## Career Wins
 
 *What did you achieve in 2017? Share in the comments!*
