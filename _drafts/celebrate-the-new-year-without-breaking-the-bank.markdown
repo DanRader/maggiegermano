@@ -23,6 +23,10 @@ Merry Christmas, if you're celebrating today! I hope you're spending the day wit
 
 This weekend, once you've wound down from the holidays, it'll be time to ring in the new year. If you plan on celebrating, there are ways you can do so without breaking the bank. 
 
+## Set a Budget
+
+You're probably in a little pain after spending money on holiday gifts and/or travel. 
+
 ## Use Cash Only
 
 The best way to limit your spending is to make it impossible to spend more than you've budgeted for. The easiest way to do this is to leave your credit and debit cards home. Set a budget for your evening celebration. What's a number that will allow you to have fun without going over budget? Take that amount out of the bank in cash and only bring that with you on New Year's Eve.
