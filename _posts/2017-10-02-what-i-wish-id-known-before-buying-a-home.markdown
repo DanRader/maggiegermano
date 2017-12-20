@@ -77,4 +77,4 @@ Writing this article felt pretty cathartic, and I hope it didn't scare you off f
 
 *Have you been through the homebuying process? Share your experience in the comments!*
 
-<script src="https://embeds.nerdwallet.com/embed.js" data-id="457598" data-utm_campaign="mr_prod_457598"></script>
+<script src="https://embeds.nerdwallet.com/embed.js" data-id="457587" data-utm_campaign="mr_prod_457587"></script>
