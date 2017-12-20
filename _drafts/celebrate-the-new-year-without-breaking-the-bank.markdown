@@ -25,11 +25,13 @@ This weekend, once you've wound down from the holidays, it'll be time to ring in
 
 ## Set a Budget
 
-You're probably in a little pain after spending money on holiday gifts and/or travel. Keep that in mind when you think about how much you want to spend on New Year's Eve. How much money can you spend without feeling guilty or regretful the next day? You can pick a specific spending number, or maybe choose an amount of drinks or food. I sometimes like to limit myself to only 2-3 drinks so that I don't spend too much or feel terrible the next day. It really depends on you and how you can typically keep yourself on track. 
+You're probably in a little pain after spending money on holiday gifts and/or travel. Keep that in mind when you think about how much you want to spend on New Year's Eve. What's a number that will allow you to have fun without going over budget? How much money can you spend without feeling guilty or regretful the next day? 
+
+You can pick a specific spending number, or maybe choose an amount of drinks or food. I sometimes like to limit myself to only 2-3 drinks so that I don't spend too much or feel terrible the next day. It really depends on you and how you can typically keep yourself on track. 
 
 ## Use Cash Only
 
-The best way to limit your spending is to make it impossible to spend more than you've budgeted for. The easiest way to do this is to leave your credit and debit cards home. Set a budget for your evening celebration. What's a number that will allow you to have fun without going over budget? Take that amount out of the bank in cash and only bring that with you on New Year's Eve.
+The best way to limit your spending is to make it impossible to spend more than you've budgeted for. The easiest way to do this is to leave your credit and debit cards home. Set a budget for your evening celebration. Take that amount out of the bank in cash and only bring that with you on New Year's Eve. Once you spend all the cash on hand, you will literally be unable to buy anything else. (And don't cheat by using things like Apple Pay!) 
 
 ## Eat Before You Go
 
