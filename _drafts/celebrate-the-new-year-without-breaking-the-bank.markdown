@@ -19,7 +19,9 @@ posts:
 - Do This Instead of Setting New Year’s Resolutions
 ---
 
-Merry Christmas, if you're celebrating today! I hope you're spending the day with people you love, or indulging in some much-needed alone time. I love taking advantage of the holiday season to eat lots of cookies and sit under lots of blankets. Next weekend, once you've wound down from the holidays, it'll be time to ring in the new year. If you plan on celebrating, there are ways you can do so without breaking the bank.
+Merry Christmas, if you're celebrating today! I hope you're spending the day with people you love, or indulging in some much-needed alone time. I love taking advantage of the holiday season to eat lots of cookies and sit under lots of blankets. 
+
+This weekend, once you've wound down from the holidays, it'll be time to ring in the new year. If you plan on celebrating, there are ways you can do so without breaking the bank. 
 
 ## Use Cash Only
 
