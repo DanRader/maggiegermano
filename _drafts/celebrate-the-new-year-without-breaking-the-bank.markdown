@@ -33,7 +33,9 @@ If you're going out to a bar or party for New Year's Eve, a great way to save mo
 
 ## Stay Home
 
-For the first 22 years of my life, I never went out to celebrate New Year's. In my family, we all traveled to my grandma's or aunt's house to spend the evening together. Most of us didn't leave near each other, so this was our chance to celebrate a late Christmas, open gifts, eat fondue, and enjoy each other's company. 
+For the first 22 years of my life, I never went out to celebrate New Year's. In my family, we all traveled to my grandma's or aunt's house to spend the evening together. Most of us didn't live near each other, so this was our chance to celebrate a late Christmas, open gifts, eat fondue, and enjoy each other's company. I really miss those times now that I'm an adult! 
+
+So if you're not a party person, and you love staying cozy at home, just do that! I know that we feel the pressure to be social and post our pictures online, but we also have the freedom to stay in. In fact, this year, I'll be ringing in the new year from my couch, and I can't wait.
 
 ## Host a Party (or Brunch)
 
