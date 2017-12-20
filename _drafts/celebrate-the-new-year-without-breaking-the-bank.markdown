@@ -41,10 +41,10 @@ If you're going out to a bar or party for New Year's Eve, a great way to save mo
 
 For the first 22 years of my life, I never went out to celebrate New Year's. In my family, we all traveled to my grandma's or aunt's house to spend the evening together. Most of us didn't live near one another, so this was our chance to celebrate a late Christmas, open gifts, eat fondue, and enjoy each other's company. I really miss those times now that I'm an adult! 
 
-So if you're not a party person, and you love staying cozy at home, just do that! I know that we all feel the pressure to be social and post our beautiful pictures online, but we also have the freedom to stay in if we want to. In fact, this year, I'll be ringing in the new year from my couch, and I can't wait.
+So if you're not a party person, and you love staying cozy at home, just do that! I know that we all feel the pressure to be social and post our beautiful pictures online, but we also have the freedom to stay in if we want to. In fact, this year, I'll be ringing in the new year from my couch (with a glass of champagne), and I can't wait.
 
 ## Host a Party (or Brunch)
 
-My fiance and I are hosting a New Year's Day brunch this year. We're not as interested in going out on New Year's Eve anymore, but we still want to celebrate. So we're having friends over to our new house and hosting a potluck brunch. There will be plenty of champagne flowing, but we'll likely be spending less than we would out at a bar.
+My fiancé and I are hosting a New Year's Day brunch this year. We're not as interested in going out on New Year's Eve anymore, but we still want to celebrate. So we're having friends over to our new house and hosting a potluck brunch. There will be plenty of champagne flowing, but we'll likely be spending less than we would out at a bar.
 
 So if you want to be with the people you love, but don't necessarily want to go out or spend a bunch of money at a restaurant or bar, throw your own party! Have your guests bring a drink or dish to pass and everyone will have plenty to imbibe without spending very much.
