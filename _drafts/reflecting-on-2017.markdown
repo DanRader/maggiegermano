@@ -17,4 +17,6 @@ tags:
 - wins
 ---
 
-A couple years go, I came across the idea of celebrating your wins of the previous year, rather than solely focusing on making resolutions for the new year. This was really appealing to me because I've never felt very successful at sticking to my new year's resolutions. Can you relate to that? I know it's very common to abandon new resolutions after just a few weeks or months. 
+A couple years go, I came across the idea of celebrating your wins of the previous year, rather than solely focusing on making resolutions for the new year. This was really appealing to me because I've never felt very successful at sticking to my new year's resolutions. Can you relate to that? I know it's very common to abandon new resolutions after just a few weeks or months. So instead of only swearing we'll be better or different people in the new year, let's praise who we already are. 
+
+*What did you achieve in 2017? Share in the comments!*
