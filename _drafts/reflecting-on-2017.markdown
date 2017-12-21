@@ -70,6 +70,8 @@ Below, I share a bunch of my personal and professional wins from 2017. Next week
 
 * I had 3 paid speaking gigs (and a few unpaid gigs too)
 
+* I was quoted as a financial expert in outlets such as [Forbes](https://www.forbes.com/sites/emiliearies/2017/03/14/5-money-experts-on-how-to-financially-prepare-for-a-career-change/#477b4acb680c), [Bustle](https://www.bustle.com/p/how-to-split-the-check-in-a-relationship-without-it-being-awkward-according-to-experts-2334744), and [Credit Karma](https://www.creditkarma.com/advice/i/ways-to-consolidate-credit-card-debt/)
+
 * I was quoted in a print magazine (Woman's Day) for the first time
 
 * I was interviewed on 5 podcasts, 2 of which are now live: [Clever Girl Finance](https://www.clevergirlfinance.com/podcast-episodes/podcast-episode-52-lets-talk-about-financially-sound-wedding-planning-with-guest-maggie-germano), [The Daily Cup](http://www.simplifyyourpractice.com/episode34/)
