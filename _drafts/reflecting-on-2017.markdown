@@ -31,7 +31,9 @@ Below, I share a bunch of my personal and professional wins. Next week, I'll get
 
 ## Personal Wins
 
-* I traveled to Tulum, Mexico, Colorado, and Oregon
+* In January, Dan and I traveled to Tulum, Mexico, where we climbed an ancient pyramid, swam in a cenote, and drank lots of margaritas with friends
+
+* We also went to Colorado, where I finally got to see the Rocky Mountains in person (and drank so many delicious IPAs!)
 
 * I finally settled an 18-month injury claim with the government
 
