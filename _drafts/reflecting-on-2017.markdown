@@ -17,9 +17,9 @@ tags:
 - wins
 ---
 
-A couple years go, I came across the idea of celebrating your wins of the previous year, rather than solely focusing on making resolutions for the new year. This was really appealing to me because I've never felt very successful at sticking to my new year's resolutions. Can you relate to that? I know it's very common to abandon new resolutions after just a few weeks or months. So instead of only swearing we'll be better or different people in the new year, let's praise who we already are.
+A couple years go, I came across the idea of celebrating your wins of the previous year, rather than solely focusing on making resolutions for the new year. I think it was Danielle LaPorte who wrote about it. This was really appealing to me because I've never felt very successful at sticking to my new year's resolutions. Can you relate to that too? I know it's very common to abandon new resolutions after just a few weeks or months. So instead of only swearing we'll be better or different people in the new year, let's take some time to praise who we already are. Seeing on paper how many things (big and small) you actually did achieve will uplift you and motivate you for 2018.
 
-2017 was a very interesting and intense year for me. It's funny, because a lot of it seems like it was either very stressful or just boring, but that's because I haven't taken the time to pause and reflect.
+2017 was a very interesting and intense year for me, and for many of us. If you only look at what's going on around the world and in our government, 2017 was pretty damn bleak. But I think it's important to take some time to reflect on our own accomplishments. I look at this exercise as a combination of gratitude and self-praise. We all need a little more of both of those things!
 
 ## Personal Wins
 
