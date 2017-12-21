@@ -15,6 +15,7 @@ tags:
 - achievements
 - reflection
 - wins
+image: "/uploads/journal.jpg"
 tweet: 'Sometimes you need to reflect on and appreciate the previous year before setting
   goals for the new one. '
 posts:
@@ -67,4 +68,4 @@ Below, I share a bunch of my personal and professional wins. Next week, I'll get
 
 * I quit my day job and will be a full-time entrepreneur in 2018!
 
-*What did you achieve in 2017? Share in the comments!*
+*What did you achieve in 2017? I really want to know. Share in the comments!*
