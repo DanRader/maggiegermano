@@ -66,7 +66,7 @@ Below, I share a bunch of my personal and professional wins from 2017. Next week
 
 * I was quoted in a print magazine (Woman's Day) for the first time
 
-* I was interviewed on 5 podcasts, 2 of which are live: [Clever Girl Finance](https://www.clevergirlfinance.com/podcast-episodes/podcast-episode-52-lets-talk-about-financially-sound-wedding-planning-with-guest-maggie-germano), [The Daily Cup](http://www.simplifyyourpractice.com/episode34/)
+* I was interviewed on 5 podcasts, 2 of which are now live: [Clever Girl Finance](https://www.clevergirlfinance.com/podcast-episodes/podcast-episode-52-lets-talk-about-financially-sound-wedding-planning-with-guest-maggie-germano), [The Daily Cup](http://www.simplifyyourpractice.com/episode34/)
 
 * I became a certified coach through [CoachDiversity Institute](http://coachdiversity.com/)
 
