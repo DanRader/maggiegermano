@@ -28,7 +28,7 @@ A couple years go, I came across the idea of celebrating your wins of the past y
 
 2017 was a very interesting and intense year for me, and for many of us. If you only look at what's going on around the world and in our government, 2017 was pretty damn bleak. But I think it's important to take some time to reflect on our own personal joys and accomplishments. I look at this exercise as a combination of gratitude and self-praise. We all probably need a little more of both in our lives!
 
-Below, I share a bunch of my personal and professional wins. Next week, I'll get into how to use these reflections to make goals for 2018. Please share your wins in the comments below! I'd love to hear from you and cheer you on.
+Below, I share a bunch of my personal and professional wins from 2017. Next week, I'll get into how to use these reflections to make exciting goals for 2018. Please share your wins in the comments below! I'd love to hear from you and cheer you on.
 
 ## Personal Wins
 
