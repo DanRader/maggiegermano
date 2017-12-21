@@ -15,6 +15,7 @@ tags:
 - achievements
 - reflection
 - wins
+image: "/uploads/journal.jpg"
 tweet: 'Sometimes you need to reflect on and appreciate the previous year before setting
   goals for the new one. '
 posts:
