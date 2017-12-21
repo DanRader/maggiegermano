@@ -54,13 +54,13 @@ Below, I share a bunch of my personal and professional wins. Next week, I'll get
 
 * I raised my coaching rates and got several new clients at those rates
 
-* I planned and executed a screening of the documentary Dream, Girl with several other fantastic women's organizations
+* I planned and executed a screening of the documentary [Dream, Girl](http://dreamgirlfilm.com/) with several other fantastic women's organizations
 
 * I was hired and paid as a freelance writer for a new financial blog
 
-* Several of my blog posts were published on the Huffington Post
+* Several of my blog posts were published on the [Huffington Post](https://www.huffingtonpost.com/entry/non-salary-perks-you-should-ask-for_us_59b6a316e4b0e4419674c351)
 
-* I led my first workshop in collaboration with Ladies Get Paid DC
+* I led my first workshop in collaboration with [Ladies Get Paid](http://www.ladiesgetpaid.com/) DC
 
 * I had 3 paid speaking gigs (and a few unpaid gigs too)
 
@@ -68,7 +68,7 @@ Below, I share a bunch of my personal and professional wins. Next week, I'll get
 
 * I was interviewed on 5 podcasts, 2 of which are live: [Clever Girl Finance](https://www.clevergirlfinance.com/podcast-episodes/podcast-episode-52-lets-talk-about-financially-sound-wedding-planning-with-guest-maggie-germano), [The Daily Cup](http://www.simplifyyourpractice.com/episode34/)
 
-* I became a certified coach through CoachDiversity Institute
+* I became a certified coach through [CoachDiversity Institute](http://coachdiversity.com/)
 
 * I quit my day job and will be a full-time entrepreneur in 2018!
 
