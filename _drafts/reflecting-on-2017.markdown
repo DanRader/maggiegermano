@@ -40,9 +40,13 @@ Below, I share a bunch of my personal and professional wins. Next week, I'll get
 
 * I bought a house with that settlement money!
 
+* I became a Maryland resident, which means I also have [Congressional representation](https://statehood.dc.gov/) for the first time in over 8 years (this is a big deal!)
+
 * I got lasik eye surgery and now I have 20/20 vision!
 
-* Dan and I got engaged at Multnomah Falls in Portland, Oregon 
+* Dan and I traveled to Portland, Oregon, and got engaged at Multnomah Falls (!)
+
+* I endeavored to prioritize friendship, and made lots of one-on-one dates with close friends
 
 ## Professional Wins
 
@@ -62,7 +66,7 @@ Below, I share a bunch of my personal and professional wins. Next week, I'll get
 
 * I was quoted in a print magazine (Woman's Day) for the first time
 
-* I was interviewed on 5 podcasts, 2 of which are live: Clever Girl Finance, Daily Cup
+* I was interviewed on 5 podcasts, 2 of which are live: [Clever Girl Finance](https://www.clevergirlfinance.com/podcast-episodes/podcast-episode-52-lets-talk-about-financially-sound-wedding-planning-with-guest-maggie-germano), [The Daily Cup](http://www.simplifyyourpractice.com/episode34/)
 
 * I became a certified coach through CoachDiversity Institute
 
