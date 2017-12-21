@@ -38,6 +38,8 @@ Below, I share a bunch of my personal and professional wins from 2017. Next week
 
 * I met [Roxane Gay](http://www.roxanegay.com/) TWICE
 
+* I met Sherri Dupree-Bemis from [Eisley](https://www.eisley.com/) 
+
 * I finally settled an 18-month injury claim with the government
 
 * I bought a house with that settlement money!
