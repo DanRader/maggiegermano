@@ -40,6 +40,8 @@ Below, I share a bunch of my personal and professional wins from 2017. Next week
 
 * I bought a house with that settlement money!
 
+* I somehow survived hiring home improvement contractors
+
 * I became a Maryland resident, which means I also have [Congressional representation](https://statehood.dc.gov/) for the first time in over 8 years (this is a big deal!)
 
 * I got lasik eye surgery and now I have 20/20 vision!
