@@ -15,6 +15,12 @@ tags:
 - achievements
 - reflection
 - wins
+tweet: 'Sometimes you need to reflect on and appreciate the previous year before setting
+  goals for the new one. '
+posts:
+- Celebrate the New Year Without Breaking the Bank
+- Do This Instead of Setting New Year’s Resolutions
+- 3 Easy Financial Goals for 2017
 ---
 
 A couple years go, I came across the idea of celebrating your wins of the previous year, rather than solely focusing on making resolutions for the new year. I think it was Danielle LaPorte who wrote about it. This was really appealing to me because I've never felt very successful at sticking to my new year's resolutions. Can you relate to that too? I know it's very common to abandon new resolutions after just a few weeks or months. So instead of only swearing we'll be better or different people in the new year, let's take some time to praise who we already are. Seeing on paper how many things (big and small) you actually did achieve will uplift you and motivate you for 2018.
