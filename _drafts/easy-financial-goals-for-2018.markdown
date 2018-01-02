@@ -31,4 +31,6 @@ Like I said last week, it's important to acknowledge your wins from 2017 before 
 
 ## Be Honest With Yourself
 
-## 
+## Look at Your Accounts
+
+## Review Your Spending Regularly
