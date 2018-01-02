@@ -23,4 +23,12 @@ posts:
 - Budgeting 101
 ---
 
-Talk About Money
+Ah, a brand new year. It's that time when we all set New Year's resolutions and vow to be a new, better person. These goals are often lofty and not always realistic. More often than not, we find ourselves abandoning our goals a few weeks or months down the road. It's totally human, but it doesn't have to be that way! You can't change who you are overnight.
+
+Like I said last week, it's important to acknowledge your wins from 2017 before you set new goals for 2018. This exercise will show you just how successful you were, even if you didn't realize it. You'll feel better about yourself and more confident about what you can achieve in 2018. 
+
+## Talk About Money
+
+## Be Honest With Yourself
+
+## 
