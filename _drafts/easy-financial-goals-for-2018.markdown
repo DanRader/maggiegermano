@@ -14,6 +14,7 @@ tags:
 - financial freedom
 - financial coach
 - financial health
+image: "/uploads/soft.jpg"
 tweet: Not all financial goals need to be lofty. Sometimes small goals make the biggest
   difference.
 posts:
