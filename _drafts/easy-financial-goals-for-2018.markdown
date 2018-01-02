@@ -14,6 +14,12 @@ tags:
 - financial freedom
 - financial coach
 - financial health
+tweet: Not all financial goals need to be lofty. Sometimes small goals make the biggest
+  difference.
+posts:
+- 3 Easy Financial Goals for 2017
+- Reflecting on 2017
+- Budgeting 101
 ---
 
 Talk About Money
