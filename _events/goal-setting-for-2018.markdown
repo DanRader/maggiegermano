@@ -2,7 +2,7 @@
 title: Setting Motivating Goals for 2018
 date: 2017-12-04 12:12:00 -05:00
 image: "/uploads/goals-c84ae4.jpg"
-og-image: "/uploads/_Ask%20for%20what%20you%20want%20and%20be%20prepared%20to%20get%20it._.png"
+og-image: "/uploads/jan%202018%20money%20circle.png"
 event-date: 2018-01-23 18:30:00 -05:00
 start-time: 6:30pm
 end-time: 8:30pm
