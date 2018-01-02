@@ -23,12 +23,10 @@ posts:
 - Budgeting 101
 ---
 
-Ah, a brand new year. That's that time where we all set New Year's resolutions and vow to be a new, better person. These goals are often lofty and not always realistic. More often than not, we find ourselves abandoning our goals a few weeks or months down the road. It's totally human, but it doesn't have to be that way! You can't change who you are overnight. 
+Ah, a brand new year. It's that time where we all set New Year's resolutions and vow to be a new, better person. These goals are often lofty and not always realistic. More often than not, we find ourselves abandoning our goals a few weeks or months down the road. It's totally human, but it doesn't have to be that way! You can't change who you are overnight.
 
 ## Talk About Money
 
-
 ## Be Honest With Yourself
-
 
 ## 
