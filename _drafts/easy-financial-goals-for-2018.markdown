@@ -31,9 +31,9 @@ Are you not sure where to start when it comes to financial goals for 2018? Here 
 
 ## Talk About Money
 
-Okay. This isn't *easy*, per se. But it is so, so important. Money talk has been considered taboo for so long, that most of us live in shame when it comes to money. We feel isolated and alone in our financial struggles, because we don't know that our friends are having the same exact problems. We overspend because we're too embarrassed to tell our friends that we can't afford to go out to dinner. the list goes on. 
+Okay. This isn't *easy*, per se. But it is so, so important. Money talk has been considered taboo for so long that most of us live in shame when it comes to money. We feel isolated and alone in our financial struggles, because we don't know that our friends and family are having the same exact problems. 
 
-Silence around money only leads to problems. It means we don't have the support we need when tackling our financial goals. It means that the wage gap goes unknown and unchallenged in the workplace. It means that we hide our debt and spending habits from our loved ones until it's out of control. 
+Silence around money only leads to problems. It means we don't have the support we need when tackling our financial goals. It means that the wage gap goes unknown and unchallenged in the workplace. It means that we hide our debt and spending habits from our loved ones until it's out of control. It means we overspend because we're too embarrassed to tell our friends that we can't afford to go out to dinner. The list goes on. 
 
 So, in 2018, start talking about money. Be honest with your friends when you can't afford to go out this week. Tell your best friend about your credit card debt (I'm sure she has some too!). Most importantly, talk about your financial goals. Be vocal about what you want to achieve this year. Share it in Money Circle! When you've said your goals out loud, or written them down, you're more likely to achieve them. You'll get the support and accountability that you need! And you might even show someone else that they aren't alone either.
 
