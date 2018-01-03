@@ -69,6 +69,6 @@ It's very easy to spend money when you have no idea how much you've already spen
 
 This exercise will help you to feel more in control of your money. You won't be uncertain and stressed every time you open your bank statement, because you'll have already been keeping track. You'll also be able to make more informed choices when it comes to your money. If you don't like where you're losing money, you can start doing something differently. For example, if you're getting charged bank fees that you weren't aware of, you can find a new bank that has less (or no) fees. Not only will this save you money, but it also will show you that you have power over your financial situation.
 
-What are your goals, financial or otherwise, for 2018? How can I support you while you work towards them? Share in the comments!
+**What are your goals, financial or otherwise, for 2018? How can I support you while you work towards them? Share in the comments!**
 
 *Feeling overwhelmed about your money and not sure where to start? I can help you! [Schedule a complimentary discovery call](https://www.maggiegermano.com/coaching/) with me to learn more about my coaching services so I can help you get your money right!*
