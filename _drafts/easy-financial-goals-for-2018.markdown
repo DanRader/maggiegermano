@@ -41,9 +41,9 @@ So, in 2018, start talking about money. Be honest with your friends when you can
 
 *Okay*, this one isn't that easy either. Facing our own shit is one of the hardest things we can do. But it's really the only way to achieve longterm success. If you aren't aware of your own issues, habits, and hang-ups, you won't be able to get past them. And this applies to every area of life. 
 
-For example, just a few short years ago, I had what I considered to be "terrible luck" in my dating life. The guys were always unreliable, nothing seemed to last. *"Why me?!"*, I would often ask. Things didn't change until my acupuncturist asked me if I'd ever thought about why I tend to surround myself with people who don't treat me well. It was like an actual light turned on in my brain. It was true! I was subconsciously seeking out these unfulfilling relationships because I was afraid to find something real. Literally days later, I reached out to the guy who is now my fiance. But I couldn't get myself out of my situation until I realized what I was actually doing.
+For example, just a few short years ago, I had what I considered to be "terrible luck" in my dating life. The guys were always unreliable, nothing seemed to last. *"Why me?!"*, I would often ask. Things didn't change until the day my acupuncturist asked me if I'd ever thought about why I tend to surround myself with people who don't treat me well. It was like an actual light turned on in my brain. It was true! I was subconsciously seeking out these unfulfilling relationships because I was afraid to find something real. Literally days later, I reached out to the guy who is now my fiance. But I couldn't get out of my situation until I realized what I was actually doing.
 
-So how does this apply to you and your finances? Well, it can sometimes feel like we just have bad luck financially. And that can be true! However, oftentimes our own beliefs and habits are the cause of our financial problems. Financial unrest is often a symptom of emotional issues. I'm sure we've all gone on 
+So how does this apply to you and your finances? Well, it can sometimes feel like we just have bad luck financially. And that can be true! However, oftentimes our own beliefs and habits are the cause of our financial problems. Financial unrest is often a symptom of other emotional issues. I'm sure we've all gone on a shopping spree to cope with a breakup or other bad news. Spending money is a go-to way to deal with our emotions, good or bad. But this ends up hurting us in the long run if we aren't careful. So get clear on the ways your baggage affects your money, because from there, you can start making changes.
 
 ## Look at Your Accounts
 
@@ -54,3 +54,5 @@ Money minute
 ## Review Your Spending Regularly
 
 It's very easy to spend money when you have no idea how much you've already spent. But that leads to overspending and financial stress. The longer you go without looking at your spending, the harder it is to face it. So make it a regular habit to review your spending. Schedule a daily or weekly money minute and check in. 
+
+*Feeling overwhelmed about your money and not sure where to start? I can help you! [Schedule a complimentary discovery call](https://www.maggiegermano.com/coaching/) with me to learn more about my coaching services so I can help you get your money right!*
