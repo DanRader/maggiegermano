@@ -45,4 +45,8 @@ So how does this apply to you and your finances?
 
 ## Look at Your Accounts
 
+Just like I said above, you can't change anything if you don't face it first. And part of facing your financial issues is actually knowing what is happening with your money. 
+
+Money minute
+
 ## Review Your Spending Regularly
