@@ -47,9 +47,17 @@ So how does this apply to you and your finances? Well, it can sometimes feel lik
 
 ## Look at Your Accounts
 
-Just like I said above, you can't change anything if you don't face it first. And part of facing your financial issues is actually knowing what is happening with your money. So lay it all out on the table, literally. Pull up all of your accounts: bank accounts, credit cards, investments, student loans, medical bills, retirement accounts, etc. I know it's scary, but you'll be better off for it.
+Just like I said above, you can't change anything if you don't face it first. And part of facing your financial issues is actually knowing what is happening with your money. So lay it all out on the table, literally. Pull up all of your accounts: bank accounts, credit cards, investments, student loans, medical bills, retirement accounts, etc. Print them out if you have to! I know it's scary, but you'll be better off for it.
 
 This might feel arduous when you first start, especially if you haven't looked at your entire financial portfolio in a while (or ever). But stick to it! You might find a 401k from an old job that you forgot about. Or (unfortunately) you might find some debt that you didn't know you had. Again, you have to know what you need to fix in order to fix it. Once everything is out in the open, you can start making a plan to tackle things. 
+
+After you have located and organized all of your financial accounts, answer a few questions:
+
+* Can I close any accounts? (Old bank accounts, credit cards you don't need)
+
+* Can I roll over or combine any accounts? (401k, etc.)
+
+* What takes top priority? (High interest debts, collections)
 
 ## Review Your Spending Regularly
 
