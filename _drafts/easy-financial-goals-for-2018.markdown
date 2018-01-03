@@ -61,6 +61,8 @@ After you have located and organized all of your financial accounts, answer a fe
 
 * Where can I find support? (Friends, family, therapist, coach)
 
+* How can I be kind to myself while I work on this? 
+
 ## Review Your Spending Regularly
 
 It's very easy to spend money when you have no idea how much you've already spent. But that leads to overspending and financial stress. The longer you go without looking at your spending, the harder it is to face it. So make it a regular habit to review your spending. Schedule a daily or weekly money minute and check in. You might be surprised to see where your money is going and how quickly it adds up. 
