@@ -39,6 +39,10 @@ So, in 2018, start talking about money. Be honest with your friends when you can
 
 ## Be Honest With Yourself
 
+*Okay*, this one isn't that easy either. Facing our own shit is one of the hardest things we can do. But it's really the only way to achieve longterm success. If you aren't aware of your own issues, habits, and hang-ups, you won't be able to get past them. And this applies to every area of life. For example, just a few short years ago, I had what I considered to be "terrible luck" in my dating life. The guys were always unreliable, nothing seemed to last. "Why me?!", I would often ask. Things didn't change until my acupuncturist asked me if I'd ever thought about why I tend to surround myself with people who don't treat me well. It was like an actual light turned on in my brain. It was true! I was subconsciously seeking out these unfulfilling relationships because I was afraid to find something real. Literally days later, I reached out to the guy who is now my fiance. But I couldn't get myself out of my situation until I realized what I was actually doing.
+
+So how does this apply to you and your finances? 
+
 ## Look at Your Accounts
 
 ## Review Your Spending Regularly
