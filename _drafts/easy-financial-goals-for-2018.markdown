@@ -25,10 +25,18 @@ posts:
 
 Ah, a brand new year. It's that time when we all set New Year's resolutions and vow to be a new, better person. These goals are often lofty and not always realistic. More often than not, we find ourselves abandoning our goals a few weeks or months down the road. It's totally human, because  you can't change who you are overnight. But it doesn't have to be this way! You don't have to set unrealistic goals that you give up and then feel bad about.
 
-Like I said last week, it's important to acknowledge your wins from 2017 before you set new goals for 2018. This exercise will show you just how successful you were, even if you didn't realize it while you were living it. You'll feel better about yourself and more confident about what you can achieve in 2018. But if you do still feel nervous and intimidated about 2018, there are some fairly easy goals that you can set for yourself. 
+Like I said last week, it's important to acknowledge your wins from 2017 before you set new goals for 2018. This exercise will show you just how successful you were, even if you didn't realize it while you were living it. You'll feel better about yourself and more confident about what you can achieve in 2018. But if you do still feel nervous and intimidated about 2018, there are some fairly easy goals that you can set for yourself.
 
 ## Talk About Money
 
+Okay. This isn't *easy*, per se. But it is so, so important. Money talk has been considered taboo for so long, that most of us live in shame when it comes to money. We feel isolated and alone in our financial struggles, because we don't know that our friends are having the same exact problems. We overspend because we're too embarrassed to tell our friends that we can't afford to go out to dinner. the list goes on. 
+
+Silence around money only leads to problems. It means we don't have the support we need when tackling our financial goals. It means that the wage gap goes unknown and unchallenged in the workplace. It means that we hide our debt and spending habits from our loved ones until it's out of control. 
+
+So, in 2018, start talking about money. Be honest with your friends when you can't afford to go out this week. Tell your best friend about your credit card debt (I'm sure she has some too!). Most importantly, talk about your financial goals. Be vocal about what you want to achieve this year. Share it in Money Circle! When you've said your goals out loud, or written them down, you're more likely to achieve them. You'll get the support and accountability that you need! And you might even show someone else that they aren't alone either.
+
 ## Be Honest With Yourself
 
-## 
+## Look at Your Accounts
+
+## Review Your Spending Regularly
