@@ -35,7 +35,7 @@ Okay. This isn't *easy*, per se. But it is so, so important. Money talk has been
 
 Silence around money only leads to problems. It means we don't have the support we need when tackling our financial goals. It means that the wage gap goes unknown and unchallenged in the workplace. It means that we hide our debt and spending habits from our loved ones until it's out of control. It means we overspend because we're too embarrassed to tell our friends that we can't afford to go out to dinner. The list goes on. 
 
-So, in 2018, start talking about money. Be honest with your friends when you can't afford to go out this week. Tell your best friend about your credit card debt (I'm sure she has some too!). Most importantly, talk about your financial goals. Be vocal about what you want to achieve this year. Share it in Money Circle! When you've said your goals out loud, or written them down, you're more likely to achieve them. You'll get the support and accountability that you need! And you might even show someone else that they aren't alone either.
+So, in 2018, start talking about money. Be honest with your friends when you can't afford to go out this week. Tell your best friend about your credit card debt (I'm sure she has some too!). Most importantly, talk about your financial goals. Be vocal about what you want to achieve this year. Share it in [Money Circle](http://www.facebook.com/groups/moneycirclegroup)! When you've said your goals out loud, or written them down, you're more likely to achieve them. You've put them out in the universe and made them real. Plus, you'll be more likely to get the support and accountability that you need! And you might even show someone else that they aren't alone in their struggles either.
 
 ## Be Honest With Yourself
 
