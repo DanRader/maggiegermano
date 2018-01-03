@@ -53,7 +53,7 @@ Money minute
 
 ## Review Your Spending Regularly
 
-It's very easy to spend money when you have no idea how much you've already spent. But that leads to overspending and financial stress. The longer you go without looking at your spending, the harder it is to face it. So make it a regular habit to review your spending. Schedule a daily or weekly money minute and check in. 
+It's very easy to spend money when you have no idea how much you've already spent. But that leads to overspending and financial stress. The longer you go without looking at your spending, the harder it is to face it. So make it a regular habit to review your spending. Schedule a daily or weekly money minute and check in. You might be surprised to see where your money is going and how quickly it adds up. 
 
 What are your goals, financial or otherwise, for 2018? How can I support you while you work towards them? Share in the comments!
 
