@@ -45,6 +45,14 @@ For example, just a few short years ago, I had what I considered to be "terrible
 
 So how does this apply to you and your finances? Well, it can sometimes feel like we just have bad luck financially. And that can be true! However, oftentimes our own beliefs and habits are the cause of our financial problems. Financial unrest is often a symptom of other emotional issues. I'm sure we've all gone on a shopping spree to cope with a breakup or other bad news. Spending money is a go-to way to deal with our emotions, good or bad. But this ends up hurting us in the long run if we aren't careful. So get clear on the ways your baggage affects your money, because from there, you can start making changes.
 
+Not sure where to start? Ask yourself a few questions:
+
+* What mood am I usually in when I overspend?
+
+* How do I usually feel after I overspend?
+
+* What kinds of situations lead me to want to spend money?
+
 ## Look at Your Accounts
 
 Just like I said above, you can't change anything if you don't face it first. And part of facing your financial issues is actually knowing what is happening with your money. So lay it all out on the table, literally. Pull up all of your accounts: bank accounts, credit cards, investments, student loans, medical bills, retirement accounts, etc. Print them out if you have to! I know it's scary, but you'll be better off for it.
