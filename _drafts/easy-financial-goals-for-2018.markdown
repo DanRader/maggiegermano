@@ -27,7 +27,7 @@ Ah, a brand new year. It's that time when we all set New Year's resolutions and 
 
 Like I said [last week](https://www.maggiegermano.com/blog/reflecting-on-2017/), it's important to acknowledge your wins from 2017 before you set new goals for 2018. This exercise will show you just how successful you were, even if you didn't realize it while you were living it. You'll feel better about yourself and more confident about what you can achieve in 2018. When you feel self-confident, your goals will be centered more around realistic changes and achievements, rather than focused on completely changing who you are. 
 
-Are you not sure where to start when it comes to financial goals for 2018? Here are some easy (or not so easy) goals to start with this year.
+Are you not sure where to start when it comes to financial goals for 2018? Here are some easy (and not so easy) goals to start with this year.
 
 ## Talk About Money
 
