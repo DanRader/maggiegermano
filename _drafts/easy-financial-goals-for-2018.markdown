@@ -25,7 +25,7 @@ posts:
 
 Ah, a brand new year. It's that time when we all set New Year's resolutions and vow to be a new, better person. These goals are often lofty and not always realistic. *"Lose 50 pounds in 3 months! Never eat sugar again! Stop procrastinating forever!"* More often than not, we find ourselves abandoning these goals a few weeks or months down the road. It's totally human, because  you can't change who you are overnight. But it doesn't have to be this way! You don't have to set unrealistic goals that you give up and then feel bad about.
 
-Like I said last week, it's important to acknowledge your wins from 2017 before you set new goals for 2018. This exercise will show you just how successful you were, even if you didn't realize it while you were living it. You'll feel better about yourself and more confident about what you can achieve in 2018. When you feel self-confident, your goals will be centered more around realistic changes and achievements, rather than completely changing who you are. 
+Like I said [last week](https://www.maggiegermano.com/blog/reflecting-on-2017/), it's important to acknowledge your wins from 2017 before you set new goals for 2018. This exercise will show you just how successful you were, even if you didn't realize it while you were living it. You'll feel better about yourself and more confident about what you can achieve in 2018. When you feel self-confident, your goals will be centered more around realistic changes and achievements, rather than completely changing who you are. 
 
 But if you do still feel nervous and intimidated about 2018, there are some fairly easy goals that you can set for yourself.
 
