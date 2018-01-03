@@ -43,7 +43,7 @@ So, in 2018, start talking about money. Be honest with your friends when you can
 
 For example, just a few short years ago, I had what I considered to be "terrible luck" in my dating life. The guys were always unreliable, nothing seemed to last. "Why me?!", I would often ask. Things didn't change until my acupuncturist asked me if I'd ever thought about why I tend to surround myself with people who don't treat me well. It was like an actual light turned on in my brain. It was true! I was subconsciously seeking out these unfulfilling relationships because I was afraid to find something real. Literally days later, I reached out to the guy who is now my fiance. But I couldn't get myself out of my situation until I realized what I was actually doing.
 
-So how does this apply to you and your finances? Well, it can sometimes feel like we just have bad luck financially. And that can be true! However, sometimes our own beliefs and habits can
+So how does this apply to you and your finances? Well, it can sometimes feel like we just have bad luck financially. And that can be true! However, oftentimes our own beliefs and habits are the cause of our financial problems. Financial unrest is often a symptom of issues related to self-worth
 
 ## Look at Your Accounts
 
