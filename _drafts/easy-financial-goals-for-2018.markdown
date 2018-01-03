@@ -59,12 +59,16 @@ After you have located and organized all of your financial accounts, answer a fe
 
 * What takes top priority? (High interest debts, collections)
 
+* Where can I find support? (Friends, family, therapist, coach)
+
+* How can I be kind to myself while I work on this? 
+
 ## Review Your Spending Regularly
 
 It's very easy to spend money when you have no idea how much you've already spent. But that leads to overspending and financial stress. The longer you go without looking at your spending, the harder it is to face it. So make it a regular habit to review your spending. Schedule a daily or weekly money minute and check in. You might be surprised to see where your money is going and how quickly it adds up. 
 
 This exercise will help you to feel more in control of your money. You won't be uncertain and stressed every time you open your bank statement, because you'll have already been keeping track. You'll also be able to make more informed choices when it comes to your money. If you don't like where you're losing money, you can start doing something differently. For example, if you're getting charged bank fees that you weren't aware of, you can find a new bank that has less (or no) fees. Not only will this save you money, but it also will show you that you have power over your financial situation.
 
-What are your goals, financial or otherwise, for 2018? How can I support you while you work towards them? Share in the comments!
+**What are your goals, financial or otherwise, for 2018? How can I support you while you work towards them? Share in the comments!**
 
 *Feeling overwhelmed about your money and not sure where to start? I can help you! [Schedule a complimentary discovery call](https://www.maggiegermano.com/coaching/) with me to learn more about my coaching services so I can help you get your money right!*
