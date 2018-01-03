@@ -3,11 +3,17 @@ title: Privacy Notice
 layout: privacy
 ---
 
+# Disclaimer
+
+All data and information provided on this site is strictly the author’s opinion and does not constitute any financial, legal or other type of advice. Maggie Germano Financial Coaching makes no representations as to accuracy, completeness, suitability, or validity of any information on this site and will not be liable for any errors, omissions, or delays in this information or any losses or damages arising from its display or use. We also do not make any personal investments on behalf of our readers; neither do we provide specific investment advice.
+
+# Privacy Notice
+
 Your privacy is important to Maggie Germano Financial Coaching.
 
 By visiting and using this website, you agree and consent to the following Privacy Policy governing the collection and use of personally identifiable and other information by Maggie Germano Financial Coaching.
 
-Maggie Germano Financial Coaching may collect information from you when you voluntarily sign up for e-mails or free gifts, register for a class or presentation, leave comments, order a service or product, fill out any type of form, or otherwise contact Maggie Germano Financial Coaching via an online form or e-mail. The information collected may include your name, e-mail, address, phone number, and/or billing information. You are not required, however, to provide any personally identifiable information to merely access or visit this website. 
+Maggie Germano Financial Coaching may collect information from you when you voluntarily sign up for e-mails or free gifts, register for a class or presentation, leave comments, order a service or product, fill out any type of form, or otherwise contact Maggie Germano Financial Coaching via an online form or e-mail. The information collected may include your name, e-mail, address, phone number, and/or billing information. You are not required, however, to provide any personally identifiable information to merely access or visit this website.
 
 Maggie Germano Financial Coaching collects such information in order to send e-mails, fulfill orders, deliver services and products, complete customer transactions, oversee contests and promotions and improve website performance and customer service.
 
