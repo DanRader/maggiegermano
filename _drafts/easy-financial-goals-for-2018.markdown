@@ -52,3 +52,5 @@ Just like I said above, you can't change anything if you don't face it first. An
 Money minute
 
 ## Review Your Spending Regularly
+
+It's very easy to spend money when you have no idea how much you've already spent. But that leads to overspending financial stress. 
