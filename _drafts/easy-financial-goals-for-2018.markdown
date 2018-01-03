@@ -53,4 +53,4 @@ Money minute
 
 ## Review Your Spending Regularly
 
-It's very easy to spend money when you have no idea how much you've already spent. But that leads to overspending financial stress. 
+It's very easy to spend money when you have no idea how much you've already spent. But that leads to overspending and financial stress. The longer you go without looking at your spending, the harder it is to face it. So make it a regular habit to review your spending. Schedule a daily or weekly money minute and check in. 
