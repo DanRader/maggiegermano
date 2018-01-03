@@ -51,6 +51,14 @@ Just like I said above, you can't change anything if you don't face it first. An
 
 This might feel arduous when you first start, especially if you haven't looked at your entire financial portfolio in a while (or ever). But stick to it! You might find a 401k from an old job that you forgot about. Or (unfortunately) you might find some debt that you didn't know you had. Again, you have to know what you need to fix in order to fix it. Once everything is out in the open, you can start making a plan to tackle things. 
 
+After you have located and organized all of your financial accounts, answer a few questions:
+
+* Can I close any accounts? (Old bank accounts, credit cards you don't need)
+
+* Can I roll over or combine any accounts? (401k, etc.)
+
+* What takes top priority? (High interest debts, collections)
+
 ## Review Your Spending Regularly
 
 It's very easy to spend money when you have no idea how much you've already spent. But that leads to overspending and financial stress. The longer you go without looking at your spending, the harder it is to face it. So make it a regular habit to review your spending. Schedule a daily or weekly money minute and check in. You might be surprised to see where your money is going and how quickly it adds up. 
