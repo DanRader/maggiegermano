@@ -55,4 +55,6 @@ Money minute
 
 It's very easy to spend money when you have no idea how much you've already spent. But that leads to overspending and financial stress. The longer you go without looking at your spending, the harder it is to face it. So make it a regular habit to review your spending. Schedule a daily or weekly money minute and check in. 
 
+What are your goals, financial or otherwise, for 2018? How can I support you while you work towards them? Share in the comments!
+
 *Feeling overwhelmed about your money and not sure where to start? I can help you! [Schedule a complimentary discovery call](https://www.maggiegermano.com/coaching/) with me to learn more about my coaching services so I can help you get your money right!*
