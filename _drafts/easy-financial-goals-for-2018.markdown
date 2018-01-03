@@ -49,6 +49,8 @@ So how does this apply to you and your finances? Well, it can sometimes feel lik
 
 Just like I said above, you can't change anything if you don't face it first. And part of facing your financial issues is actually knowing what is happening with your money. So lay it all out on the table, literally. Pull up all of your accounts: bank accounts, credit cards, investments, student loans, medical bills, retirement accounts, etc. I know it's scary, but you'll be better off for it.
 
+This might feel arduous when you first start, especially if you haven't looked at your entire financial portfolio in a while (or ever). 
+
 Money minute
 
 ## Review Your Spending Regularly
