@@ -189,14 +189,14 @@ img.related-arrow {
     padding-left: 2%;
     padding-right: 2%;
   }
-}
 
-.privacy--title {
-  font-family: 'Playfair Display', serif;
-  font-weight: 900;
-  font-size: 44px;
-  line-height: 55px;
-  color: #575757;
-  padding-bottom: 9px;
-  letter-spacing: 0;
+  & h1 {
+      font-family: 'Playfair Display', serif;
+      font-weight: 900;
+      font-size: 44px;
+      line-height: 55px;
+      color: #575757;
+      padding-bottom: 9px;
+      letter-spacing: 0;
+  }
 }
