@@ -53,4 +53,4 @@ It's okay to not know what you want to achieve. In fact, I think January can be 
 
 As I'm sure you know, if you're reading this, money is a touchy subject. There is a lot of perceived and real judgment. This makes it extra hard to talk about money with the people who love us. Our loved ones have an emotional investment in our lives and choices. They also might have a financial stake in our decisions, good or bad.
 
-If you're dealing with any of these struggles, I know it probably feels insurmountable. But you're not alone! There are many resources out there: blogs, books, courses, and coaches.
+If you're dealing with any of these struggles, I know it probably feels insurmountable. But you're not alone! There are many resources out there: blogs, books, courses, and coaches, like me! If you'd like to learn more about me and my financial coaching services, schedule a [complimentary discovery call](https://maggiegermanofinancialcoaching.as.me/?appointmentType=1359318)!
