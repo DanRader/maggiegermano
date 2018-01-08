@@ -31,6 +31,8 @@ Have you ever tossed bills to the side, left unopened for days, weeks, months? D
 
 If you answered "yes" to any of these questions, you likely use avoidance as a coping mechanism when it comes to money. There is nothing to be ashamed of; we all cope in different ways. But ignoring something, even for months, does not actually make it go away. This is especially true with money. In fact, avoiding your finances can lead to interest charges, late fees, and even bills sent to collections.
 
+If this is your go-to response to money problems, it's probably hard for you to change it yourself. You may need the accountability and nudging from an outside part to help you face things.
+
 ## You Feel Ashamed of Your Finances
 
 It's easy to equate net worth with self worth. It's natural to think that financial problems are moral failings. But shame leads to paralysis and isolation. The more ashamed you feel, the less likely you are to take positive action. You're also less likely to ask for help when you need it. So you end up trapped in a cycle where you're ashamed of your financial situation, but you're unable to make any changes.
