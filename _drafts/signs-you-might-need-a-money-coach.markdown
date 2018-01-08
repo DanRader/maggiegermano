@@ -1,6 +1,17 @@
 ---
 title: Signs You Might Need a Money Coach
-date: 2017-12-11 11:42:00 -05:00
+date: 2018-01-15 11:00:00 -05:00
+categories:
+- lifestyle
+tags:
+- mindset
+- money mindset
+- coach
+- coaching
+- money coach
+- financial coach
+- personal finance
+- money
 image: "/uploads/compass-eb4c96.jpg"
 posts:
 - Why I Became a Financial Coach for Women
