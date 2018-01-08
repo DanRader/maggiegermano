@@ -45,7 +45,9 @@ Does this resonate with you? If it does, you probably could use some outside sup
 
 This is so, so common. Many (most?) of us turn to spending in order to fill a void or cope with a negative emotion. We even spend money to celebrate a positive emotion. Hell, this is how brands advertise to us every single day. "Treat yourself!" This coping mechanism is not inherently bad! And I'm definitely not poo-pooing all celebration or self-care that involves spending money. 
 
-However, this coping mechanism can become a crutch that leads to overspending, and ultimately, debt.  
+However, this coping mechanism can become a crutch that leads to overspending, and ultimately, debt. It's important to find ways of self-soothing that don't feed into bad habits or result in financial problems. 
+
+With a financial coach, you can explore the deeper causes of your overspending. You can bring these issues to light and come up with new, more productive, ways to cope with them. 
 
 ## You Don't Know What Your Goals Are
 
