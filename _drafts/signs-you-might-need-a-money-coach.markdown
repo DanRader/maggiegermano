@@ -35,7 +35,11 @@ If this is your go-to response to money problems, it's probably hard for you to 
 
 ## You Feel Ashamed of Your Finances
 
-It's easy to equate net worth with self worth. It's natural to think that financial problems are moral failings. But shame leads to paralysis and isolation. The more ashamed you feel, the less likely you are to take positive action. You're also less likely to ask for help when you need it. So you end up trapped in a cycle where you're ashamed of your financial situation, but you're unable to make any changes.
+It's easy to equate net worth with self worth. It's a major conflation in our society. "Poor people must have some kind of moral failing and rich people must be inherently deserving." We see this play out in our politics everyday. But it's not right, and it's not true.  
+
+However, being inundated with these messages from a young age makes it hard to shake off the shame. And shame leads to paralysis and isolation. The more ashamed you feel, the less likely you are to take positive action. You're also less likely to ask for help when you need it. So you end up trapped in a cycle where you're ashamed of your financial situation, but you're unable to make any changes. In fact, the more ashamed you are, the worse your finances may become.
+
+Does this resonate with you? If it does, you probably could use some outside support. 
 
 ## You Spend Money to Deal with Your Emotions
 
