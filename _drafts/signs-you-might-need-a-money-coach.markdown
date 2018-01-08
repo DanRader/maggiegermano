@@ -23,6 +23,10 @@ January is often used as the month to [reflect](https://www.maggiegermano.com/bl
 
 ## You Avoid Your Money
 
+Have you ever tossed bills to the side, left unopened for days, weeks, months? Do you avoid looking at your bank statement like it's the plague? Do you know that you have debt, but you don't know how much, because you're afraid to look at it? 
+
+If you answered "yes" to any of these questions, you likely use avoidance as a coping mechanism when it comes to money. There is nothing to be ashamed of; we all cope in different ways. But ignoring something, even for months, does not actually make it go away. This is especially true with money. In fact, avoiding your finances can lead to interest charges, late fees, and even 
+
 ## You Feel Ashamed of Your Finances
 
 ## You Spend Money to Deal with Your Emotions
