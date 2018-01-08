@@ -1,6 +1,17 @@
 ---
 title: Signs You Might Need a Money Coach
-date: 2017-12-11 11:42:00 -05:00
+date: 2018-01-15 11:00:00 -05:00
+categories:
+- lifestyle
+tags:
+- mindset
+- money mindset
+- coach
+- coaching
+- money coach
+- financial coach
+- personal finance
+- money
 image: "/uploads/compass-eb4c96.jpg"
 posts:
 - Why I Became a Financial Coach for Women
@@ -8,12 +19,17 @@ posts:
 - Why It's Important to Get Your Money Right (As a Woman)
 ---
 
+January is often used as the month to [reflect](https://www.maggiegermano.com/blog/reflecting-on-2017/) on the previous year and [set goals](https://www.maggiegermano.com/blog/easy-financial-goals-for-2018/) and intentions for the coming one. It's a good time to pause and make any desired changes. If you're very lucky, you feel completely equipped to pursue these goals on your own. But if you're like most of us, you'll find that you need support along the way. As my friend, Jess Lyons, said to me recently: "If I learned anything last year, it is that the work I want to do does not happen alone. Co-creation is where it's at."
 
 ## You Avoid Your Money
 
+Have you ever tossed bills to the side, left unopened for days, weeks, months? Do you avoid looking at your bank statement like it's the plague? Do you know that you have debt, but you don't know how much, because you're afraid to look at it? 
+
+If you answered "yes" to any of these questions, you likely use avoidance as a coping mechanism when it comes to money. There is nothing to be ashamed of; we all cope in different ways. But ignoring something, even for months, does not actually make it go away. This is especially true with money. In fact, avoiding your finances can lead to interest charges, late fees, and even bills sent to collections. 
+
 ## You Feel Ashamed of Your Finances
 
-
+It's easy to equate net worth with self worth. It's natural to think that financial problems are moral failings. But shame leads to paralysis and isolation. The more ashamed you feel, the less likely you are to take positive action. You're also less likely to ask for help when you need it. So you end up trapped in a cycle where you're ashamed of your financial situation, but you're unable to make any changes. 
 
 ## You Spend Money to Deal with Your Emotions
 
@@ -21,7 +37,10 @@ This is so, so common. Many (most?) of us turn to spending in order to fill a vo
 
 ## You Don't Know What Your Goals Are
 
+It's okay to not know what you want to achieve. In fact, I think January can be tough for those of us who are unclear about our future and our desires. We see people all around us making resolutions and setting goals, so it's natural to feel confused and left out. 
+
 ## You Don't Want to Talk to Loved Ones About Money
 
-As I'm sure you know, if you're reading this, money is a touchy subject. There is a lot of perceived and real judgment. This makes it extra hard to talk about money with the people who love us. Our loved ones have an emotional investment in our lives and choices. They also might have a financial stake in our decisions, good or bad. 
+As I'm sure you know, if you're reading this, money is a touchy subject. There is a lot of perceived and real judgment. This makes it extra hard to talk about money with the people who love us. Our loved ones have an emotional investment in our lives and choices. They also might have a financial stake in our decisions, good or bad.
 
+If you're dealing with any of these struggles, I know it probably feels insurmountable. But you're not alone! There are many resources out there: blogs, books, courses, and coaches. 
