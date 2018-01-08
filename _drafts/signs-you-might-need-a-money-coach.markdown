@@ -29,7 +29,7 @@ If you answered "yes" to any of these questions, you likely use avoidance as a c
 
 ## You Feel Ashamed of Your Finances
 
-It's easy to equate net worth with self worth. It's natural to think that financial problems are moral failings. But shame leads to paralysis and isolation. The more ashamed you feel, the less likely you are to take positive action. You're also less likely to ask for help when you need it. So you get trapped in a cycle 
+It's easy to equate net worth with self worth. It's natural to think that financial problems are moral failings. But shame leads to paralysis and isolation. The more ashamed you feel, the less likely you are to take positive action. You're also less likely to ask for help when you need it. So you end up trapped in a cycle where you're ashamed of your financial situation, but you're unable to make any changes. 
 
 ## You Spend Money to Deal with Your Emotions
 
