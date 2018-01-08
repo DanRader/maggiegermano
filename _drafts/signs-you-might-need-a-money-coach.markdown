@@ -51,7 +51,7 @@ With a financial coach, you can explore the deeper causes of your overspending. 
 
 ## You Don't Know What Your Goals Are
 
-It's okay to not know what you want to achieve. In fact, I think January can be tough for those of us who are unclear about our future and our desires. We see people all around us making resolutions and setting big goals, so it's natural to feel confused and left out.
+It's okay to not know what you want to achieve. In fact, I think January can be tough for those of us who are unclear about our future and our desires. We see people all around us making resolutions and setting big goals, so it's natural to feel confused and left out. Most of us were not born knowing exactly what we want to do in life, even if social media makes it look like everyone else has it all figured out. 
 
 But feeling confused and left out can also cause us to sit still and do nothing. 
 
