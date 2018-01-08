@@ -51,6 +51,10 @@ It's okay to not know what you want to achieve. In fact, I think January can be 
 
 ## You Don't Want to Talk to Loved Ones About Money
 
-As I'm sure you know, if you're reading this, money is a touchy subject. There is a lot of perceived and real judgment. This makes it extra hard to talk about money with the people who love us. Our loved ones have an emotional investment in our lives and choices. They also might have a financial stake in our decisions, good or bad.
+As I'm sure you know, if you're reading this, money is a touchy subject. It has long been considered taboo to discuss, and there is a lot of perceived and real judgment. This makes it extra hard to talk about money with the people who love us. Our loved ones have an emotional investment in our lives and choices. They also might have a financial stake in our decisions, good or bad. But this is why it is so important to be open and honest with our loved ones about money. 
+
+This might even help you if you're struggling with any of the issues I listed above. Openness and honesty can eliminate shame, which can give us the strength to move forward and make changes. Plus, sharing our money stories is good for everyone. If women didn't talk about how much they earn, we'd never be able to make strides to close the wage gap. It's also a way to feel less alone. You never know who else might be suffering in silence, thinking that they're the only one. If you're open about your debt, or other financial problems, you could show someone else that there are others out there going through the same thing. 
+
+\*\*\*
 
 If you're dealing with any of these struggles, I know it probably feels insurmountable. But you're not alone! There are many resources out there: blogs, books, courses, and coaches, like me! If you'd like to learn more about me and my financial coaching services, schedule a [complimentary discovery call](https://maggiegermanofinancialcoaching.as.me/?appointmentType=1359318)!
