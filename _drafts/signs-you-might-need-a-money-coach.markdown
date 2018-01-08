@@ -37,6 +37,8 @@ This is so, so common. Many (most?) of us turn to spending in order to fill a vo
 
 ## You Don't Know What Your Goals Are
 
+It's okay to not know what you want to achieve. In fact, I think January can be tough for those of us who are unclear about our future and our desires. We see people all around us making resolutions and setting goals, so it's natural to feel confused and left out. 
+
 ## You Don't Want to Talk to Loved Ones About Money
 
 As I'm sure you know, if you're reading this, money is a touchy subject. There is a lot of perceived and real judgment. This makes it extra hard to talk about money with the people who love us. Our loved ones have an emotional investment in our lives and choices. They also might have a financial stake in our decisions, good or bad.
