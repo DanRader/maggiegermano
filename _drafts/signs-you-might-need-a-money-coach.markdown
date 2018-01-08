@@ -23,6 +23,8 @@ January is often used as the month to [reflect](https://www.maggiegermano.com/bl
 
 And it's so true! It's easy to think that we have to go after what we want on our own. We live in an individualist culture. But, we can and *should* lean on each other in order to reach our goals. Otherwise, we'll end up exhausted and we'll feel alone. That's no way to live, and it won't result in satisfying success. So! If you're hoping to take strides in your financial life this year, you might need the support of a coach. If you struggle with any of the issues I list below, you probably need some extra guidance. 
 
+*If this article resonates with you, [reach out to me](https://maggiegermanofinancialcoaching.as.me/?appointmentType=1359318)! I offer 20-minute discovery calls to anyone who wants to learn more about me and how financial coaching works.*
+
 ## You Avoid Your Money
 
 Have you ever tossed bills to the side, left unopened for days, weeks, months? Do you avoid looking at your bank statement like it's the plague? Do you know that you have debt, but you don't know how much, because you're afraid to look at it?
