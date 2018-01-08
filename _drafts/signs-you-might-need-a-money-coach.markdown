@@ -29,6 +29,8 @@ If you answered "yes" to any of these questions, you likely use avoidance as a c
 
 ## You Feel Ashamed of Your Finances
 
+It's easy to equate net worth with self worth. It's natural to think that financial problems are moral failings. But shame leads to paralysis and isolation. The more ashamed you feel, the less likely you are to take positive action. You're also less likely to ask for help when you need it. So you get trapped in a cycle 
+
 ## You Spend Money to Deal with Your Emotions
 
 This is so, so common. Many (most?) of us turn to spending in order to fill a void or cope with a negative emotion. We even spend money to celebrate a positive emotion. This coping mechanism is not inherently bad! But if we use it too often, it can lead to overspending, and ultimately debt.
