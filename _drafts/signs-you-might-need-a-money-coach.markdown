@@ -13,6 +13,8 @@ tags:
 - personal finance
 - money
 image: "/uploads/compass-eb4c96.jpg"
+tweet: 'You don''t have to go through #financial struggles alone. Having a #coach
+  might help.'
 posts:
 - Why I Became a Financial Coach for Women
 - How Money Can Help Me Feel How I Want to Feel
