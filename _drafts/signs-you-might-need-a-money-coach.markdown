@@ -51,7 +51,11 @@ With a financial coach, you can explore the deeper causes of your overspending. 
 
 ## You Don't Know What Your Goals Are
 
-It's okay to not know what you want to achieve. In fact, I think January can be tough for those of us who are unclear about our future and our desires. We see people all around us making resolutions and setting goals, so it's natural to feel confused and left out.
+It's okay to not know what you want to achieve. In fact, I think January can be tough for those of us who are unclear about our future and our desires. We see people all around us making resolutions and setting big goals, so it's natural to feel confused and left out.
+
+But feeling confused and left out can also cause us to sit still and do nothing. 
+
+Working with a coach can help you get clear on what your values are and how you can set goals that align with those values. 
 
 ## You Don't Want to Talk to Loved Ones About Money
 
