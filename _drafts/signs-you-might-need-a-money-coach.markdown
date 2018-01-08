@@ -19,7 +19,7 @@ posts:
 - Why It's Important to Get Your Money Right (As a Woman)
 ---
 
-January is often used as the month to reflect on the previous year and set goals and intentions for the coming one. 
+January is often used as the month to [reflect](https://www.maggiegermano.com/blog/reflecting-on-2017/) on the previous year and [set goals](https://www.maggiegermano.com/blog/easy-financial-goals-for-2018/) and intentions for the coming one. If you're very lucky, you feel completely equipped to pursue these goals on your own. But if you're like most of us, you'll find that you need support along the way. 
 
 ## You Avoid Your Money
 
