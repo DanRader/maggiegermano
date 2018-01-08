@@ -43,7 +43,9 @@ Does this resonate with you? If it does, you probably could use some outside sup
 
 ## You Spend Money to Deal with Your Emotions
 
-This is so, so common. Many (most?) of us turn to spending in order to fill a void or cope with a negative emotion. We even spend money to celebrate a positive emotion. This coping mechanism is not inherently bad! But if we use it too often, it can lead to overspending, and ultimately debt.
+This is so, so common. Many (most?) of us turn to spending in order to fill a void or cope with a negative emotion. We even spend money to celebrate a positive emotion. Hell, this is how brands advertise to us every single day. "Treat yourself!" This coping mechanism is not inherently bad! And I'm definitely not poo-pooing all celebration or self-care that involves spending money. 
+
+However, this coping mechanism can become a crutch that leads to overspending, and ultimately, debt.  
 
 ## You Don't Know What Your Goals Are
 
