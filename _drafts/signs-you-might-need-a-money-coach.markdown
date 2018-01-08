@@ -19,7 +19,7 @@ posts:
 - Why It's Important to Get Your Money Right (As a Woman)
 ---
 
-January is often used as the month to [reflect](https://www.maggiegermano.com/blog/reflecting-on-2017/) on the previous year and [set goals](https://www.maggiegermano.com/blog/easy-financial-goals-for-2018/) and intentions for the coming one. It's a good time to pause and make any desired changes. If you're very lucky, you feel completely equipped to pursue these goals on your own. But if you're like most of us, you'll find that you need support along the way. 
+January is often used as the month to [reflect](https://www.maggiegermano.com/blog/reflecting-on-2017/) on the previous year and [set goals](https://www.maggiegermano.com/blog/easy-financial-goals-for-2018/) and intentions for the coming one. It's a good time to pause and make any desired changes. If you're very lucky, you feel completely equipped to pursue these goals on your own. But if you're like most of us, you'll find that you need support along the way. As my friend, Jess Lyons, said to me recently: "If I learned anything last year, it is that the work I want to do does not happen alone. Co-creation is where it's at."
 
 ## You Avoid Your Money
 
