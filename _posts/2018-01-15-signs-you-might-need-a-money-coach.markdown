@@ -1,6 +1,7 @@
 ---
 title: 5 Signs You Might Need a Money Coach
 date: 2018-01-15 11:00:00 -05:00
+published: false
 categories:
 - lifestyle
 tags:
@@ -65,4 +66,6 @@ This might even help you if you're struggling with any of the issues I listed ab
 
 \*\*\*
 
-If you're dealing with any of these struggles, I know it probably feels insurmountable. But you're not alone! There are many resources out there: blogs, books, courses, and coaches, like me! If you'd like to learn more about me and my financial coaching services, schedule a [complimentary discovery call](https://maggiegermanofinancialcoaching.as.me/?appointmentType=1359318)!
+If you're dealing with any of these struggles, I know it probably feels insurmountable. But you're not alone! There are many resources out there: blogs, books, courses, and coaches, like me! It's important to make the investment in products and services that will improve your life in the long-term. Putting money down up front will save you money over time, once you have a better relationship with your money and develop better habits. An investment in this is an investment in yourself.
+
+*If you'd like to learn more about me and my financial coaching services, schedule a [complimentary discovery call](https://maggiegermanofinancialcoaching.as.me/?appointmentType=1359318)!*
