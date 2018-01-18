@@ -12,6 +12,7 @@ tags:
 - spending
 - budget
 - budgeting
+image: "/uploads/comfort.jpg"
 ---
 
 Hygge is the Danish concept that means "coziness". It's pronounced "hoo-gah". 
