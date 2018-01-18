@@ -21,9 +21,9 @@ posts:
 - 5 Ways to Practice Self Care While on a Budget
 ---
 
-Hygge is the Danish concept that means "coziness". It's pronounced "hoo-gah".
+No, hygge is not an Icelandic yogurt. Hygge is the Danish concept that means "coziness". It's pronounced "hoo-gah".
 
-I had never heard of hygge before a couple weeks ago. But then Emilie Aries of Bossed Up shared a video about it and Alisha Ramos of Girls' Night In posted on Instagram that she was reading about it. Then all weekend, my fiance and I obsessed over how we could make our home more hygge-like. The more I thought about it, the more I realized I need more comfort, warmth, and softness in my life and home. And then, of course, my next thought was: that’s expensive! I don’t want hygge to only be available to those with plenty of money. I want everyone to experience hygge!
+I had never heard of hygge before a couple weeks ago. But then Emilie Aries of Bossed Up shared a video about it and Alisha Ramos of Girls' Night In posted on Instagram that she was reading about it. Then all weekend, my fiance and I obsessed over how we could make our home more hygge-like. The more I thought about it, the more I realized I need more comfort, warmth, and softness in my life and home. And then, of course, my next thought was: that’s expensive! I don’t want hygge to only be available to those with plenty of money. I want everyone to experience hygge! So if you're on a budget, here are some ways you can still incorporate hygge into your home and daily life.
 
 ## Buy used
 
