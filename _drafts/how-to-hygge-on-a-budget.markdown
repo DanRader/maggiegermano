@@ -13,6 +13,12 @@ tags:
 - budget
 - budgeting
 image: "/uploads/comfort.jpg"
+tweet: 'Want "hygge"? It doesn''t have to cost an arm and a leg. Find out how to #hygge
+  on a #budget!'
+posts:
+- How Chasing Sales Can Actually Blow Your Budget
+- Budgeting for the Fun Stuff
+- 5 Ways to Practice Self Care While on a Budget
 ---
 
 Hygge is the Danish concept that means "coziness". It's pronounced "hoo-gah". 
