@@ -27,10 +27,14 @@ I had never heard of hygge before a couple weeks ago. But then [Emilie Aries](ht
 
 ## Buy used
 
+
 ## Shop the discount section
+
 
 ## Create a hygge fund
 
+
 ## Choose one hygge space to start with
+
 
 If you want to learn more about hygge, check out the book \*[The Little Book of Hygge: Danish Secrets to Happy Living](https://www.amazon.com/Little-Book-Hygge-Danish-Secrets/dp/0062658808). \*
