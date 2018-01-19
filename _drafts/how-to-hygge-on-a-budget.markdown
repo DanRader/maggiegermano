@@ -33,6 +33,8 @@ You don't have to buy brand new things in order for them to be cozy. Hit up your
 
 ## Create a hygge fund
 
+If you know you want to upgrade areas of your home or life, but can't afford it at the moment, save up! Open a bank account that is specifically for making your life more hygge. You may have to do a little research about how much money you'll need, based on what you're envisioning. You can automate savings from your paycheck, or you can use apps like [Digit](https://digit.co/) to save as you spend on other things. 
+
 ## Choose one hygge space to start with
 
 If you want to learn more about hygge, check out the book *[The Little Book of Hygge: Danish Secrets to Happy Living](https://www.amazon.com/Little-Book-Hygge-Danish-Secrets/dp/0062658808)*. 
