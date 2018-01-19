@@ -31,7 +31,7 @@ You don't have to buy brand new things in order for them to be cozy. Hit up your
 
 ## Shop the discount section
 
-Have you ever been to the sale section in Marshalls? 
+Have you ever been to the sale section in Marshalls? It's the only place in a store that I feel completely drawn to. I could buy everything from that section if I had the money and/or space. They often have throw pillows, blankets, snacks, tea, candles, and more. And the best part is that these items are far more affordable than they would be otherwise. So seek out the discount section in your favorite stores. You never know what gems you might find.
 
 ## Create a hygge fund
 
