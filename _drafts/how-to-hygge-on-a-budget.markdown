@@ -27,11 +27,11 @@ I had never heard of hygge before a couple weeks ago. But then [Emilie Aries](ht
 
 ## Buy used
 
-You don't have to buy brand new things in order for them to be cozy. Hit up your local thrift store or look on Craigslist or Freecycle for used couches, armchairs, blankets, and sweaters.
+You don't have to buy brand new things in order for them to be cozy. Some of my favorite sweaters have come from Goodwill. And why spend hundreds of dollars (or more) on new furniture when you can buy it used for much less? Hit up your local thrift store or look on [Craigslist](craigslist.org) or [Freecycle](https://www.freecycle.org/) for used couches, armchairs, blankets, and sweaters.
 
 ## Shop the discount section
 
-Have you ever been to the sale section in Marshalls? 
+Have you ever been to the sale section in Marshalls? It's the only place in a store that I feel completely drawn to. I could buy everything from that section if I had the money and/or space. They often have throw pillows, blankets, snacks, tea, candles, and more. And the best part is that these items are far more affordable than they would be otherwise. So seek out the discount section in your favorite stores. You never know what gems you might find.
 
 ## Create a hygge fund
 
@@ -41,4 +41,4 @@ If you know you want to upgrade areas of your home or life, but can't afford it 
 
 Sometimes, it's important to start small. That's especially true when you're trying to make overarching changes in your life. To make this 
 
-If you want to learn more about hygge, check out the book *[The Little Book of Hygge: Danish Secrets to Happy Living](https://www.amazon.com/Little-Book-Hygge-Danish-Secrets/dp/0062658808)*.
+If you want to learn more about hygge, check out the book *[The Little Book of Hygge: Danish Secrets to Happy Living](https://www.amazon.com/Little-Book-Hygge-Danish-Secrets/dp/0062658808)*. I personally can't wait to read it!
