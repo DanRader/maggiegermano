@@ -27,7 +27,7 @@ I had never heard of hygge before a couple weeks ago. But then [Emilie Aries](ht
 
 ## Buy used
 
-You don't have to buy brand new things in order for them to be cozy. Hit up your local thrift store or look on Craigslist or Freecycle for used couches, armchairs, blankets, and sweaters.
+You don't have to buy brand new things in order for them to be cozy. Some of my favorite sweaters have come from Goodwill. And why spend hundreds of dollars (or more) on new furniture when you can buy it used for much less? Hit up your local thrift store or look on [Craigslist](craigslist.org) or [Freecycle](https://www.freecycle.org/) for used couches, armchairs, blankets, and sweaters.
 
 ## Shop the discount section
 
