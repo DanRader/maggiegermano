@@ -27,7 +27,7 @@ I had never heard of hygge before a couple weeks ago. But then [Emilie Aries](ht
 
 ## Get clear on what you need
 
-What would make you feel enough hygge in your life? What do you yearn for? For me, especially now that I'm living in an old, drafty house, it's important to feel warm and comfortable. Some solutions will be to buy wool socks (which I just ordered!), get a couple soft throw blankets for the couch, and wear plenty of scarves. 
+What would make you feel enough hygge in your life? What do you yearn for? For me, especially now that I'm living in an old, drafty house, it's important to feel warm and comfortable. Some solutions will be to buy wool socks (which I just ordered!), get a couple soft throw blankets for the couch, and wear plenty of scarves. If you get clear on what you think will make you feel the most hygge, you will be more likely to find satisfaction. 
 
 ## Buy used
 
