@@ -25,6 +25,10 @@ No, hygge is not an Icelandic yogurt. [Hygge](https://en.wikipedia.org/wiki/Hygg
 
 I had never heard of hygge before a couple weeks ago. But then [Emilie Aries](https://emiliearies.com/) of [Bossed Up](http://www.bossedup.org) shared a video about it and [Alisha Ramos](http://alisharamos.com/) of [Girls' Night In](http://girlsnightinclub.com/) posted on Instagram that she was reading about it. Then all weekend, my fiance and I obsessed over how we could make our home more hygge-like. The more I thought about it, the more I realized I need more comfort, warmth, and softness in my life and home. And then, of course, my next thought was: that’s expensive! I don’t want hygge to only be available to those with plenty of money. I want everyone to experience hygge! So if you're on a budget, here are some ways you can still incorporate hygge into your home and daily life.
 
+## Get clear on what you need
+
+What would make you feel enough hygge in your life? 
+
 ## Buy used
 
 You don't have to buy brand new things in order for them to be cozy. Some of my favorite sweaters have come from Goodwill. And why spend hundreds of dollars (or more) on new furniture when you can buy it used for much less? Hit up your local thrift store or look on [Craigslist](craigslist.org) or [Freecycle](https://www.freecycle.org/) for used couches, armchairs, blankets, and sweaters.
