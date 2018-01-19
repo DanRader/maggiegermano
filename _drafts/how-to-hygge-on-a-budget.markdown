@@ -27,7 +27,7 @@ I had never heard of hygge before a couple weeks ago. But then [Emilie Aries](ht
 
 ## Buy used
 
-You don't have to buy brand new things in order for them to be cozy. Hit up your local thrift store or look on Craigslist or Freecycle for used couches, armchairs, blankets, and sweaters. 
+You don't have to buy brand new things in order for them to be cozy. Hit up your local thrift store or look on Craigslist or Freecycle for used couches, armchairs, blankets, and sweaters.
 
 ## Shop the discount section
 
@@ -35,4 +35,4 @@ You don't have to buy brand new things in order for them to be cozy. Hit up your
 
 ## Choose one hygge space to start with
 
-If you want to learn more about hygge, check out the book \*[The Little Book of Hygge: Danish Secrets to Happy Living](https://www.amazon.com/Little-Book-Hygge-Danish-Secrets/dp/0062658808). \*
+If you want to learn more about hygge, check out the book *[The Little Book of Hygge: Danish Secrets to Happy Living](https://www.amazon.com/Little-Book-Hygge-Danish-Secrets/dp/0062658808)*. 
