@@ -41,4 +41,4 @@ If you know you want to upgrade areas of your home or life, but can't afford it 
 
 Sometimes, it's important to start small. That's especially true when you're trying to make overarching changes in your life. To make this 
 
-If you want to learn more about hygge, check out the book *[The Little Book of Hygge: Danish Secrets to Happy Living](https://www.amazon.com/Little-Book-Hygge-Danish-Secrets/dp/0062658808)*.
+If you want to learn more about hygge, check out the book *[The Little Book of Hygge: Danish Secrets to Happy Living](https://www.amazon.com/Little-Book-Hygge-Danish-Secrets/dp/0062658808)*. I personally can't wait to read it!
