@@ -1,5 +1,5 @@
 ---
-title: 'Money: It''s Something to Talk About'
+title: Let's Give Them Something to Talk About
 date: 2018-02-21 18:30:00 -05:00
 published: false
 image: "/uploads/couple.jpg"
@@ -12,6 +12,11 @@ button-text: Sign Me Up
 ticket-price: "$20"
 ---
 
+When was the last time you had a conversation with your partner or friends about money? And I mean a real conversation, including talking about the things you're struggling with. 
+
+Money is a taboo topic that most of us avoid at all costs. It feels uncomfortable or tacky to talk about money. But this silence leads us to believe that we're the only one struggling with our finances. We think that our friends and family have it all figured out. We feel like a failure. We feel completely alone.
+
+I'm on a mission to change all that! Being open about your financial goals is a huge step towards reaching them. Come to Money Circle in February to learn how to have important money conversations with the people you love.
 
 --
 
