@@ -9,6 +9,7 @@ start-time: 6:30pm
 end-time: 8:30pm
 location: Private SE DC Residence (Provided upon payment)
 button-text: Sign Me Up
+button-link: https://www.eventbrite.com/e/money-circle-lets-give-them-something-to-talk-about-tickets-42440688241
 ticket-price: "$20"
 ---
 
