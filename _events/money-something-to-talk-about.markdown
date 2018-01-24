@@ -6,7 +6,7 @@ og-image: "/uploads/moneycircle.png"
 event-date: 2018-02-21 18:30:00 -05:00
 start-time: 6:30pm
 end-time: 8:30pm
-location: Private Eastern Market, DC (Provided upon payment)
+location: Private Eastern Market, DC Residence (Provided upon payment)
 button-text: Sign Me Up
 button-link: https://www.eventbrite.com/e/money-circle-lets-give-them-something-to-talk-about-tickets-42440688241
 ticket-price: "$20"
