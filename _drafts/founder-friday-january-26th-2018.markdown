@@ -18,6 +18,10 @@ I think it's important to be transparent about money, especially as a new busine
 
 ## How I Spent Money This Week
 
+I'm trying to be very tight with money this month. It's the first month that Dan and I are living off of his income only, so we can't be nearly as loose with our spending. We're also planning a wedding, so all of my business income is going straight into savings. However, things come up, so I definitely spent some money this week.
+
+* Our largest expense this week, nearly $250, was on items for our basement Airbnb. We're *so close *to being ready to list our space on Airbnb, but we needed a few last minute items. 
+
 ## What I Wrote About
 
 ## What I'm Excited About
