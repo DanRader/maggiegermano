@@ -37,7 +37,7 @@ I want to have more one-on-one clients. I want to write more. I want to launch c
 
 ## I Had Money in the Bank
 
-As I tell you readers and my clients, having an emergency savings account is super important for financial stability. I've prioritized this savings account for the last several years, and now have enough saved to pay my half of the mortgage for 2 years. Assuming I would make no money with my business this year, I would still have enough to pay my bills. I also have an emergency savings account for my business. I didn't pay myself from my business income at all up until now. That means I have money saved to cover my business expenses for quite some time. It will also allow me to attend conferences and take advantage of other professional development opportunities.
+As I tell readers and clients, having an emergency savings account is super important for financial stability. I've prioritized this savings account for the last several years, and now have enough saved to pay my half of the mortgage for 2 years. Assuming I would make no money with my business this year, I would still have enough to pay my bills. I also have an emergency savings account for my business. I didn't pay myself from my business income at all up until now. That means I have money saved to cover my business expenses for quite some time. It will also allow me to attend conferences and take advantage of other professional development opportunities.
 
 ## I Have a Supportive Partner
 
