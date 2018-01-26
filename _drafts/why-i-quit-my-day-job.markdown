@@ -35,6 +35,8 @@ I also bought a house with my fiance in October. That was after months of lookin
 
 ## I Want My Business to Grow
 
+I want to have more one-on-one clients. I want to write more. I want to launch courses and host workshops. I want to speak to groups and travel for conferences. I want to do all of this while still having a balanced life where I feel happy and healthy. In order to allow my business to grow in these ways, I needed to make more space for it. I couldn't grow in the way I wanted to when I was already working somewhere else for 40 hours a week. 
+
 ## I Had Money in the Bank
 
 As I tell you readers and my clients, having an emergency savings account is super important for financial stability. I've prioritized this savings account for the last several years, and now have enough saved to pay my half of the mortgage for 2 years. Assuming I would make no money with my business this year, I would still have enough to pay my bills. I also have an emergency savings account for my business. I didn't pay myself from my business income at all up until now. That means I have money saved to cover my business expenses for quite some time. It will also allow me to attend conferences and take advantage of other professional development opportunities.
