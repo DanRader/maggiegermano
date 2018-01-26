@@ -8,7 +8,11 @@ image: "/uploads/Maggie%20Portraits-Maggie%20Portraits%2007%2023%2017-0022%20(1)
 tweet: 'Check out @maggiegermano''s first #founderfriday post! '
 ---
 
-Hey there! I'm trying something new this week, so let me know what you think in the comments. I want to write to you more than once a week, and I want you to get to know me better. So, inspired by my friend Emilie Aries of [Bossed Up](http://bossedup.org), I'm starting my own Founder Friday post. 
+Hey there! 
+
+![Maggie Portraits-Maggie Portraits 07 23 17-0008-842749.jpg](/uploads/Maggie%20Portraits-Maggie%20Portraits%2007%2023%2017-0008-842749.jpg)
+
+I'm trying something new this week, so let me know what you think in the comments. I want to write to you more than once a week, and I want you to get to know me better. So, inspired by my friend Emilie Aries of [Bossed Up](http://bossedup.org), I'm starting my own Founder Friday post. 
 
 I'll be talking about my money habits and experiences, I'll talk about what I'm excited about and what I'm up to. And of course, I'll close things out with a few tips for you as you go into the weekend. Let me know if there's anything different you would like to see from me!
 
@@ -40,7 +44,11 @@ On Monday, I wrote about the Danish concept of [Hygge](https://www.maggiegermano
 
 I'm going to be featured on the [Being Boss podcast](https://beingboss.club/podcast) on Tuesday, January 30th! The hosts encourage people to call in and leave a message explaining how we are being boss in our own lives. I called a few weeks ago to tell them that I quit my day job to be a full-time business owner, and they will be playing the recording on the next episode!
 
+![iambeingboss_insta_EXAMPLE-ffeee2.jpg](/uploads/iambeingboss_insta_EXAMPLE-ffeee2.jpg)
+
 [Money Circle](https://www.maggiegermano.com/moneycircle/) meetups started again this week! We took November and December off, but we're back! This week, we met to set motivating goals for 2018. It was a great group, and I can't wait for [February's gathering](https://www.maggiegermano.com/events/money-something-to-talk-about/)!
+
+![2018-01-23 20.32.49.jpg](/uploads/2018-01-23%2020.32.49.jpg)
 
 ## What I'm Fan-Girling Over
 
