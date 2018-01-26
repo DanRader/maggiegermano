@@ -37,7 +37,7 @@ On Monday, I wrote about the Danish concept of Hygge. I'm still waiting for my S
 
 I'm going to be featured on the Being Boss Podcast on Tuesday, January 30th! The hosts encourage people to call in and leave a message explaining how we are being boss in our own lives. I called a few weeks ago to tell them that I quit my day job to be a full-time business owner, and they will be playing the recording on the next episode!
 
-## Who I'm Fan-Girling Over
+## What I'm Fan-Girling Over
 
 * [Unladylike](https://www.unladylike.co/podcast/)! Before Emilie and Bridget took over [Stuff Mom Never Told You](https://www.stuffmomnevertoldyou.com/), Caroline and Cristen were the hosts. Now they have a brand new podcast called Unladylike, which I'm so stoked to listen to. Their first episode, all about paying for an abortion, is up now!
 
