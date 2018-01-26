@@ -43,7 +43,9 @@ As I tell readers and clients, having an emergency savings account is super impo
 
 Now that I own a house and have a mortgage, I don't think I'd be able to take this risk without my fiance, Dan. He's always been incredibly supportive of my business - he designed my brand and built my website! But now, he is shifting his position to also be financially supportive. We've decided to do our best to live off of his salary only this year. Any money I bring in will go directly to our wedding savings and savings for other goals (like getting a corgi). 
 
-Now, I'm incredibly grateful and privileged to have a partner who is willing and earns enough money to support us both. However, as both a feminist and a financial coach, it makes me pretty uneasy to be relying on my partner financially! We had to have many uncomfortable conversations to get to this point and make sure we're ready for this big change. 
+Now, I'm incredibly grateful and privileged to have a partner who is willing and earns enough money to support us both. However, as both a feminist and a financial coach, it makes me pretty uneasy to be relying on my partner financially! This is one of the things I often warn women against! However, I do trust Dan, and I'm confident that we'll hit our spending and savings goals this year. We had to have many uncomfortable conversations to get to this point and make sure we're ready for this big change. To stay comfortable and confident, we'll have to continue to be as transparent as possible about money and how we are feeling.
+
+--
 
 It was really hard to take this leap. I am a risk-averse person at heart, so the safest thing was to keep the day job and keep side hustling. But I was sick of playing it safe. I wanted to see what I was capable of without a safety net. So here I am! I'm almost a month into being a full-time entrepreneur and haven't regretting my decision yet. I'm excited to see what this year brings me.
 
