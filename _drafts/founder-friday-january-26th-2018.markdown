@@ -20,7 +20,13 @@ I think it's important to be transparent about money, especially as a new busine
 
 I'm trying to be very tight with money this month. It's the first month that Dan and I are living off of his income only, so we can't be nearly as loose with our spending. We're also planning a wedding, so all of my business income is going straight into savings. However, things come up, so I definitely spent some money this week.
 
-* Our largest expense this week, nearly $250, was on items for our basement Airbnb. We're *so close *to being ready to list our space on Airbnb, but we needed a few last minute items. 
+* Our largest expense this week, nearly $250, was on items for our basement Airbnb. We're *so close *to being ready to list our space on Airbnb, but we needed a few last minute items. Luckily, we still have some savings in our house fund, so we used that to pay for this expense. We're hoping that we'll earn it back once we open it up for rent.
+
+* I renewed my membership with the Women's Information Network for $40 a year. This is another expense that I had money set aside for. Over the past few years, I saved money every month for non-monthly expenses like memberships, gifts, etc. So now I have a nice nest egg to cover these types of expenses for a while.
+
+* Groceries are pretty unavoidable. I've been doing Whole 30 this month, so what I can eat is restricted, but I need to eat a LOT of what I do eat. So we spent about $70 on groceries, including our Hungry Harvest order. 
+
+* We have basically lived at Home Depot since we bought our home. Last night, I bought $45 worth of paint for my office, which I used my business credit card for. We also bought a tile cutter for our kitchen backsplash, and some other paint supplies. Luckily, we had a Home Depot gift card, so our purchase was covered. 
 
 ## What I Wrote About
 
