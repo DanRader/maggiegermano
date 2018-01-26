@@ -33,14 +33,18 @@ I'm trying to be very tight with money this month. It's the first month that Dan
 
 ## What I'm Writing
 
-On Monday, I wrote about the Danish concept of [Hygge](https://www.maggiegermano.com/blog/how-to-hygge-on-a-budget/). I'm still waiting for my SmartWool socks to arrive in the mail.
+On Monday, I wrote about the Danish concept of [Hygge](https://www.maggiegermano.com/blog/how-to-hygge-on-a-budget/). And I'm still waiting for my SmartWool socks to arrive in the mail.
 
 ## What I'm Excited About
 
-I'm going to be featured on the Being Boss Podcast on Tuesday, January 30th! The hosts encourage people to call in and leave a message explaining how we are being boss in our own lives. I called a few weeks ago to tell them that I quit my day job to be a full-time business owner, and they will be playing the recording on the next episode!
+I'm going to be featured on the [Being Boss podcast](https://beingboss.club/podcast) on Tuesday, January 30th! The hosts encourage people to call in and leave a message explaining how we are being boss in our own lives. I called a few weeks ago to tell them that I quit my day job to be a full-time business owner, and they will be playing the recording on the next episode!
+
+[Money Circle](https://www.maggiegermano.com/moneycircle/) meetups started again this week! We took November and December off, but we're back! This week, we met to set motivating goals for 2018. It was a great group, and I can't wait for [February's gathering](https://www.maggiegermano.com/events/money-something-to-talk-about/)!
 
 ## What I'm Fan-Girling Over
 
 * [Unladylike](https://www.unladylike.co/podcast/)! Before Emilie and Bridget took over [Stuff Mom Never Told You](https://www.stuffmomnevertoldyou.com/), Caroline and Cristen were the hosts. Now they have a brand new podcast called Unladylike, which I'm so stoked to listen to. Their first episode, all about paying for an abortion, is up now!
+
+* My new teal accent wall in my home office! I couldn't help but make sure my office is totally on brand, and I love how it turned out!
 
 ## Money Tips to Take Into the Weekend
