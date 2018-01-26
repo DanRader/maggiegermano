@@ -37,7 +37,7 @@ On Monday, I wrote about the Danish concept of [Hygge](https://www.maggiegermano
 
 ## What I'm Excited About
 
-I'm going to be featured on the Being Boss Podcast on Tuesday, January 30th! The hosts encourage people to call in and leave a message explaining how we are being boss in our own lives. I called a few weeks ago to tell them that I quit my day job to be a full-time business owner, and they will be playing the recording on the next episode!
+I'm going to be featured on the [Being Boss podcast](https://beingboss.club/podcast) on Tuesday, January 30th! The hosts encourage people to call in and leave a message explaining how we are being boss in our own lives. I called a few weeks ago to tell them that I quit my day job to be a full-time business owner, and they will be playing the recording on the next episode!
 
 ## What I'm Fan-Girling Over
 
