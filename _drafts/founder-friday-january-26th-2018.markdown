@@ -9,6 +9,8 @@ image: "/uploads/Maggie%20Portraits-Maggie%20Portraits%2007%2023%2017-0022%20(1)
 
 Hey there! I'm trying something new this week, so let me know what you think in the comments. I want to write to you more than once a week, and I want you to get to know me better. So, inspired by my friend Emilie Aries of [Bossed Up](http://bossedup.org), I'm starting my own Founder Friday post. 
 
+I'll be talking about my money habits and experiences, I'll talk about what I'm excited about and what I'm up to. And of course, I'll close things out with a few tips for you as you go into the weekend. Let me know if there's anything different you would like to see from me!
+
 ## How I Earned Money This Week
 
 I think it's important to be transparent about money, especially as a new business owner. Just because I'm getting a lot of exposure on the internet doesn't mean that I'm earning as much money as I'd like to be earning. But I am earning some money; more than I was expecting for my first month as a full-time entrepreneur! Most of my clients pay monthly, so I'm not earning most of my money week by week, but I did have some other income this week.
