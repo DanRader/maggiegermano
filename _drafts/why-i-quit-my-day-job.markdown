@@ -21,6 +21,10 @@ I had been running my business as a side hustle for nearly 2 years. So what made
 
 ## I Want to Make an Impact
 
+It's always been important to me to feel like I'm making a difference in this world. When I was 8, I launched a campaign against my elementary school principal to implement a recycling program at the school. I drew pictures of kids recycling and everything. It didn't work, but I felt like it was my duty to speak up when I saw people throwing recyclables in the trash.
+
+When I first moved to DC, my passion was environmental advocacy and fighting to stop the effects of climate change. I worked at the National Wildlife Federation as an intern and then moved on to the Pew Charitable Trusts, where I worked for nearly 7.5 years. 
+
 ## I Was Running Out of Energy
 
 For nearly 2 years, I was working full-time and running my business on the side. I would take client calls during my lunch hour or after work. I would stay up late and spend weekends writing or following leads. I spent most of my free time working in some capacity. 
