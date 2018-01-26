@@ -43,4 +43,6 @@ I'm going to be featured on the [Being Boss podcast](https://beingboss.club/podc
 
 * [Unladylike](https://www.unladylike.co/podcast/)! Before Emilie and Bridget took over [Stuff Mom Never Told You](https://www.stuffmomnevertoldyou.com/), Caroline and Cristen were the hosts. Now they have a brand new podcast called Unladylike, which I'm so stoked to listen to. Their first episode, all about paying for an abortion, is up now!
 
+* My new teal accent wall in my home office! I couldn't help but make sure my office is totally on brand, and I love how it turned out!
+
 ## Money Tips to Take Into the Weekend
