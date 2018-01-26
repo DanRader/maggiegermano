@@ -38,4 +38,6 @@ I'm going to be featured on the Being Boss Podcast on Tuesday, January 30th! The
 
 ## Who I'm Fan-Girling Over
 
+* Unladylike! 
+
 ## Money Tips to Take Into the Weekend
