@@ -30,7 +30,11 @@ I'm trying to be very tight with money this month. It's the first month that Dan
 
 ## What I Wrote About
 
+On Monday, I wrote about the Danish concept of Hygge. I'm still waiting for my SmartWool socks to arrive in the mail.
+
 ## What I'm Excited About
+
+I'm going to be featured on the Being Boss Podcast on Tuesday, January 30th! The hosts encourage people to call in and leave a message explaining how we are being boss in our own lives. I called a few weeks ago to tell them that I quit my day job to be a full-time business owner, and they will be playing the recording on the next episode!
 
 ## Who I'm Fan-Girling Over
 
