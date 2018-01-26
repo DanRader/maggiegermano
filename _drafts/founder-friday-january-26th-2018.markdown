@@ -33,7 +33,7 @@ I'm trying to be very tight with money this month. It's the first month that Dan
 
 ## What I'm Writing
 
-On Monday, I wrote about the Danish concept of [Hygge](https://www.maggiegermano.com/blog/how-to-hygge-on-a-budget/). I'm still waiting for my SmartWool socks to arrive in the mail.
+On Monday, I wrote about the Danish concept of [Hygge](https://www.maggiegermano.com/blog/how-to-hygge-on-a-budget/). And I'm still waiting for my SmartWool socks to arrive in the mail.
 
 ## What I'm Excited About
 
