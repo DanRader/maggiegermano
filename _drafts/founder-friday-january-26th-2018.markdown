@@ -17,7 +17,7 @@ I think it's important to be transparent about money, especially as a new busine
 
 * On Monday, I babysat a 2-year-old using the babysitting app Chime. I made $67 after fees for 5 hours of babysitting, with about 90 minutes commuting round-trip. I probably won't do this again.
 
-* I got a new one-time session client for next week. One-time coaching sessions cost $200, which I earn, minus Stripe fees.
+* I got a new one-time session client for next week. One-time coaching sessions cost $200, which I take home, minus Stripe fees.
 
 ## How I Spent Money This Week
 
