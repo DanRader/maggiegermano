@@ -31,9 +31,9 @@ I'm trying to be very tight with money this month. It's the first month that Dan
 
 * We have basically lived at Home Depot since we bought our home. On Wednesday, I bought $45 worth of paint for my office, which I used my business credit card for. We also bought a tile cutter for our kitchen backsplash, and some other paint supplies. Luckily, we had a Home Depot gift card, so our purchase was covered. 
 
-## What I Wrote About
+## What I'm Writing
 
-On Monday, I wrote about the Danish concept of Hygge. I'm still waiting for my SmartWool socks to arrive in the mail.
+On Monday, I wrote about the Danish concept of [Hygge](https://www.maggiegermano.com/blog/how-to-hygge-on-a-budget/). I'm still waiting for my SmartWool socks to arrive in the mail.
 
 ## What I'm Excited About
 
