@@ -56,6 +56,8 @@ I'm going to be featured on the [Being Boss podcast](https://beingboss.club/podc
 
 * My new teal accent wall in my home office! I couldn't help but make sure my office is totally on brand, and I love how it turned out!
 
+![2018-01-26 14.38.26.jpg](/uploads/2018-01-26%2014.38.26.jpg)
+
 ## Money Tips to Take Into the Weekend
 
 * Look at how much you spent this week. That way, you can calculate how much you have to spend this weekend.
