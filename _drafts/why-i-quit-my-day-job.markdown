@@ -31,4 +31,10 @@ I also bought a house with my fiance in October. That was after months of lookin
 
 ## I Had Money in the Bank
 
+As I tell you readers and my clients, having an emergency savings account is super important for financial stability. I've prioritized this savings account for the last several years, and now have enough saved to pay my half of the mortgage for 2 years. Assuming I would make no money with my business this year, I would still have enough to pay my bills. I also have an emergency savings account for my business. I didn't pay myself from my business income at all up until now. That means I have money saved to cover my business expenses for quite some time. It will also allow me to attend conferences and take advantage of other professional development opportunities.
+
 ## I Have a Supportive Partner
+
+Now that I own a house and have a mortgage, I don't think I'd be able to take this risk without my fiance, Dan. He's always been incredibly supportive of my business - he designed my brand and built my website! But now, he is shifting his position to also be financially supportive. We've decided to do our best to live off of his salary only this year. Any money I bring in will go directly to our wedding savings and savings for other goals (like getting a corgi). 
+
+Now, I'm incredibly grateful and privileged to have a partner who is willing and earn enough money to support us both. However, as both a feminist and a financial coach, it makes me pretty uneasy to be relying on my partner financially! We had to have many uncomfortable conversations to get to this point and make sure we're ready for this big change. 
