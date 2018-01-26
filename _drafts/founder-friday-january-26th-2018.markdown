@@ -64,4 +64,4 @@ I'm going to be featured on the [Being Boss podcast](https://beingboss.club/podc
 
 * Choose one night to stay in and another to go out. This will ensure that you spend less, and also give you some time to recharge.
 
-* 
+* Log into your bank accounts and take a Money Minute. You might notice something that surprises you.
