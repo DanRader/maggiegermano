@@ -39,6 +39,6 @@ I'm going to be featured on the Being Boss Podcast on Tuesday, January 30th! The
 
 ## Who I'm Fan-Girling Over
 
-* Unladylike! 
+* [Unladylike](https://www.unladylike.co/podcast/)! Before Emilie and Bridget took over [Stuff Mom Never Told You](https://www.stuffmomnevertoldyou.com/), Caroline and Cristen were the hosts. Now they have a brand new podcast called Unladylike, which I'm so stoked to listen to. Their first episode, all about paying for an abortion, is up now!
 
 ## Money Tips to Take Into the Weekend
