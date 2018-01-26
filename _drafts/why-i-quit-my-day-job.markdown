@@ -13,9 +13,9 @@ posts:
 - How Money Can Help Me Feel How I Want to Feel
 ---
 
-On Tuesday, December 5, 2017, I told my boss that I would be resigning from my position at the end of the month. I was so nervous that my hands were shaking. I could even hear my voice trembling as I spoke. I had been pumping myself up to quit for days, and the anticipation was really stoking my anxiety. I was worried that my colleagues would be angry with me. I was scared that it wasn't the right decision. I was downright terrified that I would end up failing in my entrepreneur journey. But once the words were out, I could feel my body relax with relief. My boss was surprised and definitely sad that I was leaving, but she was also incredibly supportive. She knew I was running my business on the side, so she was excited that I felt ready to pursue it full-time. 
+On Tuesday, December 5, 2017, I told my boss that I would be resigning from my position at the end of the month. I was so nervous that my hands were shaking. I could even hear my voice trembling as I spoke. I had been pumping myself up to quit for days, and the anticipation was really stoking my anxiety. I was worried that my colleagues would be angry with me. I was scared that it wasn't the right decision. I was downright terrified that I would end up failing in my entrepreneur journey. But once the words were out, I could feel my body relax with relief. My boss was surprised and definitely sad that I was leaving, but she was also incredibly supportive. She knew I was running my business on the side, so she was excited that I felt ready to pursue it full-time. I was lucky to get a similar response from most of my colleagues. 
 
-I had been running my business as a side hustle for nearly 2 years. So what made me finally pull the trigger and quit my well-paid, very stable job?
+So what made me finally pull the trigger and quit my well-paid, very stable job?
 
 ## I Want to Make an Impact
 
