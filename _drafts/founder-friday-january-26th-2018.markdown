@@ -1,9 +1,10 @@
 ---
 title: 'Founder Friday: January 26th, 2018'
-date: 2018-01-26 11:00:00 -05:00
+date: 2018-01-26 13:00:00 -05:00
 categories:
 - lifestyle
 - Career
+image: "/uploads/Maggie%20Portraits-Maggie%20Portraits%2007%2023%2017-0022%20(1).jpg"
 ---
 
 Hey there! I'm trying something new this week, so let me know what you think in the comments. I want to write to you more than once a week, and I want you to get to know me better. So, inspired by my friend Emilie Aries of [Bossed Up](http://bossedup.org), I'm starting my own Founder Friday post. 
@@ -37,5 +38,7 @@ On Monday, I wrote about the Danish concept of Hygge. I'm still waiting for my S
 I'm going to be featured on the Being Boss Podcast on Tuesday, January 30th! The hosts encourage people to call in and leave a message explaining how we are being boss in our own lives. I called a few weeks ago to tell them that I quit my day job to be a full-time business owner, and they will be playing the recording on the next episode!
 
 ## Who I'm Fan-Girling Over
+
+* Unladylike! 
 
 ## Money Tips to Take Into the Weekend
