@@ -27,9 +27,9 @@ I'm trying to be very tight with money this month. It's the first month that Dan
 
 * I renewed my membership with the [Women's Information Network](http://winonline.org/) for $40 a year. This is another expense that I had money set aside for. Over the past few years, I saved money every month for non-monthly expenses like memberships, gifts, etc. So now I have a nice nest egg to cover these types of expenses for a while.
 
-* Groceries are pretty unavoidable. I've been doing Whole 30 this month, so what I can eat is restricted, but I need to eat a LOT of what I do eat. So we spent about $70 on groceries, including our Hungry Harvest order. 
+* Groceries are pretty unavoidable if you don't want to go hungry. I've been doing a [Whole 30](https://whole30.com/) this month, so what I can eat is restricted, but I need to eat a LOT of what I do eat. So we spent about $70 on groceries, including our [Hungry Harvest](http://hharvest.net/m5didTk) order. 
 
-* We have basically lived at Home Depot since we bought our home. Last night, I bought $45 worth of paint for my office, which I used my business credit card for. We also bought a tile cutter for our kitchen backsplash, and some other paint supplies. Luckily, we had a Home Depot gift card, so our purchase was covered. 
+* We have basically lived at Home Depot since we bought our home. On Wednesday, I bought $45 worth of paint for my office, which I used my business credit card for. We also bought a tile cutter for our kitchen backsplash, and some other paint supplies. Luckily, we had a Home Depot gift card, so our purchase was covered. 
 
 ## What I Wrote About
 
