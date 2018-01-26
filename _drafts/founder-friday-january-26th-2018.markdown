@@ -4,6 +4,7 @@ date: 2018-01-26 13:00:00 -05:00
 categories:
 - lifestyle
 - Career
+image: "/uploads/Maggie%20Portraits-Maggie%20Portraits%2007%2023%2017-0022%20(1).jpg"
 ---
 
 Hey there! I'm trying something new this week, so let me know what you think in the comments. I want to write to you more than once a week, and I want you to get to know me better. So, inspired by my friend Emilie Aries of [Bossed Up](http://bossedup.org), I'm starting my own Founder Friday post. 
