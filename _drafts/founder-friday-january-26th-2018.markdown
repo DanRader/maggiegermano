@@ -9,6 +9,8 @@ image: "/uploads/Maggie%20Portraits-Maggie%20Portraits%2007%2023%2017-0022%20(1)
 
 Hey there! I'm trying something new this week, so let me know what you think in the comments. I want to write to you more than once a week, and I want you to get to know me better. So, inspired by my friend Emilie Aries of [Bossed Up](http://bossedup.org), I'm starting my own Founder Friday post. 
 
+I'll be talking about my money habits and experiences, I'll talk about what I'm excited about and what I'm up to. And of course, I'll close things out with a few tips for you as you go into the weekend. Let me know if there's anything different you would like to see from me!
+
 ## How I Earned Money This Week
 
 I think it's important to be transparent about money, especially as a new business owner. Just because I'm getting a lot of exposure on the internet doesn't mean that I'm earning as much money as I'd like to be earning. But I am earning some money; more than I was expecting for my first month as a full-time entrepreneur! Most of my clients pay monthly, so I'm not earning most of my money week by week, but I did have some other income this week.
@@ -37,7 +39,7 @@ On Monday, I wrote about the Danish concept of Hygge. I'm still waiting for my S
 
 I'm going to be featured on the Being Boss Podcast on Tuesday, January 30th! The hosts encourage people to call in and leave a message explaining how we are being boss in our own lives. I called a few weeks ago to tell them that I quit my day job to be a full-time business owner, and they will be playing the recording on the next episode!
 
-## Who I'm Fan-Girling Over
+## What I'm Fan-Girling Over
 
 * [Unladylike](https://www.unladylike.co/podcast/)! Before Emilie and Bridget took over [Stuff Mom Never Told You](https://www.stuffmomnevertoldyou.com/), Caroline and Cristen were the hosts. Now they have a brand new podcast called Unladylike, which I'm so stoked to listen to. Their first episode, all about paying for an abortion, is up now!
 
