@@ -23,7 +23,9 @@ I had been running my business as a side hustle for nearly 2 years. So what made
 
 It's always been important to me to feel like I'm making a difference in this world. When I was 8, I launched a campaign against my elementary school principal to implement a recycling program at the school. I drew pictures of kids recycling and everything. It didn't work, but I felt like it was my duty to speak up when I saw people throwing recyclables in the trash.
 
-When I first moved to DC, my passion was environmental advocacy and fighting to stop the effects of climate change. I worked at the National Wildlife Federation as an intern and then moved on to the Pew Charitable Trusts, where I worked for nearly 7.5 years. 
+When I first moved to DC, my passion was environmental advocacy and fighting to stop the effects of climate change. I worked at the National Wildlife Federation as an intern and then moved on to the Pew Charitable Trusts, where I worked for nearly 7.5 years. Pew does amazing work. They tackle incredibly important issues throughout the world. However, my role within the organization didn't allow me to see the impact of that work. Of course, I was helping the organization run better by assisting campaigners with their strategies, but I couldn't truly see how my work was making the world a better place.
+
+The main reason I started my business was to make a difference in women's lives and help them to be financially secure. Money touches every part of our lives and can help or harm us, depending on our situation. I saw a need for support and guidance, and I decided to fill that need. Now, with my clients, I can see the changes they are able to make in their lives. I can see how their mindsets shift around money, and how they become more optimistic about their futures. I hear from my readers and followers about how my work makes them less afraid of money. They feel less alone. This work makes an impact and allows me to see and feel that impact everyday. 
 
 ## I Was Running Out of Energy
 
