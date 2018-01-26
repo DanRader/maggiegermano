@@ -8,7 +8,11 @@ image: "/uploads/Maggie%20Portraits-Maggie%20Portraits%2007%2023%2017-0022%20(1)
 tweet: 'Check out @maggiegermano''s first #founderfriday post! '
 ---
 
-Hey there! I'm trying something new this week, so let me know what you think in the comments. I want to write to you more than once a week, and I want you to get to know me better. So, inspired by my friend Emilie Aries of [Bossed Up](http://bossedup.org), I'm starting my own Founder Friday post. 
+Hey there! 
+
+![Maggie Portraits-Maggie Portraits 07 23 17-0008-842749.jpg](/uploads/Maggie%20Portraits-Maggie%20Portraits%2007%2023%2017-0008-842749.jpg)
+
+I'm trying something new this week, so let me know what you think in the comments. I want to write to you more than once a week, and I want you to get to know me better. So, inspired by my friend Emilie Aries of [Bossed Up](http://bossedup.org), I'm starting my own Founder Friday post. 
 
 I'll be talking about my money habits and experiences, I'll talk about what I'm excited about and what I'm up to. And of course, I'll close things out with a few tips for you as you go into the weekend. Let me know if there's anything different you would like to see from me!
 
