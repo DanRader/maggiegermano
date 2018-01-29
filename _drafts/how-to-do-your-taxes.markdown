@@ -8,8 +8,14 @@ posts:
 - Are you stressed out about doing your taxes?
 ---
 
-Give Yourself Plenty of Time
+It's the most wonderful time of the year! Just kidding, it's tax season. If you're traditionally employed, you should have received your W-2 by now, which means you have most of what you need to file your taxes. 
 
-Gather All Your Paperwork
+## Give Yourself Plenty of Time
 
-Ask For Help
+## Gather All Your Paperwork
+
+Like I mentioned above, you should have received your W-2 by January 31st. 
+
+## Find An Online Tax Platform
+
+## Ask For Help
