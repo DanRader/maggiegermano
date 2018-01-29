@@ -8,3 +8,8 @@ posts:
 - Are you stressed out about doing your taxes?
 ---
 
+Give Yourself Plenty of Time
+
+Gather All Your Paperwork
+
+Ask For Help
