@@ -1,5 +1,5 @@
 ---
-title: 'Founder Friday: January 26th, 2018'
+title: Founder Friday | Hygge, Babysitting, Being Boss
 date: 2018-01-26 15:00:00 -05:00
 categories:
 - lifestyle
