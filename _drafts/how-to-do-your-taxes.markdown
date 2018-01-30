@@ -14,7 +14,7 @@ It's the most wonderful time of the year! Just kidding, it's tax season. If you'
 
 ## Give Yourself Plenty of Time
 
-Tax Day is April 15th, which means it's the last day you can file your taxes without them being late. April may seem like it's really far away, but time has a way of speeding up when you're avoiding something. Before you know it, it's 10pm on Tax Day and you're furiously trying to finish filing your taxes. Don't let that be you! Start early so that you have time to finish things without stress. You never know what might come up, or if you're missing documents you need. Start gathering your needed information now and set a deadline that is sooner than April 15th. 
+Tax Day is April 15th, which means it's the last day you can file your taxes without them being late. April may seem like it's really far away, but time has a way of speeding up when you're avoiding something. Before you know it, it's 10pm on Tax Day and you're furiously trying to finish filing your taxes. Don't let that be you! Start early so that you have time to finish things without stress. You never know what might come up, or if you're missing documents you need. Start gathering your needed information now and set a deadline that is sooner than April 15th.
 
 ## Gather All Your Paperwork
 
@@ -22,8 +22,32 @@ Like I mentioned above, you should have received your W-2 by January 31st.
 
 ## Find An Online Tax Platform
 
-There are so many ways to do your taxes on your own. 
+There are so many ways to do your taxes on your own. As the internet expands, more and more platforms are becoming available.
+
+**[1. Turbo Tax](https://turbotax.intuit.com/)**
+
+This is the program that I usually use. The user experience is good (except for them trying to upsell you the whole time), and the process isn’t confusing. You can file your federal and state taxes for free (using Turbo Tax Absolute Zero). There are several other paid options, where you can get more support and advice while filing. I found out this year that it costs $89.99 to file business taxes using Turbo Tax, which makes me sad.
+
+**[2. H&R Block](https://www.hrblock.com/)**
+
+H&R Block is very similar to Turbo Tax. In fact, sometimes I fill in my information in both programs to see if one will get me a better refund. (That happened once, but usually the numbers are the same.) There is a free federal and state filing option (H&R Block More Zero), but they can also charge you for more premium features. According to their website, you can also meet with a tax pro in person and file your federal taxes, for free.
+
+**[3. Credit Karma Tax](https://www.creditkarma.com/tax)**
+
+Credit Karma is known for providing your credit score for free. And if you’re not already using it for that, you should! (**[Credit Sesame](http://creditsesame.go2cloud.org/aff_c?offer_id=23&aff_id=14)** is another option.) Last year, Credit Karma unveiled its brand new tax filing program. Credit Karma Tax has free federal and state e-filing. According to them, there is no paid option - it is all free, and there’s no annoying upselling!
+
+**[4. The Volunteer Income Tax Assistance Program](https://www.irs.gov/individuals/free-tax-return-preparation-for-you-by-volunteers)**
+
+This program is offered through the IRS. You qualify if you earn under $54,000, are disabled, or aren’t a fluent English speaker. IRS-certified volunteers provide free basic income tax return preparation with electronic filing to qualified individuals. So not only can you file for free, but you also get free support and guidance while completing your taxes.
+
+**[5. Free File Alliance](https://www.irs.gov/uac/free-file-do-your-federal-taxes-for-free)**
+
+This software is available to taxpayers who earn under $64,000 (which is 70% of us). The IRS has partnered with more than a dozen tax software companies to offer this program. You can search through the participating companies and choose which will work the best for you.
+
+**[6. My Free Taxes](http://www.unitedway.org/myfreetaxes/)**
+
+**[United Way](http://www.unitedway.org/)** has partnered with **[H&R Block](https://www.hrblock.com/)** to offer My Free Taxes. This program is also available to those who earn under $64,000 a year. According to their website, 80% of taxpayers who used this program finished filing their taxes in under an hour.
 
 ## Ask For Help
 
-Taxes can be overwhelming and scary. They are not designed in a way that is easy for people to understand. Plus, we aren't taught how to do our taxes in school. So how are you supposed to know what you're doing if no one ever taught you? Cut yourself some slack if you feel like you have no idea what you're doing. Then, ask for help. If your parents used to do your taxes for you, reach out to them for advice. Maybe they can walk you through it. Perhaps you have friends who get their taxes done in the blink of an eye every year. Ask them how they do it and see if they have time to answer your questions. If your tax issues are more complicated than just knowing how the process works, reach out to a professional. It may cost extra up front, but it can save you from owing money later if you made an error. 
+Taxes can be overwhelming and scary. They are not designed in a way that is easy for people to understand. Plus, we aren't taught how to do our taxes in school. So how are you supposed to know what you're doing if no one ever taught you? Cut yourself some slack if you feel like you have no idea what you're doing. Then, ask for help. If your parents used to do your taxes for you, reach out to them for advice. Maybe they can walk you through it. Perhaps you have friends who get their taxes done in the blink of an eye every year. Ask them how they do it and see if they have time to answer your questions. If your tax issues are more complicated than just knowing how the process works, reach out to a professional. It may cost extra up front, but it can save you from owing money later if you made an error.
