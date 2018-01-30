@@ -36,15 +36,11 @@ H&R Block is very similar to Turbo Tax. In fact, sometimes I fill in my informat
 
 Credit Karma is known for providing your credit score for free. And if you’re not already using it for that, you should! (**[Credit Sesame](http://creditsesame.go2cloud.org/aff_c?offer_id=23&aff_id=14)** is another option.) Last year, Credit Karma unveiled its brand new tax filing program. Credit Karma Tax has free federal and state e-filing. According to them, there is no paid option - it is all free, and there’s no annoying upselling!
 
-**[4. The Volunteer Income Tax Assistance Program](https://www.irs.gov/individuals/free-tax-return-preparation-for-you-by-volunteers)**
-
-This program is offered through the IRS. You qualify if you earn under $54,000, are disabled, or aren’t a fluent English speaker. IRS-certified volunteers provide free basic income tax return preparation with electronic filing to qualified individuals. So not only can you file for free, but you also get free support and guidance while completing your taxes.
-
-**[5. Free File Alliance](https://www.irs.gov/uac/free-file-do-your-federal-taxes-for-free)**
+**[4. Free File Alliance](https://www.irs.gov/uac/free-file-do-your-federal-taxes-for-free)**
 
 This software is available to taxpayers who earn under $64,000 (which is 70% of us). The IRS has partnered with more than a dozen tax software companies to offer this program. You can search through the participating companies and choose which will work the best for you.
 
-**[6. My Free Taxes](http://www.unitedway.org/myfreetaxes/)**
+**[5. My Free Taxes](http://www.unitedway.org/myfreetaxes/)**
 
 **[United Way](http://www.unitedway.org/)** has partnered with **[H&R Block](https://www.hrblock.com/)** to offer My Free Taxes. This program is also available to those who earn under $64,000 a year. According to their website, 80% of taxpayers who used this program finished filing their taxes in under an hour.
 
