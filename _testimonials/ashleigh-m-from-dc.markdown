@@ -5,4 +5,4 @@ position: 2
 image: "/uploads/Photo%20Jan%2017,%204%2020%2044%20PM.jpg"
 ---
 
-Working with Maggie completely reframed my approach to managing my finances. Financial planning used to be something something I actively avoided because it made me feel powerless. Since working with Maggie, I no longer fear my finances and see confronting my financial reality and planning for my future to be an incredibly empowering act of self love.
+Working with Maggie completely reframed my approach to managing my finances. Financial planning used to be something I actively avoided because it made me feel powerless. Since working with Maggie, I no longer fear my finances and see confronting my financial reality and planning for my future to be an incredibly empowering act of self love.
