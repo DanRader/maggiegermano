@@ -21,6 +21,8 @@ This week, I wrote about why I decided to quit my very stable day job and become
 
 ## What I'm Excited About
 
+* My grandma is taking our whole family to the Dominican Republic this summer! We're getting close to booking the stay and it's lovely to have warmth and sun to look forward to while it's still frigid outside.
+
 ## What I'm Fan-Girling Over
 
 * Kesha's performance of "Praying" at the Grammy's. I'm less keen on [Sony's tweet](https://www.spin.com/2018/01/grammys-2018-kesha-dr-luke-sony-music-tweet/) about the performance, considering they counter-sued her to keep her tethered to her abuser, Dr. Luke.
