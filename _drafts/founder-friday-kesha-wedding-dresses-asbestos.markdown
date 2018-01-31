@@ -5,11 +5,13 @@ date: 2018-02-02 15:00:00 -05:00
 
 ## How I Earned Money This Week
 
+* I got a new client for February, and she paid for 
+
 ## How I Spent Money This Week
 
 * I went out to lunch with two friends on Monday. I spent $9 on tacos at District Taco. Yum.
 
-* Homeownership is something. Somedays it feels like an actual money pit. I love our house but... it's expensive. This week, I spent $500 to get the vermiculite insulation in our attic tested for asbestos. Hurray! Luckily, I still had money set aside for this type of expense, so I didn't have to take a hit financially. 
+* Homeownership is something. Somedays it feels like an actual money pit. I love our house but... it's expensive. This week, I spent $500 to get the vermiculite insulation in our attic tested for asbestos. Hurray! Luckily, I still had money set aside for this type of expense, so I didn't have to take a hit financially.
 
 ## What I'm Writing
 
