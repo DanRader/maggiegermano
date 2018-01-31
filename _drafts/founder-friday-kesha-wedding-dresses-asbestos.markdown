@@ -5,7 +5,7 @@ date: 2018-02-02 15:00:00 -05:00
 
 ## How I Earned Money This Week
 
-* I got a new client for February, and she paid for 
+* I got a new client starting in February!
 
 ## How I Spent Money This Week
 
