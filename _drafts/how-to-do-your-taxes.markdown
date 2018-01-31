@@ -10,27 +10,29 @@ posts:
 - Are you stressed out about doing your taxes?
 ---
 
-It's the most wonderful time of the year! Just kidding, it's tax season. Taxes can feel overwhelming, so I wanted to give a little step-by-step to get you started. If you're traditionally employed, you should have received your W-2 by now, which means you have most of what you need to file your taxes. 
+It's the most wonderful time of the year! Just kidding, it's tax season. Taxes can feel overwhelming, so I wanted to give a little step-by-step to get you started. If you're traditionally employed, you should have received your W-2 by now, which means you at least have enough to begin. Here's what you should do.
 
 ## Give Yourself Plenty of Time
 
-Tax Day is April 15th, which means it's the last day you can file your taxes without them being late. April may seem like it's really far away, but time has a way of speeding up when you're avoiding something. Before you know it, it's 10pm on Tax Day and you're furiously trying to finish filing your taxes. Don't let that be you! Start early so that you have time to finish things without stress. You never know what might come up, or if you're missing documents you need. Start gathering your needed information now and set a deadline that is sooner than April 15th.
+Tax Day is April 15th, which means it's the last day you can file your taxes without them being late. April may seem like it's really far away, but time has a way of speeding up when you're avoiding something. Before you know it, it's 10pm on Tax Day and you're furiously trying to finish filing your taxes. Don't let that be you! Start early so that you have time to finish things without stress. You never know what might come up, or if you're missing documents you need. Start gathering your needed information now and set a deadline that is much sooner than April 15th.
 
 ## Gather All Your Paperwork
 
-Like I mentioned above, you should have received your W-2 by January 31st, if you have an employer.
+Like I mentioned above, you should have received your W-2 by January 31st, if you have an employer. But that's not the only thing that you need. Yes, if you have a very simple tax life, it might be the only thing, but most of us have other paperwork that is necessary. Here are the other items you might need, broken out by the category they are for.
 
 **Income:**
 
+* W-2 provided by an employer
+
 * 1099 forms for any contract work you completed, usually for payments over $600
 
-* Investment income information
+* Investment income information, from your bank or investment platform
 
 * Business income if you're self-employed in any way
 
 **Income Adjustment:**
 
-These items can help reduce how much you owe in taxes, so you will want to have them handy.
+These things can help reduce how much you owe in taxes, so you will want to have them handy.
 
 * Homebuyer tax credit
 
@@ -56,7 +58,7 @@ These items can help reduce how much you owe in taxes, so you will want to have 
 
 * Adoption costs
 
-* Charitable contributions/donations
+* Charitable contributions
 
 * Casualty and theft losses
 
@@ -66,7 +68,7 @@ These items can help reduce how much you owe in taxes, so you will want to have 
 
 * Job and moving expenses
 
-## Find An Online Tax Preparation Platform
+## Find An Online Tax Platform
 
 There are so many ways to do your taxes on your own. As the internet expands, more and more platforms are becoming available.
 
