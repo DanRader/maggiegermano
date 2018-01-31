@@ -1,6 +1,7 @@
 ---
 title: How To Do Your Taxes
 date: 2018-02-05 11:00:00 -05:00
+published: false
 image: "/uploads/taxes.jpg"
 tweet: 'Tax time can be scary. Here are some tips to make it less so. #taxes #money
   #taxseason'
@@ -70,11 +71,11 @@ These things can help reduce how much you owe in taxes, so you will want to have
 
 ## Find An Online Tax Platform
 
-There are so many ways to do your taxes on your own. As the internet expands, more and more platforms are becoming available.
+There are so many ways to do your taxes on your own. As the internet expands, more and more platforms are becoming available. Here are several that are either free or very affordable. 
 
 **[1. Turbo Tax](https://turbotax.intuit.com/)**
 
-This is the program that I usually use. The user experience is good (except for them trying to upsell you the whole time), and the process isn’t confusing. You can file your federal and state taxes for free (using Turbo Tax Absolute Zero). There are several other paid options, where you can get more support and advice while filing. I found out this year that it costs $89.99 to file business taxes using Turbo Tax, which makes me sad.
+This is the program that I usually use. The user experience is good (except for them trying to upsell you the whole time), and the process isn’t confusing. You can file your federal and state taxes for free (using Turbo Tax Absolute Zero). There are several other paid options, where you can get more support and advice while filing. I found out last year that it costs $89.99 to file business taxes using Turbo Tax, which made me sad.
 
 **[2. H&R Block](https://www.hrblock.com/)**
 
@@ -95,3 +96,5 @@ This software is available to taxpayers who earn under $64,000 (which is 70% of 
 ## Ask For Help
 
 Taxes can be overwhelming and scary. They are not designed in a way that is easy for people to understand. Plus, we aren't taught how to do our taxes in school. So how are you supposed to know what you're doing if no one ever taught you? Cut yourself some slack if you feel like you have no idea what you're doing. Then, ask for help. If your parents used to do your taxes for you, reach out to them for advice. Maybe they can walk you through it. Perhaps you have friends who get their taxes done in the blink of an eye every year. Ask them how they do it and see if they have time to answer your questions. If your tax issues are more complicated than just knowing how the process works, reach out to a professional. It may cost extra up front, but it can save you from owing money later if you made an error.
+
+Good luck!
