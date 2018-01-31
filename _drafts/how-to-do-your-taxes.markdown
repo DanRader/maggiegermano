@@ -18,13 +18,25 @@ Tax Day is April 15th, which means it's the last day you can file your taxes wit
 
 ## Gather All Your Paperwork
 
-Like I mentioned above, you should have received your W-2 by January 31st, if you have an employer. 
+Like I mentioned above, you should have received your W-2 by January 31st, if you have an employer.
+
+**Income Information:**
 
 * 1099 forms for any contract work you completed, usually for payments over $600
 
 * Investment income information
 
 * Business income if you're self-employed in any way
+
+**Income Adjustment Information:**
+
+These items can help reduce how much you owe in taxes, so you will want to have them handy.
+
+* x
+
+**Credits and Deductions:**
+
+* x
 
 ## Find An Online Tax Platform
 
