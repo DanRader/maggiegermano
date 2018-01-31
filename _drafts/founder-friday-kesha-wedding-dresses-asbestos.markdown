@@ -27,4 +27,6 @@ This week, I wrote about why I decided to quit my very stable day job and become
 
 * Kesha's performance of "Praying" at the Grammy's. I'm less keen on [Sony's tweet](https://www.spin.com/2018/01/grammys-2018-kesha-dr-luke-sony-music-tweet/) about the performance, considering they counter-sued her to keep her tethered to her abuser, Dr. Luke.
 
+* I started watching Crazy Ex-Girlfriend earlier this month and I'm still obsessed. The whole series is on Netflix, so dig in! If you've already watched it, try out all four seasons of Grace and Frankie instead. 
+
 ## Money Tips to Take Into the Weekend
