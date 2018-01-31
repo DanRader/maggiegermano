@@ -68,7 +68,7 @@ These things can help reduce how much you owe in taxes, so you will want to have
 
 * Job and moving expenses
 
-## Find An Online Tax Preparation Platform
+## Find An Online Tax Platform
 
 There are so many ways to do your taxes on your own. As the internet expands, more and more platforms are becoming available.
 
