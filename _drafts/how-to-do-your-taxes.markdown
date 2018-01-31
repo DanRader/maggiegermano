@@ -10,7 +10,7 @@ posts:
 - Are you stressed out about doing your taxes?
 ---
 
-It's the most wonderful time of the year! Just kidding, it's tax season. If you're traditionally employed, you should have received your W-2 by now, which means you have most of what you need to file your taxes.
+It's the most wonderful time of the year! Just kidding, it's tax season. Taxes can feel overwhelming, so I wanted to give a little step-by-step to get you started. If you're traditionally employed, you should have received your W-2 by now, which means you have most of what you need to file your taxes. 
 
 ## Give Yourself Plenty of Time
 
