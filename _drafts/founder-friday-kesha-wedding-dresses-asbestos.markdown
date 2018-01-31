@@ -11,7 +11,7 @@ date: 2018-02-02 15:00:00 -05:00
 
 * I went out to lunch with two friends on Monday. I spent $9 on tacos at District Taco. Yum.
 
-* Homeownership is something. Somedays it feels like an actual money pit. I love our house but... it's expensive. This week, I spent $500 to get the vermiculite insulation in our attic tested for asbestos. Hurray! Luckily, I still had money set aside for this type of expense, so I didn't have to take a hit financially.
+* Homeownership is something. Somedays it feels like an actual money pit. I love our house but... it's expensive. This week, I spent $275 to get the vermiculite insulation in our attic tested for asbestos. Hurray! Luckily, I still had money set aside for this type of expense, so I didn't have to take a hit financially. **Pot twist:** the substance wasn't even vermiculite and contained no asbestos. So all is well, even though the testing expense was kind of a waste.
 
 * We had quite a bit of groceries left over from last week, so we only spent about $20 on groceries this week. Plus, we made a beef stew that lasted us most of the week!
 
