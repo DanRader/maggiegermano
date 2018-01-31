@@ -36,9 +36,23 @@ These items can help reduce how much you owe in taxes, so you will want to have 
 
 **Credits and Deductions:**
 
-* x
+* Education costs
 
-## Find An Online Tax Platform
+* Childcare costs
+
+* Adoption costs
+
+* Charitable contributions/donations
+
+* Casualty and theft losses
+
+* Qualified business expenses
+
+* Medical expenses
+
+* Job and moving expenses
+
+## Find An Online Tax Preparation Platform
 
 There are so many ways to do your taxes on your own. As the internet expands, more and more platforms are becoming available.
 
