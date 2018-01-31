@@ -32,7 +32,21 @@ Like I mentioned above, you should have received your W-2 by January 31st, if yo
 
 These items can help reduce how much you owe in taxes, so you will want to have them handy.
 
-* x
+* Homebuyer tax credit
+
+* Green energy credits
+
+* IRA contributions
+
+* Mortgage interest
+
+* Student loan interest
+
+* Medical Savings Account contributions
+
+* Self-employed health insurance
+
+* Moving expenses
 
 **Credits and Deductions:**
 
