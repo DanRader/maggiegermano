@@ -2,6 +2,10 @@
 title: Founder Friday | Kesha, Wedding Dresses, Asbestos
 date: 2018-02-02 15:00:00 -05:00
 image: "/uploads/Maggie%20Portraits-Maggie%20Portraits%2007%2023%2017-0023.jpg"
+posts:
+- Founder Friday | Hygge, Babysitting, Being Boss
+- Why I Quit My Job to Be a Full-Time Financial Coach
+- How to Hygge on a Budget
 ---
 
 ## How I Earned Money This Week
