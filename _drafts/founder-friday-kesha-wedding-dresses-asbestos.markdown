@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Kesha, Wedding Dresses, Asbestos
 date: 2018-02-02 15:00:00 -05:00
+image: "/uploads/Maggie%20Portraits-Maggie%20Portraits%2007%2023%2017-0023.jpg"
 ---
 
 ## How I Earned Money This Week
