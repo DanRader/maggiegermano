@@ -9,7 +9,7 @@ posts:
 - How to Hygge on a Budget
 ---
 
-TGIF! Is anyone else dancing into the weekend? This weekend won't be very relaxing for me, but I'm looking forward to it nonetheless. If you haven't seen my first #FounderFriday post yet, [check it out](https://www.maggiegermano.com/blog/founder-friday-january-26th-2018/)!
+TGIF! Is anyone else dancing into the weekend? This weekend won't be very relaxing for me, but I'm looking forward to it nonetheless. If you haven't seen my first #FounderFriday post yet, [check it out](https://www.maggiegermano.com/blog/founder-friday-january-26th-2018/)! I've been up to a bunch of things this week, many of which cost money.
 
 ## How I Earned Money This Week
 
