@@ -2,6 +2,7 @@
 title: Founder Friday | Kesha, Wedding Dresses, Asbestos
 date: 2018-02-02 15:00:00 -05:00
 image: "/uploads/Maggie%20Portraits-Maggie%20Portraits%2007%2023%2017-0023.jpg"
+tweet: 'It''s #FounderFriday again! Check out what I spent #money on this week. '
 posts:
 - Founder Friday | Hygge, Babysitting, Being Boss
 - Why I Quit My Job to Be a Full-Time Financial Coach
@@ -32,11 +33,11 @@ This week, I wrote about why I decided to quit my very stable day job and become
 
 * My grandma is taking our whole family to the Dominican Republic this summer! We're getting close to booking the stay and it's lovely to have warmth and sun to look forward to while it's still frigid outside.
 
-* I found my wedding dress! For some reason, I was really stressed about finding an affordable wedding dress that I liked. I went dress shopping back in December with my mom, sisters, bridesmaids, and niece and didn't have much luck. But this week, I went to [BHLDN](https://www.bhldn.com/) with my friend Liz and fell in love with the second dress I put on. The icing on the cake? It only costs $240! For context, that average bride spends $1,200-1,500 on her wedding dress. I knew I did not want to spend that much, so I'm thrilled that I found a super affordable dress that I love!
+* I found my wedding dress! For some reason, I was really stressed about finding an affordable wedding dress that I liked. I went dress shopping back in December with my mom, sisters, bridesmaids, and niece and didn't have much luck. But this week, I went to [BHLDN](https://www.bhldn.com/) with my friend Liz and fell in love with the second dress I put on. The icing on the cake? It only costs $240! For context, that average bride spends [$1,500](https://www.theknot.com/content/average-cost-of-wedding-dress-2016) on her wedding dress. I knew I did not want to spend that much, so I'm thrilled that I found a super affordable dress that I love!
 
 * I was (briefly) quoted in [CNN Monday](http://money.cnn.com/2018/02/01/pf/new-career-budget-lower-paycheck/index.html) this week! I talked about how to prepare if you're going to take a pay cut for a career change. 
 
-![2018-02-01 20.51.21.jpg](/uploads/2018-02-01%2020.51.21.jpg)
+![2018-02-01 20.51.21-ef3d76.jpg](/uploads/2018-02-01%2020.51.21-ef3d76.jpg)
 
 ## What I'm Fan-Girling Over
 
@@ -46,10 +47,12 @@ This week, I wrote about why I decided to quit my very stable day job and become
 
 * I started reading [Nasty Women](https://www.amazon.com/Nasty-Women-Feminism-Resistance-Revolution/dp/1250155509), a compilation of essays by awesome women like Samantha Irby, Jessica Valenti, and Cheryl Strayed. It's both infuriating and wonderful.
 
-![2018-01-22 23.29.57.jpg](/uploads/2018-01-22%2023.29.57.jpg)
+![2018-01-22 23.29.57-36f7cb.jpg](/uploads/2018-01-22%2023.29.57-36f7cb.jpg)
 
 ## Money Tips to Take Into the Weekend
 
 * Invite a friend (or two) over for a home cooked meal instead of going out to a restaurant. It will save you money AND you can bring your own wine.
+
+* 
 
 Happy Friday!
