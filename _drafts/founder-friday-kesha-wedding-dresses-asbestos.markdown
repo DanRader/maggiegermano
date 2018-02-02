@@ -55,6 +55,6 @@ This week, I wrote about why I decided to quit my very stable day job and become
 
 * Start gathering your tax documents together so you don't put off filing for too long.
 
-* 
+* Look at your calendar for next week. Based on your plans, how much money do you think you'll spend? Let that inform how much you spend this weekend. 
 
 Happy Friday!
