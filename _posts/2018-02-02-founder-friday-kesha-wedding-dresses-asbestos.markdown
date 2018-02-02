@@ -15,7 +15,7 @@ TGIF! Is anyone else dancing into the weekend? This weekend won't be very relaxi
 
 * I have two new clients starting in February!
 
-# How I Spent Money This Week
+## How I Spent Money This Week
 
 * I went out to lunch with two friends on Monday. I spent $9 on tacos at District Taco. Yum.
 
