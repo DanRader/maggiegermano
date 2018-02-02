@@ -58,3 +58,5 @@ This week, I wrote about why I decided to quit my very stable day job and become
 * Look at your calendar for next week. Based on your plans, how much money do you think you'll spend? Let that inform how much you spend this weekend. 
 
 Happy Friday!
+
+*What do you think of my #FounderFriday posts so far? Let me know in the comments!*
