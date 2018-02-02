@@ -13,9 +13,9 @@ TGIF! Is anyone else dancing into the weekend?
 
 ## How I Earned Money This Week
 
-* I got a new client starting in February!
+* I have two new clients starting in February!
 
-## How I Spent Money This Week
+# How I Spent Money This Week
 
 * I went out to lunch with two friends on Monday. I spent $9 on tacos at District Taco. Yum.
 
