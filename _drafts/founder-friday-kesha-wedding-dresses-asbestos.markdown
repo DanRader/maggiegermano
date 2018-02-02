@@ -2,6 +2,10 @@
 title: Founder Friday | Kesha, Wedding Dresses, Asbestos
 date: 2018-02-02 15:00:00 -05:00
 image: "/uploads/Maggie%20Portraits-Maggie%20Portraits%2007%2023%2017-0023.jpg"
+posts:
+- Founder Friday | Hygge, Babysitting, Being Boss
+- Why I Quit My Job to Be a Full-Time Financial Coach
+- How to Hygge on a Budget
 ---
 
 ## How I Earned Money This Week
@@ -23,6 +27,8 @@ This week, I wrote about why I decided to quit my very stable day job and become
 ## What I'm Excited About
 
 * My grandma is taking our whole family to the Dominican Republic this summer! We're getting close to booking the stay and it's lovely to have warmth and sun to look forward to while it's still frigid outside.
+
+* I found my wedding dress!
 
 ## What I'm Fan-Girling Over
 
