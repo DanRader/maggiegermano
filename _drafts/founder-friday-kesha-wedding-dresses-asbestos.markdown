@@ -9,7 +9,7 @@ posts:
 - How to Hygge on a Budget
 ---
 
-TGIF! Is anyone else dancing into the weekend? 
+TGIF! Is anyone else dancing into the weekend? This weekend won't be very relaxing for me, but I'm looking forward to it nonetheless. 
 
 ## How I Earned Money This Week
 
@@ -35,7 +35,7 @@ This week, I wrote about why I decided to quit my very stable day job and become
 
 * I found my wedding dress! For some reason, I was really stressed about finding an affordable wedding dress that I liked. I went dress shopping back in December with my mom, sisters, bridesmaids, and niece and didn't have much luck. But this week, I went to [BHLDN](https://www.bhldn.com/) with my friend Liz and fell in love with the second dress I put on. The icing on the cake? It only costs $240! For context, that average bride spends [$1,500](https://www.theknot.com/content/average-cost-of-wedding-dress-2016) on her wedding dress. I knew I did not want to spend that much, so I'm thrilled that I found a super affordable dress that I love!
 
-* I was (briefly) quoted in [CNN Monday](http://money.cnn.com/2018/02/01/pf/new-career-budget-lower-paycheck/index.html) this week! I talked about how to prepare if you're going to take a pay cut for a career change. 
+* I was (briefly) quoted in [CNN Monday](http://money.cnn.com/2018/02/01/pf/new-career-budget-lower-paycheck/index.html) this week! I talked about how to prepare if you're going to take a pay cut for a career change.
 
 ![2018-02-01 20.51.21-ef3d76.jpg](/uploads/2018-02-01%2020.51.21-ef3d76.jpg)
 
@@ -43,7 +43,7 @@ This week, I wrote about why I decided to quit my very stable day job and become
 
 * Kesha's performance of "Praying" at the Grammy's. I'm less keen on [Sony's tweet](https://www.spin.com/2018/01/grammys-2018-kesha-dr-luke-sony-music-tweet/) about the performance, considering they counter-sued her to keep her tethered to her abuser, Dr. Luke.
 
-* I started watching Crazy Ex-Girlfriend earlier this month and I'm still obsessed. The whole series is on Netflix, so dig in! If you've already watched it, try out all four seasons of Grace and Frankie instead. 
+* I started watching Crazy Ex-Girlfriend earlier this month and I'm still obsessed. The whole series is on Netflix, so dig in! If you've already watched it, try out all four seasons of Grace and Frankie instead.
 
 * I started reading [Nasty Women](https://www.amazon.com/Nasty-Women-Feminism-Resistance-Revolution/dp/1250155509), a compilation of essays by awesome women like Samantha Irby, Jessica Valenti, and Cheryl Strayed. It's both infuriating and wonderful.
 
