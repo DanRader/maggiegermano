@@ -9,7 +9,7 @@ posts:
 - How to Hygge on a Budget
 ---
 
-TGIF! Is anyone else dancing into the weekend? This weekend won't be very relaxing for me, but I'm looking forward to it nonetheless. If you haven't seen my first #FounderFriday post yet, check it out! 
+TGIF! Is anyone else dancing into the weekend? This weekend won't be very relaxing for me, but I'm looking forward to it nonetheless. If you haven't seen my first #FounderFriday post yet, [check it out](https://www.maggiegermano.com/blog/founder-friday-january-26th-2018/)!
 
 ## How I Earned Money This Week
 
@@ -55,7 +55,7 @@ This week, I wrote about why I decided to quit my very stable day job and become
 
 * Start gathering your tax documents together so you don't put off filing for too long.
 
-* Look at your calendar for next week. Based on your plans, how much money do you think you'll spend? Let that inform how much you spend this weekend. 
+* Look at your calendar for next week. Based on your plans, how much money do you think you'll spend? Let that inform how much you spend this weekend.
 
 Happy Friday!
 
