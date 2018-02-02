@@ -28,7 +28,7 @@ This week, I wrote about why I decided to quit my very stable day job and become
 
 * My grandma is taking our whole family to the Dominican Republic this summer! We're getting close to booking the stay and it's lovely to have warmth and sun to look forward to while it's still frigid outside.
 
-* I found my wedding dress!
+* I found my wedding dress! For some reason, I was really stressed about finding an affordable wedding dress that I liked. I went dress shopping back in December with my mom, sisters, bridesmaids, and niece and didn't have much luck. But this week, I went to BHLDN with my friend Liz and fell in love with the second dress I put on. The icing on the cake? It only costs $240! For context, that average bride spends $1,200-1,500 on her wedding dress. I knew I did not want to spend that much, so I'm thrilled that I found a super affordable dress that I love!
 
 ## What I'm Fan-Girling Over
 
