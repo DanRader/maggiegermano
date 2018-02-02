@@ -41,9 +41,9 @@ This week, I wrote about why I decided to quit my very stable day job and become
 
 ## What I'm Fan-Girling Over
 
-* Kesha's performance of "Praying" at the Grammy's. I'm less keen on [Sony's tweet](https://www.spin.com/2018/01/grammys-2018-kesha-dr-luke-sony-music-tweet/) about the performance, considering they counter-sued her to keep her tethered to her abuser, Dr. Luke.
+* Kesha's performance of ["Praying"](https://www.vox.com/culture/2018/1/28/16943794/grammys-2018-kesha-performance-praying-times-up) at the Grammy's. I'm less keen on [Sony's tweet](https://www.spin.com/2018/01/grammys-2018-kesha-dr-luke-sony-music-tweet/) about the performance, considering they counter-sued her to keep her tethered to her abuser, Dr. Luke.
 
-* I started watching Crazy Ex-Girlfriend earlier this month and I'm still obsessed. The whole series is on Netflix, so dig in! If you've already watched it, try out all four seasons of Grace and Frankie instead.
+* I started watching [Crazy Ex-Girlfriend](http://www.cwtv.com/shows/crazy-ex-girlfriend/) earlier this month and I'm still obsessed. The whole series is on Netflix, so dig in! If you've already watched it, try out all four seasons of Grace and Frankie instead.
 
 * I started reading [Nasty Women](https://www.amazon.com/Nasty-Women-Feminism-Resistance-Revolution/dp/1250155509), a compilation of essays by awesome women like Samantha Irby, Jessica Valenti, and Cheryl Strayed. It's both infuriating and wonderful.
 
