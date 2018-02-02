@@ -53,6 +53,8 @@ This week, I wrote about why I decided to quit my very stable day job and become
 
 * Invite a friend (or two) over for a home cooked meal instead of going out to a restaurant. It will save you money AND you can bring your own wine.
 
+* Start gathering your tax documents together so you don't put off filing for too long.
+
 * 
 
 Happy Friday!
