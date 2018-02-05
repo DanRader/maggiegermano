@@ -1,5 +1,5 @@
 ---
-title: Founder Friday | Taxes, Tea, and
+title: Founder Friday | Taxes, Tea, and Boobs
 date: 2018-02-09 15:00:00 -05:00
 ---
 
