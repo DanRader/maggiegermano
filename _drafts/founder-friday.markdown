@@ -23,7 +23,7 @@ It's tax season, so [I wrote about](https://www.maggiegermano.com/blog/how-to-do
 
 * Loving the [Stuff Mom Never Told You](https://www.stuffmomnevertoldyou.com/podcasts/can-marriage-be-feminist.htm) episode about whether marriage can be feminist. Bonus: Jill Filipovic is the guest! Can't wait to read her book, *[The H-Spot: The Feminist Pursuit of Happiness](https://www.amazon.com/H-Spot-Feminist-Pursuit-Happiness/dp/1568585470)*.
 
-* Pretty websites that also help us take care of ourselves. Check out [Touch-Yourself.com](http://touch-yourself.com/) to learn how to properly give yourself a breast exam. 
+* I also enjoy pretty websites that also help us take care of ourselves. Check out [Touch-Yourself.com](http://touch-yourself.com/) to learn how to properly give yourself a breast exam. 
 
 ## Money Tips to Take Into the Weekend
 
