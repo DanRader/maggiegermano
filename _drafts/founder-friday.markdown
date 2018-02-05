@@ -1,5 +1,5 @@
 ---
-title: Founder Friday |
+title: Founder Friday | Taxes, Tea, and
 date: 2018-01-30 18:43:00 -05:00
 ---
 
