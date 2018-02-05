@@ -24,3 +24,7 @@ It's tax season, so [I wrote about](https://www.maggiegermano.com/blog/how-to-do
 * Loving the [Stuff Mom Never Told You](https://www.stuffmomnevertoldyou.com/podcasts/can-marriage-be-feminist.htm) episode about whether marriage can be feminist. Bonus: Jill Filipovic is the guest! Can't wait to read her book, *[The H-Spot: The Feminist Pursuit of Happiness](https://www.amazon.com/H-Spot-Feminist-Pursuit-Happiness/dp/1568585470)*.
 
 ## Money Tips to Take Into the Weekend
+
+* If you're in the DC area, it's going to be raining all weekend. So grab some affordable snacks and snuggle in for the weekend. Don't want to be alone? Invite a friend over to watch your favorite old movies and eat homemade popcorn.
+
+* 
