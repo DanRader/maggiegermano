@@ -12,6 +12,7 @@ button-text: Sign Me Up!
 ticket-price: "$20"
 ---
 
+Freaking out about tax season? Taxes can feel confusing and overwhelming. Come to Money Circle in March to get your questions answered! 
 
 We'll be joined by Cady North, the founder and CEO of North Financial Advisors. 
 
