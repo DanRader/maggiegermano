@@ -3,7 +3,7 @@ title: Founder Friday |
 date: 2018-01-30 18:43:00 -05:00
 ---
 
-How I Earned Money This Week
+## How I Earned Money This Week
 
 ## How I Spent Money This Week
 
