@@ -11,6 +11,8 @@ Happy Friday! I hope you survived the week without too much stress.
 
 * On Sunday, I met up with my friend Nina for tea and some shopping. I had a coupon for a free drink at Bakers and Baristas, so I only spent $3.50 on my chocolate croissant. Then we went to LOFT, where I spent $60 on a blouse and a cardigan. Each item was originally $50, so I got a great discount. I've been slowly trying to create a wardrobe that I'm happy and confident in, so I'm glad that I was able to find two pieces that I like!
 
+* I bought an (teal) arm chair and a new light fixture for my home office! I've been waiting to do this for about two months, and I have the business savings to cover the costs. **Bonus:** the expense will be tax-deductible since it's for the office I use exclusively for my business. 
+
 ## What I'm Writing
 
 It's tax season, so [I wrote about](https://www.maggiegermano.com/blog/how-to-do-your-taxes/) how to get started on doing your taxes. It doesn't have to be the most stressful time of year!
@@ -23,7 +25,7 @@ It's tax season, so [I wrote about](https://www.maggiegermano.com/blog/how-to-do
 
 * Loving the [Stuff Mom Never Told You](https://www.stuffmomnevertoldyou.com/podcasts/can-marriage-be-feminist.htm) episode about whether marriage can be feminist. Bonus: Jill Filipovic is the guest! Can't wait to read her book, *[The H-Spot: The Feminist Pursuit of Happiness](https://www.amazon.com/H-Spot-Feminist-Pursuit-Happiness/dp/1568585470)*.
 
-* I also enjoy pretty websites that also help us take care of ourselves. Check out [Touch-Yourself.com](http://touch-yourself.com/) to learn how to properly give yourself a breast exam. 
+* I also enjoy pretty websites that also help us take care of ourselves. Check out [Touch-Yourself.com](http://touch-yourself.com/) to learn how to properly give yourself a breast exam.
 
 ## Money Tips to Take Into the Weekend
 
