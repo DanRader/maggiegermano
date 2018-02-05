@@ -17,7 +17,7 @@ It's tax season, so [I wrote about](https://www.maggiegermano.com/blog/how-to-do
 
 ## What I'm Excited About
 
-* Dan and I booked our wedding photographer and I officially bought my wedding dress! When things start getting done and I can cross them off my list, this all feels a lot more exciting and real.
+* Dan and I booked our wedding photographer and I officially bought my wedding dress (with tax, it was $254.40)! When things start getting done and I can cross them off my list, this all feels a lot more exciting and real.
 
 ## What I'm Fan-Girling Over
 
