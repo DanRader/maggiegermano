@@ -1,6 +1,6 @@
 ---
 title: Founder Friday | Taxes, Tea, and
-date: 2018-01-30 18:43:00 -05:00
+date: 2018-02-09 15:00:00 -05:00
 ---
 
 Happy Friday! I hope you survived the week without too much stress. 
