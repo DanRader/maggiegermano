@@ -16,6 +16,8 @@ Freaking out about tax season? I'm sure you're not alone! Taxes can feel confusi
 
 We'll be joined by [Cady North](https://www.northfinancialadvisors.com/), the founder and CEO of North Financial Advisors. She will talk about how taxes fit into your overarching financial goals, and answer your questions. 
 
+See you there?
+
 --
 
 Money Circle is a safe open space where women can ask questions, air their fears, brag about accomplishments, and be honest about any confusion they may have around money.
