@@ -12,9 +12,9 @@ button-text: Sign Me Up!
 ticket-price: "$20"
 ---
 
-Freaking out about tax season? Taxes can feel confusing and overwhelming. But you're absolutely not alone. Come to Money Circle in March to get your questions answered!
+Freaking out about tax season? I'm sure you're not alone! Taxes can feel confusing and overwhelming. Plus, many of us never really learned much about them. That's why I want to create a space where you can ask questions and talk about how taxes fit into the bigger picture of our lives.
 
-We'll be joined by Cady North, the founder and CEO of North Financial Advisors. She will talk about how taxes fit into your overarching financial goals, and answer questions you might have. 
+We'll be joined by [Cady North](https://www.northfinancialadvisors.com/), the founder and CEO of North Financial Advisors. She will talk about how taxes fit into your overarching financial goals, and answer your questions. 
 
 --
 
