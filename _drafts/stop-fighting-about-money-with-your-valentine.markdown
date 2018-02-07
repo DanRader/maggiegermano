@@ -41,6 +41,10 @@ Of course, you don't have to report back to your partner for every dollar you sp
 
 ## Combine Some of Your Finances
 
-I personally am not a proponent for combining *all* of our money in a romantic relationship. This opinion mostly comes from my overprotectiveness of women and wanting them to have their own financial security in the case of a relationship dissolution. However, according to this study, Couples who co-mingled their financial accounts were more likely to report having shared financial goals and seeing eye-to-eye on their finances.
+I personally am not a proponent for combining *all* of our money in a romantic relationship. This opinion mostly comes from my overprotectiveness of women and wanting them to have their own financial security in the case of a relationship dissolution. However, according to this study, couples who co-mingled their financial accounts were more likely to report having shared financial goals and seeing eye-to-eye on their finances.
+
+In my own relationship, things did start to improve when we got a shared credit card. We use this card for any purchase that we are sharing responsibility for. It makes it so much easier to track our joint spending and split costs accordingly. Before we got the card, I always worried one of us was spending more than the other on things like groceries. I wanted to make sure things were fair, and the credit card has helped with that. Now that we own a house together and are saving for our wedding and other goals, we have opened a joint checking and a couple joint savings accounts. This way, we can put money for the mortgage and our savings goals directly into the accounts where we both can see. It makes it much easier to track our progress, and I'm no longer anxious to get Dan to transfer money to me for the mortgage at the end of the month.
+
+So, I still think that people in couples should maintain their own accounts, there definitely is a benefit in having joint accounts.  
 
 ## Be Empathetic
