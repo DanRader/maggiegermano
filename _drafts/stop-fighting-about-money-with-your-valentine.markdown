@@ -31,7 +31,7 @@ One of the most important things in a relationship is to talk about your goals t
 
 ## Define Family Goals, If You Have Them
 
-Do you want to have children someday? Do you want to buy a home? According to the U.S. Department of Agriculture, the cost of raising a child to the age of 17 is roughly $250,000. That's a lot of money, even if it's spread over 17 years! It's important to be in agreement with your partner about big decisions like this one. Plus, you might be surprised to learn things about what your partner does or doesn't want in the future, especially if you've never discussed this before. 
+Do you want to have children someday? Do you want to buy a home? According to the U.S. Department of Agriculture, the cost of raising a child to the age of 17 is roughly $250,000. That's a lot of money, even if it's spread over 17 years! It's important to be in agreement with your partner about big decisions like this one. Plus, you might be surprised to learn things about what your partner does or doesn't want in the future, especially if you've never discussed this before.
 
 ## Be Transparent
 
@@ -41,6 +41,6 @@ Of course, you don't have to report back to your partner for every dollar you sp
 
 ## Combine Some of Your Finances
 
-I personally am not a proponent for combining *all *of our money in a romantic relationship. This opinion mostly comes from my overprotectiveness of women and wanting them to have their own financial security in the case of a relationship dissolution. 
+I personally am not a proponent for combining *all* of our money in a romantic relationship. This opinion mostly comes from my overprotectiveness of women and wanting them to have their own financial security in the case of a relationship dissolution. However, according to this study, Couples who co-mingled their financial accounts were more likely to report having shared financial goals and seeing eye-to-eye on their finances.
 
 ## Be Empathetic
