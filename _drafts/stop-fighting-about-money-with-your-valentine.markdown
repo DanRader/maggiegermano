@@ -56,3 +56,7 @@ So, I still think that people in couples should maintain their own accounts, the
 Empathy and understanding is so, so important when you're talking to anyone about money. But it's especially important when you're talking to your romantic partner. When you're having difficult conversations, try to see things from your partner's point of view. Try to remove your own biases and understand where they are coming from, given their experiences. 
 
 Think about it like you're both from completely different planets. Pretend that you're both coming from a place with different customs, laws, and practices. If you try to remember that your partner does not have the same thoughts and experiences as you do, it's so much easier to listen to them with empathy. I learned this in a recent [Imago Center](http://www.imagocenterdc.com/workshops/start-right-stay-connected-an-imago-premarital-workshop/) pre-marital workshop, and it's a fascinating exercise and really allows you to have more impactful conversations with your partner. You can use this approach in any difficult conversation with your partner too, not just with money!
+
+--
+
+*How do you and your partner talk about money? Have you ever used any of these tips? Share your story in the comments!*
