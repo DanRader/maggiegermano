@@ -23,7 +23,7 @@ Do you, like 21 percent of the marriages in this study, exhibit behaviors of unh
 
 * Not understanding each other’s position in arguments
 
-But it doesn't have to be this way! Even if this is how your relationship has felt so far, there are changes that you can make to improve things.
+But it doesn't have to be this way! Even if this is how your relationship has felt so far, there are changes that you can make to improve how you talk about money.
 
 ## Discuss Your Financial Goals
 
