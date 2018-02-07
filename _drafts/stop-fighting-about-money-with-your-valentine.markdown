@@ -27,7 +27,7 @@ But it doesn't have to be this way! Even if this is how your relationship has fe
 
 ## Discuss Your Financial Goals
 
-One of the most important things in a relationship is to talk about your goals together. You individual goals and your goals as a couple. You  might learn things about your partner that you didn't know before! Plus, if you're working on goals together, you'll feel more like a team.
+One of the most important things in a relationship is to talk about your goals together. Your individual goals and your goals as a couple. You might learn things about your partner that you didn't know before! Plus, if you're working on goals together, you'll feel more like a team. So schedule a date where you can talk about your financial goals. Incorporate something fun so it isn't so scary. Make brownies and have the conversation over them, or reward yourself with a delicious dinner out after finishing the conversation. This is just a first step to open up the lines of communication about money. 
 
 ## Define Family Goals, If You Have Them
 
