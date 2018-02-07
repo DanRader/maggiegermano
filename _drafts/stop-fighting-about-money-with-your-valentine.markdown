@@ -49,10 +49,14 @@ I personally am not a proponent for combining *all* of our money in a romantic r
 
 In my own relationship, things did start to improve when we got a shared credit card. We use this card for any purchase that we are sharing responsibility for. It makes it so much easier to track our joint spending and split costs accordingly. Before we got the card, I always worried one of us was spending more than the other on things like groceries. I wanted to make sure things were fair, and the credit card has helped with that. Now that we own a house together and are saving for our wedding and other goals, we have opened a joint checking and a couple joint savings accounts. This way, we can put money for the mortgage and our savings goals directly into the accounts where we both can see. It makes it much easier to track our progress, and I'm no longer anxious to get Dan to transfer money to me for the mortgage at the end of the month.
 
-So, I still think that people in couples should maintain their own accounts, there definitely is a benefit in having joint accounts.  
+So, I still think that people in couples should maintain their own accounts, there definitely is a benefit in having joint accounts.  You should do what you feel the most comfortable with, and what will work best for you and your relationship.
 
 ## Be Empathetic
 
 Empathy and understanding is so, so important when you're talking to anyone about money. But it's especially important when you're talking to your romantic partner. When you're having difficult conversations, try to see things from your partner's point of view. Try to remove your own biases and understand where they are coming from, given their experiences. 
 
 Think about it like you're both from completely different planets. Pretend that you're both coming from a place with different customs, laws, and practices. If you try to remember that your partner does not have the same thoughts and experiences as you do, it's so much easier to listen to them with empathy. I learned this in a recent [Imago Center](http://www.imagocenterdc.com/workshops/start-right-stay-connected-an-imago-premarital-workshop/) pre-marital workshop, and it's a fascinating exercise and really allows you to have more impactful conversations with your partner. You can use this approach in any difficult conversation with your partner too, not just with money!
+
+--
+
+*How do you and your partner talk about money? Have you ever used any of these tips? Share your story in the comments!*
