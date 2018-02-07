@@ -35,7 +35,7 @@ Do you want to have children someday? Do you want to buy a home? According to th
 
 ## Be Transparent
 
-According to the survey, 24 percent of respondents say they are not confident that their partner is entirely honest about their spending with them. Wow! That's almost a quarter of respondents.
+According to the survey, 24 percent of respondents say they are not confident that their partner is entirely honest about their spending with them. Wow! That's almost a quarter of respondents. That's a lot of people who don't trust what their partners are telling them about money. 
 
 Of course, you don't have to report back to your partner for every dollar you spend. That would be obnoxious. And if you have a partner who demands that, there might be a [much bigger issue](https://www.maggiegermano.com/blog/financial-abuse-survivors-want-you-to-know) at hand.
 
