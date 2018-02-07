@@ -29,11 +29,13 @@ But it doesn't have to be this way! Even if this is how your relationship has fe
 
 One of the most important things in a relationship is to talk about your goals together. Your individual goals and your goals as a couple. You might learn things about your partner that you didn't know before! Plus, if you're working on goals together, you'll feel more like a team. So schedule a date where you can talk about your financial goals. Incorporate something fun so it isn't so scary. Make brownies and have the conversation over them, or reward yourself with a delicious dinner out after finishing the conversation. This is just a first step to open up the lines of communication about money. 
 
-Do you feel like you need to get clear on your own goals before having this conversation? Sit down with yourself and [explore your values](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/). What financial goals do you want to set that will align with your values and get you to where you want to be in life? Of course, this self-exploration won't be immediate, but it's a great way to start figuring out where you want to end up. 
+Do you feel like you need to get clear on your own goals before having this conversation? Sit down with yourself and [explore your values](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/). What financial goals do you want to set that will align with your values and get you to where you want to be in life? Of course, this self-exploration won't be immediate, but it's a great way to start figuring out where you want to end up. Once you bring these goals to your partner, together you can expand on them.
 
 ## Define Family Goals, If You Have Them
 
-Do you want to have children someday? Do you want to buy a home? According to the U.S. Department of Agriculture, the cost of raising a child to the age of 17 is roughly $250,000. That's a lot of money, even if it's spread over 17 years! It's important to be in agreement with your partner about big decisions like this one. Plus, you might be surprised to learn things about what your partner does or doesn't want in the future, especially if you've never discussed this before.
+Do you want to have children someday? Do you want to buy a home? Quit your job and live off your partner's salary? These are important questions to answer with your partner. The earlier you talk about these, the better!
+
+According to the U.S. Department of Agriculture, the cost of raising a child to the age of 17 is roughly $250,000. That's a lot of money, even if it's spread over 17 years! It's important to be in agreement with your partner about big decisions like this one. Plus, you might be surprised to learn things about what your partner does or doesn't want in the future, especially if you've never discussed this before.
 
 ## Be Transparent
 
