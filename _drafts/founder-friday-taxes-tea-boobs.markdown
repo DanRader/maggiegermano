@@ -39,6 +39,8 @@ It's tax season, so [I wrote about](https://www.maggiegermano.com/blog/how-to-do
 
 * I also enjoy pretty websites that also help us take care of ourselves. Check out [Touch-Yourself.com](http://touch-yourself.com/) to learn how to properly give yourself a breast exam.
 
+* [A Practical Wedding](https://apracticalwedding.com/)! I'm sure I'll be referencing them a lot when I write my posts about wedding planning, but I want to give them a shout out today. If you want reasonable, supportive wedding advice, they should be your go-to! And if you haven't read their book yet, [check it out](https://www.amazon.com/Practical-Wedding-Affordable-Meaningful-Celebration/dp/0738215155)!
+
 ## Money Tips to Take Into the Weekend
 
 * If you're in the DC area, it's going to be raining all weekend. So grab some affordable snacks and snuggle in for the weekend. Don't want to be alone? Invite a friend over to watch your favorite old movies and eat homemade popcorn.
