@@ -21,6 +21,8 @@ Happy Friday! I hope you survived the week without too much stress. I'm just gla
 
 * We spent a little over $100 on groceries this week. We were out of a lot of staples and stocked back up. Dan also made a big chicken pot pie dish that lasted for a few days. We also have our weekly [Hungry Harvest](http://hharvest.net/m5didTk) delivery coming on Friday, which costs about $24 for a dozen eggs and a whole bunch of veggies.
 
+* Last weekend, Dan and I did another wine tasting at our wedding venue. We picked out the white wines that we'll be serving to our guests. It sure costs more than three-buck Chuck at Trader Joe's! So we had to pay the invoice for that order, but luckily we already had wedding savings set aside to cover it. 
+
 * I spent more money than I planned this week! I went out to happy hour on Wednesday with some friends. I'm trying to prioritize friendship, especially now that I'm working from home and living out in the 'burbs. So the $15 on beer and bratwurst was worth it. 
 
 ## What I'm Writing
