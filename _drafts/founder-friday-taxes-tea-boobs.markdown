@@ -1,6 +1,13 @@
 ---
 title: Founder Friday | Taxes, Tea, and Boobs
 date: 2018-02-09 15:00:00 -05:00
+image: "/uploads/Maggie%20Portraits-Maggie%20Portraits%2007%2023%2017-0025.jpg"
+tweet: 'It''s that time of the week! Check out my #FounderFriday post to see what
+  I''m excited about and how I''m spending my #money.'
+posts:
+- Founder Friday | Kesha, Wedding Dresses, Asbestos
+- Founder Friday | Hygge, Babysitting, Being Boss
+- How To Do Your Taxes
 ---
 
 Happy Friday! I hope you survived the week without too much stress. I'm just glad the sun came out for a day. So here's my weekly round-up!
@@ -33,6 +40,8 @@ It's tax season, so [I wrote about](https://www.maggiegermano.com/blog/how-to-do
 
 * Dan and I booked our [wedding photographer](http://www.barbaraophotography.com/) and I officially bought my wedding dress (with tax, it was $254.40)! When things start getting done and I can cross them off my list, this all feels a lot more exciting and real.
 
+* I was asked to do two speaking gigs! More details to come, but they're exciting opportunities.
+
 ## What I'm Fan-Girling Over
 
 * Loving the [Stuff Mom Never Told You](https://www.stuffmomnevertoldyou.com/podcasts/can-marriage-be-feminist.htm) episode about whether marriage can be feminist. Bonus: Jill Filipovic is the guest! Can't wait to read her book, *[The H-Spot: The Feminist Pursuit of Happiness](https://www.amazon.com/H-Spot-Feminist-Pursuit-Happiness/dp/1568585470)*.
@@ -41,8 +50,14 @@ It's tax season, so [I wrote about](https://www.maggiegermano.com/blog/how-to-do
 
 * [A Practical Wedding](https://apracticalwedding.com/)! I'm sure I'll be referencing them a lot when I write my posts about wedding planning, but I want to give them a shout out today. If you want reasonable, supportive wedding advice, they should be your go-to! And if you haven't read their book yet, [check it out](https://www.amazon.com/Practical-Wedding-Affordable-Meaningful-Celebration/dp/0738215155)!
 
+![Screen Shot 2018-02-08 at 4.41.08 PM.png](/uploads/Screen%20Shot%202018-02-08%20at%204.41.08%20PM.png)
+
 ## Money Tips to Take Into the Weekend
 
 * If you're in the DC area, it's going to be raining all weekend. So grab some affordable snacks and snuggle in for the weekend. Don't want to be alone? Invite a friend over to watch your favorite old movies and eat homemade popcorn.
 
-* 
+* Take 30 minutes this weekend to sit down and review your budget. Compare your spending so far this month to your [monthly budget](https://www.maggiegermano.com/blog/budgeting-101/) (if you have one). Do you need to slow down on your spending to stay on track? 
+
+* Pick out a crockpot meal recipe for next week. If you double the recipe, you can end up with enough food for lunch all week. It'll save you time and money! I personally love chicken noodle soup.
+
+Have a wonderful weekend and stay dry!
