@@ -41,7 +41,7 @@ According to the [U.S. Department of Agriculture](https://www.usda.gov/media/blo
 
 According to the survey, 24 percent of respondents say they are not confident that their partner is entirely honest about their spending with them. Wow! That's almost a quarter of respondents. That's a lot of people who don't trust what their partners are telling them about money. So try to be as transparent as you can about your spending. One idea is to set a weekly money date to review your household spending. It's important to be open and honest so that you can stick to your budget together.
 
-Of course, you don't have to report back to your partner for every dollar you spend. That would be obnoxious. And if you have a partner who demands that, there might be a [much bigger issue](https://www.maggiegermano.com/blog/financial-abuse-survivors-want-you-to-know) at hand.
+Of course, you don't have to report back to your partner for every dollar you spend. That would be obnoxious. And if you have a partner who demands that from you, there might be a [much bigger issue](https://www.maggiegermano.com/blog/financial-abuse-survivors-want-you-to-know) at hand.
 
 ## Combine Some of Your Finances
 
@@ -49,7 +49,7 @@ I personally am not a proponent for combining *all* of our money in a romantic r
 
 In my own relationship, things did start to improve when we got a shared credit card. We use this card for any purchase that we are sharing responsibility for. It makes it so much easier to track our joint spending and split costs accordingly. Before we got the card, I always worried one of us was spending more than the other on things like groceries. I wanted to make sure things were fair, and the credit card has helped with that. Now that we own a house together and are saving for our wedding and other goals, we have opened a joint checking and a couple joint savings accounts. This way, we can put money for the mortgage and our savings goals directly into the accounts where we both can see. It makes it much easier to track our progress, and I'm no longer anxious to get Dan to transfer money to me for the mortgage at the end of the month.
 
-So, I still think that people in couples should maintain their own accounts, there definitely is a benefit in having joint accounts.  You should do what you feel the most comfortable with, and what will work best for you and your relationship.
+So, while I still think that people in couples should maintain their own accounts to an extent, there definitely is a benefit in having joint accounts.  As always, you should do what you feel the most comfortable with, and what will work best for you and your relationship.
 
 ## Be Empathetic
 
