@@ -3,15 +3,25 @@ title: Founder Friday | Taxes, Tea, and Boobs
 date: 2018-02-09 15:00:00 -05:00
 ---
 
-Happy Friday! I hope you survived the week without too much stress.
+Happy Friday! I hope you survived the week without too much stress. I'm just glad the sun came out for a day. So here's my weekly round-up!
 
 ## How I Earned Money This Week
+
+* A new, one-time client paid for and scheduled her one-time session.
+
+* The money hasn't come in yet, but we listed our [basement Airbnb](https://www.airbnb.com/rooms/21754745?=&s=41&ref_device_id=df23617cff9a0aee816d728fcdeaf31b88da1585&user_id=8094455&_branch_match_id=489896607236963490) and already have 5 bookings for the next couple of months! I was worried we wouldn't get a lot of guests, but it seems successful already. 
 
 ## How I Spent Money This Week
 
 * On Sunday, I met up with my friend Nina for tea and some shopping. I had a coupon for a free drink at Bakers and Baristas, so I only spent $3.50 on my chocolate croissant. Then we went to LOFT, where I spent $60 on a blouse and a cardigan. Each item was originally $50, so I got a great discount. I've been slowly trying to create a wardrobe that I'm happy and confident in, so I'm glad that I was able to find two pieces that I like!
 
-* I bought an (teal) arm chair and a new light fixture for my home office! I've been waiting to do this for about two months, and I have the business savings to cover the costs. **Bonus:** the expense will be tax-deductible since it's for the office I use exclusively for my business. 
+* I bought an (teal) arm chair and a new light fixture for my home office! I've been waiting to do this for about two months, and I have the business savings to cover the costs. **Bonus:** the expense will be tax-deductible since it's for the office I use exclusively for my business.
+
+* I've been putting off buying new skincare products for a while now. But it's finally getting to the point where I can't neglect my face and hope it still looks good. So I splurged on several [Glossier](http://bff.glossier.com/hWsVP) items, which cost about $100 total. This kind of spending isn't really in my budget at the moment, but that's what I have my [fun fund](https://www.maggiegermano.com/blog/budgeting-for-the-fun-stuff/) for!
+
+* We spent a little over $100 on groceries this week. We were out of a lot of staples and stocked back up. Dan also made a big chicken pot pie dish that lasted for a few days. We also have our weekly [Hungry Harvest](http://hharvest.net/m5didTk) delivery coming on Friday, which costs about $24 for a dozen eggs and a whole bunch of veggies.
+
+* I spent more money than I planned this week! I went out to happy hour on Wednesday with some friends. I'm trying to prioritize friendship, especially now that I'm working from home and living out in the 'burbs. So the $15 on beer and bratwurst was worth it. 
 
 ## What I'm Writing
 
