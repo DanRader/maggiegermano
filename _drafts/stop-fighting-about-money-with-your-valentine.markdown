@@ -39,7 +39,7 @@ According to the [U.S. Department of Agriculture](https://www.usda.gov/media/blo
 
 ## Be Transparent
 
-According to the survey, 24 percent of respondents say they are not confident that their partner is entirely honest about their spending with them. Wow! That's almost a quarter of respondents. That's a lot of people who don't trust what their partners are telling them about money. This can be an indication of deeper issues. So try to be as transparent as you can about your spending. One idea is to set a weekly money date to review your household spending. It's important to be open and honest so that you can stick to your budget together.
+According to the survey, 24 percent of respondents say they are not confident that their partner is entirely honest about their spending with them. Wow! That's almost a quarter of respondents. That's a lot of people who don't trust what their partners are telling them about money. So try to be as transparent as you can about your spending. One idea is to set a weekly money date to review your household spending. It's important to be open and honest so that you can stick to your budget together.
 
 Of course, you don't have to report back to your partner for every dollar you spend. That would be obnoxious. And if you have a partner who demands that, there might be a [much bigger issue](https://www.maggiegermano.com/blog/financial-abuse-survivors-want-you-to-know) at hand.
 
