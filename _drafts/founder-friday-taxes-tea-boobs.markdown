@@ -33,6 +33,8 @@ It's tax season, so [I wrote about](https://www.maggiegermano.com/blog/how-to-do
 
 * Dan and I booked our [wedding photographer](http://www.barbaraophotography.com/) and I officially bought my wedding dress (with tax, it was $254.40)! When things start getting done and I can cross them off my list, this all feels a lot more exciting and real.
 
+* I was asked to do two speaking gigs! More details to come, but they're exciting opportunities.
+
 ## What I'm Fan-Girling Over
 
 * Loving the [Stuff Mom Never Told You](https://www.stuffmomnevertoldyou.com/podcasts/can-marriage-be-feminist.htm) episode about whether marriage can be feminist. Bonus: Jill Filipovic is the guest! Can't wait to read her book, *[The H-Spot: The Feminist Pursuit of Happiness](https://www.amazon.com/H-Spot-Feminist-Pursuit-Happiness/dp/1568585470)*.
