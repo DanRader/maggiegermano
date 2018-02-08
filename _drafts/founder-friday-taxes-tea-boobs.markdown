@@ -56,6 +56,6 @@ It's tax season, so [I wrote about](https://www.maggiegermano.com/blog/how-to-do
 
 * Take 30 minutes this weekend to sit down and review your budget. Compare your spending so far this month to your [monthly budget](https://www.maggiegermano.com/blog/budgeting-101/) (if you have one). Do you need to slow down on your spending to stay on track? 
 
-* x
+* Pick out a crockpot meal recipe for next week. If you double the recipe, you can end up with enough food for lunch all week. It'll save you time and money! I personally love chicken noodle soup.
 
 Have a wonderful weekend and stay dry!
