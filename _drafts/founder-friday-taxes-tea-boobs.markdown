@@ -47,4 +47,6 @@ It's tax season, so [I wrote about](https://www.maggiegermano.com/blog/how-to-do
 
 * If you're in the DC area, it's going to be raining all weekend. So grab some affordable snacks and snuggle in for the weekend. Don't want to be alone? Invite a friend over to watch your favorite old movies and eat homemade popcorn.
 
+* Take 30 minutes this weekend to sit down and review your budget. Compare your spending so far this month to your [monthly budget](https://www.maggiegermano.com/blog/budgeting-101/) (if you have one). Do you need to slow down on your spending to stay on track? 
+
 * 
