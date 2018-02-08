@@ -2,6 +2,12 @@
 title: Founder Friday | Taxes, Tea, and Boobs
 date: 2018-02-09 15:00:00 -05:00
 image: "/uploads/Maggie%20Portraits-Maggie%20Portraits%2007%2023%2017-0025.jpg"
+tweet: 'It''s that time of the week! Check out my #FounderFriday post to see what
+  I''m excited about and how I''m spending my #money.'
+posts:
+- Founder Friday | Kesha, Wedding Dresses, Asbestos
+- Founder Friday | Hygge, Babysitting, Being Boss
+- How To Do Your Taxes
 ---
 
 Happy Friday! I hope you survived the week without too much stress. I'm just glad the sun came out for a day. So here's my weekly round-up!
