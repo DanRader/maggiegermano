@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Taxes, Tea, and Boobs
 date: 2018-02-09 15:00:00 -05:00
+image: "/uploads/Maggie%20Portraits-Maggie%20Portraits%2007%2023%2017-0025.jpg"
 ---
 
 Happy Friday! I hope you survived the week without too much stress. I'm just glad the sun came out for a day. So here's my weekly round-up!
@@ -49,4 +50,6 @@ It's tax season, so [I wrote about](https://www.maggiegermano.com/blog/how-to-do
 
 * Take 30 minutes this weekend to sit down and review your budget. Compare your spending so far this month to your [monthly budget](https://www.maggiegermano.com/blog/budgeting-101/) (if you have one). Do you need to slow down on your spending to stay on track? 
 
-* 
+* x
+
+Have a wonderful weekend and stay dry!
