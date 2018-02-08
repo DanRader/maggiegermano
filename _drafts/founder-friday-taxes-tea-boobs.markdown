@@ -13,9 +13,9 @@ Happy Friday! I hope you survived the week without too much stress. I'm just gla
 
 ## How I Spent Money This Week
 
-* On Sunday, I met up with my friend Nina for tea and some shopping. I had a coupon for a free drink at Bakers and Baristas, so I only spent $3.50 on my chocolate croissant. Then we went to LOFT, where I spent $60 on a blouse and a cardigan. Each item was originally $50, so I got a great discount. I've been slowly trying to create a wardrobe that I'm happy and confident in, so I'm glad that I was able to find two pieces that I like!
+* On Sunday, I met up with my friend Nina for tea and some shopping. I had a coupon for a free drink at [Bakers and Baristas](https://www.bakersandbaristas.com/), so I only spent $3.50 on my chocolate croissant. Then we went to [LOFT](https://www.loft.com/), where I spent $60 on a blouse and a cardigan. Each item was originally $50, so I got a great discount. I've been slowly trying to create a wardrobe that I'm happy and confident in, so I'm glad that I was able to find two pieces that I like! Plus, I can pull this expense from my fun fund.
 
-* I bought an (teal) arm chair and a new light fixture for my home office! I've been waiting to do this for about two months, and I have the business savings to cover the costs. **Bonus:** the expense will be tax-deductible since it's for the office I use exclusively for my business.
+* I bought a (teal) arm chair, curtains, and a new light fixture for my home office! I've been waiting to do this for about two months, and I have the business savings to cover the costs. **Bonus:** the expense will be tax-deductible since it's for the office I use exclusively for my business. Pictures to come!
 
 * I've been putting off buying new skincare products for a while now. But it's finally getting to the point where I can't neglect my face and hope it still looks good. So I splurged on several [Glossier](http://bff.glossier.com/hWsVP) items, which cost about $100 total. This kind of spending isn't really in my budget at the moment, but that's what I have my [fun fund](https://www.maggiegermano.com/blog/budgeting-for-the-fun-stuff/) for!
 
