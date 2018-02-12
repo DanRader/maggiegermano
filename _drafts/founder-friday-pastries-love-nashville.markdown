@@ -7,7 +7,7 @@ posts:
 - Founder Friday | Hygge, Babysitting, Being Boss
 ---
 
-Happy Friday! I hope you survived the week without too much stress. I'm just glad the sun came out for a day. So here's my weekly round-up!
+Happy Friday! 
 
 ## How I Earned Money This Week
 
