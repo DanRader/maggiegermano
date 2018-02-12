@@ -1,6 +1,10 @@
 ---
 title: Founder Friday | Pastries, Love, and Nashville
-date: 2018-02-12 16:43:00 -05:00
+date: 2018-02-16 13:00:00 -05:00
+posts:
+- Founder Friday | Taxes, Tea, and Boobs
+- Founder Friday | Kesha, Wedding Dresses, Asbestos
+- Founder Friday | Hygge, Babysitting, Being Boss
 ---
 
 Happy Friday! I hope you survived the week without too much stress. I'm just glad the sun came out for a day. So here's my weekly round-up!
@@ -23,7 +27,7 @@ Wednesday was Valentine's Day, and just in time, a study came out about money an
 
 ## What I'm Excited About
 
-* I finally painted our kitchen cabinets! 
+* I finally painted our kitchen cabinets! We got our butcher block counters installed right when we moved in, and they've severely clashed with the dark brown cabinets. We aren't financially ready to get new cabinets, so I knew we had to go through the painting process instead. I'd been avoiding it because it's a lot of work but I finally gave in on Sunday while Dan was finishing up the backsplash. They look 1000x better!
 
 * The February Money Circle gathering is next week! Join us on Wednesday, February 21st to discuss how to better communicate with our loved ones about money. It can be a really tricky subject, but we can help you do it better!
 
