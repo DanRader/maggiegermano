@@ -23,7 +23,7 @@ Wednesday was Valentine's Day, and just in time, a study came out about money an
 
 ## What I'm Excited About
 
-* I finally painted our kitchen cabinets! 
+* I finally painted our kitchen cabinets! We got our butcher block counters installed right when we moved in, and they've severely clashed with the dark brown cabinets. We aren't financially ready to get new cabinets, so I knew we had to go through the painting process instead. I'd been avoiding it because it's a lot of work but I finally gave in on Sunday while Dan was finishing up the backsplash. They look 1000x better!
 
 * The February Money Circle gathering is next week! Join us on Wednesday, February 21st to discuss how to better communicate with our loved ones about money. It can be a really tricky subject, but we can help you do it better!
 
