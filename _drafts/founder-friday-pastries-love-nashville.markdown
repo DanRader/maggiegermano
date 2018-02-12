@@ -1,6 +1,10 @@
 ---
 title: Founder Friday | Pastries, Love, and Nashville
-date: 2018-02-12 16:43:00 -05:00
+date: 2018-02-16 13:00:00 -05:00
+posts:
+- Founder Friday | Taxes, Tea, and Boobs
+- Founder Friday | Kesha, Wedding Dresses, Asbestos
+- Founder Friday | Hygge, Babysitting, Being Boss
 ---
 
 Happy Friday! I hope you survived the week without too much stress. I'm just glad the sun came out for a day. So here's my weekly round-up!
