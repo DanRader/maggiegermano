@@ -1,5 +1,5 @@
 ---
-title: Founder Friday | Pastries,
+title: Founder Friday | Pastries, Love, Nashville
 date: 2018-02-12 16:43:00 -05:00
 ---
 
