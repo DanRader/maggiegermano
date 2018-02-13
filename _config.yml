@@ -19,6 +19,9 @@ collections:
     title: events
     output: true
     permalink: "/events/:path/"
+  other-events:
+    title: other-events
+    output: true
 defaults:
 - scope:
     path: ''
