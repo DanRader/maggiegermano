@@ -14,3 +14,4 @@ ticket-price:
 layout: pages/events
 ---
 
+CONTENT CONTENT
