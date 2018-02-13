@@ -11,6 +11,7 @@ location:
 button-text: Sign Me Up
 button-link: 
 ticket-price: 
-layout: moneycircle
+layout: pages/events
 ---
 
+CONTENT CONTENT
