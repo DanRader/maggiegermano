@@ -11,7 +11,7 @@ location:
 button-text: Sign Me Up
 button-link: 
 ticket-price: 
-layout: pages/events
+layout: event
 ---
 
 CONTENT CONTENT
