@@ -8,7 +8,7 @@ posts:
 - Here's How You Should Use Your Tax Refund
 ---
 
-I've written before about how to do your taxes easily and on the cheap. But sometimes, based on your financial situation, it might not be that simple. There are certain scenarios where it might actually make more sense and save you more money if you hire a tax professional. 
+I've written before about how to do your taxes easily and on the [cheap](https://www.maggiegermano.com/blog/how-to-do-your-taxes-on-the-cheap/). But sometimes, based on your financial situation, it might not be that simple. There are certain scenarios where it might actually make more sense and save you more money if you hire a tax professional.
 
 ## You Own a Business
 
