@@ -7,7 +7,7 @@ posts:
 - Founder Friday | Hygge, Babysitting, Being Boss
 ---
 
-Happy Friday! 
+Happy Friday!
 
 ## How I Earned Money This Week
 
@@ -34,6 +34,8 @@ Wednesday was Valentine's Day, and just in time, a study came out about money an
 ## What I'm Fan-Girling Over
 
 * How did I just get into *[Nashville](http://abc.go.com/shows/nashville)* this past weekend?? I knew Connie Britton was missing from my life. I finally started the show from the beginning and I'm obsessed. It has just enough drama, hot men, and country music.
+
+* Keep an eye out for the new [Bossed Up](https://bossedup.org/) podcast! [Emilie Aries](https://emiliearies.com/) is leaving the [Stuff Mom Never Told You](https://www.stuffmomnevertoldyou.com/) podcast to pursue this new venture and I can't wait to listen!
 
 ## Money Tips to Take Into the Weekend
 
