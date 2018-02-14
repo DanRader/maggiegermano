@@ -23,3 +23,7 @@ Did you get married or divorced last year? The answer is yes, your tax status ha
 ## You've Made Mistakes on Past Returns
 
 Have you gotten in trouble in the past because of an error on your tax return? Did you end up 
+
+## You Absolutely Hate Doing Your Taxes
+
+Sometimes, hating something is a good enough reason to pass it off to someone else. If you have the money to pay a professional, and it will save you a lot of stress, go for it!
