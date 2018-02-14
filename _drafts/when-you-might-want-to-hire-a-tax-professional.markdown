@@ -12,7 +12,7 @@ I've written before about how to do your taxes [easily](https://www.maggiegerman
 
 ## You Own a Business
 
-I filed my own taxes last year because even though I'm a small business owner, my taxes were still fairly simple. I had to track my income and expenses but that was about it. If you own a business that is more complicated, it might help to hire someone. My friend, Matt, who owns [Simple Roast Coffee](http://simpleroastcoffee.com/) in Syracuse, New York told me that he hires a tax accountant 
+I filed my own taxes last year because even though I'm a small business owner, my taxes were still fairly simple. I had to track my income and expenses but that was about it. If you own a business that is more complicated, it might help to hire someone. My friend, Matt, who owns [Simple Roast Coffee](http://simpleroastcoffee.com/) in Syracuse, New York told me that he hires a tax accountant every year now. 
 
 ## Your Marital Status Has Changed
 
