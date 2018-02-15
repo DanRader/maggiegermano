@@ -7,7 +7,7 @@ posts:
 - Founder Friday | Hygge, Babysitting, Being Boss
 ---
 
-Happy Friday! What did you get up to this week? Here's what I did!
+Happy Friday! What did you get up to this week? For me, it was a week mixed with love, pleasure, tragedy, and anger. It seems like that's how every week (or even every day) is lately. I hope you're taking care of yourself. 
 
 ## How I Earned Money This Week
 
