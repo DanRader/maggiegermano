@@ -20,6 +20,10 @@ If you own a business that is more complicated, it might help to hire someone. M
 
 Did you get married or divorced last year? The answer is yes, your tax status has changed.
 
+## You Bought or Sold a House Last Year
+
+There are lots of complicated tax issues that come with buying or selling a home. Don't ask me for the details - I still don't get it! Plus, things will be changing next year due to the tax bill that was passed in late 2017. 
+
 ## You've Made Mistakes on Past Returns
 
 Have you gotten in trouble in the past because of an error on your tax return? Did you end up having to pay more money than you thought? Or not get the tax refund you though you deserved? It might be worth it to hire a professional who can make sure you file correctly. This person would know exactly what questions to ask, and which documents you need, based on your financial situation.
