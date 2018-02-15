@@ -23,7 +23,7 @@ Happy Friday! What did you get up to this week? For me, it was a week mixed with
 
 * To pre-empt our attempts at flat bellies, we had an early Valentine's Day date at [Le Diplomate](http://lediplomatedc.com/). **Bonus:** we used a gift card that my parents sent Dan as a congratulations on his promotion. French pastries taste so much better when they're free.
 
-* I bought Dan, our friend, and myself tickets to the [Vagina Monologues](https://www.eventbrite.com/e/eve-enslers-vagina-monologues-tickets-42406034591?aff=efbeventtix) for this Saturday. This is such an important play, and I encourage you to go see it! 
+* I bought Dan, our friend Chaz, and myself tickets to the [Vagina Monologues](https://www.eventbrite.com/e/eve-enslers-vagina-monologues-tickets-42406034591?aff=efbeventtix) for this Saturday. This is such an important play, and I encourage you to go see it! 
 
 * I'll be donating to a nonprofit that is fighting against gun violence. I'm still doing some research on which organization to choose, but here are some contenders: [Everytown for Gun Safety](https://everytown.org/), [Brady Campaign to Prevent Gun Violence](http://www.bradycampaign.org/), [Moms Demand Action for Gun Sense in America](https://momsdemandaction.org/), and the [Coalition to Stop Gun Violence](https://www.csgv.org/). Please give what you can. We can't go on like this.
 
