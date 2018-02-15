@@ -12,7 +12,7 @@ I've written before about how to do your taxes [easily](https://www.maggiegerman
 
 ## You Own a Business
 
-I filed my own taxes last year because even though I'm a small business owner, my taxes were still fairly simple. I had to track my income and expenses but that was about it. This will likely change in the future as my business grows and changes. 
+I filed my own taxes last year because even though I'm a small business owner, my taxes were still fairly simple. I had to track my income and expenses but that was about it. This will likely change in the future as my business grows and changes.
 
 If you own a business that is more complicated, it might help to hire someone. My friend, Matt, who owns [Simple Roast Coffee](http://simpleroastcoffee.com/) in Syracuse, New York told me that he hires a tax accountant every year now. He knows that this way, he won't make any mistakes on his own, and he doesn't have to spend the time doing it himself.
 
@@ -22,8 +22,14 @@ Did you get married or divorced last year? The answer is yes, your tax status ha
 
 ## You've Made Mistakes on Past Returns
 
-Have you gotten in trouble in the past because of an error on your tax return? Did you end up having to pay more money than you thought? Or not get the tax refund you though you deserved? It might be worth it to hire a professional who can make sure you file correctly. This person would know exactly what questions to ask, and which documents you need, based on your financial situation. 
+Have you gotten in trouble in the past because of an error on your tax return? Did you end up having to pay more money than you thought? Or not get the tax refund you though you deserved? It might be worth it to hire a professional who can make sure you file correctly. This person would know exactly what questions to ask, and which documents you need, based on your financial situation.
 
 ## You Absolutely Hate Doing Your Taxes
 
 Sometimes, hating something is a good enough reason to pass it off to someone else. If you have the money to pay a professional, and it will save you a lot of stress, go for it!
+
+## You Always Put It Off Until the Last Second
+
+Lots of us have very busy lives these days. Many of us work full-time jobs, run side hustles, own homes, have children, volunteer, etc. When are we supposed to find time to also do our taxes? If you're sacrificing sleep or filing for an extension because you don't have time to do your taxes, pass it off! Time is money and if you're going to be stressing until April 15th about finding time to do your taxes, you might as well hire someone who will do it for you. Then you know it's done and don't have to waste your time worrying about it anymore.
+
+*Are you hiring someone to do your taxes this year? Share why in the comments!*
