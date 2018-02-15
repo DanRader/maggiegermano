@@ -7,7 +7,7 @@ posts:
 - Founder Friday | Hygge, Babysitting, Being Boss
 ---
 
-Happy Friday!
+Happy Friday! What did you get up to this week? Here's what I did!
 
 ## How I Earned Money This Week
 
@@ -15,11 +15,15 @@ Happy Friday!
 
 * We got our first [Airbnb](https://www.airbnb.com/rooms/21754745) guest! We've had so many people sign up that we're wondering if we're charging too low for the space.
 
+* I got a new one-time session client!
+
 ## How I Spent Money This Week
 
 * Dan and I are trying out the [Flat Belly Diet](https://www.amazon.com/Flat-Belly-Diet-Liz-Vaccariello/dp/1250013356) this week, so we spend a hefty sum on groceries on Sunday. It was about $150, but we won't be going out to eat at all, so it'll be worth it.
 
 * To pre-empt our attempts at flat bellies, we had an early Valentine's Day date at [Le Diplomate](http://lediplomatedc.com/). **Bonus:** we used a gift card that my parents sent Dan as a congratulations on his promotion. French pastries taste so much better when they're free.
+
+* I bought Dan, our friend, and myself tickets to the [Vagina Monologues](https://www.eventbrite.com/e/eve-enslers-vagina-monologues-tickets-42406034591?aff=efbeventtix) for this Saturday. This is such an important play, and I encourage you to go see it! 
 
 ## What I'm Writing
 
