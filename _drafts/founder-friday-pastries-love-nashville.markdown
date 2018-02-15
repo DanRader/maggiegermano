@@ -49,4 +49,8 @@ Wednesday was Valentine's Day, and just in time, a study came out about money an
 
 ## Money Tips to Take Into the Weekend
 
+* Do you typically buy a lot of take out over the weekend? Plan ahead to prevent that! Map out what you want to eat this weekend and go to the grocery store on your way home from work. That way, you'll have plenty of delicious food around the house and you won't be as tempted to go buy prepared food.
+
+* Find a fun, free activity to do with a friend. In DC? Go to a Smithsonian museum! I'm personally planning to see the new exhibit at the [Hirshhorn](https://hirshhorn.si.edu/). It's both free and will help me be more cultured. Other ideas include: hiking, going for a long walk, watching a movie together at home, and cooking a meal together. 
+
 * 
