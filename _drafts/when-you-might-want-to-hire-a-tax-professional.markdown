@@ -20,9 +20,9 @@ If you own a business that is more complicated, it might help to hire someone. M
 
 Did you get married or divorced last year? The answer is yes, your tax status has changed.
 
-You Bought a House Last Year
+## You Bought or Sold a House Last Year
 
-There are lots of complicated tax issues that come with buying a home. 
+There are lots of complicated tax issues that come with buying or selling a home. Don't ask me for the details - I still don't get it! Plus, things will be changing next year due to the tax bill that was passed in late 2017. 
 
 ## You've Made Mistakes on Past Returns
 
