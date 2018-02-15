@@ -33,15 +33,17 @@ Wednesday was Valentine's Day, and just in time, a study came out about money an
 
 ## What I'm Excited About
 
-* I finally painted our kitchen cabinets! We got our butcher block counters installed right when we moved in, and they've severely clashed with the dark brown cabinets. We aren't financially ready to get new cabinets, so I knew we had to go through the painting process instead. I'd been avoiding it because it's a lot of work but I finally gave in on Sunday while Dan was finishing up the backsplash. They look 1000x better!
+* I finally painted our kitchen cabinets (well the upper ones)! We got our butcher block counters installed right when we moved in, and they've severely clashed with the dark brown cabinets. We aren't financially ready to get new cabinets, so I knew we had to go through the painting process instead. I'd been avoiding it because it's a lot of work but I finally gave in on Sunday while Dan was finishing up the backsplash. They look 1000x better!
 
-* The February Money Circle gathering is next week! Join us on Wednesday, February 21st to discuss how to better communicate with our loved ones about money. It can be a really tricky subject, but we can help you do it better!
+* The [February Money Circle](https://www.maggiegermano.com/events/money-something-to-talk-about/) gathering is next week! Join us on Wednesday, February 21st to discuss how to better communicate with our loved ones about money. It can be a really tricky subject, but we can help you do it better!
 
 ## What I'm Fan-Girling Over
 
 * How did I just get into *[Nashville](http://abc.go.com/shows/nashville)* this past weekend?? I knew Connie Britton was missing from my life. I finally started the show from the beginning and I'm obsessed. It has just enough drama, hot men, and country music.
 
 * Keep an eye out for the new [Bossed Up](https://bossedup.org/) podcast! [Emilie Aries](https://emiliearies.com/) is leaving the [Stuff Mom Never Told You](https://www.stuffmomnevertoldyou.com/) podcast to pursue this new venture and I can't wait to listen!
+
+![nashville-rayna-and-deacon.jpg](/uploads/nashville-rayna-and-deacon.jpg)
 
 ## Money Tips to Take Into the Weekend
 
