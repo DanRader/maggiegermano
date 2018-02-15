@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Pastries, Vagina Monologues, and Nashville
 date: 2018-02-16 13:00:00 -05:00
+published: false
 posts:
 - Founder Friday | Taxes, Tea, and Boobs
 - Founder Friday | Kesha, Wedding Dresses, Asbestos
@@ -53,4 +54,6 @@ Wednesday was Valentine's Day, and just in time, a study came out about money an
 
 * Find a fun, free activity to do with a friend. In DC? Go to a Smithsonian museum! I'm personally planning to see the new exhibit at the [Hirshhorn](https://hirshhorn.si.edu/). It's both free and will help me be more cultured. Other ideas include: hiking, going for a long walk, watching a movie together at home, and cooking a meal together. 
 
-* 
+* Make time to sit down and review your spending for the past week. If you make a habit of looking at your budget at least once a week, it'll be a lot less painful over time. You'll also be much more likely to stay on track!
+
+*What are your plans for the weekend? Share in the comments!*
