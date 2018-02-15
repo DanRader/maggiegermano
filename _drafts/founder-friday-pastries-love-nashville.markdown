@@ -25,6 +25,8 @@ Happy Friday! What did you get up to this week? Here's what I did!
 
 * I bought Dan, our friend, and myself tickets to the [Vagina Monologues](https://www.eventbrite.com/e/eve-enslers-vagina-monologues-tickets-42406034591?aff=efbeventtix) for this Saturday. This is such an important play, and I encourage you to go see it! 
 
+* I'll be donating to a nonprofit that is fighting against gun violence. I'm still doing some research on which organization to choose, but here are some contenders: [Everytown for Gun Safety](https://everytown.org/), [Brady Campaign to Prevent Gun Violence](http://www.bradycampaign.org/), [Moms Demand Action for Gun Sense in America](https://momsdemandaction.org/), and the [Coalition to Stop Gun Violence](https://www.csgv.org/). Please give what you can. 
+
 ## What I'm Writing
 
 Wednesday was Valentine's Day, and just in time, a study came out about money and relationships. Read [my piece](https://www.maggiegermano.com/blog/stop-fighting-about-money-with-your-valentine/) about how to stop fighting with your beau about money.
