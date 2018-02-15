@@ -1,5 +1,5 @@
 ---
-title: Founder Friday | Pastries, Love, and Nashville
+title: Founder Friday | Pastries, Vagina Monologues, and Nashville
 date: 2018-02-16 13:00:00 -05:00
 posts:
 - Founder Friday | Taxes, Tea, and Boobs
