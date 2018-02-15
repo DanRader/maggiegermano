@@ -27,6 +27,8 @@ Happy Friday! What did you get up to this week? For me, it was a week mixed with
 
 * I'll be donating to a nonprofit that is fighting against gun violence. I'm still doing some research on which organization to choose, but here are some contenders: [Everytown for Gun Safety](https://everytown.org/), [Brady Campaign to Prevent Gun Violence](http://www.bradycampaign.org/), [Moms Demand Action for Gun Sense in America](https://momsdemandaction.org/), and the [Coalition to Stop Gun Violence](https://www.csgv.org/). Please give what you can. We can't go on like this.
 
+![41pOzoVC5RL._SX340_BO1,204,203,200_.jpg](/uploads/41pOzoVC5RL._SX340_BO1,204,203,200_.jpg)
+
 ## What I'm Writing
 
 Wednesday was Valentine's Day, and just in time, a study came out about money and relationships. Read [my piece](https://www.maggiegermano.com/blog/stop-fighting-about-money-with-your-valentine/) about how to stop fighting with your beau about money.
