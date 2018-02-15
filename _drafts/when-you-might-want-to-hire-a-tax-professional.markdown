@@ -12,7 +12,7 @@ I've written before about how to do your taxes [easily](https://www.maggiegerman
 
 ## You Own a Business
 
-I filed my own taxes last year because even though I'm a small business owner, my taxes were still fairly simple. I had to track my income and expenses but that was about it. 
+I filed my own taxes last year because even though I'm a small business owner, my taxes were still fairly simple. I had to track my income and expenses but that was about it. This will likely change in the future as my business grows and changes. 
 
 If you own a business that is more complicated, it might help to hire someone. My friend, Matt, who owns [Simple Roast Coffee](http://simpleroastcoffee.com/) in Syracuse, New York told me that he hires a tax accountant every year now. He knows that this way, he won't make any mistakes on his own, and he doesn't have to spend the time doing it himself.
 
@@ -22,7 +22,7 @@ Did you get married or divorced last year? The answer is yes, your tax status ha
 
 ## You've Made Mistakes on Past Returns
 
-Have you gotten in trouble in the past because of an error on your tax return? Did you end up 
+Have you gotten in trouble in the past because of an error on your tax return? Did you end up having to pay more money than you thought? Or not get the tax refund you though you deserved? It might be worth it to hire a professional who can make sure you file correctly. This person would know exactly what questions to ask, and which documents you need, based on your financial situation. 
 
 ## You Absolutely Hate Doing Your Taxes
 
