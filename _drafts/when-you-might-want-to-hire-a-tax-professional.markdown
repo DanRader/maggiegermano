@@ -16,13 +16,13 @@ I filed my own taxes last year because even though I'm a small business owner, m
 
 If you own a business that is more complicated, it might help to hire someone. My friend, Matt, who owns [Simple Roast Coffee](http://simpleroastcoffee.com/) in Syracuse, New York told me that he hires a tax accountant every year now. He knows that this way, he won't make any mistakes on his own, and he doesn't have to spend the time doing it himself.
 
+*Learn more about the tax implications of owning your own business.*
+
 ## Your Marital Status Has Changed
 
-Did you get married or divorced last year? The answer is yes, your tax status has likely changed. The government really wants people to get married. So much so that they created tax benefits for doing so. First of all, if you're filing together, you only have to file one tax return, which cuts down on the time and effort of you each filing your own. 
+Did you get married or divorced last year? The answer is yes, your tax status has likely changed. The government really wants people to get married. So much so that they created tax benefits for doing so. First of all, if you're filing together, you only have to file one tax return, which cuts down on the time and effort of you each filing your own. In addition, your tax bracket may change if you and your spouse are both employed. You'll 
 
-In addition, your tax bracket may change if you and your spouse are both employed. You'll 
-
-*Learn more about tax implications of [marriage](https://turbotax.intuit.com/tax-tips/marriage/7-tax-advantages-of-getting-married/L1XlLCh0m) and divorce.*
+*Learn more about the tax implications of [marriage](https://turbotax.intuit.com/tax-tips/marriage/7-tax-advantages-of-getting-married/L1XlLCh0m) and divorce.*
 
 ## You Bought or Sold a House Last Year
 
