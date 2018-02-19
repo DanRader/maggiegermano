@@ -34,7 +34,7 @@ There are lots of complicated tax issues that come with buying or selling a home
 
 ## You've Made Mistakes on Past Returns
 
-Have you gotten in trouble in the past because of an error on your tax return? Did you end up having to pay more money than you thought? Or not get the tax refund you though you deserved? It might be worth it to hire a professional who can make sure you file correctly. This person would know exactly what questions to ask, and which documents you need, based on your financial situation.
+Have you gotten in trouble in the past because of an error on your tax return? Did you end up having to pay more money than you thought? Or not get the tax refund you thought you deserved? It might be worth it to hire a professional who can make sure you file correctly. This person would know exactly what questions to ask, and which documents you need, based on your financial situation.
 
 ## You Absolutely Hate Doing Your Taxes
 
