@@ -20,15 +20,15 @@ If you own a business that is more complicated, it might help to hire someone. M
 
 ## Your Marital Status Has Changed
 
-Did you get married or divorced last year? The answer is yes, your tax status has likely changed. The government really wants people to get married. So much so that they created tax benefits for doing so. First of all, if you're filing together, you only have to file one tax return, which cuts down on the time and effort of you each filing your own. In addition, your tax bracket may change if you and your spouse are both employed. You'll 
+Did you get married or divorced last year? The answer is yes, your tax status has likely changed. The government really wants people to get married. So much so that they created tax benefits for doing so. First of all, if you're filing together, you only have to file one tax return, which cuts down on the time and effort of you each filing your own. In addition, your tax bracket may change if you and your spouse are both employed. Your exemptions and deductions will also change. If you've gotten a divorce, your filing status and income bracket will change. There will also be different things you can deduct on your tax return, depending on your situation. If you're worried about doing this right, you might want to hire someone.
 
-*Learn more about the tax implications of [marriage](https://turbotax.intuit.com/tax-tips/marriage/7-tax-advantages-of-getting-married/L1XlLCh0m) and divorce.*
+*Learn more about the tax implications of [marriage](https://turbotax.intuit.com/tax-tips/marriage/7-tax-advantages-of-getting-married/L1XlLCh0m) and [divorce](https://blog.turbotax.intuit.com/deductions-and-credits/the-tax-implications-of-divorce-2-3564/).*
 
 ## You Bought or Sold a House Last Year
 
 There are lots of complicated tax issues that come with buying or selling a home. Don't ask me for the details - I still don't get it! Plus, things will be changing next year due to the tax bill that was passed in late 2017. However, you can save quite a bit on your taxes if you've purchased a home. As of now, you can write off your mortgage interest and your property taxes. If you've sold a home, you can write off some of your expenses like necessary improvements and certain closing costs. If you want to make  sure you get as much back as you can, it might make sense to hire someone.
 
-*Learn more about the tax implications of buying or [selling](https://www.hrblock.com/tax-center/filing/personal-tax-planning/buying-or-selling-a-house/) a home.*
+*Learn more about the tax implications of [buying](https://turbotax.intuit.com/tax-tips/home-ownership/buying-your-first-home/L5QxJLcQT) or [selling](https://www.hrblock.com/tax-center/filing/personal-tax-planning/buying-or-selling-a-house/) a home.*
 
 ## You've Made Mistakes on Past Returns
 
