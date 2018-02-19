@@ -28,7 +28,7 @@ Did you get married or divorced last year? The answer is yes, your tax status ha
 
 There are lots of complicated tax issues that come with buying or selling a home. Don't ask me for the details - I still don't get it! Plus, things will be changing next year due to the tax bill that was passed in late 2017. However, you can save quite a bit on your taxes if you've purchased a home. As of now, you can write off your mortgage interest and your property taxes. If you've sold a home, you can write off some of your expenses like necessary improvements and certain closing costs. If you want to make  sure you get as much back as you can, it might make sense to hire someone.
 
-*Learn more about the tax implications of buying or [selling](https://www.hrblock.com/tax-center/filing/personal-tax-planning/buying-or-selling-a-house/) a home.*
+*Learn more about the tax implications of [buying](https://turbotax.intuit.com/tax-tips/home-ownership/buying-your-first-home/L5QxJLcQT) or [selling](https://www.hrblock.com/tax-center/filing/personal-tax-planning/buying-or-selling-a-house/) a home.*
 
 ## You've Made Mistakes on Past Returns
 
