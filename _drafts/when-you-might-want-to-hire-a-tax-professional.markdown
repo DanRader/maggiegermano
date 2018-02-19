@@ -22,9 +22,11 @@ Did you get married or divorced last year? The answer is yes, your tax status ha
 
 In addition, your tax bracket may change if you and your spouse are both employed. You'll 
 
+*Learn more about tax implications of [marriage](https://turbotax.intuit.com/tax-tips/marriage/7-tax-advantages-of-getting-married/L1XlLCh0m) and divorce.*
+
 ## You Bought or Sold a House Last Year
 
-There are lots of complicated tax issues that come with buying or selling a home. Don't ask me for the details - I still don't get it! Plus, things will be changing next year due to the tax bill that was passed in late 2017.
+There are lots of complicated tax issues that come with buying or selling a home. Don't ask me for the details - I still don't get it! Plus, things will be changing next year due to the tax bill that was passed in late 2017. However, you can save quite a bit on your taxes if you've purchased a home. As of now, you can write off your mortgage interest and your local and state taxes. If you want to make  sure you get as much back as you can, it might make sense to hire someone.
 
 ## You've Made Mistakes on Past Returns
 
