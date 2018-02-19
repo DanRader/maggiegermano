@@ -20,9 +20,9 @@ If you own a business that is more complicated, it might help to hire someone. M
 
 ## Your Marital Status Has Changed
 
-Did you get married or divorced last year? The answer is yes, your tax status has likely changed. The government really wants people to get married. So much so that they created tax benefits for doing so. First of all, if you're filing together, you only have to file one tax return, which cuts down on the time and effort of you each filing your own. In addition, your tax bracket may change if you and your spouse are both employed. You'll 
+Did you get married or divorced last year? The answer is yes, your tax status has likely changed. The government really wants people to get married. So much so that they created tax benefits for doing so. First of all, if you're filing together, you only have to file one tax return, which cuts down on the time and effort of you each filing your own. In addition, your tax bracket may change if you and your spouse are both employed. Your exemptions and deductions will also change. If you've gotten a divorce, your filing status and income bracket will change. There will also be different things you can deduct on your tax return, depending on your situation. If you're worried about doing this right, you might want to hire someone.
 
-*Learn more about the tax implications of [marriage](https://turbotax.intuit.com/tax-tips/marriage/7-tax-advantages-of-getting-married/L1XlLCh0m) and divorce.*
+*Learn more about the tax implications of [marriage](https://turbotax.intuit.com/tax-tips/marriage/7-tax-advantages-of-getting-married/L1XlLCh0m) and [divorce](https://blog.turbotax.intuit.com/deductions-and-credits/the-tax-implications-of-divorce-2-3564/).*
 
 ## You Bought or Sold a House Last Year
 
