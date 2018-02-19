@@ -16,7 +16,7 @@ I filed my own taxes last year because even though I'm a small business owner, m
 
 If you own a business that is more complicated, it might help to hire someone. My friend, Matt, who owns [Simple Roast Coffee](http://simpleroastcoffee.com/) in Syracuse, New York told me that he hires a tax accountant every year now. He knows that this way, he won't make any mistakes on his own, and he doesn't have to spend the time doing it himself.
 
-*Learn more about the tax implications of owning your own business.*
+*Learn more about the tax implications of [owning your own business](https://turbotax.intuit.com/tax-tips/small-business-taxes/starting-a-business/L7PBcAdVh).*
 
 ## Your Marital Status Has Changed
 
