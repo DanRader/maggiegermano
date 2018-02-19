@@ -18,11 +18,13 @@ If you own a business that is more complicated, it might help to hire someone. M
 
 ## Your Marital Status Has Changed
 
-Did you get married or divorced last year? The answer is yes, your tax status has changed.
+Did you get married or divorced last year? The answer is yes, your tax status has likely changed. The government really wants people to get married. So much so that they created tax benefits for doing so. First of all, if you're filing together, you only have to file one tax return, which cuts down on the time and effort of you each filing your own. 
+
+In addition, your tax bracket may change if you and your spouse are both employed. You'll 
 
 ## You Bought or Sold a House Last Year
 
-There are lots of complicated tax issues that come with buying or selling a home. Don't ask me for the details - I still don't get it! Plus, things will be changing next year due to the tax bill that was passed in late 2017. 
+There are lots of complicated tax issues that come with buying or selling a home. Don't ask me for the details - I still don't get it! Plus, things will be changing next year due to the tax bill that was passed in late 2017.
 
 ## You've Made Mistakes on Past Returns
 
