@@ -8,7 +8,7 @@ posts:
 - Are you stressed out about doing your taxes?
 ---
 
-Have you heard that it's tax season? Well, it is, and you have less than 2 months to finish filing your taxes. I know this time of year, and this activity alone, can be really stressful. This advice applies to any dreaded financial activity.
+Have you heard that it's tax season? (Yes, I've mentioned it about five times already.) Well, you have less than two months left to finish filing your taxes. I know this time of year, and this activity alone, can be really stressful. So it's important to get into a positive mindset when you're preparing to do it. This advice applies to any dreaded financial activity.
 
 ## Pair It With Something You Love
 
