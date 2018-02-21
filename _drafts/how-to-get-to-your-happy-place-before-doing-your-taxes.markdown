@@ -7,3 +7,4 @@ posts:
 - Are you stressed out about doing your taxes?
 ---
 
+Have you heard that it's tax season? This advice applies to any dreaded financial activity. 
