@@ -8,3 +8,13 @@ posts:
 ---
 
 Have you heard that it's tax season? Well, it is, and you have less than 2 months to finish filing your taxes. I know this time of year, and this activity alone, can be really stressful. This advice applies to any dreaded financial activity. 
+
+## Pair It With Something You Love
+
+## Give Yourself a Small Reward
+
+## Get a Friend to Do It With You
+
+## Call Up Your Coach
+
+## Get Comfortable
