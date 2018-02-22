@@ -20,10 +20,12 @@ Do you love a glass of wine or a cup of hot tea? Is chocolate your life saver? B
 
 ## Get a Friend to Do It With You
 
-I guarantee you have at least one friend who is dreading doing their taxes as much as you are. 
+I guarantee you have at least one friend who is dreading doing their taxes as much as you are.
 
 ## Call Up Your Coach
 
-Do you have a coach or another accountability partner you work with? Schedule a session or check-in with them to get some support and motivation before you get started. 
+Do you have a coach or another accountability partner you work with? Schedule a session or check-in with them to get some support and motivation before you get started.
 
 ## Get Comfortable
+
+I find that everything feels more pleasant if I'm a comfortable spot, in soft, comfortable clothes. I want to be warm 
