@@ -42,6 +42,6 @@ It's tax season and it's not always necessary to go it alone. Check out [my piec
 
 ## Money Tips to Take Into the Weekend
 
-* xx
+* Do your taxes! If you have a simple financial situation, it shouldn't take you more than an hour to file your tax return using an online platform like Turbo Tax or H&R Block.
 
 *What are your plans for the weekend? Share in the comments!*
