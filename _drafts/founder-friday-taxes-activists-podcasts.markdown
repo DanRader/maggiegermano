@@ -10,7 +10,7 @@ posts:
 - Founder Friday | Kesha, Wedding Dresses, Asbestos
 ---
 
-Happy Friday! I hope you're staying dry on this misty day.
+Happy Friday! I hope you're staying dry on this misty day. Here's what I've been up to this week!
 
 ## How I Earned Money This Week
 
@@ -20,9 +20,9 @@ Happy Friday! I hope you're staying dry on this misty day.
 
 * Dan and I have been living without a dining room set. All of our guests have been forced to sit in our office chairs at Dan's desk in the dining room. So we finally bit the bullet and bought a farmhouse-style dining room table, with a bench to go with it. We still need to pick out some chairs to round it out, but they can wait. **Bonus:** we used credit card rewards points to pay for them.
 
-* If you're friends with me on Facebook, you've probably seen me complain that our oven is leaking carbon monoxide. Our energy audit found that it's leaking about triple the amount that is safe. So instead of paying more than half the cost of a new oven on a repair, we bought a brand new oven. Luckily, we still have some savings leftover to cover the cost.
+* If you're friends with me on Facebook, you've probably seen me complain that our oven is leaking carbon monoxide. Our energy audit found that it's leaking about triple the amount that is safe. So instead of paying more than half the cost of a new oven on a repair, we bought a brand new oven. Luckily, we still have some house renovation savings leftover to cover the cost.
 
-* My favorite yoga pants have finally retired. Each leg has a giant hole in it, so I bought two new pairs from Old Navy.
+* My favorite yoga pants have finally retired. Each leg has a giant hole in it, so I bought two new pairs from Old Navy. Can't wait to cozy up in them.
 
 ## What I'm Writing
 
@@ -34,7 +34,7 @@ It's tax season and it's not always necessary to go it alone. Check out [my piec
 
 * I was interviewed for the new [Bossed Up podcast](https://itunes.apple.com/us/podcast/bossed-up/id1350039358) last week! I can't wait to hear it, so make sure you tune in when the podcast launches on March 1st!
 
-* I'm getting my engagement photos taken today! I always swore I would never get engagement photos done, but our [wedding photographer](http://www.barbaraophotography.com/) is great, so I'm sure we'll have fun. Stay tuned to see them in a couple weeks!
+* Dan and I are getting are engagement photos taken today! I always swore I would never get engagement photos done, but our [wedding photographer](http://www.barbaraophotography.com/) is great, so I'm sure we'll have fun. Stay tuned to see them in a couple weeks!
 
 ![IMG_6574-b314be.jpg](/uploads/IMG_6574-b314be.jpg)
 
@@ -47,6 +47,8 @@ It's tax season and it's not always necessary to go it alone. Check out [my piec
 ## Money Tips to Take Into the Weekend
 
 * Do your taxes! If you have a simple financial situation, it shouldn't take you more than an hour to file your tax return using an online platform like [Turbo Tax](https://turbotax.intuit.com/) or [H&R Block](https://www.hrblock.com/).
+
+* Schedule time to sit down and review your spending budget. You're much more likely to do something if you block out the time for it. It doesn't even have to be a long time, 15 minutes will suffice.
 
 * 
 
