@@ -14,7 +14,7 @@ xx
 
 ## How I Earned Money This Week
 
-* xx
+* No payments this week!
 
 ## How I Spent Money This Week
 
@@ -26,7 +26,7 @@ xx
 
 ## What I'm Writing
 
-It's tax season and it's not always necessary to go it alone. Check out my piece about when it might make sense to hire a tax professional. 
+It's tax season and it's not always necessary to go it alone. Check out [my piece](https://www.maggiegermano.com/blog/when-you-might-want-to-hire-a-tax-professional/) about when it might make sense to hire a tax professional. 
 
 ## What I'm Excited About
 
@@ -34,7 +34,7 @@ It's tax season and it's not always necessary to go it alone. Check out my piece
 
 ## What I'm Fan-Girling Over
 
-* XX
+* The amazing teenagers taking a stand after the school shooting in Parkland, Florida. Yes, we've been failing our kids, but they'll save us from ourselves. Want to help? Donate to or volunteer for [March for Our Lives](https://www.marchforourlives.com/). 
 
 ## Money Tips to Take Into the Weekend
 
