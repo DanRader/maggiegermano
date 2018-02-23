@@ -1,6 +1,7 @@
 ---
 title: Founder Friday|
 date: 2018-02-22 21:11:00 -05:00
+image: "/uploads/Maggie%20Portraits-Maggie%20Portraits%2007%2023%2017-0023.jpg"
 tweet: 'It''s #FounderFriday again! See how I''ve been spending, earning, and what
   I''ve been fan-girling over.'
 posts:
