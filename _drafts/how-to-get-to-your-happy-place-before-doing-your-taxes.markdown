@@ -4,6 +4,7 @@ date: 2018-02-26 11:00:00 -05:00
 categories:
 - lifestyle
 image: "/uploads/couch.jpg"
+tweet: 'Avoiding doing your #taxes? Get in your happy place first!'
 posts:
 - When You Might Want to Hire a Tax Professional
 - How To Do Your Taxes
