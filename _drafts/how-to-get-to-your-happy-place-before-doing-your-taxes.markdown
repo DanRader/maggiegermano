@@ -11,7 +11,7 @@ posts:
 - Are you stressed out about doing your taxes?
 ---
 
-Have you heard that it's tax season? (Yes, I've mentioned it about five times already.) Well, you have less than two months left to finish filing your taxes. I know this time of year, and this activity alone, can be really stressful. So it's important to get into a positive mindset when you're preparing to do it. This advice applies to any dreaded financial activity.
+Have you heard that it's tax season? (Yes, I've mentioned it about five times already.) Well, you have less than two months left to finish filing your taxes. I know this time of year, and this activity alone, can be really stressful. So it's important to get into a positive mindset when you're preparing to do it. This advice applies to any dreaded financial activity. So let's get you into your happy place so it feels better to get things done.
 
 ## Pair It With Something You Love
 
@@ -29,4 +29,4 @@ Do you have a coach or another accountability partner you work with? Schedule a 
 
 ## Get Comfortable
 
-I find that everything feels more pleasant if I'm a comfortable spot, in soft, comfortable clothes. I want to be warm 
+I find that everything feels more pleasant if I'm a comfortable spot, in soft, comfortable clothes. I want to be warm
