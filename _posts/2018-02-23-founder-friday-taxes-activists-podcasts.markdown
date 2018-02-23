@@ -50,6 +50,6 @@ It's tax season and it's not always necessary to go it alone. Check out [my piec
 
 * Schedule time to sit down and review your spending budget. You're much more likely to do something if you block out the time for it. It doesn't even have to be a long time, 15 minutes will suffice.
 
-* 
+* Choose one day to spend no money. It's easier than you think it might be and could make all the difference for the week.
 
 *What are your plans for the weekend? Share in the comments!*
