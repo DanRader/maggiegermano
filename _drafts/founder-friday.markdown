@@ -34,6 +34,8 @@ It's tax season and it's not always necessary to go it alone. Check out [my piec
 
 * I was interviewed for the new [Bossed Up podcast](https://itunes.apple.com/us/podcast/bossed-up/id1350039358) last week! I can't wait to hear it, so make sure you tune in when the podcast launches on March 1st!
 
+* I'm getting my engagement photos taken today! I always swore I would never get engagement photos done, but our [wedding photographer](http://www.barbaraophotography.com/) is great, so I'm sure we'll have fun. Stay tuned to see them in a couple weeks!
+
 ![IMG_6574-b314be.jpg](/uploads/IMG_6574-b314be.jpg)
 
 ## What I'm Fan-Girling Over
