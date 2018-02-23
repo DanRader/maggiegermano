@@ -32,6 +32,8 @@ It's tax season and it's not always necessary to go it alone. Check out [my piec
 
 * I was quoted in [USA Today](https://www.usatoday.com/story/sponsor-story/moonlighting/2018/02/20/how-freelance-full-time/110635826/) about how I prepared to quit my job and be a full-time business owner!
 
+* I was interviewed for the new [Bossed Up podcast](https://itunes.apple.com/us/podcast/bossed-up/id1350039358) last week! I can't wait to hear it, so make sure you tune in when the podcast launches on March 1st!
+
 ## What I'm Fan-Girling Over
 
 * The amazing teenagers taking a stand after the school shooting in Parkland, Florida. Yes, we've been failing our kids, but they'll save us from ourselves. Want to help? Donate to or volunteer for [March for Our Lives](https://www.marchforourlives.com/). 
