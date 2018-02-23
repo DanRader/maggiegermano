@@ -10,7 +10,7 @@ posts:
 - Founder Friday | Kesha, Wedding Dresses, Asbestos
 ---
 
-Happy Friday! I hope you're staying dry on this misty day. 
+Happy Friday! I hope you're staying dry on this misty day.
 
 ## How I Earned Money This Week
 
@@ -41,6 +41,8 @@ It's tax season and it's not always necessary to go it alone. Check out [my piec
 ## What I'm Fan-Girling Over
 
 * The amazing teenagers [taking a stand](https://www.cnn.com/2018/02/21/us/parkland-shooting-youth-social-change/index.html) after the school shooting in Parkland, Florida. Yes, we've been failing our kids, but they'll save us from ourselves. Want to help? Donate to or volunteer for [March for Our Lives](https://www.marchforourlives.com/).
+
+* The [Stuff They Don't Want You to Know](https://www.stufftheydontwantyoutoknow.com/) podcast. I'm a huge fan of conspiracy theories. I usually  don't buy into them, but I love reading about the bizarre things some people believe. So when I found this podcast, I got really excited. 
 
 ## Money Tips to Take Into the Weekend
 
