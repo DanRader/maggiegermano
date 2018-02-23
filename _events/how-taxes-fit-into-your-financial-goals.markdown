@@ -9,6 +9,7 @@ start-time: 6:30PM
 end-time: 8:30PM
 location: Cherry Blossom Creative | 2128 8th St NW, Washington, DC
 button-text: Sign Me Up!
+button-link: https://www.eventbrite.com/e/money-circle-how-taxes-fit-into-your-financial-goals-tickets-43486898484
 ticket-price: "$20"
 ---
 
