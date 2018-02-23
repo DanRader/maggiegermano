@@ -44,4 +44,6 @@ It's tax season and it's not always necessary to go it alone. Check out [my piec
 
 * Do your taxes! If you have a simple financial situation, it shouldn't take you more than an hour to file your tax return using an online platform like [Turbo Tax](https://turbotax.intuit.com/) or [H&R Block](https://www.hrblock.com/).
 
+* 
+
 *What are your plans for the weekend? Share in the comments!*
