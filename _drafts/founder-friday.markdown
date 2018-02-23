@@ -14,7 +14,7 @@ xx
 
 ## How I Earned Money This Week
 
-* xx
+* No payments this week!
 
 ## How I Spent Money This Week
 
@@ -26,7 +26,7 @@ xx
 
 ## What I'm Writing
 
-It's tax season and it's not always necessary to go it alone. Check out my piece about when it might make sense to hire a tax professional. 
+It's tax season and it's not always necessary to go it alone. Check out [my piece](https://www.maggiegermano.com/blog/when-you-might-want-to-hire-a-tax-professional/) about when it might make sense to hire a tax professional. 
 
 ## What I'm Excited About
 
