@@ -34,7 +34,7 @@ It's tax season and it's not always necessary to go it alone. Check out [my piec
 
 ## What I'm Fan-Girling Over
 
-* XX
+* The amazing teenagers taking a stand after the school shooting in Parkland, Florida. Yes, we've been failing our kids, but they'll save us from ourselves. Want to help? Donate to or volunteer for [March for Our Lives](https://www.marchforourlives.com/). 
 
 ## Money Tips to Take Into the Weekend
 
