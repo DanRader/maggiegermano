@@ -33,7 +33,7 @@ Do you have a coach or another accountability partner you work with? Schedule a 
 
 ## Get Comfortable
 
-I find that everything feels more pleasant if I'm a comfortable spot, in soft, comfortable clothes. I want to be warm
+I find that everything feels more pleasant if I'm a comfortable spot, in soft, comfortable clothes. I want to be warm and cozy most of the time, but especially when I'm working on something that stresses me out. 
 
 Do you feel more motivated to do your taxes (or balance your budget) now?
 
