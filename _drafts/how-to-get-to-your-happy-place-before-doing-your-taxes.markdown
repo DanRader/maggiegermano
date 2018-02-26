@@ -25,11 +25,11 @@ What
 
 ## Get a Friend to Do It With You
 
-I guarantee you have at least one friend who is dreading doing their taxes as much as you are.
+I guarantee you have at least one friend who is dreading doing their taxes as much as you are. Set up a time to work together and provide moral support. It's kind of like having a gym buddy, but it's a tax buddy. 
 
 ## Call Up Your Coach
 
-Do you have a coach or another accountability partner you work with? Schedule a session or check-in with them to get some support and motivation before you get started.
+Do you have a coach or another accountability partner you work with? Schedule a session or check-in with them to get some support and motivation before you get started. I once had a client hire me for a one-time session where I sat with her while she did her taxes. I was able to answer any questions she had and provide guidance along the way. 
 
 ## Get Comfortable
 
