@@ -27,15 +27,15 @@ I guarantee you have at least one friend who is dreading doing their taxes as mu
 
 ## Call Up Your Coach
 
-Do you have a coach or another accountability partner you work with? Schedule a session or check-in with them to get some support and motivation before you get started. I once had a client hire me for a one-time session where I sat with her while she did her taxes. I was able to answer any questions she had and provide guidance along the way.
+Do you have a coach or another accountability partner you work with? Schedule a session or check-in with them to get some support and motivation before you get started. I once had a client hire me for a one-time session where I sat with her while she did her taxes. I was able to answer any questions she had and provide guidance along the way. It also took the edge off for her, since doing her taxes was a stressful thing for her.
 
 ## Get Comfortable
 
-I find that everything feels more pleasant if I'm a comfortable spot, in soft, comfortable clothes. I want to be warm and cozy most of the time, but especially when I'm working on something that stresses me out.
+I find that everything feels more pleasant if I'm in a comfortable spot, in soft, comfortable clothes. I want to be warm and cozy most of the time, but especially when I'm working on something that stresses me out. Where do you feel the most comfortable? What types of clothing makes you feel your best? 
 
 ## Find a Change of Scenery
 
-My friend, Torie, from Cherry Blossom Creative, does her taxes at a spa. She carves out a day to spend at the spa
+My friend Torie, from [Cherry Blossom Creative](http://cherryblossomcreative.com/), does her taxes at a spa. She carves out a day to spend at the spa
 
 Do you feel more motivated to do your taxes (or balance your budget) now?
 
