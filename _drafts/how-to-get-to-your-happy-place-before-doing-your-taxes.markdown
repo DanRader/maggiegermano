@@ -15,7 +15,7 @@ Have you heard that it's tax season? (Yes, I've mentioned it about five times al
 
 ## Pair It With Something You Love
 
-Do you love a glass of wine or a cup of hot tea? Is chocolate your life saver? Bring those along with you while you do your taxes! This 
+Do you love a glass of wine or a cup of hot tea? Is chocolate your life saver? Bring those along with you while you do your taxes! This is a great way to 
 
 ## Give Yourself a Small Reward
 
