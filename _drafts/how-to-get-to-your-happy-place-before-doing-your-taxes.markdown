@@ -35,7 +35,7 @@ I find that everything feels more pleasant if I'm in a comfortable spot, in soft
 
 ## Find a Change of Scenery
 
-My friend Torie, from [Cherry Blossom Creative](http://cherryblossomcreative.com/), does her taxes at a spa. She carves out a full day to spend at the spa while doing her business taxes. This is a way to bring calm 
+My friend Torie, from [Cherry Blossom Creative](http://cherryblossomcreative.com/), does her taxes at a spa. She carves out a full day to spend at the spa while doing her business taxes. This is a way to bring calm to a complicated, stressful activity. It also gets her out of the office and in a place that forces her to relax. What's a place that makes you feel most at ease? I love to sit outside in the sun when there's a nice breeze.
 
 Do you feel more motivated to do your taxes (or balance your budget) now?
 
