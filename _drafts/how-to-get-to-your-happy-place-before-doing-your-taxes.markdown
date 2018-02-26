@@ -15,17 +15,15 @@ Have you heard that it's tax season? (Yes, I've mentioned it about five times al
 
 ## Pair It With Something You Love
 
-Do you love a glass of wine or a cup of hot tea? Is chocolate your life saver? Bring those along with you while you do your taxes! This is a great way to start associating something positive with something you don't like very much. 
+Do you love a glass of wine or a cup of hot tea? Is chocolate your life saver? Bring those along with you while you do your taxes! This is a great way to start associating something positive with something you don't like very much.
 
 ## Give Yourself a Small Reward
 
-One of my clients recently told me that she forced herself to spend an hour working on her budget. I asked her how she got herself to stay focused and get it done and she said, "I wouldn't let myself have a donut until I was done." I thought that was such a simple, easy way to encourage herself to do something she usually doesn't like doing. However, she did say that she can't necessarily eat a donut every time she deals with her money, so she might have to come up with a different reward eventually.
-
-What
+One of my clients recently told me that she forced herself to spend an hour working on her budget. I asked her how she got herself to stay focused and get it done and she said, "I wouldn't let myself have a donut until I was done." I thought that was such a simple, easy way to encourage herself to do something she usually doesn't like doing. However, she did say that she can't necessarily eat a donut every time she deals with her money, so she might have to come up with a different reward eventually. What budget-friendly reward would you give yourself?
 
 ## Get a Friend to Do It With You
 
-I guarantee you have at least one friend who is dreading doing their taxes as much as you are. Set up a time to work together and provide moral support. It's kind of like having a gym buddy, but it's a tax buddy.
+I guarantee you have at least one friend who is dreading doing their taxes as much as you are. Set up a time to work together and provide moral support. It's kind of like having a gym buddy, but it's a tax buddy. You might even be more likely to get things done faster so you can hang out and have fun afterwards. 
 
 ## Call Up Your Coach
 
@@ -33,11 +31,11 @@ Do you have a coach or another accountability partner you work with? Schedule a 
 
 ## Get Comfortable
 
-I find that everything feels more pleasant if I'm a comfortable spot, in soft, comfortable clothes. I want to be warm and cozy most of the time, but especially when I'm working on something that stresses me out. 
+I find that everything feels more pleasant if I'm a comfortable spot, in soft, comfortable clothes. I want to be warm and cozy most of the time, but especially when I'm working on something that stresses me out.
 
 ## Find a Change of Scenery
 
-My friend, Torie, from Cherry Blossom Creative, does her taxes at a spa. She carves out a day to spend at the spa 
+My friend, Torie, from Cherry Blossom Creative, does her taxes at a spa. She carves out a day to spend at the spa
 
 Do you feel more motivated to do your taxes (or balance your budget) now?
 
