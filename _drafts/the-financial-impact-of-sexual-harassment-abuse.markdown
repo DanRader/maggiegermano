@@ -10,3 +10,4 @@ posts:
 - Where You Can Put Your Money If You're Feeling Hopeless
 ---
 
+Happy Women's History Month! This is the one month out of the year that is dedicated to the contributions and achievements of women in America. Yes, we should be celebrating women everyday; I know I do. 
