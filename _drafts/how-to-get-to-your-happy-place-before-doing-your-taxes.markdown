@@ -35,7 +35,7 @@ I find that everything feels more pleasant if I'm in a comfortable spot, in soft
 
 ## Find a Change of Scenery
 
-My friend Torie, from [Cherry Blossom Creative](http://cherryblossomcreative.com/), does her taxes at a spa. She carves out a day to spend at the spa
+My friend Torie, from [Cherry Blossom Creative](http://cherryblossomcreative.com/), does her taxes at a spa. She carves out a full day to spend at the spa while doing her business taxes. This is a way to bring calm 
 
 Do you feel more motivated to do your taxes (or balance your budget) now?
 
