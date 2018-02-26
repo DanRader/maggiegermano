@@ -19,6 +19,10 @@ Do you love a glass of wine or a cup of hot tea? Is chocolate your life saver? B
 
 ## Give Yourself a Small Reward
 
+One of my clients recently told me that she forced herself to spend an hour working on her budget. I asked her how she got herself to stay focused and get it done and she said, "I wouldn't let myself have a donut until I was done." I thought that was such a simple, easy way to encourage herself to do something she usually doesn't like doing. However, she did say that she can't necessarily eat a donut every time she deals with her money, so she might have to come up with a different reward eventually.
+
+What 
+
 ## Get a Friend to Do It With You
 
 I guarantee you have at least one friend who is dreading doing their taxes as much as you are.
