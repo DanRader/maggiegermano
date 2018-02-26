@@ -35,6 +35,10 @@ Do you have a coach or another accountability partner you work with? Schedule a 
 
 I find that everything feels more pleasant if I'm a comfortable spot, in soft, comfortable clothes. I want to be warm and cozy most of the time, but especially when I'm working on something that stresses me out. 
 
+## Find a Change of Scenery
+
+My friend, Torie, from Cherry Blossom Creative, does her taxes at a spa. She carves out a day to spend at the spa 
+
 Do you feel more motivated to do your taxes (or balance your budget) now?
 
 *How do you get yourself to do the things you dread most? Share in the comments!*
