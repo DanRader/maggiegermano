@@ -8,3 +8,7 @@ Join [Maggie Germano](http://maggiegermano.com/) and [Noelle Janka](http://www.n
 
 **When:** Wednesday, March 28th at 6:30pm\
 **Where:** Zoom (link sent upon registration)
+
+insert Noelle's headshot and bio
+
+insert my headshot and bio
