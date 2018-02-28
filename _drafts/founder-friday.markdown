@@ -11,7 +11,7 @@ Happy Friday! I hope you're staying dry on this misty day. Here's what I've been
 
 ## How I Spent Money This Week
 
-* x
+* I tried really hard not to spend money this week. I'm sure you understand how the last few days of the month can be tight. 
 
 ## What I'm Writing
 
