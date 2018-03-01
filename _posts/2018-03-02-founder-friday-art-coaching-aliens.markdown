@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Art, Coaching, and Aliens
 date: 2018-03-02 14:00:00 -05:00
+published: false
 image: "/uploads/art.jpg"
 tweet: 'It''s #FounderFriday yet again! Check out what I''m fan-girling over and take
   some #money tips into the weekend.'
@@ -46,6 +47,6 @@ Financial tasks, like filing your taxes, can be incredibly stressful. It's easy 
 
 * Review the benefits provided by your employer. Are you taking advantage of a 401k match that's offered? Are you using pre-tax commuter benefits? Make sure you aren't missing out on these types of opportunities.
 
-* 
+* Set up automated savings. It can be as little as $10 a month, but it's important to save without having to think about it. So set up direct deposit from your paycheck into a savings account. You'll be surprised at how quickly it will grow. 
 
 *What are your plans for the weekend? Share in the comments!*
