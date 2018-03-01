@@ -41,12 +41,14 @@ Financial tasks, like filing your taxes, can be incredibly stressful. It's easy 
 
 * [The Kettering Incident](http://www.imdb.com/title/tt4228802/). Dan and I just started watching this Australian show on Amazon Prime recently. It's really creepy. We *think* it's about aliens, but we aren't sure yet.
 
+* The new [Bossed Up podcast](https://itunes.apple.com/us/podcast/bossed-up/id1350039358?mt=2&ign-mpt=uo%3D4)! It launched yesterday, March 1st, and I'm already loving it. Make sure to subscribe, and stay tuned because I'll be on the podcast soon!
+
 ## Money Tips to Take Into the Weekend
 
 * Take advantage of a free event in your city. Better yet, try to find something that you've never tried before. You won't be spending any money *and* you'll be trying something new.
 
 * Review the benefits provided by your employer. Are you taking advantage of a 401k match that's offered? Are you using pre-tax commuter benefits? Make sure you aren't missing out on these types of opportunities.
 
-* Set up automated savings. It can be as little as $10 a month, but it's important to save without having to think about it. So set up direct deposit from your paycheck into a savings account. You'll be surprised at how quickly it will grow. 
+* Set up automated savings. It can be as little as $10 a month, but it's important to save without having to think about it. So set up direct deposit from your paycheck into a savings account. You'll be surprised at how quickly it will grow.
 
 *What are your plans for the weekend? Share in the comments!*
