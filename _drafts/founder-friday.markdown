@@ -1,6 +1,11 @@
 ---
 title: Founder Friday | Art,
 date: 2018-03-02 14:00:00 -05:00
+image: "/uploads/art.jpg"
+posts:
+- Founder Friday | Taxes, Activists, and Podcasts
+- Founder Friday | Pastries, Vagina Monologues, and Nashville
+- Founder Friday | Taxes, Tea, and Boobs
 ---
 
 Happy Friday! I hope you're staying dry on this misty day. Here's what I've been up to this week!
