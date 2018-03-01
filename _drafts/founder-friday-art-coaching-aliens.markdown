@@ -1,5 +1,5 @@
 ---
-title: Founder Friday | Art, Coaching, and
+title: Founder Friday | Art, Coaching, and Aliens
 date: 2018-03-02 14:00:00 -05:00
 image: "/uploads/art.jpg"
 posts:
@@ -8,7 +8,7 @@ posts:
 - Founder Friday | Taxes, Tea, and Boobs
 ---
 
-Happy Friday! I hope you're staying dry on this misty day. Here's what I've been up to this week!
+Happy Friday! Here's what I've been up to this week!
 
 ## How I Earned Money This Week
 
@@ -30,16 +30,20 @@ Financial tasks, like filing your taxes, can be incredibly stressful. It's easy 
 
 * I'm spending this weekend with the amazing folks at [CoachDiversity Institute](http://coachdiversity.com/). I received my coaching certification through them last year, and now I'm training to be a trainer for their program. Their mission is to bring the transformational power of coaching to all communities. If you want to learn more, [email me](mailto:hello@maggiegermano.com)!
 
-* 
+* Women's History Month! We should be celebrating women every single day, but I'm looking forward to a month full of elevating the contributions of women throughout history. Stay tuned!
 
 ## What I'm Fan-Girling Over
 
 * [Marcella Kriebel](https://marcellakriebel.com/)'s food-themed artwork. We already own two: an [avocado](https://www.etsy.com/listing/525379595/ripe-avocado-watercolor-illustration-art?ref=shop_home_active_38) and a [bread assortment](https://www.etsy.com/listing/220227439/bread-for-all-art-illustration-w-nelson?ref=shop_home_active_85). I'd love to fill up the wall in my kitchen with these, and the next one I want is [this one](https://www.etsy.com/listing/568819811/large-bowl-of-ramen-with-egg-nori-and) that makes my mouth water.
 
-* [The Kettering Incident](http://www.imdb.com/title/tt4228802/). Dan and I just started watching this Australian show on Amazon Prime recently. It's really creepy.
+* [The Kettering Incident](http://www.imdb.com/title/tt4228802/). Dan and I just started watching this Australian show on Amazon Prime recently. It's really creepy. We *think* it's about aliens, but we aren't sure yet.
 
 ## Money Tips to Take Into the Weekend
 
-* Take advantage of a free event in your city. 
+* Take advantage of a free event in your city. Better yet, try to find something that you've never tried before. You won't be spending any money *and* you'll be trying something new.
+
+* Review the benefits provided by your employer. Are you taking advantage of a 401k match that's offered? Are you using pre-tax commuter benefits? 
+
+* 
 
 *What are your plans for the weekend? Share in the comments!*
