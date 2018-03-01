@@ -40,6 +40,10 @@ Financial tasks, like filing your taxes, can be incredibly stressful. It's easy 
 
 ## Money Tips to Take Into the Weekend
 
-* Take advantage of a free event in your city. 
+* Take advantage of a free event in your city. Better yet, try to find something that you've never tried before. You won't be spending any money *and* you'll be trying something new.
+
+* Review the benefits provided by your employer. Are you taking advantage of a 401k match that's offered? Are you using pre-tax commuter benefits? 
+
+* 
 
 *What are your plans for the weekend? Share in the comments!*
