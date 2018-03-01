@@ -23,7 +23,7 @@ Financial tasks, like filing your taxes, can be incredibly stressful. It's easy 
 
 ## What I'm Excited About
 
-* x
+* I'm spending this weekend with the amazing folks at [CoachDiversity Institute](http://coachdiversity.com/). 
 
 * 
 
