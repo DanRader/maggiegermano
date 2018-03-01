@@ -8,7 +8,7 @@ posts:
 - Founder Friday | Taxes, Tea, and Boobs
 ---
 
-Happy Friday! I hope you're staying dry on this misty day. Here's what I've been up to this week!
+Happy Friday! Here's what I've been up to this week!
 
 ## How I Earned Money This Week
 
@@ -30,7 +30,7 @@ Financial tasks, like filing your taxes, can be incredibly stressful. It's easy 
 
 * I'm spending this weekend with the amazing folks at [CoachDiversity Institute](http://coachdiversity.com/). I received my coaching certification through them last year, and now I'm training to be a trainer for their program. Their mission is to bring the transformational power of coaching to all communities. If you want to learn more, [email me](mailto:hello@maggiegermano.com)!
 
-* 
+* Women's History Month! We should be celebrating women every single day, but I'm looking forward to a month full of elevating the contributions of women throughout history. Stay tuned!
 
 ## What I'm Fan-Girling Over
 
