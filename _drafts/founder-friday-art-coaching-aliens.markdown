@@ -42,7 +42,7 @@ Financial tasks, like filing your taxes, can be incredibly stressful. It's easy 
 
 * Take advantage of a free event in your city. Better yet, try to find something that you've never tried before. You won't be spending any money *and* you'll be trying something new.
 
-* Review the benefits provided by your employer. Are you taking advantage of a 401k match that's offered? Are you using pre-tax commuter benefits? 
+* Review the benefits provided by your employer. Are you taking advantage of a 401k match that's offered? Are you using pre-tax commuter benefits? Make sure you aren't missing out on these types of opportunities. 
 
 * 
 
