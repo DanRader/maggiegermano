@@ -11,7 +11,7 @@ Happy Friday! I hope you're staying dry on this misty day. Here's what I've been
 
 ## How I Spent Money This Week
 
-* I tried really hard not to spend money this week. I'm sure you understand how the last few days of the month can be tight. 
+* I tried really hard not to spend money this week. I'm sure you understand how the last few days of the month can be tight. If I get close to my budget limit, I try not to spend money again until the 1st of the next month. However, I did spend a few dollars on tea at a coffee shop, and about $15 at Home Depot (of course).
 
 ## What I'm Writing
 
