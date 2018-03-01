@@ -18,7 +18,7 @@ Happy Friday! Here's what I've been up to this week!
 
 * One of my monthly coaching clients paid for March early.
 
-* We had three Airbnb guests over the past week, and their fees are depositing into our bank account soon.
+* We had three Airbnb guests stay in the basement over the past week!
 
 ## How I Spent Money This Week
 
@@ -26,7 +26,7 @@ Happy Friday! Here's what I've been up to this week!
 
 ## What I'm Writing
 
-Financial tasks, like filing your taxes, can be incredibly stressful. It's easy to avoid doing the things that stress us out the most. So [I wrote this week](https://www.maggiegermano.com/blog/how-to-get-to-your-happy-place-before-doing-your-taxes/) about how to get into your happy place before you tackle your taxes. 
+Financial tasks, like filing your taxes, can be incredibly stressful. It's easy to avoid doing the things that stress us out the most. So [I wrote this week](https://www.maggiegermano.com/blog/how-to-get-to-your-happy-place-before-doing-your-taxes/) about how to get into your happy place before you tackle your taxes.
 
 ## What I'm Excited About
 
@@ -44,7 +44,7 @@ Financial tasks, like filing your taxes, can be incredibly stressful. It's easy 
 
 * Take advantage of a free event in your city. Better yet, try to find something that you've never tried before. You won't be spending any money *and* you'll be trying something new.
 
-* Review the benefits provided by your employer. Are you taking advantage of a 401k match that's offered? Are you using pre-tax commuter benefits? Make sure you aren't missing out on these types of opportunities. 
+* Review the benefits provided by your employer. Are you taking advantage of a 401k match that's offered? Are you using pre-tax commuter benefits? Make sure you aren't missing out on these types of opportunities.
 
 * 
 
