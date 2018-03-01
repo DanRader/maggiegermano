@@ -40,6 +40,6 @@ Financial tasks, like filing your taxes, can be incredibly stressful. It's easy 
 
 ## Money Tips to Take Into the Weekend
 
-* x
+* Take advantage of a free event in your city. 
 
 *What are your plans for the weekend? Share in the comments!*
