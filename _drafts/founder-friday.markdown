@@ -29,7 +29,7 @@ Financial tasks, like filing your taxes, can be incredibly stressful. It's easy 
 
 ## What I'm Fan-Girling Over
 
-* x
+* [Marcella Kriebel](https://marcellakriebel.com/)'s food-themed artwork. We already own two: an [avocado](https://www.etsy.com/listing/525379595/ripe-avocado-watercolor-illustration-art?ref=shop_home_active_38) and a [bread assortment](https://www.etsy.com/listing/220227439/bread-for-all-art-illustration-w-nelson?ref=shop_home_active_85). I'd love to fill up the wall in my kitchen with these, and the next one I want is [this one](https://www.etsy.com/listing/568819811/large-bowl-of-ramen-with-egg-nori-and) that makes my mouth water.
 
 ## Money Tips to Take Into the Weekend
 
