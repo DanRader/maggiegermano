@@ -12,7 +12,7 @@ Happy Friday! I hope you're staying dry on this misty day. Here's what I've been
 
 ## How I Earned Money This Week
 
-* The fees from the February Money Circle deposited into my account this week.
+* The fees from the February Money Circle deposited into my account this week. ([Sign up](https://www.maggiegermano.com/events/how-taxes-fit-into-your-financial-goals/) for next month's gathering!)
 
 * One of my monthly coaching clients paid for March early.
 
