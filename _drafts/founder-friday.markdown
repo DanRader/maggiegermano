@@ -7,7 +7,11 @@ Happy Friday! I hope you're staying dry on this misty day. Here's what I've been
 
 ## How I Earned Money This Week
 
-* x
+* The fees from the February Money Circle deposited into my account this week.
+
+* One of my monthly coaching clients paid for March early.
+
+* We had three Airbnb guests over the past week, and their fees are depositing into our bank account soon.
 
 ## How I Spent Money This Week
 
@@ -15,7 +19,7 @@ Happy Friday! I hope you're staying dry on this misty day. Here's what I've been
 
 ## What I'm Writing
 
-x
+Financial tasks, like filing your taxes, can be incredibly stressful. It's easy to avoid doing the things that stress us out the most. So [I wrote this week](https://www.maggiegermano.com/blog/how-to-get-to-your-happy-place-before-doing-your-taxes/) about how to get into your happy place before you tackle your taxes. 
 
 ## What I'm Excited About
 
