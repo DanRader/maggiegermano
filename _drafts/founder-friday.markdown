@@ -1,5 +1,5 @@
 ---
-title: Founder Friday | Art,
+title: Founder Friday | Art, Coaching, and
 date: 2018-03-02 14:00:00 -05:00
 image: "/uploads/art.jpg"
 posts:
@@ -28,7 +28,7 @@ Financial tasks, like filing your taxes, can be incredibly stressful. It's easy 
 
 ## What I'm Excited About
 
-* I'm spending this weekend with the amazing folks at [CoachDiversity Institute](http://coachdiversity.com/). 
+* I'm spending this weekend with the amazing folks at [CoachDiversity Institute](http://coachdiversity.com/). I received my coaching certification through them last year, and now I'm training to be a trainer for their program. Their mission is to bring the transformational power of coaching to all communities. If you want to learn more, [email me](mailto:hello@maggiegermano.com)!
 
 * 
 
