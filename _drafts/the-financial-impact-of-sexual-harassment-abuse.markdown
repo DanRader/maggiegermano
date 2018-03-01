@@ -14,6 +14,12 @@ Happy Women's History Month! This is the one month out of the year that is dedic
 
 Sexual harassment and abuse have been prominent in the news lately, thanks to the #MeToo movement.
 
-## Changing Industries
+## Healthcare Costs
 
 ## Mental Health Repercussions
+
+## Changing Industries
+
+I've heard about this a lot during the #MeToo movement. Many women who started out in the entertainment industry left their career after experiencing sexual harassment or abuse in the workplace. 
+
+## Litigation
