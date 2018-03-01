@@ -35,6 +35,8 @@ Financial tasks, like filing your taxes, can be incredibly stressful. It's easy 
 
 * Women's History Month! We should be celebrating women every single day, but I'm looking forward to a month full of elevating the contributions of women throughout history. Stay tuned!
 
+[![download.png](/uploads/download.png)](http://www.coachdiversity.com)
+
 ## What I'm Fan-Girling Over
 
 * [Marcella Kriebel](https://marcellakriebel.com/)'s food-themed artwork. We already own two: an [avocado](https://www.etsy.com/listing/525379595/ripe-avocado-watercolor-illustration-art?ref=shop_home_active_38) and a [bread assortment](https://www.etsy.com/listing/220227439/bread-for-all-art-illustration-w-nelson?ref=shop_home_active_85). I'd love to fill up the wall in my kitchen with these, and the next one I want is [this one](https://www.etsy.com/listing/568819811/large-bowl-of-ramen-with-egg-nori-and) that makes my mouth water.
@@ -42,6 +44,8 @@ Financial tasks, like filing your taxes, can be incredibly stressful. It's easy 
 * [The Kettering Incident](http://www.imdb.com/title/tt4228802/). Dan and I just started watching this Australian show on Amazon Prime recently. It's really creepy. We *think* it's about aliens, but we aren't sure yet.
 
 * The new [Bossed Up podcast](https://itunes.apple.com/us/podcast/bossed-up/id1350039358?mt=2&ign-mpt=uo%3D4)! It launched yesterday, March 1st, and I'm already loving it. Make sure to subscribe, and stay tuned because I'll be on the podcast soon!
+
+![2018-03-01 12.08.35.jpg](/uploads/2018-03-01%2012.08.35.jpg)
 
 ## Money Tips to Take Into the Weekend
 
