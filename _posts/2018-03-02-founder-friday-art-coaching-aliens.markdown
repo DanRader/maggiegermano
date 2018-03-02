@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Art, Coaching, and Aliens
 date: 2018-03-02 14:00:00 -05:00
-published: false
 image: "/uploads/art.jpg"
 tweet: 'It''s #FounderFriday yet again! Check out what I''m fan-girling over and take
   some #money tips into the weekend.'
