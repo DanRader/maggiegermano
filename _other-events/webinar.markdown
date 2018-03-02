@@ -10,7 +10,7 @@ end-time:
 location: 
 button-text: Sign Me Up
 button-link: 
-ticket-price: 
+ticket-price: "$20"
 layout: event
 ---
 
