@@ -20,6 +20,8 @@ Sexual harassment and abuse have been prominent in the news lately, thanks to th
 
 ## Changing Industries
 
-I've heard about this a lot during the #MeToo movement. Many women who started out in the entertainment industry left their career after experiencing sexual harassment or abuse in the workplace. 
+I've heard about this a lot during the #MeToo movement. Many women who started out in the entertainment industry left their career after experiencing sexual harassment or abuse in the workplace.
 
 ## Litigation
+
+In the news, we often hear about multi-million dollar settlements. But the truth is, that usually doesn't happen. If it does happen, it is after much time, money, and struggle. 
