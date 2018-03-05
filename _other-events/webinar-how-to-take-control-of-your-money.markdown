@@ -8,7 +8,7 @@ button-text: Sign Me Up
 button-link: https://maggiegermanofinancialcoaching.as.me/webinar
 ticket-price: "$20"
 og-image: 
-image: 
+image: "/uploads/freedom.jpg"
 layout: event
 ---
 
