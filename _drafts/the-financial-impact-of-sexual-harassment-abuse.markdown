@@ -24,6 +24,8 @@ I've heard about this a lot during the #MeToo movement. Many women who started o
 
 According to data collected by sociologist Heather McLaughlin and others, about [80% of women ](https://workinprogress.oowsection.org/2017/08/17/the-cost-of-sexual-harassment/)who have been harassed leave their jobs within two years. This happens everywhere: tech, education, law enforcement, etc. Not only is this incredibly tragic because it causes women to leave their preferred field, but it can also negatively impact their earning power. When you leave one industry and start over in a new one, you're starting from the bottom in terms of salary too. 
 
+Not only does this affect women individually, but it affects the economy and women as a whole. As women leave their careers to escape sexual harassment and/or abuse, we're all missing out on their ideas and accomplishments.
+
 ## Litigation
 
 In the news, we often hear about multi-million dollar settlements. But the truth is, that usually doesn't happen. If it does happen, it is after much time, money, and struggle.
