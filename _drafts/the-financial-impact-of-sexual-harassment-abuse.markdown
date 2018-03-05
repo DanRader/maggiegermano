@@ -26,11 +26,13 @@ According to data collected by sociologist Heather McLaughlin and others, about 
 
 Not only does this affect women individually, but it affects the economy and women as a whole. As women leave their careers to escape sexual harassment and/or abuse, we're all missing out on their ideas and accomplishments.
 
-## Litigation
+## Settlements and Litigation
 
-In the news, we often hear about multi-million dollar settlements. But the truth is, that usually doesn't happen. Most often, women need their paycheck, so they choose not to file a complaint at all. 
+In the news, we often hear about multi-million dollar settlements. But the truth is, that usually doesn't happen. Most often, women need their paycheck to survive, so they choose not to file a complaint at all. And many abusers know this, which is one of the reasons why they feel so empowered to harass and abuse women in the workplace.
 
 However, companies are paying so. much. money. to settle sexual harassment cases. According to the EEOC, since 2010, employers have paid out $698.7 million to employees alleging harassment through the Commission’s administrative enforcement pre-litigation process alone. 
+
+If women do decide to file a complaint or press charges, they likely have to pay out of pocket for legal fees. Many people cannot afford this route.
 
 So what can you do?
 
@@ -62,7 +64,7 @@ Here are some wonderful organizations to start with:
 
 * [RAINN](https://www.rainn.org/)
 
-* 
+* [National Sexual Violence Resource Center](https://www.nsvrc.org/)
 
 *Have you experienced financial difficulty due to sexual harassment or assault? If you feel comfortable, share your story in the comments. You are not alone!*
 
