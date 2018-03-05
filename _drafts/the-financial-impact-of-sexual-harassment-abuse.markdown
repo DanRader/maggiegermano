@@ -32,6 +32,8 @@ In the news, we often hear about multi-million dollar settlements. But the truth
 
 However, companies are paying so. much. money. to settle sexual harassment cases. According to the EEOC, since 2010, employers have paid out $698.7 million to employees alleging harassment through the Commission’s administrative enforcement pre-litigation process alone. 
 
+If women do decide to file a complaint or press charges, they likely have to pay out of pocket for legal fees. Many people cannot afford this route.
+
 So what can you do?
 
 ## Speak Up
