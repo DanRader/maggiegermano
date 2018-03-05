@@ -20,6 +20,8 @@ Sexual harassment and abuse have been prominent in the news lately, thanks to th
 
 ## Mental Health Repercussions
 
+A [study](http://engagedscholarship.csuohio.edu/cgi/viewcontent.cgi?article=1665&context=clevstlrev) by Cleveland State University concluded that 90-95 percent of women who reported sexual harassment experienced physical consequences as a result, such as stress, anxiety, depression, headaches, nausea, and PTSD.
+
 ## Changing Industries
 
 I've heard about this a lot during the #MeToo movement. Many women who started out in the entertainment industry left their career after experiencing sexual harassment or abuse in the workplace. Many of these women likely had extremely promising careers, but they no longer felt safe or wanted, so they left the industry.
