@@ -24,4 +24,14 @@ I've heard about this a lot during the #MeToo movement. Many women who started o
 
 ## Litigation
 
-In the news, we often hear about multi-million dollar settlements. But the truth is, that usually doesn't happen. If it does happen, it is after much time, money, and struggle. 
+In the news, we often hear about multi-million dollar settlements. But the truth is, that usually doesn't happen. If it does happen, it is after much time, money, and struggle.
+
+**Resources:**
+
+* [The Economic Costs of Sexual Harassment in the Workplace](http://mnnow.org/the-economic-costs-of-sexual-harassment-in-the-workplace/)
+
+* [#MeToo: Sexual assault inflicts dire economic costs as well](http://thehill.com/opinion/finance/357137-metoo-sexual-assault-inflicts-dire-economic-costs-as-well)
+
+* [The Economic Cost of Intimate Partner Violence, Sexual Assault, and Stalking](https://iwpr.org/publications/economic-cost-intimate-partner-violence-sexual-assault-stalking/)
+
+* 
