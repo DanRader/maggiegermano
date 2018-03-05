@@ -46,6 +46,8 @@ If someone tells you that they've been harassed or abused, believe them. Ask the
 
 There are so many organizations out there fighting against sexual harassment and abuse and supporting survivors. Pick one to donate to or volunteer with. 
 
+Here are some wonderful organizations to start with:
+
 * [Collective Action for Safe Spaces](http://www.collectiveactiondc.org/)
 
 * [Time's Up](https://www.timesupnow.com/)
@@ -53,6 +55,10 @@ There are so many organizations out there fighting against sexual harassment and
 * [National Women's Law Center](https://nwlc.org/)
 
 * [AAUW](https://www.aauw.org/what-we-do/legal-resources/know-your-rights-at-work/workplace-sexual-harassment/)
+
+* [Stop Violence Against Women](http://www.stopvaw.org/Stop_Violence_Against_Women)
+
+* [RAINN](https://www.rainn.org/)
 
 * 
 
