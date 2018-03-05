@@ -34,4 +34,8 @@ In the news, we often hear about multi-million dollar settlements. But the truth
 
 * [The Economic Cost of Intimate Partner Violence, Sexual Assault, and Stalking](https://iwpr.org/publications/economic-cost-intimate-partner-violence-sexual-assault-stalking/)
 
+* [The Cost of Sexual Harassment in the Workplace](https://www.yourerc.com/blog/post/the-cost-of-sexual-harassment-in-the-workplace.aspx)
+
+* [$MeToo: The Economic Cost of Sexual Harassment](https://www.ineteconomics.org/research/research-papers/metoo-the-economic-cost-of-sexual-harassment)
+
 * 
