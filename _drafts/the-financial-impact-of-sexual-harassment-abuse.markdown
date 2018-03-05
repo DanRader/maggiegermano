@@ -18,9 +18,15 @@ Sexual harassment and abuse have been prominent in the news lately, thanks to th
 
 ## Healthcare Costs
 
+A [study](http://engagedscholarship.csuohio.edu/cgi/viewcontent.cgi?article=1665&context=clevstlrev) by Cleveland State University concluded that 90-95 percent of women who reported sexual harassment experienced physical consequences as a result, such as stress, anxiety, depression, headaches, nausea, and PTSD.
+
 ## Mental Health Repercussions
 
-A [study](http://engagedscholarship.csuohio.edu/cgi/viewcontent.cgi?article=1665&context=clevstlrev) by Cleveland State University concluded that 90-95 percent of women who reported sexual harassment experienced physical consequences as a result, such as stress, anxiety, depression, headaches, nausea, and PTSD.
+As mentioned above, the vast majority of women who reported sexual harassment experience stress, anxiety, depression, and PTSD. And those are just the women who have reported! We don't have conclusive data on the women who have experienced harassment and assault but who haven't sought repercussions for their abusers. Just imagine the additional mental health impacts of bearing these experiences alone. 
+
+To add insult to injury, mental health services in the United States are not great. There is still a stigma around therapy and medication, to start. And then, our healthcare system doesn't make it easy or affordable to access mental health services. An insurance company might make you jump through hoops just to get an appointment, or the services themselves might be prohibitively expensive. 
+
+In my own experience, I now have insurance through the marketplace and the insurance company I have only offers therapy from one office location, which is not metro accessible and nowhere near my home. To boot, they also only allow me and other patients to go to therapy once or twice a month, because they want us to "live life outside of therapy too", which I don't buy. So, I'm a very privileged women, with access to affordable healthcare, with a partner who owns a car, and the means to take a cab if I need to. Yet, I still feel discouraged from seeking therapy under my current insurance. Just imagine the barriers to women who do not have the same privileges. How are they to get the support they need?
 
 ## Changing Industries
 
