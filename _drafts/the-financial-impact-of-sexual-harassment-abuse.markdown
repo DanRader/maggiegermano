@@ -20,7 +20,9 @@ Sexual harassment and abuse have been prominent in the news lately, thanks to th
 
 ## Changing Industries
 
-I've heard about this a lot during the #MeToo movement. Many women who started out in the entertainment industry left their career after experiencing sexual harassment or abuse in the workplace. Some of these women had extremely promising careers, but they no longer felt safe or wanted, so they left the industry. This happens everywhere: tech, education, law enforcement, etc. 
+I've heard about this a lot during the #MeToo movement. Many women who started out in the entertainment industry left their career after experiencing sexual harassment or abuse in the workplace. Many of these women likely had extremely promising careers, but they no longer felt safe or wanted, so they left the industry. 
+
+According to data collected by sociologist Heather McLaughlin and others, about [80% of women ](https://workinprogress.oowsection.org/2017/08/17/the-cost-of-sexual-harassment/)who have been harassed leave their jobs within two years. This happens everywhere: tech, education, law enforcement, etc. Not only is this incredibly tragic because it causes women to leave their preferred field, but it can also negatively impact their earning power. When you leave one industry and start over in a new one, you're starting from the bottom in terms of salary too. 
 
 ## Litigation
 
