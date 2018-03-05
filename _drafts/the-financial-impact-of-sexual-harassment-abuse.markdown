@@ -22,7 +22,7 @@ A [study](http://engagedscholarship.csuohio.edu/cgi/viewcontent.cgi?article=1665
 
 ## Mental Health Repercussions
 
-As mentioned above, the vast majority of women who reported sexual harassment experience stress, anxiety, depression, and PTSD. And those are just the women who have reported! We don't have conclusive data on the women who have experienced harassment and assault but who haven't sought repercussions for their abusers. 
+As mentioned above, the vast majority of women who reported sexual harassment experience stress, anxiety, depression, and PTSD. And those are just the women who have reported! We don't have conclusive data on the women who have experienced harassment and assault but who haven't sought repercussions for their abusers. Just imagine the additional mental health impacts of bearing these experiences alone. 
 
 ## Changing Industries
 
