@@ -77,3 +77,5 @@ Here are some wonderful organizations to start with:
 * [$MeToo: The Economic Cost of Sexual Harassment](https://www.ineteconomics.org/research/research-papers/metoo-the-economic-cost-of-sexual-harassment)
 
 * [The Insidious Economic Impact of Sexual Harassment](https://hbr.org/2017/11/the-insidious-economic-impact-of-sexual-harassment)
+
+* [Study finds 75 percent of workplace harassment victims experienced retaliation when they spoke up](https://www.vox.com/identities/2017/10/15/16438750/weinstein-sexual-harassment-facts)
