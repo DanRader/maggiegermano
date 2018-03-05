@@ -28,7 +28,9 @@ Not only does this affect women individually, but it affects the economy and wom
 
 ## Litigation
 
-In the news, we often hear about multi-million dollar settlements. But the truth is, that usually doesn't happen. If it does happen, it is after much time, money, and struggle.
+In the news, we often hear about multi-million dollar settlements. But the truth is, that usually doesn't happen. Most often, women need their paycheck, so they choose not to file a complaint at all. 
+
+However, companies are paying so. much. money. to settle sexual harassment cases. According to the EEOC, since 2010, employers have paid out $698.7 million to employees alleging harassment through the Commission’s administrative enforcement pre-litigation process alone. 
 
 So what can you do?
 
