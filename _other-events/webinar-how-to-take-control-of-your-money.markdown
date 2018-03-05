@@ -9,6 +9,7 @@ button-link: https://maggiegermanofinancialcoaching.as.me/webinar
 ticket-price: "$20"
 og-image: 
 image: "/uploads/freedom.jpg"
+location: Zoom (link provided upon registration)
 layout: event
 ---
 
