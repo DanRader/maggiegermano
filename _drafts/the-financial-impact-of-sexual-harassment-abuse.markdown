@@ -12,7 +12,7 @@ posts:
 
 Happy Women's History Month! This is the one month out of the year that is dedicated to celebrating the contributions and achievements of women in America. Like with Black History Month, we should be celebrating women every day. But unfortunately, that's not the case (yet), so it's nice to take advantage of this month to elevate women and the issues affecting them.
 
-Sexual harassment and abuse have been prominent in the news lately, thanks to the #MeToo movement. Up to 85% of women report that they have been sexually harassed at work, according to a 2016 [report](https://www.eeoc.gov/eeoc/task_force/harassment/upload/report.pdf) by the Equal Employment Opportunity Commission. Not only do these crimes affect women emotionally and physically, but they have a financial impact as well. Unfortunately, there isn't a ton of research on this yet (and hopefully there will be soon). 
+Sexual harassment and abuse have been prominent in the news lately, thanks to the #MeToo movement. Up to 85% of women report that they have been sexually harassed at work, according to a 2016 [report](https://www.eeoc.gov/eeoc/task_force/harassment/upload/report.pdf) by the Equal Employment Opportunity Commission. Not only do these crimes affect women emotionally and physically, but they have a financial impact as well. Here are the ways sexual harassment and abuse affect women financially, which you may not have thought about before.
 
 ## Healthcare Costs
 
@@ -20,11 +20,13 @@ Sexual harassment and abuse have been prominent in the news lately, thanks to th
 
 ## Changing Industries
 
-I've heard about this a lot during the #MeToo movement. Many women who started out in the entertainment industry left their career after experiencing sexual harassment or abuse in the workplace.
+I've heard about this a lot during the #MeToo movement. Many women who started out in the entertainment industry left their career after experiencing sexual harassment or abuse in the workplace. Some of these women had extremely promising careers, but they no longer felt safe or wanted, so they left the industry. This happens everywhere: tech, education, law enforcement, etc. 
 
 ## Litigation
 
 In the news, we often hear about multi-million dollar settlements. But the truth is, that usually doesn't happen. If it does happen, it is after much time, money, and struggle.
+
+*Have you experienced financial difficulty due to sexual harassment or assault? If you feel comfortable, share your story in the comments. You are not alone!*
 
 **Resources:**
 
