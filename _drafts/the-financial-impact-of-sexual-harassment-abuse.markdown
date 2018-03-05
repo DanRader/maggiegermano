@@ -20,6 +20,8 @@ Sexual harassment and abuse have been prominent in the news lately, thanks to th
 
 A [study](http://engagedscholarship.csuohio.edu/cgi/viewcontent.cgi?article=1665&context=clevstlrev) by Cleveland State University concluded that 90-95 percent of women who reported sexual harassment experienced physical consequences as a result, such as stress, anxiety, depression, headaches, nausea, insomnia, and PTSD. It can also amplify already existing mental health issues. These issues can manifest physically, leading to things like heart problems, digestive issues, or chronic pain. 
 
+This is not to mention the healthcare costs that come along with sexual assault. For the women who seek medical assistance, they will have to pay the medical costs. If they are uninsured or underinsured, that number can sky rocket. In some states, if a woman is raped and she goes to the police, she has to pay for her own rape kit. 
+
 ## Mental Health Repercussions
 
 As mentioned above, the vast majority of women who reported sexual harassment experience stress, anxiety, depression, and PTSD. And those are just the women who have reported! We don't have conclusive data on the women who have experienced harassment and assault but who haven't sought repercussions for their abusers. Just imagine the additional mental health impacts of bearing these experiences alone. 
