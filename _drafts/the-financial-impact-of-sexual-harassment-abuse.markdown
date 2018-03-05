@@ -18,9 +18,11 @@ Sexual harassment and abuse have been prominent in the news lately, thanks to th
 
 ## Healthcare Costs
 
+A [study](http://engagedscholarship.csuohio.edu/cgi/viewcontent.cgi?article=1665&context=clevstlrev) by Cleveland State University concluded that 90-95 percent of women who reported sexual harassment experienced physical consequences as a result, such as stress, anxiety, depression, headaches, nausea, and PTSD.
+
 ## Mental Health Repercussions
 
-A [study](http://engagedscholarship.csuohio.edu/cgi/viewcontent.cgi?article=1665&context=clevstlrev) by Cleveland State University concluded that 90-95 percent of women who reported sexual harassment experienced physical consequences as a result, such as stress, anxiety, depression, headaches, nausea, and PTSD.
+As mentioned above, the vast majority of women who reported sexual harassment experience stress, anxiety, depression, and PTSD. And those are just the women who have reported! We don't have conclusive data on the women who have experienced harassment and assault but who haven't sought repercussions for their abusers. 
 
 ## Changing Industries
 
