@@ -46,7 +46,7 @@ To learn more about how to be an active bystander, visit [Collective Action for 
 
 ## Support Victims
 
-If someone tells you that they've been harassed or abused, believe them. Ask them what you can do to support them. Sometimes, all people need to hear is that they are believed. Other times, they may need you to speak up for them at work, Tell the person being harassed that you have their back and that you will support them. 
+If someone tells you that they've been harassed or abused, believe them. Ask them what you can do to support them. Sometimes, all people need to hear is that they are believed. Other times, they may need you to speak up for them at work, in friend groups, or even in court. If you see someone being harassed at work (or anywhere, really), tell them that you're there for them. Again, ask how you can support them. The more victims hear that they are believed and supported, the less alone and safer they will feel. Hopefully, this will encourage more victims to come forward to get the justice they desire.
 
 ## Donate Time and/or Money
 
