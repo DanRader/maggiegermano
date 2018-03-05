@@ -38,4 +38,4 @@ In the news, we often hear about multi-million dollar settlements. But the truth
 
 * [$MeToo: The Economic Cost of Sexual Harassment](https://www.ineteconomics.org/research/research-papers/metoo-the-economic-cost-of-sexual-harassment)
 
-* 
+* [The Insidious Economic Impact of Sexual Harassment](https://hbr.org/2017/11/the-insidious-economic-impact-of-sexual-harassment)
