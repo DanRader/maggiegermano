@@ -34,15 +34,17 @@ So what can you do?
 
 ## Speak Up
 
-When you see or hear someone at work acting inappropriately, say something. Tell them that you don't approve of their behavior, and ask them to stop. Tell the person being harassed that you have their back and that you will support them. Go to HR and report what you've seen or heard. We're all responsible for creating safer spaces wherever we go. This is especially true for men! They need to show their friends and colleagues that bad behavior is not acceptable.
+When you see or hear someone acting inappropriately, say something. Tell them that you don't approve of their behavior, and ask them to stop. Go to HR and report what you've seen or heard. It can feel uncomfortable, but we're all responsible for creating safer spaces wherever we go. This is especially true for men! They need to show their friends, family, and colleagues that bad behavior is not acceptable.
 
 To learn more about how to be an active bystander, visit [Collective Action for Safe Spaces](http://www.collectiveactiondc.org/)! Even better, attend one of their [bystander trainings](http://www.collectiveactiondc.org/our-work/trainings-workshops/).
 
 ## Support Victims
 
+If someone tells you that they've been harassed or abused, believe them. Ask them what you can do to support them. Sometimes, all people need to hear is that they are believed. Other times, they may need you to speak up for them at work, Tell the person being harassed that you have their back and that you will support them. 
+
 ## Donate Time and/or Money
 
-There are so many organizations out there fighting against sexual harassment and abuse and supporting survivors. 
+There are so many organizations out there fighting against sexual harassment and abuse and supporting survivors. Pick one to donate to or volunteer with. 
 
 * [Collective Action for Safe Spaces](http://www.collectiveactiondc.org/)
 
@@ -50,7 +52,9 @@ There are so many organizations out there fighting against sexual harassment and
 
 * [National Women's Law Center](https://nwlc.org/)
 
-* x
+* [AAUW](https://www.aauw.org/what-we-do/legal-resources/know-your-rights-at-work/workplace-sexual-harassment/)
+
+* 
 
 *Have you experienced financial difficulty due to sexual harassment or assault? If you feel comfortable, share your story in the comments. You are not alone!*
 
