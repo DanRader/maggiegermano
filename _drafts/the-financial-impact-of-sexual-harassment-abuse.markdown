@@ -20,13 +20,37 @@ Sexual harassment and abuse have been prominent in the news lately, thanks to th
 
 ## Changing Industries
 
-I've heard about this a lot during the #MeToo movement. Many women who started out in the entertainment industry left their career after experiencing sexual harassment or abuse in the workplace. Many of these women likely had extremely promising careers, but they no longer felt safe or wanted, so they left the industry. 
+I've heard about this a lot during the #MeToo movement. Many women who started out in the entertainment industry left their career after experiencing sexual harassment or abuse in the workplace. Many of these women likely had extremely promising careers, but they no longer felt safe or wanted, so they left the industry.
 
-According to data collected by sociologist Heather McLaughlin and others, about [80% of women ](https://workinprogress.oowsection.org/2017/08/17/the-cost-of-sexual-harassment/)who have been harassed leave their jobs within two years. This happens everywhere: tech, education, law enforcement, etc. Not only is this incredibly tragic because it causes women to leave their preferred field, but it can also negatively impact their earning power. When you leave one industry and start over in a new one, you're starting from the bottom in terms of salary too. 
+According to data collected by sociologist Heather McLaughlin and others, about [80% of women ](https://workinprogress.oowsection.org/2017/08/17/the-cost-of-sexual-harassment/)who have been harassed leave their jobs within two years. This happens everywhere: tech, education, law enforcement, etc. Not only is this incredibly tragic because it causes women to leave their preferred field, but it can also negatively impact their earning power. When you leave one industry and start over in a new one, you're starting from the bottom in terms of salary too.
+
+Not only does this affect women individually, but it affects the economy and women as a whole. As women leave their careers to escape sexual harassment and/or abuse, we're all missing out on their ideas and accomplishments.
 
 ## Litigation
 
 In the news, we often hear about multi-million dollar settlements. But the truth is, that usually doesn't happen. If it does happen, it is after much time, money, and struggle.
+
+So what can you do?
+
+## Speak Up
+
+When you see or hear someone at work acting inappropriately, say something. Tell them that you don't approve of their behavior, and ask them to stop. Tell the person being harassed that you have their back and that you will support them. Go to HR and report what you've seen or heard. We're all responsible for creating safer spaces wherever we go. This is especially true for men! They need to show their friends and colleagues that bad behavior is not acceptable.
+
+To learn more about how to be an active bystander, visit [Collective Action for Safe Spaces](http://www.collectiveactiondc.org/)! Even better, attend one of their [bystander trainings](http://www.collectiveactiondc.org/our-work/trainings-workshops/).
+
+## Support Victims
+
+## Donate Time and/or Money
+
+There are so many organizations out there fighting against sexual harassment and abuse and supporting survivors. 
+
+* [Collective Action for Safe Spaces](http://www.collectiveactiondc.org/)
+
+* [Time's Up](https://www.timesupnow.com/)
+
+* [National Women's Law Center](https://nwlc.org/)
+
+* x
 
 *Have you experienced financial difficulty due to sexual harassment or assault? If you feel comfortable, share your story in the comments. You are not alone!*
 
