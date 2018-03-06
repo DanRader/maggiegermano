@@ -7,3 +7,8 @@ posts:
 - Why I Became a Financial Coach for Women
 ---
 
+I'm back again this week with another depressing financial issue that negatively affects women. 
+
+Not All Women Are Underpaid Equally
+
+It's Not (Just) About Having Kids
