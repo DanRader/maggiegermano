@@ -12,6 +12,6 @@ posts:
 
 *This post is part of the #WomenRockMoney movement, a large group of female personal finance bloggers who have come together to inspire more women to learn about money. If you have money questions, or want support for your financial goals, learn more about how you can join us at the [movement homepage](https://www.mamafishsaves.com/womenrockmoney-movement/). I hope to see you there!*
 
-Happy International Women's Day! Today is the day that people around the world celebrate the social, economic, cultural and political achievements of women. It's also a day to encourage efforts to improve the lives of women and girls everywhere. 
+Happy International Women's Day! Today is the day that people around the world celebrate the social, economic, cultural and political achievements of women. It's also a day to encourage efforts to improve the lives of women and girls everywhere.
 
 *[Learn more](https://www.internationalwomensday.com/About) about International Women's Day.*
