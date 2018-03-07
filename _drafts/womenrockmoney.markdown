@@ -24,4 +24,6 @@ It can be hard to speak up for yourself as a woman, since we've been socialized 
 
 ## x
 
+How are you celebrating International Women's Day today? Are you striking from work? Are you refusing to do any housework? I'm going to a [fundraiser](https://www.facebook.com/events/277506966117621/) of [Planned Parenthood of Metro Washington](https://www.plannedparenthood.org/planned-parenthood-metropolitan-washington-dc)! 
+
 *[Learn more](https://www.internationalwomensday.com/About) about International Women's Day.*
