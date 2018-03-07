@@ -1,6 +1,6 @@
 ---
 title: Founder Friday | Bossed Up, Airbnb, and Women
-date: 2018-03-06 14:17:00 -05:00
+date: 2018-03-09 14:00:00 -05:00
 ---
 
 ## How I Earned Money This Week
