@@ -9,4 +9,6 @@ posts:
 - How You Can Fight for Equal Pay
 ---
 
+*This post is part of the #WomenRockMoney movement, a large group of female personal finance bloggers who have come together to inspire more women to learn about money. If you have money questions, or want support for your financial goals, learn more about how you can join us at the [movement homepage](https://www.mamafishsaves.com/womenrockmoney-movement/). I hope to see you there!*
+
 Happy International Women's Day!
