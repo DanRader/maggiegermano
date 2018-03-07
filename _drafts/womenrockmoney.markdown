@@ -12,15 +12,15 @@ posts:
 
 *This post is part of the #WomenRockMoney movement, a large group of female personal finance bloggers who have come together to inspire more women to learn about money. If you have money questions, or want support for your financial goals, learn more about how you can join us at the [movement homepage](https://www.mamafishsaves.com/womenrockmoney-movement/). I hope to see you there!*
 
-Happy International Women's Day! Today is the day that people around the world celebrate the social, economic, cultural and political achievements of women. It's also a day to encourage efforts to improve the lives of women and girls everywhere.
+Happy International Women's Day! Today is the day that people around the world celebrate the social, economic, cultural and political achievements of women. It's also a day to encourage efforts to improve the lives of women and girls everywhere. As a financial coach, I believe that financial security is one of the key drivers to women's empowerment. I use coaching and blogging as a way to provide women with the tools and support they need to take control of their money. Today, I'm presenting my most important money advice to help women get started on their money journey.
 
 ## Know Your Stuff
 
-Knowledge is power, truly. It's really easy to avoid and ignore your financial issues, but that keeps you out of power.
+Knowledge is power, truly. It's really easy to avoid and ignore your financial issues, but that keeps you out of control. It's important to push through the anxiety and get a good grip on what's going on with your money. 
 
 ## Advocate for Yourself
 
-It can be hard to speak up for yourself as a woman, since we've been socialized to be nice and 
+It can be hard to speak up for yourself as a woman, since we've been socialized to be nice and not cause trouble. But no one but you can ask for what you need. 
 
 ## x
 
