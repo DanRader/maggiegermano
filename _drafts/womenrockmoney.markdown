@@ -14,4 +14,14 @@ posts:
 
 Happy International Women's Day! Today is the day that people around the world celebrate the social, economic, cultural and political achievements of women. It's also a day to encourage efforts to improve the lives of women and girls everywhere.
 
+## Know Your Stuff
+
+Knowledge is power, truly. It's really easy to avoid and ignore your financial issues, but that keeps you out of power.
+
+## Advocate for Yourself
+
+It can be hard to speak up for yourself as a woman, since we've been socialized to be nice and 
+
+## x
+
 *[Learn more](https://www.internationalwomensday.com/About) about International Women's Day.*
