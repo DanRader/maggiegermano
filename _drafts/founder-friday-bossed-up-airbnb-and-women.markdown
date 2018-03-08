@@ -3,6 +3,8 @@ title: Founder Friday | Bossed Up, Airbnb, and Women
 date: 2018-03-09 14:00:00 -05:00
 ---
 
+Happy Friday! We made it! 
+
 ## How I Earned Money This Week
 
 * Our basement Airbnb is bumping this month! Several payment from February and from the first week of March will be deposited into our bank account this week. I was really nervous about renting out our basement and not having much luck, but it actually seems to be doing really well.
