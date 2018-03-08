@@ -11,7 +11,7 @@ date: 2018-03-09 14:00:00 -05:00
 
 * I hate that I'm always complaining about homeowner woes here, but our dishwasher broke! I knew I wanted to replace the one that came with the house, but I didn't think we'd have to do it so soon. So we used some of our dedicated house savings to buy a new, stainless steel, dishwasher. I'm hoping it's really as quiet as the ad said it is!
 
-* 
+* Dan had a speaking gig this week at CreativeJam by Adobe. He got out of work early to prepare, so we went to [El Rey](https://elreydc.com/) in Shaw for some tacos and beer. 
 
 ## **What I’m Writing**
 
