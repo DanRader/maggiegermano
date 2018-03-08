@@ -40,6 +40,8 @@ What is it you truly desire for yourself? Have you ever stopped to think about i
 
 * What would you do if you didn't have any debt?
 
-How are you celebrating International Women's Day today? Are you striking from work? Are you refusing to do any housework? I'm going to a [fundraiser](https://www.facebook.com/events/277506966117621/) of [Planned Parenthood of Metro Washington](https://www.plannedparenthood.org/planned-parenthood-metropolitan-washington-dc)! 
+* What is your ideal financial situation?
+
+How are you celebrating International Women's Day today? Are you striking from work? Are you refusing to do any housework? I'm going to a [fundraiser](https://www.facebook.com/events/277506966117621/) for [Planned Parenthood of Metro Washington](https://www.plannedparenthood.org/planned-parenthood-metropolitan-washington-dc)! 
 
 *[Learn more](https://www.internationalwomensday.com/About) about International Women's Day. Interested in getting some support on your financial journey? [Let's talk!](https://maggiegermanofinancialcoaching.as.me/?appointmentType=1359318)*
