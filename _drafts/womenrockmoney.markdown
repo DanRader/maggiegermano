@@ -16,17 +16,17 @@ Happy International Women's Day! Today is the day that people around the world c
 
 ## Know Your Stuff
 
-Knowledge is power, truly. It's really easy to avoid and ignore your financial issues, but that keeps you out of control. It's important to push through the anxiety and get a good grip on what's going on with your money. So lay it all out there for yourself. Get a handle on where your money is, what you owe, what's coming in, and what's going out. Just having the full picture will be the first step to regaining control of your finances. 
+Knowledge is power, truly. It's really easy to avoid and ignore your financial issues, but that keeps you out of control. It's important to push through the anxiety and get a good grip on what's going on with your money. So lay it all out there for yourself. Get a handle on [where your money is](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/), what you owe, what's coming in, and what's going out. Just having the full picture will be the first step to regaining control of your finances. 
 
 ## Advocate for Yourself
 
-It can be hard to speak up for yourself as a woman, since we've been socialized to be nice and not cause trouble. But no one but you can ask for what you need. It's important to ask for what you want in all aspects of your life, but especially when it comes to money. This will come up when you're negotiating salary for a new job or when you're asking for a raise. Or even when you're coming up with service rates if you're self-employed. 
+It can be hard to speak up for yourself as a woman, since we've been socialized to be nice and not cause trouble. But no one but you can ask for what you need. It's important to ask for what you want in all aspects of your life, but especially when it comes to money. This will come up when you're [negotiating salary](https://www.maggiegermano.com/blog/how-to-pick-a-salary-number-that-works-for-you/) for a new job or when you're [asking for a raise](https://www.maggiegermano.com/blog/how-to-ask-for-a-raise/). Or even when you're coming up with service rates if you're self-employed. It's scary to ask for more, but if you know what you want, you deserve to have it!
 
 ## Get Clear On What You Want
 
-What is it you truly desire for yourself? Have you ever stopped to think about it? Sometimes it feels selfish or foolish to daydream and think about what we really want. But isn't that what life is all about?! What's the point of having your financial life in order if you don't get to do the things that make you the happiest and most fulfilled? So set some time aside, even half a day, to do some deep thinking about what you want for yourself. Here are some questions to get you started:
+What is it you truly desire for yourself? Have you ever stopped to think about it? Sometimes it feels selfish or foolish to daydream and think about what we really want. But isn't that what life is all about?! What's the point of having your financial life in order if you don't get to do the things that make you the happiest and most fulfilled? Set some time aside, even half a day, to do some deep thinking about what you want for yourself. Here are some questions to get you started:
 
-* What do you value the most?
+* What do you [value](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) the most?
 
 * What activity makes you the happiest?
 
