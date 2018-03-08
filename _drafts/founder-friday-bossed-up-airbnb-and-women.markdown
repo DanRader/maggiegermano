@@ -19,7 +19,7 @@ date: 2018-03-09 14:00:00 -05:00
 
 ## **What I’m Excited About**
 
-* xx
+* I was on the second episode of the new Bossed Up podcast! Emilie and I answered a listener's question about when and how to leave a job. 
 
 ## **What I’m Fan-Girling Over**
 
