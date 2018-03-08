@@ -11,6 +11,8 @@ date: 2018-03-09 14:00:00 -05:00
 
 * I hate that I'm always complaining about homeowner woes here, but our dishwasher broke! I knew I wanted to replace the one that came with the house, but I didn't think we'd have to do it so soon. So we used some of our dedicated house savings to buy a new, stainless steel, dishwasher. I'm hoping it's really as quiet as the ad said it is!
 
+* 
+
 ## **What I’m Writing**
 
 * This month is Women's History Month, and I'm focusing all my blog posts on women and the issues that affect them. This week, I wrote about the [financial impact of sexual harassment and abuse](https://www.maggiegermano.com/blog/the-financial-impact-of-sexual-harassment-abuse/). Please read it and let me know what you think.
