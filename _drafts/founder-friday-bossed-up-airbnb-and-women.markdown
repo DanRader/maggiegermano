@@ -30,12 +30,16 @@ Happy Friday! We made it!
 
 * I'm sponsoring the [Being Boss DC book launch party](https://www.eventbrite.com/e/being-boss-dc-book-launch-party-tickets-43800308903) in April! Join us on Friday, April 13th, to celebrate the release of this book, which is sure to be fantastic.
 
+* I spoke to Chris from [Popcorn Finance](https://popcornfinance.com/) today about my journey from side hustle to full-time entrepreneur. Can't wait to hear it!
+
 ## **What I’m Fan-Girling Over**
 
 * Our amazing wedding photographer, [Barbara Oliveira](http://www.barbaraophotography.com/), sent us our engagement photos already and they're perfect! They really show our personalities and relationship. I can only imagine how wonderful the wedding day photos will be.
 
 ## **Money Tips to Take Into the Weekend**
 
-* xx
+* Do some meal planning! Meal planning can feel overwhelming and terrible, but it really can save you money if you do it right. If you typically end up buying lunch or dinner because you don't have food prepared, pick out one or two recipes to get you through the week. I like to make a soup or chili that will last for several meals throughout the week. That way, I know that I have at least a few meals covered and won't be tempted to dine out.
+
+* 
 
 That’s all from me this week. Have a great weekend!
