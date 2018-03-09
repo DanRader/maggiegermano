@@ -1,6 +1,8 @@
 ---
 title: The Truth About the Wage Gap
 date: 2018-03-12 11:00:00 -04:00
+categories:
+- lifestyle
 image: "/uploads/women-70bb54.jpg"
 posts:
 - The Financial Impact of Sexual Harassment and Abuse
