@@ -36,6 +36,8 @@ Happy Friday! We made it!
 
 * Our amazing wedding photographer, [Barbara Oliveira](http://www.barbaraophotography.com/), sent us our engagement photos already and they're perfect! They really show our personalities and relationship. I can only imagine how wonderful the wedding day photos will be.
 
+* 
+
 ## **Money Tips to Take Into the Weekend**
 
 * Do some meal planning! Meal planning can feel overwhelming and terrible, but it really can save you money if you do it right. If you typically end up buying lunch or dinner because you don't have food prepared, pick out one or two recipes to get you through the week. I like to make a soup or chili that will last for several meals throughout the week. That way, I know that I have at least a few meals covered and won't be tempted to dine out.
