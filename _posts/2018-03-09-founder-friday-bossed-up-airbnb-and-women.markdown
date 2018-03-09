@@ -56,6 +56,6 @@ Happy Friday! We made it! Plus, the sun is out and will stay there all weekend.
 
 * Do some meal planning! Meal planning can feel overwhelming and terrible, but it really can save you money if you do it right. If you typically end up buying lunch or dinner because you don't have food prepared, pick out one or two recipes to get you through the week. I like to make a soup or chili that will last for several meals throughout the week. That way, I know that I have at least a few meals covered and won't be tempted to dine out.
 
-* Sign up for a budgeting platform such as [Mint](http://www.mint.com), ClarityMoney, or [Personal Capital](http://www.personalcapital.com). This will help you to organize everything in one place so you can start keeping track of your spending.
+* Sign up for a budgeting platform such as [Mint](http://www.mint.com), [ClarityMoney](https://claritymoney.com/), or [Personal Capital](http://www.personalcapital.com). This will help you to organize everything in one place so you can start keeping track of your spending.
 
 That’s all from me this week. Have a great weekend!
