@@ -2,6 +2,12 @@
 title: Founder Friday | Bossed Up, Airbnb, and Women
 date: 2018-03-09 14:00:00 -05:00
 image: "/uploads/fist.jpg"
+tweet: 'It''s #FounderFriday again! Don''t miss what I''m excited about and what I''m
+  doing with my money this week!'
+posts:
+- Founder Friday | Art, Coaching, and Aliens
+- Founder Friday | Taxes, Activists, and Podcasts
+- Founder Friday | Pastries, Vagina Monologues, and Nashville
 ---
 
 Happy Friday! We made it! Plus, the sun is out and will stay there all weekend. 
