@@ -16,6 +16,10 @@ Happy Friday! We made it! Plus, the sun is out and will stay there all weekend.
 
 * Dan had a speaking gig this week at [Creative Jam](https://nvite.com/CreativeJam/gwu2018) by Adobe. He got out of work early to prepare, so we went to [El Rey](https://elreydc.com/) in Shaw for some tacos and beer. Nom.
 
+* After taking a few months off, I let my Winc delivery go through this week. (Get a free $20 bottle of wine if you order a box using [my code](https://www.winc.com/hi/gmz0di35gxr).)
+
+![2018-03-08 21.28.04.jpg](/uploads/2018-03-08%2021.28.04.jpg)
+
 ## **What I’m Writing**
 
 * This month is Women's History Month, and I'm focusing all my blog posts on women and the issues that affect them. This week, I wrote about the [financial impact of sexual harassment and abuse](https://www.maggiegermano.com/blog/the-financial-impact-of-sexual-harassment-abuse/). Please read it and let me know what you think.
@@ -32,11 +36,15 @@ Happy Friday! We made it! Plus, the sun is out and will stay there all weekend.
 
 * I spoke to Chris from [Popcorn Finance](https://popcornfinance.com/) today about my journey from side hustle to full-time entrepreneur. Can't wait to hear it!
 
+![2018-03-09 15.11.34-3f7499.png](/uploads/2018-03-09%2015.11.34-3f7499.png)
+
 ## **What I’m Fan-Girling Over**
 
 * Our amazing wedding photographer, [Barbara Oliveira](http://www.barbaraophotography.com/), sent us our engagement photos already and they're perfect! They really show our personalities and relationship. I can only imagine how wonderful the wedding day photos will be.
 
 * For International Women's Day, I went to [ANXO](http://www.anxodc.com/) for a fundraising event benefitting [Planned Parenthood of Metro Washington](https://www.plannedparenthood.org/planned-parenthood-metropolitan-washington-dc). There were so many people, we had to drink our cider outside in the cold. I was so happy to see so much support for reproductive choice.
+
+![Barbara O Photography-Engagement-55.jpg](/uploads/Barbara%20O%20Photography-Engagement-55.jpg)
 
 ## **Money Tips to Take Into the Weekend**
 
