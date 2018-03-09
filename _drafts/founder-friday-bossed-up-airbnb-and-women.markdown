@@ -27,9 +27,11 @@ Happy Friday! We made it!
 
 * I'm teaming up with coach [Noelle Janka](http://www.noellejanka.com/) to lead a webinar on taking control of your money! [Join us on Wednesday, March 28th at 6:30pm](https://www.maggiegermano.com/other-events/webinar-how-to-take-control-of-your-money/)! 
 
+* I'm sponsoring the [Being Boss DC book launch party](https://www.eventbrite.com/e/being-boss-dc-book-launch-party-tickets-43800308903) in April! Join us on Friday, April 13th, to celebrate the release of this book, which is sure to be fantastic.
+
 ## **What I’m Fan-Girling Over**
 
-* xx
+* Our amazing wedding photographer, [Barbara Oliveira](http://www.barbaraophotography.com/), sent us our engagement photos already and they're perfect! They really show our personalities and relationship. I can only imagine how wonderful the wedding day photos will be.
 
 ## **Money Tips to Take Into the Weekend**
 
