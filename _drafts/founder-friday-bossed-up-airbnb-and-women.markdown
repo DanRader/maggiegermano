@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Bossed Up, Airbnb, and Women
 date: 2018-03-09 14:00:00 -05:00
+image: "/uploads/fist.jpg"
 ---
 
 Happy Friday! We made it! 
