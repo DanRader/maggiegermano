@@ -12,7 +12,7 @@ posts:
 - Why I Became a Financial Coach for Women
 ---
 
-I'm back again this week with another depressing financial issue that negatively affects women.
+I'm back again this week with another depressing financial issue that negatively affects women. This time, it's the wage gap. Most of the time, when I hear about the wage gap, it's all about 78 cents on the dollar. But the truth is, the wage gap doesn't affect all women equally. And it's not always as simple as a woman being paid 12% less than her male coworker. So buckle up and let's get into the truth about the wage gap.
 
 ## Not All Women Are Underpaid Equally
 
