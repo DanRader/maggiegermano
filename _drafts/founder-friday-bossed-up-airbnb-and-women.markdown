@@ -4,7 +4,7 @@ date: 2018-03-09 14:00:00 -05:00
 image: "/uploads/fist.jpg"
 ---
 
-Happy Friday! We made it!
+Happy Friday! We made it! Plus, the sun is out and will stay there all weekend. 
 
 ## How I Earned Money This Week
 
@@ -36,7 +36,7 @@ Happy Friday! We made it!
 
 * Our amazing wedding photographer, [Barbara Oliveira](http://www.barbaraophotography.com/), sent us our engagement photos already and they're perfect! They really show our personalities and relationship. I can only imagine how wonderful the wedding day photos will be.
 
-* 
+* For International Women's Day, I went to [ANXO](http://www.anxodc.com/) for a fundraising event benefitting [Planned Parenthood of Metro Washington](https://www.plannedparenthood.org/planned-parenthood-metropolitan-washington-dc). There were so many people, we had to drink our cider outside in the cold. I was so happy to see so much support for reproductive choice.
 
 ## **Money Tips to Take Into the Weekend**
 
