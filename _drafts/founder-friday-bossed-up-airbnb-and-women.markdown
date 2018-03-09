@@ -36,6 +36,8 @@ Happy Friday! We made it!
 
 ## **Money Tips to Take Into the Weekend**
 
-* xx
+* Do some meal planning! Meal planning can feel overwhelming and terrible, but it really can save you money if you do it right. If you typically end up buying lunch or dinner because you don't have food prepared, pick out one or two recipes to get you through the week. I like to make a soup or chili that will last for several meals throughout the week. That way, I know that I have at least a few meals covered and won't be tempted to dine out.
+
+* 
 
 That’s all from me this week. Have a great weekend!
