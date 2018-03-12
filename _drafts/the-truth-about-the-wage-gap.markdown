@@ -30,6 +30,8 @@ You may think that the wage gap in the United States means that women make 80 ce
 
 ## It's Not (Just) About Having Kids
 
+When I used to argue about men about the wage gap even existing, I would often hear that it is because women take time off to have children. 
+
 ## Closing the Pay Gap Is About More Than Fairness
 
 Eliminating the gender pay gap could cut the poverty rate for working women in half.
@@ -43,5 +45,7 @@ Eliminating the gender pay gap could cut the poverty rate for working women in h
 * [Why men need to believe in the wage gap](http://money.cnn.com/2018/02/20/pf/men-wage-gap/index.html)
 
 * [No, The Gender Pay Gap Isn’t A Myth — And Here’s Why](https://www.huffingtonpost.com/entry/no-the-gender-pay-gap-isnt-a-myth-and-heres-why_us_5703cb8de4b0a06d5806e03f)
+
+* [Equal Pay for Native Women](https://nwlc.org/resources/equal-pay-for-native-women-2017/)
 
 * x
