@@ -28,13 +28,15 @@ You may think that the wage gap in the United States means that women make 80 ce
 
 * Latina women earn 54 cents to the dollar.
 
-That is a LOT of money for women to lose out on. 
+That is a LOT of money for women to lose out on. This shows where race and gender [intersect](https://www.youtube.com/watch?v=z-nmxnmt_XU) to make the lives of women of color even harder. 
 
 ## It's Not (Just) About Having Kids
 
 When I used to argue about men about the wage gap even existing, I would often hear that it is because women take time off to have children. There are many things wrong with this argument. First of all, women should not be punished financially for having children. Even if they take time off to care for their children, they should still come back to work and earn equal pay for equal work. 
 
 It's not lost on me that the childcare debate only revolves around women. Men typically do not have the same decision to make. 
+
+Another argument I hear is that women self-select into lower-paying fields. But why is it that fields filled with mostly women are less valuable and therefore paid less. I'm talking about teachers, nurses, care providers, etc. Why are those fields considered less valuable than fields that attract men? They are just as important and necessary. 
 
 ## Closing the Pay Gap Is About More Than Fairness
 
