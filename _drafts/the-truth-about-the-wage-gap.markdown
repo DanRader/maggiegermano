@@ -36,7 +36,7 @@ When I used to argue about men about the wage gap even existing, I would often h
 
 \(P.S. It's not lost on me that the childcare debate only revolves around women. Men typically do not have the same decision to make. And while we're at it, let's get [universal child care](https://www.brookings.edu/research/why-the-federal-government-should-subsidize-childcare-and-how-to-pay-for-it/).)
 
-Another argument I hear is that women self-select into lower-paying fields. But why is it that fields filled with mostly women are less valuable and therefore paid less? I'm talking about teachers, nurses, care providers, etc. Why are those fields considered less valuable than fields that typically attract men? They are just as important and necessary, and should be paid for accordingly.
+Another argument I hear is that women self-select into lower-paying fields. But why is it that fields filled with mostly women are less valuable and therefore paid less? I'm talking about teachers, nurses, care providers, etc. Why are those fields considered less valuable than fields that typically attract men? They are just as important and necessary, and should be paid accordingly.
 
 ## Closing the Pay Gap Is About More Than Fairness
 
