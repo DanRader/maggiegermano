@@ -18,6 +18,8 @@ I'm back again this week with another depressing financial issue that negatively
 
 ## It's Not (Just) About Having Kids
 
+## Closing the Pay Gap Is About More Than Fairness
+
 **More resources:**
 
 * [The Simple Truth about the Gender Pay Gap](https://www.aauw.org/research/the-simple-truth-about-the-gender-pay-gap/) (AAUW)
