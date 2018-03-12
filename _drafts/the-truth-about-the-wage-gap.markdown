@@ -36,6 +36,8 @@ When I used to argue about men about the wage gap even existing, I would often h
 
 It's not lost on me that the childcare debate only revolves around women. Men typically do not have the same decision to make. 
 
+Another argument I hear is that women self-select into lower-paying fields. But why is it that fields filled with mostly women are less valuable and therefore paid less. I'm talking about teachers, nurses, care providers, etc. Why are those fields considered less valuable than fields that attract men? They are just as important and necessary. 
+
 ## Closing the Pay Gap Is About More Than Fairness
 
 The wage gap contributes to women's poverty. In 2015, 14 percent of American women ages 18-64 were living below the federal poverty level, compared to 11 percent of men. Eliminating the gender pay gap could cut the poverty rate for working women [in half](https://iwpr.org/equal-pay-cut-poverty-rate-children-working-mother-half/). Not only would this lift 2.5 million people out of poverty, but it would be great for our economy. 
