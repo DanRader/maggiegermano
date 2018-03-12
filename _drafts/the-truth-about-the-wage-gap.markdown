@@ -42,6 +42,8 @@ Another argument I hear is that women self-select into lower-paying fields. But 
 
 The wage gap contributes to women's poverty. In 2015, 14 percent of American women ages 18-64 were living below the federal poverty level, compared to 11 percent of men. Eliminating the gender pay gap could cut the poverty rate for working women [in half](https://iwpr.org/equal-pay-cut-poverty-rate-children-working-mother-half/). This would lift 2.5 million people out of poverty. It's good for women, it's good for children, it's good for our nation. If we really care about making America a great place to live, we should all be fighting to end the wage gap and make sure that women are paid just as much as men are. Not only is it fair, but it will improve the lives of millions. 
 
+*Do you have a story about the wage gap? Have you ever discovered that you were earning less than your male coworkers? Share in the comments!*
+
 **More resources:**
 
 * [The Simple Truth about the Gender Pay Gap](https://www.aauw.org/research/the-simple-truth-about-the-gender-pay-gap/) (AAUW)
