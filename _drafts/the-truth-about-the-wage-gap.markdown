@@ -28,19 +28,19 @@ You may think that the wage gap in the United States means that women make 80 ce
 
 * Latina women earn 54 cents to the dollar.
 
-That is a LOT of money for women to lose out on. This shows where race and gender [intersect](https://www.youtube.com/watch?v=z-nmxnmt_XU) to make the lives of women of color even harder. 
+That is a LOT of money for women to lose out on. This shows where race and gender [intersect](https://www.youtube.com/watch?v=z-nmxnmt_XU) to make the lives of women of color even harder. Women overall lose out on more than $400,000 over the course of their careers, but most women of color are shorted more than double that. That contributes to lack of generational wealth and keeps families of color in poverty. 
 
 ## It's Not (Just) About Having Kids
 
-When I used to argue about men about the wage gap even existing, I would often hear that it is because women take time off to have children. There are many things wrong with this argument. First of all, women should not be punished financially for having children. Even if they take time off to care for their children, they should still come back to work and earn equal pay for equal work. Plus, the wage gap doesn't just magically appear once women start having kids. Women see themselves earning less than their male counterparts as soon as they [enter the workforce](https://www.aauw.org/research/graduating-to-a-pay-gap/). 
+When I used to argue about men about the wage gap even existing, I would often hear that it is because women take time off to have children. There are many things wrong with this argument. First of all, women should not be punished financially for having children. Even if they take time off to care for their children, they should still come back to work and earn equal pay for equal work. Plus, the wage gap doesn't just magically appear once women start having kids. Women see themselves earning less than their male counterparts as soon as they [enter the workforce](https://www.aauw.org/research/graduating-to-a-pay-gap/).
 
 \(P.S. It's not lost on me that the childcare debate only revolves around women. Men typically do not have the same decision to make. And while we're at it, let's get [universal child care](https://www.brookings.edu/research/why-the-federal-government-should-subsidize-childcare-and-how-to-pay-for-it/).)
 
-Another argument I hear is that women self-select into lower-paying fields. But why is it that fields filled with mostly women are less valuable and therefore paid less? I'm talking about teachers, nurses, care providers, etc. Why are those fields considered less valuable than fields that typically attract men? They are just as important and necessary, and should be paid for accordingly. 
+Another argument I hear is that women self-select into lower-paying fields. But why is it that fields filled with mostly women are less valuable and therefore paid less? I'm talking about teachers, nurses, care providers, etc. Why are those fields considered less valuable than fields that typically attract men? They are just as important and necessary, and should be paid for accordingly.
 
 ## Closing the Pay Gap Is About More Than Fairness
 
-The wage gap contributes to women's poverty. In 2015, 14 percent of American women ages 18-64 were living below the federal poverty level, compared to 11 percent of men. Eliminating the gender pay gap could cut the poverty rate for working women [in half](https://iwpr.org/equal-pay-cut-poverty-rate-children-working-mother-half/). This would lift 2.5 million people out of poverty. It's good for women, it's good for children, it's good for our nation. If we really care about making America a great place to live, we should all be fighting to end the wage gap and make sure that women are paid just as much as men are. Not only is it fair, but it will improve the lives of millions. 
+The wage gap contributes to women's poverty. In 2015, 14 percent of American women ages 18-64 were living below the federal poverty level, compared to 11 percent of men. Eliminating the gender pay gap could cut the poverty rate for working women [in half](https://iwpr.org/equal-pay-cut-poverty-rate-children-working-mother-half/). This would lift 2.5 million people out of poverty. It's good for women, it's good for children, it's good for our nation. If we really care about making America a great place to live, we should all be fighting to end the wage gap and make sure that women are paid just as much as men are. Not only is it fair, but it will improve the lives of millions.
 
 *Do you have a story about the wage gap? Have you ever discovered that you were earning less than your male coworkers? Share in the comments!*
 
