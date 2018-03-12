@@ -16,7 +16,7 @@ I'm back again this week with another depressing financial issue that negatively
 
 ## Not All Women Are Underpaid Equally
 
-You may think that the wage gap in the United States means that women make 80 cents for every dollar that men earn. But the truth is, that's based on an average of the population. The truth is much worse for women of color. 
+You may think that the wage gap in the United States means that women make 80 cents for every dollar that (white) men earn. But the truth is, that's based on an average of the population. The truth is much worse for women of color.
 
 * Asian women earn 85 cents to the dollar.
 
@@ -24,13 +24,15 @@ You may think that the wage gap in the United States means that women make 80 ce
 
 * Black women earn 63 cents to the dollar.
 
+* Native American women earn 57 cents to the dollar.
+
 * Latina women earn 54 cents to the dollar.
 
 ## It's Not (Just) About Having Kids
 
 ## Closing the Pay Gap Is About More Than Fairness
 
-Eliminating the gender pay gap could cut the poverty rate for working women in half. 
+Eliminating the gender pay gap could cut the poverty rate for working women in half.
 
 **More resources:**
 
