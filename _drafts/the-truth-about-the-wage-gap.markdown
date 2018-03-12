@@ -16,7 +16,7 @@ I'm back again this week with another depressing financial issue that negatively
 
 ## Not All Women Are Underpaid Equally
 
-You may think that the wage gap in the United States means that women make 80 cents for every dollar that (white) men earn. But the truth is, that's based on an average of the female population. The truth is much worse for women of color. Here's the truth:
+You may think that the wage gap in the United States means that women make 80 cents for every dollar that (white) men earn. But that's based on an average of the female population. The truth is much worse for women of color. Here's the truth:
 
 * Asian women earn 85 cents to the dollar.
 
