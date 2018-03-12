@@ -16,7 +16,7 @@ I'm back again this week with another depressing financial issue that negatively
 
 ## Not All Women Are Underpaid Equally
 
-You may think that the wage gap in the United States means that women make 80 cents for every dollar that (white) men earn. But the truth is, that's based on an average of the population. The truth is much worse for women of color.
+You may think that the wage gap in the United States means that women make 80 cents for every dollar that (white) men earn. But the truth is, that's based on an average of the female population. The truth is much worse for women of color. Here's the truth:
 
 * Asian women earn 85 cents to the dollar.
 
@@ -40,7 +40,7 @@ Another argument I hear is that women self-select into lower-paying fields. But 
 
 ## Closing the Pay Gap Is About More Than Fairness
 
-The wage gap contributes to women's poverty. In 2015, 14 percent of American women ages 18-64 were living below the federal poverty level, compared to 11 percent of men. Eliminating the gender pay gap could cut the poverty rate for working women [in half](https://iwpr.org/equal-pay-cut-poverty-rate-children-working-mother-half/). Not only would this lift 2.5 million people out of poverty, but it would be great for our economy. 
+The wage gap contributes to women's poverty. In 2015, 14 percent of American women ages 18-64 were living below the federal poverty level, compared to 11 percent of men. Eliminating the gender pay gap could cut the poverty rate for working women [in half](https://iwpr.org/equal-pay-cut-poverty-rate-children-working-mother-half/). This would lift 2.5 million people out of poverty. It's good for women, it's good for children, it's good for our nation. If we really care about making America a great place to live, we should all be fighting to end the wage gap and make sure that women are paid just as much as men are. 
 
 **More resources:**
 
