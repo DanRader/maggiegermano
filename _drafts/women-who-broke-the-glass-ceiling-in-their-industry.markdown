@@ -36,4 +36,6 @@ It's important to mention that Jeannette was the first and *only* woman elected 
 
 ![hillary clinton.jpg](/uploads/hillary%20clinton.jpg)
 
-## First Woman
+## First Woman Millionaire: Madam C.J. Walker
+
+![220px-Madam_CJ_Walker_face_circa_1914.jpg](/uploads/220px-Madam_CJ_Walker_face_circa_1914.jpg)
