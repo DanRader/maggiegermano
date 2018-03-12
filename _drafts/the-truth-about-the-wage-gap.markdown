@@ -17,3 +17,11 @@ I'm back again this week with another depressing financial issue that negatively
 ## Not All Women Are Underpaid Equally
 
 ## It's Not (Just) About Having Kids
+
+**More resources:**
+
+* [The Simple Truth about the Gender Pay Gap](https://www.aauw.org/research/the-simple-truth-about-the-gender-pay-gap/) (AAUW)
+
+* [Where The Gender Pay Gap Is Widest](https://www.forbes.com/sites/niallmccarthy/2018/03/08/where-the-gender-pay-gap-is-widest-infographic/#4500a341693c)
+
+* x
