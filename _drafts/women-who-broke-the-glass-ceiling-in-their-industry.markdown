@@ -16,6 +16,8 @@ The glass ceiling is the invisible barrier to professional and financial advance
 
 ![jeannette rankin.jpeg](/uploads/jeannette%20rankin.jpeg)
 
+It's important to mention that Jeannette was the first and *only* woman elected to Congress from Montana. (Get it together, Montana!)
+
 ## First Black Woman in Congress: Shirley Chisholm
 
 ![shirley chisholm.jpg](/uploads/shirley%20chisholm.jpg)
