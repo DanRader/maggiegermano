@@ -12,12 +12,20 @@ posts:
 
 ## First Woman in Congress: Jeannette Rankin
 
+![jeannette rankin.jpeg](/uploads/jeannette%20rankin.jpeg)
+
 ## First Black Woman in Congress: Shirley Chisholm
 
-## First Woman in Space:
+![shirley chisholm.jpg](/uploads/shirley%20chisholm.jpg)
 
-## First Black Woman in Space:
+## First Woman in Space: Valentina Tereshkova
 
-## First Woman 
+![valentina-tereshkova-4.jpg](/uploads/valentina-tereshkova-4.jpg)
 
-## First Woman 
+## First Black Woman in Space: Mae Jemison
+
+![mae jemison.jpg](/uploads/mae%20jemison.jpg)
+
+## First Woman
+
+## First Woman
