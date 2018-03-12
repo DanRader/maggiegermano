@@ -10,12 +10,22 @@ posts:
 - The Financial Impact of Sexual Harassment and Abuse
 ---
 
-First Woman in Congress: Jeannette Rankin
+## First Woman in Congress: Jeannette Rankin
 
-First Black Woman in Congress: Shirley Chisholm
+![jeannette rankin.jpeg](/uploads/jeannette%20rankin.jpeg)
 
-First Woman in Space:
+## First Black Woman in Congress: Shirley Chisholm
 
-First Black Woman in Space:
+![shirley chisholm.jpg](/uploads/shirley%20chisholm.jpg)
 
-First Woman 
+## First Woman in Space: Valentina Tereshkova
+
+![valentina-tereshkova-4.jpg](/uploads/valentina-tereshkova-4.jpg)
+
+## First Black Woman in Space: Mae Jemison
+
+![mae jemison.jpg](/uploads/mae%20jemison.jpg)
+
+## First Woman
+
+## First Woman
