@@ -14,26 +14,28 @@ The glass ceiling is the invisible barrier to professional and financial advance
 
 ## First Woman in Congress: Jeannette Rankin
 
-![jeannette rankin.jpeg](/uploads/jeannette%20rankin.jpeg)
+![jeannette rankin-09cbb2.jpeg](/uploads/jeannette%20rankin-09cbb2.jpeg)
 
 It's important to mention that Jeannette was the first and *only* woman elected to Congress from Montana. (Get it together, Montana!)
 
 ## First Black Woman in Congress: Shirley Chisholm
 
-![shirley chisholm.jpg](/uploads/shirley%20chisholm.jpg)
+![shirley chisholm-58c88b.jpg](/uploads/shirley%20chisholm-58c88b.jpg)
 
 ## First Woman in Space: Valentina Tereshkova
 
-![valentina-tereshkova-4.jpg](/uploads/valentina-tereshkova-4.jpg)
+![valentina-tereshkova-4-34302a.jpg](/uploads/valentina-tereshkova-4-34302a.jpg)
 
 ## First Black Woman in Space: Mae Jemison
 
-![mae jemison.jpg](/uploads/mae%20jemison.jpg)
+![mae jemison-c55946.jpg](/uploads/mae%20jemison-c55946.jpg)
 
 [Mae Jemison](https://www.biography.com/people/mae-c-jemison-9542378) is an American engineer, physician and NASA astronaut. She became the first black woman to travel in space when she went into orbit aboard the [Space Shuttle Endeavour](https://www.nasa.gov/centers/kennedy/shuttleoperations/orbiters/endeavour-info.html) on September 12, 1992.
 
 ## First Woman to Win the Presidential Popular Vote: Hillary Clinton
 
-![hillary clinton.jpg](/uploads/hillary%20clinton.jpg)
+![hillary clinton-3eb403.jpg](/uploads/hillary%20clinton-3eb403.jpg)
 
-## First Woman
+## First Woman Millionaire: Madam C.J. Walker
+
+![220px-Madam_CJ_Walker_face_circa_1914.jpg](/uploads/220px-Madam_CJ_Walker_face_circa_1914.jpg)
