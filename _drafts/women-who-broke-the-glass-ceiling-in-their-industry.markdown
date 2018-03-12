@@ -10,7 +10,7 @@ posts:
 - The Financial Impact of Sexual Harassment and Abuse
 ---
 
-The glass ceiling is the invisible barrier to professional and financial advancement, especially impacting women and minorities. 
+The glass ceiling is the invisible barrier to professional and financial advancement, especially impacting women and minorities.
 
 ## First Woman in Congress: Jeannette Rankin
 
@@ -36,6 +36,10 @@ It's important to mention that Jeannette was the first and *only* woman elected 
 
 ![hillary clinton-3eb403.jpg](/uploads/hillary%20clinton-3eb403.jpg)
 
-## First Woman Millionaire: Madam C.J. Walker
+## First Woman Millionaire: Sarah Breedlove aka Madam C.J. Walker
 
 ![220px-Madam_CJ_Walker_face_circa_1914.jpg](/uploads/220px-Madam_CJ_Walker_face_circa_1914.jpg)
+
+## First Woman Governor: Nellie Tayloe Ross
+
+![nellie_tayloe_ross.jpg](/uploads/nellie_tayloe_ross.jpg)
