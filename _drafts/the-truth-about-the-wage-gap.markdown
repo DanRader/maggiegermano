@@ -28,9 +28,13 @@ You may think that the wage gap in the United States means that women make 80 ce
 
 * Latina women earn 54 cents to the dollar.
 
+That is a LOT of money for women to lose out on. 
+
 ## It's Not (Just) About Having Kids
 
-When I used to argue about men about the wage gap even existing, I would often hear that it is because women take time off to have children. 
+When I used to argue about men about the wage gap even existing, I would often hear that it is because women take time off to have children. There are many things wrong with this argument. First of all, women should not be punished financially for having children. Even if they take time off to care for their children, they should still come back to work and earn equal pay for equal work. 
+
+It's not lost on me that the childcare debate only revolves around women. Men typically do not have the same decision to make. 
 
 ## Closing the Pay Gap Is About More Than Fairness
 
@@ -48,4 +52,4 @@ Eliminating the gender pay gap could cut the poverty rate for working women in h
 
 * [Equal Pay for Native Women](https://nwlc.org/resources/equal-pay-for-native-women-2017/)
 
-* x
+* [How You Can Fight for Equal Pay](https://www.maggiegermano.com/blog/how-you-can-fight-for-equal-pay/)
