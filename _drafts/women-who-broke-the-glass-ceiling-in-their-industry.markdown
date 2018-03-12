@@ -10,6 +10,8 @@ posts:
 - The Financial Impact of Sexual Harassment and Abuse
 ---
 
+The glass ceiling is the invisible barrier to professional and financial advancement, especially impacting women and minorities. 
+
 ## First Woman in Congress: Jeannette Rankin
 
 ![jeannette rankin.jpeg](/uploads/jeannette%20rankin.jpeg)
