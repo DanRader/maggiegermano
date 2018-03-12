@@ -10,6 +10,8 @@ posts:
 - The Financial Impact of Sexual Harassment and Abuse
 ---
 
+The glass ceiling is the invisible barrier to professional and financial advancement, especially impacting women and minorities. 
+
 ## First Woman in Congress: Jeannette Rankin
 
 ![jeannette rankin.jpeg](/uploads/jeannette%20rankin.jpeg)
@@ -25,6 +27,8 @@ posts:
 ## First Black Woman in Space: Mae Jemison
 
 ![mae jemison.jpg](/uploads/mae%20jemison.jpg)
+
+[Mae Jemison](https://www.biography.com/people/mae-c-jemison-9542378) is an American engineer, physician and NASA astronaut. She became the first black woman to travel in space when she went into orbit aboard the [Space Shuttle Endeavour](https://www.nasa.gov/centers/kennedy/shuttleoperations/orbiters/endeavour-info.html) on September 12, 1992.
 
 ## First Woman to Win the Presidential Popular Vote: Hillary Clinton
 
