@@ -24,4 +24,8 @@ I'm back again this week with another depressing financial issue that negatively
 
 * [Where The Gender Pay Gap Is Widest](https://www.forbes.com/sites/niallmccarthy/2018/03/08/where-the-gender-pay-gap-is-widest-infographic/#4500a341693c)
 
+* [Why men need to believe in the wage gap](http://money.cnn.com/2018/02/20/pf/men-wage-gap/index.html)
+
+* [No, The Gender Pay Gap Isn’t A Myth — And Here’s Why](https://www.huffingtonpost.com/entry/no-the-gender-pay-gap-isnt-a-myth-and-heres-why_us_5703cb8de4b0a06d5806e03f)
+
 * x
