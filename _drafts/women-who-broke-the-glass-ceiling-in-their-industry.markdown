@@ -39,3 +39,7 @@ It's important to mention that Jeannette was the first and *only* woman elected 
 ## First Woman Millionaire: Madam C.J. Walker
 
 ![220px-Madam_CJ_Walker_face_circa_1914.jpg](/uploads/220px-Madam_CJ_Walker_face_circa_1914.jpg)
+
+## First Woman Governor: Nellie Tayloe Ross
+
+![nellie_tayloe_ross.jpg](/uploads/nellie_tayloe_ross.jpg)
