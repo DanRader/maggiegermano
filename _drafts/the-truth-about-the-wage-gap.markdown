@@ -12,13 +12,27 @@ posts:
 - Why I Became a Financial Coach for Women
 ---
 
-I'm back again this week with another depressing financial issue that negatively affects women. This time, it's the wage gap. Most of the time, when I hear about the wage gap, it's all about 78 cents on the dollar. But the truth is, the wage gap doesn't affect all women equally. And it's not always as simple as a woman being paid 12% less than her male coworker. So buckle up and let's get into the truth about the wage gap.
+I'm back again this week with another depressing financial issue that negatively affects women. This time, it's the wage gap. Most of the time, when I hear about the wage gap, it's all about 80 cents on the dollar. But the truth is, the wage gap doesn't affect all women equally. And it's not always as simple as a woman being paid 20% less than her male coworker. So buckle up and let's get into the truth about the wage gap.
 
 ## Not All Women Are Underpaid Equally
+
+You may think that the wage gap in the United States means that women make 80 cents for every dollar that (white) men earn. But the truth is, that's based on an average of the population. The truth is much worse for women of color.
+
+* Asian women earn 85 cents to the dollar.
+
+* White women earn 75 cents to the dollar.
+
+* Black women earn 63 cents to the dollar.
+
+* Native American women earn 57 cents to the dollar.
+
+* Latina women earn 54 cents to the dollar.
 
 ## It's Not (Just) About Having Kids
 
 ## Closing the Pay Gap Is About More Than Fairness
+
+Eliminating the gender pay gap could cut the poverty rate for working women in half.
 
 **More resources:**
 
