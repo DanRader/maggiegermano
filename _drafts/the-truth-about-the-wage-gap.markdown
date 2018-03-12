@@ -28,7 +28,7 @@ You may think that the wage gap in the United States means that women make 80 ce
 
 * Latina women earn 54 cents to the dollar.
 
-That is a LOT of money for women to lose out on. 
+That is a LOT of money for women to lose out on. This shows where race and gender [intersect](https://www.youtube.com/watch?v=z-nmxnmt_XU) to make the lives of women of color even harder. 
 
 ## It's Not (Just) About Having Kids
 
