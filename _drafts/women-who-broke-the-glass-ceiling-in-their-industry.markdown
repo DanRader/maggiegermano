@@ -26,7 +26,7 @@ posts:
 
 ![mae jemison.jpg](/uploads/mae%20jemison.jpg)
 
-Mae Jemison is an American engineer, physician and NASA astronaut. She became the first African American woman to travel in space when she went into orbit aboard the Space Shuttle Endeavour on September 12, 1992.
+[Mae Jemison](https://www.biography.com/people/mae-c-jemison-9542378) is an American engineer, physician and NASA astronaut. She became the first black woman to travel in space when she went into orbit aboard the [Space Shuttle Endeavour](https://www.nasa.gov/centers/kennedy/shuttleoperations/orbiters/endeavour-info.html) on September 12, 1992.
 
 ## First Woman to Win the Presidential Popular Vote: Hillary Clinton
 
