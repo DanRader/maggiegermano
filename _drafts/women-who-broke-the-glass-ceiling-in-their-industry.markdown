@@ -54,6 +54,10 @@ Check out [this excerpt](https://www.thelily.com/mae-jemison-was-the-first-black
 
 ![Stewart_CAASpeakers_photo_PHOTO_CREDIT_to_Scott_Duncan.jpg](/uploads/Stewart_CAASpeakers_photo_PHOTO_CREDIT_to_Scott_Duncan.jpg)
 
+## First Self-Made Black Woman Billionaire: Oprah Winfrey
+
+![RGB-h_02329678 Oprah Winfrey.jpg](/uploads/RGB-h_02329678%20Oprah%20Winfrey.jpg)
+
 ## First Black Woman to Win an Oscar for Best Actress: Hattie McDaniel
 
 ## First Woman to Win Best Director: Kathryn Bigelow
