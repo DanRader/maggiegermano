@@ -22,9 +22,17 @@ It's important to mention that Jeannette was the first and *only* woman elected 
 
 ![shirley chisholm-58c88b.jpg](/uploads/shirley%20chisholm-58c88b.jpg)
 
+Shirley later became the first woman to run for the Democratic Party's presidential nomination.
+
 ## First Woman in Space: Valentina Tereshkova
 
 ![valentina-tereshkova-4-34302a.jpg](/uploads/valentina-tereshkova-4-34302a.jpg)
+
+## First American Woman in Space: Sally Ride
+
+![1200px-Sally_Ride_in_1984.jpg](/uploads/1200px-Sally_Ride_in_1984.jpg)
+
+Say what you want about Russia, but they put a woman into space a full two decades before the United States did. Sally Ride became the first American woman to fly in space when the space shuttle Challenger launched in 1983.
 
 ## First Black Woman in Space: Mae Jemison
 
@@ -64,6 +72,6 @@ Check out [this excerpt](https://www.thelily.com/mae-jemison-was-the-first-black
 
 ![360_wbigelow_0123.jpg](/uploads/360_wbigelow_0123.jpg)
 
-Did you know it took until 2008 for a woman to win Best Director at the Oscars? 
+Did you know it took until 2008 for a woman to win Best Director at the Oscars?
 
 *Who are your favorite women who were trailblazers in their field? Share in the comments!*
