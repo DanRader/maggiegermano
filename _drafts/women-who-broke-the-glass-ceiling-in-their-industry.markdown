@@ -10,7 +10,7 @@ posts:
 - The Financial Impact of Sexual Harassment and Abuse
 ---
 
-The glass ceiling is the invisible barrier to professional and financial advancement, especially impacting women and minorities.
+For the past two weeks, I've been writing about very important, but depressing, issues that affect women. This week, I want to focus on the things individual women have achieved. So here's a long list of women who have shattered the glass ceiling in their respective industry. The glass ceiling is the invisible barrier to professional and financial advancement, especially impacting women and minorities. This was a really fun exercise, because I got to learn about badass women I'd never heard of before. Now I have even more women to look up to everyday.
 
 ## First Woman in Congress: Jeannette Rankin
 
@@ -31,6 +31,8 @@ It's important to mention that Jeannette was the first and *only* woman elected 
 ![mae jemison-c55946.jpg](/uploads/mae%20jemison-c55946.jpg)
 
 [Mae Jemison](https://www.biography.com/people/mae-c-jemison-9542378) is an American engineer, physician and NASA astronaut. She became the first black woman to travel in space when she went into orbit aboard the [Space Shuttle Endeavour](https://www.nasa.gov/centers/kennedy/shuttleoperations/orbiters/endeavour-info.html) on September 12, 1992.
+
+Check out [this excerpt](https://www.thelily.com/mae-jemison-was-the-first-black-woman-in-space-shes-spent-her-life-proving-people-wrong/) from an upcoming graphic novel about awesome women like Mae!
 
 ## First Woman to Win the Presidential Popular Vote: Hillary Clinton
 
