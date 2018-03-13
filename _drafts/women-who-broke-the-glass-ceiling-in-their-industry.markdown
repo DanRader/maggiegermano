@@ -63,3 +63,7 @@ Check out [this excerpt](https://www.thelily.com/mae-jemison-was-the-first-black
 ## First Woman to Win Best Director: Kathryn Bigelow
 
 ![360_wbigelow_0123.jpg](/uploads/360_wbigelow_0123.jpg)
+
+xx
+
+*Who are your favorite women who were trailblazers in their field? Share in the comments!*
