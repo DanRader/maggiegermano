@@ -64,6 +64,6 @@ Check out [this excerpt](https://www.thelily.com/mae-jemison-was-the-first-black
 
 ![360_wbigelow_0123.jpg](/uploads/360_wbigelow_0123.jpg)
 
-xx
+Did you know it took until 2008 for a woman to win Best Director at the Oscars? 
 
 *Who are your favorite women who were trailblazers in their field? Share in the comments!*
