@@ -24,6 +24,10 @@ It's important to mention that Jeannette was the first and *only* woman elected 
 
 Shirley later became the first woman to run for the Democratic Party's presidential nomination.
 
+## First Woman to Run for President: Victoria Woodhull
+
+![Victoria-Woodhull-by-Bradley-&-Rulofson.png](/uploads/Victoria-Woodhull-by-Bradley-&-Rulofson.png)
+
 ## First Woman in Space: Valentina Tereshkova
 
 ![valentina-tereshkova-4-34302a.jpg](/uploads/valentina-tereshkova-4-34302a.jpg)
