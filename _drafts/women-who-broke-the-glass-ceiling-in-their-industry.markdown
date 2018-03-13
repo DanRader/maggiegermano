@@ -58,6 +58,8 @@ Check out [this excerpt](https://www.thelily.com/mae-jemison-was-the-first-black
 
 ![nellie_tayloe_ross.jpg](/uploads/nellie_tayloe_ross.jpg)
 
+There's never been a black woman governor in the United States, but [that might change](https://broadly.vice.com/en_us/article/7xejng/stacey-abrams-georgia-first-black-female-governor)!
+
 ## First Woman Inducted into the Rock and Roll Hall of Fame: Aretha Franklin
 
 ![aretha.jpg](/uploads/aretha.jpg)
