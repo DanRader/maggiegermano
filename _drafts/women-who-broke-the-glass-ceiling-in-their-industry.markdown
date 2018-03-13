@@ -53,3 +53,9 @@ Check out [this excerpt](https://www.thelily.com/mae-jemison-was-the-first-black
 ## First Self-Made Woman Billionaire: Martha Stewart
 
 ![Stewart_CAASpeakers_photo_PHOTO_CREDIT_to_Scott_Duncan.jpg](/uploads/Stewart_CAASpeakers_photo_PHOTO_CREDIT_to_Scott_Duncan.jpg)
+
+## First Black Woman to Win an Oscar for Best Actress: Hattie McDaniel
+
+## First Woman to Win Best Director: Kathryn Bigelow
+
+![360_wbigelow_0123.jpg](/uploads/360_wbigelow_0123.jpg)
