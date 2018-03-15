@@ -3,7 +3,7 @@ title: Founder Friday | Ramen, Taxes, Safe Spaces
 date: 2018-03-13 13:50:00 -04:00
 ---
 
-TGIF! 
+TGIF!
 
 ## How I Earned Money This Week
 
@@ -27,7 +27,7 @@ x
 
 * Tickets for Collective Action for Safe Spaces' [Safe Space Jam](https://collectiveactiondc.givezooks.com/events/safe-space-jam-2018) are officially on sale! Early bird tickets are available until March 24th. CASS works everyday to make DC a safer place for everyone, and this annual event is a great way to support their work, meet the community, and bid on some great silent auction items. I hope to see you there! PS: if you're not in the DC area, you can still support CASS by [donating](https://donatenow.networkforgood.org/collectiveactiondc).
 
-* x
+* I'm leading a personal finance workshop at Varnish Lane nail salon for their first Varnish Lane After Hours event! Join us on [Thursday, April 5th](https://www.eventbrite.com/e/varnish-lane-after-hours-personal-finances-tickets-44203571071)!
 
 ## What I’m Fan-Girling Over
 
