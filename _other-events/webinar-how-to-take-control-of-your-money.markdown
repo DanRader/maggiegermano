@@ -2,7 +2,7 @@
 title: 'Webinar: How to Take Control of Your Money'
 date: 2018-03-28 18:30:00 -04:00
 event-date: 2018-03-28 18:30:00 -04:00
-start-time: 6:30PM
+start-time: 6:30PM EST
 end-time: 8:00PM
 button-text: Sign Me Up
 button-link: https://maggiegermanofinancialcoaching.as.me/webinar
