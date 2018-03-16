@@ -1,6 +1,6 @@
 ---
 title: Founder Friday | Ramen, Taxes, Safe Spaces
-date: 2018-03-13 13:50:00 -04:00
+date: 2018-03-16 14:00:00 -04:00
 ---
 
 TGIF!
