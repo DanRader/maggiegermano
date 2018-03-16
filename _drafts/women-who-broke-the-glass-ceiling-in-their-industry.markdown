@@ -42,7 +42,7 @@ In 1968, [Shirley Chisholm](https://en.wikipedia.org/wiki/Shirley_Chisholm) beca
 
 ![1200px-Sally_Ride_in_1984.jpg](/uploads/1200px-Sally_Ride_in_1984.jpg)
 
-Say what you want about Russia, but they put a woman into space a full two decades before the United States did. Sally Ride became the first American woman to fly in space when the space shuttle Challenger launched in 1983.
+Say what you want about Russia, but they put a woman into space a full two decades before the United States did. [Sally Ride](https://en.wikipedia.org/wiki/Sally_Ride) became the first American woman to fly in space when the space shuttle Challenger launched in 1983.
 
 ## First Black Woman in Space: Mae Jemison
 
