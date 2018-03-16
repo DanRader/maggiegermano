@@ -3,6 +3,7 @@ title: Founder Friday | Ramen, Taxes, Safe Spaces
 date: 2018-03-16 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/ramen.jpg"
 ---
 
 TGIF! I don't know about you, but I'm ready for spring. The unrelenting wind makes it pretty hard for me to get outside. 
