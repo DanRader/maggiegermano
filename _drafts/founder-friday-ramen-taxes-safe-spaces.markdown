@@ -19,11 +19,13 @@ TGIF!
 
 * Dan and I celebrated our 4th anniversary this Wednesday (Pi Day ftw)! We had dinner at the wonderful [Toki Underground](https://www.tokiunderground.com/).
 
+* I have a bit of a candy addiction, and I'm really trying to kick it... but this week didn't go very well because I bought a bag of Hershey's Hugs. 
+
 * 
 
 ## What I’m Writing
 
-x
+It's Women's History Month, so I'm focusing on issues that affect women financially. This week, I wrote about the [wage gap](https://www.maggiegermano.com/blog/the-truth-about-the-wage-gap/), and the things you might not know about it. Check it out and let me know what you think!
 
 ## What I’m Excited About
 
