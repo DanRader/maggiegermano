@@ -76,6 +76,10 @@ There's never been a black woman governor in the United States, but [that might 
 
 ## First Woman Supreme Court Justice: Sandra Day O'Connor
 
+![sandra-day-oconnor-bush-gore.jpg](/uploads/sandra-day-oconnor-bush-gore.jpg)
+
+x
+
 ## First Woman Inducted into the Rock and Roll Hall of Fame: Aretha Franklin
 
 ![aretha.jpg](/uploads/aretha.jpg)
