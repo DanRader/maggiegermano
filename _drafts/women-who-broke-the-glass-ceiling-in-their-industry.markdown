@@ -36,6 +36,8 @@ In 1968, [Shirley Chisholm](https://en.wikipedia.org/wiki/Shirley_Chisholm) beca
 
 ![valentina-tereshkova-4-34302a.jpg](/uploads/valentina-tereshkova-4-34302a.jpg)
 
+[Valentina Tereshkova](https://en.wikipedia.org/wiki/Valentina_Tereshkova) was the first woman to fly in space. 
+
 ## First American Woman in Space: Sally Ride
 
 ![1200px-Sally_Ride_in_1984.jpg](/uploads/1200px-Sally_Ride_in_1984.jpg)
