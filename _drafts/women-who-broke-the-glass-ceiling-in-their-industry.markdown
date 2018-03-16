@@ -74,6 +74,8 @@ Check out [this excerpt](https://www.thelily.com/mae-jemison-was-the-first-black
 
 There's never been a black woman governor in the United States, but [that might change](https://broadly.vice.com/en_us/article/7xejng/stacey-abrams-georgia-first-black-female-governor)!
 
+First Woman Supreme Court Justice: Sandra Day O'Connor
+
 ## First Woman Inducted into the Rock and Roll Hall of Fame: Aretha Franklin
 
 ![aretha.jpg](/uploads/aretha.jpg)
@@ -98,6 +100,10 @@ Did you know it took until 2008 for a woman to win Best Director at the Oscars?
 
 * https://www.forbes.com/sites/tanyaklich/2017/03/08/the-first-women-of-wealth-and-the-policies-that-paved-their-way/#48055f487fb8
 
-* x
+* https://www.elitedaily.com/women/women-broke-glass-ceiling-hillary-clinton/1516108
+
+* https://www.entrepreneur.com/slideshow/277193
+
+* 
 
 *Who are your favorite women who were trailblazers in their field? Share in the comments!*
