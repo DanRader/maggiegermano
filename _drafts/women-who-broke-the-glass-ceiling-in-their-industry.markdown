@@ -108,6 +108,6 @@ Did you know it took until 2008 for a woman to win Best Director at the Oscars?
 
 * https://www.entrepreneur.com/slideshow/277193
 
-* 
+* https://www.forbes.com/sites/learnvest/2017/03/07/trailblazing-women-who-broke-the-glass-ceiling-in-the-business-and-finance-sectors/#55f598a2c233 
 
 *Who are your favorite women who were trailblazers in their field? Share in the comments!*
