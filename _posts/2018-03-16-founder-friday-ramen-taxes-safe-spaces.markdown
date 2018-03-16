@@ -4,6 +4,12 @@ date: 2018-03-16 14:00:00 -04:00
 categories:
 - founder friday
 image: "/uploads/ramen.jpg"
+tweet: 'This week, I ate a lot of ramen, and listened to a lot of podasts. Check it
+  out in my #FounderFriday post!'
+posts:
+- Founder Friday | Bossed Up, Airbnb, and Women
+- Founder Friday | Art, Coaching, and Aliens
+- Founder Friday | Taxes, Activists, and Podcasts
 ---
 
 TGIF! I don't know about you, but I'm ready for spring. The unrelenting wind makes it pretty hard for me to get outside. 
