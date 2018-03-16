@@ -16,7 +16,7 @@ For the past two weeks, I've been writing about [very important](https://www.mag
 
 ![jeannette rankin-09cbb2.jpeg](/uploads/jeannette%20rankin-09cbb2.jpeg)
 
-[Jeannette Rankin](https://en.wikipedia.org/wiki/Jeannette_Rankin) was the first woman elected to federal office in the United States. She was elected to the House of Representatives in 1916, before (white) women even had the right to vote.  She was elected to the House again in 1940. 
+[Jeannette Rankin](https://en.wikipedia.org/wiki/Jeannette_Rankin) was the first woman elected to federal office in the United States. She was elected to the House of Representatives in 1916, before (white) women even had the right to vote.  She was elected to the House again in 1940.
 
 It's important to mention that Jeannette was the first and *only* woman elected to Congress from Montana. (Get it together, Montana!)
 
@@ -36,7 +36,7 @@ In 1968, [Shirley Chisholm](https://en.wikipedia.org/wiki/Shirley_Chisholm) beca
 
 ![valentina-tereshkova-4-34302a.jpg](/uploads/valentina-tereshkova-4-34302a.jpg)
 
-[Valentina Tereshkova](https://en.wikipedia.org/wiki/Valentina_Tereshkova) was the first woman to fly in space. 
+[Valentina Tereshkova](https://en.wikipedia.org/wiki/Valentina_Tereshkova) was the first woman to fly in space.
 
 ## First American Woman in Space: Sally Ride
 
@@ -55,6 +55,14 @@ Check out [this excerpt](https://www.thelily.com/mae-jemison-was-the-first-black
 ## First Woman to Win the Presidential Popular Vote: Hillary Clinton
 
 ![hillary clinton-3eb403.jpg](/uploads/hillary%20clinton-3eb403.jpg)
+
+## First Woman Secretary of State: Madeleine Albright
+
+![albright.jpg](/uploads/albright.jpg)
+
+## First Black Woman Secretary of State: Condoleezza Rice
+
+![Rice_Condoleezza_PROMOPIC-731x1024.jpg](/uploads/Rice_Condoleezza_PROMOPIC-731x1024.jpg)
 
 ## First Woman Millionaire: Sarah Breedlove aka Madam C.J. Walker
 
