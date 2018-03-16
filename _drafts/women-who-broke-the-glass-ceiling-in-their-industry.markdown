@@ -16,13 +16,15 @@ For the past two weeks, I've been writing about [very important](https://www.mag
 
 ![jeannette rankin-09cbb2.jpeg](/uploads/jeannette%20rankin-09cbb2.jpeg)
 
+[Jeannette Rankin](https://en.wikipedia.org/wiki/Jeannette_Rankin) was the first woman elected to federal office in the United States. She was elected to the House of Representatives in 1916, before (white) women even had the right to vote.  She was elected to the House again in 1940. 
+
 It's important to mention that Jeannette was the first and *only* woman elected to Congress from Montana. (Get it together, Montana!)
 
 ## First Black Woman in Congress: Shirley Chisholm
 
 ![shirley chisholm-58c88b.jpg](/uploads/shirley%20chisholm-58c88b.jpg)
 
-Shirley later became the first woman to run for the Democratic Party's presidential nomination.
+In 1968, [Shirley Chisholm](https://en.wikipedia.org/wiki/Shirley_Chisholm) became the first black woman to be elected to the House of Representatives. She serves for 7 terms. Shirley later became the first woman to run for the Democratic Party's presidential nomination.
 
 ## First Woman to Run for President: Victoria Woodhull
 
