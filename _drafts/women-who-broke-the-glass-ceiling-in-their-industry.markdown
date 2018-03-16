@@ -30,6 +30,8 @@ In 1968, [Shirley Chisholm](https://en.wikipedia.org/wiki/Shirley_Chisholm) beca
 
 ![Victoria-Woodhull-by-Bradley-&-Rulofson.png](/uploads/Victoria-Woodhull-by-Bradley-&-Rulofson.png)
 
+[Victoria Woodhull](https://en.wikipedia.org/wiki/Victoria_Woodhull) was a leader in the American suffrage movement. In 1872, she became the first woman to run for president.
+
 ## First Woman in Space: Valentina Tereshkova
 
 ![valentina-tereshkova-4-34302a.jpg](/uploads/valentina-tereshkova-4-34302a.jpg)
