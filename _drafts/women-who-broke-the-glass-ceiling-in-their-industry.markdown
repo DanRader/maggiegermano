@@ -38,7 +38,7 @@ In 1968, [Shirley Chisholm](https://en.wikipedia.org/wiki/Shirley_Chisholm) beca
 
 ![valentina-tereshkova-4-34302a.jpg](/uploads/valentina-tereshkova-4-34302a.jpg)
 
-[Valentina Tereshkova](https://en.wikipedia.org/wiki/Valentina_Tereshkova) was the first woman to fly in space.
+[Valentina Tereshkova](https://en.wikipedia.org/wiki/Valentina_Tereshkova), a Russian cosmonaut, engineer, and politician, was the first woman to fly in space. She was chosen from more than 400 applicants and five finalists to pilot [Vostok 6](https://en.wikipedia.org/wiki/Vostok_6) in June 1963.
 
 ## First American Woman in Space: Sally Ride
 
@@ -58,7 +58,7 @@ Check out [this excerpt](https://www.thelily.com/mae-jemison-was-the-first-black
 
 ![hillary clinton-3eb403.jpg](/uploads/hillary%20clinton-3eb403.jpg)
 
-x
+[Hillary Clinton](https://en.wikipedia.org/wiki/Hillary_Clinton) has been a trailblazer in many areas of her life. As First Lady, she played an active role in public policy decisions. In 2000, she won a Senate seat in New York, becoming the only former First Lady of the United States to run for public office. She ran for President in the 2008 election, and lost to Barack Obama in the Democratic primary. In 2009, President Obama appointed Clinton as Secretary of State, making her the third woman to hold the position. In 2016, Hillary Clinton became the first woman to become the presidential nominee for a major political party. Ultimately, she won the popular vote by nearly 3 million votes, but lost the electoral vote.
 
 ## First Woman Secretary of State: Madeleine Albright
 
@@ -102,13 +102,15 @@ The [Rock and Roll Hall of Fame](https://www.rockhall.com/) opened up in 1983. [
 
 ![Stewart_CAASpeakers_photo_PHOTO_CREDIT_to_Scott_Duncan.jpg](/uploads/Stewart_CAASpeakers_photo_PHOTO_CREDIT_to_Scott_Duncan.jpg)
 
-x
+[Martha Stewart](https://en.wikipedia.org/wiki/Martha_Stewart) is an American businesswoman, writer, and TV personality. In 1976, she started a catering company, which led to her writing many books about entertaining and cooking. In 1990, she started her magazine, Martha Stewart Living. Later on, she expanded into a television show and eventually started her company Martha Stewart Living Omnimedia.  Martha became the first female self-made billionaire in 1999 when her company went public.
 
 ## First Self-Made Black Woman Billionaire: Oprah Winfrey
 
 ![RGB-h_02329678 Oprah Winfrey.jpg](/uploads/RGB-h_02329678%20Oprah%20Winfrey.jpg)
 
-x
+[Oprah Winfrey](https://en.wikipedia.org/wiki/Oprah_Winfrey) is is an American media proprietor, talk show host, actress, producer, and philanthropist. She started her career as a news anchor, but took over a morning talk show in Chicago in 1983. The show became so successful that it was renamed *The Oprah Winfrey Show* in 1986. She was so popular that she displaced Phil Donahue as the highest-rated talk show host. Oprah later started her own magazine (O Magazine) and her own television channel (OWN: Oprah Winfrey Network). By 2003, Oprah became the world's first black female billionaire. 
+
+In 2013, she was awarded the Presidential Medal of Freedom by President Barack Obama.
 
 ## First Black Woman to Win an Oscar for Best Actress: Hattie McDaniel
 
@@ -124,7 +126,7 @@ Did you know it took until 2010 for a woman to win Best Director at the Oscars? 
 
 --
 
-This list is by no means exhaustive. I focused mainly on women in government and those who reached economic success. There are so many more women who didn't let inequality and unfairness stop them. Who are your favorite women who were trailblazers in their field? Share in the comments!
+This list is by no means exhaustive. I focused mainly on women in government and those who reached economic or entertainment-related success. There are so many more women who didn't let inequality and unfairness stop them. Who are your favorite women who were trailblazers in their field? Share in the comments!
 
 **More resources:**
 
