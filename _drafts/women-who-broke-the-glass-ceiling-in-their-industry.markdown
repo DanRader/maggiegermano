@@ -82,6 +82,8 @@ x
 
 ![nellie_tayloe_ross.jpg](/uploads/nellie_tayloe_ross.jpg)
 
+[Nellie Tayloe Ross](https://en.wikipedia.org/wiki/Nellie_Tayloe_Ross) became the first woman governor in the United States after winning a special election to replace her late husband. She went on to be the director of the United States Mint for 20 years. She's still the only woman to have been governor of Wyoming.
+
 There's never been a black woman governor in the United States, but [that might change](https://broadly.vice.com/en_us/article/7xejng/stacey-abrams-georgia-first-black-female-governor)!
 
 ## First Woman Supreme Court Justice: Sandra Day O'Connor
