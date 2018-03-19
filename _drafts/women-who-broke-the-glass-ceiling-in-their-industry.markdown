@@ -70,13 +70,13 @@ x
 
 ![Rice_Condoleezza_PROMOPIC-731x1024.jpg](/uploads/Rice_Condoleezza_PROMOPIC-731x1024.jpg)
 
-Condoleezza Rice became the first black woman to be Secretary of State 
+[Condoleezza Rice](https://en.wikipedia.org/wiki/Condoleezza_Rice) became the first black woman to be Secretary of State when appointed by George W. Bush in 2005. 
 
 ## First Woman Millionaire: Sarah Breedlove aka Madam C.J. Walker
 
 ![220px-Madam_CJ_Walker_face_circa_1914.jpg](/uploads/220px-Madam_CJ_Walker_face_circa_1914.jpg)
 
-x
+Sarah Breedlove, also known as [Madam C.J. Walker](https://en.wikipedia.org/wiki/Madam_C._J._Walker), 
 
 ## First Woman Governor: Nellie Tayloe Ross
 
@@ -96,7 +96,7 @@ There's never been a black woman governor in the United States, but [that might 
 
 ![aretha.jpg](/uploads/aretha.jpg)
 
-x
+The [Rock and Roll Hall of Fame](https://www.rockhall.com/) opened up in 1983. [Aretha Franklin](https://en.wikipedia.org/wiki/Aretha_Franklin) was the first woman to be inducted into the hall of fame four years later in [1987](https://www.rockhall.com/inductees/aretha-franklin).
 
 ## First Self-Made Woman Billionaire: Martha Stewart
 
