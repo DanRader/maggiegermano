@@ -90,7 +90,7 @@ There's never been a black woman governor in the United States, but [that might 
 
 ![sandra-day-oconnor-bush-gore.jpg](/uploads/sandra-day-oconnor-bush-gore.jpg)
 
-x
+[Sandra Day O'Connor](https://en.wikipedia.org/wiki/Sandra_Day_O%27Connor) became the first woman to serve on the Supreme Court when nominated in 1981 by President Ronald Reagan. We have since had three other women appointed to the Supreme Court: Ruth Bader Ginsburg, Sonia Sotomayor, and Elena Kagan. But as RBG would say: "There will be enough women on the Supreme Court when there are nine."
 
 ## First Woman Inducted into the Rock and Roll Hall of Fame: Aretha Franklin
 
