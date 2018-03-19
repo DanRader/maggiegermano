@@ -96,7 +96,7 @@ There's never been a black woman governor in the United States, but [that might 
 
 ![aretha.jpg](/uploads/aretha.jpg)
 
-x
+The [Rock and Roll Hall of Fame](https://www.rockhall.com/) opened up in 1983. [Aretha Franklin](https://en.wikipedia.org/wiki/Aretha_Franklin) was the first woman to be inducted into the hall of fame four years later in 1987.
 
 ## First Self-Made Woman Billionaire: Martha Stewart
 
