@@ -126,7 +126,7 @@ Did you know it took until 2010 for a woman to win Best Director at the Oscars? 
 
 --
 
-This list is by no means exhaustive. I focused mainly on women in government and those who reached economic success. There are so many more women who didn't let inequality and unfairness stop them. Who are your favorite women who were trailblazers in their field? Share in the comments!
+This list is by no means exhaustive. I focused mainly on women in government and those who reached economic or entertainment-related success. There are so many more women who didn't let inequality and unfairness stop them. Who are your favorite women who were trailblazers in their field? Share in the comments!
 
 **More resources:**
 
