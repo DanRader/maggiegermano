@@ -64,9 +64,9 @@ x
 
 ![albright.jpg](/uploads/albright.jpg)
 
-[Madeleine Albright](https://en.wikipedia.org/wiki/Madeleine_Albright) became the first woman to be the U.S. Secretary of State when she was appointed by President Bill Clinton in 1997. 
+[Madeleine Albright](https://en.wikipedia.org/wiki/Madeleine_Albright) became the first woman to be the U.S. Secretary of State when she was appointed by President Bill Clinton in 1997. In 2012, she was awarded the Presidential Medal of Freedom by President Barack Obama.
 
-## First Black Woman Secretary of State: Condoleezza Rice
+First Black Woman Secretary of State: Condoleezza Rice
 
 ![Rice_Condoleezza_PROMOPIC-731x1024.jpg](/uploads/Rice_Condoleezza_PROMOPIC-731x1024.jpg)
 
