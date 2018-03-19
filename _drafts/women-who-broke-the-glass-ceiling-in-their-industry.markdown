@@ -108,7 +108,7 @@ Martha Stewart is an American businesswoman, writer, and TV personality.
 
 ![RGB-h_02329678 Oprah Winfrey.jpg](/uploads/RGB-h_02329678%20Oprah%20Winfrey.jpg)
 
-[Oprah Winfrey](https://en.wikipedia.org/wiki/Oprah_Winfrey) is is an American media proprietor, talk show host, actress, producer, and philanthropist. She started her career as a news anchor, but took over a morning talk show in Chicago in 1983. The show became so successful that it was renamed *The Oprah Winfrey Show* in 1986. By 2003, Oprah became the world's first black female billionaire. 
+[Oprah Winfrey](https://en.wikipedia.org/wiki/Oprah_Winfrey) is is an American media proprietor, talk show host, actress, producer, and philanthropist. She started her career as a news anchor, but took over a morning talk show in Chicago in 1983. The show became so successful that it was renamed *The Oprah Winfrey Show* in 1986. She was so popular that she displaced Phil Donahue as the highest-rated talk show host. Oprah later started her own magazine (O Magazine) and her own television channel (OWN: Oprah Winfrey Network). By 2003, Oprah became the world's first black female billionaire. 
 
 In 2013, she was awarded the Presidential Medal of Freedom by President Barack Obama.
 
