@@ -102,7 +102,7 @@ The [Rock and Roll Hall of Fame](https://www.rockhall.com/) opened up in 1983. [
 
 ![Stewart_CAASpeakers_photo_PHOTO_CREDIT_to_Scott_Duncan.jpg](/uploads/Stewart_CAASpeakers_photo_PHOTO_CREDIT_to_Scott_Duncan.jpg)
 
-Martha Stewart is an American businesswoman, writer, and TV personality.
+[Martha Stewart](https://en.wikipedia.org/wiki/Martha_Stewart) is an American businesswoman, writer, and TV personality. In 1976, she started a catering company, which led to her writing many books about entertaining and cooking. In 1990, she started her magazine, Martha Stewart Living. Later on, she expanded into a television show and eventually started her company Martha Stewart Living Omnimedia.  Martha became the first female self-made billionaire in 1999 when her company went public.
 
 ## First Self-Made Black Woman Billionaire: Oprah Winfrey
 
