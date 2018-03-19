@@ -4,6 +4,8 @@ date: 2018-03-19 11:00:00 -04:00
 categories:
 - lifestyle
 image: "/uploads/ceiling.jpg"
+tweet: 'It''s #WomensHistoryMonth and here are 17 #women who broke their own glass
+  ceiling. '
 posts:
 - The Truth About the Wage Gap
 - "#WomenRockMoney: Celebrating International Women's Day"
@@ -100,6 +102,10 @@ x
 
 Did you know it took until 2008 for a woman to win Best Director at the Oscars?
 
+This list is by no means exhaustive. 
+
+*Who are your favorite women who were trailblazers in their field? Share in the comments!*
+
 **More resources:**
 
 * https://www.forbes.com/sites/tanyaklich/2017/03/08/the-first-women-of-wealth-and-the-policies-that-paved-their-way/#48055f487fb8
@@ -108,6 +114,4 @@ Did you know it took until 2008 for a woman to win Best Director at the Oscars?
 
 * https://www.entrepreneur.com/slideshow/277193
 
-* https://www.forbes.com/sites/learnvest/2017/03/07/trailblazing-women-who-broke-the-glass-ceiling-in-the-business-and-finance-sectors/#55f598a2c233 
-
-*Who are your favorite women who were trailblazers in their field? Share in the comments!*
+* https://www.forbes.com/sites/learnvest/2017/03/07/trailblazing-women-who-broke-the-glass-ceiling-in-the-business-and-finance-sectors/#55f598a2c233
