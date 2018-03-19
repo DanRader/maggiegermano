@@ -104,7 +104,7 @@ x
 
 ![360_wbigelow_0123.jpg](/uploads/360_wbigelow_0123.jpg)
 
-Did you know it took until 2008 for a woman to win Best Director at the Oscars? Well it did. And that was the year that Kathryn Bigelow won for The Hurt Locker. And as of 2018, she's the only woman to win the title. 
+Did you know it took until 2010 for a woman to win Best Director at the Oscars? Well it did. And that was the year that Kathryn Bigelow won for The Hurt Locker. And as of 2018, she's the only woman to win the title. 
 
 This list is by no means exhaustive. 
 
