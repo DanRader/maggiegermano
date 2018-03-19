@@ -58,7 +58,7 @@ Check out [this excerpt](https://www.thelily.com/mae-jemison-was-the-first-black
 
 ![hillary clinton-3eb403.jpg](/uploads/hillary%20clinton-3eb403.jpg)
 
-x
+[Hillary Clinton](https://en.wikipedia.org/wiki/Hillary_Clinton) has been a trailblazer in many areas of her life. 
 
 ## First Woman Secretary of State: Madeleine Albright
 
