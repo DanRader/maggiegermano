@@ -82,13 +82,15 @@ x
 
 ![nellie_tayloe_ross.jpg](/uploads/nellie_tayloe_ross.jpg)
 
+[Nellie Tayloe Ross](https://en.wikipedia.org/wiki/Nellie_Tayloe_Ross) became the first woman governor in the United States after winning a special election to replace her late husband. She went on to be the director of the United States Mint for 20 years. She's still the only woman to have been governor of Wyoming.
+
 There's never been a black woman governor in the United States, but [that might change](https://broadly.vice.com/en_us/article/7xejng/stacey-abrams-georgia-first-black-female-governor)!
 
 ## First Woman Supreme Court Justice: Sandra Day O'Connor
 
 ![sandra-day-oconnor-bush-gore.jpg](/uploads/sandra-day-oconnor-bush-gore.jpg)
 
-x
+[Sandra Day O'Connor](https://en.wikipedia.org/wiki/Sandra_Day_O%27Connor) became the first woman to serve on the Supreme Court when nominated in 1981 by President Ronald Reagan. We have since had three other women appointed to the Supreme Court: Ruth Bader Ginsburg, Sonia Sotomayor, and Elena Kagan. But as RBG would say: "There will be enough women on the Supreme Court when there are nine."
 
 ## First Woman Inducted into the Rock and Roll Hall of Fame: Aretha Franklin
 
