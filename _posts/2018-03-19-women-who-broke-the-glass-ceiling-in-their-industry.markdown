@@ -13,7 +13,7 @@ posts:
 ---
 
 For the past two weeks, I've been writing about [very important](https://www.maggiegermano.com/blog/the-financial-impact-of-sexual-harassment-abuse/), [but depressing](https://www.maggiegermano.com/blog/the-truth-about-the-wage-gap/), issues that affect women. This week, I want to focus on the things individual women have achieved. So here's a long list of women who have shattered the glass ceiling in their respective industry. The glass ceiling is the invisible barrier to professional and financial advancement, especially impacting women and minorities. This was a really fun exercise, because I got to learn about badass women I'd never heard of before. Now I have even more women to look up to everyday.
-
+ 
 ## First Woman in Congress: Jeannette Rankin
 
 ![jeannette rankin-09cbb2.jpeg](/uploads/jeannette%20rankin-09cbb2.jpeg)
