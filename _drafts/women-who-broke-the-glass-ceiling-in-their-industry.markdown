@@ -96,6 +96,10 @@ x
 
 ## First Black Woman to Win an Oscar for Best Actress: Hattie McDaniel
 
+![280full.jpg](/uploads/280full.jpg)
+
+[Hattie McDaniel](https://en.wikipedia.org/wiki/Hattie_McDaniel) was an American actress, singer-songwriter, and comedian. She was the first African American to win an Oscar when she won for her performance as "Mammy" in *Gone With The Wind*. 
+
 ## First Woman to Win Best Director: Kathryn Bigelow
 
 ![360_wbigelow_0123.jpg](/uploads/360_wbigelow_0123.jpg)
