@@ -76,7 +76,7 @@ x
 
 ![220px-Madam_CJ_Walker_face_circa_1914.jpg](/uploads/220px-Madam_CJ_Walker_face_circa_1914.jpg)
 
-x
+Sarah Breedlove, also known as [Madam C.J. Walker](https://en.wikipedia.org/wiki/Madam_C._J._Walker), 
 
 ## First Woman Governor: Nellie Tayloe Ross
 
