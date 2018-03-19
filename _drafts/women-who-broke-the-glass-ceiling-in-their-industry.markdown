@@ -58,7 +58,7 @@ Check out [this excerpt](https://www.thelily.com/mae-jemison-was-the-first-black
 
 ![hillary clinton-3eb403.jpg](/uploads/hillary%20clinton-3eb403.jpg)
 
-[Hillary Clinton](https://en.wikipedia.org/wiki/Hillary_Clinton) has been a trailblazer in many areas of her life. 
+[Hillary Clinton](https://en.wikipedia.org/wiki/Hillary_Clinton) has been a trailblazer in many areas of her life. As First Lady, she played an active role in public policy decisions. In 2000, she won a Senate seat in New York, becoming the only former First Lady of the United States to run for public office. She ran for President in the 2008 election, and lost to Barack Obama in the Democratic primary. In 2009, President Obama appointed Clinton as Secretary of State, making her the third woman to hold the position. In 2016, Hillary Clinton became the first woman to become the presidential nominee for a major political party. Ultimately, she won the popular vote by nearly 3 million votes, but lost the electoral vote.
 
 ## First Woman Secretary of State: Madeleine Albright
 
