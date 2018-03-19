@@ -90,7 +90,7 @@ There's never been a black woman governor in the United States, but [that might 
 
 ![sandra-day-oconnor-bush-gore.jpg](/uploads/sandra-day-oconnor-bush-gore.jpg)
 
-[Sandra Day O'Connor](https://en.wikipedia.org/wiki/Sandra_Day_O%27Connor) became the first woman to serve on the Supreme Court when nominated in 1981 by President Ronald Reagan. We have since had three other women appointed to the Supreme Court: Ruth Bader Ginsburg, Sonia Sotomayor, and Elena Kagan. But as RBG would say: "There will be enough women on the Supreme Court when there are nine."
+[Sandra Day O'Connor](https://en.wikipedia.org/wiki/Sandra_Day_O%27Connor) became the first woman to serve on the Supreme Court when nominated in 1981 by President Ronald Reagan. We have since had three other women appointed to the Supreme Court: [Ruth Bader Ginsburg](https://en.wikipedia.org/wiki/Ruth_Bader_Ginsburg), [Sonia Sotomayor](https://en.wikipedia.org/wiki/Sonia_Sotomayor), and [Elena Kagan](https://en.wikipedia.org/wiki/Elena_Kagan). But as RBG would say: "There will be enough women on the Supreme Court when there are nine."
 
 ## First Woman Inducted into the Rock and Roll Hall of Fame: Aretha Franklin
 
@@ -114,13 +114,13 @@ x
 
 ![280full.jpg](/uploads/280full.jpg)
 
-[Hattie McDaniel](https://en.wikipedia.org/wiki/Hattie_McDaniel) was an American actress, singer-songwriter, and comedian. She was the first African American to win an Oscar when she won for her performance as "Mammy" in *Gone With The Wind*. 
+[Hattie McDaniel](https://en.wikipedia.org/wiki/Hattie_McDaniel) was an American actress, singer-songwriter, and comedian. She was the first African American to win an Oscar when she won for her performance as "Mammy" in *Gone With The Wind*.
 
 ## First Woman to Win an Oscar for Best Director: Kathryn Bigelow
 
 ![360_wbigelow_0123.jpg](/uploads/360_wbigelow_0123.jpg)
 
-Did you know it took until 2010 for a woman to win Best Director at the Oscars? Well it did. And that was the year that [Kathryn Bigelow](https://en.wikipedia.org/wiki/Kathryn_Bigelow) won for *The Hurt Locker*. And as of 2018, she's the only woman to win the title. 
+Did you know it took until 2010 for a woman to win Best Director at the Oscars? Well it did. And that was the year that [Kathryn Bigelow](https://en.wikipedia.org/wiki/Kathryn_Bigelow) won for *The Hurt Locker*. And as of 2018, she's the only woman to win the title.
 
 --
 
@@ -135,3 +135,7 @@ This list is by no means exhaustive. I focused mainly on women in government and
 * https://www.entrepreneur.com/slideshow/277193
 
 * https://www.forbes.com/sites/learnvest/2017/03/07/trailblazing-women-who-broke-the-glass-ceiling-in-the-business-and-finance-sectors/#55f598a2c233
+
+* https://www.huffingtonpost.com/jasmine-babers/for-women-of-color-the-gl_b_9728056.html
+
+* https://www.history.com/news/history-lists/7-women-who-broke-down-barriers-in-sports
