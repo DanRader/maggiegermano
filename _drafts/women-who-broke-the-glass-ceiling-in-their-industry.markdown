@@ -64,19 +64,19 @@ x
 
 ![albright.jpg](/uploads/albright.jpg)
 
-[Madeleine Albright](https://en.wikipedia.org/wiki/Madeleine_Albright) became the first woman to be the U.S. Secretary of State when she was appointed by President Bill Clinton in 1997. 
+[Madeleine Albright](https://en.wikipedia.org/wiki/Madeleine_Albright) became the first woman to be the U.S. Secretary of State when she was appointed by President Bill Clinton in 1997. In 2012, she was awarded the Presidential Medal of Freedom by President Barack Obama.
 
 ## First Black Woman Secretary of State: Condoleezza Rice
 
 ![Rice_Condoleezza_PROMOPIC-731x1024.jpg](/uploads/Rice_Condoleezza_PROMOPIC-731x1024.jpg)
 
-[Condoleezza Rice](https://en.wikipedia.org/wiki/Condoleezza_Rice) became the first black woman to be Secretary of State when appointed by George W. Bush in 2005. 
+[Condoleezza Rice](https://en.wikipedia.org/wiki/Condoleezza_Rice) became the first black woman to be Secretary of State when appointed by George W. Bush in 2005.
 
 ## First Woman Millionaire: Sarah Breedlove aka Madam C.J. Walker
 
 ![220px-Madam_CJ_Walker_face_circa_1914.jpg](/uploads/220px-Madam_CJ_Walker_face_circa_1914.jpg)
 
-Sarah Breedlove, also known as [Madam C.J. Walker](https://en.wikipedia.org/wiki/Madam_C._J._Walker), was an entrepreneur, philanthropist, and activist. She became the first female self-made millionaire after starting her line (Madame C.J. Walker Manufacturing Company) of beauty and hair products for black women. 
+Sarah Breedlove, also known as [Madam C.J. Walker](https://en.wikipedia.org/wiki/Madam_C._J._Walker), was an entrepreneur, philanthropist, and activist. She became the first female self-made millionaire after starting her line (Madame C.J. Walker Manufacturing Company) of beauty and hair products for black women.
 
 ## First Woman Governor: Nellie Tayloe Ross
 
