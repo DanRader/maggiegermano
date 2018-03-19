@@ -70,7 +70,7 @@ x
 
 ![Rice_Condoleezza_PROMOPIC-731x1024.jpg](/uploads/Rice_Condoleezza_PROMOPIC-731x1024.jpg)
 
-Condoleezza Rice became the first black woman to be Secretary of State 
+[Condoleezza Rice](https://en.wikipedia.org/wiki/Condoleezza_Rice) became the first black woman to be Secretary of State when appointed by George W. Bush in 2005. 
 
 ## First Woman Millionaire: Sarah Breedlove aka Madam C.J. Walker
 
