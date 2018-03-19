@@ -64,13 +64,13 @@ x
 
 ![albright.jpg](/uploads/albright.jpg)
 
-x
+[Madeleine Albright](https://en.wikipedia.org/wiki/Madeleine_Albright) became the first woman to be the U.S. Secretary of State when she was appointed by President Bill Clinton in 1997. 
 
 ## First Black Woman Secretary of State: Condoleezza Rice
 
 ![Rice_Condoleezza_PROMOPIC-731x1024.jpg](/uploads/Rice_Condoleezza_PROMOPIC-731x1024.jpg)
 
-x
+Condoleezza Rice became the first black woman to be Secretary of State 
 
 ## First Woman Millionaire: Sarah Breedlove aka Madam C.J. Walker
 
