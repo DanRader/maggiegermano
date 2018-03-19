@@ -26,7 +26,7 @@ It's important to mention that Jeannette was the first and *only* woman elected 
 
 ![shirley chisholm-58c88b.jpg](/uploads/shirley%20chisholm-58c88b.jpg)
 
-In 1968, [Shirley Chisholm](https://en.wikipedia.org/wiki/Shirley_Chisholm) became the first black woman to be elected to the House of Representatives. She serves for 7 terms. Shirley later became the first woman to run for the Democratic Party's presidential nomination.
+In 1968, [Shirley Chisholm](https://en.wikipedia.org/wiki/Shirley_Chisholm) became the first black woman to be elected to the House of Representatives. She served for 7 terms. Shirley later became the first woman to run for the Democratic Party's presidential nomination.
 
 ## First Woman to Run for President: Victoria Woodhull
 
@@ -58,17 +58,25 @@ Check out [this excerpt](https://www.thelily.com/mae-jemison-was-the-first-black
 
 ![hillary clinton-3eb403.jpg](/uploads/hillary%20clinton-3eb403.jpg)
 
+x
+
 ## First Woman Secretary of State: Madeleine Albright
 
 ![albright.jpg](/uploads/albright.jpg)
+
+x
 
 ## First Black Woman Secretary of State: Condoleezza Rice
 
 ![Rice_Condoleezza_PROMOPIC-731x1024.jpg](/uploads/Rice_Condoleezza_PROMOPIC-731x1024.jpg)
 
+x
+
 ## First Woman Millionaire: Sarah Breedlove aka Madam C.J. Walker
 
 ![220px-Madam_CJ_Walker_face_circa_1914.jpg](/uploads/220px-Madam_CJ_Walker_face_circa_1914.jpg)
+
+x
 
 ## First Woman Governor: Nellie Tayloe Ross
 
@@ -86,13 +94,19 @@ x
 
 ![aretha.jpg](/uploads/aretha.jpg)
 
+x
+
 ## First Self-Made Woman Billionaire: Martha Stewart
 
 ![Stewart_CAASpeakers_photo_PHOTO_CREDIT_to_Scott_Duncan.jpg](/uploads/Stewart_CAASpeakers_photo_PHOTO_CREDIT_to_Scott_Duncan.jpg)
 
+x
+
 ## First Self-Made Black Woman Billionaire: Oprah Winfrey
 
 ![RGB-h_02329678 Oprah Winfrey.jpg](/uploads/RGB-h_02329678%20Oprah%20Winfrey.jpg)
+
+x
 
 ## First Black Woman to Win an Oscar for Best Actress: Hattie McDaniel
 
@@ -106,9 +120,9 @@ x
 
 Did you know it took until 2010 for a woman to win Best Director at the Oscars? Well it did. And that was the year that [Kathryn Bigelow](https://en.wikipedia.org/wiki/Kathryn_Bigelow) won for *The Hurt Locker*. And as of 2018, she's the only woman to win the title. 
 
-This list is by no means exhaustive. 
+--
 
-*Who are your favorite women who were trailblazers in their field? Share in the comments!*
+This list is by no means exhaustive. I focused mainly on women in government and those who reached economic success. There are so many more women who didn't let inequality and unfairness stop them. Who are your favorite women who were trailblazers in their field? Share in the comments!
 
 **More resources:**
 
