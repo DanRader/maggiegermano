@@ -102,13 +102,15 @@ The [Rock and Roll Hall of Fame](https://www.rockhall.com/) opened up in 1983. [
 
 ![Stewart_CAASpeakers_photo_PHOTO_CREDIT_to_Scott_Duncan.jpg](/uploads/Stewart_CAASpeakers_photo_PHOTO_CREDIT_to_Scott_Duncan.jpg)
 
-Martha Stewart is an American businesswoman, writer, and TV personality. 
+Martha Stewart is an American businesswoman, writer, and TV personality.
 
 ## First Self-Made Black Woman Billionaire: Oprah Winfrey
 
 ![RGB-h_02329678 Oprah Winfrey.jpg](/uploads/RGB-h_02329678%20Oprah%20Winfrey.jpg)
 
 Oprah Winfrey is is an American media proprietor, talk show host, actress, producer, and philanthropist. 
+
+In 2013, she was awarded the Presidential Medal of Freedom by President Barack Obama.
 
 ## First Black Woman to Win an Oscar for Best Actress: Hattie McDaniel
 
