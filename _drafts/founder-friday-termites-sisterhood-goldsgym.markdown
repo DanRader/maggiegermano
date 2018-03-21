@@ -5,7 +5,7 @@ categories:
 - founder friday
 ---
 
-TGIF!
+TGIF! I hope y'all stayed warm and dry this week during our Spring snow storm. 
 
 ## **How I Earned Money This Week**
 
@@ -48,3 +48,5 @@ I wrote a post that was a little lighter and more fun this week than the past [t
 ## **Money Tip to Take Into the Weekend**
 
 * xx
+
+That's all from me for this week! Enjoy your weekend!
