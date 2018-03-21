@@ -1,5 +1,5 @@
 ---
-title: Founder Friday |
+title: Founder Friday | Termites, Sisterhood, Gold's Gym
 date: 2018-03-23 13:00:00 -04:00
 categories:
 - founder friday
