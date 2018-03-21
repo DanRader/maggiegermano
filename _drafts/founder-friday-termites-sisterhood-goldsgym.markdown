@@ -11,7 +11,7 @@ TGIF! I hope y'all stayed warm and dry this week during our Spring snow storm. H
 
 * I spoke to an amazing group of female bartenders at the [Sisterhood Project](https://www.facebook.com/events/769338589936455/), an event that is part of [Speed Rack](https://speed-rack.com/washingtondc/), a bartending competition for women. It was a great experience, *and* it was paid!
 
-* Our Airbnb is a little quieter this week, since we were having duct work done on the house, but we still have a few stays and the payment goes through as soon as guests check in. 
+* Our Airbnb is a little quieter this week, since we were having duct work done on the house, but we still have a few stays and the payment goes through as soon as guests check in now. 
 
 ![Screen Shot 2018-03-21 at 4.03.03 PM.png](/uploads/Screen%20Shot%202018-03-21%20at%204.03.03%20PM.png)
 
