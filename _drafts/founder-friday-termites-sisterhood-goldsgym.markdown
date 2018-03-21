@@ -31,7 +31,7 @@ I wrote a post that was a little lighter and more fun this week than the past [t
 
 ## **What I’m Excited About**
 
-* I'm flexing my protesting muscles this weekend at the March for Our Lives. I've always felt very strongly about gun control, and I'm glad that it's getting such attention now. Too many lives have been senselessly lost and I'm proud to speak up for a change. 
+* I'm flexing my protesting muscles this weekend at the [March for Our Lives](https://marchforourlives.com/). I've always felt very strongly about gun control, and I'm glad that it's getting so much attention now. Too many lives have been senselessly lost and I'm proud to speak up for a change. 
 
 * [Money Circle](https://www.maggiegermano.com/events/how-taxes-fit-into-your-financial-goals/) is coming up this Monday, March 26th! Join me and [Cady North](https://www.northfinancialadvisors.com/), CFP while we talk about how your taxes can fit into your overall financial goals. [Join us!](https://www.maggiegermano.com/events/how-taxes-fit-into-your-financial-goals/)
 
