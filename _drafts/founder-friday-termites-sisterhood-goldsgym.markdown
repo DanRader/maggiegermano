@@ -13,6 +13,8 @@ TGIF!
 
 * Our Airbnb is a little quieter this week, since we were having duct work done on the house, but we still have a few stays and the payment goes through as soon as guests check in. 
 
+![Screen Shot 2018-03-21 at 4.03.03 PM.png](/uploads/Screen%20Shot%202018-03-21%20at%204.03.03%20PM.png)
+
 ## **How I Spent Money This Week**
 
 * Oh boy, where should I start? This week has been pretty expensive on the homeownership front. On Monday, we got our air ducts cleaned. They were so dirty after years of never being cleaned that they ended up needing to sanitizing them, which more than doubled the cost. 
@@ -25,11 +27,15 @@ TGIF!
 
 ## **What I’m Writing**
 
-xx
+I wrote a post that was a little lighter and more fun this week than the past [two](https://www.maggiegermano.com/blog/the-truth-about-the-wage-gap/) [weeks](https://www.maggiegermano.com/blog/the-financial-impact-of-sexual-harassment-abuse/). Instead of talking about what is holding women back, I wrote about the [amazing women](https://www.maggiegermano.com/blog/women-who-broke-the-glass-ceiling-in-their-industry/) who have pushed through the bullshit to succeed in their own careers. Who is your favorite trailblazer?
 
 ## **What I’m Excited About**
 
+* I'm flexing my protesting muscles this weekend at the [March for Our Lives](https://marchforourlives.com/). I've always felt very strongly about gun control, and I'm glad that it's getting so much attention now. Too many lives have been senselessly lost and I'm proud to speak up for a change. 
+
 * [Money Circle](https://www.maggiegermano.com/events/how-taxes-fit-into-your-financial-goals/) is coming up this Monday, March 26th! Join me and [Cady North](https://www.northfinancialadvisors.com/), CFP while we talk about how your taxes can fit into your overall financial goals. [Join us!](https://www.maggiegermano.com/events/how-taxes-fit-into-your-financial-goals/)
+
+* I'm co-hosting a [webinar](https://www.maggiegermano.com/other-events/webinar-how-to-take-control-of-your-money/) with life and career coach [Noelle Janka](http://www.noellejanka.com/) on Wednesday, March 28th! It's my first webinar, and it will be focused on aligning your money with your values and taking control of your financial life. [Join us!](https://www.maggiegermano.com/other-events/webinar-how-to-take-control-of-your-money/)
 
 * I’m leading a personal finance workshop at Varnish Lane nail salon for their first Varnish Lane After Hours event! Join us on **[Thursday, April 5th](https://www.eventbrite.com/e/varnish-lane-after-hours-personal-finances-tickets-44203571071)**!
 
