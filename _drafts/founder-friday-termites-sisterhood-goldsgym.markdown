@@ -23,7 +23,7 @@ TGIF! I hope y'all stayed warm and dry this week during our Spring snow storm. H
 
 * Last weekend, Dan and I were putzing around in the front yard, thinking about what we might want to do with the garden. I picked up a small piece of wood and saw a bunch of white larvae running around underneath. A quick Google search showed that they were most definitely termites! All I know about termites is that they eat wood and destroy houses, so I called an exterminator in. Luckily, the termites have only munched on a few pieces of wood that enclose the garden in the front yard, and haven't touched the actual house yet. We haven't spent the money yet, but the plan is to get the perimeter of the house treated for termites so they won't ever get to the house. The price was actually a lot less scary than I expected so I'm eager to move forward and protect our home.
 
-* The Gold's Gym down the street from my house finally opened and I was charged for my first membership fee! Now I don't have an excuse to be lazy and not exercise anymore. I'm actually really excited to get back into an exercise routine again. I used to be really active and fit, and I've fallen out of that over the past few years. I'm feeling motivated to make a change!
+* The Gold's Gym down the street from my house finally opened and I was charged for my first monthly membership fee! Now I don't have an excuse to be lazy and not exercise anymore. I'm actually really excited to get back into an exercise routine again. I used to be really active and fit, and I've fallen out of that over the past few years. I'm feeling motivated to make a change!
 
 ## **What I’m Writing**
 
