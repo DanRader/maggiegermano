@@ -9,7 +9,9 @@ TGIF!
 
 ## **How I Earned Money This Week**
 
-* xx
+* I spoke to an amazing group of female bartenders at the [Sisterhood Project](https://www.facebook.com/events/769338589936455/), an event that is part of [Speed Rack](https://speed-rack.com/washingtondc/), a bartending competition for women. It was a great experience, *and* it was paid!
+
+* Our Airbnb is a little quieter this week, since we were having duct work done on the house, but we still have a few stays and the payment goes through as soon as guests check in. 
 
 ## **How I Spent Money This Week**
 
