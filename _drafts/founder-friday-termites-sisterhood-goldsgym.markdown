@@ -27,7 +27,7 @@ TGIF!
 
 ## **What I’m Writing**
 
-xx
+I wrote a post that was a little lighter and more fun this week than the past [two](https://www.maggiegermano.com/blog/the-truth-about-the-wage-gap/) [weeks](https://www.maggiegermano.com/blog/the-financial-impact-of-sexual-harassment-abuse/). Instead of talking about what is holding women back, I wrote about the [amazing women](https://www.maggiegermano.com/blog/women-who-broke-the-glass-ceiling-in-their-industry/) who have pushed through the bullshit to succeed in their own careers. Who is your favorite trailblazer?
 
 ## **What I’m Excited About**
 
