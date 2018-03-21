@@ -5,7 +5,7 @@ categories:
 - founder friday
 ---
 
-TGIF! I hope y'all stayed warm and dry this week during our Spring snow storm. 
+TGIF! I hope y'all stayed warm and dry this week during our Spring snow storm. Here's what I got up to.
 
 ## **How I Earned Money This Week**
 
