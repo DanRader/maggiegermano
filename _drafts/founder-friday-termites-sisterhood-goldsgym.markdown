@@ -29,7 +29,7 @@ xx
 
 ## **What I’m Excited About**
 
-* Money Circle is coming up this Monday, March 26th! Join me and CPA Cady North while we talk about how your taxes can fit into your overall financial goals. 
+* [Money Circle](https://www.maggiegermano.com/events/how-taxes-fit-into-your-financial-goals/) is coming up this Monday, March 26th! Join me and [Cady North](https://www.northfinancialadvisors.com/), CFP while we talk about how your taxes can fit into your overall financial goals. [Join us!](https://www.maggiegermano.com/events/how-taxes-fit-into-your-financial-goals/)
 
 * I’m leading a personal finance workshop at Varnish Lane nail salon for their first Varnish Lane After Hours event! Join us on **[Thursday, April 5th](https://www.eventbrite.com/e/varnish-lane-after-hours-personal-finances-tickets-44203571071)**!
 
