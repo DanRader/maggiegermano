@@ -13,6 +13,8 @@ TGIF!
 
 * Our Airbnb is a little quieter this week, since we were having duct work done on the house, but we still have a few stays and the payment goes through as soon as guests check in. 
 
+![Screen Shot 2018-03-21 at 4.03.03 PM.png](/uploads/Screen%20Shot%202018-03-21%20at%204.03.03%20PM.png)
+
 ## **How I Spent Money This Week**
 
 * Oh boy, where should I start? This week has been pretty expensive on the homeownership front. On Monday, we got our air ducts cleaned. They were so dirty after years of never being cleaned that they ended up needing to sanitizing them, which more than doubled the cost. 
