@@ -11,19 +11,21 @@ TGIF! I hope y'all stayed warm and dry this week during our Spring snow storm. H
 
 * I spoke to an amazing group of female bartenders at the [Sisterhood Project](https://www.facebook.com/events/769338589936455/), an event that is part of [Speed Rack](https://speed-rack.com/washingtondc/), a bartending competition for women. It was a great experience, *and* it was paid!
 
-* Our Airbnb is a little quieter this week, since we were having duct work done on the house, but we still have a few stays and the payment goes through as soon as guests check in now. 
+* Our Airbnb is a little quieter this week, since we were having duct work done on the house, but we still have a few stays and the payment goes through as soon as guests check in now.
 
 ![Screen Shot 2018-03-21 at 4.03.03 PM.png](/uploads/Screen%20Shot%202018-03-21%20at%204.03.03%20PM.png)
 
 ## **How I Spent Money This Week**
 
-* Oh boy, where should I start? This week has been pretty expensive on the homeownership front. On Monday, we got our air ducts cleaned. They were so dirty after years of never being cleaned that they ended up needing to sanitizing them, which more than doubled the cost. 
+* Oh boy, where should I start? This week has been pretty expensive on the homeownership front. On Monday, we got our air ducts cleaned. They were so dirty after years of never being cleaned that they ended up needing to sanitizing them, which more than doubled the cost.
 
 * On Tuesday, we had the ducts sealed to reduce air leakage by more than 80%. That was a big expense, but I'm hoping that it will help save money on our energy bills and make the house more comfortable.
 
 * Last weekend, Dan and I were putzing around in the front yard, thinking about what we might want to do with the garden. I picked up a small piece of wood and saw a bunch of white larvae running around underneath. A quick Google search showed that they were most definitely termites! All I know about termites is that they eat wood and destroy houses, so I called an exterminator in. Luckily, the termites have only munched on a few pieces of wood that enclose the garden in the front yard, and haven't touched the actual house yet. We haven't spent the money yet, but the plan is to get the perimeter of the house treated for termites so they won't ever get to the house. The price was actually a lot less scary than I expected so I'm eager to move forward and protect our home.
 
 * The Gold's Gym down the street from my house finally opened and I was charged for my first monthly membership fee! Now I don't have an excuse to be lazy and not exercise anymore. I'm actually really excited to get back into an exercise routine again. I used to be really active and fit, and I've fallen out of that over the past few years. I'm feeling motivated to make a change!
+
+[![Screen Shot 2018-03-22 at 4.33.40 PM.png](/uploads/Screen%20Shot%202018-03-22%20at%204.33.40%20PM.png)](https://www.instagram.com/maggiegermano/)
 
 ## **What I’m Writing**
 
