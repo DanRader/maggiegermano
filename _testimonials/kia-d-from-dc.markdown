@@ -1,7 +1,7 @@
 ---
 title: Kia D. from DC
 date: 2018-03-22 17:55:00 -04:00
-position: 1
+position: 0
 image: "/uploads/10497491_10101251225905301_2722478863122034811_o.jpg"
 ---
 
