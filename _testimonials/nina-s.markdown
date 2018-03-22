@@ -1,7 +1,7 @@
 ---
 title: Nina S. from DC
 date: 2016-12-19 22:04:00 -05:00
-position: 6
+position: 8
 image: "/uploads/NinaS.jpg"
 ---
 

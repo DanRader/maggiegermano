@@ -1,7 +1,7 @@
 ---
 title: Shontelle D. from DC
 date: 2017-08-28 21:59:00 -04:00
-position: 0
+position: 2
 image: "/uploads/pic.jpg"
 ---
 

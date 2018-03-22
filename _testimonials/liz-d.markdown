@@ -1,7 +1,7 @@
 ---
 title: Liz D. from DC
 date: 2016-12-20 12:25:00 -05:00
-position: 5
+position: 7
 image: "/uploads/LizD.jpg"
 ---
 
