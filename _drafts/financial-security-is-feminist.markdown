@@ -11,7 +11,7 @@ posts:
 - What Survivors Wish You Knew About Financial Abuse
 ---
 
-For me, financial security is not just about money. It's not about having more money so that you can have more stuff. It's about having more money so that you have more freedom, more security, more independence. To me, pursuing financial security is a deeply feminist act.
+For me, financial security is not just about money. It's not about having more money so that you can have more stuff. It's about having more money so that you have more freedom, more security, more independence. To me, pursuing financial security is a deeply feminist act. It's why I decided to become a financial coach for women. I want to help women get control over their money so that they can have the lives they really desire. I want them to use money as a tool of empowerment, rather than it being a source of stress and anxiety. Here are just a few ways that financial security can help you to live a feminist life. 
 
 ## Reproductive Freedom
 
