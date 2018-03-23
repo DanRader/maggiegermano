@@ -45,7 +45,7 @@ I wrote a post that was a little lighter and more fun this week than the past [t
 
 ## **Money Tips to Take Into the Weekend**
 
-* Schedule time into your weekend to take a money minute. Pull up your Mint account (or whichever program you use) or log into your bank accounts. Get a handle on how much you spent this week and what you have left to work with. That will help you set a budget for next week, the final week of March!
+* Schedule time into your weekend to take a money minute. Pull up your Mint account (or whichever program you use) or log into your individual bank accounts. Get a handle on how much you spent this week and what you have left to work with. That will help you set a budget for next week, the final week of March!
 
 * 
 
