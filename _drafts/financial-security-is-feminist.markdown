@@ -17,6 +17,8 @@ For me, financial security is not just about money. It's not about having more m
 
 Abortion and birth control are legal in the United States, regardless of what some legislators seem to think. However, legality does not equal accessibility. If a woman is uninsured and low-income, odds are that she can't afford her own birth control. This increases the likelihood that she will have an unintended pregnancy. From there, if she decides that she doesn't want to keep the pregnancy, she has to go through many hoops. 
 
+Having access to money 
+
 ## The Ability to Leave
 
 A big reason that I was attracted to financial coaching was so that I could help women who might otherwise feel trapped. Money is a huge factor in abusive relationships. Ninety-eight percent of abusive relationships involve [financial abuse](https://www.maggiegermano.com/blog/financial-abuse-survivors-want-you-to-know).
