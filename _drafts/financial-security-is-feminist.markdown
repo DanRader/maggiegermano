@@ -15,7 +15,7 @@ For me, financial security is not just about money. It's not about having more m
 
 ## Reproductive Freedom
 
-Abortion and birth control are legal in the United States, regardless of what some legislators seem to think. However, legality does not 
+Abortion and birth control are legal in the United States, regardless of what some legislators seem to think. However, legality does not equal accessibility. 
 
 ## The Ability to Leave
 
