@@ -21,7 +21,7 @@ Abortion and birth control are legal in the United States, regardless of what so
 
 A big reason that I was attracted to financial coaching was so that I could help women who might otherwise feel trapped. Money is a huge factor in abusive relationships. Ninety-eight percent of abusive relationships involve [financial abuse](https://www.maggiegermano.com/blog/financial-abuse-survivors-want-you-to-know).
 
-The ability to leave a bad situation can apply to many areas of life. 
+The ability to leave a bad situation can apply to many areas of life. Bad relationships, bad roommate situations, and bad jobs. 
 
 ## Control Over Your Decisions
 
