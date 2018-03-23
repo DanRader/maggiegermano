@@ -3,6 +3,13 @@ title: Founder Friday | Termites, Sisterhood, Gold's Gym
 date: 2018-03-23 13:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/gym.jpg"
+tweet: 'Homeownership can be a drag, and other things I learned this week, in my #FounderFriday
+  post!'
+posts:
+- Founder Friday | Ramen, Taxes, Safe Spaces
+- Founder Friday | Bossed Up, Airbnb, and Women
+- Founder Friday | Art, Coaching, and Aliens
 ---
 
 TGIF! I hope y'all stayed warm and dry this week during our Spring snow storm. Here's what I got up to.
