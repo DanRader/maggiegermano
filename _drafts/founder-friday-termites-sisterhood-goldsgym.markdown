@@ -25,7 +25,7 @@ TGIF! I hope y'all stayed warm and dry this week during our Spring snow storm. H
 
 * The Gold's Gym down the street from my house finally opened and I was charged for my first monthly membership fee! Now I don't have an excuse to be lazy and not exercise anymore. I'm actually really excited to get back into an exercise routine again. I used to be really active and fit, and I've fallen out of that over the past few years. I'm feeling motivated to make a change!
 
-[![Screen Shot 2018-03-22 at 4.33.40 PM.png](/uploads/Screen%20Shot%202018-03-22%20at%204.33.40%20PM.png)](https://www.instagram.com/maggiegermano/)
+![Screen Shot 2018-03-22 at 4.33.40 PM.png](/uploads/Screen%20Shot%202018-03-22%20at%204.33.40%20PM.png)
 
 ## **What I’m Writing**
 
@@ -42,10 +42,6 @@ I wrote a post that was a little lighter and more fun this week than the past [t
 * I’m leading a personal finance workshop at Varnish Lane nail salon for their first Varnish Lane After Hours event! Join us on **[Thursday, April 5th](https://www.eventbrite.com/e/varnish-lane-after-hours-personal-finances-tickets-44203571071)**!
 
 ![graphic1-4f45d3.jpeg](/uploads/graphic1-4f45d3.jpeg)
-
-## **What I’m Fan-Girling Over**
-
-* x
 
 ## **Money Tips to Take Into the Weekend**
 
