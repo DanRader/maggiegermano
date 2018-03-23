@@ -33,4 +33,4 @@ This is striking when you think about lower-income women who are harassed and ab
 
 ## The Means to Donate to a Cause
 
-Many of my clients talk about hoping
+Many of my clients talk about having a goal of 
