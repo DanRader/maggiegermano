@@ -21,8 +21,16 @@ Abortion and birth control are legal in the United States, regardless of what so
 
 A big reason that I was attracted to financial coaching was so that I could help women who might otherwise feel trapped. Money is a huge factor in abusive relationships. Ninety-eight percent of abusive relationships involve [financial abuse](https://www.maggiegermano.com/blog/financial-abuse-survivors-want-you-to-know).
 
+The ability to leave a bad situation can apply to many areas of life. 
+
 ## Control Over Your Decisions
 
 ## The Power to Speak Up
 
+If the #MeToo movement taught me anything, it's that money and success are so often used as a weapon against women. Many women who were harassed or assaulted by Harvey Weinstein (and so many others) felt unable to speak up because he held their career in his hands. 
+
+This is striking when you think about lower-income women who are harassed and abused. They often can't speak up because they and their families need the income from their jobs. Abusers know this and target people accordingly. 
+
 ## The Means to Donate to a Cause
+
+Many of my clients talk about hoping
