@@ -23,6 +23,8 @@ A big reason that I was attracted to financial coaching was so that I could help
 
 The ability to leave a bad situation can apply to many areas of life. Bad relationships, bad roommate situations, and bad jobs. 
 
+See this story about why you should have a ["fuck off fund"](https://www.thebillfold.com/2016/01/a-story-of-a-fuck-off-fund/) and how it applies to your career.
+
 ## Control Over Your Decisions
 
 ## The Power to Speak Up
