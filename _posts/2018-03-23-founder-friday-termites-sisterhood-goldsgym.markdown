@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Termites, Sisterhood, Gold's Gym
 date: 2018-03-23 13:00:00 -04:00
+published: false
 categories:
 - founder friday
 ---
@@ -43,10 +44,8 @@ I wrote a post that was a little lighter and more fun this week than the past [t
 
 ![graphic1-4f45d3.jpeg](/uploads/graphic1-4f45d3.jpeg)
 
-## **Money Tips to Take Into the Weekend**
+## **Money Tip to Take Into the Weekend**
 
-* Schedule time into your weekend to take a money minute. Pull up your Mint account (or whichever program you use) or log into your bank accounts. Get a handle on how much you spent this week and what you have left to work with. That will help you set a budget for next week, the final week of March!
-
-* 
+* Schedule time into your weekend to take a money minute. Pull up your Mint account (or whichever program you use) or log into your individual bank accounts. Get a handle on how much you spent this week and what you have left to work with. That will help you set a budget for next week, the final week of March!
 
 That's all from me for this week! Enjoy your weekend!
