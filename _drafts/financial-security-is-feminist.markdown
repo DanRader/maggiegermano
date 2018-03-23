@@ -33,4 +33,4 @@ This is striking when you think about lower-income women who are harassed and ab
 
 ## The Means to Donate to a Cause
 
-Many of my clients talk about having a goal of 
+Many of my clients talk about having a goal of giving money to their favorite causes. They hope to have enough discretionary income to give freely to organizations they support. Giving money is a great way to support the things you care about most. It's a tangible way to make an impact. 
