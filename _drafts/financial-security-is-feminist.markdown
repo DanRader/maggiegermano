@@ -27,6 +27,8 @@ See this story about why you should have a ["fuck off fund"](https://www.thebill
 
 ## Control Over Your Decisions
 
+x
+
 ## The Power to Speak Up
 
 If the #MeToo movement taught me anything, it's that money and success are so often used as a weapon against women. Many women who were harassed or assaulted by Harvey Weinstein (and so many others) felt unable to speak up because he held their career in his hands. 
