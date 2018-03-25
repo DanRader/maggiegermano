@@ -15,15 +15,15 @@ For me, financial security is not just about money. It's not about having more m
 
 ## Reproductive Freedom
 
-Abortion and birth control are legal in the United States, regardless of what some legislators seem to think. However, legality does not equal accessibility. If a woman is uninsured and low-income, odds are that she can't afford her own birth control. This increases the likelihood that she will have an unintended pregnancy. From there, if she decides that she doesn't want to keep the pregnancy, she has to go through many hoops. 
+Abortion and birth control are legal in the United States, regardless of what some legislators seem to think. However, legality does not equal accessibility. If a woman is uninsured and low-income, odds are that she can't afford her own birth control. This increases the likelihood that she will have an unintended pregnancy. From there, if she decides that she doesn't want to keep the pregnancy, she has to go through many hoops.
 
-Having access to money in this kind of scenario leads to much different outcomes. Even when abortion was illegal in the United States, women of means were able to access safe abortion. 
+Having access to money in this kind of scenario leads to much different outcomes. Even when abortion was illegal in the United States, women of means were able to access safe abortion.
 
 ## The Ability to Leave
 
 A big reason that I was attracted to financial coaching was so that I could help women who might otherwise feel trapped. Money is a huge factor in abusive relationships. Ninety-eight percent of abusive relationships involve [financial abuse](https://www.maggiegermano.com/blog/financial-abuse-survivors-want-you-to-know).
 
-The ability to leave a bad situation can apply to many areas of life. Bad relationships, bad roommate situations, and bad jobs. 
+The ability to leave a bad situation can apply to many areas of life. Bad relationships, bad roommate situations, and bad jobs.
 
 See this story about why you should have a ["fuck off fund"](https://www.thebillfold.com/2016/01/a-story-of-a-fuck-off-fund/) and how it applies to your career.
 
@@ -33,10 +33,12 @@ x
 
 ## The Power to Speak Up
 
-If the #MeToo movement taught me anything, it's that money and success are so often used as a weapon against women. Many women who were harassed or assaulted by Harvey Weinstein (and so many others) felt unable to speak up because he held their career in his hands. 
+If the #MeToo movement taught me anything, it's that money and success are so often used as a weapon against women. Many women who were harassed or assaulted by Harvey Weinstein (and so many others) felt unable to speak up because he held their career in his hands.
 
-This is striking when you think about lower-income women who are harassed and abused. They often can't speak up because they and their families need the income from their jobs. Abusers know this and target people accordingly. 
+This is striking when you think about lower-income women who are harassed and abused. They often can't speak up because they and their families need the income from their jobs. Abusers know this and target people accordingly.
 
 ## The Means to Donate to a Cause
 
-Many of my clients talk about having a goal of giving money to their favorite causes. They hope to have enough discretionary income to give freely to organizations they support. Giving money is a great way to support the things you care about most. It's a tangible way to make an impact. 
+Many of my clients talk about having a goal of giving money to their favorite causes. They hope to have enough discretionary income to give freely to organizations they support. Giving money is a great way to support the things you care about most. It's a tangible way to make an impact.
+
+*What inspires you to work towards financial security? Share in the comments!*
