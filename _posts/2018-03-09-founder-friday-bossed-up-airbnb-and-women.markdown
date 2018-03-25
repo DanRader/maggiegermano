@@ -10,7 +10,7 @@ posts:
 - Founder Friday | Pastries, Vagina Monologues, and Nashville
 ---
 
-Happy Friday! We made it! Plus, the sun is out and will stay there all weekend. 
+Happy Friday! We made it! Plus, the sun is out and will stay there all weekend.
 
 ## How I Earned Money This Week
 
