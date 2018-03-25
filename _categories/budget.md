@@ -1,5 +1,5 @@
 ---
 title: Budget
-color: "#00BDB2"
+color: "#1603de"
 ---
 
