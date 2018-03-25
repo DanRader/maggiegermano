@@ -3,6 +3,7 @@ title: Women Who Broke the Glass Ceiling in Their Industry
 date: 2018-03-19 11:00:00 -04:00
 categories:
 - lifestyle
+- career
 image: "/uploads/ceiling.jpg"
 tweet: 'It''s #WomensHistoryMonth and here are 17 #women who broke their own glass
   ceiling. '
