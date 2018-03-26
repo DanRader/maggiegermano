@@ -29,10 +29,6 @@ The ability to leave a bad situation can also apply to the workplace. Women who 
 
 *See this story about why you should have a ["fuck off fund"](https://www.thebillfold.com/2016/01/a-story-of-a-fuck-off-fund/) and how it can apply to your career.*
 
-## Control Over Your Decisions
-
-I want women to get their money right so that they have the power to make basic decisions in their lives. 
-
 ## The Power to Speak Up
 
 If the #MeToo movement taught me anything, it's that money and success are so often used as a weapon against women. Many women who were harassed or assaulted by Harvey Weinstein (and so many others) felt unable to speak up because he held their career in his hands. Even women who were fairly successful and well-known felt paralyzed in the face of abuse. 
