@@ -15,7 +15,7 @@ For me, financial security is not just about money. It's not about having more m
 
 ## Reproductive Freedom
 
-Abortion and birth control are legal in the United States, regardless of what some legislators seem to think. However, legality does not equal accessibility. If a woman is uninsured and low-income, odds are that she can't afford her own birth control. This increases the likelihood that she will have an unintended pregnancy. From there, if she decides that she doesn't want to keep the pregnancy, she has to go through many hoops.
+Abortion and birth control are legal in the United States, regardless of what some legislators seem to think. However, legality does not equal accessibility. If a woman is uninsured and/or low-income, odds are that she can't afford her own birth control. This increases the likelihood that she will have an unintended pregnancy. From there, if she decides that she doesn't want to keep the pregnancy, she has to go through many hoops. Lots of these hoops are financial in nature. Abortion is often not covered by insurance, and it's almost always not covered by Medicaid. To add insult to injury, many states have waiting periods, or have implemented laws that have caused clinics to close. 
 
 Having access to money in this kind of scenario leads to much different outcomes. Even when abortion was illegal in the United States, women of means were able to access safe abortion.
 
