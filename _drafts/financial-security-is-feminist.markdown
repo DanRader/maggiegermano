@@ -17,7 +17,9 @@ For me, financial security is not just about money. It's not about having more m
 
 Abortion and birth control are legal in the United States, regardless of what some legislators seem to think. However, legality does not equal accessibility. If a woman is uninsured and/or low-income, odds are that she can't afford her own birth control. This increases the likelihood that she will have an unintended pregnancy. From there, if she decides that she doesn't want to keep the pregnancy, she has to go through many hoops. Lots of these hoops are financial in nature. Abortion is often not covered by insurance, and it's almost always not covered by Medicaid. To add insult to injury, many states have waiting periods, or have implemented laws that have caused clinics to close. This forces women to travel to abortion clinics, which means they have to take time off from work, get a babysitter, pay for a hotel, etc. The money involved in this scenario is often prohibitive, and women are not able to get the care they desire. 
 
-Having access to money in this kind of scenario leads to much different outcomes. Even when abortion was illegal in the United States, women of means were able to access safe abortion. 
+Having access to money in this kind of scenario leads to much different outcomes. Even when abortion was illegal in the United States, women of means were able to access safe abortion. All of this to say, financial stability would make it much more likely for a woman to make her own reproductive choices. 
+
+*Want to help women get access to reproductive healthcare? Donate to [Planned Parenthood](https://www.plannedparenthood.org/) or abortion funds like [DCAF](https://dcabortionfund.org/). *
 
 ## The Ability to Leave
 
