@@ -1,6 +1,7 @@
 ---
 title: How Financial Security is a Feminist Act
 date: 2018-03-26 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 image: "/uploads/cash-43f55f.jpg"
@@ -28,10 +29,6 @@ A big reason that I was attracted to financial coaching was so that I could help
 The ability to leave a bad situation can also apply to the workplace. Women who are financially insecure are more likely to get harassed at work, because the harasser knows that they cannot risk losing their jobs. Having access to something like an emergency fund can give women more options if they are mistreated in the workplace. 
 
 *See this story about why you should have a ["fuck off fund"](https://www.thebillfold.com/2016/01/a-story-of-a-fuck-off-fund/) and how it can apply to your career.*
-
-## Control Over Your Decisions
-
-I want women to get their money right so that they have the power to make basic decisions in their lives. 
 
 ## The Power to Speak Up
 
