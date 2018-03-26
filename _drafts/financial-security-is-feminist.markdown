@@ -29,7 +29,7 @@ See this story about why you should have a ["fuck off fund"](https://www.thebill
 
 ## Control Over Your Decisions
 
-x
+I want women to get their money right so that they have the power to make basic decisions in their lives. 
 
 ## The Power to Speak Up
 
