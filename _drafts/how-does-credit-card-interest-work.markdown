@@ -3,6 +3,7 @@ title: How Does Credit Card Interest Work?
 date: 2018-04-02 11:00:00 -04:00
 categories:
 - Credit
+tweet: 'How does credit card interest even work, and why should you care? '
 posts:
 - Why Credit Card Interest Sucks and What You Could Be Spending It On Instead
 - Why You Should Care About Your Credit Score
