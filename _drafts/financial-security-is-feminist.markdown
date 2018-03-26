@@ -21,9 +21,9 @@ Having access to money in this kind of scenario leads to much different outcomes
 
 ## The Ability to Leave
 
-A big reason that I was attracted to financial coaching was so that I could help women who might otherwise feel trapped. Money is a huge factor in abusive relationships. Ninety-eight percent of abusive relationships involve [financial abuse](https://www.maggiegermano.com/blog/financial-abuse-survivors-want-you-to-know). This is when the abuser uses money as a weapon against the victim. 
+A big reason that I was attracted to financial coaching was so that I could help women who might otherwise feel trapped. Money is a huge factor in abusive relationships. Ninety-eight percent of abusive relationships involve [financial abuse](https://www.maggiegermano.com/blog/financial-abuse-survivors-want-you-to-know). This is when the abuser uses money as a weapon against the victim. This can look like putting the victim on a restrictive allowance, sabotaging their career, etc. Many women cannot afford to leave the abusive relationship because they don't have money of their own. It often seems like the better choice, staying with an abuser, rather than risking homelessness. 
 
-The ability to leave a bad situation can apply to many areas of life. Bad relationships, bad roommate situations, and bad jobs.
+The ability to leave a bad situation can also apply to the workplace. 
 
 See this story about why you should have a ["fuck off fund"](https://www.thebillfold.com/2016/01/a-story-of-a-fuck-off-fund/) and how it applies to your career.
 
