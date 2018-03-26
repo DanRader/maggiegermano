@@ -35,9 +35,9 @@ I want women to get their money right so that they have the power to make basic 
 
 ## The Power to Speak Up
 
-If the #MeToo movement taught me anything, it's that money and success are so often used as a weapon against women. Many women who were harassed or assaulted by Harvey Weinstein (and so many others) felt unable to speak up because he held their career in his hands.
+If the #MeToo movement taught me anything, it's that money and success are so often used as a weapon against women. Many women who were harassed or assaulted by Harvey Weinstein (and so many others) felt unable to speak up because he held their career in his hands. Even women who were fairly successful and well-known felt paralyzed in the face of abuse. 
 
-This is striking when you think about lower-income women who are harassed and abused. They often can't speak up because they and their families need the income from their jobs. Abusers know this and target people accordingly.
+This is more striking when you think about lower-income women who are harassed and abused. They often can't speak up because they and their families need the income from their jobs. Abusers know this and target people accordingly. 
 
 ## The Means to Donate to a Cause
 
