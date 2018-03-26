@@ -19,7 +19,7 @@ Abortion and birth control are legal in the United States, regardless of what so
 
 Having access to money in this kind of scenario leads to much different outcomes. Even when abortion was illegal in the United States, women of means were able to access safe abortion. All of this to say, financial stability would make it much more likely for a woman to make her own reproductive choices. 
 
-*Want to help women get access to reproductive healthcare? Donate to [Planned Parenthood](https://www.plannedparenthood.org/) or abortion funds like [DCAF](https://dcabortionfund.org/). *
+*Want to help women get access to reproductive healthcare? Donate to [Planned Parenthood](https://www.plannedparenthood.org/) or abortion funds like [DCAF](https://dcabortionfund.org/).*
 
 ## The Ability to Leave
 
