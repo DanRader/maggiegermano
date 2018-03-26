@@ -5,3 +5,5 @@ categories:
 - Credit
 ---
 
+Happy Financial Literacy Month! This is the month of the year that you'll probably be seeing financial topics discussed everywhere. Luckily, you're used to that from me. However, this month, I want to write in-depth about questions that I often get from my clients. Questions that don't always seem very straight forward, but are important to know the answers to. This week, I'm diving into credit card interest! It's the kind of thing that is talked about as if everyone understands it, but most people really have no idea. So here are the facts.
+
