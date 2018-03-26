@@ -15,13 +15,13 @@ For me, financial security is not just about money. It's not about having more m
 
 ## Reproductive Freedom
 
-Abortion and birth control are legal in the United States, regardless of what some legislators seem to think. However, legality does not equal accessibility. If a woman is uninsured and/or low-income, odds are that she can't afford her own birth control. This increases the likelihood that she will have an unintended pregnancy. From there, if she decides that she doesn't want to keep the pregnancy, she has to go through many hoops. Lots of these hoops are financial in nature. Abortion is often not covered by insurance, and it's almost always not covered by Medicaid. To add insult to injury, many states have waiting periods, or have implemented laws that have caused clinics to close. This forces women to travel to abortion clinics, which means they have to take time off from work, get a babysitter, pay for a hotel, etc. The money involved in this scenario is often 
+Abortion and birth control are legal in the United States, regardless of what some legislators seem to think. However, legality does not equal accessibility. If a woman is uninsured and/or low-income, odds are that she can't afford her own birth control. This increases the likelihood that she will have an unintended pregnancy. From there, if she decides that she doesn't want to keep the pregnancy, she has to go through many hoops. Lots of these hoops are financial in nature. Abortion is often not covered by insurance, and it's almost always not covered by Medicaid. To add insult to injury, many states have waiting periods, or have implemented laws that have caused clinics to close. This forces women to travel to abortion clinics, which means they have to take time off from work, get a babysitter, pay for a hotel, etc. The money involved in this scenario is often prohibitive, and women are not able to get the care they desire. 
 
-Having access to money in this kind of scenario leads to much different outcomes. Even when abortion was illegal in the United States, women of means were able to access safe abortion.
+Having access to money in this kind of scenario leads to much different outcomes. Even when abortion was illegal in the United States, women of means were able to access safe abortion. 
 
 ## The Ability to Leave
 
-A big reason that I was attracted to financial coaching was so that I could help women who might otherwise feel trapped. Money is a huge factor in abusive relationships. Ninety-eight percent of abusive relationships involve [financial abuse](https://www.maggiegermano.com/blog/financial-abuse-survivors-want-you-to-know).
+A big reason that I was attracted to financial coaching was so that I could help women who might otherwise feel trapped. Money is a huge factor in abusive relationships. Ninety-eight percent of abusive relationships involve [financial abuse](https://www.maggiegermano.com/blog/financial-abuse-survivors-want-you-to-know). This is when the abuser uses money as a weapon against the victim. 
 
 The ability to leave a bad situation can apply to many areas of life. Bad relationships, bad roommate situations, and bad jobs.
 
