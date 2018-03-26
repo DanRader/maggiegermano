@@ -18,3 +18,7 @@ How to Find your Interest Rate
 How the Interest Rate is Calculated
 
 Why the Interest Rate Matters
+
+How to Avoid Paying Interest
+
+How to Lower the Interest Rate
