@@ -27,7 +27,7 @@ A big reason that I was attracted to financial coaching was so that I could help
 
 The ability to leave a bad situation can also apply to the workplace. 
 
-See this story about why you should have a ["fuck off fund"](https://www.thebillfold.com/2016/01/a-story-of-a-fuck-off-fund/) and how it applies to your career.
+*See this story about why you should have a ["fuck off fund"](https://www.thebillfold.com/2016/01/a-story-of-a-fuck-off-fund/) and how it can apply to your career.*
 
 ## Control Over Your Decisions
 
