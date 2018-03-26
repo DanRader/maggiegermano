@@ -25,7 +25,7 @@ Having access to money in this kind of scenario leads to much different outcomes
 
 A big reason that I was attracted to financial coaching was so that I could help women who might otherwise feel trapped. Money is a huge factor in abusive relationships. Ninety-eight percent of abusive relationships involve [financial abuse](https://www.maggiegermano.com/blog/financial-abuse-survivors-want-you-to-know). This is when the abuser uses money as a weapon against the victim. This can look like putting the victim on a restrictive allowance, sabotaging their career, etc. Many women cannot afford to leave the abusive relationship because they don't have money of their own. It often seems like the better choice, staying with an abuser, rather than risking homelessness. 
 
-The ability to leave a bad situation can also apply to the workplace. 
+The ability to leave a bad situation can also apply to the workplace. Women who are financially insecure are more likely to get harassed at work, because the harasser knows that they cannot risk losing their jobs. Having access to something like an emergency fund can give women more options if they are mistreated in the workplace. 
 
 *See this story about why you should have a ["fuck off fund"](https://www.thebillfold.com/2016/01/a-story-of-a-fuck-off-fund/) and how it can apply to your career.*
 
