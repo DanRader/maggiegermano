@@ -39,6 +39,8 @@ If the #MeToo movement taught me anything, it's that money and success are so of
 
 This is more striking when you think about lower-income women who are harassed and abused. They often can't speak up because they and their families need the income from their jobs. Abusers know this and target people accordingly. 
 
+*Want to get involved in this issue? Check out [Times Up](https://www.timesupnow.com/).*
+
 ## The Means to Donate to a Cause
 
 Many of my clients talk about wanting to be able to give money to their favorite causes. They hope to someday have enough discretionary income to give freely to organizations they support. Giving money is a great way to support the things you care about most. It's a real, tangible way to make an impact. Having extra money to build philanthropy into your budget allows you to speak up in ways you might not otherwise be able to. 
