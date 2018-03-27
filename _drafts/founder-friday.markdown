@@ -1,6 +1,8 @@
 ---
 title: Founder Friday |
 date: 2018-03-30 13:00:00 -04:00
+categories:
+- founder friday
 posts:
 - Founder Friday | Termites, Sisterhood, Gold's Gym
 - Founder Friday | Ramen, Taxes, Safe Spaces
