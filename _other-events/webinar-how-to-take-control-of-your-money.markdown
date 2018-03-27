@@ -1,9 +1,9 @@
 ---
 title: 'Webinar: How to Take Control of Your Money'
-date: 2018-03-28 18:30:00 -04:00
-event-date: 2018-03-28 18:30:00 -04:00
-start-time: 6:30PM EST
-end-time: 8:00PM EST
+date: 2018-05-10 18:00:00 -04:00
+event-date: 2018-05-10 18:00:00 -04:00
+start-time: 6:00PM EST
+end-time: 7:30PM EST
 button-text: Sign Me Up
 button-link: https://maggiegermanofinancialcoaching.as.me/webinar
 ticket-price: "$20"
@@ -13,7 +13,7 @@ location: Zoom (link provided upon registration)
 layout: event
 ---
 
-Join [Maggie Germano](http://maggiegermano.com/) and [Noelle Janka](http://www.noellejanka.com/) on March 28th for an interactive webinar about money and values! Are you looking for ways to get on top of budgeting your money? Do you want to make sure you know where your money is and how you are using it? Do you also want to make sure you're setting money goals that align with your values? Then this webinar is right for you! Over the course of an hour and a half, you will learn how to set financial goals based on your values, how to plan ahead for those goals, and how to align your budget to reach those goals. The webinar will wrap up with a Q&A between Maggie and the attendees.
+Join [Maggie Germano](http://maggiegermano.com/) and [Noelle Janka](http://www.noellejanka.com/) on Thursday, May 10th for an interactive webinar about money and values! Are you looking for ways to get on top of budgeting your money? Do you want to make sure you know where your money is and how you are using it? Do you also want to make sure you're setting money goals that align with your values? Then this webinar is right for you! Over the course of an hour and a half, you will learn how to set financial goals based on your values, how to plan ahead for those goals, and how to align your budget to reach those goals. The webinar will wrap up with a Q&A between Maggie and the attendees.
 
 **Co-hosted by:**
 

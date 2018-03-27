@@ -13,8 +13,12 @@ posts:
 
 Happy Financial Literacy Month! This is the month of the year that you'll probably be seeing financial topics discussed everywhere. Luckily, you're used to that from me. However, this month, I want to write in-depth about questions that I often get from my clients. Questions that don't always seem very straight forward, but are important to know the answers to. This week, I'm diving into credit card interest! It's the kind of thing that is talked about as if everyone understands it, but most people really have no idea. So here are the facts that will hopefully help you manage your credit card debt a little bit better.
 
-How to Find your Interest Rate
+## How to Find your Interest Rate
 
-How the Interest Rate is Calculated
+## How the Interest Rate is Calculated
 
-Why the Interest Rate Matters
+## Why the Interest Rate Matters
+
+## How to Avoid Paying Interest
+
+## How to Lower the Interest Rate
