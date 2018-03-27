@@ -15,6 +15,8 @@ Happy Financial Literacy Month! This is the month of the year that you'll probab
 
 ## How Interest Rate is Decided
 
+The interest rate for a credit card is determined by the credit card company. Most cards will have a percentage range, such as 16.24-24.99%. Where you will fall on that range depends on your credit score and credit history. 
+
 ## How to Find your Interest Rate
 
 ## How the Interest Rate is Calculated
