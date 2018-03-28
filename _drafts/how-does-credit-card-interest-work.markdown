@@ -53,4 +53,10 @@ The only way to avoid paying interest on your credit card is to pay off your ful
 
 Have you been a good customer, paying your bills on time and never missing a payment? Your credit card company has probably noticed. So give them a call and ask them if they can lower your interest rate. This is especially helpful if you are working on paying down a balance, so you don't pay as much in interest over time. Yes, the company may very well tell you no, but that's the worst that can happen. It doesn't hurt to ask!
 
+**Other resources:**
+
+* https://www.creditkarma.com/credit-cards/i/how-does-credit-card-interest-work/
+
+* https://www.nerdwallet.com/blog/credit-cards/how-credit-card-interest-calculated/
+
 *Have you ever successfully had your interest rate lowered? Have you ever been shocked by the amount you were paying in interest? Share in the comments!*
