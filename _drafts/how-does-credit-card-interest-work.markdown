@@ -27,6 +27,8 @@ Not sure what your credit score is? Get it for free at Credit Karma or Credit Se
 
 ## How to Avoid Paying Interest
 
+The only way to avoid paying interest on your credit card is to pay off your full balance every month. 
+
 ## How to Lower the Interest Rate
 
 Have you been a good customer, paying your bills on time and never missing a payment? Your credit card company has probably noticed. So give them a call and ask them if they can lower your interest rate. This is especially helpful if you are working on paying down a balance, so you don't pay as much in interest over time.
