@@ -33,9 +33,9 @@ Log into your credit card account online. Find the area of the website where you
 
 ## How the Interest Rate is Calculated
 
-The very term "annual percentage rate" makes it sound like the interest might be calculated over the course of the year, but it's actually applied to your card on a monthly basis. The actual APR number is how much interest is charged over the course of the year, but you can figure out how much your daily interest rate is, so that you can estimate how much you'll owe over a given period of time. You would do that by dividing the APR by 365. 
+The very term "annual percentage rate" makes it sound like the interest might be calculated over the course of the year, but it's actually applied to your card on a monthly basis. The actual APR number is how much interest is charged over the course of the year, but you can figure out how much your daily interest rate is, so that you can estimate how much you'll owe over a given period of time. You would do that by dividing the APR by 365.
 
-Here's a great example from [Discover](https://www.discover.com/credit-cards/resources/how-does-my-credit-card-interest-work): 
+Here's a great example from [Discover](https://www.discover.com/credit-cards/resources/how-does-my-credit-card-interest-work):
 
 ![Screen Shot 2018-03-28 at 1.46.25 PM.png](/uploads/Screen%20Shot%202018-03-28%20at%201.46.25%20PM.png)
 
@@ -43,7 +43,7 @@ As you can see, if you have a balance on your card that you're paying interest o
 
 ## Why the Interest Rate Matters
 
-Simply, your interest rate determines how much you end up paying out of pocket towards your credit card. If you carry a balance on your card over time, every month, you'll be charged added interest based on that balance. If your interest rate is as high at 27 percent, that can add up very quickly. Plus, if you're only able to pay the minimum balance, over time, the interest accumulation can make it very difficult for you to pay off your debt. 
+Simply, your interest rate determines how much you end up paying out of pocket towards your credit card. If you carry a balance on your card over time, every month, you'll be charged added interest based on that balance. If your interest rate is as high at 27 percent, that can add up very quickly. Plus, if you're only able to pay the minimum balance, over time, the interest accumulation can make it very difficult for you to pay off your debt. And think of [all the things](https://www.maggiegermano.com/blog/credit-card-interest-sucks) you could do with that money if you didn't have to spend it on interest! 
 
 ## How to Avoid Paying Interest
 
