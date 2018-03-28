@@ -33,7 +33,7 @@ Log into your credit card account online. Find the area of the website where you
 
 ## Why the Interest Rate Matters
 
-Simply, your interest rate determines how much you end up paying out of pocket towards your credit card. 
+Simply, your interest rate determines how much you end up paying out of pocket towards your credit card. If you carry a balance on your card over time, every month, you'll be charged added interest based on that balance. If your interest rate is as high at 27 percent, that can add up very quickly. Plus, if you're only able to pay the minimum balance, over time, the interest accumulation can make it very difficult for you to pay off your debt. 
 
 ## How to Avoid Paying Interest
 
