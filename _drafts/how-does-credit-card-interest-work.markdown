@@ -33,7 +33,7 @@ Log into your credit card account online. Find the area of the website where you
 
 ## How the Interest Rate is Calculated
 
-The very term "annual percentage rate" makes it sound like the interest might be calculated over the course of the year, but it's actually applied to your card on a monthly basis. 
+The very term "annual percentage rate" makes it sound like the interest might be calculated over the course of the year, but it's actually applied to your card on a monthly basis. The actual APR number is how much interest is charged over the course of the year, but you can figure out how much your daily interest rate is, so that you can estimate how much you'll owe over a given period of time.
 
 Here's a great example from [Discover](https://www.discover.com/credit-cards/resources/how-does-my-credit-card-interest-work): 
 
