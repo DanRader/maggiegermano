@@ -27,13 +27,13 @@ Not sure what your credit score is? Get it for free at [Credit Karma](http://www
 
 ## How to Find your Interest Rate
 
-Log into your credit card account online. Find the area of the website where your past statements are stored, and pull up your most recent credit card statement. Typically, if you scroll down, past the list of transactions, you will find a section that is titled "Interest Charged". Beneath that, the annual percentage rate (APR) on purchases and cash advances will be listed. Oftentimes, the APR on purchases and cash advances will be different, as cash advanced (if they are offered by your card) will have a higher interest rate. This section will also tell you how much interest you've paid since the beginning of the year. That number can be pretty sobering and motivate you to start paying down your debt.
+Log into your credit card account online. Find the area of the website where your past statements are stored, and pull up your most recent credit card statement. Typically, if you scroll down, past the list of transactions, you will find a section that is titled "Interest Charged" (or some variation of the same). Beneath that, the annual percentage rate (APR) on purchases and cash advances will be listed. Oftentimes, the APR on purchases and cash advances will be different, as cash advances (if they are offered by your card) will have a higher interest rate. This section will also tell you how much interest you've paid since the beginning of the year. That number can be pretty sobering and may motivate you to start paying down your debt more aggressively.
 
 ![Screen Shot 2018-03-28 at 1.40.56 PM.png](/uploads/Screen%20Shot%202018-03-28%20at%201.40.56%20PM.png)
 
 ## How the Interest Rate is Calculated
 
-The very term "annual percentage rate" makes it sound like the interest might be calculated over the course of the year, but it's actually applied to your card on a monthly basis. The actual APR number is how much interest is charged over the course of the year, but you can figure out how much your daily interest rate is, so that you can estimate how much you'll owe over a given period of time. You would do that by dividing the APR by 365.
+The very term "annual percentage rate" makes it sound like the interest might only be added annually, but it's actually applied to your card on a monthly basis, when your statement closes. The actual APR number is how much interest is charged over the course of the year, but you can figure out how much your daily interest rate is, so that you can estimate how much you'll owe over a given period of time. You would do that by dividing the APR by 365.
 
 Here's a great example from [Discover](https://www.discover.com/credit-cards/resources/how-does-my-credit-card-interest-work):
 
@@ -43,11 +43,13 @@ As you can see, if you have a balance on your card that you're paying interest o
 
 ## Why the Interest Rate Matters
 
-Simply, your interest rate determines how much you end up paying out of pocket towards your credit card, in addition to what you purchased. If you carry a balance on your card over time, every month, you'll be charged added interest based on that balance. If your interest rate is as high at 27%, that can add up very quickly. Plus, if you're only able to pay the minimum balance, over time, the interest accumulation can make it very difficult for you to pay off your debt. And think of [all the things](https://www.maggiegermano.com/blog/credit-card-interest-sucks) you could do with that money if you didn't have to spend it on interest! 
+Simply, your interest rate determines how much you end up paying out of pocket towards your credit card, in addition to what you initially purchased. If you carry a balance on your card over time, every month, you'll be charged added interest based on that balance. If your interest rate is as high at 27%, that can add up very quickly. Plus, if you're only able to pay the minimum balance, over time, the interest accumulation can make it very difficult for you to pay off your debt. And think of [all the things](https://www.maggiegermano.com/blog/credit-card-interest-sucks) you could do with that money if you didn't have to spend it on interest!
 
 ## How to Avoid Paying Interest
 
-The only way to avoid paying interest on your credit card is to pay off your full balance every month. An alternative option is to get a credit card that offers a 0% APR for an introductory period. This period is often 12-18 months. That can be a great opportunity if you know you'll have to make a purchase that you won't be able to pay back right away. However, this can be a slippery slope. If you aren't able to pay off a balance in the 0% APR period, the APR will eventually go up and you'll start being charged interest. So only take this road if you're certain you'll be able to pay off your card in the introductory period.
+The only way to avoid paying interest on your credit card is to pay off your full balance every month. It's that simple. If you only spend what you can afford to pay back every month, you won't ever owe any interest fees. That is the only way that having credit cards is worthwhile in the long run. So use your credit card as if it's a debit card and only spend what you know you have in the bank!
+
+An alternative option is to get a credit card that offers a 0% APR for an introductory period. This period is often 12-18 months. That can be a great opportunity if you know you'll have to make a purchase that you won't be able to pay back right away. However, this can be a slippery slope. If you aren't able to pay off a balance in the 0% APR period, the APR will eventually go up and you'll start being charged interest. So only take this road if you're certain you'll be able to pay off your card during the introductory period.
 
 ## How to Lower the Interest Rate
 
