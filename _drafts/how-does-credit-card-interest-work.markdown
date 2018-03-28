@@ -33,6 +33,8 @@ Log into your credit card account online. Find the area of the website where you
 
 ## Why the Interest Rate Matters
 
+Simply, your interest rate determines how much you end up paying out of pocket towards your credit card. 
+
 ## How to Avoid Paying Interest
 
 The only way to avoid paying interest on your credit card is to pay off your full balance every month. 
