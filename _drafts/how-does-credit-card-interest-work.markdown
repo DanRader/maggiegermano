@@ -23,7 +23,7 @@ Plus, you might get punished later on, even if you started with a lower interest
 
 Not sure what your credit score is? Get it for free at [Credit Karma](http://www.creditkarma.com) or [Credit Sesame](http://www.creditsesame.com). Your bank might even offer the service for free too! And no, checking your score does not negatively impact it.
 
-***Note:** The free credit score companies make their money from offering credit cards to you. If you know you struggle with credit card spending or debt, try not to feel pressured into applying for the cards they offer to you. **Pro tip: **unsubscribe from the offer emails that they will start sending to you.*
+***Note:** The free credit score companies make their money from offering credit cards to you. If you know you struggle with credit card spending or debt, try not to feel pressured into applying for the cards they offer to you. **Pro tip:** Unsubscribe from the offer emails that they will start sending to you.*
 
 ## How to Find your Interest Rate
 
