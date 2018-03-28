@@ -35,6 +35,10 @@ Log into your credit card account online. Find the area of the website where you
 
 The very term "annual percentage rate" makes it sound like the interest might be calculated over the course of the year, but it's actually applied to your card on a monthly basis. 
 
+Here's a great example from [Discover](https://www.discover.com/credit-cards/resources/how-does-my-credit-card-interest-work): 
+
+![Screen Shot 2018-03-28 at 1.46.25 PM.png](/uploads/Screen%20Shot%202018-03-28%20at%201.46.25%20PM.png)
+
 ## Why the Interest Rate Matters
 
 Simply, your interest rate determines how much you end up paying out of pocket towards your credit card. If you carry a balance on your card over time, every month, you'll be charged added interest based on that balance. If your interest rate is as high at 27 percent, that can add up very quickly. Plus, if you're only able to pay the minimum balance, over time, the interest accumulation can make it very difficult for you to pay off your debt. 
