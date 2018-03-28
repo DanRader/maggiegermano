@@ -14,7 +14,7 @@ ticket-price: "$20"
 
 As of December 2017, there was over $1 trillion in revolving debt in the United States. When divided by the number of adults who have credit cards, that averages out to over $5,000 of credit card debt per person. Some people have more, some people have less. But the fact is, many, many people are dealing with credit card debt in the United States. 
 
-Yet, it's unclear for many people how to manage that debt. And many feel alone and ashamed of their debt. But clearly, if you're in debt, you are far from alone!
+Yet, it's unclear for many people how to manage that debt. And many feel alone and ashamed of their debt. But clearly, if you're in debt, you are far from alone! Join us at Money Circle to learn strategies and solutions to tackle your credit card debt. Bring your balances, interest rates, and payment information for 
 
 --
 
