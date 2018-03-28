@@ -17,6 +17,8 @@ Happy Financial Literacy Month! This is the month of the year that you'll probab
 
 The interest rate for a credit card is determined by the credit card company. Most cards will have a percentage range, such as 16.24-24.99%. Where you will fall on that range depends on your credit score and credit history. 
 
+Not sure what your credit score is? Get it for free at Credit Karma or Credit Sesame. Your bank might even offer the service for free too! And no, checking your score does not impact it.
+
 ## How to Find your Interest Rate
 
 ## How the Interest Rate is Calculated
@@ -26,3 +28,5 @@ The interest rate for a credit card is determined by the credit card company. Mo
 ## How to Avoid Paying Interest
 
 ## How to Lower the Interest Rate
+
+Have you been a good customer, paying your bills on time and never missing a payment? Your credit card company has probably noticed. So give them a call and ask them if they can lower your interest rate. This is especially helpful if you are working on paying down a balance, so you don't pay as much in interest over time.
