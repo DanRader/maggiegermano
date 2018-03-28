@@ -43,7 +43,7 @@ As you can see, if you have a balance on your card that you're paying interest o
 
 ## Why the Interest Rate Matters
 
-Simply, your interest rate determines how much you end up paying out of pocket towards your credit card, in addition to what you purchased. If you carry a balance on your card over time, every month, you'll be charged added interest based on that balance. If your interest rate is as high at 27%, that can add up very quickly. Plus, if you're only able to pay the minimum balance, over time, the interest accumulation can make it very difficult for you to pay off your debt. And think of [all the things](https://www.maggiegermano.com/blog/credit-card-interest-sucks) you could do with that money if you didn't have to spend it on interest!
+Simply, your interest rate determines how much you end up paying out of pocket towards your credit card, in addition to what you initially purchased. If you carry a balance on your card over time, every month, you'll be charged added interest based on that balance. If your interest rate is as high at 27%, that can add up very quickly. Plus, if you're only able to pay the minimum balance, over time, the interest accumulation can make it very difficult for you to pay off your debt. And think of [all the things](https://www.maggiegermano.com/blog/credit-card-interest-sucks) you could do with that money if you didn't have to spend it on interest!
 
 ## How to Avoid Paying Interest
 
