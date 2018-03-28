@@ -1,9 +1,15 @@
 ---
 title: How to Deal with Credit Card Debt
-date: 2018-03-25 19:19:00 -04:00
+date: 2018-04-25 18:30:00 -04:00
 published: false
 image: "/uploads/bills.jpg"
 og-image: "/uploads/Money%20Circle%20Photos%20(5).png"
+event-date: 2018-04-25 18:30:00 -04:00
+start-time: 6:30PM
+end-time: 8:30PM
+location: Private Columbia Heights Residence
+button-text: Sign Me Up
+ticket-price: "$20"
 ---
 
 x
