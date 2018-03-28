@@ -47,7 +47,9 @@ Simply, your interest rate determines how much you end up paying out of pocket t
 
 ## How to Avoid Paying Interest
 
-The only way to avoid paying interest on your credit card is to pay off your full balance every month. An alternative option is to get a credit card that offers a 0% APR for an introductory period. This period is often 12-18 months. That can be a great opportunity if you know you'll have to make a purchase that you won't be able to pay back right away. However, this can be a slippery slope. If you aren't able to pay off a balance in the 0% APR period, the APR will eventually go up and you'll start being charged interest. So only take this road if you're certain you'll be able to pay off your card in the introductory period.
+The only way to avoid paying interest on your credit card is to pay off your full balance every month. It's that simple. If you only spend what you can afford to pay back every month, you won't owe any interest fees. That is the only way that having credit cards is worthwhile in the long run. 
+
+An alternative option is to get a credit card that offers a 0% APR for an introductory period. This period is often 12-18 months. That can be a great opportunity if you know you'll have to make a purchase that you won't be able to pay back right away. However, this can be a slippery slope. If you aren't able to pay off a balance in the 0% APR period, the APR will eventually go up and you'll start being charged interest. So only take this road if you're certain you'll be able to pay off your card during the introductory period.
 
 ## How to Lower the Interest Rate
 
