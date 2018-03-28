@@ -15,7 +15,7 @@ Happy Financial Literacy Month! This is the month of the year that you'll probab
 
 ## How Interest Rate is Decided
 
-The interest rate for a credit card is determined by the credit card company. Most cards will have a percentage range, such as 16.24-24.99%. Where you will fall on that range depends on your credit score and credit history. The higher your score, the lower the APR will likely be. The lower your score, the higher the APR will be. Basically, you are being penalized by the credit card company for your credit history or lack thereof. They do this because they assume that if your credit score is low, you won't necessarily pay back your bills on time, so they want to earn more money from you via the interest rate.
+The interest rate (also called Annual Percentage Rate or APR) for a credit card is determined by the credit card company. Most cards will have a percentage range, such as 16.24-24.99%. Where you will fall on that range depends on your credit score and credit history. The higher your score, the lower the APR will likely be. The lower your score, the higher the APR will be. Basically, you are being penalized by the credit card company for your credit history or lack thereof. They do this because they assume that if your credit score is low, you won't necessarily pay back your bills on time, so they want to earn more money from you via the interest rate.
 
 Plus, you might get punished later on, even if you started with a lower interest rate. If you miss a payment, or pay late, the credit card company reserves the right to increase your APR. I saw the warning below on one of my credit card statements. So make sure you're paying your bills on time so that you don't owe even more later.
 
