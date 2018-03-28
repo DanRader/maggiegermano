@@ -15,9 +15,15 @@ Happy Financial Literacy Month! This is the month of the year that you'll probab
 
 ## How Interest Rate is Decided
 
-The interest rate for a credit card is determined by the credit card company. Most cards will have a percentage range, such as 16.24-24.99%. Where you will fall on that range depends on your credit score and credit history. 
+The interest rate for a credit card is determined by the credit card company. Most cards will have a percentage range, such as 16.24-24.99%. Where you will fall on that range depends on your credit score and credit history. The higher your score, the lower the APR will likely be. The lower your score, the higher the APR will be. Basically, you are being penalized by the credit card company for your credit history or lack thereof. They do this because they assume that if your credit score is low, you won't necessarily pay back your bills on time, so they want to earn more money from you via the interest rate.
 
-Not sure what your credit score is? Get it for free at Credit Karma or Credit Sesame. Your bank might even offer the service for free too! And no, checking your score does not impact it.
+Plus, you might get punished later on, even if you started with a lower interest rate. If you miss a payment, or pay late, the credit card company reserves the right to increase your APR. I saw the warning below on one of my credit card statements. So make sure you're paying your bills on time so that you don't owe even more later.
+
+![Screen Shot 2018-03-28 at 12.12.07 PM.png](/uploads/Screen%20Shot%202018-03-28%20at%2012.12.07%20PM.png)
+
+Not sure what your credit score is? Get it for free at [Credit Karma](http://www.creditkarma.com) or [Credit Sesame](http://www.creditsesame.com). Your bank might even offer the service for free too! And no, checking your score does not negatively impact it.
+
+***Note:** The free credit score companies make their money from offering credit cards to you. If you know you struggle with credit card spending or debt, try not to feel pressured into applying for the cards they offer to you. **Pro tip: **unsubscribe from the offer emails that they will start sending to you.*
 
 ## How to Find your Interest Rate
 
