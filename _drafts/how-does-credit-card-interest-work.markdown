@@ -27,11 +27,15 @@ Not sure what your credit score is? Get it for free at [Credit Karma](http://www
 
 ## How to Find your Interest Rate
 
-Log into your credit card account online. Find the area of the website where your past statements are stored, and pull up your most recent credit card statement. Typically, if you scroll down, past the list of transactions, you will find a section that is titled "Interest Charged". Beneath that, the annual percentage rate (APR) on purchases and cash advances will be listed. Oftentimes, the APR on purchases and cash advances will be different, as cash advanced (if they are offered by your card) will have a higher interest rate. 
+Log into your credit card account online. Find the area of the website where your past statements are stored, and pull up your most recent credit card statement. Typically, if you scroll down, past the list of transactions, you will find a section that is titled "Interest Charged". Beneath that, the annual percentage rate (APR) on purchases and cash advances will be listed. Oftentimes, the APR on purchases and cash advances will be different, as cash advanced (if they are offered by your card) will have a higher interest rate. This section will also tell you how much interest you've paid since the beginning of the year. That number can be pretty sobering and motivate you to start paying down your debt.
+
+![Screen Shot 2018-03-28 at 1.40.56 PM.png](/uploads/Screen%20Shot%202018-03-28%20at%201.40.56%20PM.png)
 
 ## How the Interest Rate is Calculated
 
 ## Why the Interest Rate Matters
+
+Simply, your interest rate determines how much you end up paying out of pocket towards your credit card. If you carry a balance on your card over time, every month, you'll be charged added interest based on that balance. If your interest rate is as high at 27 percent, that can add up very quickly. Plus, if you're only able to pay the minimum balance, over time, the interest accumulation can make it very difficult for you to pay off your debt. 
 
 ## How to Avoid Paying Interest
 
@@ -39,4 +43,4 @@ The only way to avoid paying interest on your credit card is to pay off your ful
 
 ## How to Lower the Interest Rate
 
-Have you been a good customer, paying your bills on time and never missing a payment? Your credit card company has probably noticed. So give them a call and ask them if they can lower your interest rate. This is especially helpful if you are working on paying down a balance, so you don't pay as much in interest over time.
+Have you been a good customer, paying your bills on time and never missing a payment? Your credit card company has probably noticed. So give them a call and ask them if they can lower your interest rate. This is especially helpful if you are working on paying down a balance, so you don't pay as much in interest over time. Yes, the company may very well tell you no, but that's the worst that can happen. It doesn't hurt to ask!
