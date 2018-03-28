@@ -21,6 +21,8 @@ Not sure what your credit score is? Get it for free at Credit Karma or Credit Se
 
 ## How to Find your Interest Rate
 
+Log into your credit card account online. Find the area of the website where your past statements are stored, and pull up your most recent credit card statement. Typically, if you scroll down, past the list of transactions, you will find a section that is titled "Interest Charged". Beneath that, there will be a sub-section titled "Interest charge calculation", which will list your annual percentage rate (APR) on purchases and cash advances. You can also look at the paper statement if you're still getting those in the mail. 
+
 ## How the Interest Rate is Calculated
 
 ## Why the Interest Rate Matters
