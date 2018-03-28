@@ -1,0 +1,116 @@
+.max-width-4 {
+    max-width: 90rem;
+    margin: auto;
+}
+
+.speaking-wrap {
+background-image: linear-gradient(-214deg, #00B3C8 0%, #00C5A2 53%, #00B3C8 100%);
+    min-height: 100vh;
+
+    & .row {
+        border-bottom: 1px solid white;
+    }
+    & .border-left {
+        border-left: 1px solid white;
+    }
+    & p {
+        color: white;
+    }
+    & h1, h2 {
+        font-size: 62px;
+        font-weight: 300;
+        color: white;
+        line-height: 1.2;
+        margin-bottom: 2rem;
+    }
+    & h1 {
+        font-size: 80px;
+    }
+}
+
+.content-innerWrap {
+    height: 80vh;
+    min-height: 450px;
+    display: flex;
+    align-items: center;
+    padding: 3rem !important;
+}
+
+.img-cover {
+    padding: 0 !important;
+    border: 12px solid white;
+    overflow: hidden;
+    & img {
+        object-fit: cover;
+        height: 100%;
+        width: 100%;
+    }
+}
+
+.logo-wrap {
+    padding: 4rem;
+}
+.logo-list {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 2rem;
+    align-items: center;
+    & a {
+        padding: 3%;
+    }
+}
+
+.hidden {
+    display: none;
+}
+
+.form-wrap {
+    padding: 4rem 0;
+    max-width: 38rem;
+    margin: auto;
+}
+
+#speaker_contact {
+    text-align: left;
+    color: white;
+    font-weight: 500;
+
+    & input, textarea {
+        border: 1px solid #FFFFFF;
+        width: 100%;
+        background-color: transparent;
+        margin: 0 0 1rem 0;
+        padding: 1.7rem 1.5rem;
+        box-sizing: border-box;
+        height: 4rem;
+
+        &::placeholder{
+            color: #ffffff8a;
+            font-weight: 100;
+        }
+        &:focus{
+            outline: none;
+        }
+    }
+    & textarea {
+        height: inherit;
+
+    }
+    #Form-submit {
+        width: auto;
+        text-align: center;
+        margin: 2rem auto;
+        display: block;
+        padding: 8px 28px;
+    }
+    & label {
+        font-size: 13px;
+        color: white;
+        letter-spacing: 2.17px;
+        text-transform: uppercase;
+        margin-bottom: 1rem;
+        font-weight: 600;
+        line-height: 34px;
+    }
+
+}
