@@ -19,9 +19,13 @@ You can **[vote](https://smallbusinessgrant.fedex.com/home/detail/44f45dd4-966d-
 
 ## **How I Earned Money This Week**
 
-* Two new clients signed up for a one-time session.
+* Two new clients signed up for a one-time session this week.
 
-* [Money Circle](https://www.maggiegermano.com/moneycircle/) was on Monday 
+* One of my monthly clients' payment went through on Wednesday.
+
+* [Money Circle](https://www.maggiegermano.com/moneycircle/) was on Monday and the fees from that are coming through from Eventbrite.
+
+* We had one Airbnb guest stay in our basement for the whole week.
 
 ## **How I Spent Money This Week**
 
