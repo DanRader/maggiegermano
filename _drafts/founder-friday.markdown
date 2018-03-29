@@ -9,11 +9,13 @@ posts:
 - Founder Friday | Bossed Up, Airbnb, and Women
 ---
 
-Happy Friday! I'm in Syracuse this weekend spending time with my family for Easter. But here's what I got up to this week.
+Happy Friday! I'm in Syracuse this weekend spending time with my family for Easter.
 
 Before I get started, I want to take a moment to plug myself and ask for your help! I applied for the FedEx Small Business Grant, which awards up to $25,000 to small businesses across the United States. **[Will you vote for me?](https://smallbusinessgrant.fedex.com/home/detail/44f45dd4-966d-4073-8051-115eab79ec3c#/gallery/detail/44f45dd4-966d-4073-8051-115eab79ec3c)**
 
 If chosen, I would use this grant to subsidize one-on-one financial coaching and group workshops for low-income women who need these services. All women, including those in more difficult financial situations, deserve the same level of support and it is a core value of my business to reach women of all backgrounds and circumstances. This money would enable me to reach women who cannot afford my services and empower them to create a budget, pay down debt, build savings, and become financially stable.
+
+You can **[vote](https://smallbusinessgrant.fedex.com/home/detail/44f45dd4-966d-4073-8051-115eab79ec3c#/gallery/detail/44f45dd4-966d-4073-8051-115eab79ec3c)** once every 24 hours until April 4th! Thank you!
 
 ## **How I Earned Money This Week**
 
