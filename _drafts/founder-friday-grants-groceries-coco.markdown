@@ -1,5 +1,5 @@
 ---
-title: Founder Friday | Grants, Idealist,
+title: Founder Friday | Grants, Groceries, Coco
 date: 2018-03-30 13:00:00 -04:00
 categories:
 - founder friday
@@ -33,9 +33,13 @@ You can **[vote](https://smallbusinessgrant.fedex.com/home/detail/44f45dd4-966d-
 
 * Since I was in DC for [Money Circle](https://www.maggiegermano.com/moneycircle/), I stopped by Trader Joe's and stocked up on my favorite items (Dark Chocolate Covered Powerberries, Raw Milk Shredded Parmesan Cheese, Roasted and Salted Sunflower Seeds).
 
+* The payment for last Friday's [Hungry Harvest](http://hharvest.net/m5didTk) order went through.
+
 * My monthly donation to [Collective Action for Safe Spaces](http://www.collectiveactiondc.org/) went through. Are you a monthly sustaining donor yet? [Start now!](http://www.collectiveactiondc.org/get-involved/monthly-giving-society/)
 
 * I ordered two books and [Coco](https://www.amazon.com/Coco-2018-Animation-Family-Adventure/dp/B079ZXN8ZS/ref=sr_1_2_sspa?ie=UTF8&qid=1522344570&sr=8-2-spons&keywords=coco\+dvd&psc=1) on DVD for my niece and nephew. If you haven't watched that movie yet, you must!
+
+![2018-03-25 17.15.13.jpg](/uploads/2018-03-25%2017.15.13.jpg)
 
 ## **What I’m Writing**
 
@@ -46,6 +50,8 @@ This week, for the [final post](https://www.maggiegermano.com/blog/financial-sec
 * I was featured on the [Idealist](https://idealistcareers.org/financial-coach-women/) blog, talking about how I made my transition from the nonprofit world to entrepreneurship.
 
 * I’m leading a personal finance workshop at [Varnish Lane](https://varnishlane.com/) nail salon for their first Varnish Lane After Hours event! Join us next **[Thursday, April 5th](https://www.eventbrite.com/e/varnish-lane-after-hours-personal-finances-tickets-44203571071)**!
+
+![Screen Shot 2018-03-29 at 1.35.36 PM.png](/uploads/Screen%20Shot%202018-03-29%20at%201.35.36%20PM.png)
 
 ## **Money Tip to Take Into the Weekend**
 
