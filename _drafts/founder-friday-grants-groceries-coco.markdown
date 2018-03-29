@@ -3,6 +3,9 @@ title: Founder Friday | Grants, Groceries, Coco
 date: 2018-03-30 13:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/veggies.jpg"
+tweet: 'Happy Friday! I''m back this week with #FounderFriday, talking about how I
+  spent and earned money.'
 posts:
 - Founder Friday | Termites, Sisterhood, Gold's Gym
 - Founder Friday | Ramen, Taxes, Safe Spaces
