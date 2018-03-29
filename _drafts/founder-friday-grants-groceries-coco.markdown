@@ -1,5 +1,5 @@
 ---
-title: Founder Friday | Grants, Idealist, Coco
+title: Founder Friday | Grants, Groceries, Coco
 date: 2018-03-30 13:00:00 -04:00
 categories:
 - founder friday
@@ -32,6 +32,8 @@ You can **[vote](https://smallbusinessgrant.fedex.com/home/detail/44f45dd4-966d-
 * I spoke at the [Own It Summit](http://www.ownitsummit.com/) at Georgetown University on Sunday, which was a great experience. Because there's no easy way to get to Georgetown from my house using public transportation, and I don't yet know how to drive Dan's manual car, I had to take a Lyft to and from the campus. It was a bit much to pay for my own speaking gig, so I'll have to come up with a better solution for getting to Georgetown in the future.
 
 * Since I was in DC for [Money Circle](https://www.maggiegermano.com/moneycircle/), I stopped by Trader Joe's and stocked up on my favorite items (Dark Chocolate Covered Powerberries, Raw Milk Shredded Parmesan Cheese, Roasted and Salted Sunflower Seeds).
+
+* The payment for last Friday's [Hungry Harvest](http://hharvest.net/m5didTk) order went through.
 
 * My monthly donation to [Collective Action for Safe Spaces](http://www.collectiveactiondc.org/) went through. Are you a monthly sustaining donor yet? [Start now!](http://www.collectiveactiondc.org/get-involved/monthly-giving-society/)
 
