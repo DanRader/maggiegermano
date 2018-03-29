@@ -21,6 +21,8 @@ You can **[vote](https://smallbusinessgrant.fedex.com/home/detail/44f45dd4-966d-
 
 * Two new clients signed up for a one-time session.
 
+* [Money Circle](https://www.maggiegermano.com/moneycircle/) was on Monday 
+
 ## **How I Spent Money This Week**
 
 * I spoke at the [Own It Summit](http://www.ownitsummit.com/) at Georgetown University on Sunday, which was a great experience. Because there's no easy way to get to Georgetown from my house using public transportation, and I don't yet know how to drive Dan's manual car, I had to take a Lyft to and from the campus. It was a bit much to pay for my own speaking gig, so I'll have to come up with a better solution for getting to Georgetown in the future.
