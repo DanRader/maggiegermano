@@ -49,6 +49,8 @@ This week, for the [final post](https://www.maggiegermano.com/blog/financial-sec
 
 * I’m leading a personal finance workshop at [Varnish Lane](https://varnishlane.com/) nail salon for their first Varnish Lane After Hours event! Join us next **[Thursday, April 5th](https://www.eventbrite.com/e/varnish-lane-after-hours-personal-finances-tickets-44203571071)**!
 
+![Screen Shot 2018-03-29 at 1.35.36 PM.png](/uploads/Screen%20Shot%202018-03-29%20at%201.35.36%20PM.png)
+
 ## **Money Tip to Take Into the Weekend**
 
 * xx
