@@ -58,6 +58,6 @@ This week, for the [final post](https://www.maggiegermano.com/blog/financial-sec
 
 ## **Money Tip to Take Into the Weekend**
 
-* xx
+* When was the last time you checked your credit report? You can check it for free once a year from each of the three credit bureaus! Go to [annualcreditreport.com](http://www.annualcreditreport.com) to get your credit report, where you can see your full credit history. This is a great way to see what might be impacting your credit score, and dispute any errors that are listed. 
 
 That’s all from me for this week! Enjoy your weekend!
