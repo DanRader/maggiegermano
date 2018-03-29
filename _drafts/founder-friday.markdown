@@ -19,19 +19,27 @@ You can **[vote](https://smallbusinessgrant.fedex.com/home/detail/44f45dd4-966d-
 
 ## **How I Earned Money This Week**
 
-* Two new clients signed up for a one-time session.
+* Two new clients signed up for a one-time session this week.
 
-* [Money Circle](https://www.maggiegermano.com/moneycircle/) was on Monday 
+* One of my monthly clients' payment went through on Wednesday.
+
+* [Money Circle](https://www.maggiegermano.com/moneycircle/) was on Monday and the fees from that are coming through from Eventbrite.
+
+* We had one Airbnb guest stay in our basement for the whole week.
 
 ## **How I Spent Money This Week**
 
 * I spoke at the [Own It Summit](http://www.ownitsummit.com/) at Georgetown University on Sunday, which was a great experience. Because there's no easy way to get to Georgetown from my house using public transportation, and I don't yet know how to drive Dan's manual car, I had to take a Lyft to and from the campus. It was a bit much to pay for my own speaking gig, so I'll have to come up with a better solution for getting to Georgetown in the future.
 
-* 
+* Since I was in DC for [Money Circle](https://www.maggiegermano.com/moneycircle/), I stopped by Trader Joe's and stocked up on my favorite items (Dark Chocolate Covered Powerberries, Raw Milk Shredded Parmesan Cheese, Roasted and Salted Sunflower Seeds).
+
+* My monthly donation to [Collective Action for Safe Spaces](http://www.collectiveactiondc.org/) went through. Are you a monthly sustaining donor yet? [Start now!](http://www.collectiveactiondc.org/get-involved/monthly-giving-society/)
+
+* I ordered two books and [Coco](https://www.amazon.com/Coco-2018-Animation-Family-Adventure/dp/B079ZXN8ZS/ref=sr_1_2_sspa?ie=UTF8&qid=1522344570&sr=8-2-spons&keywords=coco\+dvd&psc=1) on DVD for my niece and nephew. If you haven't watched that movie yet, you must!
 
 ## **What I’m Writing**
 
-x
+This week, for the [final post](https://www.maggiegermano.com/blog/financial-security-is-feminist/) of Women's History Month, I wrote about how and why I feel that financial security is a feminist act.
 
 ## **What I’m Excited About**
 
