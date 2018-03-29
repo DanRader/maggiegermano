@@ -1,5 +1,5 @@
 ---
-title: Founder Friday | Grants, Idealist,
+title: Founder Friday | Grants, Idealist, Coco
 date: 2018-03-30 13:00:00 -04:00
 categories:
 - founder friday
