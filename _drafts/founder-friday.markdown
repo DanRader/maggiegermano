@@ -39,7 +39,7 @@ You can **[vote](https://smallbusinessgrant.fedex.com/home/detail/44f45dd4-966d-
 
 ## **What I’m Writing**
 
-x
+This week, for the [final post](https://www.maggiegermano.com/blog/financial-security-is-feminist/) of Women's History Month, I wrote about how and why I feel that financial security is a feminist act.
 
 ## **What I’m Excited About**
 
