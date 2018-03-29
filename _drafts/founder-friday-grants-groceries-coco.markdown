@@ -20,6 +20,8 @@ If chosen, I would use this grant to subsidize one-on-one financial coaching and
 
 You can **[vote](https://smallbusinessgrant.fedex.com/home/detail/44f45dd4-966d-4073-8051-115eab79ec3c#/gallery/detail/44f45dd4-966d-4073-8051-115eab79ec3c)** once every 24 hours until April 4th! Thank you!
 
+[![Screen Shot 2018-03-29 at 1.51.53 PM.png](/uploads/Screen%20Shot%202018-03-29%20at%201.51.53%20PM.png)](https://smallbusinessgrant.fedex.com/home/detail/44f45dd4-966d-4073-8051-115eab79ec3c#/gallery/detail/44f45dd4-966d-4073-8051-115eab79ec3c)
+
 ## **How I Earned Money This Week**
 
 * Two new clients signed up for a one-time session this week.
