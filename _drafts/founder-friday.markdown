@@ -37,6 +37,8 @@ You can **[vote](https://smallbusinessgrant.fedex.com/home/detail/44f45dd4-966d-
 
 * I ordered two books and [Coco](https://www.amazon.com/Coco-2018-Animation-Family-Adventure/dp/B079ZXN8ZS/ref=sr_1_2_sspa?ie=UTF8&qid=1522344570&sr=8-2-spons&keywords=coco\+dvd&psc=1) on DVD for my niece and nephew. If you haven't watched that movie yet, you must!
 
+![2018-03-25 17.15.13.jpg](/uploads/2018-03-25%2017.15.13.jpg)
+
 ## **What I’m Writing**
 
 This week, for the [final post](https://www.maggiegermano.com/blog/financial-security-is-feminist/) of Women's History Month, I wrote about how and why I feel that financial security is a feminist act.
