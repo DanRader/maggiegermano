@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Grants, Groceries, Coco
 date: 2018-03-30 13:00:00 -04:00
-published: false
 categories:
 - founder friday
 image: "/uploads/veggies.jpg"
