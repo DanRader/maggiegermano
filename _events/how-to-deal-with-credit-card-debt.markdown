@@ -8,7 +8,7 @@ start-time: 6:30PM
 end-time: 8:30PM
 location: Private Columbia Heights Residence
 button-text: Sign Me Up
-button-link: https://www.eventbrite.com/e/money-circle-how-to-deal-with-credit-card-debt-tickets-44656217950
+button-link: https://www.eventbrite.com/e/money-circle-how-to-deal-with-credit-card-debt-tickets-44807164435
 ticket-price: "$20"
 ---
 
