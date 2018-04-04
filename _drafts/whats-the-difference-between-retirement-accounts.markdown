@@ -6,7 +6,7 @@ categories:
 image: "/uploads/401k.jpg"
 ---
 
-xx
+Hopefully you know how important retirement savings is. Most Americans can no longer rely on pensions or Social Security when we get to retirement age. So it's up to us to save our own money. But the different types of retirement accounts can be confusing, which can hold us back from getting started. 
 
 ## 401k
 
