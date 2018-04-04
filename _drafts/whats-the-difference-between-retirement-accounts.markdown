@@ -43,4 +43,4 @@ Like I mentioned above, the annual contribution limit for a traditional IRA is $
 
 I had never heard of a SEP IRA until I quit my day job and needed to roll over my old 401k. "SEP" stands for "simplified employee pension" and it's an account set up for people like me, who are self-employed. A major benefit of this IRA versus others is that the contribution limit is higher. With a SEP IRA, you can contribute up to 25% of your annual income, regardless of how much that income is. This benefit is presumably to make up for the fact that self-employed people don't have a 401k or 403b match from their employer. 
 
-Do you have a retirement account? Which one(s)? Share in the comments!
+*Do you have a retirement account? Which one(s)? Share in the comments!*
