@@ -35,7 +35,7 @@ If you leave your organization, you have a few options for what to do with your 
 
 * Roll your money over to a traditional or SEP IRA tax-free
 
-* Roll your money over to a Roth IRA and pay taxes on it (this is called a "Roth conversion")
+* Roll your money over to a Roth IRA and pay taxes on it (this is called a ["Roth conversion"](https://investor.vanguard.com/ira/roth-conversion))
 
 ## [Roth IRA](https://www.irs.gov/retirement-plans/roth-iras)
 
@@ -43,13 +43,17 @@ If you leave your organization, you have a few options for what to do with your 
 
 The annual contribution limit for an IRA is $5,500. This total amount applies even if you have more than one IRA. You cannot contribute more than $5,500, no matter how many IRA accounts you have. This limit increases to $6,500 if you are over 50 while contributing.
 
-There are limitations to how much you can earn and still contribute to an IRA.
+There are also income limits when it comes to contributing to a Roth IRA. [Fidelity](https://www.fidelity.com/retirement-ira/faq-ira-rules) explains it well:
+
+![Screen Shot 2018-04-04 at 7.15.25 PM.png](/uploads/Screen%20Shot%202018-04-04%20at%207.15.25%20PM.png)
 
 ## Traditional IRA
 
 A traditional IRA is just like a Roth IRA but it is tax exempt when you first put money into it. Yes, you put the money into your account after taxes have already been taken out, but then you write off that contribution amount on your taxes. This keeps money in your pocket now, and you will be taxed when you access the money after retirement. This is a good option if you're fairly certain you won't be at a higher tax bracket when you retire. 
 
-Like I mentioned above, the annual contribution limit for a traditional IRA is $5,500 (and $6,500 if you're over 50 years old). The
+Like I mentioned above, the annual contribution limit for a traditional IRA is $5,500 (and $6,500 if you're over 50 years old). There is no income limit for traditional IRAs, but there is a limit to how much you can deduct from your taxes:
+
+![Screen Shot 2018-04-04 at 7.16.36 PM.png](/uploads/Screen%20Shot%202018-04-04%20at%207.16.36%20PM.png)
 
 ## [SEP IRA](https://www.irs.gov/retirement-plans/plan-sponsor/simplified-employee-pension-plan-sep)
 
@@ -59,7 +63,7 @@ I had never heard of a SEP IRA until I quit my day job and needed to roll over m
 
 "SIMPLE" stands for "Savings Incentive Match Plan for Employees". It's an IRA plan that allows both the employer and employee contribute. This kind of plan is typical for a smaller employer that might not be able to provide a 401k or 403b, but wants to help employees save for retirement. 
 
-More Resources:
+**More resources:**
 
 * https://www.nerdwallet.com/blog/investing/best-retirement-plans-for-you/
 
