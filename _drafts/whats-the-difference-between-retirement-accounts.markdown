@@ -21,7 +21,7 @@ The annual contribution limit for a 401k is $18,500. Many of us don't necessaril
 
 ## [403b](https://www.irs.gov/retirement-plans/irc-403b-tax-sheltered-annuity-plans)
 
-A 403b is a retirement plan that is set up for employees by organizations like public schools, non-profits, and religious groups. It is just like a 401k but the administrative costs are lower for these tax-exempt groups.
+A 403b is a retirement plan that is set up for employees by organizations like public schools, non-profits, and religious groups. If you have worked at a nonprofit, it's likely you have heard of 403bs. It works just like a 401k but the administrative costs are lower for the tax-exempt employer. 
 
 The annual contribution limit for a 403b is $18,500, just like for a 401k. As I mentioned above, you should max out this account before you start contributing to an IRA.
 
