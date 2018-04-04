@@ -51,7 +51,9 @@ There are also income limits when it comes to contributing to a Roth IRA. [Fidel
 
 A traditional IRA is just like a Roth IRA but it is tax exempt when you first put money into it. Yes, you put the money into your account after taxes have already been taken out, but then you write off that contribution amount on your taxes. This keeps money in your pocket now, and you will be taxed when you access the money after retirement. This is a good option if you're fairly certain you won't be at a higher tax bracket when you retire. 
 
-Like I mentioned above, the annual contribution limit for a traditional IRA is $5,500 (and $6,500 if you're over 50 years old). The
+Like I mentioned above, the annual contribution limit for a traditional IRA is $5,500 (and $6,500 if you're over 50 years old). There is no income limit for traditional IRAs, but there is a limit to how much you can deduct from your taxes:
+
+![Screen Shot 2018-04-04 at 7.16.36 PM.png](/uploads/Screen%20Shot%202018-04-04%20at%207.16.36%20PM.png)
 
 ## [SEP IRA](https://www.irs.gov/retirement-plans/plan-sponsor/simplified-employee-pension-plan-sep)
 
@@ -61,7 +63,7 @@ I had never heard of a SEP IRA until I quit my day job and needed to roll over m
 
 "SIMPLE" stands for "Savings Incentive Match Plan for Employees". It's an IRA plan that allows both the employer and employee contribute. This kind of plan is typical for a smaller employer that might not be able to provide a 401k or 403b, but wants to help employees save for retirement. 
 
-More Resources:
+**More resources:**
 
 * https://www.nerdwallet.com/blog/investing/best-retirement-plans-for-you/
 
