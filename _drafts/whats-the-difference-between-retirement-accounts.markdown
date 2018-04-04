@@ -27,7 +27,7 @@ The annual contribution limit for a 403b is $18,500, just like for a 401k. As I 
 
 ## [Roth IRA](https://www.irs.gov/retirement-plans/roth-iras)
 
-"IRA" stands for "individual retirement account". Anyone can open an IRA, whether or not they are employed.
+"IRA" stands for "individual retirement account". Anyone can open an IRA, whether or not they are employed. You will want to open an IRA if your employer doesn't provide a 401k or 403b. You can also open an IRA if you have maxed out your 401k or 403b and still have money left to invest. With a Roth IRA, you pay taxes at the time you contribute (meaning you are using post-tax funds) and you can use this money tax-free when you retire. This is a great option if you are pretty sure you'll be at a higher tax bracket when you retire than you are. You'll save money in taxes later.  
 
 The annual contribution limit for an IRA is $5,500. This total amount applies even if you have more than one IRA. You cannot contribute more than $5,500, no matter how many IRA accounts you have. This limit increases to $6,500 if you are over 50 while contributing.
 
@@ -35,7 +35,7 @@ There are limitations to how much you can earn and still contribute to an IRA.
 
 ## Traditional IRA
 
-A traditional IRA is just like a Roth IRA but it is tax exempt when you first put money into it. Yes, you put the money into your account after taxes are taken out, but then you write off that contribution amount on your taxes.
+A traditional IRA is just like a Roth IRA but it is tax exempt when you first put money into it. Yes, you put the money into your account after taxes have already been taken out, but then you write off that contribution amount on your taxes. This keeps money in your pocket now, and you will be taxed when you access the money after retirement. 
 
 Like I mentioned above, the annual contribution limit for a traditional IRA is $5,500 (and $6,500 if you're over 50 years old). The
 
