@@ -13,19 +13,19 @@ posts:
 
 Hopefully you know how important retirement savings is. Most Americans can no longer rely on pensions or Social Security when we get to retirement age. And we're typically living a lot longer than generations before us. So it's up to us to save our own money. But the different types of retirement accounts can be confusing, which can hold us back from getting started. So here are a few of the most comment retirement accounts and the differences between them. With this information, you can decide which accounts are available and/or right for you.
 
-## 401k
+## [401k](https://www.irs.gov/retirement-plans/401k-plans)
 
-A 401k is a retirement plan that is set up by an employer for individual employees. This money is taken out of an employee's paycheck before taxes, which means that the money is not taxed at that time. The money will be taxed when withdrawn during retirement.
+This type of retirement account is probably the one you hear about most. A 401k is a retirement plan that is set up by an employer for individual employees. The money is taken out of an employee's paycheck before taxes, which means that the money is not taxed at that time. The money will be taxed when withdrawn during retirement. One great benefit of this type of plan is that an employer can offer a match amount, based on what an employee is contributing on their own. 
 
 The annual contribution limit for a 401k is $18,500. Many of us don't necessarily have to worry about reaching that limit in a year, but it does help you in the long run to max it out. You shouldn't worry about opening a separate IRA until after you've started maxing out your 401k.
 
-## 403b
+## [403b](https://www.irs.gov/retirement-plans/irc-403b-tax-sheltered-annuity-plans)
 
 A 403b is a retirement plan that is set up for employees by organizations like public schools, non-profits, and religious groups. It is just like a 401k but the administrative costs are lower for these tax-exempt groups.
 
 The annual contribution limit for a 403b is $18,500, just like for a 401k. As I mentioned above, you should max out this account before you start contributing to an IRA.
 
-## Roth IRA
+## [Roth IRA](https://www.irs.gov/retirement-plans/roth-iras)
 
 "IRA" stands for "individual retirement account". Anyone can open an IRA, whether or not they are employed.
 
@@ -43,7 +43,7 @@ Like I mentioned above, the annual contribution limit for a traditional IRA is $
 
 I had never heard of a SEP IRA until I quit my day job and needed to roll over my old 401k. "SEP" stands for "simplified employee pension" and it's an account set up for people like me, who are self-employed. A major benefit of this IRA versus others is that the contribution limit is higher. With a SEP IRA, you can contribute up to 25% of your annual income, regardless of how much that income is. This benefit is presumably to make up for the fact that self-employed people don't have a 401k or 403b match from their employer.
 
-## SIMPLE IRA
+## [SIMPLE IRA](https://www.irs.gov/retirement-plans/plan-sponsor/simplified-employee-pension-plan-sep)
 
 "SIMPLE" stands for "Savings Incentive Match Plan for Employees". It's an IRA plan that allows both the employer and employee contribute. This kind of plan is typical for a smaller employer that might not be able to provide a 401k or 403b, but wants to help employees save for retirement. 
 
