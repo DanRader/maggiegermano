@@ -24,7 +24,7 @@ The annual contribution limit for a 403b is $18,500, just like for a 401k. As I 
 
 "IRA" stands for "individual retirement account". Anyone can open an IRA, whether or not they are employed. 
 
-The annual contribution limit for an IRA is $5,500. This total amount applies even if you have more than one IRA. You cannot contribute more than $5,500, no matter how many IRA accounts you have.
+The annual contribution limit for an IRA is $5,500. This total amount applies even if you have more than one IRA. You cannot contribute more than $5,500, no matter how many IRA accounts you have. This limit increases to $6,500 if you are over 50 while contributing.
 
 There are limitations to how much you can earn and still contribute to an IRA. 
 
@@ -32,7 +32,7 @@ There are limitations to how much you can earn and still contribute to an IRA.
 
 A traditional IRA is just like a Roth IRA but it is tax exempt when you first put money into it. Yes, you put the money into your account after taxes are taken out, but then you write off that contribution amount on your taxes. 
 
-Like I mentioned above, the annual contribution limit for a traditional IRA is $5,500. 
+Like I mentioned above, the annual contribution limit for a traditional IRA is $5,500 (and $6,500 if you're over 50 years old). The 
 
 ## SEP IRA
 
