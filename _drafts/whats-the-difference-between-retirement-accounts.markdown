@@ -35,7 +35,7 @@ If you leave your organization, you have a few options for what to do with your 
 
 * Roll your money over to a traditional or SEP IRA tax-free
 
-* Roll your money over to a Roth IRA and pay taxes on it (this is called a "Roth conversion")
+* Roll your money over to a Roth IRA and pay taxes on it (this is called a ["Roth conversion"](https://investor.vanguard.com/ira/roth-conversion))
 
 ## [Roth IRA](https://www.irs.gov/retirement-plans/roth-iras)
 
