@@ -43,7 +43,7 @@ Like I mentioned above, the annual contribution limit for a traditional IRA is $
 
 I had never heard of a SEP IRA until I quit my day job and needed to roll over my old 401k. "SEP" stands for "simplified employee pension" and it's an account set up for people like me, who are self-employed. A major benefit of this IRA versus others is that the contribution limit is higher. With a SEP IRA, you can contribute up to 25% of your annual income, regardless of how much that income is. This benefit is presumably to make up for the fact that self-employed people don't have a 401k or 403b match from their employer.
 
-## SIMPLE IRA
+## [SIMPLE IRA](https://www.irs.gov/retirement-plans/plan-sponsor/simplified-employee-pension-plan-sep)
 
 "SIMPLE" stands for "Savings Incentive Match Plan for Employees". It's an IRA plan that allows both the employer and employee contribute. This kind of plan is typical for a smaller employer that might not be able to provide a 401k or 403b, but wants to help employees save for retirement. 
 
