@@ -43,7 +43,9 @@ If you leave your organization, you have a few options for what to do with your 
 
 The annual contribution limit for an IRA is $5,500. This total amount applies even if you have more than one IRA. You cannot contribute more than $5,500, no matter how many IRA accounts you have. This limit increases to $6,500 if you are over 50 while contributing.
 
-There are limitations to how much you can earn and still contribute to an IRA.
+There are also income limits when it comes to contributing to a Roth IRA. [Fidelity](https://www.fidelity.com/retirement-ira/faq-ira-rules) explains it well:
+
+![Screen Shot 2018-04-04 at 7.15.25 PM.png](/uploads/Screen%20Shot%202018-04-04%20at%207.15.25%20PM.png)
 
 ## Traditional IRA
 
