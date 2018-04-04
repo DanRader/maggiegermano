@@ -10,13 +10,13 @@ Hopefully you know how important retirement savings is. Most Americans can no lo
 
 ## 401k
 
-A 401k is a retirement plan that is set up by an employer for individual employees.
+A 401k is a retirement plan that is set up by an employer for individual employees. This money is taken out of an employee's paycheck before taxes, which means that the money is not taxed at that time. The money will be taxed when withdrawn during retirement. 
 
 The annual contribution limit for a 401k is $18,500. Many of us don't necessarily have to worry about reaching that limit in a year, but it does help you in the long run to max it out. You shouldn't worry about opening a separate IRA until after you've started maxing out your 401k.
 
 ## 403b
 
-A 403b is a retirement plan that is set up for employees by organizations like public schools, non-profits, and religious groups.
+A 403b is a retirement plan that is set up for employees by organizations like public schools, non-profits, and religious groups. It is just like a 401k but the administrative costs are lower for these tax-exempt groups. 
 
 The annual contribution limit for a 403b is $18,500, just like for a 401k. As I mentioned above, you should max out this account before you start contributing to an IRA. 
 
@@ -29,6 +29,8 @@ The annual contribution limit for an IRA is $5,500. This total amount applies ev
 There are limitations to how much you can earn and still contribute to an IRA. 
 
 ## Traditional IRA
+
+A traditional IRA is just like a Roth IRA but it is tax exempt when you first put money into it. Yes, you put the money into your account after taxes are taken out, but then you write off that contribution amount on your taxes. 
 
 Like I mentioned above, the annual contribution limit for a traditional IRA is $5,500. 
 
