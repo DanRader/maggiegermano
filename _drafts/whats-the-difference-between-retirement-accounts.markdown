@@ -15,7 +15,7 @@ Hopefully you know how important retirement savings is. Most Americans can no lo
 
 ## [401k](https://www.irs.gov/retirement-plans/401k-plans)
 
-This type of retirement account is probably the one you hear about most. A 401k is a retirement plan that is set up by an employer for individual employees. The money is taken out of an employee's paycheck before taxes, which means that the money is not taxed at that time. The money will be taxed when withdrawn during retirement. One great benefit of this type of plan is that an employer can offer a match amount, based on what an employee is contributing on their own. 
+This type of retirement account is probably the one you hear about most. A 401k is a retirement plan that is set up by an employer for individual employees. The money is taken out of an employee's paycheck before taxes, which means that the money is not taxed at that time. The money will be taxed when withdrawn during retirement. One great benefit of this type of plan is that an employer can offer a match amount, based on what an employee is contributing on their own. One downside of that employer match is that you don't necessarily [vest](http://money.cnn.com/retirement/guide/401k_basics.moneymag/index10.htm) in it right away, and if you leave the company before you're fully vested, you have to leave the match amount behind.
 
 The annual contribution limit for a 401k is $18,500. Many of us don't necessarily have to worry about reaching that limit in a year, but it does help you in the long run to max it out. You shouldn't worry about opening a separate IRA until after you've started maxing out your 401k.
 
