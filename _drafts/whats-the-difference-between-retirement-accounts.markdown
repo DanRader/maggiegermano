@@ -4,6 +4,11 @@ date: 2018-04-09 11:00:00 -04:00
 categories:
 - lifestyle
 image: "/uploads/401k.jpg"
+tweet: No idea what all the different retirement accounts even mean? Read more here.
+posts:
+- How To Do Your Taxes
+- The Personal Finance Checklist To Make Sure You’re Financially Healthy
+- Non-salary Perks You Should Ask For
 ---
 
 Hopefully you know how important retirement savings is. Most Americans can no longer rely on pensions or Social Security when we get to retirement age. And we're typically living a lot longer than generations before us. So it's up to us to save our own money. But the different types of retirement accounts can be confusing, which can hold us back from getting started. So here are a few of the most comment retirement accounts and the differences between them. With this information, you can decide which accounts are available and/or right for you.
