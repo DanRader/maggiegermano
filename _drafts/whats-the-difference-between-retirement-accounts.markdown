@@ -35,11 +35,11 @@ There are limitations to how much you can earn and still contribute to an IRA.
 
 ## Traditional IRA
 
-A traditional IRA is just like a Roth IRA but it is tax exempt when you first put money into it. Yes, you put the money into your account after taxes have already been taken out, but then you write off that contribution amount on your taxes. This keeps money in your pocket now, and you will be taxed when you access the money after retirement. 
+A traditional IRA is just like a Roth IRA but it is tax exempt when you first put money into it. Yes, you put the money into your account after taxes have already been taken out, but then you write off that contribution amount on your taxes. This keeps money in your pocket now, and you will be taxed when you access the money after retirement. This is a good option if you're fairly certain you won't be at a higher tax bracket when you retire. 
 
 Like I mentioned above, the annual contribution limit for a traditional IRA is $5,500 (and $6,500 if you're over 50 years old). The
 
-## SEP IRA
+## [SEP IRA](https://www.irs.gov/retirement-plans/plan-sponsor/simplified-employee-pension-plan-sep)
 
 I had never heard of a SEP IRA until I quit my day job and needed to roll over my old 401k. "SEP" stands for "simplified employee pension" and it's an account set up for people like me, who are self-employed. A major benefit of this IRA versus others is that the contribution limit is higher. With a SEP IRA, you can contribute up to 25% of your annual income, regardless of how much that income is. This benefit is presumably to make up for the fact that self-employed people don't have a 401k or 403b match from their employer.
 
