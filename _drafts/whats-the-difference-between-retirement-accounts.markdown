@@ -13,6 +13,8 @@ posts:
 
 Hopefully you know how important retirement savings is. Most Americans can no longer rely on pensions or Social Security when we get to retirement age. And we're typically living a lot longer than generations before us. So it's up to us to save our own money. But the different types of retirement accounts can be confusing, which can hold us back from getting started. So here are a few of the most comment retirement accounts and the differences between them. With this information, you can decide which accounts are available and/or right for you.
 
+If you end up going with a 401k or 403b, your employer will chose the brokerage company where your money will stay. If you decide to open an IRA of any kind, there are many businesses that you can choose from. 
+
 ## [401k](https://www.irs.gov/retirement-plans/401k-plans)
 
 This type of retirement account is probably the one you hear about most. A 401k is a retirement plan that is set up by an employer for individual employees. The money is taken out of an employee's paycheck before taxes, which means that the money is not taxed at that time. The money will be taxed when withdrawn during retirement. One great benefit of this type of plan is that an employer can offer a match amount, based on what an employee is contributing on their own. One downside of that employer match is that you don't necessarily [vest](http://money.cnn.com/retirement/guide/401k_basics.moneymag/index10.htm) in it right away, and if you leave the company before you're fully vested, you have to leave the match amount behind.
@@ -24,6 +26,16 @@ The annual contribution limit for a 401k is $18,500. Many of us don't necessaril
 A 403b is a retirement plan that is set up for employees by organizations like public schools, non-profits, and religious groups. If you have worked at a nonprofit, it's likely you have heard of 403bs. It works just like a 401k but the administrative costs are lower for the tax-exempt employer. 
 
 The annual contribution limit for a 403b is $18,500, just like for a 401k. As I mentioned above, you should max out this account before you start contributing to an IRA.
+
+If you leave your organization, you have a few options for what to do with your 401k or 403b:
+
+* Leave the money where it is (just make sure it's not being eaten away by fees, and don't forget about it!)
+
+* Roll your money over to the retirement account at your new company
+
+* Roll your money over to a traditional or SEP IRA tax-free
+
+* Roll your money over to a Roth IRA and pay taxes on it (this is called a "Roth conversion")
 
 ## [Roth IRA](https://www.irs.gov/retirement-plans/roth-iras)
 
@@ -46,5 +58,15 @@ I had never heard of a SEP IRA until I quit my day job and needed to roll over m
 ## [SIMPLE IRA](https://www.irs.gov/retirement-plans/plan-sponsor/simplified-employee-pension-plan-sep)
 
 "SIMPLE" stands for "Savings Incentive Match Plan for Employees". It's an IRA plan that allows both the employer and employee contribute. This kind of plan is typical for a smaller employer that might not be able to provide a 401k or 403b, but wants to help employees save for retirement. 
+
+More Resources:
+
+* https://www.nerdwallet.com/blog/investing/best-retirement-plans-for-you/
+
+* https://www.irs.gov/retirement-plans/plan-sponsor/types-of-retirement-plans
+
+* https://www.fidelity.com/retirement-ira/small-business/compare-plans
+
+* https://www.fidelity.com/retirement-ira/overview
 
 *Do you have a retirement account? Which one(s)? Share in the comments!*
