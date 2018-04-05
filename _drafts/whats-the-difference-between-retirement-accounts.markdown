@@ -47,7 +47,7 @@ There are also income limits when it comes to contributing to a Roth IRA. [Fidel
 
 ![Screen Shot 2018-04-04 at 7.15.25 PM.png](/uploads/Screen%20Shot%202018-04-04%20at%207.15.25%20PM.png)
 
-## Traditional IRA
+## [Traditional IRA](https://www.irs.gov/retirement-plans/traditional-iras)
 
 A traditional IRA is just like a Roth IRA but it is tax exempt when you first put money into it. Yes, you put the money into your account after taxes have already been taken out, but then you write off that contribution amount on your taxes. This keeps money in your pocket now, and you will be taxed when you access the money after retirement. This is a good option if you're fairly certain you won't be at a higher tax bracket when you retire. 
 
