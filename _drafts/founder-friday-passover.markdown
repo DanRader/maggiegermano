@@ -43,6 +43,6 @@ This week, I wrote about a topic that comes up a lot with my coaching clients: [
 
 ## **Money Tip to Take Into the Weekend**
 
-* Now that spring is (supposedly) coming, find some go-to activities that don't cost a lot of money. Is it hiking? Is it picnicking at your local park? It doesn't always have to be brunch and/or drinks this spring. 
+* Now that spring is (supposedly) coming, find some go-to activities that don't cost a lot of money. Is it hiking? Is it picnicking at your local park? Just going for a walk after dinner? Fun doesn't always have to look like (and cost as much as) brunch and/or drinks this spring. 
 
 That’s all from me for this week! Enjoy your weekend!
