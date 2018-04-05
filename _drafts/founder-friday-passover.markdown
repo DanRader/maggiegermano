@@ -29,7 +29,7 @@ xx
 
 * Dan's family is coming to town today to celebrate Passover with us and see our new house. We were in Syracuse last weekend with my family for Easter, so it's nice to host Passover, even if we're a bit late.
 
-* I was on the Aligned and Alive podcast this week with Alli Owen! We talked about all things money and women and it turned out really well!
+* I was on the [Aligned and Alive](http://alliowen.com/maggie/) podcast this week with Alli Owen! We talked about all things money and women and it turned out really well!
 
 * 
 
