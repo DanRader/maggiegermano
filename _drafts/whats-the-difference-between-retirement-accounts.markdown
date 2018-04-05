@@ -73,6 +73,8 @@ I had never heard of a SEP IRA until I quit my day job and needed to roll over m
 
 "SIMPLE" stands for "Savings Incentive Match Plan for Employees". It's an IRA plan that allows both the employer and employee contribute. This kind of plan is typical for a smaller employer that might not be able to provide a 401k or 403b, but wants to help employees save for retirement.
 
+**This is right for you if:** You're employed and your employer only offers this type of retirement account.
+
 **More resources:**
 
 * https://www.nerdwallet.com/blog/investing/best-retirement-plans-for-you/
@@ -82,5 +84,11 @@ I had never heard of a SEP IRA until I quit my day job and needed to roll over m
 * https://www.fidelity.com/retirement-ira/small-business/compare-plans
 
 * https://www.fidelity.com/retirement-ira/overview
+
+* https://www.nerdwallet.com/blog/investing/401k-rollover-ira-guide/
+
+* https://www.schwab.com/public/schwab/investing/retirement_and_planning/understanding_iras/rollover_ira/how_to_rollover_a_401k
+
+* https://money.usnews.com/money/personal-finance/mutual-funds/articles/2014/11/20/how-to-roll-over-a-401-k-in-4-easy-steps
 
 *Do you have a retirement account? Which one(s)? Share in the comments!*
