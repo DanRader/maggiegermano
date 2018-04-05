@@ -1,17 +1,19 @@
 ---
-title: Founder Friday | Passover,
+title: Founder Friday | Passover, Self Care,
 date: 2018-04-06 13:00:00 -04:00
 categories:
 - founder friday
 ---
 
-Happy Friday! 
+Happy Friday!
 
 xx
 
 ## **How I Earned Money This Week**
 
-* xx
+* We had one Airbnb guest this week
+
+* 
 
 ## **How I Spent Money This Week**
 
