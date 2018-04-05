@@ -29,7 +29,7 @@ xx
 
 ## **What I’m Writing**
 
-xx
+This week, I wrote about a topic that comes up a lot with my coaching clients: [credit card interest](https://www.maggiegermano.com/blog/how-does-credit-card-interest-work/)! Find out what it means, how it works, and why it matters.
 
 ## **What I’m Excited About**
 
