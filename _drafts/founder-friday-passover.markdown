@@ -17,6 +17,8 @@ xx
 
 * I had two couples sign up for one-time coaching sessions. 
 
+* I spoke at Varnish Lane nail salon last night for the first in their Varnish Lane After Hours series. It was a great event, and it was paid!
+
 ## **How I Spent Money This Week**
 
 * Our annual Amazon Prime membership fee went through on Monday. Hate getting surprised by bills like these? Set up an account for [non-monthly expenses](https://www.maggiegermano.com/blog/prepare-for-non-monthly-expenses) and save throughout the year!
