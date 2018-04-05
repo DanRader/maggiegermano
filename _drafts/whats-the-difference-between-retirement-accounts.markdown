@@ -73,6 +73,8 @@ I had never heard of a SEP IRA until I quit my day job and needed to roll over m
 
 "SIMPLE" stands for "Savings Incentive Match Plan for Employees". It's an IRA plan that allows both the employer and employee contribute. This kind of plan is typical for a smaller employer that might not be able to provide a 401k or 403b, but wants to help employees save for retirement.
 
+The annual contribution limits for this type of IRA differ from others. The maximum contribution is $12,500, which includes both the employer and employee contribution. If you're over 50, the contribution limit is $15,500.
+
 **This is right for you if:** You're employed and your employer only offers this type of retirement account.
 
 **More resources:**
