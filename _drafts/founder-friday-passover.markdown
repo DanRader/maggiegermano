@@ -17,6 +17,8 @@ xx
 
 * I had two couples sign up for one-time coaching sessions. 
 
+* I spoke at Varnish Lane nail salon last night for the first in their Varnish Lane After Hours series. It was a great event, and it was paid!
+
 ## **How I Spent Money This Week**
 
 * Our annual Amazon Prime membership fee went through on Monday. Hate getting surprised by bills like these? Set up an account for [non-monthly expenses](https://www.maggiegermano.com/blog/prepare-for-non-monthly-expenses) and save throughout the year!
@@ -41,6 +43,6 @@ This week, I wrote about a topic that comes up a lot with my coaching clients: [
 
 ## **Money Tip to Take Into the Weekend**
 
-* xx
+* Now that spring is (supposedly) coming, find some go-to activities that don't cost a lot of money. Is it hiking? Is it picnicking at your local park? It doesn't always have to be brunch and/or drinks this spring. 
 
 That’s all from me for this week! Enjoy your weekend!
