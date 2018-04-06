@@ -7,8 +7,6 @@ categories:
 
 Happy Friday!
 
-xx
-
 ## **How I Earned Money This Week**
 
 * We had one Airbnb guest this week.
