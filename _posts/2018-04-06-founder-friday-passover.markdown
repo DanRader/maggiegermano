@@ -17,6 +17,8 @@ Happy Friday! If the buds on the trees are any indication, it seems like spring 
 
 * I spoke at [Varnish Lane](https://varnishlane.com/) nail salon last night for the first in their Varnish Lane After Hours series. It was a great event, and it was paid!
 
+![IMG_5739.jpg](/uploads/IMG_5739.jpg)
+
 ## **How I Spent Money This Week**
 
 * Our annual Amazon Prime membership fee went through on Monday. Hate getting surprised by bills like these? Set up an account for [non-monthly expenses](https://www.maggiegermano.com/blog/prepare-for-non-monthly-expenses) and save throughout the year!
@@ -38,6 +40,8 @@ This week, I wrote about a topic that comes up a lot with my coaching clients: [
 * Dan's family is coming to town today to celebrate Passover with us and see our new house. We were in Syracuse last weekend with my family for Easter, so it's nice to host Passover, even if we're a bit late.
 
 * I was on the [Aligned and Alive](http://alliowen.com/maggie/) podcast this week with Alli Owen! We talked about all things money and women and it turned out really well!
+
+![Copy-of-010-Goals-with-Brittany.png](/uploads/Copy-of-010-Goals-with-Brittany.png)
 
 ## **Money Tip to Take Into the Weekend**
 
