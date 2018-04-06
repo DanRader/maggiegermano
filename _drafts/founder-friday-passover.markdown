@@ -27,6 +27,8 @@ Happy Friday! If the buds on the trees are any indication, it seems like spring 
 
 * I got a massage yesterday. It was way overdue and definitely needed. It's hard to validate spending money on something like this, especially since my income is currently a lot lower than it used to be. However, I built up a nice fun fund last year and this is the exact type of expense it's for. So I pulled that money from my savings and got an amazing massage from [Layne Curry](http://vidafitness.com/featured-instructor-layne-curry/) at [Aura Spa](http://auraspa.net/) on U Street.
 
+* We haven't made the purchase just yet, but later today, Dan and I will be taking a big grocery trip to get all the food needed for our Passover celebration this weekend.
+
 ## **What I’m Writing**
 
 This week, I wrote about a topic that comes up a lot with my coaching clients: [credit card interest](https://www.maggiegermano.com/blog/how-does-credit-card-interest-work/)! Find out what it means, how it works, and why it matters.
@@ -36,8 +38,6 @@ This week, I wrote about a topic that comes up a lot with my coaching clients: [
 * Dan's family is coming to town today to celebrate Passover with us and see our new house. We were in Syracuse last weekend with my family for Easter, so it's nice to host Passover, even if we're a bit late.
 
 * I was on the [Aligned and Alive](http://alliowen.com/maggie/) podcast this week with Alli Owen! We talked about all things money and women and it turned out really well!
-
-* 
 
 ## **Money Tip to Take Into the Weekend**
 
