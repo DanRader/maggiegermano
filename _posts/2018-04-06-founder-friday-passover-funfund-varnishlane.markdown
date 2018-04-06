@@ -1,10 +1,13 @@
 ---
-title: Founder Friday | Passover, Fun Fund,
+title: Founder Friday | Passover, Fun Fund, Varnish Lane
 date: 2018-04-06 13:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/flowers.jpg"
 posts:
 - Founder Friday | Grants, Groceries, Coco
+- Founder Friday | Termites, Sisterhood, Gold's Gym
+- Founder Friday | Ramen, Taxes, Safe Spaces
 ---
 
 Happy Friday! If the buds on the trees are any indication, it seems like spring is coming. However, it looks like snow is in the forecast this weekend, so we'll see. Here's what I was up to this week!
