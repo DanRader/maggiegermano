@@ -5,7 +5,7 @@ categories:
 - founder friday
 ---
 
-Happy Friday!
+Happy Friday! If the buds on the trees are any indication, it seems like spring is coming. However, it looks like snow is in the forecast this weekend, so we'll see. Here's what I was up to this week!
 
 ## **How I Earned Money This Week**
 
