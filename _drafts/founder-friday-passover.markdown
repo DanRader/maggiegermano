@@ -1,5 +1,5 @@
 ---
-title: Founder Friday | Passover, Self Care,
+title: Founder Friday | Passover, Fun Fund,
 date: 2018-04-06 13:00:00 -04:00
 categories:
 - founder friday
@@ -17,7 +17,7 @@ xx
 
 * I had two couples sign up for one-time coaching sessions. 
 
-* I spoke at Varnish Lane nail salon last night for the first in their Varnish Lane After Hours series. It was a great event, and it was paid!
+* I spoke at [Varnish Lane](https://varnishlane.com/) nail salon last night for the first in their Varnish Lane After Hours series. It was a great event, and it was paid!
 
 ## **How I Spent Money This Week**
 
@@ -25,9 +25,9 @@ xx
 
 * We were too tired to get groceries earlier this week so we got dinner at Whole Foods' hot bar. Vegan General Tso's FTW.
 
-* Dan put up our beautiful [new light fixture](https://www.wayfair.com/lighting/pdp/trent-austin-design-3-light-kitchen-island-pendant-tadn1746.html) in our kitchen! So we ordered some [fake Edison bulbs](https://smile.amazon.com/gp/product/B06XTG6LTZ/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1) (they're LED) to put in it. We also order some ant poison for our basement (yay, spring) and a few other items for the house.
+* Dan put up our beautiful [new light fixture](https://www.wayfair.com/lighting/pdp/trent-austin-design-3-light-kitchen-island-pendant-tadn1746.html) in our kitchen! So we ordered some [fake Edison bulbs](https://smile.amazon.com/gp/product/B06XTG6LTZ/ref=oh_aui_detailpage_o04_s00?ie=UTF8&psc=1) (they're LED) to put in it. We also ordered some ant poison for our basement (yay, spring) and a few other small items for the house.
 
-* I got a massage yesterday. It was way overdue and definitely needed. It's hard to validate spending money on something like this, especially since my income is currently a lot lower than it used to be. However, I built up a nice fun fund last year and this is the exact type of expense it's for. So I pulled that money from my savings and got an amazing massage from Layne at Aura Spa on U Street.
+* I got a massage yesterday. It was way overdue and definitely needed. It's hard to validate spending money on something like this, especially since my income is currently a lot lower than it used to be. However, I built up a nice fun fund last year and this is the exact type of expense it's for. So I pulled that money from my savings and got an amazing massage from [Layne Curry](http://vidafitness.com/featured-instructor-layne-curry/) at [Aura Spa](http://auraspa.net/) on U Street.
 
 ## **What I’m Writing**
 
