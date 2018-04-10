@@ -21,7 +21,7 @@ This week, I wrote about [retirement accounts](https://www.maggiegermano.com/blo
 
 ## What I’m Excited About
 
-* Tonight is the Being Boss book launch party in DC! I'm sponsoring the event, along with a bunch of other fantastic businesses and individuals. I've been listening to the Being Boss podcast
+* Tonight is the Being Boss book launch party in DC! I'm sponsoring the event, along with a bunch of other fantastic businesses and individuals. I've been listening to the Being Boss podcast since I first started my business 2 years ago, and I can't wait to dig into the book. 
 
 ## Money Tip to Take Into the Weekend
 
