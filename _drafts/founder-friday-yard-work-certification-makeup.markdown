@@ -3,6 +3,11 @@ title: Founder Friday | Yard Work, Certification, Makeup
 date: 2018-04-13 13:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/makeup.jpg"
+posts:
+- Founder Friday | Passover, Fun Fund, Varnish Lane
+- Founder Friday | Grants, Groceries, Coco
+- Founder Friday | Termites, Sisterhood, Gold's Gym
 ---
 
 Happy Friday! x
