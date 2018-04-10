@@ -3,6 +3,11 @@ title: Founder Friday | Yard Work, Certification, Makeup
 date: 2018-04-13 13:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/makeup.jpg"
+posts:
+- Founder Friday | Passover, Fun Fund, Varnish Lane
+- Founder Friday | Grants, Groceries, Coco
+- Founder Friday | Termites, Sisterhood, Gold's Gym
 ---
 
 Happy Friday! x
@@ -28,6 +33,8 @@ This week, I wrote about [retirement accounts](https://www.maggiegermano.com/blo
 ## What I’m Excited About
 
 * Tonight is the [Being Boss book launch party](https://www.eventbrite.com/e/being-boss-dc-book-launch-party-tickets-43800308903) in DC! I'm sponsoring the event, along with a bunch of other fantastic businesses and individuals. I've been listening to the Being Boss podcast since I first started my business 2 years ago, and I can't wait to dig into the book. 
+
+* I tried Zumba for the first time this week. 
 
 ![2018-04-10 09.02.18.jpg](/uploads/2018-04-10%2009.02.18.jpg)
 
