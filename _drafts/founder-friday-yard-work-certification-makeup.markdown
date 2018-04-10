@@ -19,6 +19,8 @@ Happy Friday! x
 
 * On Tuesday, I applied to become certified by the [International Coach Federation](https://coachfederation.org/) (ICF). I'm already a Certified Professional Diversity Coach with [CoachDiversity Institute](http://coachdiversity.com/), but ICF is internationally recognized as the organization that officially certifies coaches. It's an expensive fee to apply for certification, but I have all the qualifications, and I'm hoping this puts me ahead of the curve when it comes to the coaching industry and the regulations that are sure to come eventually. 
 
+![2018-04-09 16.07.43-1.jpg](/uploads/2018-04-09%2016.07.43-1.jpg)
+
 ## What I’m Writing
 
 This week, I wrote about [retirement accounts](https://www.maggiegermano.com/blog/whats-the-difference-between-retirement-accounts/) and the differences between many of the options out there. If you're confused about retirement savings, check it out!
