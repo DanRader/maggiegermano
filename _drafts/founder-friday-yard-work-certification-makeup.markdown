@@ -17,6 +17,8 @@ Happy Friday! x
 
 * In addition to that, we had pre-emptive termite treatment done around the perimeter of our house. To prepare, we had to hire a junk hauling company to come and remove all of the construction materials the former owners left stored under our front porch. Since we already had the guys coming over, we had them take a massive pile of yard waste we'd collected after doing quite a bit of work cleaning things up in our back yard.
 
+* On Tuesday, I applied to become certified by the [International Coach Federation](https://coachfederation.org/) (ICF). I'm already a Certified Professional Diversity Coach with [CoachDiversity Institute](http://coachdiversity.com/), but ICF is internationally recognized as the organization that officially certifies coaches. It's an expensive fee to apply for certification, but I have all the qualifications, and I'm hoping this puts me ahead of the curve when it comes to the coaching industry and the regulations that are sure to come eventually. 
+
 ## What I’m Writing
 
 This week, I wrote about [retirement accounts](https://www.maggiegermano.com/blog/whats-the-difference-between-retirement-accounts/) and the differences between many of the options out there. If you're confused about retirement savings, check it out!
