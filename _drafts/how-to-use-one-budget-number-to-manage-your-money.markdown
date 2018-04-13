@@ -18,7 +18,7 @@ Throughout this article, I will use screenshots of my own personal budget spread
 
 ## Add Up Your Monthly Income
 
-It's important to have a solid understanding of how much you're bringing in every month. 
+It's important to have a solid understanding of how much you're bringing in every month. Add up your paychecks to get this amount. This is the amount that comes in after taxes and after any other pre-tax deductions, like health insurance or your 401k contributions. 
 
 If your income is not consistent, perhaps if you're self-employed or you work for tips, this exercise can be more difficult. My advice is to lean on the amount that you absolutely know will come in every month. Either that, or the amount you must earn in order to pay your bills. 
 
