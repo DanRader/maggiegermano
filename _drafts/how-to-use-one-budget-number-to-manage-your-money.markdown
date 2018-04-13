@@ -49,3 +49,5 @@ Dan and I currently have enough saved to cover our major expenses for nearly two
 ## Spend What's Left
 
 The amount of money that is left is the amount that you have available to spend on whatever you want each month.
+
+![Screen Shot 2018-04-13 at 2.03.02 PM.png](/uploads/Screen%20Shot%202018-04-13%20at%202.03.02%20PM.png)
