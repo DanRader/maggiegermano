@@ -11,7 +11,11 @@ posts:
 - Founder Friday | Termites, Sisterhood, Gold's Gym
 ---
 
-Happy Friday! x
+Happy Friday! It looks like spring is finally here! I just hope it sticks around for a while before summer shows up. 
+
+Before I get started, I wanted to thank you if you voted for my business in the [Fedex Small Business Grant Contest](https://smallbusinessgrant.fedex.com/#/) last week. I found out this week that I am not a finalist, but I'm still happy that I applied. You win some, you lose some. I plan to try again next year. Check out the [top 100 finalists]( https://smallbusinessgrant.fedex.com/#/gallery/finalists)!
+
+Now here's what I was up to this week. 
 
 ## How I Earned Money This Week
 
