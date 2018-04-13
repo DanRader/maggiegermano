@@ -16,7 +16,7 @@ I switched to one budget number a few years ago when I realized it was getting r
 
 ## Add Up Your Monthly Income
 
-x
+If your income is not consistent, perhaps if you're self-employed or you work for tips, this exercise can be more difficult. My advice is to lean on the amount 
 
 ![Screen Shot 2018-04-13 at 1.13.46 PM.png](/uploads/Screen%20Shot%202018-04-13%20at%201.13.46%20PM.png)
 
@@ -36,7 +36,7 @@ This should include any debts that you are working to pay down. Some examples ar
 
 If you have enough money to both pay down debt and save at the same time,
 
-![Screen Shot 2018-04-13 at 1.18.40 PM-31217b.png](/uploads/Screen%20Shot%202018-04-13%20at%201.18.40%20PM-31217b.png)
+![Screen Shot 2018-04-13 at 1.31.12 PM.png](/uploads/Screen%20Shot%202018-04-13%20at%201.31.12%20PM.png)
 
 ## Spend What's Left
 
