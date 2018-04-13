@@ -23,3 +23,5 @@ Fixed expenses are any costs that usually stay the same each month. This can be 
 ## Identify Your Savings Goals
 
 ## Spend What's Left
+
+The amount of money that is left is the amount that you have available to spend on whatever you want each month. 
