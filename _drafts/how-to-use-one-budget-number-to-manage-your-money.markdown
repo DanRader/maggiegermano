@@ -18,7 +18,7 @@ Throughout this article, I will use screenshots of my own personal budget spread
 
 ## Add Up Your Monthly Income
 
-It's important to have a solid understanding of how 
+It's important to have a solid understanding of how much you're bringing in every month. 
 
 If your income is not consistent, perhaps if you're self-employed or you work for tips, this exercise can be more difficult. My advice is to lean on the amount that you absolutely know will come in every month. Either that, or the amount you must earn in order to pay your bills. 
 
