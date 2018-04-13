@@ -16,6 +16,8 @@ I switched to one budget number a few years ago when I realized it was getting r
 
 ## Calculate Your Fixed Expenses
 
+Fixed expenses are any costs that usually stay the same each month. This can be rent, insurance, utilities, or subscriptions. These are the types of expenses that you usually cannot change (even if you want to). So get clear on how much absolutely has to go out every month.
+
 ## Get Clear On Debt Payments
 
 ## Identify Your Savings Goals
