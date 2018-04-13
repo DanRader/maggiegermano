@@ -55,6 +55,6 @@ This week, I wrote about [retirement accounts](https://www.maggiegermano.com/blo
 
 ## Money Tip to Take Into the Weekend
 
-Get outside and enjoy the weather for free! If you're in 
+Get outside and enjoy the weather for free! If you're in the DC area, check out the [National Arboretum.](https://www.usna.usda.gov/)
 
 That's all from me this week. Have a wonderful weekend and enjoy the warm weather!
