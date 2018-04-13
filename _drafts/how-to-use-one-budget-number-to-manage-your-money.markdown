@@ -40,7 +40,9 @@ This should include any debts that you are working to pay down. Some examples ar
 
 ## Identify Your Savings Goals
 
-If you have enough money to both pay down debt and save at the same time,
+If you have enough money to both pay down debt and save at the same time, get clear on how much you want to save each month. 
+
+Dan and I currently have enough saved to cover our major expenses for nearly two years. That means we don't have to worry about contributing to our emergency savings. We've also already met our savings goal to pay for our wedding (yay!). So now, our savings priority is focused on the improvements we want to make on our house. We want to have a new fence installed in the backyard, renovate the front porch so that it's more aligned with the bungalow style, renovate our master bathroom so it's what we want, and re-paint the exterior of the house. There are several other things we'd like to do but those are the major pieces right now. 
 
 ![Screen Shot 2018-04-13 at 1.31.12 PM.png](/uploads/Screen%20Shot%202018-04-13%20at%201.31.12%20PM.png)
 
