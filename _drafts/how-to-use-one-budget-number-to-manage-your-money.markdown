@@ -14,6 +14,12 @@ I think the number one issue I hear about from clients and readers is not knowin
 
 I switched to one budget number a few years ago when I realized it was getting really onerous to track my spending in the different categories. If I wasn't spending more than was available to me, why did it matter where it was going? Of course, if you feel like you're spending money without having an idea of where it's actually going, it can be helpful to categorize it so that you can be more mindful about your spending.
 
+## Add Up Your Monthly Income
+
+If your income is not consistent, perhaps if you're self-employed or you work for tips, this exercise can be more difficult. My advice is to lean on the amount 
+
+![Screen Shot 2018-04-13 at 1.13.46 PM.png](/uploads/Screen%20Shot%202018-04-13%20at%201.13.46%20PM.png)
+
 ## Calculate Your Fixed Expenses
 
 Fixed expenses are any costs that usually stay the same each month. This can be rent, insurance, utilities, or subscriptions. These are the types of expenses that you usually cannot change (even if you want to). So get clear on how much absolutely has to go out every month.
@@ -22,10 +28,16 @@ Fixed expenses are any costs that usually stay the same each month. This can be 
 
 ## Get Clear On Debt Payments
 
+This should include any debts that you are working to pay down. Some examples are: credit cards, student loans, car payments, home equity loans, medical bills, etc. 
+
+![Screen Shot 2018-04-13 at 1.16.32 PM.png](/uploads/Screen%20Shot%202018-04-13%20at%201.16.32%20PM.png)
+
 ## Identify Your Savings Goals
 
-If you have enough money to both pay down debt and save at the same time, 
+If you have enough money to both pay down debt and save at the same time,
+
+![Screen Shot 2018-04-13 at 1.31.12 PM.png](/uploads/Screen%20Shot%202018-04-13%20at%201.31.12%20PM.png)
 
 ## Spend What's Left
 
-The amount of money that is left is the amount that you have available to spend on whatever you want each month. 
+The amount of money that is left is the amount that you have available to spend on whatever you want each month.
