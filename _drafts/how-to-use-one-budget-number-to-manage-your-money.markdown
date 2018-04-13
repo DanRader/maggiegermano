@@ -18,6 +18,8 @@ I switched to one budget number a few years ago when I realized it was getting r
 
 Fixed expenses are any costs that usually stay the same each month. This can be rent, insurance, utilities, or subscriptions. These are the types of expenses that you usually cannot change (even if you want to). So get clear on how much absolutely has to go out every month.
 
+![Screen Shot 2018-04-13 at 1.06.22 PM-fb3f69.png](/uploads/Screen%20Shot%202018-04-13%20at%201.06.22%20PM-fb3f69.png)
+
 ## Get Clear On Debt Payments
 
 ## Identify Your Savings Goals
