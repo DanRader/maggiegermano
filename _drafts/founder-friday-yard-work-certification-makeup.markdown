@@ -37,9 +37,11 @@ This week, I wrote about [retirement accounts](https://www.maggiegermano.com/blo
 
 ## What I’m Excited About
 
-* Tonight is the [Being Boss book launch party](https://www.eventbrite.com/e/being-boss-dc-book-launch-party-tickets-43800308903) in DC! I'm sponsoring the event, along with a bunch of other fantastic businesses and individuals. I've been listening to the Being Boss podcast since I first started my business 2 years ago, and I can't wait to dig into the book.
+* Tonight is the [Being Boss book launch party](https://www.eventbrite.com/e/being-boss-dc-book-launch-party-tickets-43800308903) in DC! I'm sponsoring the event, along with a bunch of other fantastic businesses and individuals. I've been listening to the [Being Boss](https://beingboss.club/) podcast since I first started my business 2 years ago, and I can't wait to dig into the book.
 
-* I tried Zumba for the first time this week.
+* I tried Zumba for the first time this week. I felt like I had never danced before in my life and had no rhythm. But it was also a lot of fun and a fantastic workout. I can't wait to try it again soon!
+
+* Dan and I are finally going to the [National Museum of African American History & Culture](https://nmaahc.si.edu/) this weekend. We got timed tickets from his office, and plan to spend many hours exploring the museum.
 
 ![2018-04-10 09.02.18.jpg](/uploads/2018-04-10%2009.02.18.jpg)
 
