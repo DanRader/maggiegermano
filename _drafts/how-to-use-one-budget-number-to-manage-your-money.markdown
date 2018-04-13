@@ -22,6 +22,8 @@ It's important to have a solid understanding of how much you're bringing in ever
 
 If your income is not consistent, perhaps if you're self-employed or you work for tips, this exercise can be more difficult. My advice is to lean on the amount that you absolutely know will come in every month. Either that, or the amount you must earn in order to pay your bills. 
 
+Right now, Dan and I are relying predominantly on his income from his full-time job. Since my business income is still shaky now that I'm full-time, I'm only relying on $1,000 as take home pay. The rest goes to business expenses and taxes. If there's more leftover, I consider that extra and apply it to our savings goals or put it back into my business.
+
 ![Screen Shot 2018-04-13 at 1.13.46 PM.png](/uploads/Screen%20Shot%202018-04-13%20at%201.13.46%20PM.png)
 
 ## Calculate Your Fixed Expenses
