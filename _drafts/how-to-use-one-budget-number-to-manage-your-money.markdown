@@ -4,6 +4,7 @@ date: 2018-04-16 11:00:00 -04:00
 categories:
 - Budget
 image: "/uploads/calc.jpg"
+tweet: 'Want a simpler way to manage your #budget? Check out the one number method!'
 posts:
 - Budgeting 101
 - Budgeting for the Fun Stuff
