@@ -43,4 +43,6 @@ Dan and I currently have enough saved to cover our major expenses for nearly two
 
 Take your monthly income and subtract your fixed expenses, debt payments, and savings amounts. The amount of money that is left is the amount that you have available to spend on whatever you want each month. If you don't think it's enough to cover you for groceries, transportation, entertainment, and other things, you may have to lower your fixed expenses or cut back on your savings. But if you are comfortable with the number that's leftover, you just have to keep that number in mind while you're spending throughout the month. As long as you don't spend more than that amount, you will be on budget. This makes it so you don't have to worry about your spending in different categories. 
 
-Do you think having one budget number to keep in mind will make it easier for you to track your spending? I know it made my life feel a lot easier. 
+*Do you think having one budget number to keep in mind will make it easier for you to track your spending? I know it made my life feel a lot easier. Share what you think in the comments!*
+
+<script src="https://embeds.nerdwallet.com/embed.js" data-widget="savings-accounts" data-utm_campaign="bk_prod_savings-accounts"></script>
