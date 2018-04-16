@@ -5,10 +5,10 @@ categories:
 - debt
 ---
 
-Personal Loan
+## Personal Loan
 
-Balance Transfer
+## Balance Transfer
 
-Home Equity Loan
+## Home Equity Loan
 
 <script src="https://embeds.nerdwallet.com/embed.js" data-id="457628" data-utm_campaign="ln_prod_457628"></script>
