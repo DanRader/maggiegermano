@@ -25,19 +25,13 @@ If your income is not consistent, perhaps if you're self-employed or you work fo
 
 Right now, Dan and I are relying predominantly on his income from his full-time job. Since my business income is still shaky now that I'm full-time, I'm only relying on $1,000 as take home pay. The rest of my earnings goes to business expenses and taxes. If there's more leftover, I consider that extra and apply it to our savings goals or put it back into my business.
 
-![Screen Shot 2018-04-13 at 1.13.46 PM.png](/uploads/Screen%20Shot%202018-04-13%20at%201.13.46%20PM.png)
-
 ## Calculate Your Fixed Expenses
 
 Fixed expenses are any costs that usually stay the same each month. This can be rent, insurance, utilities, or subscriptions. These are the types of expenses that you usually cannot change (even if you want to). So get clear on how much absolutely has to go out every month.
 
-![Screen Shot 2018-04-13 at 1.06.22 PM-fb3f69.png](/uploads/Screen%20Shot%202018-04-13%20at%201.06.22%20PM-fb3f69.png)
-
 ## Get Clear On Debt Payments
 
-This should include any debts that you are working to pay down. Some examples are: credit cards, student loans, car payments, home equity loans, medical bills, etc. 
-
-![Screen Shot 2018-04-13 at 1.16.32 PM.png](/uploads/Screen%20Shot%202018-04-13%20at%201.16.32%20PM.png)
+This should include any debts that you are working to pay down. Some examples are: credit cards, student loans, car payments, home equity loans, medical bills, etc. These amounts can change as time goes on, especially if you're trying to be more aggressive with your debt repayment. 
 
 ## Identify Your Savings Goals
 
@@ -45,12 +39,8 @@ If you have enough money to both pay down debt and save at the same time, get cl
 
 Dan and I currently have enough saved to cover our major expenses for nearly two years. That means we don't have to worry about contributing to our emergency savings. We've also already met our savings goal to pay for our wedding (yay!). So now, our savings priority is focused on the improvements we want to make on our house. We want to have a new fence installed in the backyard, renovate the front porch so that it's more aligned with the bungalow style, renovate our master bathroom so it's what we want, and re-paint the exterior of the house. There are several other things we'd like to do but those are the major pieces right now. 
 
-![Screen Shot 2018-04-13 at 1.31.12 PM.png](/uploads/Screen%20Shot%202018-04-13%20at%201.31.12%20PM.png)
-
 ## Spend What's Left
 
 Take your monthly income and subtract your fixed expenses, debt payments, and savings amounts. The amount of money that is left is the amount that you have available to spend on whatever you want each month. If you don't think it's enough to cover you for groceries, transportation, entertainment, and other things, you may have to lower your fixed expenses or cut back on your savings. But if you are comfortable with the number that's leftover, you just have to keep that number in mind while you're spending throughout the month. As long as you don't spend more than that amount, you will be on budget. This makes it so you don't have to worry about your spending in different categories. 
-
-![Screen Shot 2018-04-13 at 2.03.02 PM.png](/uploads/Screen%20Shot%202018-04-13%20at%202.03.02%20PM.png)
 
 Do you think having one budget number to keep in mind will make it easier for you to track your spending? I know it made my life feel a lot easier. 
