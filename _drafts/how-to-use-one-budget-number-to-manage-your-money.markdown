@@ -21,7 +21,7 @@ Throughout this article, I will use screenshots of my own personal budget spread
 
 It's important to have a solid understanding of how much you're bringing in every month. Add up your paychecks to get this amount. This is the amount that comes in after taxes and after any other pre-tax deductions, like health insurance or your 401k contributions. 
 
-If your income is not consistent, perhaps if you're self-employed or you work for tips, this exercise can be more difficult. My advice is to lean on the amount that you absolutely know will come in every month. Either that, or the amount you must earn in order to pay your bills. Anything that you earn that is more than that should be applied towards your debt or savings goals. 
+If your income is not consistent, perhaps if you're self-employed or you work for tips, this exercise can be more difficult. My advice is to lean on the amount that you absolutely know will come in every month. Either that, or the amount you *must* earn in order to pay your bills. Anything that you earn that is more than that should be applied towards your debt or savings goals. 
 
 Right now, Dan and I are relying predominantly on his income from his full-time job. Since my business income is still shaky now that I'm full-time, I'm only relying on $1,000 as take home pay. The rest goes to business expenses and taxes. If there's more leftover, I consider that extra and apply it to our savings goals or put it back into my business.
 
