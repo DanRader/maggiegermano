@@ -49,6 +49,6 @@ Dan and I currently have enough saved to cover our major expenses for nearly two
 
 ## Spend What's Left
 
-The amount of money that is left is the amount that you have available to spend on whatever you want each month.
+Take your monthly income and subtract your fixed expenses, debt payments, and savings amounts. The amount of money that is left is the amount that you have available to spend on whatever you want each month. If you don't think it's enough to cover you for groceries, transportation, entertainment, and other things, you may have to lower your fixed expenses or cut back on your savings. 
 
 ![Screen Shot 2018-04-13 at 2.03.02 PM.png](/uploads/Screen%20Shot%202018-04-13%20at%202.03.02%20PM.png)
