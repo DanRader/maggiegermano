@@ -10,7 +10,11 @@ posts:
 - Why Credit Card Interest Sucks and What You Could Be Spending It On Instead
 ---
 
-Do you have a bunch of different debts? 
+Do you have a bunch of different debts? Do you get overwhelmed by multiple monthly payments and growing interest fees? You're not alone. 
+
+As of December 2017, there was over $1 trillion in revolving debt in the United States. When divided by the number of adults who have credit cards, that averages out to over $5,000 of credit card debt per person. Some people have more, some people have less. But the fact is, many, many people are dealing with credit card debt in the United States.
+
+> Do you have a bunch of different debts? Do you get overwhelmed by multiple monthly payments and growing interest fees? You're not alone. 
 
 ## Personal Loan
 
