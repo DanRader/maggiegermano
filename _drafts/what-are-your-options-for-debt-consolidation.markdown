@@ -22,9 +22,11 @@ As of December 2017, there was over $1 trillion in revolving debt in the United 
 
 ## Home Equity Loan
 
-Borrowing from Retirement
+## Borrowing from Retirement
 
 I would consider this your absolutely last resort. You should leave your retirement savings alone at all costs. 
+
+A big downside is that if you left your employer for a new job, you'd have to pay back the amount you owe right away. 
 
 Want to feel less alone in your debt journey? [Come to Money Circle this Wednesday, April 25th](https://www.maggiegermano.com/events/how-to-deal-with-credit-card-debt/)! We'll be gathering to talk about our experiences with credit card debt, and you'll walk away with tips for how to start wrangling your debt. 
 
