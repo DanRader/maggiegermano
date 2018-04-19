@@ -20,9 +20,11 @@ All that said, having many different accounts to worry about, and having variabl
 
 ## Personal Loan
 
+A personal loan will be deposited into your bank account as a lump sum as soon as it's approved and you sign the agreement. DON'T SPEND THIS CASH ON ANYTHING ELSE. Immediately apply the amount towards the debt that you are paying off. I once had a client who started spending the money from her personal loan while it was still in her bank account. This made it so that she wasn't able to pay off the full amount on her credit cards like she planned.
+
 One downside of this option is that there can be an origination fee for the loan. That means that you're charged a lump sum that equals a percentage of the loan you're taking out. Depending on the amount of the loan, that can be a big amount. It's a good practice to compare what you're paying in interest to what you'd be paying for the origination fee. Even better, look for a company that doesn't charge origination fees.
 
-Another thing to look for is whether or not the loan provider charges penalties for paying off your loan early. 
+Another thing to look for is whether or not the loan provider charges penalties for paying off your loan early. You want to make sure to choose a company that will not penalize you if you manage to pay your loan off ahead of schedule. So make sure to read the fine print and ask questions!
 
 ## Balance Transfer
 
@@ -31,6 +33,10 @@ One downside of this option is that there is usually an origination fee for your
 Make sure you don't add any new spending to the card you've transferred your balances to. You want to make sure you only need to pay back the amount you transferred, not any additional debt. It's also important to stop using the credit cards you already had. You don't want to get stuck in a pattern of transferring your debt over and over and never seeing the end.
 
 ## Home Equity Loan
+
+This consolidation option only applies to people who own a home. When you own a home, your property (hopefully) appreciates in value over time. This is especially true if your area is becoming more popular or experiencing more development. When this happens, your house is worth more than you originally paid for it, which means you have more equity in the home. A home equity loan, or a home equity line of credit (HELOC), allows you to borrow against that equity. Some people use that money to pay for improvements on the house, but you aren't required to do so. You can borrow against the equity of your home for anything you want.
+
+With a home equity loan, you borrow an amount 
 
 ## Borrowing from Retirement
 
