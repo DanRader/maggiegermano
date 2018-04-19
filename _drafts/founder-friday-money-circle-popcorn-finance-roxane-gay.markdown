@@ -22,6 +22,8 @@ TGIF! Am I the only one who felt like this week too forever? I'm excited to spen
 
 * We finally ordered our save-the-dates for our wedding! I personally wanted to have them mailed out weeks ago, but such is life. The postcards themselves will only cost around $50, but then we spent about $30 on stamps. Not too shabby for a wedding product that can cost much more than that. (I'm afraid to see how much our invitations will cost, though.)
 
+* Soon after we moved into our new house, we bought a king-sized bed and duvet. Now that it's getting warmer out (finally), we need a lighter blanket that is the right size for our bed. So we bought a really cute quilt from [Crane and Canopy](https://www.craneandcanopy.com/products/the-chevron-charcoal-grey-quilt-sham).
+
 ## What I’m Writing
 
 This week, I wrote about the [one number budgeting method](https://www.maggiegermano.com/blog/how-to-use-one-budget-number-to-manage-your-money/). This method makes tracking your spending and staying on budget so. much. easier. What do you think? Have you tried this approach?
