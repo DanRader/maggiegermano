@@ -12,7 +12,7 @@ posts:
 - How to Create a Wedding Budget
 ---
 
-I'm on my honeymoon right now! Well, I'm actually in the air or in an airport somewhere. We left DC late last night and are en route to Thailand for a three-week honeymoon!
+I'm on my honeymoon right now! Well, I'm actually in the air or in an airport somewhere. We left DC late last night and are en route to Thailand for a three-week honeymoon adventure!
 
 ## Save, Save, Save
 
