@@ -41,7 +41,7 @@ With a home equity loan, you borrow an amount
 
 ## Borrowing from Retirement
 
-I would consider this your absolutely last resort. You should leave your retirement savings alone at all costs.
+I would consider this your *absolutely last resort*. You should leave your retirement savings alone at all costs. However, it is an option for consolidation if you need it. 
 
 A big downside is that if you left your employer for a new job, you'd have to pay back the amount you owe right away.
 
