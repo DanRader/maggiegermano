@@ -4,5 +4,9 @@ date: 2018-07-09 11:00:00 -04:00
 categories:
 - Credit
 image: "/uploads/number.jpg"
+posts:
+- Why You Should Care About Your Credit Score
+- Why You Should Check Your Credit Report Regularly
+- How Does Credit Card Interest Work?
 ---
 
