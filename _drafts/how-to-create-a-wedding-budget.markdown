@@ -5,6 +5,8 @@ categories:
 - budget
 - lifestyle
 image: "/uploads/venue.jpg"
+tweet: 'One of the first things you should do when planning a #wedding is create your
+  #budget. '
 posts:
 - How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
 - How to Budget as a Couple
