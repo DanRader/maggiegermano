@@ -16,9 +16,15 @@ I'm on my honeymoon right now! Well, I'm actually in the air or in an airport so
 
 ## Save, Save, Save
 
+I know you're probably saving everything you have right now in order to pay for your wedding. However, it's important to remember that you'll want to save up for your honeymoon too!
+
 ## Take Advantage of Rewards Programs
 
 ## Keep Track of Deals
+
+## Go Somewhere Close
+
+Yes, we're en route to Thailand, but you don't have to travel to the other side of the world for your honeymoon. My parents went to Disney World for their honeymoon. Of course, this was in the 1980s when Disney World was a lot cheaper, but even now it would likely be a lot cheaper than Thailand. So if you're not all that interested in traveling to a faraway land, you can pick a place that's closer, easier to get to, and much more affordable. 
 
 ## Delay
 
