@@ -6,6 +6,8 @@ categories:
 image: "/uploads/popcorn.jpg"
 ---
 
+TGIF! Am I the only one who felt like this week too forever? I'm excited to spend this weekend doing yard work and catching up with friends. Here's what I was up to this week.
+
 ## How I Earned Money This Week
 
 * One of my monthly clients' payments went through on Sunday.
