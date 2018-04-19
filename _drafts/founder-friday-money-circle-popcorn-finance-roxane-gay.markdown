@@ -36,4 +36,6 @@ This week, I wrote about the [one number budgeting method](https://www.maggieger
 
 * [Money Circle is next Wednesday, April 25th!](https://www.maggiegermano.com/events/how-to-deal-with-credit-card-debt/) We'll be talking about credit card debt and how to start making moves to get out of it. Don't worry if you're stressed or ashamed of your debt, Money Circle is a safe space where we can support each other and break the taboos around money. I hope to [see you there](https://www.maggiegermano.com/events/how-to-deal-with-credit-card-debt/)!
 
+[![Money Circle Photos (6).png](/uploads/Money%20Circle%20Photos%20(6).png)](https://www.maggiegermano.com/events/how-to-deal-with-credit-card-debt/)
+
 ## Money Tip to Take Into the Weekend
