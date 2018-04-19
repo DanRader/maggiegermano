@@ -3,6 +3,7 @@ title: How I'm Incorporating My Values Into My Wedding
 date: 2018-05-21 11:00:00 -04:00
 categories:
 - lifestyle
+image: "/uploads/bride.jpg"
 tweet: How I'm Incorporating My Values Into My Wedding
 posts:
 - How to Plan a Wedding and Stay Sane
@@ -20,7 +21,7 @@ My dad never owned me. My future husband won't own me. So there's no reason for 
 
 ## I Have a Bridesman
 
-One of my best friends is a great guy named Matt. We've been friends since 7th grade and he's always been there for me. It didn't make sense to me for him to be Dan's groomsman, and I didn't want him to not be included. So I proposed that he be my bridesman. No 
+One of my best friends is a great guy named Matt. We've been friends since 7th grade and he's always been there for me. It didn't make sense to me for him to be Dan's groomsman, and I didn't want him to not be included. So I proposed that he be my bridesman. No
 
 PS: Buy Matt's coffee!
 
@@ -34,5 +35,6 @@ There's nothing "unfeminist" about wearing heels. But there's a lot of pressure 
 
 ## My Dress Only Cost $240
 
-## Our Officiant is a Dear Friend
+I didn't even want to go dress shopping when I first got engaged. I knew I'd be pressured to spend a ton of money and get overwhelmed by all the choices. But my mom and my bridesmaids wanted to go dress shopping with me, so I relented. The boutique was cute and the woman helping us was very nice, but one of the first things she told me is that the average bride spends about $1,500 on her wedding dress. NOPE. 
 
+## Our Officiant is a Dear Friend
