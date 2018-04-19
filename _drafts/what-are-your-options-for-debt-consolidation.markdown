@@ -20,7 +20,15 @@ All that said, having many different accounts to worry about, and having variabl
 
 ## Personal Loan
 
+One downside of this option is that there can be an origination fee for the loan. That means that you're charged a lump sum that equals a percentage of the loan you're taking out. Depending on the amount of the loan, that can be a big amount. It's a good practice to compare what you're paying in interest to what you'd be paying for the origination fee. Even better, look for a company that doesn't charge origination fees.
+
+Another thing to look for is whether or not the loan provider charges penalties for paying off your loan early. 
+
 ## Balance Transfer
+
+One downside of this option is that there is usually an origination fee for your balance transfer. That means that you are charged a lump sum that equals a small percentage of the debt you're transferring. Depending on the amount of debt, that sum can be a lot of money.
+
+Make sure you don't add any new spending to the card you've transferred your balances to. You want to make sure you only need to pay back the amount you transferred, not any additional debt. It's also important to stop using the credit cards you already had. You don't want to get stuck in a pattern of transferring your debt over and over and never seeing the end.
 
 ## Home Equity Loan
 
