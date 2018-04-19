@@ -41,4 +41,10 @@ My mom offered to buy my wedding dress for me, so I didn't have to worry about m
 
 ## Our Officiant is a Dear Friend
 
-Two years ago, I officiated the wedding of my bridesman, Matt, and my friend Kristen. I introduced them to each other, so it was a special honor for me to marry them. 
+Two years ago, I officiated the wedding of my bridesman, Matt, and my friend (his now wife) Kristen. I introduced them to each other, so it was a special honor for me to marry them. I loved being able to add personal touches to the ceremony based on my friendship with both of them, and that is something I really want for my own wedding. 
+
+We aren't having a religious wedding ceremony (Dan is Jewish and I'm a recovering Catholic), so there isn't a religious officiant to choose from. There is the option of hiring a secular celebrant but we didn't really want a stranger to preside over the ceremony. Ultimately, the only officiant who made sense is our dear friend, Brian. I've known Brian since the 7th grade and he's been Dan's best friend since college. He is the one who introduced us to each other too! So we asked, and he graciously accepted. Brian will be both the officiant and the best man, and I can't wait to hear what he comes up with.
+
+## We Won't Be Pronounced Mr and Mrs
+
+I'm keeping my last name after I get married. I also don't plan on ever writing "Mrs. Maggie Germano" on anything. I don't think anyone needs to know my marital status just by looking at my name. 
