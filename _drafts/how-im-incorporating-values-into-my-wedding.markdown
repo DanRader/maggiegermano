@@ -37,4 +37,6 @@ There's nothing "unfeminist" about wearing heels. But there's a lot of pressure 
 
 I didn't even want to go dress shopping when I first got engaged. I knew I'd be pressured to spend a ton of money and get overwhelmed by all the choices. But my mom and my bridesmaids wanted to go dress shopping with me, so I relented. The boutique was cute and the woman helping us was very nice, but one of the first things she told me is that the average bride spends about $1,500 on her wedding dress. NOPE. 
 
+My mom offered to buy my wedding dress for me, so I didn't have to worry about my own budget, but it was still important to me to not spend a lot on my dress. I don't have very fancy taste, so none of the poofy, sparkly dresses appealed to me. After rejecting several dresses, the woman at the boutique finally started bringing me bridesmaids dress that come in white and only cost $300. Pro tip: you can buy white bridesmaids dresses and use them as your wedding dress! That was a game changer for me. I ultimately ended up buying my dress from BHLDN, but it was only $240 and is technically a bridesmaids dress. To make things even better, it's exactly what I had in mind and will be comfortable and simple. 
+
 ## Our Officiant is a Dear Friend
