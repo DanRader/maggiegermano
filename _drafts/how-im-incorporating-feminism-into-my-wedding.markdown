@@ -9,9 +9,13 @@ Years ago, I watched an episode of Brothers and Sisters where Calista Flockhart'
 
 ## I'm Not Being "Given Away"
 
-My dad never owned me. My future husband won't own me. So there's no reason for anyone to say that I'm being given away.
+My dad never owned me. My future husband won't own me. So there's no reason for anyone to say that I'm being given away to anyone. I'm choosing to get married, and I'll still be my own person.
 
 ## I Have a Bridesman
+
+One of my best friends is a great guy named Matt. We've been friends since 7th grade and he's always been there for me. It didn't make sense to me for him to be Dan's groomsman, and I didn't want him to not be included. So I proposed that he be my bridesman. No 
+
+PS: Buy Matt's coffee!
 
 ## Dan Has Two Groomswomen
 
