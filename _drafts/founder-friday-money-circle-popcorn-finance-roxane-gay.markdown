@@ -1,6 +1,7 @@
 ---
-title: Founder Friday | Money Circle, Popcorn Finance,
+title: Founder Friday | Money Circle, Popcorn Finance, Roxane Gay
 date: 2018-04-20 13:00:00 -04:00
+image: "/uploads/popcorn.jpg"
 ---
 
 ## How I Earned Money This Week
@@ -22,6 +23,8 @@ date: 2018-04-20 13:00:00 -04:00
 This week, I wrote about the [one number budgeting method](https://www.maggiegermano.com/blog/how-to-use-one-budget-number-to-manage-your-money/). This method makes tracking your spending and staying on budget so. much. easier. What do you think? Have you tried this approach?
 
 ## What I’m Excited About
+
+* I just got a ticket to see [Roxane Gay](http://www.roxanegay.com/) speak at [Sixth & I on June 13th](https://www.sixthandi.org/event/roxanne-gay/)! This will be the third (or fourth?) time that I've seen Roxane and I still can't miss her. Her newest book, [Not That Bad](https://www.harpercollins.com/9780062413505/not-that-bad), will be released on May 1st. Make sure you read the rest of her books: [Hunger](https://www.amazon.com/Hunger-Memoir-Body-Roxane-Gay/dp/0062362593/ref=sr_1_4?ie=UTF8&qid=1524149616&sr=8-4&keywords=roxane\+gay&dpID=41S4yvewK-L&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch), [Difficult Women](https://www.amazon.com/Difficult-Women-Roxane-Gay/dp/0802127371/ref=sr_1_5?ie=UTF8&qid=1524149616&sr=8-5&keywords=roxane\+gay&dpID=51QJnX0bTsL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch), [Bad Feminist](https://www.amazon.com/Bad-Feminist-Essays-Roxane-Gay/dp/0062282719/ref=sr_1_1?ie=UTF8&qid=1524149616&sr=8-1&keywords=roxane\+gay&dpID=41wmScO2UaL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch), [An Untamed State](https://www.amazon.com/Untamed-State-Roxane-Gay/dp/0802122515/ref=sr_1_6?ie=UTF8&qid=1524149616&sr=8-6&keywords=roxane\+gay&dpID=51C0Y8b0DtL&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch), [Ayiti](https://www.amazon.com/Ayiti-Roxane-Gay/dp/145077671X/ref=sr_1_8?ie=UTF8&qid=1524149616&sr=8-8&keywords=roxane\+gay), and [Black Panther: World of Wakanda](https://www.amazon.com/Black-Panther-Wakanda-Ta-Nehisi-Coates/dp/130290650X/ref=sr_1_7?ie=UTF8&qid=1524149616&sr=8-7&keywords=roxane\+gay).
 
 ## What I'm Up To
 
