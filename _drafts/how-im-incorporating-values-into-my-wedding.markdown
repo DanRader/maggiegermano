@@ -1,6 +1,13 @@
 ---
 title: How I'm Incorporating My Values Into My Wedding
 date: 2018-05-21 11:00:00 -04:00
+categories:
+- lifestyle
+tweet: How I'm Incorporating My Values Into My Wedding
+posts:
+- How to Plan a Wedding and Stay Sane
+- How to Create a Wedding Budget
+- How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
 ---
 
 ## Both Parents Are Walking Me Down the Aisle
@@ -23,6 +30,9 @@ PS: Buy Matt's coffee!
 
 There's nothing "unfeminist" about wearing heels. But there's a lot of pressure to look a certain way on your wedding day. I've decided that I want to be as comfortable as possible on my wedding day.
 
-We're Using All Local Food and Drink
+## We're Using All Local Food and Drink
 
-My Dress Only Cost $240
+## My Dress Only Cost $240
+
+## Our Officiant is a Dear Friend
+
