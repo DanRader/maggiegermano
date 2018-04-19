@@ -16,6 +16,8 @@ As of December 2017, there was over $1 trillion in revolving debt in the United 
 
 > Do you have a bunch of different debts? Do you get overwhelmed by multiple monthly payments and growing interest fees? You're not alone.
 
+All that said, having many different accounts to worry about, and having variable interest rates, can be a hinderance to paying down debt. 
+
 ## Personal Loan
 
 ## Balance Transfer
