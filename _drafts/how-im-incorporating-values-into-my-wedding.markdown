@@ -23,4 +23,6 @@ PS: Buy Matt's coffee!
 
 There's nothing "unfeminist" about wearing heels. But there's a lot of pressure to look a certain way on your wedding day. I've decided that I want to be as comfortable as possible on my wedding day.
 
+We're Using All Local Food and Drink
+
 My Dress Only Cost $240
