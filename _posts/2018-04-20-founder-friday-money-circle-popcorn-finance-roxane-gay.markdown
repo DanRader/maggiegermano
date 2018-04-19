@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Money Circle, Popcorn Finance, Roxane Gay
 date: 2018-04-20 13:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/popcorn.jpg"
@@ -43,3 +44,7 @@ This week, I wrote about the [one number budgeting method](https://www.maggieger
 [![Money Circle Photos (6).png](/uploads/Money%20Circle%20Photos%20(6).png)](https://www.maggiegermano.com/events/how-to-deal-with-credit-card-debt/)
 
 ## Money Tip to Take Into the Weekend
+
+![Financial Literacy Month (8).png](/uploads/Financial%20Literacy%20Month%20(8).png)
+
+That's all from me this week. Have a great weekend!
