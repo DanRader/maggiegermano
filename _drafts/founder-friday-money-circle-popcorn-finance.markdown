@@ -19,7 +19,7 @@ date: 2018-04-20 13:00:00 -04:00
 
 ## What I’m Writing
 
-This week, I wrote about the one number budgeting method. 
+This week, I wrote about the [one number budgeting method](https://www.maggiegermano.com/blog/how-to-use-one-budget-number-to-manage-your-money/). This method makes tracking your spending and staying on budget so. much. easier. What do you think? Have you tried this approach?
 
 ## What I’m Excited About
 
