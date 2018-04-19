@@ -6,6 +6,8 @@ categories:
 image: "/uploads/popcorn.jpg"
 ---
 
+TGIF! Am I the only one who felt like this week too forever? I'm excited to spend this weekend doing yard work and catching up with friends. Here's what I was up to this week.
+
 ## How I Earned Money This Week
 
 * One of my monthly clients' payments went through on Sunday.
@@ -35,5 +37,7 @@ This week, I wrote about the [one number budgeting method](https://www.maggieger
 * I'm this week's guest on [Popcorn Finance](https://popcornfinance.com/episode-055-taking-your-side-hustle-full-time-with-maggie-germano/)! Chris and I talked about how my business started as a side hustle and went to my full-time job. Take a listen and let me know what you think!
 
 * [Money Circle is next Wednesday, April 25th!](https://www.maggiegermano.com/events/how-to-deal-with-credit-card-debt/) We'll be talking about credit card debt and how to start making moves to get out of it. Don't worry if you're stressed or ashamed of your debt, Money Circle is a safe space where we can support each other and break the taboos around money. I hope to [see you there](https://www.maggiegermano.com/events/how-to-deal-with-credit-card-debt/)!
+
+[![Money Circle Photos (6).png](/uploads/Money%20Circle%20Photos%20(6).png)](https://www.maggiegermano.com/events/how-to-deal-with-credit-card-debt/)
 
 ## Money Tip to Take Into the Weekend
