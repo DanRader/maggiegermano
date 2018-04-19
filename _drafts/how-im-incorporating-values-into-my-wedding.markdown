@@ -40,3 +40,5 @@ I didn't even want to go dress shopping when I first got engaged. I knew I'd be 
 My mom offered to buy my wedding dress for me, so I didn't have to worry about my own budget, but it was still important to me to not spend a lot on my dress. I don't have very fancy taste, so none of the poofy, sparkly dresses appealed to me. After rejecting several dresses, the woman at the boutique finally started bringing me bridesmaids dress that come in white and only cost $300. Pro tip: you can buy white bridesmaids dresses and use them as your wedding dress! That was a game changer for me. I ultimately ended up buying my dress from BHLDN, but it was only $240 and is technically a bridesmaids dress. To make things even better, it's exactly what I had in mind and will be comfortable and simple. 
 
 ## Our Officiant is a Dear Friend
+
+Two years ago, I officiated the wedding of my bridesman, Matt, and my friend Kristen. I introduced them to each other, so it was a special honor for me to marry them. 
