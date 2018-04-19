@@ -1,5 +1,5 @@
 ---
-title: How I'm Incorporating Feminism Into My Wedding
+title: How I'm Incorporating My Values Into My Wedding
 date: 2018-05-21 11:00:00 -04:00
 ---
 
