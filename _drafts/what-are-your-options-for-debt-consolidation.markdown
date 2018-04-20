@@ -43,17 +43,17 @@ This consolidation option only applies to people who own a home. When you own a 
 
 With a home equity loan, you borrow an amount
 
-## Borrowing from Retirement
-
-I would consider this your *absolutely last resort*. You should leave your retirement savings alone at all costs. However, it is an option for consolidation if you need it.
-
-A big downside is that if you left your employer for a new job, you'd have to pay back the amount you owe right away.
-
 ## Working With a Credit Counselor
 
 In this scenario, you work with a third party, a credit counseling organization, that handles the consolidation for you. With this option, all of your credit cards are closed and you pay one monthly payment to the organization, which then applies the money to the creditors you owe.
 
 A downside of this option is that your accounts are closed. This can hurt your credit
+
+## Borrowing from Retirement
+
+I would consider this your *absolutely last resort*. You should leave your retirement savings alone at all costs. However, it is an option for consolidation if you need it.
+
+A big downside is that if you left your employer for a new job, you'd have to pay back the amount you owe right away.
 
 It's important to remember that debt consolidation does not mean your debt is going away. It's not a magic eraser. You still have to work to pay down your debt in its new form. And the most important thing to remember is that you must continue to be careful with your spending. It can be very easy to build up debt again after you've consolidated. If you tend to struggle with credit card debt, *stop using your credit cards* after you consolidate. Otherwise, you may find yourself in this situation again in a couple years.
 
