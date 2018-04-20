@@ -21,6 +21,8 @@ All that said, having many different accounts to worry about, and having variabl
 
 ## Personal Loan
 
+A personal loan is a loan you can take out to basically pay for anything. The good thing about personal loans is they tend to have lower interest rates than credit cards. I've seen rates as low as 5 percent, which can save you a lot of money in interest.
+
 A personal loan will be deposited into your bank account as a lump sum as soon as it's approved and you sign the agreement. DON'T SPEND THIS CASH ON ANYTHING ELSE. Immediately apply the amount towards the debt that you are paying off. I once had a client who started spending the money from her personal loan while it was still in her bank account. This made it so that she wasn't able to pay off the full amount on her credit cards like she planned.
 
 One downside of this option is that there can be an origination fee for the loan. That means that you're charged a lump sum that equals a percentage of the loan you're taking out. Depending on the amount of the loan, that can be a big amount. It's a good practice to compare what you're paying in interest to what you'd be paying for the origination fee. Even better, look for a company that doesn't charge origination fees.
@@ -28,6 +30,8 @@ One downside of this option is that there can be an origination fee for the loan
 Another thing to look for is whether or not the loan provider charges penalties for paying off your loan early. You want to make sure to choose a company that will not penalize you if you manage to pay your loan off ahead of schedule. So make sure to read the fine print and ask questions!
 
 ## Balance Transfer
+
+I'm sure you've seen many credit cards out there that offer balance transfers for 0 percent interest for a period of time. These allow you to transfer the balances from other credit cards to just one card that doesn't charge interest for the introductory period. This can be a great way to save on big interest fees that you are paying on your existing credit cards. 
 
 One downside of this option is that there is usually an origination fee for your balance transfer. That means that you are charged a lump sum that equals a small percentage of the debt you're transferring. Depending on the amount of debt, that sum can be a lot of money.
 
@@ -47,7 +51,7 @@ A big downside is that if you left your employer for a new job, you'd have to pa
 
 ## Working With a Credit Counselor
 
-In this scenario, you work with a third party, a credit counseling organization, that handles the consolidation for you. With this option, all of your credit cards are closed and you pay one monthly payment to the organization, which then applies the money to the creditors you owe. 
+In this scenario, you work with a third party, a credit counseling organization, that handles the consolidation for you. With this option, all of your credit cards are closed and you pay one monthly payment to the organization, which then applies the money to the creditors you owe.
 
 A downside of this option is that your accounts are closed. This can hurt your credit
 
