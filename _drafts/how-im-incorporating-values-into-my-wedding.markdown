@@ -29,22 +29,22 @@ PS: Buy Matt's coffee!
 
 ## I'm Not Wearing Heels
 
-There's nothing "unfeminist" about wearing heels. But there's a lot of pressure to look a certain way on your wedding day. I've decided that I want to be as comfortable as possible on my wedding day.
+There's nothing "unfeminist" about wearing heels. But there's a lot of pressure to look a certain way on your wedding day. I've decided that I want to be as comfortable and as true to myself as possible.
 
 ## We're Using All Local Food and Drink
 
 ## My Dress Only Cost $240
 
-I didn't even want to go dress shopping when I first got engaged. I knew I'd be pressured to spend a ton of money and get overwhelmed by all the choices. But my mom and my bridesmaids wanted to go dress shopping with me, so I relented. The boutique was cute and the woman helping us was very nice, but one of the first things she told me is that the average bride spends about $1,500 on her wedding dress. NOPE. 
+I didn't even want to go dress shopping when I first got engaged. I knew I'd be pressured to spend a ton of money and get overwhelmed by all the choices. But my mom and my bridesmaids wanted to go dress shopping with me, so I relented. The boutique was cute and the woman helping us was very nice, but one of the first things she told me is that the average bride spends about $1,500 on her wedding dress. NOPE.
 
-My mom offered to buy my wedding dress for me, so I didn't have to worry about my own budget, but it was still important to me to not spend a lot on my dress. I don't have very fancy taste, so none of the poofy, sparkly dresses appealed to me. After rejecting several dresses, the woman at the boutique finally started bringing me bridesmaids dress that come in white and only cost $300. Pro tip: you can buy white bridesmaids dresses and use them as your wedding dress! That was a game changer for me. I ultimately ended up buying my dress from BHLDN, but it was only $240 and is technically a bridesmaids dress. To make things even better, it's exactly what I had in mind and will be comfortable and simple. 
+My mom offered to buy my wedding dress for me, so I didn't have to worry about my own budget, but it was still important to me to not spend a lot on my dress. I don't have very fancy taste, so none of the poofy, sparkly dresses appealed to me. After rejecting several dresses, the woman at the boutique finally started bringing me bridesmaids dress that come in white and only cost $300. Pro tip: you can buy white bridesmaids dresses and use them as your wedding dress! That was a game changer for me. I ultimately ended up buying my dress from BHLDN, but it was only $240 and is technically a bridesmaids dress. To make things even better, it's exactly what I had in mind and will be comfortable and simple.
 
 ## Our Officiant is a Dear Friend
 
-Two years ago, I officiated the wedding of my bridesman, Matt, and my friend (his now wife) Kristen. I introduced them to each other, so it was a special honor for me to marry them. I loved being able to add personal touches to the ceremony based on my friendship with both of them, and that is something I really want for my own wedding. 
+Two years ago, I officiated the wedding of my bridesman, Matt, and my friend (his now wife) Kristen. I introduced them to each other, so it was a special honor for me to marry them. I loved being able to add personal touches to the ceremony based on my friendship with both of them, and that is something I really want for my own wedding.
 
 We aren't having a religious wedding ceremony (Dan is Jewish and I'm a recovering Catholic), so there isn't a religious officiant to choose from. There is the option of hiring a secular celebrant but we didn't really want a stranger to preside over the ceremony. Ultimately, the only officiant who made sense is our dear friend, Brian. I've known Brian since the 7th grade and he's been Dan's best friend since college. He is the one who introduced us to each other too! So we asked, and he graciously accepted. Brian will be both the officiant and the best man, and I can't wait to hear what he comes up with.
 
-## We Won't Be Pronounced Mr and Mrs
+## We Won't Be Pronounced Mr. and Mrs.
 
-I'm keeping my last name after I get married. I also don't plan on ever writing "Mrs. Maggie Germano" on anything. I don't think anyone needs to know my marital status just by looking at my name. 
+I'm keeping my last name after I get married. I also don't plan on ever writing "Mrs. Maggie Germano" on anything. I don't think anyone needs to know my marital status just by looking at my name.
