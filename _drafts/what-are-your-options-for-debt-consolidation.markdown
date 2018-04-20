@@ -31,7 +31,7 @@ Another thing to look for is whether or not the loan provider charges penalties 
 
 ## Balance Transfer
 
-I'm sure you've seen many credit cards out there that offer balance transfers for 0 percent interest for a period of time. These allow you to transfer the balances from other credit cards to just one card that doesn't charge interest for the introductory period. This can be a great way to save on big interest fees that you are paying on your existing credit cards. 
+I'm sure you've seen many credit cards out there that offer balance transfers for 0 percent interest for a period of time. These allow you to transfer the balances from other credit cards to just one card that doesn't charge interest for the introductory period. This can be a great way to save on big interest fees that you are paying on your existing credit cards.
 
 One downside of this option is that there is usually an origination fee for your balance transfer. That means that you are charged a lump sum that equals a small percentage of the debt you're transferring. Depending on the amount of debt, that sum can be a lot of money.
 
@@ -47,7 +47,7 @@ With a home equity loan, you borrow an amount
 
 In this scenario, you work with a third party, a credit counseling organization, that handles the consolidation for you. With this option, all of your credit cards are closed and you pay one monthly payment to the organization, which then applies the money to the creditors you owe.
 
-A downside of this option is that your accounts are closed. This can hurt your credit
+A downside of this option is that your accounts are closed. This can hurt your credit score if you're closing accounts you've had for a long time. But it might end up being more helpful to your credit down the line if it helps you pay off your debt and stay out of it. 
 
 ## Borrowing from Retirement
 
