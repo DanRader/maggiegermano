@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Money Circle, Popcorn Finance, Roxane Gay
 date: 2018-04-20 13:00:00 -04:00
-published: false
 categories:
 - founder friday
 image: "/uploads/popcorn.jpg"
