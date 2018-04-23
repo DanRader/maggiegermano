@@ -10,7 +10,9 @@ location: Private Eastern Market Residence (right near metro)
 button-text: Sign Me Up!
 ---
 
-If you're within a certain age range, you probably feel like everyone in the world is getting married at the same time. I hear you! A few years ago, I went to EIGHT weddings in one year. It was insane. And these occasions, and everything associated with them, can add up very quickly. You're not alone in feeling completely overwhelmed and broke while your friends are getting married. So come to Money Circle and vent, share tips and tricks for how you saved money
+If you're within a certain age range, you probably feel like everyone in the world is getting married at the same time. I hear you! A few years ago, I went to EIGHT weddings in one year. It was insane. And it's not just the wedding itself. Theres bridal showers, bachelor/bachelorette parties, travel, gifts, etc. Weddings can add up FAST, and not just for the couple tying the knot. 
+
+You're not alone in feeling completely overwhelmed and broke while your friends are getting married. So come to Money Circle to vent, share tips and tricks for how you saved money, and support each other during these busy and expensive parts of life.
 
 --
 
