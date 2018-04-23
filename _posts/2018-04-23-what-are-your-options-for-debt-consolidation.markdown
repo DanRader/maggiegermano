@@ -1,6 +1,7 @@
 ---
 title: What Are Your Options for Debt Consolidation?
 date: 2018-04-23 11:00:00 -04:00
+published: false
 categories:
 - debt
 image: "/uploads/graph.jpg"
@@ -67,7 +68,11 @@ A potential downside of this option is that your credit card accounts are closed
 
 I would consider this your *absolutely last resort*. You should leave your retirement savings alone at all costs. However, it is an option for consolidation if you really need it. Basically, you take a loan from your retirement account to pay off existing debt. Different employers have different rules, but typically
 
-A big downside is that if you left your employer for a new job, you'd have to pay back the amount you owe right away. And more importantly, this option can set you back in your retirement savings. As they say, compound interest is king. So if you're pulling money out of your 401k to pay off debt, that means it's given less time to grow upon itself in the stock market. And don't forget, you can't take out a loan for retirement. 
+You can borrow up to $50,000, or half the balance in your account, whichever is less, from a 401k or similar plan like a 403b. You then gradually repay the money, plus interest, to your own account. One upside is that you're paying the interest back to yourself, rather than to a company. 
+
+A big downside is that if you left your employer for a new job, you'd have to pay back the amount you owe right away. And if you are unable to pay the money back, at any point, you'll be taxed and penalized as if you've withdrawn your retirement money before retirement age. This can cost you a heck of a lot more money than the original loan. 
+
+And more importantly (in my opinion), this option can set you back in your retirement savings. According to Fidelity, 20% of people who take out a 401k loan decrease their retirement contributions, and 15% of people stop their contributions completely within five years of taking out the loan. Plus, when your money is out of the stock market, you're losing out on growth potential. This can really hurt you when you get to retirement age. 
 
 *For more information about 401k loans, [check out this article](https://www.fidelity.com/viewpoints/financial-basics/avoiding-401k-loans).*
 
