@@ -47,7 +47,7 @@ Of course, it's important to remember that you're borrowing money against your o
 
 ## Working With a Credit Counselor
 
-In this scenario, you work with a third party, a credit counseling organization, that handles the consolidation for you. With this option, all of your credit cards are closed and you pay one monthly payment to the organization, which then applies the money to the creditors you owe.
+In this scenario, you work with a third party, a credit counseling organization, that handles the debt consolidation for you. With this option, all of your credit cards are closed and you pay one monthly payment to the organization, which then pays the money to the creditors you owe.
 
 A downside of this option is that your accounts are closed. This can hurt your credit score if you're closing accounts you've had for a long time. But it might end up being more helpful to your credit down the line if it helps you pay off your debt and stay out of it.
 
