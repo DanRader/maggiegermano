@@ -71,6 +71,10 @@ A big downside is that if you left your employer for a new job, you'd have to pa
 
 It's important to remember that debt consolidation does not mean your debt is going away. It's not a magic eraser. You still have to work to pay down your debt in its new form. And the most important thing to remember is that you must continue to be careful with your spending. It can be very easy to build up debt again after you've consolidated. If you tend to struggle with credit card debt, *stop using your credit cards* after you consolidate. Otherwise, you may find yourself in this situation again in a couple years.
 
-Want to feel less alone in your debt journey? [Come to Money Circle this Wednesday, April 25th](https://www.maggiegermano.com/events/how-to-deal-with-credit-card-debt/)! We'll be gathering to talk about our experiences with credit card debt, and you'll walk away with tips for how to start wrangling your debt.
+*For more information about 401k loans, check out this article.*
+
+--
+
+**Want to feel less alone in your debt journey?** [Come to Money Circle this Wednesday, April 25th](https://www.maggiegermano.com/events/how-to-deal-with-credit-card-debt/)! We'll be gathering to talk about our experiences with credit card debt, and you'll walk away with tips for how to start wrangling your debt.
 
 <script src="https://embeds.nerdwallet.com/embed.js" data-id="457628" data-utm_campaign="ln_prod_457628"></script>
