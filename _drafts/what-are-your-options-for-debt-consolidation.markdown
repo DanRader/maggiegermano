@@ -21,17 +21,17 @@ All that said, having many different accounts to worry about, and having variabl
 
 ## Personal Loan
 
-A personal loan is a loan you can take out to basically pay for anything. The good thing about personal loans is they tend to have lower interest rates than credit cards. I've seen rates as low as 5 percent, which can save you a lot of money in interest.
+A personal loan is a loan you can take out to basically pay for anything. The good thing about personal loans is they tend to have lower interest rates than credit cards. I've seen rates as low as 5%, which can save you a lot of money in interest. It's also a helpful way to borrow a larger sum and pay off your multiple credit cards and then only have one low-interest bill to pay back. (Don't forget: your [credit score](https://www.maggiegermano.com/blog/care-about-your-credit-score) will determine the interest rate that you are given.)
 
 A personal loan will be deposited into your bank account as a lump sum as soon as it's approved and you sign the agreement. DON'T SPEND THIS CASH ON ANYTHING ELSE. Immediately apply the amount towards the debt that you are paying off. I once had a client who started spending the money from her personal loan while it was still in her bank account. This made it so that she wasn't able to pay off the full amount on her credit cards like she planned.
 
-One downside of this option is that there can be an origination fee for the loan. That means that you're charged a lump sum that equals a percentage of the loan you're taking out. Depending on the amount of the loan, that can be a big amount. It's a good practice to compare what you're paying in interest to what you'd be paying for the origination fee. Even better, look for a company that doesn't charge origination fees.
+One downside of this option is that there can be an origination fee for the loan. That means that you're charged an additional fee that equals a percentage of the loan you're taking out. Depending on the amount of the loan, that can be a big number. It's a good practice to compare what you're paying in interest to what you'd be paying for the origination fee. Even better, look for a company that doesn't charge origination fees.
 
 Another thing to look for is whether or not the loan provider charges penalties for paying off your loan early. You want to make sure to choose a company that will not penalize you if you manage to pay your loan off ahead of schedule. So make sure to read the fine print and ask questions!
 
 ## Balance Transfer
 
-I'm sure you've seen many credit cards out there that offer balance transfers for 0 percent interest for a period of time. These allow you to transfer the balances from other credit cards to just one card that doesn't charge interest for the introductory period. This can be a great way to save on big interest fees that you are paying on your existing credit cards.
+I'm sure you've seen many credit cards out there that offer balance transfers for 0% interest for a period of time. These allow you to transfer the balances from other credit cards to just one card that doesn't charge interest for the introductory period. This can be a great way to save on big interest fees that you are paying on your existing credit cards.
 
 One downside of this option is that there is usually an origination fee for your balance transfer. That means that you are charged a lump sum that equals a small percentage of the debt you're transferring. Depending on the amount of debt, that sum can be a lot of money.
 
@@ -47,13 +47,13 @@ With a home equity loan, you borrow an amount
 
 In this scenario, you work with a third party, a credit counseling organization, that handles the consolidation for you. With this option, all of your credit cards are closed and you pay one monthly payment to the organization, which then applies the money to the creditors you owe.
 
-A downside of this option is that your accounts are closed. This can hurt your credit score if you're closing accounts you've had for a long time. But it might end up being more helpful to your credit down the line if it helps you pay off your debt and stay out of it. 
+A downside of this option is that your accounts are closed. This can hurt your credit score if you're closing accounts you've had for a long time. But it might end up being more helpful to your credit down the line if it helps you pay off your debt and stay out of it.
 
 ## Borrowing from Retirement
 
-I would consider this your *absolutely last resort*. You should leave your retirement savings alone at all costs. However, it is an option for consolidation if you need it. Basically, you take a loan from your retirement account to pay off existing debt. Different employers have different rules, but typically 
+I would consider this your *absolutely last resort*. You should leave your retirement savings alone at all costs. However, it is an option for consolidation if you need it. Basically, you take a loan from your retirement account to pay off existing debt. Different employers have different rules, but typically
 
-A big downside is that if you left your employer for a new job, you'd have to pay back the amount you owe right away. And more importantly, this option can set you back in your retirement savings. As they say, compound interest is king. So if you're pulling money out of your 401k to pay off debt, that means it's given less time to grow upon itself in the stock market. 
+A big downside is that if you left your employer for a new job, you'd have to pay back the amount you owe right away. And more importantly, this option can set you back in your retirement savings. As they say, compound interest is king. So if you're pulling money out of your 401k to pay off debt, that means it's given less time to grow upon itself in the stock market.
 
 It's important to remember that debt consolidation does not mean your debt is going away. It's not a magic eraser. You still have to work to pay down your debt in its new form. And the most important thing to remember is that you must continue to be careful with your spending. It can be very easy to build up debt again after you've consolidated. If you tend to struggle with credit card debt, *stop using your credit cards* after you consolidate. Otherwise, you may find yourself in this situation again in a couple years.
 
