@@ -29,25 +29,39 @@ One downside of this option is that there can be an origination fee for the loan
 
 Another thing to look for is whether or not the loan provider charges penalties for paying off your loan early. You want to make sure to choose a company that will not penalize you if you manage to pay your loan off ahead of schedule. So make sure to read the fine print and ask questions!
 
+*For a list of companies that offer personal loans, [check out this article](https://www.thesimpledollar.com/best-unsecured-loans/1017/).*
+
 ## Balance Transfer
 
-I'm sure you've seen many credit cards out there that offer balance transfers for 0% interest for a period of time. These allow you to transfer the balances from other credit cards to just one card that doesn't charge interest for the introductory period. This can be a great way to save on big interest fees that you are paying on your existing credit cards.
+I'm sure you've seen many credit cards out there that offer balance transfers for 0% interest for a period of time. These cards allow you to transfer the balances from other credit cards to just one card that doesn't charge interest for the introductory period. This can be a great way to save on big interest fees that you are paying on your existing credit cards. It's also a nice way to simplify your bills so you only have to focus on paying down one card each month.
 
-One downside of this option is that there is usually an origination fee for your balance transfer. That means that you are charged a lump sum that equals a small percentage of the debt you're transferring. Depending on the amount of debt, that sum can be a lot of money.
+One downside of this option is that there is usually an origination fee for your balance transfer. That means that you are charged a lump sum that equals a small percentage of the debt you're transferring. Depending on the amount of debt, that sum can be a lot of money. Plus, once the introductory period is over, the interest rate will go way up. That means if you don't pay off your debt during that initial period, you will have to start paying interest on it again later. 
 
 Make sure you don't add any new spending to the card you've transferred your balances to. You want to make sure you only need to pay back the amount you transferred, not any additional debt. It's also important to stop using the credit cards you already had. You don't want to get stuck in a pattern of transferring your debt over and over and never seeing the end.
+
+*For an in-depth list of balance transfer cards, [check out this article](https://www.creditkarma.com/credit-cards/i/best-balance-transfer-cards/).*
 
 ## Home Equity Loan
 
 This consolidation option only applies to people who own a home. When you own a home, your property (hopefully) appreciates in value over time. This is especially true if your area is becoming more popular or experiencing more development. When this happens, your house is worth more than you originally paid for it, which means you have more equity in the home. A home equity loan, or a home equity line of credit (HELOC), allows you to borrow against that equity. Some people use that money to pay for improvements on the house, but you aren't required to do so. You can borrow against the equity of your home for anything you want.
 
-With a home equity loan, you borrow an amount
+With a home equity loan, the interest rates tend to be much lower than a credit card. This can save you money in interest over time. However, a home equity loan is kind of viewed as a second mortgage, so closing costs can be involved. Closing costs can add up to quite a bit of money, so it's important to weigh the costs of your credit card interest versus your home equity loan closing costs.
+
+A HELOC is different because it is like a second mortgage, but actually functions more like a credit card. Instead of borrowing a lump sum, you borrow against your equity as you need it. In this case, you only pay interest on the amount that you actually borrow, not the amount that is available to you.
+
+Of course, it's important to remember that you're borrowing money against your own home. So you're effectively using your house as collateral to pay off your other debts. That can get dangerous if you're having trouble paying back the home equity loan, so make sure to only borrow what you know you can afford to pay back.
+
+*For more information about home equity loans, [check out this article](https://www.creditkarma.com/credit-cards/i/best-balance-transfer-cards/). For more information about home equity lines of credit, [check out this article](https://www.nerdwallet.com/blog/mortgages/home-equity-line-credit-heloc-reasons/).*
 
 ## Working With a Credit Counselor
 
-In this scenario, you work with a third party, a credit counseling organization, that handles the consolidation for you. With this option, all of your credit cards are closed and you pay one monthly payment to the organization, which then applies the money to the creditors you owe.
+In this scenario, you work with a third party, a credit counseling organization, that handles the debt consolidation for you. With this option, all of your credit cards are closed and you pay one monthly payment to the organization, which then pays the money to the creditors you owe.
 
-A downside of this option is that your accounts are closed. This can hurt your credit score if you're closing accounts you've had for a long time. But it might end up being more helpful to your credit down the line if it helps you pay off your debt and stay out of it.
+This is a good option for you if you really struggle with overspending and have a hard time getting and staying out of debt. It also simplifies your debt into one standard payment over a set amount of time. 
+
+A potential downside of this option is that your credit card accounts are closed. This can hurt your credit score if you're closing accounts you've had for a long time. But it might end up being more helpful to your credit down the line if it helps you pay off your debt and stay out of it.
+
+*For more information on choosing a credit counselor, [check out this article](https://www.consumer.ftc.gov/articles/0153-choosing-credit-counselor) from the Federal Trade Commission.*
 
 ## Borrowing from Retirement
 
