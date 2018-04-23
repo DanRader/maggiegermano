@@ -65,13 +65,13 @@ A potential downside of this option is that your credit card accounts are closed
 
 ## Borrowing from Retirement
 
-I would consider this your *absolutely last resort*. You should leave your retirement savings alone at all costs. However, it is an option for consolidation if you need it. Basically, you take a loan from your retirement account to pay off existing debt. Different employers have different rules, but typically
+I would consider this your *absolutely last resort*. You should leave your retirement savings alone at all costs. However, it is an option for consolidation if you really need it. Basically, you take a loan from your retirement account to pay off existing debt. Different employers have different rules, but typically
 
 A big downside is that if you left your employer for a new job, you'd have to pay back the amount you owe right away. And more importantly, this option can set you back in your retirement savings. As they say, compound interest is king. So if you're pulling money out of your 401k to pay off debt, that means it's given less time to grow upon itself in the stock market. And don't forget, you can't take out a loan for retirement. 
 
-It's important to remember that debt consolidation does not mean your debt is going away. It's not a magic eraser. You still have to work to pay down your debt in its new form. And the most important thing to remember is that you must continue to be careful with your spending. It can be very easy to build up debt again after you've consolidated. If you tend to struggle with credit card debt, *stop using your credit cards* after you consolidate. Otherwise, you may find yourself in this situation again in a couple years.
-
 *For more information about 401k loans, [check out this article](https://www.fidelity.com/viewpoints/financial-basics/avoiding-401k-loans).*
+
+It's important to remember that debt consolidation does not mean your debt is going away. It's not a magic eraser. You still have to work to pay down your debt in its new form. And the most important thing to remember is that you must continue to be careful with your spending. It can be very easy to build up debt again after you've consolidated. If you tend to struggle with credit card debt, *stop using your credit cards* after you consolidate. Otherwise, you may find yourself in this situation again in a couple years.
 
 --
 
