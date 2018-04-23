@@ -21,7 +21,7 @@ All that said, having many different accounts to worry about, and having variabl
 
 ## Personal Loan
 
-A personal loan is a loan you can take out to basically pay for anything. The good thing about personal loans is they tend to have lower interest rates than credit cards. I've seen rates as low as 5 percent, which can save you a lot of money in interest. It's also a helpful way to borrow a larger sum and pay off your multiple credit cards and then only have one low-interest bill to pay back. (Don't forget: your [credit score](https://www.maggiegermano.com/blog/care-about-your-credit-score) will determine the interest rate that you are given.)
+A personal loan is a loan you can take out to basically pay for anything. The good thing about personal loans is they tend to have lower interest rates than credit cards. I've seen rates as low as 5%, which can save you a lot of money in interest. It's also a helpful way to borrow a larger sum and pay off your multiple credit cards and then only have one low-interest bill to pay back. (Don't forget: your [credit score](https://www.maggiegermano.com/blog/care-about-your-credit-score) will determine the interest rate that you are given.)
 
 A personal loan will be deposited into your bank account as a lump sum as soon as it's approved and you sign the agreement. DON'T SPEND THIS CASH ON ANYTHING ELSE. Immediately apply the amount towards the debt that you are paying off. I once had a client who started spending the money from her personal loan while it was still in her bank account. This made it so that she wasn't able to pay off the full amount on her credit cards like she planned.
 
@@ -31,7 +31,7 @@ Another thing to look for is whether or not the loan provider charges penalties 
 
 ## Balance Transfer
 
-I'm sure you've seen many credit cards out there that offer balance transfers for 0 percent interest for a period of time. These allow you to transfer the balances from other credit cards to just one card that doesn't charge interest for the introductory period. This can be a great way to save on big interest fees that you are paying on your existing credit cards.
+I'm sure you've seen many credit cards out there that offer balance transfers for 0% interest for a period of time. These allow you to transfer the balances from other credit cards to just one card that doesn't charge interest for the introductory period. This can be a great way to save on big interest fees that you are paying on your existing credit cards.
 
 One downside of this option is that there is usually an origination fee for your balance transfer. That means that you are charged a lump sum that equals a small percentage of the debt you're transferring. Depending on the amount of debt, that sum can be a lot of money.
 
