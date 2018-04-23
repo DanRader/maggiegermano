@@ -10,7 +10,7 @@ location: Private Eastern Market Residence (right near metro)
 button-text: Sign Me Up!
 ---
 
-If you're in a certain age range, you probably feel like everyone in the world is getting married at the same time. I hear you! A few years ago, I went to EIGHT weddings in one year. It was insane. 
+If you're within a certain age range, you probably feel like everyone in the world is getting married at the same time. I hear you! A few years ago, I went to EIGHT weddings in one year. It was insane. And these occasions, and everything associated with them, can add up very quickly. 
 
 --
 
