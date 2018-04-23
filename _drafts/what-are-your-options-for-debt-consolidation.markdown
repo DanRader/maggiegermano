@@ -61,6 +61,8 @@ This is a good option for you if you really struggle with overspending and have 
 
 A potential downside of this option is that your credit card accounts are closed. This can hurt your credit score if you're closing accounts you've had for a long time. But it might end up being more helpful to your credit down the line if it helps you pay off your debt and stay out of it.
 
+*For more information on choosing a credit counselor, [check out this article](https://www.consumer.ftc.gov/articles/0153-choosing-credit-counselor) from the Federal Trade Commission.*
+
 ## Borrowing from Retirement
 
 I would consider this your *absolutely last resort*. You should leave your retirement savings alone at all costs. However, it is an option for consolidation if you need it. Basically, you take a loan from your retirement account to pay off existing debt. Different employers have different rules, but typically
