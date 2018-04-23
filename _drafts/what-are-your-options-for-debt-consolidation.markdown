@@ -45,9 +45,13 @@ Make sure you don't add any new spending to the card you've transferred your bal
 
 This consolidation option only applies to people who own a home. When you own a home, your property (hopefully) appreciates in value over time. This is especially true if your area is becoming more popular or experiencing more development. When this happens, your house is worth more than you originally paid for it, which means you have more equity in the home. A home equity loan, or a home equity line of credit (HELOC), allows you to borrow against that equity. Some people use that money to pay for improvements on the house, but you aren't required to do so. You can borrow against the equity of your home for anything you want.
 
-With a home equity loan, the interest rates tend to be much lower than a credit card. This can save you money in interest over time.
+With a home equity loan, the interest rates tend to be much lower than a credit card. This can save you money in interest over time. However, a home equity loan is kind of viewed as a second mortgage, so closing costs can be involved. Closing costs can add up to quite a bit of money, so it's important to weigh the costs of your credit card interest versus your home equity loan closing costs.
+
+A HELOC is different because it is like a second mortgage, but actually functions more like a credit card. Instead of borrowing a lump sum, you borrow against your equity as you need it. In this case, you only pay interest on the amount that you actually borrow, not the amount that is available to you.
 
 Of course, it's important to remember that you're borrowing money against your own home. So you're effectively using your house as collateral to pay off your other debts. That can get dangerous if you're having trouble paying back the home equity loan, so make sure to only borrow what you know you can afford to pay back.
+
+*For more information about home equity loans, [check out this article](https://www.creditkarma.com/credit-cards/i/best-balance-transfer-cards/). For more information about home equity lines of credit, [check out this article](https://www.nerdwallet.com/blog/mortgages/home-equity-line-credit-heloc-reasons/).*
 
 ## Working With a Credit Counselor
 
