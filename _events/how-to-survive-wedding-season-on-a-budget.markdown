@@ -1,13 +1,15 @@
 ---
 title: How to Survive Wedding Season on a Budget
 date: 2018-05-15 18:30:00 -04:00
-published: false
 image: "/uploads/dinner.jpg"
 og-image: "/uploads/Money%20Circle%20Photos%20(7).png"
+event-date: 2018-05-15 18:30:00 -04:00
 start-time: 6:30PM
 end-time: 8:30PM
 location: Private Eastern Market Residence (right near metro)
 button-text: Sign Me Up!
+button-link: https://www.eventbrite.com/e/money-circle-how-to-survive-wedding-season-on-a-budget-tickets-45445985165
+ticket-price: "$20"
 ---
 
 If you're within a certain age range, you probably feel like everyone in the world is getting married at the same time. I hear you! A few years ago, I went to EIGHT weddings in one year. It was insane. And it's not just the wedding itself. There's bridal showers, bachelor/bachelorette parties, travel, gifts, etc. Weddings can add up FAST, and not just for the couple tying the knot. 
