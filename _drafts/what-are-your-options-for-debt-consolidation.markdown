@@ -41,7 +41,9 @@ Make sure you don't add any new spending to the card you've transferred your bal
 
 This consolidation option only applies to people who own a home. When you own a home, your property (hopefully) appreciates in value over time. This is especially true if your area is becoming more popular or experiencing more development. When this happens, your house is worth more than you originally paid for it, which means you have more equity in the home. A home equity loan, or a home equity line of credit (HELOC), allows you to borrow against that equity. Some people use that money to pay for improvements on the house, but you aren't required to do so. You can borrow against the equity of your home for anything you want.
 
-With a home equity loan, you borrow an amount
+With a home equity loan, the interest rates tend to be much lower than a credit card. This can save you money in interest over time.
+
+Of course, it's important to remember that you're borrowing money against your own home. So you're effectively using your house as collateral to pay off your other debts. That can get dangerous if you're having trouble paying back the home equity loan, so make sure to only borrow what you know you can afford to pay back.
 
 ## Working With a Credit Counselor
 
