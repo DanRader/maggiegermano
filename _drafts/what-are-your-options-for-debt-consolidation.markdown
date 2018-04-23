@@ -29,6 +29,8 @@ One downside of this option is that there can be an origination fee for the loan
 
 Another thing to look for is whether or not the loan provider charges penalties for paying off your loan early. You want to make sure to choose a company that will not penalize you if you manage to pay your loan off ahead of schedule. So make sure to read the fine print and ask questions!
 
+*For a list of companies that offer personal loans, [check out this article](https://www.thesimpledollar.com/best-unsecured-loans/1017/).*
+
 ## Balance Transfer
 
 I'm sure you've seen many credit cards out there that offer balance transfers for 0% interest for a period of time. These cards allow you to transfer the balances from other credit cards to just one card that doesn't charge interest for the introductory period. This can be a great way to save on big interest fees that you are paying on your existing credit cards. It's also a nice way to simplify your bills so you only have to focus on paying down one card each month.
@@ -36,6 +38,8 @@ I'm sure you've seen many credit cards out there that offer balance transfers fo
 One downside of this option is that there is usually an origination fee for your balance transfer. That means that you are charged a lump sum that equals a small percentage of the debt you're transferring. Depending on the amount of debt, that sum can be a lot of money. Plus, once the introductory period is over, the interest rate will go way up. That means if you don't pay off your debt during that initial period, you will have to start paying interest on it again later. 
 
 Make sure you don't add any new spending to the card you've transferred your balances to. You want to make sure you only need to pay back the amount you transferred, not any additional debt. It's also important to stop using the credit cards you already had. You don't want to get stuck in a pattern of transferring your debt over and over and never seeing the end.
+
+*For an in-depth list of balance transfer cards, [check out this article](https://www.creditkarma.com/credit-cards/i/best-balance-transfer-cards/).*
 
 ## Home Equity Loan
 
