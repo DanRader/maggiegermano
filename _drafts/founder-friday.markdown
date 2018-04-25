@@ -1,6 +1,12 @@
 ---
 title: Founder Friday |
-date: 2018-04-25 16:25:00 -04:00
+date: 2018-04-27 13:00:00 -04:00
+categories:
+- founder friday
+posts:
+- Founder Friday | Money Circle, Popcorn Finance, Roxane Gay
+- Founder Friday | Yard Work, Certification, Makeup
+- Founder Friday | Passover, Fun Fund, Varnish Lane
 ---
 
 xx
