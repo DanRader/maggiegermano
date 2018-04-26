@@ -32,11 +32,15 @@ This week, I wrote about [debt consolidation](https://www.maggiegermano.com/blog
 
 ## What I’m Excited About
 
-* XX
+* I was quoted in [The Atlantic](https://www.theatlantic.com/family/archive/2018/04/young-couples-separate-bank-accounts/558473/) last week! 
 
 ## What I’m Up To
 
 * The [May Money Circle](https://www.maggiegermano.com/events/how-to-survive-wedding-season-on-a-budget/) event is up! Next month, we'll be talking about how to survive wedding season on a budget. We'll be in Eastern Market for the evening. See you there?
+
+* I'm teaming up with life and career coach [Noelle Janka](http://www.noellejanka.com/) for a [webinar on May 10th](https://www.maggiegermano.com/other-events/webinar-how-to-take-control-of-your-money/)! I'll be talking to attendees about how they can take control of their money and set financial goals that align with their values. If you use the code "WEBINAR", you get 50% off the registration cost! 
+
+[![Money Circle Photos (7)-4fc5e0.png](/uploads/Money%20Circle%20Photos%20(7)-4fc5e0.png)](https://www.maggiegermano.com/events/how-to-survive-wedding-season-on-a-budget/)
 
 ## Money Tip to Take Into the Weekend
 
