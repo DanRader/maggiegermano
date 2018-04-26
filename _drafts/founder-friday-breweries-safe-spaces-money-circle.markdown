@@ -26,13 +26,19 @@ Happy Friday! I think it's finally, actually spring! I'll be spending most of my
 
 * On Monday, we went to another brewery, [Atlas Brew Works](http://www.atlasbrewworks.com/), in DC for the Safe Space Jam! If you weren't able to make it to the event, you can still [donate](https://donatenow.networkforgood.org/collectiveactiondc) to [Collective Action for Safe Spaces](http://www.collectiveactiondc.org/), if you want to support their efforts to make DC a safer space for all. I was an official sponsor for the event, but we also bought a few extra beers.
 
+* We paid for our weekly [Hungry Harvest](http://hharvest.net/m5didTk) delivery and bought some extra groceries from Trader Joe's.
+
 ## What I’m Writing
 
 This week, I wrote about [debt consolidation](https://www.maggiegermano.com/blog/what-are-your-options-for-debt-consolidation/). It can be difficult to pay down debt when you have many different accounts with different interest rates and due dates. In [this article](https://www.maggiegermano.com/blog/what-are-your-options-for-debt-consolidation/), I give the pros and cons of the different consolidation options. Check it out and let me know what you think!
 
 ## What I’m Excited About
 
-* I was quoted in [The Atlantic](https://www.theatlantic.com/family/archive/2018/04/young-couples-separate-bank-accounts/558473/) last week! 
+* I was quoted in [The Atlantic](https://www.theatlantic.com/family/archive/2018/04/young-couples-separate-bank-accounts/558473/) last week! I spoke to the reporter about why I think millennial couples are more likely to keep their finances separate after they get married? How do you manage your money in your relationship? Share in the comments!
+
+* I'm a true crime fan, so I listen to a lot of podcasts and read books about crimes and criminals. Earlier this week, I was amazed to learn that the man police think is the [Golden State Killer](https://en.wikipedia.org/wiki/Golden_State_Killer) was finally arrested after more than 40 years. I've been binge-listening to the [Casefile](http://casefilepodcast.com/case-53-east-area-rapist-1976-part-1/) podcast series about the crimes ever since. 
+
+![3000x3000_casefile_logo-9a80a9.jpg](/uploads/3000x3000_casefile_logo-9a80a9.jpg)
 
 ## What I’m Up To
 
