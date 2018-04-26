@@ -13,11 +13,13 @@ xx
 
 ## How I Earned Money This Week
 
-* xx
+* None of my clients' payments went through this week, so all my earnings are from Airbnb!
 
 ## How I Spent Money This Week
 
-* Xx
+* Three monthly subscription payments for my business went through this week, and I also spent some money on snacks for Money Circle, as well as a Lyft home from the event.
+
+* On Sunday, Dan and I drove to Leesburg, Virginia to see our friend and wedding officiant, who was in town for a wedding. We went to [Vanish Farmwood Brewery](https://vanishbeer.com/) for a few hours and had some beer and too much food. 
 
 ## What I’m Writing
 
