@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Breweries, Safe Spaces, and Money Circle
 date: 2018-04-27 13:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/beer.jpg"
@@ -50,4 +51,6 @@ This week, I wrote about [debt consolidation](https://www.maggiegermano.com/blog
 
 ## Money Tip to Take Into the Weekend
 
-xx
+Automating is key! You should automate anything you can that will contribute to your financial goals. This takes the pressure off of you, so you know that it is happening without having to do anything. So if you're trying to save, set up direct deposit from your paycheck. If you're paying down your debt, set up auto-pay. And always, always sign up for the retirement plan at work. 
+
+That's all from me this week. Have a great weekend!
