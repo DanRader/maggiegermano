@@ -12,7 +12,7 @@ posts:
 - Founder Friday | Passover, Fun Fund, Varnish Lane
 ---
 
-Happy Friday! I think it's finally, actually spring! I'll be spending most of my time inside for the final weekend of the current cohort of [CoachDiversity Institute](http://coachdiversity.com/), but I do plan to take advantage of the warmth during our breaks. Here's what I was up to this week!
+Happy Friday! I think it's finally, actually spring! I'll be spending most of my time this weekend inside at the final weekend of the current cohort of [CoachDiversity Institute](http://coachdiversity.com/), but I do plan to take advantage of the warmth during our breaks. Here's what I was up to this week!
 
 ## How I Earned Money This Week
 
