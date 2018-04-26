@@ -17,7 +17,7 @@ xx
 
 ## How I Spent Money This Week
 
-* Three monthly subscription payments for my business went through this week, and I also spent some money on snacks for Money Circle, as well as a Lyft home from the event.
+* Three monthly subscription payments for my business went through this week, and I also spent some money on snacks for [Money Circle](https://www.maggiegermano.com/moneycircle/), as well as a Lyft home from the event.
 
 * On Sunday, Dan and I drove to Leesburg, Virginia to see our friend and wedding officiant, who was in town for a wedding. We went to [Vanish Farmwood Brewery](https://vanishbeer.com/) for a few hours and had some beer and too much food. 
 
@@ -33,7 +33,7 @@ XX
 
 ## What I’m Up To
 
-* XX
+* The [May Money Circle](https://www.maggiegermano.com/events/how-to-survive-wedding-season-on-a-budget/) event is up! Next month, we'll be talking about how to survive wedding season on a budget. We'll be in Eastern Market for the evening. See you there?
 
 ## Money Tip to Take Into the Weekend
 
