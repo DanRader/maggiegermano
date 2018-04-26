@@ -3,13 +3,16 @@ title: Founder Friday | Breweries, Safe Spaces, and
 date: 2018-04-27 13:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/beer.jpg"
+tweet: 'TGIF, folks! Check out this #FounderFriday to see how I spent and earned money
+  this week.'
 posts:
 - Founder Friday | Money Circle, Popcorn Finance, Roxane Gay
 - Founder Friday | Yard Work, Certification, Makeup
 - Founder Friday | Passover, Fun Fund, Varnish Lane
 ---
 
-xx
+Happy Friday! I think it's finally, actually spring! I'll be spending most of my time inside for the final weekend of the current cohort of [CoachDiversity Institute](http://coachdiversity.com/), but I do plan to take advantage of the warmth during our breaks. Here's what I was up to this week!
 
 ## How I Earned Money This Week
 
@@ -25,7 +28,7 @@ xx
 
 ## What I’m Writing
 
-XX
+This week, I wrote about [debt consolidation](https://www.maggiegermano.com/blog/what-are-your-options-for-debt-consolidation/). It can be difficult to pay down debt when you have many different accounts with different interest rates and due dates. In [this article](https://www.maggiegermano.com/blog/what-are-your-options-for-debt-consolidation/), I give the pros and cons of the different consolidation options. Check it out and let me know what you think!
 
 ## What I’m Excited About
 
