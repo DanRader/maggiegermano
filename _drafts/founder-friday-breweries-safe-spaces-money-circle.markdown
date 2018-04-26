@@ -16,7 +16,7 @@ Happy Friday! I think it's finally, actually spring! I'll be spending most of my
 
 ## How I Earned Money This Week
 
-* None of my clients' payments went through this week, so all my earnings are from Airbnb!
+* None of my clients' payments went through this week, so all my earnings are from our Airbnb!
 
 ## How I Spent Money This Week
 
