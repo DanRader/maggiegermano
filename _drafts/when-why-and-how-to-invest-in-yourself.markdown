@@ -30,11 +30,21 @@ Sometimes wanting to do something important for yourself is reason enough to do 
 
 ## Why to Invest in Yourself
 
-You Deserve It
+**You Deserve It**
 
-Your Happiness Matters
+xx
 
-It's Worth It In the Long Run
+**You Have to In Order to Advance**
+
+Say you wake up one day and realize that your dream is to become a nurse and dedicate your life to helping people. You can't just apply to be a nurse somewhere, you have to go to nursing school. 
+
+There are many other scenarios where additional schooling or certifications are needed in order to advance in your career and/or income. These are times when it's almost essential to make an investment in yourself. 
+
+**Your Happiness Matters**
+
+xx
+
+**It's Worth It In the Long Run**
 
 It can be hard to spend money and time on something up front, especially if the investment is larger than you typically spend. However, sometimes investments will save or earn you money in the long run.
 
@@ -46,15 +56,21 @@ For example, investing in a service like financial coaching can end up saving yo
 
 **Ask Your Employer**
 
-x
+It's easy to forget this, but many employers include professional development in their organizational budget. It's a great way to help employees build their skills and advance in their career. It's also a great way to keep employees happy. If you're already employed, ask your boss or HR department if they pay for professional development. If you're applying or interviewing for jobs, make that one of your important questions. 
+
+My previous employer paid for me to attend conferences and trainings like Bossed Up Bootcamp. I wasn't sure if they would go for it, but I made my case, and they said yes! And remember, the worst that can happen is they say no. But the best that can happen is you get experiences that you might never have gotten otherwise. 
 
 **Save Up** 
 
-x
+One of my clients has created a "personal and professional development fund". It's a savings account that is specifically for things that will advance her on a personal and professional level. For her, this includes coaching training, painting classes 
 
 **Cut Back on Spending**
 
-x
+You'd be surprised at what you can afford when you scrutinize your spending. One of my former clients wasn't sure if she could afford financial coaching. After 3 months of working together, she realized she was able to live life normally, without missing my fee. Now that we're no longer working together, she's decided to put that money into savings every month, since she was able to live without it every month.
+
+So put yourself on a tight budget and cut back on the things that you don't need or truly want. This might bring up feelings of scarcity in you, but you should keep your eye on the big picture. You're making a short-term sacrifice now so that you'll have long-term gain later. 
+
+As my friend and life and career coach, [Noelle Janka](http://www.noellejanka.com/), said: "It's hard to have joy in discipline if you don't know what it's for." Get clear on why you're making this sacrifice now, so that you're investing in yourself, and improving your life later. Finding your why and keeping it in the forefront of your mind will make this process so much easier. And the reward will be so much sweeter!
 
 **Take Out a Loan**
 
