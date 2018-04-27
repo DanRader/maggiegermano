@@ -12,7 +12,7 @@ posts:
 - Why It's Important to Get Your Money Right (As a Woman)
 ---
 
-When you hear people talk about investing, you probably think about the stock market and your retirement account. But do you also think about other ways that you can invest in yourself? This could be furthering your education, 
+When you hear people talk about investing, you probably think about the stock market and your retirement account. But do you also think about other ways that you can invest in yourself? This could be furthering your education, hiring a coach or therapist, starting a business... the list is endless! 
 
 ## When to Invest in Yourself
 
