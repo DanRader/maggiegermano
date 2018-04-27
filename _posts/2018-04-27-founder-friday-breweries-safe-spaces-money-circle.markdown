@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Breweries, Safe Spaces, and Money Circle
 date: 2018-04-27 13:00:00 -04:00
-published: false
 categories:
 - founder friday
 image: "/uploads/beer.jpg"
