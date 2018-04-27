@@ -62,7 +62,11 @@ My previous employer paid for me to attend conferences and trainings like Bossed
 
 **Save Up** 
 
-One of my clients has created a "personal and professional development fund". It's a savings account that is specifically for things that will advance her on a personal and professional level. For her, this includes coaching training, painting classes 
+One of my clients has created a "personal and professional development fund". It's a savings account that is specifically for things that will advance her on a personal and professional level. For her, this includes coaching training, painting classes, and other things that bring her joy and fulfillment. 
+
+Another client started a savings account for grad school. She knows she won't be able to save up the full amount of tuition by the time she goes, but the amount she'll save will make her life a lot easier once it's time. 
+
+So open up a savings account just for investing in yourself. Automate a set amount to go into it every month. 
 
 **Cut Back on Spending**
 
@@ -75,5 +79,7 @@ As my friend and life and career coach, [Noelle Janka](http://www.noellejanka.co
 **Take Out a Loan**
 
 This wouldn't always be a recommended option for investing in yourself. However, if you're going back to school, buying property, or starting a business, it might make sense to take out a loan. This can be scary
+
+--
 
 Have I inspired you to invest in your financial future? [Schedule a free discovery call](https://maggiegermanofinancialcoaching.as.me/discovery) with me! As a financial coach, I give women the support and tools they need to take control of their money.
