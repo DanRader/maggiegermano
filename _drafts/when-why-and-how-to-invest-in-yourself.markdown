@@ -14,4 +14,24 @@ posts:
 
 When you hear people talk about investing, you probably think about the stock market and your retirement account. But do you also think about other ways that you can invest in yourself?
 
+## When to Invest in Yourself
+
+You're Feeling Lost
+
+You Can't Do It On Your Own
+
+## Why to Invest in Yourself
+
+You Deserve It
+
+Your Happiness Matters
+
+## How to Invest in Yourself
+
+Ask Your Employer
+
+Save Up 
+
+Cut Back on Spending
+
 Have I inspired you to invest in your financial future? [Schedule a free discovery call](https://maggiegermanofinancialcoaching.as.me/discovery) with me! As a financial coach, I give women the support and tools they need to take control of their money.
