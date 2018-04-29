@@ -20,6 +20,8 @@ When you hear people talk about investing, you probably think about the stock ma
 
 x
 
+Three years ago, I was feeling aimless, depressed, and scared. I had no idea what I wanted to do with my life. I realized I could not continue with my status quo, so I looked around... So I signed up for Bossed Up Bootcamp and eventually 
+
 **You Can't Do It On Your Own**
 
 x
