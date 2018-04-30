@@ -22,7 +22,7 @@ When you hear people talk about investing, you probably think about the stock ma
 
 Have you ever heard of throwing spaghetti at the wall and seeing what sticks? Sometimes you might have to metaphorically do that in your life if you're feeling lost or unclear. 
 
-Three years ago, I was feeling aimless, depressed, and scared. I had no idea what I wanted to do with my life. I realized I could not continue with my status quo, so I looked around... So I signed up for Bossed Up Bootcamp and eventually 
+Three years ago, I was feeling aimless, depressed, and scared. I had no idea what I wanted to do with my life. I realized I could not continue with my status quo, so I looked around... So I signed up for [Bossed Up Bootcamp](https://bossedup.org/bootcamp/) and eventually I enrolled to be trained as a coach by [CoachDiversity Institute](http://www.coachdiversity.com). 
 
 **You Can't Do It On Your Own**
 
