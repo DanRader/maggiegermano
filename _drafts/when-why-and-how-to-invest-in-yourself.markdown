@@ -42,9 +42,9 @@ Many people, especially women, feel like they are selfish if they do things that
 
 **You Have to In Order to Advance**
 
-Say you wake up one day and realize that your dream is to become a nurse and dedicate your life to helping people. You can't just apply to be a nurse somewhere, you have to go to nursing school.
+Say you wake up one day and realize that your dream is to become a nurse and dedicate your life to helping people heal. You can't just apply to be a nurse somewhere, you have to go to nursing school. So in order to make this dream come true, you have to apply to nursing school and pay for tuition. You may even have to cut back on your current job in order to make room for the coursework. This scenario would require paying for tuition up front or taking out loans.
 
-There are many other scenarios where additional schooling or certifications are needed in order to advance in your career and/or income. These are times when it's almost essential to make an investment in yourself.
+There are many other scenarios where additional schooling or certifications are needed in order to advance in your career and/or income. These are times when it's almost essential to make an investment in yourself. The idea is that these investments will further your career so that you become more successful and earn more money over time.
 
 **Your Happiness Matters**
 
