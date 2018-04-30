@@ -42,9 +42,9 @@ Many people, especially women, feel like they are selfish if they do things that
 
 **You Have to In Order to Advance**
 
-Say you wake up one day and realize that your dream is to become a nurse and dedicate your life to helping people. You can't just apply to be a nurse somewhere, you have to go to nursing school.
+Say you wake up one day and realize that your dream is to become a nurse and dedicate your life to helping people heal. You can't just apply to be a nurse somewhere, you have to go to nursing school. So in order to make this dream come true, you have to apply to nursing school and pay for tuition. You may even have to cut back on your current job in order to make room for the coursework. This scenario would require paying for tuition up front or taking out loans.
 
-There are many other scenarios where additional schooling or certifications are needed in order to advance in your career and/or income. These are times when it's almost essential to make an investment in yourself.
+There are many other scenarios where additional schooling or certifications are needed in order to advance in your career and/or income. These are times when it's almost essential to make an investment in yourself. The idea is that these investments will further your career so that you become more successful and earn more money over time.
 
 **Your Happiness Matters**
 
@@ -72,7 +72,7 @@ One of my clients has created a "personal and professional development fund". It
 
 Another client started a savings account for grad school. She knows she won't be able to save up the full amount of tuition by the time she goes, but the amount she'll save will make her life a lot easier once it's time.
 
-So open up a savings account just for investing in yourself. Automate a set amount to go into it every month.
+So open up a [savings account](https://www.maggiegermano.com/blog/pay-yourself-first/) just for investing in yourself. Automate a set amount to go into it every month.
 
 **Cut Back on Spending**
 
