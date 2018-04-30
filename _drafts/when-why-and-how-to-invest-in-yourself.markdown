@@ -68,13 +68,11 @@ My previous employer paid for me to attend conferences and trainings like [Bosse
 
 **Save Up**
 
-One of my clients has created a "personal and professional development fund". It's a savings account that is specifically for things that will advance her on a personal and professional level. For her, this includes coaching training, painting classes, and other things that bring her joy and fulfillment.
+One of my clients has created a "personal and professional development fund". It's a savings account that is specifically for things that will advance her on a personal and professional level. For her, this includes coaching training, painting classes, and other things that bring her joy and fulfillment. Another client started a savings account for grad school. She knows she won't be able to save up the full amount of tuition by the time she goes, but the amount she'll save will make her life a lot easier once it's time. 
 
-Another client started a savings account for grad school. She knows she won't be able to save up the full amount of tuition by the time she goes, but the amount she'll save will make her life a lot easier once it's time. 
+I personally have a savings account for travel. Being able to travel every year is really important to me, and it improves my quality of life. 
 
-I personally have a savings account for travel. Being able to travel every year is really important to me, and it improves my life. 
-
-So open up a [savings account](https://www.maggiegermano.com/blog/pay-yourself-first/) just for investing in yourself. Automate a set amount to go into it every month.
+So open up a [savings account](https://www.maggiegermano.com/blog/pay-yourself-first/) just for investing in yourself. Automate a set amount to go into it every month. That way, you won't have to think about it, and the money will grow without too much effort from you. 
 
 **Cut Back on Spending**
 
