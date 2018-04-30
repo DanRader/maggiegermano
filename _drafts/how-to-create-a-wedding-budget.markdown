@@ -23,6 +23,8 @@ At one point in my life, I almost considered myself a professional wedding guest
 
 ## Find Out How Expensive Local Vendors Are
 
+This is where I definitely screwed up. I had never planned a wedding before, so I had no idea how  much things cost. It's even more expensive being in the Washington, DC area. I knew it would be too expensive to get married in the actual city, but I didn't realize how much it would cost to get married within a 50-mile radius. I also didn't know 
+
 ## Open a Savings Account Specifically for Your Wedding
 
 ## Automate Deposits into the Account
