@@ -63,7 +63,7 @@ For example, investing in a service like financial coaching can end up saving yo
 
 **Get Clear on Your Budget**
 
-It's really hard to make a plan or start saving if you don't know where you're starting from. So the first step should always be to make a budget. Add up what you're bringing in every month, add up what expenses you absolutely have to pay every month, see how much you typically spend on other things like groceries, calculate how much goes to debt, and then do the math to see what's leftover to save.
+It's really hard to make a plan or start saving if you don't know where you're starting from. So the first step should always be to [make a budget](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/). Add up what you're bringing in every month, add up what expenses you absolutely have to pay every month, see how much you typically spend on other things like groceries, calculate how much goes to debt, and then do the math to see what's leftover to save.
 
 If you don't have enough left over to save for your goals, it's time to figure out where to cut back. Look at your spending habits around dining or Lyft. Those are the two areas that my clients tend to be really shocked by their spending. Track your spending for a month or two and see how much is going to areas like this. If you can cut back on that spending, you'll have a lot left to save.
 
