@@ -20,9 +20,9 @@ When you hear people talk about investing, you probably think about the stock ma
 
 **You're Feeling Lost**
 
-Have you ever heard of throwing spaghetti at the wall and seeing what sticks? Sometimes you might have to metaphorically do that in your life if you're feeling lost or unclear. 
+Have you ever heard of throwing spaghetti at the wall and seeing what sticks? Sometimes you might have to metaphorically do that in your life if you're feeling lost or unclear. If you're looking for inspiration or a new direction, it's worth it to invest in new opportunities to see what moves you.
 
-Three years ago, I was feeling aimless, depressed, and scared. I had no idea what I wanted to do with my life. I realized I could not continue with my status quo, so I looked around... So I signed up for [Bossed Up Bootcamp](https://bossedup.org/bootcamp/) and eventually I enrolled to be trained as a coach by [CoachDiversity Institute](http://www.coachdiversity.com). Yes, these were big investments, but they helped me figure out what I wanted to do with my life and connect me with amazing people. 
+Three years ago, I was feeling aimless, depressed, and scared. I had no idea what I wanted to do with my life. I realized I could not continue with my status quo, so I looked around for compelling opportunities. I signed up for [Bossed Up Bootcamp](https://bossedup.org/bootcamp/), hired a [life coach](http://jessicaleighlyons.com/), and eventually I enrolled to be trained as a coach by [CoachDiversity Institute](http://www.coachdiversity.com). Yes, these were big investments, but they helped me figure out what I wanted to do with my life and connected me with amazing people. 
 
 **You Can't Do It On Your Own**
 
@@ -60,9 +60,9 @@ For example, investing in a service like financial coaching can end up saving yo
 
 **Ask Your Employer**
 
-It's easy to forget this, but many employers include professional development in their organizational budget. It's a great way to help employees build their skills and advance in their career. It's also a great way to keep employees happy. If you're already employed, ask your boss or HR department if they pay for professional development. If you're applying or interviewing for jobs, make that one of your important questions.
+It's easy to forget this, but many employers include professional development in their organizational budget. It's a great way to help employees build their skills and advance in their career. It's also a great way to keep employees happy. If you're already employed, ask your boss or HR department if they pay for professional development. If you're applying or interviewing for jobs, make that one of your [important questions](https://www.maggiegermano.com/blog/non-salary-perks-you-should-ask-for/).
 
-My previous employer paid for me to attend conferences and trainings like Bossed Up Bootcamp. I wasn't sure if they would go for it, but I made my case, and they said yes! And remember, the worst that can happen is they say no. But the best that can happen is you get experiences that you might never have gotten otherwise.
+My previous employer paid for me to attend conferences and trainings like [Bossed Up Bootcamp](http://www.bossedup.org/bootcamp). I wasn't sure if they would go for it, but I made my case, and they said yes! And remember, the worst that can happen is they say no. But the best that can happen is you get experiences that you might never have gotten otherwise.
 
 **Save Up**
 
