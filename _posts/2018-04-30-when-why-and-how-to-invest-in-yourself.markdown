@@ -93,7 +93,7 @@ As my friend and life and career coach, [Noelle Janka](http://www.noellejanka.co
 
 **Take Out a Loan**
 
-This wouldn't always be a recommended option for investing in yourself. Taking out loans or using credit cards to pay for things can be a slippery slope and put you in a bad financial situation. However, if you're going back to school, buying property, or starting a business, it might make sense to take out a loan. Just make sure you weigh the pros and cons of all your options so that you know what the best choice is for you.
+This wouldn't always be a recommended option for investing in yourself. Taking out loans or using credit cards to pay for things can be a slippery slope and put you in a bad financial situation. However, if you're going back to school, [buying property](https://www.maggiegermano.com/blog/financing-options-when-its-time-to-buy/), or [starting a business](https://www.maggiegermano.com/blog/how-to-start-your-own-business/), it might make sense to take out a loan. Just make sure you weigh the pros and cons of all your options so that you know what the best choice is for you.
 
 What are you going to prioritize for yourself? How do you plan to make it happen? Share in the comments, and good luck!
 
