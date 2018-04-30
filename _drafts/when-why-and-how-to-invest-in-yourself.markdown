@@ -72,7 +72,7 @@ One of my clients has created a "personal and professional development fund". It
 
 Another client started a savings account for grad school. She knows she won't be able to save up the full amount of tuition by the time she goes, but the amount she'll save will make her life a lot easier once it's time.
 
-So open up a savings account just for investing in yourself. Automate a set amount to go into it every month.
+So open up a [savings account](https://www.maggiegermano.com/blog/pay-yourself-first/) just for investing in yourself. Automate a set amount to go into it every month.
 
 **Cut Back on Spending**
 
