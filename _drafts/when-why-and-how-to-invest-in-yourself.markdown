@@ -54,7 +54,7 @@ Quality of life should not be overlooked. If something, anything will make you h
 
 It can be hard to spend money and time on something up front, especially if the investment is larger than you typically spend. However, sometimes investments will save or earn you money in the long run.
 
-For example, investing in a service like financial coaching can end up saving you money in the future. Yes, you're paying money up front that might seem like a lot. But through this service, you're improving your relationship with money, you're learning how to create and stick to a budget, you're coming up with a plan to pay down your debt or build up savings, you're setting yourself up for financial success in the future. Results like these can be invaluable.
+For example, investing in a service like financial coaching can end up saving you money in the future. Yes, you're paying money up front that might seem like a lot. But through this service, you're improving your relationship with money, you're learning how to create and stick to a budget, you're coming up with a plan to pay down your debt or build up savings, you're setting yourself up for financial success in the future. Results like these can be invaluable and make it so you actually have more money later on.
 
 *Interested in learning more about [financial coaching](https://www.maggiegermano.com/coaching/)? [Schedule a free call with me](https://maggiegermanofinancialcoaching.as.me/discovery)!*
 
