@@ -70,7 +70,9 @@ My previous employer paid for me to attend conferences and trainings like [Bosse
 
 One of my clients has created a "personal and professional development fund". It's a savings account that is specifically for things that will advance her on a personal and professional level. For her, this includes coaching training, painting classes, and other things that bring her joy and fulfillment.
 
-Another client started a savings account for grad school. She knows she won't be able to save up the full amount of tuition by the time she goes, but the amount she'll save will make her life a lot easier once it's time.
+Another client started a savings account for grad school. She knows she won't be able to save up the full amount of tuition by the time she goes, but the amount she'll save will make her life a lot easier once it's time. 
+
+I personally have a savings account for travel. Being able to travel every year is really important to me, and it improves my life. 
 
 So open up a [savings account](https://www.maggiegermano.com/blog/pay-yourself-first/) just for investing in yourself. Automate a set amount to go into it every month.
 
@@ -78,7 +80,7 @@ So open up a [savings account](https://www.maggiegermano.com/blog/pay-yourself-f
 
 You'd be surprised at what you can afford when you scrutinize your spending. One of my former clients wasn't sure if she could afford financial coaching. After 3 months of working together, she realized she was able to live life normally, without missing my fee. Now that we're no longer working together, she's decided to put that money into savings every month, since she was able to live without it every month.
 
-So put yourself on a tight budget and cut back on the things that you don't need or truly want. This might bring up feelings of scarcity in you, but you should keep your eye on the big picture. You're making a short-term sacrifice now so that you'll have long-term gain later.
+So put yourself on a tight budget and [cut back](https://www.maggiegermano.com/blog/spend-less-money) on the things that you don't need or truly want. This might bring up feelings of scarcity in you, but you should keep your eye on the big picture. You're making a short-term sacrifice now so that you'll have long-term gain later.
 
 As my friend and life and career coach, [Noelle Janka](http://www.noellejanka.com/), said: "It's hard to have joy in discipline if you don't know what it's for." Get clear on why you're making this sacrifice now, so that you're investing in yourself, and improving your life later. Finding your why and keeping it in the forefront of your mind will make this process so much easier. And the reward will be so much sweeter!
 
