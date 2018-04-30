@@ -1,6 +1,7 @@
 ---
 title: When, Why, and How to Invest in Yourself
 date: 2018-04-30 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 - budget
@@ -48,13 +49,13 @@ There are many other scenarios where additional schooling or certifications are 
 
 **Your Happiness Matters**
 
-xx
+Quality of life should not be overlooked. If something, anything will make you happier, it's probably worth doing. Perhaps you want to take dance classes, or learn a new language. Pursue the things that will make you a happier, more engaged person! The key is to be strategic about these things. [Build them into your budget.](https://www.maggiegermano.com/blog/budgeting-for-the-fun-stuff/) You don't want to put yourself in debt (if you can help it), because that will probably hurt your quality of life. 
 
 **It's Worth It In the Long Run**
 
 It can be hard to spend money and time on something up front, especially if the investment is larger than you typically spend. However, sometimes investments will save or earn you money in the long run.
 
-For example, investing in a service like financial coaching can end up saving you money in the future. Yes, you're paying money up front that might seem like a lot. But through this service, you're improving your relationship with money, you're learning how to create and stick to a budget, you're coming up with a plan to pay down your debt or build up savings, you're setting yourself up for financial success in the future. Results like these can be invaluable.
+For example, investing in a service like financial coaching can end up saving you money in the future. Yes, you're paying money up front that might seem like a lot. But through this service, you're improving your relationship with money, you're learning how to create and stick to a budget, you're coming up with a plan to pay down your debt or build up savings, you're setting yourself up for financial success in the future. Results like these can be invaluable and make it so you actually have more money later on.
 
 *Interested in learning more about [financial coaching](https://www.maggiegermano.com/coaching/)? [Schedule a free call with me](https://maggiegermanofinancialcoaching.as.me/discovery)!*
 
@@ -68,17 +69,17 @@ My previous employer paid for me to attend conferences and trainings like [Bosse
 
 **Save Up**
 
-One of my clients has created a "personal and professional development fund". It's a savings account that is specifically for things that will advance her on a personal and professional level. For her, this includes coaching training, painting classes, and other things that bring her joy and fulfillment.
+One of my clients has created a "personal and professional development fund". It's a savings account that is specifically for things that will advance her on a personal and professional level. For her, this includes coaching training, painting classes, and other things that bring her joy and fulfillment. Another client started a savings account for grad school. She knows she won't be able to save up the full amount of tuition by the time she goes, but the amount she'll save will make her life a lot easier once it's time. 
 
-Another client started a savings account for grad school. She knows she won't be able to save up the full amount of tuition by the time she goes, but the amount she'll save will make her life a lot easier once it's time.
+I personally have a savings account for travel. Being able to travel every year is really important to me, and it improves my quality of life. 
 
-So open up a [savings account](https://www.maggiegermano.com/blog/pay-yourself-first/) just for investing in yourself. Automate a set amount to go into it every month.
+So open up a [savings account](https://www.maggiegermano.com/blog/pay-yourself-first/) just for investing in yourself. Automate a set amount to go into it every month. That way, you won't have to think about it, and the money will grow without too much effort from you. 
 
 **Cut Back on Spending**
 
 You'd be surprised at what you can afford when you scrutinize your spending. One of my former clients wasn't sure if she could afford financial coaching. After 3 months of working together, she realized she was able to live life normally, without missing my fee. Now that we're no longer working together, she's decided to put that money into savings every month, since she was able to live without it every month.
 
-So put yourself on a tight budget and cut back on the things that you don't need or truly want. This might bring up feelings of scarcity in you, but you should keep your eye on the big picture. You're making a short-term sacrifice now so that you'll have long-term gain later.
+So put yourself on a tight budget and [cut back](https://www.maggiegermano.com/blog/spend-less-money) on the things that you don't need or truly want. This might bring up feelings of scarcity in you, but you should keep your eye on the big picture. You're making a short-term sacrifice now so that you'll have long-term gain later.
 
 As my friend and life and career coach, [Noelle Janka](http://www.noellejanka.com/), said: "It's hard to have joy in discipline if you don't know what it's for." Get clear on why you're making this sacrifice now, so that you're investing in yourself, and improving your life later. Finding your why and keeping it in the forefront of your mind will make this process so much easier. And the reward will be so much sweeter!
 
@@ -86,7 +87,7 @@ As my friend and life and career coach, [Noelle Janka](http://www.noellejanka.co
 
 This wouldn't always be a recommended option for investing in yourself. Taking out loans or using credit cards to pay for things can be a slippery slope and put you in a bad financial situation. However, if you're going back to school, buying property, or starting a business, it might make sense to take out a loan. Just make sure you weigh the pros and cons of all your options so that you know what the best choice is for you.
 
-Good luck!
+What are you going to prioritize for yourself? How do you plan to make it happen? Share in the comments, and good luck! 
 
 --
 
