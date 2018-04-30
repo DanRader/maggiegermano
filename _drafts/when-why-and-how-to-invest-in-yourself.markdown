@@ -62,7 +62,7 @@ For example, investing in a service like financial coaching can end up saving yo
 
 It's easy to forget this, but many employers include professional development in their organizational budget. It's a great way to help employees build their skills and advance in their career. It's also a great way to keep employees happy. If you're already employed, ask your boss or HR department if they pay for professional development. If you're applying or interviewing for jobs, make that one of your [important questions](https://www.maggiegermano.com/blog/non-salary-perks-you-should-ask-for/).
 
-My previous employer paid for me to attend conferences and trainings like Bossed Up Bootcamp. I wasn't sure if they would go for it, but I made my case, and they said yes! And remember, the worst that can happen is they say no. But the best that can happen is you get experiences that you might never have gotten otherwise.
+My previous employer paid for me to attend conferences and trainings like [Bossed Up Bootcamp](http://www.bossedup.org/bootcamp). I wasn't sure if they would go for it, but I made my case, and they said yes! And remember, the worst that can happen is they say no. But the best that can happen is you get experiences that you might never have gotten otherwise.
 
 **Save Up**
 
