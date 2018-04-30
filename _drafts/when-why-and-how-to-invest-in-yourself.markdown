@@ -26,7 +26,9 @@ Three years ago, I was feeling aimless, depressed, and scared. I had no idea wha
 
 **You Can't Do It On Your Own**
 
-x
+If you're a high functioning, high achiever, you might try to go for things on your own most of the time. But it's important to ask for help when you need it. If you're struggling with mental health issues, you should invest in a good therapist and medication, if necessary. If you're feeling stuck and you want to find solutions to move forward, you should hire a coach to help you with the issues you're struggling with. This could be a career coach, a financial coach, a relationship coach, or whoever specializes in what you want to work on. 
+
+*What kind of support do you need to get to where you want to be? Share in the comments!*
 
 **You Want To**
 
