@@ -32,13 +32,13 @@ If you're a high functioning, high achiever, you might try to go for things on y
 
 **You Want To**
 
-Sometimes wanting to do something important for yourself is reason enough to do it.
+Sometimes wanting to do something important for yourself is reason enough to do it. If there's something you've always wanted to do, like become a yoga instructor, or learn how to make pottery, you should go for it! You don't have to  justify your desire to invest in yourself or try new things. 
 
 ## Why to Invest in Yourself
 
 **You Deserve It**
 
-Many people, especially women, feel like they don't 
+Many people, especially women, feel like they are selfish if they do things that are just for themselves. 
 
 **You Have to In Order to Advance**
 
