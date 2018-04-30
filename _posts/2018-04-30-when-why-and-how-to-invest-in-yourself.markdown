@@ -100,3 +100,5 @@ What are you going to prioritize for yourself? How do you plan to make it happen
 --
 
 *Have I inspired you to invest in your financial future? [Schedule a free discovery call](https://maggiegermanofinancialcoaching.as.me/discovery) with me! As a financial coach, I give women the support and tools they need to take control of their money.*
+
+<script src="https://embeds.nerdwallet.com/embed.js" data-widget="savings-accounts" data-utm_campaign="bk_prod_savings-accounts"></script>
