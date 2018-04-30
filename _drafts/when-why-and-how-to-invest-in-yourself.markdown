@@ -48,7 +48,7 @@ There are many other scenarios where additional schooling or certifications are 
 
 **Your Happiness Matters**
 
-Quality of life should not be overlooked. If something, anything will make you happier, it's probably worth doing. Perhaps you want to take dance classes, or learn a new language. Pursue the things that will make you a happier, more engaged person! The key is to be strategic about these things. You don't want to put yourself in debt, because that will probably hurt your quality of life. 
+Quality of life should not be overlooked. If something, anything will make you happier, it's probably worth doing. Perhaps you want to take dance classes, or learn a new language. Pursue the things that will make you a happier, more engaged person! The key is to be strategic about these things. [Build them into your budget.](https://www.maggiegermano.com/blog/budgeting-for-the-fun-stuff/) You don't want to put yourself in debt (if you can help it), because that will probably hurt your quality of life. 
 
 **It's Worth It In the Long Run**
 
