@@ -20,9 +20,9 @@ When you hear people talk about investing, you probably think about the stock ma
 
 **You're Feeling Lost**
 
-Have you ever heard of throwing spaghetti at the wall and seeing what sticks? Sometimes you might have to metaphorically do that in your life if you're feeling lost or unclear. 
+Have you ever heard of throwing spaghetti at the wall and seeing what sticks? Sometimes you might have to metaphorically do that in your life if you're feeling lost or unclear. If you're looking for inspiration or a new direction, it's worth it to invest in new opportunities to see what moves you.
 
-Three years ago, I was feeling aimless, depressed, and scared. I had no idea what I wanted to do with my life. I realized I could not continue with my status quo, so I looked around... So I signed up for [Bossed Up Bootcamp](https://bossedup.org/bootcamp/) and eventually I enrolled to be trained as a coach by [CoachDiversity Institute](http://www.coachdiversity.com). Yes, these were big investments, but they helped me figure out what I wanted to do with my life and connect me with amazing people. 
+Three years ago, I was feeling aimless, depressed, and scared. I had no idea what I wanted to do with my life. I realized I could not continue with my status quo, so I looked around for compelling opportunities. I signed up for [Bossed Up Bootcamp](https://bossedup.org/bootcamp/), hired a [life coach](http://jessicaleighlyons.com/), and eventually I enrolled to be trained as a coach by [CoachDiversity Institute](http://www.coachdiversity.com). Yes, these were big investments, but they helped me figure out what I wanted to do with my life and connected me with amazing people. 
 
 **You Can't Do It On Your Own**
 
