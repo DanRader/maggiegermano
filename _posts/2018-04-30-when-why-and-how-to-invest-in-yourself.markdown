@@ -15,7 +15,7 @@ posts:
 
 When you hear people talk about investing, you probably think about the stock market and your retirement account. But do you also think about other ways that you can invest in yourself? This could be furthering your education, hiring a coach or therapist, starting a business... the list is endless! And these types of investment are just as important as saving for retirement, but don't always seem that way. So here are the times I think you should invest in yourself and how to make it happen.
 
->  And these types of investment are just as important as saving for retirement, but don't always seem that way.
+> And these types of investment are just as important as saving for retirement, but don't always seem that way.
 
 ## When to Invest in Yourself
 
@@ -23,23 +23,23 @@ When you hear people talk about investing, you probably think about the stock ma
 
 Have you ever heard of throwing spaghetti at the wall and seeing what sticks? Sometimes you might have to metaphorically do that in your life if you're feeling lost or unclear. If you're looking for inspiration or a new direction, it's worth it to invest in new opportunities to see what moves you.
 
-Three years ago, I was feeling aimless, depressed, and scared. I had no idea what I wanted to do with my life. I realized I could not continue with my status quo, so I looked around for compelling opportunities. I signed up for [Bossed Up Bootcamp](https://bossedup.org/bootcamp/), hired a [life coach](http://jessicaleighlyons.com/), and eventually I enrolled to be trained as a coach by [CoachDiversity Institute](http://www.coachdiversity.com). Yes, these were big investments, but they helped me figure out what I wanted to do with my life and connected me with amazing people. 
+Three years ago, I was feeling aimless, depressed, and scared. I had no idea what I wanted to do with my life. I realized I could not continue with my status quo, so I looked around for compelling opportunities. I signed up for [Bossed Up Bootcamp](https://bossedup.org/bootcamp/), hired a [life coach](http://jessicaleighlyons.com/), and eventually I enrolled to be trained as a coach by [CoachDiversity Institute](http://www.coachdiversity.com). Yes, these were big investments, but they helped me figure out what I wanted to do with my life and connected me with amazing people.
 
 **You Can't Do It On Your Own**
 
-If you're a high functioning, high achiever, you might try to go for things on your own most of the time. But it's important to ask for help when you need it. If you're struggling with mental health issues, you should invest in a good therapist and medication, if necessary. If you're feeling stuck and you want to find solutions to move forward, you should hire a coach to help you with the issues you're struggling with. This could be a career coach, a financial coach, a relationship coach, or whoever specializes in what you want to work on. 
+If you're a high functioning, high achiever, you might try to go for things on your own most of the time. But it's important to ask for help when you need it. If you're struggling with mental health issues, you should invest in a good therapist and medication, if necessary. If you're feeling stuck and you want to find solutions to move forward, you should hire a coach to help you with the issues you're struggling with. This could be a career coach, a financial coach, a relationship coach, or whoever specializes in what you want to work on.
 
 *What kind of support do you need to get to where you want to be? Share in the comments!*
 
 **You Want To**
 
-Sometimes wanting to do something important for yourself is reason enough to do it. If there's something you've always wanted to do, like become a yoga instructor, or learn how to make pottery, you should go for it! You don't have to  justify your desire to invest in yourself or try new things. 
+Sometimes wanting to do something important for yourself is reason enough to do it. If there's something you've always wanted to do, like become a yoga instructor, or learn how to make pottery, you should go for it! You don't have to  justify your desire to invest in yourself or try new things.
 
 ## Why to Invest in Yourself
 
 **You Deserve It**
 
-Many people, especially women, feel like they are selfish if they do things that are just for themselves. But we need to break that stigma and start taking care of ourselves physically, emotionally, intellectually, and professionally. 
+Many people, especially women, feel like they are selfish if they do things that are just for themselves. But we need to break that stigma and start taking care of ourselves physically, emotionally, intellectually, and professionally.
 
 **You Have to In Order to Advance**
 
@@ -49,7 +49,7 @@ There are many other scenarios where additional schooling or certifications are 
 
 **Your Happiness Matters**
 
-Quality of life should not be overlooked. If something, anything will make you happier, it's probably worth doing. Perhaps you want to take dance classes, or learn a new language. Pursue the things that will make you a happier, more engaged person! The key is to be strategic about these things. [Build them into your budget.](https://www.maggiegermano.com/blog/budgeting-for-the-fun-stuff/) You don't want to put yourself in debt (if you can help it), because that will probably hurt your quality of life. 
+Quality of life should not be overlooked. If something, anything will make you happier, it's probably worth doing. Perhaps you want to take dance classes, or learn a new language. Pursue the things that will make you a happier, more engaged person! The key is to be strategic about these things. [Build them into your budget.](https://www.maggiegermano.com/blog/budgeting-for-the-fun-stuff/) You don't want to put yourself in debt (if you can help it), because that will probably hurt your quality of life.
 
 **It's Worth It In the Long Run**
 
@@ -61,6 +61,14 @@ For example, investing in a service like financial coaching can end up saving yo
 
 ## How to Invest in Yourself
 
+**Get Clear on Your Budget**
+
+It's really hard to make a plan or start saving if you don't know where you're starting from. So the first step should always be to make a budget. Add up what you're bringing in every month, add up what expenses you absolutely have to pay every month, see how much you typically spend on other things like groceries, calculate how much goes to debt, and then do the math to see what's leftover to save.
+
+If you don't have enough left over to save for your goals, it's time to figure out where to cut back. Look at your spending habits around dining or Lyft. Those are the two areas that my clients tend to be really shocked by their spending. Track your spending for a month or two and see how much is going to areas like this. If you can cut back on that spending, you'll have a lot left to save.
+
+Of course, sometimes you're already living on a barebones budget, and there's nowhere to feasibly cut back. In that case, unfortunately, the only option is to bring in more money. Your options here are to either [ask for a raise](https://www.maggiegermano.com/blog/how-to-ask-for-a-raise/), [find a job that pays more](https://www.maggiegermano.com/blog/how-to-pick-a-salary-number-that-works-for-you/), or take on a part-time job or side hustle. 
+
 **Ask Your Employer**
 
 It's easy to forget this, but many employers include professional development in their organizational budget. It's a great way to help employees build their skills and advance in their career. It's also a great way to keep employees happy. If you're already employed, ask your boss or HR department if they pay for professional development. If you're applying or interviewing for jobs, make that one of your [important questions](https://www.maggiegermano.com/blog/non-salary-perks-you-should-ask-for/).
@@ -69,11 +77,11 @@ My previous employer paid for me to attend conferences and trainings like [Bosse
 
 **Save Up**
 
-One of my clients has created a "personal and professional development fund". It's a savings account that is specifically for things that will advance her on a personal and professional level. For her, this includes coaching training, painting classes, and other things that bring her joy and fulfillment. Another client started a savings account for grad school. She knows she won't be able to save up the full amount of tuition by the time she goes, but the amount she'll save will make her life a lot easier once it's time. 
+One of my clients has created a "personal and professional development fund". It's a savings account that is specifically for things that will advance her on a personal and professional level. For her, this includes coaching training, painting classes, and other things that bring her joy and fulfillment. Another client started a savings account for grad school. She knows she won't be able to save up the full amount of tuition by the time she goes, but the amount she'll save will make her life a lot easier once it's time.
 
-I personally have a savings account for travel. Being able to travel every year is really important to me, and it improves my quality of life. 
+I personally have a savings account for travel. Being able to travel every year is really important to me, and it improves my quality of life.
 
-So open up a [savings account](https://www.maggiegermano.com/blog/pay-yourself-first/) just for investing in yourself. Automate a set amount to go into it every month. That way, you won't have to think about it, and the money will grow without too much effort from you. 
+So open up a [savings account](https://www.maggiegermano.com/blog/pay-yourself-first/) just for investing in yourself. Automate a set amount to go into it every month. That way, you won't have to think about it, and the money will grow without too much effort from you.
 
 **Cut Back on Spending**
 
@@ -87,7 +95,7 @@ As my friend and life and career coach, [Noelle Janka](http://www.noellejanka.co
 
 This wouldn't always be a recommended option for investing in yourself. Taking out loans or using credit cards to pay for things can be a slippery slope and put you in a bad financial situation. However, if you're going back to school, buying property, or starting a business, it might make sense to take out a loan. Just make sure you weigh the pros and cons of all your options so that you know what the best choice is for you.
 
-What are you going to prioritize for yourself? How do you plan to make it happen? Share in the comments, and good luck! 
+What are you going to prioritize for yourself? How do you plan to make it happen? Share in the comments, and good luck!
 
 --
 
