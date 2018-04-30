@@ -17,6 +17,8 @@ At one point in my life, I almost considered myself a professional wedding guest
 
 ## Figure Out How Much You Have
 
+xx
+
 ## Decide How Much You Can Save
 
 ## Get Clear on What Matters to You and your Partner
