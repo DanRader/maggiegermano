@@ -38,7 +38,7 @@ Sometimes wanting to do something important for yourself is reason enough to do 
 
 **You Deserve It**
 
-Many people, especially women, feel like they are selfish if they do things that are just for themselves. 
+Many people, especially women, feel like they are selfish if they do things that are just for themselves. But we need to break that stigma and start taking care of ourselves physically, emotionally, intellectually, and professionally. 
 
 **You Have to In Order to Advance**
 
