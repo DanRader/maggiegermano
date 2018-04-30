@@ -48,7 +48,7 @@ There are many other scenarios where additional schooling or certifications are 
 
 **Your Happiness Matters**
 
-xx
+Quality of life should not be overlooked. If something, anything will make you happier, 
 
 **It's Worth It In the Long Run**
 
