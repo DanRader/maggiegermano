@@ -38,7 +38,7 @@ Once you're contributing as much as you can to retirement, you've built up an em
 
 Good luck and congratulations again!
 
-Best,\
+Best,
 Maggie
 
 *Do you have money or career questions? Comment below or send me an email at [hello@maggiegermano.com](mailto:hello@maggiegermano.com)! I'd love to hear from you.*
