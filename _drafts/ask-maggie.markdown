@@ -13,15 +13,17 @@ I'll be accepting your questions via email, direct message, or in the comments b
 
 *Dear Maggie,*
 
-*I have recently received a small raise (approx. 4%). And a best practice I've been taught is that you never touch your raises, instead, you put it towards a savings (401K, personal savings account, investing, supporting my mother etc).*
+*I have recently received a small raise (approx. 4%). And a best practice I've been taught is that you never touch your raises, instead, you put it towards a savings (401K, personal savings account, investing, supporting my mother, etc).*
 
 *My question is: how can I make the best decision of where this additional income should go? I have a few ideas (like the ones listed above) but I'm not sure where to begin so I'm stuck and haven't made any moves.*
 
-*Is there a general formula I should follow? I.e. a certain percentage of your disposable income should go towards savings, another towards 401K, investments? Any advice will help - thank you!*
+*Is there a general formula I should follow? (i.e. a certain percentage of your disposable income should go towards savings, another towards 401K, investments?) Any advice will help - thank you!*
 
 *THANK YOU!
 -a girl looking for financial freedom*
 
 Dear A Girl Looking for Financial Freedom,
+
+Congratulations on your raise! 4% might not feel like much, but every bit help in your journey to financial freedom. 
 
 *Do you have money or career questions? Comment below or send me an email at [hello@maggiegermano.com](mailto:hello@maggiegermano.com)! I'd love to hear from you.*
