@@ -15,6 +15,8 @@ posts:
 
 At one point in my life, I almost considered myself a professional wedding guest. My now fiance and I went to eight weddings in one year a few years ago. Now, we're in the midst of planning our own wedding. I knew the wedding industry was expensive, but I had no idea just how expensive it is until I started this process myself. Costs can quickly get out of control, so it's important to create a budget for yourself up front. It's also important to be realistic about the costs for the type of wedding you want. Here's how to create a wedding budget so you don't lose control of your spending, and can enjoy your special day without going into debt.
 
+> Costs can quickly get out of control, so it's important to create a budget for yourself up front.
+
 ## Figure Out How Much You Have
 
 Do you and your beloved have savings set aside that you can use for your wedding? And no, you shouldn't use your emergency savings for this. Add up how much money you already have to put towards this. 
