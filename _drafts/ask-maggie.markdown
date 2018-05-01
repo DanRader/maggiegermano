@@ -26,9 +26,9 @@ I'll be accepting your questions via email, direct message, or in the comments b
 
 Dear A Girl Looking for Financial Freedom,
 
-Congratulations on your raise! 4% might not feel like much, but every bit help in your journey to financial freedom. 
+Congratulations on your raise! 4% might not feel like much, but every bit help in your journey to financial freedom. And you're absolutely on the right path since you want to put that raise towards your financial goals, rather than spending it. 
 
-And you're absolutely on the right path since you want to put that raise towards your financial goals, rather than spending it. My first question would be: how much are you contributing to your retirement savings now? You should at least be contributing up to the amount that your employer matches, if they offer a match. Beyond that, it's important to increase your retirement contribution every time you get a raise. 
+My first question would be: how much are you contributing to your retirement savings now? You should at least be contributing up to the amount that your employer matches, if they offer a match. Beyond that, it's important to increase your retirement contribution every time you get a raise. 
 
 Good luck and congratulations again!
 
