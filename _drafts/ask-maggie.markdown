@@ -33,6 +33,8 @@ I don't believe that there's one financial formula that will apply to everyone, 
 
 My first question would be: how much are you contributing to your retirement savings now? You should at least be contributing up to the amount that your employer matches, if they offer a match. Beyond that, it's important to increase your retirement contribution every time you get a raise. 
 
+Another question would be: do you have an emergency savings account already? If you haven't started building that yet, you may want to contribute part of your raise to that goal. The best way to start is to set up direct deposit into a savings account so that you're automatically saving towards this goal every time you get a paycheck. 
+
 Good luck and congratulations again!
 
 Best,\
