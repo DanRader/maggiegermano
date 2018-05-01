@@ -29,6 +29,8 @@ Dear A Girl Looking for Financial Freedom,
 
 Congratulations on your raise! 4% might not feel like much, but every bit help in your journey to financial freedom. And you're absolutely on the right path since you want to put that raise towards your financial goals, rather than spending it. 
 
+I don't believe that there's one financial formula that will apply to everyone, but the general advice is that you should be saving 20% of your income (including your retirement). 
+
 My first question would be: how much are you contributing to your retirement savings now? You should at least be contributing up to the amount that your employer matches, if they offer a match. Beyond that, it's important to increase your retirement contribution every time you get a raise. 
 
 Good luck and congratulations again!
