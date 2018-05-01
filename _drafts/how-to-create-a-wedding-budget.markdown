@@ -17,7 +17,9 @@ At one point in my life, I almost considered myself a professional wedding guest
 
 ## Figure Out How Much You Have
 
-xx
+Do you and your beloved have savings set aside that you can use for your wedding? And no, you shouldn't use your emergency savings for this. Add up how much money you already have to put towards this. 
+
+If you think your parents or other family members might want to contribute, talk to them. I loved [A Practical Wedding's](https://apracticalwedding.com/) advice for this: ... 
 
 ## Decide How Much You Can Save
 
@@ -25,7 +27,7 @@ xx
 
 ## Find Out How Expensive Local Vendors Are
 
-This is where I definitely screwed up. I had never planned a wedding before, so I had no idea how  much things cost. It's even more expensive being in the Washington, DC area. I knew it would be too expensive to get married in the actual city, but I didn't realize how much it would cost to get married within a 50-mile radius. I also didn't know 
+This is where I definitely screwed up. I had never planned a wedding before, so I had no idea how  much things cost. It's even more expensive being in the Washington, DC area. I knew it would be too expensive to get married in the actual city, but I didn't realize how much it would cost to get married within a 50-mile radius. I also didn't know
 
 ## Open a Savings Account Specifically for Your Wedding
 
