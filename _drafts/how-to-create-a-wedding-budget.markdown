@@ -43,7 +43,7 @@ In all honesty, we're spending a lot more money than I wanted to spend.
 
 ## Open a Savings Account Specifically for Your Wedding
 
-If you're going to be saving up for your wedding, you should have a special savings account just for that. It'll make it a lot easier to track your progress. If both you and your partner are contributing to this savings goal, it might even be best to open a joint account so you both have access. You both can see how close you are to your goal, as well.
+If you're going to be saving up for your wedding, you should have a special savings account just for that. It'll make it a lot easier to track your progress. If both you and your partner are contributing to this savings goal, it might even be best to open a joint account so you both have access. You both can see how close you are to your goal, as well. I like opening accounts like this at online banks so that I get the maximum amount of interest while not being as tempted to spend the savings. 
 
 ## Automate Deposits into the Account
 
