@@ -55,4 +55,14 @@ If you're going to be saving up for your wedding, you should have a special savi
 
 If you read this blog at all, you know that I'm a huge proponent of automation when it comes to personal finance. Automation takes human error out of the situation.
 
+**Other wedding resources:**
+
+* The Bridechilla Podast
+
+* A Practical Wedding
+
+* [Zola Weddings](https://www.zola.com/invite/maggermano201707311447)
+
+* 
+
 <script src="https://embeds.nerdwallet.com/embed.js" data-widget="savings-accounts" data-utm_campaign="bk_prod_savings-accounts"></script>
