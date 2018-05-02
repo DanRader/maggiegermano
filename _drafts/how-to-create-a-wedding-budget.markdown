@@ -19,7 +19,7 @@ At one point in my life, I almost considered myself a professional wedding guest
 
 ## Figure Out How Much You Have
 
-Do you and your beloved have savings set aside that you can use for your wedding? And no, you shouldn't use your emergency savings for this. Add up how much money you already have to put towards this.
+Do you and your beloved have savings set aside that you can use for your wedding? And no, you shouldn't use your emergency savings for this. You'll need that money if something bad happens and you need to be able to pay your rent. If you have other savings, add up how much you have to put towards this. Something is better than nothing, so any small amount will help!
 
 If you think your parents or other family members might want to contribute, talk to them. I loved [A Practical Wedding's](https://apracticalwedding.com/starting-your-wedding-planning/) advice for this: "Now it’s time to sit down and have a chat with your families. Are you asking for financial contributions? Have you thought about what kind of input you want them to have? Are there traditions you want to include—or traditions you want to eschew?"
 
