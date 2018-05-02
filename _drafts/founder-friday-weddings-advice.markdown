@@ -19,11 +19,11 @@ xx
 
 ## What I’m Writing
 
-This week, I wrote about investing in yourself. 
+This week, I wrote about investing in yourself.
 
 ## What I’m Excited About
 
-* The save the dates for my wedding went out last week! It's real now. Tomorrow, we're doing a tasting with our caterer. 
+* The save the dates for my wedding went out last week! It's real now. Tomorrow, we're doing a tasting with our caterer. It's still six months away, but it's starting to feel like we're making real progress. 
 
 ## What I’m Up To
 
