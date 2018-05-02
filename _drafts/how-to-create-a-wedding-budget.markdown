@@ -23,9 +23,13 @@ Do you and your beloved have savings set aside that you can use for your wedding
 
 If you think your parents or other family members might want to contribute, talk to them. I loved [A Practical Wedding's](https://apracticalwedding.com/starting-your-wedding-planning/) advice for this: "Now it’s time to sit down and have a chat with your families. Are you asking for financial contributions? Have you thought about what kind of input you want them to have? Are there traditions you want to include—or traditions you want to eschew?"
 
-Decide How Much You Can Save
+## Decide How Much You Can Save
 
 ## Get Clear on What Matters to You and your Partner
+
+This is hugely important. There are so many expectations involved in the wedding industrial complex these days. You have to know what it is that you want, not what you're expected to do. Expectations are expensive and
+
+I personally wish that I didn't want a real wedding. My desires for my wedding day directly conflict with my values as a financial coach and frugal person.
 
 ## Find Out How Expensive Local Vendors Are
 
@@ -33,8 +37,10 @@ This is where I definitely screwed up. I had never planned a wedding before, so 
 
 ## Open a Savings Account Specifically for Your Wedding
 
+If you're going to be saving up for your wedding, you should have a special savings account just for that. It'll make it a lot easier to track your progress. If both you and your partner are contributing to this savings goal, it might even be best to open a joint account so you both have access. You both can see how close you are to your goal, as well. 
+
 ## Automate Deposits into the Account
 
-xx
+If you read this blog at all, you know that I'm a huge proponent of automation when it comes to personal finance. Automation takes human error out of the situation. 
 
 <script src="https://embeds.nerdwallet.com/embed.js" data-widget="savings-accounts" data-utm_campaign="bk_prod_savings-accounts"></script>
