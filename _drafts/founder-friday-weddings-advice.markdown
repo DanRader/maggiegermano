@@ -27,7 +27,7 @@ This week, I wrote about investing in yourself.
 
 ## What I’m Up To
 
-* I'm starting a financial advice column! I don't know when I'll have it up and running yet, but I've already answered a few questions that will be published when it's ready. I need to have Dan make some new branding for the column, and then I'll be ready to go! The premise of the column will be similar to my coaching style and other writing. Helpful advice without judgment. Got questions? Email me at [hello@maggiegermano.com](mailto:hello@maggiegermano.com)!
+* **I'm starting a financial advice column!** I don't know when I'll have it up and running yet, but I've already answered a few questions that will be published when it's ready. I need to pick the name and have Dan make some new branding for the column, and then I'll be ready to go! The premise of the column will be similar to my coaching style and other writing. Helpful advice without judgment. Got questions? Email me at [hello@maggiegermano.com](mailto:hello@maggiegermano.com)!
 
 * The **[May Money Circle](https://www.maggiegermano.com/events/how-to-survive-wedding-season-on-a-budget/)** event is up! Next month, we’ll be talking about how to survive wedding season on a budget. We’ll be in Eastern Market for the evening. See you there?
 
