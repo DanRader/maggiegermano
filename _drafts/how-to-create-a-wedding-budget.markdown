@@ -25,26 +25,28 @@ If you think your parents or other family members might want to contribute, talk
 
 ## Decide How Much You Can Save
 
-If you're already living bare bones and don't have much money to spare, you probably don't have much money to save for your wedding. 
+If you're already living bare bones and don't have much money to spare, you probably don't have much money to save for your wedding.
 
 ## Get Clear on What Matters to You and Your Partner
 
-This is hugely important. There are so many expectations involved in the wedding industrial complex these days. You have to know what it is that you want, not what you're expected to do. Expectations are expensive and
+This is hugely important. There are so many expectations involved in the wedding industrial complex these days. You have to know what it is that you want, not what you're expected to do. Expectations can get really expensive, and leave you feel resentful. 
 
-I personally wish that I didn't want a real wedding. My desires for my wedding day directly conflict with my values as a financial coach and frugal person. However, our vision for the day actually outweighs our .. Of course, we are incredibly privileged to have the disposable income to go towards this expense, and if we didn't, we certainly would have made different decisions. 
+I personally wish that I didn't want a real wedding. My desires for my wedding day directly conflict with my values as a financial coach and frugal person. However, our vision for the day actually outweighs our .. Of course, we are incredibly privileged to have the disposable income to go towards this expense, and if we didn't, we certainly would have made different decisions.
+
+Sit down with your partner and list out the things that are the most important to you. There is a really helpful worksheet in [A Practical Wedding Planner](https://www.amazon.com/Practical-Wedding-Planner-Step-Step/dp/0738218421) that helps you go through this part. 
 
 ## Find Out How Expensive Local Vendors Are
 
-This is where I definitely screwed up. I had never planned a wedding before, so I had no idea how  much things cost. It's even more expensive being in the Washington, DC area. I knew it would be too expensive to get married in the actual city, but I didn't realize how much it would cost to get married within a 50-mile radius. I also didn't truly know how much things are marked up when you add "wedding" to the inquiry. 
+This is where I definitely screwed up. I had never planned a wedding before, so I had no idea how  much things cost. It's even more expensive being in the Washington, DC area. I knew it would be too expensive to get married in the actual city, but I didn't realize how much it would cost to get married within a 50-mile radius. I also didn't truly know how much things are marked up when you add "wedding" to the inquiry.
 
-In all honesty, we're spending a lot more money than I wanted to spend. 
+In all honesty, we're spending a lot more money than I wanted to spend.
 
 ## Open a Savings Account Specifically for Your Wedding
 
-If you're going to be saving up for your wedding, you should have a special savings account just for that. It'll make it a lot easier to track your progress. If both you and your partner are contributing to this savings goal, it might even be best to open a joint account so you both have access. You both can see how close you are to your goal, as well. 
+If you're going to be saving up for your wedding, you should have a special savings account just for that. It'll make it a lot easier to track your progress. If both you and your partner are contributing to this savings goal, it might even be best to open a joint account so you both have access. You both can see how close you are to your goal, as well. I like opening accounts like this at online banks so that I get the maximum amount of interest while not being as tempted to spend the savings. 
 
 ## Automate Deposits into the Account
 
-If you read this blog at all, you know that I'm a huge proponent of automation when it comes to personal finance. Automation takes human error out of the situation. 
+If you read this blog at all, you know that I'm a huge proponent of automation when it comes to personal finance. Automation takes human error out of the situation.
 
 <script src="https://embeds.nerdwallet.com/embed.js" data-widget="savings-accounts" data-utm_campaign="bk_prod_savings-accounts"></script>
