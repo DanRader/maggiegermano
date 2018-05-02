@@ -25,9 +25,9 @@ If you think your parents or other family members might want to contribute, talk
 
 ## Decide How Much You Can Save
 
-If you're already living bare bones and don't have much money to spare, you probably don't have much money to save for your wedding.
+If you're already living bare bones and don't have much money to spare, you probably don't have much money to save for your wedding. You have to be as realistic as possible when planning out your budget, so you don't end up in debt after your wedding. 
 
-You might have to get creative. Stash all the extra money that comes in, like bonuses, birthday or holiday gifts, and tax returns. You may even want to consider
+You might have to get creative. Stash all the extra money that comes in, like bonuses, birthday or holiday gifts, and tax returns. You may even want to consider taking on a side hustle or part-time job during this period. 
 
 *I want to stress:* try your hardest not to go into debt from your wedding. The beginning of a marriage is a time when you want to set yourselves up for success. Starting off with joint debt from your wedding is not getting off on the right foot. You don't want to spend the first few years of marriage worrying about paying off your wedding, rather than figuring out how to be married, and working towards your other joint goals.
 
