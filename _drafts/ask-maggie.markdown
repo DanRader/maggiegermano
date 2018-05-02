@@ -42,3 +42,5 @@ Best,
 Maggie
 
 *Do you have money or career questions? Comment below or send me an email at [hello@maggiegermano.com](mailto:hello@maggiegermano.com)! I'd love to hear from you.*
+
+<script src="https://embeds.nerdwallet.com/embed.js" data-id="456662" data-utm_campaign="pf_prod_456662"></script>
