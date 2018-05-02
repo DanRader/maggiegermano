@@ -25,15 +25,19 @@ If you think your parents or other family members might want to contribute, talk
 
 ## Decide How Much You Can Save
 
-## Get Clear on What Matters to You and your Partner
+If you're already living bare bones and don't have much money to spare, you probably don't have much money to save for your wedding. 
+
+## Get Clear on What Matters to You and Your Partner
 
 This is hugely important. There are so many expectations involved in the wedding industrial complex these days. You have to know what it is that you want, not what you're expected to do. Expectations are expensive and
 
-I personally wish that I didn't want a real wedding. My desires for my wedding day directly conflict with my values as a financial coach and frugal person.
+I personally wish that I didn't want a real wedding. My desires for my wedding day directly conflict with my values as a financial coach and frugal person. However, our vision for the day actually outweighs our .. Of course, we are incredibly privileged to have the disposable income to go towards this expense, and if we didn't, we certainly would have made different decisions. 
 
 ## Find Out How Expensive Local Vendors Are
 
-This is where I definitely screwed up. I had never planned a wedding before, so I had no idea how  much things cost. It's even more expensive being in the Washington, DC area. I knew it would be too expensive to get married in the actual city, but I didn't realize how much it would cost to get married within a 50-mile radius. I also didn't know
+This is where I definitely screwed up. I had never planned a wedding before, so I had no idea how  much things cost. It's even more expensive being in the Washington, DC area. I knew it would be too expensive to get married in the actual city, but I didn't realize how much it would cost to get married within a 50-mile radius. I also didn't truly know how much things are marked up when you add "wedding" to the inquiry. 
+
+In all honesty, we're spending a lot more money than I wanted to spend. 
 
 ## Open a Savings Account Specifically for Your Wedding
 
