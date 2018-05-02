@@ -53,15 +53,17 @@ If you're going to be saving up for your wedding, you should have a special savi
 
 ## Automate Deposits into the Account
 
-If you read this blog at all, you know that I'm a huge proponent of automation when it comes to personal finance. Automation takes human error out of the situation.
+If you read this blog at all, you know that I'm a huge proponent of automation when it comes to personal finance. Automation takes human error out of the situation. If you set up direct deposit or have your bank automatically transfer money into your savings, you won't have to think about it. You won't give yourself the chance to spend the money instead of saving it. So set up that automation and set yourself up for success in wedding planning!
+
+*Do you have stories or advice based on your own wedding plan adventures? Share in the comments!*
 
 **Other wedding resources:**
 
-* The Bridechilla Podast
+* [The Bridechilla Podast](http://bridechilla.libsyn.com/)
 
-* A Practical Wedding
+* [A Practical Wedding](https://apracticalwedding.com/)
 
-* [Zola Weddings](https://www.zola.com/invite/maggermano201707311447)
+* [Zola Weddings ](https://www.zola.com/invite/maggermano201707311447)(If you use my referral link, we'll both get $50 to spend on the Zola registry!)
 
 * 
 
