@@ -27,6 +27,10 @@ If you think your parents or other family members might want to contribute, talk
 
 If you're already living bare bones and don't have much money to spare, you probably don't have much money to save for your wedding.
 
+You might have to get creative. Stash all the extra money that comes in, like bonuses, birthday or holiday gifts, and tax returns. You may even want to consider 
+
+*I want to stress:* try your hardest not to go into debt from your wedding. The beginning of a marriage is a time when you want to set yourselves up for success. Starting off with joint debt from your wedding is not getting off on the right foot. You don't want to spend the first few years of marriage worrying about paying off your wedding, rather than figuring out how to be married, and working towards your other joint goals.
+
 ## Get Clear on What Matters to You and Your Partner
 
 This is hugely important. There are so many expectations involved in the wedding industrial complex these days. You have to know what it is that you want, not what you're expected to do. Expectations can get really expensive, and leave you feel resentful. 
