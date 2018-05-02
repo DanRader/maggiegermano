@@ -43,7 +43,7 @@ Sit down with your partner and list out the things that are the most important t
 
 This is where I definitely screwed up. I had never planned a wedding before, so I had no idea how  much things cost. It's even more expensive being in the Washington, DC area. I knew it would be too expensive to get married in the actual city, but I didn't realize how much it would cost to get married within a 50-mile radius. I also didn't truly know how much things are marked up when you add "wedding" to the inquiry.
 
-In all honesty, we're spending a lot more money than I wanted to spend. I put aside a certain amount last summer when I got the settlement from my shoulder injury, and naively thought that would be plenty to pay for the wedding. Boy, was I wrong. We're spending more than double that amount. Just typing that makes me want to cry. 
+In all honesty, we're spending a lot more money than I wanted to spend. I put aside a certain amount last summer when I got the settlement from my shoulder injury, and naively thought that would be plenty to pay for the wedding. Boy, was I wrong. We're spending more than double that amount. Just typing that makes me want to cry. But in the end, we're going to have the wedding we both really want. We're making it unique and very aligned with our personalities and values. 
 
 Get a reality check early on so that you know what kind of budget you're working with. And if that budget is a non-starter for you? Find alternative options for your wedding. 
 
