@@ -25,7 +25,7 @@ If you think your parents or other family members might want to contribute, talk
 
 ## Decide How Much You Can Save
 
-If you're already living bare bones and don't have much money to spare, you probably don't have much money to save for your wedding. You have to be as realistic as possible when planning out your budget, so you don't end up in debt after your wedding.
+If you're already living bare bones and don't have much money to spare, you probably don't have much money to save for your wedding. You have to be as realistic as possible when planning out your budget, so you don't end up in debt after your wedding. So take a look at your budget [together](https://www.maggiegermano.com/blog/have-the-money-talk) and [calculate](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/) how much you have leftover to put towards your wedding savings. 
 
 You might have to get creative. Stash all the extra money that comes in, like bonuses, birthday or holiday gifts, and tax returns. You may even want to consider taking on a side hustle or part-time job during this period.
 
