@@ -13,7 +13,7 @@ posts:
 - How to Financially Prepare for Family Occasions
 ---
 
-At one point in my life, I almost considered myself a professional wedding guest. My now fiance and I went to eight weddings in one year a few years ago. Now, we're in the midst of planning our own wedding. I knew the wedding industry was expensive, but I had no idea just how expensive it is until I started this process myself. Costs can quickly get out of control, so it's important to create a budget for yourself up front. It's also important to be realistic about the costs for the type of wedding you want. Here's how to create a wedding budget so you don't lose control of your spending, and can enjoy your special day without going into debt.
+At one point in my life, I almost considered myself a professional wedding guest. My now fiance and I went to eight weddings in one year a few years ago. Now, we're in the midst of planning our own. I knew the wedding industry was expensive, but I had no idea just how expensive it is until I started this process myself. Costs can quickly get out of control, so it's important to create a budget for yourself up front. It's also important to be realistic about the costs for the type of wedding you want. Here's how to create a wedding budget so you don't lose control of your spending, and can enjoy your special day without going into debt.
 
 > Costs can quickly get out of control, so it's important to create a budget for yourself up front.
 
@@ -25,9 +25,9 @@ If you think your parents or other family members might want to contribute, talk
 
 ## Decide How Much You Can Save
 
-If you're already living bare bones and don't have much money to spare, you probably don't have much money to save for your wedding. You have to be as realistic as possible when planning out your budget, so you don't end up in debt after your wedding. 
+If you're already living bare bones and don't have much money to spare, you probably don't have much money to save for your wedding. You have to be as realistic as possible when planning out your budget, so you don't end up in debt after your wedding.
 
-You might have to get creative. Stash all the extra money that comes in, like bonuses, birthday or holiday gifts, and tax returns. You may even want to consider taking on a side hustle or part-time job during this period. 
+You might have to get creative. Stash all the extra money that comes in, like bonuses, birthday or holiday gifts, and tax returns. You may even want to consider taking on a side hustle or part-time job during this period.
 
 *I want to stress:* try your hardest not to go into debt from your wedding. The beginning of a marriage is a time when you want to set yourselves up for success. Starting off with joint debt from your wedding is not getting off on the right foot. You don't want to spend the first few years of marriage worrying about paying off your wedding, rather than figuring out how to be married, and working towards your other joint goals.
 
@@ -43,9 +43,9 @@ Sit down with your partner and list out the things that are the most important t
 
 This is where I definitely screwed up. I had never planned a wedding before, so I had no idea how  much things cost. It's even more expensive being in the Washington, DC area. I knew it would be too expensive to get married in the actual city, but I didn't realize how much it would cost to get married within a 50-mile radius. I also didn't truly know how much things are marked up when you add "wedding" to the inquiry.
 
-In all honesty, we're spending a lot more money than I wanted to spend. I put aside a certain amount last summer when I got the settlement from my shoulder injury, and naively thought that would be plenty to pay for the wedding. Boy, was I wrong. We're spending more than double that amount. Just typing that makes me want to cry. But in the end, we're going to have the wedding we both really want. We're making it unique and very aligned with our personalities and values. 
+In all honesty, we're spending a lot more money than I wanted to spend. I put aside a certain amount last summer when I got the settlement from my shoulder injury, and naively thought that would be plenty to pay for the wedding. Boy, was I wrong. We're spending more than double that amount. Just typing that makes me want to cry. But in the end, we're going to have the wedding we both really want. We're making it unique and very aligned with our personalities and values.
 
-Get a reality check early on so that you know what kind of budget you're working with. And if that budget is a non-starter for you? Find [alternative options](https://www.nerdwallet.com/blog/finance/11-affordable-wedding-venue-ideas/) for your wedding. 
+Get a reality check early on so that you know what kind of budget you're working with. And if that budget is a non-starter for you? Find [alternative options](https://www.nerdwallet.com/blog/finance/11-affordable-wedding-venue-ideas/) for your wedding.
 
 ## Open a Savings Account Specifically for Your Wedding
 
