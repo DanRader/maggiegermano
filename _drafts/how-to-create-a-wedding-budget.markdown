@@ -33,11 +33,11 @@ You might have to get creative if you don't have much money to spare each month.
 
 ## Get Clear on What Matters to You and Your Partner
 
-This is hugely important. There are so many expectations involved in the wedding industrial complex these days. You have to know what it is that you want, not what you're expected to do. Expectations can get really expensive, and leave you feel resentful.
+This is hugely important. There are so many expectations involved in the wedding industrial complex these days. You have to know what it is that you want, not what you're expected to do. Expectations can get really expensive, and leave you feel resentful and overwhelmed.
 
-I personally wish that I didn't want a real wedding. My desires for my wedding day directly conflict with my values as a financial coach and frugal person. However, our vision for the day actually outweighs our .. Of course, we are incredibly privileged to have the disposable income to go towards this expense, and if we didn't, we certainly would have made different decisions.
+I personally wish that I didn't want a real wedding. My desires for my wedding day directly conflict with my values as a financial coach and frugal person. However, our joint vision for the day actually outweighs our desire to spend very little money. We're getting married at a vineyard that we fell in love with, we're providing an open bar, and we're inviting most of the people we want to invite. Of course, we are incredibly privileged to have the disposable income to go towards this expense, and if we didn't, we certainly would have made different decisions.
 
-Sit down with your partner and list out the things that are the most important to you. There is a really helpful worksheet in [A Practical Wedding Planner](https://www.amazon.com/Practical-Wedding-Planner-Step-Step/dp/0738218421) that helps you go through this part.
+Sit down with your partner and list out the things that are the most important to you. There is a really helpful worksheet in [A Practical Wedding Planner](https://www.amazon.com/Practical-Wedding-Planner-Step-Step/dp/0738218421) that helps you go through this part. You can identify your must-haves, the things that don't really matter, and the things you definitely don't want as part of your day. This will help you get clear on where you want to prioritize and where the money should really be going. And having this conversation together will make you a better team when other people try to influence your decisions.
 
 ## Find Out How Expensive Local Vendors Are
 
