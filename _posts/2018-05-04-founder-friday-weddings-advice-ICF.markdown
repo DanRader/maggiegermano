@@ -5,7 +5,7 @@ categories:
 - founder friday
 ---
 
-Happy Friday! 
+Happy Friday! This week feels like it was a blur. I'm glad it's Friday! Here's what I was up to.
 
 ## How I Earned Money This Week
 
@@ -18,6 +18,8 @@ Happy Friday!
 * We sent the final payment for our wedding venue this week. It's nice to slowly cross things off the list so we don't have to worry about them anymore. This weekend, we're meeting with two different vendors to go over their responsibilities and ask questions.
 
 * On Wednesday evening, Dan and I met up with a group of friends to have drinks and catch up. We spent more than I had hoped on beer, but luckily had a free [&pizza](https://andpizza.com/) coupon for afterwards. We also took a Lyft home that night, but got a $5 discount. 
+
+* We also spent a little bit on the Airbnb this week. Now that summer is coming, we bought a dehumidifier to put down there and keep the moisture down. Luckily, [Pepco](https://homeenergysavings.pepco.com/appliance-rebate-program) offers $30 rebates if you buy an [Energy Star Certified](https://www.energystar.gov/products?s=mega) dehumidifier. 
 
 ## What I’m Writing
 
