@@ -3,6 +3,13 @@ title: Founder Friday | Weddings, Advice, ICF
 date: 2018-05-04 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/wedding-388c66.jpg"
+tweet: 'Hey y''all! TGIF, amirite? Check out this week''s #FounderFriday post and
+  see what I was up to.'
+posts:
+- Founder Friday | Breweries, Safe Spaces, and Money Circle
+- Founder Friday | Money Circle, Popcorn Finance, Roxane Gay
+- Founder Friday | Yard Work, Certification, Makeup
 ---
 
 Happy Friday! This week feels like it was a blur. I'm glad it's Friday! Here's what I was up to.
