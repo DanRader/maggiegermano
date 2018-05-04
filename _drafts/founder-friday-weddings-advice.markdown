@@ -1,11 +1,11 @@
 ---
 title: Founder Friday | Weddings, Advice,
-date: 2018-05-04 11:00:00 -04:00
+date: 2018-05-04 14:00:00 -04:00
 categories:
 - founder friday
 ---
 
-xx
+Happy Friday! 
 
 ## How I Earned Money This Week
 
@@ -25,9 +25,9 @@ This week, I wrote about investing in yourself.
 
 ## What I’m Excited About
 
-* The save the dates for my wedding went out last week! It's real now. Tomorrow, we're doing a tasting with our caterer. It's still six months away, but it's starting to feel like we're making real progress.
+* The save the dates for my wedding went out last week! It's real now. This weekend, we're doing a tasting with our caterer. It's still six months away, but it's starting to feel like we're making real progress.
 
-* I am officially a certified coach through the International Coaching Federation! I was
+* I am officially a certified coach through the [International Coaching Federation](https://coachfederation.org/) (ICF)! I was already certified through [CoachDiversity Institute](http://coachdiversity.com/), but ICF is the international standard for certification. If the coaching industry ever becomes regulated, I'll be in a good position.
 
 ## What I’m Up To
 
