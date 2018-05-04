@@ -17,7 +17,7 @@ Happy Friday!
 
 * We sent the final payment for our wedding venue this week. It's nice to slowly cross things off the list so we don't have to worry about them anymore. This weekend, we're meeting with two different vendors to go over their responsibilities and ask questions.
 
-* On Wednesday evening, Dan and I met up with a group of friends to have drinks and catch up. We spent more than I had hoped on beer, but luckily had a free [&pizza](https://andpizza.com/) coupon for afterwards. 
+* On Wednesday evening, Dan and I met up with a group of friends to have drinks and catch up. We spent more than I had hoped on beer, but luckily had a free [&pizza](https://andpizza.com/) coupon for afterwards. We also took a Lyft home that night, but got a $5 discount. 
 
 ## What I’m Writing
 
