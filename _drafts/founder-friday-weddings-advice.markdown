@@ -37,12 +37,6 @@ This week, I wrote about investing in yourself.
 
 * I’m teaming up with life and career coach **[Noelle Janka](http://www.noellejanka.com/)** for a **[webinar on May 10th](https://www.maggiegermano.com/other-events/webinar-how-to-take-control-of-your-money/)**! I’ll be talking to attendees about how they can take control of their money and set financial goals that align with their values. If you use the code “WEBINAR”, you get 50% off the registration cost!
 
-## One Thing I Learned This Week
-
-This is a new topic I'm including in this post each week. My friend (and real estate agent) Liz Delgado-Steo gave me the idea.
-
-*PS: Hire Liz to be your realtor if you're thinking to buy a house.*
-
 ## Money Tip to Take Into the Weekend
 
 xx
