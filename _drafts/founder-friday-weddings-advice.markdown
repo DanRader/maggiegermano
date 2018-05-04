@@ -5,7 +5,7 @@ categories:
 - founder friday
 ---
 
-xx
+Happy Friday! 
 
 ## How I Earned Money This Week
 
