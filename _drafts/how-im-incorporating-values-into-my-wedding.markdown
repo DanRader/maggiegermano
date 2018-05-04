@@ -29,6 +29,8 @@ PS: [Buy Matt's coffee!](http://simpleroastcoffee.com/)
 
 ## Dan Has Two Groomswomen
 
+Again, we didn't think it made sense to exclude close family or friends because they weren't the same gender. Dan is having his sister and his good friend Marie 
+
 ## I'm Not Wearing Heels
 
 There's nothing "unfeminist" about wearing heels. But there's a lot of pressure to look a certain way on your wedding day. I've decided that I want to be as comfortable and as true to myself as possible.
