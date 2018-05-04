@@ -16,8 +16,6 @@ Happy Friday! This week feels like it was a blur. I'm glad it's Friday! Here's w
 
 ## How I Earned Money This Week
 
-* I got two new ongoing clients this week!
-
 * We had two different sets of Airbnb guests throughout this week. I really like that the payments go through the day that the guests check in, so we don't have to wait for it.
 
 ## How I Spent Money This Week
