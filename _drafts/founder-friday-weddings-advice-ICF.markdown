@@ -1,5 +1,5 @@
 ---
-title: Founder Friday | Weddings, Advice,
+title: Founder Friday | Weddings, Advice, ICF
 date: 2018-05-04 14:00:00 -04:00
 categories:
 - founder friday
@@ -43,6 +43,6 @@ This week, I wrote about [investing in yourself](https://www.maggiegermano.com/b
 
 ## Money Tip to Take Into the Weekend
 
-xx
+Be open about your financial goals. It can be easy to be pressured to spend money if your friends don't know what your financial goals are. Instead of going along with the spending (or just saying no to plans), tell your plans why you're cutting back and allow them to support you in your efforts. Together, you can come up with more affordable ways to spend time together. You might even find out that they're in the same boat as you are.
 
 That’s all from me this week. Have a great weekend!
