@@ -17,11 +17,11 @@ Happy Friday!
 
 * We sent the final payment for our wedding venue this week. It's nice to slowly cross things off the list so we don't have to worry about them anymore. This weekend, we're meeting with two different vendors to go over their responsibilities and ask questions.
 
-* 
+* On Wednesday evening, Dan and I met up with a group of friends to have drinks and catch up. We spent more than I had hoped on beer, but luckily had a free [&pizza](https://andpizza.com/) coupon for afterwards. 
 
 ## What I’m Writing
 
-This week, I wrote about investing in yourself.
+This week, I wrote about [investing in yourself](https://www.maggiegermano.com/blog/when-why-and-how-to-invest-in-yourself/). Yes, it's important to invest in your retirement, but you should also make investments in your well-being and happiness. That might look like going back to school or [hiring a financial coach](https://www.maggiegermano.com/coaching/)!
 
 ## What I’m Excited About
 
