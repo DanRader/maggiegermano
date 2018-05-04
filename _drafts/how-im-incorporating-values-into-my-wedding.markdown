@@ -11,6 +11,8 @@ posts:
 - How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
 ---
 
+I'm a fierce feminist who has always been outspoken about my opinions and beliefs. I'm also a straight, cisgendered, white woman who comes from privilege. 
+
 ## Both Parents Are Walking Me Down the Aisle
 
 Years ago, I watched an episode of Brothers and Sisters where Calista Flockhart's character is getting married. Her father had already passed away, so he couldn't walk her down the aisle, so she chose her uncle to do so. However, she thought it was unfair to not include her mother in such an important moment, so she had both of them walk her down the aisle. I loved that sentiment so much that I decided I would do the same one day. It turns out, one of the only requests my mom had for the wedding was that she and my dad walk me down the aisle. Win, win!
@@ -23,7 +25,7 @@ My dad never owned me. My future husband won't own me. So there's no reason for 
 
 One of my best friends is a great guy named Matt. We've been friends since 7th grade and he's always been there for me. It didn't make sense to me for him to be Dan's groomsman, and I didn't want him to not be included. So I proposed that he be my bridesman. No
 
-PS: Buy Matt's coffee!
+PS: [Buy Matt's coffee!](http://simpleroastcoffee.com/)
 
 ## Dan Has Two Groomswomen
 
