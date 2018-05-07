@@ -11,13 +11,19 @@ posts:
 - How to Financially Prepare for Family Occasions
 ---
 
-Ask for Help
+## Set Expectations
 
-Stay Attuned to Your Values
+I mentioned this last week, but it's important to 
 
-Use a Checklist
+## Ask for Help
 
-Get Your Partner Involved
+## Stay Attuned to Your Values
+
+## Use a Checklist
+
+If you use my link to sign up for Zola, we'll both get $50 to spend on registry items! 
+
+## Get Your Partner Involved
 
 I will never understand how one person in a couple can do all the wedding planning while the other person sits it out. Traditionally, we hear stories about the bride doing all the planning (and caring) and the groom just shows up on the wedding day. No thanks! 
 
