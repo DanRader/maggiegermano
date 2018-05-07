@@ -13,7 +13,9 @@ posts:
 
 ## Set Expectations
 
-I mentioned this last week, but it's important to 
+I mentioned this last week, but it's important to set expectations early on. This is especially true when it comes to family. Sit down with each set of parents (if they are around and/or involved) and ask them what they would most like to see included in the wedding. Make it clear that you're just collecting opinions, and nothing will be set in stone. 
+
+This can be a difficult conversation, like if your parents want you to have a religious ceremony, but you don't. Or it can be easy, like a parent asking for a non-religious blessing from the guests at the end of the ceremony. 
 
 ## Ask for Help
 
