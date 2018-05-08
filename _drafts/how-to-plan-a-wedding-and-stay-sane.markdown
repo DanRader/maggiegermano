@@ -23,7 +23,9 @@ This can be a difficult conversation, like if your parents want you to have a re
 
 Wedding spending can get out of control. There are always costs you didn't necessarily plan for. Once you create your [wedding budget](https://www.maggiegermano.com/blog/how-to-create-a-wedding-budget/), make sure you're tracking your actual costs. Specify your budget for each item, and then track how much you're actually going to spend on it. 
 
-A Practical Wedding has a great spreadsheet that lets you compare your budget versus actual spending numbers. Check in with this spreadsheet everytime you hire a new vendor or buy an item. If you see that your spending is getting higher than you expected, take a minute. Ask yourself: Do I need to increase the budget? Do I need to cut something out? Where do I feel comfortable cutting? What can I do to get costs back on track?
+[A Practical Wedding](https://apracticalwedding.com/) has a great [spreadsheet](https://docs.google.com/spreadsheets/d/1XGxcnlTKTQ6bKY_jaj4G6lmrNik8ze53KPRhDPOIV_k/edit) that lets you compare your budget versus actual spending numbers. Check in with this spreadsheet every time you hire a new vendor or buy an item. If you see that your spending is getting higher than you expected, take a minute. Ask yourself: Do I need to increase the budget? Do I need to cut something out? Where do I feel comfortable cutting? What can I do to get costs back on track?
+
+You don't want to get close to your wedding and suddenly realize that you can't afford to pay all of your vendors. So stay fully informed about your spending throughout the process. And make sure your partner is dialed in too!
 
 ## Ask for Help
 
