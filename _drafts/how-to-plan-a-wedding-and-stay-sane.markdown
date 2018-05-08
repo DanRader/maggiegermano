@@ -27,9 +27,13 @@ Wedding spending can get out of control. There are always costs you didn't neces
 
 ## Stay Attuned to Your Values
 
+Last week, I wrote about creating a wedding budget. One of the most important parts of wedding planning is keeping in mind what is most important to you and your partner. Once you've identified 
+
 ## Use a Checklist
 
-If you've never planned a wedding before, you need a checklist to guide you.
+If you've never planned a wedding before, you need a checklist to guide you. There are many things I would never have thought of if I hadn't done some research. 
+
+I highly recommend Zola for this function. Zola started off as a registry website only, but now it has expanded to include guest lists, RSVPs, wedding websites, and a check list. The best part about the checklist is that it gives you due dates based on your wedding date. It also lets you specify the types of tasks you'll have based on the type of wedding you'll have. For example, if you're going to have a religious wedding, you can indicate that, and you'll get extra tasks that apply. 
 
 *If you use [my link](https://www.zola.com/invite/maggermano201707311447) to sign up for Zola, we'll both get $50 to spend on registry items!*
 
