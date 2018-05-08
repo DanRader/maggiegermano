@@ -51,7 +51,9 @@ I've had a lot of friends get married and I've also had a lot of friends who are
 
 ## Stay Attuned to Your Values
 
-Last week, I wrote about creating a wedding budget. One of the most important parts of wedding planning is keeping in mind what is most important to you and your partner. Once you've identified
+One of the most important parts of wedding planning is keeping in mind what is most important to you and your partner. (You really should check out the first activity in the A Practical Wedding Planner and walk through it right away.) Once you've identified the things that matter most, keep those in mind throughout the process.
+
+Last night, I was reading part of A Practical Wedding Planner and it said: ".... Skip it." That felt so freeing! I don't want to buy extra decorations for my wedding. I don't want to spend a bunch of money on stuff we're going to throw away 
 
 ## Use a Checklist
 
