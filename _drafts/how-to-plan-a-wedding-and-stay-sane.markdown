@@ -47,13 +47,19 @@ Once you answer these questions for yourself, you can decide what you have to do
 
 I'm actually struggling with this part. I'm a control freak and a perfectionist, so of course I want to do everything myself and make sure it's getting done properly. The problem is that it's impossible to do everything alone! Nor should you do everything by yourself. I assume that you still have other life things going on while you're planning your wedding. There's work, relationships to maintain, and everything else that comes with day-to-day life. It can be tough to fit wedding planning in there. So ask for help where you can.
 
+I've had a lot of friends get married and I've also had a lot of friends who are in weddings. So I've heard many complaints and resentments related to weddings. This has made me anxious about asking my family and friends to help with certain things. I'm worried that my bridal party won't want to help plan my bridal shower or bachelorette party. Did they tell me they don't want to do those things? No. I'm making assumptions and putting more pressure on myself. 
+
 ## Stay Attuned to Your Values
 
-Last week, I wrote about creating a wedding budget. One of the most important parts of wedding planning is keeping in mind what is most important to you and your partner. Once you've identified
+One of the most important parts of wedding planning is keeping in mind what is most important to you and your partner. (You really should check out the first activity in the A Practical Wedding Planner and walk through it right away.) Once you've identified the things that matter most, keep those in mind throughout the process.
+
+Last night, I was reading part of A Practical Wedding Planner and it said: ".... Skip it." That felt so freeing! I don't want to buy extra decorations for my wedding. I don't want to spend a bunch of money on stuff we're going to throw away 
+
+So try to make sure your wedding decisions line up with what you truly want for your wedding day. Even when you're overwhelmed, you can comfort yourself by remembering that everything you're doing is aligned with what you know you want.
 
 ## Use a Checklist
 
-If you've never planned a wedding before, you need a checklist to guide you. There are many things I would never have thought of if I hadn't done some research.
+If you've never planned a wedding before, you need a checklist to guide you. There are many things I would never have thought of if I hadn't done some research first. There are plenty of websites and books out there to help you with this.
 
 I highly recommend Zola for this function. Zola started off as a registry website only, but now it has expanded to include guest lists, RSVPs, wedding websites, and a check list. The best part about the checklist is that it gives you due dates based on your wedding date. It also lets you specify the types of tasks you'll have based on the type of wedding you'll have. For example, if you're going to have a religious wedding, you can indicate that, and you'll get extra tasks that apply.
 
