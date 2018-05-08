@@ -47,6 +47,8 @@ Once you answer these questions for yourself, you can decide what you have to do
 
 I'm actually struggling with this part. I'm a control freak and a perfectionist, so of course I want to do everything myself and make sure it's getting done properly. The problem is that it's impossible to do everything alone! Nor should you do everything by yourself. I assume that you still have other life things going on while you're planning your wedding. There's work, relationships to maintain, and everything else that comes with day-to-day life. It can be tough to fit wedding planning in there. So ask for help where you can.
 
+I've had a lot of friends get married and I've also had a lot of friends who are in weddings. So I've heard many complaints and resentments related to weddings. This has made me anxious about asking my family and friends to help with certain things. I'm worried that my bridal party won't want to help plan my bridal shower or bachelorette party. Did they tell me they don't want to do those things? No. I'm making assumptions and putting more pressure on myself. 
+
 ## Stay Attuned to Your Values
 
 Last week, I wrote about creating a wedding budget. One of the most important parts of wedding planning is keeping in mind what is most important to you and your partner. Once you've identified
