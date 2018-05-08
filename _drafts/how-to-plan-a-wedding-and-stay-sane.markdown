@@ -19,16 +19,22 @@ I mentioned this last week, but it's important to set expectations early on. Thi
 
 This can be a difficult conversation, like if your parents want you to have a religious ceremony, but you don't. Or it can be easy, like a parent asking for a non-religious blessing from the guests at the end of the ceremony.
 
+## Keep Track of Your Budget
+
+Wedding spending can get out of control. There are always costs you didn't necessarily plan for.
+
 ## Ask for Help
 
 ## Stay Attuned to Your Values
 
 ## Use a Checklist
 
-If you use my link to sign up for Zola, we'll both get $50 to spend on registry items!
+If you've never planned a wedding before, you need a checklist to guide you.
+
+*If you use my link to sign up for Zola, we'll both get $50 to spend on registry items!*
 
 ## Get Your Partner Involved
 
 I will never understand how one person in a couple can do all the wedding planning while the other person sits it out. Traditionally, we hear stories about the bride doing all the planning (and caring) and the groom just shows up on the wedding day. No thanks!
 
-My fiance, Dan, is super involved in our wedding planning. In fact, he wants to get way more hands-on with things than I do. (He's making out centerpiece vessels, he designed our save-the-dates, and he will be designing our invitations and ketubah.)
+My fiance, Dan, is super involved in our wedding planning. In fact, he wants to get way more hands-on with things than I do. (He's making out centerpiece vessels, he designed our save-the-dates, and he will be designing our invitations and [ketubah](https://en.wikipedia.org/wiki/Ketubah).)
