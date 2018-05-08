@@ -45,7 +45,7 @@ Once you answer these questions for yourself, you can decide what you have to do
 
 ## Ask for Help
 
-I'm actually struggling with this part. I'm a control freak and a perfectionist, so of course I want to do everything myself so I make sure it's getting done properly. The problem is it's impossible to do everything! I assume that you still have other life things going on while you're planning your wedding. There's work, relationships to maintain, and everything that comes with day-to-day life. It can be tough to fit wedding planning in there. So ask for help where you can.
+I'm actually struggling with this part. I'm a control freak and a perfectionist, so of course I want to do everything myself and make sure it's getting done properly. The problem is that it's impossible to do everything alone! Nor should you do everything by yourself. I assume that you still have other life things going on while you're planning your wedding. There's work, relationships to maintain, and everything else that comes with day-to-day life. It can be tough to fit wedding planning in there. So ask for help where you can.
 
 ## Stay Attuned to Your Values
 
