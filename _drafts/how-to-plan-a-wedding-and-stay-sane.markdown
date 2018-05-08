@@ -13,6 +13,8 @@ posts:
 
 I knew planning a wedding would be tough, but I didn't realize just how hard it would be. I'm a fairly organized person who is pretty good at event planning. I thought having lots of checklists would be fun! I was really wrong. So much thought goes into planning a wedding, and so much of it feels out of your control. It can feel endless and make you regret getting engaged in the first place. But I do believe there is a way to hold onto some semblance of sanity during the process. Based on my experience so far, here's my advice.
 
+> So much thought goes into planning a wedding, and so much of it feels out of your control. It can feel endless and make you regret getting engaged in the first place.
+
 ## Set Expectations
 
 I mentioned this last week, but it's important to set expectations early on. This is especially true when it comes to family. Sit down with each set of parents (if they are around and/or involved) and ask them what they would most like to see included in the wedding. Make it clear that you're just collecting opinions, and nothing will be set in stone.
