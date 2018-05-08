@@ -59,7 +59,7 @@ So try to make sure your wedding decisions line up with what you truly want for 
 
 ## Use a Checklist
 
-If you've never planned a wedding before, you need a checklist to guide you. There are many things I would never have thought of if I hadn't done some research.
+If you've never planned a wedding before, you need a checklist to guide you. There are many things I would never have thought of if I hadn't done some research first. There are plenty of websites and books out there to help you with this.
 
 I highly recommend Zola for this function. Zola started off as a registry website only, but now it has expanded to include guest lists, RSVPs, wedding websites, and a check list. The best part about the checklist is that it gives you due dates based on your wedding date. It also lets you specify the types of tasks you'll have based on the type of wedding you'll have. For example, if you're going to have a religious wedding, you can indicate that, and you'll get extra tasks that apply.
 
