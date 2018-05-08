@@ -1,6 +1,7 @@
 ---
 title: How to Plan a Wedding and Stay Sane
 date: 2018-05-14 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 image: "/uploads/hall.jpg"
@@ -51,9 +52,9 @@ I've had a lot of friends get married and I've also had a lot of friends who are
 
 ## Stay Attuned to Your Values
 
-One of the most important parts of wedding planning is keeping in mind what is most important to you and your partner. (You really should check out the first activity in the A Practical Wedding Planner and walk through it right away.) Once you've identified the things that matter most, keep those in mind throughout the process.
+One of the most important parts of wedding planning is keeping in mind what is most important to you and your partner. (You really should check out the first activity in the [A Practical Wedding Planner](https://www.amazon.com/Practical-Wedding-Planner-Step-Step/dp/0738218421) and walk through it right away.) Once you've identified the things that matter most, keep those in mind throughout the process.
 
-Last night, I was reading part of A Practical Wedding Planner and it said: ".... Skip it." That felt so freeing! I don't want to buy extra decorations for my wedding. I don't want to spend a bunch of money on stuff we're going to throw away 
+This week, I was reading part of [A Practical Wedding Planner](https://www.amazon.com/Practical-Wedding-Planner-Step-Step/dp/0738218421) and it said: "As we say on APW, #lazygirl decorations are the best kind of decorations. If it's easy? Do it. if you don't feel like decorating in the first place? Skip it." That felt so freeing! I don't want to buy extra decorations for my wedding. I don't want to spend a bunch of money on stuff we're going to throw away the next day. I also don't want to add another thing to worry about. So we're just going to take advantage of the decorations that come with our venue and only focus on the centerpieces. I feel pretty great about that! 
 
 So try to make sure your wedding decisions line up with what you truly want for your wedding day. Even when you're overwhelmed, you can comfort yourself by remembering that everything you're doing is aligned with what you know you want.
 
