@@ -25,11 +25,23 @@ Before you have this conversation, of course, you have to get on the same page w
 
 ## Keep Track of Your Budget
 
-Wedding spending can get out of control. There are always costs you didn't necessarily plan for. Once you create your [wedding budget](https://www.maggiegermano.com/blog/how-to-create-a-wedding-budget/), make sure you're tracking your actual costs. Specify your budget for each item, and then track how much you're actually going to spend on it.
+Wedding spending can get out of control fast. There are always costs you didn't necessarily plan for. So it's important that you stay on top of your spending throughout the process. Once you create your [wedding budget](https://www.maggiegermano.com/blog/how-to-create-a-wedding-budget/), make sure you're tracking your actual costs. Specify your budget for each item, and then track how much you're actually going to spend on it once you choose a vendor.
 
-[A Practical Wedding](https://apracticalwedding.com/) has a great [spreadsheet](https://docs.google.com/spreadsheets/d/1XGxcnlTKTQ6bKY_jaj4G6lmrNik8ze53KPRhDPOIV_k/edit) that lets you compare your budget versus actual spending numbers. Check in with this spreadsheet every time you hire a new vendor or buy an item. If you see that your spending is getting higher than you expected, take a minute. Ask yourself: Do I need to increase the budget? Do I need to cut something out? Where do I feel comfortable cutting? What can I do to get costs back on track?
+[A Practical Wedding](https://apracticalwedding.com/) has a great [spreadsheet](https://docs.google.com/spreadsheets/d/1XGxcnlTKTQ6bKY_jaj4G6lmrNik8ze53KPRhDPOIV_k/edit) that lets you compare your budget versus actual numbers. Check in with this spreadsheet every time you hire a new vendor or buy an item. If you see that your spending is getting higher than you expected, take a minute to reflect. Ask yourself: 
 
-You don't want to get close to your wedding and suddenly realize that you can't afford to pay all of your vendors. So stay fully informed about your spending throughout the process. And make sure your partner is dialed in too!
+* Do I need to increase the overall budget? 
+
+* Can I even increase the overall budget? 
+
+* Do I need to cut something out? 
+
+* Where do I feel comfortable cutting? 
+
+* What can I do to get costs back on track? 
+
+* Is any of this spending misaligned from how I wanted the wedding to be?
+
+Once you answer these questions for yourself, you can decide what you have to do moving forward. You don't want to get close to your wedding day and suddenly realize that you can't afford to pay all of your vendors. So stay fully informed about your spending throughout the process. And make sure your partner is dialed in too!
 
 ## Ask for Help
 
