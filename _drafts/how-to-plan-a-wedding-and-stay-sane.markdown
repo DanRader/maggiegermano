@@ -19,9 +19,9 @@ I knew planning a wedding would be tough, but I didn't realize just how hard it 
 
 I mentioned this last week, but it's important to set expectations early on. This is especially true when it comes to family. Sit down with each set of parents (if they are around and/or involved) and ask them what they would most like to see included in the wedding. Make it clear that you're just collecting opinions, and nothing will be set in stone.
 
-This can be a difficult conversation, like if your parents want you to have a religious ceremony, but you don't. Or it can be easy, like a parent asking for a non-religious blessing from the guests at the end of the ceremony.
+This can be a difficult conversation, like if your parents want you to have a religious ceremony, but you don't. Or it can be easy, like a parent asking for a non-religious blessing from the guests at the end of the ceremony. Regardless, you want to make it clear what you will and will not be doing for your wedding. Some stakeholders might not be happy, but it's better to be up front and clear from the bat. 
 
-The most important thing to do is to make it clear what you will and will not be doing for your wedding. Some stakeholders might not be happy, but it's better to be up front and clear from the bat. 
+Before you have this conversation, of course, you have to get on the same page with your partner. You must set expectations between the two of you. Compromise on costs, traditions, guests, and everything else involved in a wedding. Not only will both of you be better off, but you'll also be a united front when you talk to your families. 
 
 ## Keep Track of Your Budget
 
