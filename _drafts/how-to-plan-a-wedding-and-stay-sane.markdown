@@ -40,3 +40,5 @@ I will never understand how one person in a couple can do all the wedding planni
 My fiance, Dan, is super involved in our wedding planning. In fact, he wants to get way more hands-on with some things than I do. He's making our centerpiece vessels, he designed our save-the-dates, and he will be designing our invitations and [ketubah](https://en.wikipedia.org/wiki/Ketubah). 
 
 When we first got started with our wedding planning, Dan handled all conversations with one of the potential caterers. Because they were so expensive, I knew I would get angry on the phone. He's also handling getting quotes from printers for our invitations, because he is more familiar with that industry. Identify the strengths and weaknesses of you and your partner and allocate responsibilities accordingly. 
+
+*How have you maintained your sanity during wedding planning? Or did you lose it once or twice? Share in the comments!*
