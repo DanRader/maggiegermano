@@ -31,7 +31,7 @@ Wedding spending can get out of control. There are always costs you didn't neces
 
 If you've never planned a wedding before, you need a checklist to guide you.
 
-*If you use my link to sign up for Zola, we'll both get $50 to spend on registry items!*
+*If you use [my link](https://www.zola.com/invite/maggermano201707311447) to sign up for Zola, we'll both get $50 to spend on registry items!*
 
 ## Get Your Partner Involved
 
