@@ -37,4 +37,6 @@ If you've never planned a wedding before, you need a checklist to guide you.
 
 I will never understand how one person in a couple can do all the wedding planning while the other person sits it out. Traditionally, we hear stories about the bride doing all the planning (and caring) and the groom just shows up on the wedding day. No thanks! That's a recipe for disaster, resentment, and burnout. So make sure your partner is actively involved in the wedding planning process. This will be a good way to practice how to be a team during big moments in life.
 
-My fiance, Dan, is super involved in our wedding planning. In fact, he wants to get way more hands-on with things than I do. (He's making out centerpiece vessels, he designed our save-the-dates, and he will be designing our invitations and [ketubah](https://en.wikipedia.org/wiki/Ketubah).)
+My fiance, Dan, is super involved in our wedding planning. In fact, he wants to get way more hands-on with some things than I do. He's making our centerpiece vessels, he designed our save-the-dates, and he will be designing our invitations and [ketubah](https://en.wikipedia.org/wiki/Ketubah). 
+
+When we first got started with our wedding planning, Dan handled all conversations with one of the potential caterers. Because they were so expensive, I knew I would get angry on the phone. He's also handling getting quotes from printers for our invitations, because he is more familiar with that industry. Identify the strengths and weaknesses of you and your partner and allocate responsibilities accordingly. 
