@@ -25,6 +25,8 @@ Wedding spending can get out of control. There are always costs you didn't neces
 
 [A Practical Wedding](https://apracticalwedding.com/) has a great [spreadsheet](https://docs.google.com/spreadsheets/d/1XGxcnlTKTQ6bKY_jaj4G6lmrNik8ze53KPRhDPOIV_k/edit) that lets you compare your budget versus actual spending numbers. Check in with this spreadsheet every time you hire a new vendor or buy an item. If you see that your spending is getting higher than you expected, take a minute. Ask yourself: Do I need to increase the budget? Do I need to cut something out? Where do I feel comfortable cutting? What can I do to get costs back on track?
 
+You don't want to get close to your wedding and suddenly realize that you can't afford to pay all of your vendors. So stay fully informed about your spending throughout the process. And make sure your partner is dialed in too!
+
 ## Ask for Help
 
 I'm actually struggling with this part. I'm a control freak and a perfectionist, so of course I want to do everything myself so I make sure it's getting done properly. The problem is it's impossible to do everything! I assume that you still have other life things going on while you're planning your wedding. There's work, relationships to maintain, and everything that comes with day-to-day life. It can be tough to fit wedding planning in there. So ask for help where you can.
