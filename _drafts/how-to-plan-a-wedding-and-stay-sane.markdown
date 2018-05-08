@@ -55,6 +55,8 @@ One of the most important parts of wedding planning is keeping in mind what is m
 
 Last night, I was reading part of A Practical Wedding Planner and it said: ".... Skip it." That felt so freeing! I don't want to buy extra decorations for my wedding. I don't want to spend a bunch of money on stuff we're going to throw away 
 
+So try to make sure your wedding decisions line up with what you truly want for your wedding day. Even when you're overwhelmed, you can comfort yourself by remembering that everything you're doing is aligned with what you know you want.
+
 ## Use a Checklist
 
 If you've never planned a wedding before, you need a checklist to guide you. There are many things I would never have thought of if I hadn't done some research.
