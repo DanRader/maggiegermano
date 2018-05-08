@@ -25,6 +25,8 @@ Wedding spending can get out of control. There are always costs you didn't neces
 
 ## Ask for Help
 
+I'm actually struggling with this part. I'm a control freak and a perfectionist, so of course I want to do everything myself so I make sure it's getting done properly. The problem is it's impossible to do everything! I assume that you still have other life things going on while you're planning your wedding. There's work, relationships to maintain, and everything that comes with day-to-day life. It can be tough to fit wedding planning in there. So ask for help where you can.
+
 ## Stay Attuned to Your Values
 
 Last week, I wrote about creating a wedding budget. One of the most important parts of wedding planning is keeping in mind what is most important to you and your partner. Once you've identified 
