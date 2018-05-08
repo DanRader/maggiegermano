@@ -1,6 +1,7 @@
 ---
 title: How to Plan a Wedding and Stay Sane
 date: 2018-05-14 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 image: "/uploads/hall.jpg"
