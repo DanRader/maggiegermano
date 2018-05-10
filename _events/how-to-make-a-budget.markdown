@@ -2,6 +2,8 @@
 title: How to Make a Budget
 date: 2018-06-20 18:30:00 -04:00
 published: false
+image: "/uploads/monay.jpg"
+og-image: "/uploads/Money%20Circle%20Photos%20(8).png"
 event-date: 2018-06-20 18:30:00 -04:00
 start-time: 6:30PM
 end-time: 8:30PM
