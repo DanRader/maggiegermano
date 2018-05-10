@@ -1,14 +1,17 @@
 ---
 title: How to Make a Budget
-date: 2018-05-10 09:32:00 -04:00
+date: 2018-06-20 18:30:00 -04:00
 published: false
 start-time: 6:30PM
 end-time: 8:30PM
+location: Columbia Heights Residence (11th and Otis NW)
 button-text: Sign Me Up!
 ticket-price: "$20"
 ---
 
 Having a budget is key to being financially stable. You have to know what is going in and out each month. But creating a budget and sticking to it is not exactly straightforward or easy. 
+
+This event will take place near 11th and Otis NW in Columbia Heights. The exact location will be provided upon registration. 
 
 --\
 We live in a society where money is an unspoken taboo. We aren’t supposed to ask people how much money they earn, and women especially have a hard time knowing and asking for what they are worth. It’s more important than ever to band together and put it all on the table.
