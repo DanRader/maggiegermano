@@ -2,6 +2,10 @@
 title: 'Starting Early: Planning and Saving for Holiday Spending'
 date: 2018-05-10 09:47:00 -04:00
 published: false
+start-time: 6:30PM
+end-time: 8:30PM
+button-text: Sign Me Up
+ticket-price: "$20"
 ---
 
 x
