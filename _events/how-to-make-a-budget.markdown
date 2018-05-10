@@ -2,6 +2,7 @@
 title: How to Make a Budget
 date: 2018-06-20 18:30:00 -04:00
 published: false
+event-date: 2018-06-20 18:30:00 -04:00
 start-time: 6:30PM
 end-time: 8:30PM
 location: Columbia Heights Residence (11th and Otis NW)
