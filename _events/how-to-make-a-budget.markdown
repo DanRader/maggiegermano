@@ -8,7 +8,7 @@ button-text: Sign Me Up!
 ticket-price: "$20"
 ---
 
-xx
+Having a budget is key to being financially stable. But creating a budget and sticking to it is not exactly straightforward or easy. 
 
 --\
 We live in a society where money is an unspoken taboo. We aren’t supposed to ask people how much money they earn, and women especially have a hard time knowing and asking for what they are worth. It’s more important than ever to band together and put it all on the table.
