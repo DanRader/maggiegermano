@@ -20,7 +20,7 @@ Happy Friday, y'all! For some reason, I was really lethargic and emotional this 
 
 * We have two different sets of Airbnb guests this week.
 
-* Technically this isn't making money, because we're just getting a rebate for money we already spent. BUT the Pepco rebate for the insulation work we had done was approved and we should be getting that soon! We also submitted a rebate request to Pepco for an Energy Star Certified [dehumidifier](https://homeenergysavings.pepco.com/appliance-rebate-program) we bought for the basement. 
+* Technically this isn't making money, because we're just getting a rebate for money we already spent. BUT the Pepco rebate for the insulation work we had done was approved and we should be getting that soon! We also submitted a rebate request to Pepco for an Energy Star Certified [dehumidifier](https://homeenergysavings.pepco.com/appliance-rebate-program) we bought for the basement.
 
 ## How I Spent Money This Week
 
@@ -48,12 +48,12 @@ This week (and this month, really) is all about weddings! I wrote about [how to 
 
 * I was interviewed for the [HerStory](http://herstryblg.com/our-interviews/2018/5/9/interview-maggie-germano) blog! I talk about how I became an entrepreneur and why it's important that women share their stories. Check it out and let me know what you think.
 
-* **I’m starting a financial advice column!**I don’t know when I’ll have it up and running yet, but I’ve already answered a few questions that will be published when it’s ready. I need to pick the name and have Dan make some new branding for the column, and then I’ll be ready to go! The premise of the column will be similar to my coaching style and other writing. Helpful advice without judgment. Got questions? Email me at **[hello@maggiegermano.com](mailto:hello@maggiegermano.com)**!
+* I’m starting a financial advice column! I don’t know when I’ll have it up and running yet, but I’ve already answered a few questions that will be published when it’s ready. I need to pick the name and have Dan make some new branding for the column, and then I’ll be ready to go! The premise of the column will be similar to my coaching style and other writing. Helpful advice without judgment. Got questions? Email me at **[hello@maggiegermano.com](mailto:hello@maggiegermano.com)**!
 
 ## Money Tip to Take Into the Weekend
 
 I loved this tip from [The Financial Diet](http://thefinancialdiet.com/), and couldn't put it any better:
 
-[![Screen Shot 2018-05-10 at 8.28.16 PM.png](/uploads/Screen%20Shot%202018-05-10%20at%208.28.16%20PM.png)](https://www.instagram.com/thefinancialdiet/)
+![Screen Shot 2018-05-10 at 8.28.16 PM.png](/uploads/Screen%20Shot%202018-05-10%20at%208.28.16%20PM.png)
 
 That’s all from me this week. Have a great weekend!
