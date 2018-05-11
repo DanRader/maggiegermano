@@ -30,6 +30,8 @@ Happy Friday, y'all! For some reason, I was really lethargic and emotional this 
 
 * I decided to try [Care/Of](https://takecareof.com/), finally. I like that you answer a quiz to determine what types of vitamins you might need, and then they send them in daily packets with your name on it. I had a 50% off coupon as a new customer, so it is worth trying! If you [use my link](https://takecareof.com/invites/mgwpaq), you'll get $40 off your first month! That would most likely cover the full cost, so check it out!
 
+* We also spent the usual money on [Hungry Harvest](http://hharvest.net/m5didTk) and other groceries. Plus, last night, I splurged a little bit on some hot bar items from Whole Foods. 
+
 ![2018-05-06 15.56.39.jpg](/uploads/2018-05-06%2015.56.39.jpg)
 
 ## What I’m Writing
