@@ -3,6 +3,13 @@ title: Founder Friday | Vitamins, HerStory, Frederick
 date: 2018-05-11 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/breakfast.jpg"
+tweet: "#FounderFriday: I bought some vitamins, and planned a short trip. What did
+  you do with your #money this week?"
+posts:
+- Founder Friday | Weddings, Advice, ICF
+- Founder Friday | Breweries, Safe Spaces, and Money Circle
+- Founder Friday | Money Circle, Popcorn Finance, Roxane Gay
 ---
 
 Happy Friday, y'all! For some reason, I was really lethargic and emotional this week. It felt like I was struggling to get anything done. I made it through, and I accomplished almost all of my tasks, but I'm sure happy it's almost the weekend. This weekend, I'm going to celebrate a lovely friend's birthday and spend some quality time with my dude. What are you up to this weekend?
