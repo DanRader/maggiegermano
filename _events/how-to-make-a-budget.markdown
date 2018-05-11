@@ -12,9 +12,11 @@ button-text: Sign Me Up!
 ticket-price: "$20"
 ---
 
-Having a budget is key to being financially stable. You have to know what is going in and out each month. But creating a budget and sticking to it is not exactly straightforward or easy. 
+Having a budget is key to being financially stable. You have to know what is going in and out each month. But creating a budget and sticking to it is not exactly straightforward or easy. Join us at Money Circle and we'll create our new budgets together. 
 
-This event will take place near 11th and Otis NW in Columbia Heights. The exact location will be provided upon registration. 
+Bring a list of your expenses and income. It will also be helpful if you have an average of how much you typically spend outside of bills each month. 
+
+This event will take place near 11th and Otis NW in Columbia Heights. The exact location will be provided upon registration.
 
 --\
 We live in a society where money is an unspoken taboo. We aren’t supposed to ask people how much money they earn, and women especially have a hard time knowing and asking for what they are worth. It’s more important than ever to band together and put it all on the table.
