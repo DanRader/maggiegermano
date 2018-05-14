@@ -45,7 +45,7 @@ There's nothing "unfeminist" about wearing heels. But there's a lot of pressure 
 
 I'm both an environmentalist and a small business owner. Those are two of the reasons that it's important to me to use small, local vendors for our wedding. We're getting married at a small farm and vineyard in Maryland and we are buying our wine from them. We will also be serving only local beer at the reception, though we haven't chosen the breweries yet. (Got recommendations from the DC/MD/VA area? Leave them in the comments!)
 
-Our caterer runs a small pizza food truck and sources all of his ingredients from local farmers. He may not be as fast or efficient as other, larger caterers, but we love his mission and he's been great to work with. Plus, his pizza is amazing! For dessert, we are serving donuts from Sugar Shack, which originates in Dan's hometown of Richmond, but has spread to the DC area in recent years. 
+Our caterer runs a small pizza food truck (Pizza Brama) and sources all of his ingredients from local farmers. He may not be as fast or efficient as other, larger caterers, but we love his mission and he's been great to work with. Plus, his pizza is amazing and his prices are reasonable! For dessert, we are serving donuts from Sugar Shack, which originates in Dan's hometown of Richmond, but has spread to the DC area in recent years. Even better, Sugar Shack makes extra large donuts that can serve as the wedding cake that we cut at the reception.
 
 ## My Dress Only Cost $240
 
