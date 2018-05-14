@@ -11,9 +11,9 @@ posts:
 - How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
 ---
 
-I'm a fierce feminist who has always been outspoken about my opinions and beliefs. I'm also a straight, cisgendered, white woman who comes from privilege. 
+I'm a fierce feminist who has always been outspoken about my opinions and beliefs. I'm also a straight, cisgendered, white woman who comes from privilege.
 
-Yes, I'm going along with many of the expected traditions when it comes to getting married. But I also wanted to make sure that I was incorporating my own values throughout the process. 
+Yes, I'm going along with many of the expected traditions when it comes to getting married. But I also wanted to make sure that I was incorporating my own values throughout the process.
 
 ## Both Parents Are Walking Me Down the Aisle
 
@@ -31,23 +31,25 @@ PS: [Buy Matt's coffee!](http://simpleroastcoffee.com/)
 
 ## Dan Has Two Groomswomen
 
-Again, we didn't think it made sense to exclude close family or friends because they weren't the same gender. Dan is having his sister and his good friend Marie as his groomswomen. 
+Again, we didn't think it made sense to exclude close family or friends because they weren't the same gender. Dan is having his sister and his good friend Marie as his groomswomen.
 
 ## We're Letting the Women Pick Their Dresses
 
-I've been in two weddings where the bride let me pick out my own dress. All I had to do was follow a basic color scheme. I thought that was awesome! It allowed me to buy a dress that fit in my budget, that fit my actual body, and that I felt great in! It also helped that I could wear it again. I wanted to pass that favor along to the women in my own bridal party. All the women can pick out their own dress; the only guideline is that it be navy blue to match our theme. 
+I've been in two weddings where the bride let me pick out my own dress. All I had to do was follow a basic color scheme. I thought that was awesome! It allowed me to buy a dress that fit in my budget, that fit my actual body, and that I felt great in! It also helped that I could wear it again. I wanted to pass that favor along to the women in my own bridal party. All the women can pick out their own dress; the only guideline is that it be navy blue to match our theme.
 
 ## I'm Not Wearing Heels
 
-There's nothing "unfeminist" about wearing heels. But there's a lot of pressure to look a certain way on your wedding day. I've decided that I want to be as comfortable and as true to myself as possible.
+There's nothing "unfeminist" about wearing heels. But there's a lot of pressure to look a certain way on your wedding day, whether you want to or not. I've decided that I want to be as comfortable and as true to my normal self as possible. That means I'll be rocking flats all day and night! I plan to buy some flashy blue shoes that will look great and also feel great to dance in. 
 
 ## We're Using All Local Food and Drink
 
+I'm both an environmentalist and a small business owner. Those are two of the reasons that it's important to me to use small, local vendors for our wedding. We're getting married at a small farm and vineyard in Maryland and we are buying our wine from them. We will also be serving only local beer at the reception, though we haven't chosen the breweries yet. (Got recommendations from the DC/MD/VA area? Leave them in the comments!)
 
+Our caterer runs a small pizza food truck (Pizza Brama) and sources all of his ingredients from local farmers. He may not be as fast or efficient as other, larger caterers, but we love his mission and he's been great to work with. Plus, his pizza is amazing and his prices are reasonable! For dessert, we are serving donuts from Sugar Shack, which originates in Dan's hometown of Richmond, but has spread to the DC area in recent years. Even better, Sugar Shack makes extra large donuts that can serve as the wedding cake that we cut at the reception.
 
 ## My Dress Only Cost $240
 
-I didn't even want to go dress shopping when I first got engaged. I knew I'd be pressured to spend a ton of money and get overwhelmed by all the choices. But my mom and my bridesmaids wanted to go dress shopping with me, so I relented. The boutique was cute and the woman helping us was very nice, but one of the first things she told me is that the average bride spends about $1,500 on her wedding dress. NOPE.
+I didn't even want to go dress shopping when I first got engaged. I knew I'd be pressured to spend a ton of money and get overwhelmed by all the choices. But my mom and my bridesmaids wanted to go dress shopping with me, so I relented. The boutique was cute and the woman helping us was very nice, but one of the first things she told me is that the average bride spends about $1,500 on her wedding dress. NOPE, not this bride.
 
 My mom offered to buy my wedding dress for me, so I didn't have to worry about my own budget, but it was still important to me to not spend a lot on my dress. I don't have very fancy taste, so none of the poofy, sparkly dresses appealed to me. After rejecting several dresses, the woman at the boutique finally started bringing me bridesmaids dresses that come in white and only cost $300. **Pro tip:** you can buy white bridesmaids dresses and use them as your wedding dress! That was a game changer for me. I ultimately ended up buying my dress from BHLDN, but it was only $240 and is technically a bridesmaids dress. To make things even better, it's exactly what I had in mind and will be comfortable and simple.
 
