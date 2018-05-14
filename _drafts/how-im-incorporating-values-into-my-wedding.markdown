@@ -13,6 +13,8 @@ posts:
 
 I'm a fierce feminist who has always been outspoken about my opinions and beliefs. I'm also a straight, cisgendered, white woman who comes from privilege. 
 
+Yes, I'm going along with many of the expected traditions when it comes to getting married. But I also wanted to make sure that I was incorporating my own values throughout the process. 
+
 ## Both Parents Are Walking Me Down the Aisle
 
 Years ago, I watched an episode of Brothers and Sisters where Calista Flockhart's character is getting married. Her father had already passed away, so he couldn't walk her down the aisle, so she chose her uncle to do so. However, she thought it was unfair to not include her mother in such an important moment, so she had both of them walk her down the aisle. I loved that sentiment so much that I decided I would do the same one day. It turns out, one of the only requests my mom had for the wedding was that she and my dad walk me down the aisle. Win, win!
@@ -29,7 +31,11 @@ PS: [Buy Matt's coffee!](http://simpleroastcoffee.com/)
 
 ## Dan Has Two Groomswomen
 
-Again, we didn't think it made sense to exclude close family or friends because they weren't the same gender. Dan is having his sister and his good friend Marie 
+Again, we didn't think it made sense to exclude close family or friends because they weren't the same gender. Dan is having his sister and his good friend Marie as his groomswomen. 
+
+## We're Letting the Women Pick Their Dresses
+
+I've been in two weddings where the bride let me pick out my own dress. All I had to do was follow a basic color scheme. I thought that was awesome! It allowed me to buy a dress that fit in my budget, that fit my actual body, and that I felt great in! It also helped that I could wear it again. I wanted to pass that favor along to the women in my own bridal party. All the women can pick out their own dress; the only guideline is that it be navy blue to match our theme. 
 
 ## I'm Not Wearing Heels
 
@@ -37,11 +43,13 @@ There's nothing "unfeminist" about wearing heels. But there's a lot of pressure 
 
 ## We're Using All Local Food and Drink
 
+
+
 ## My Dress Only Cost $240
 
 I didn't even want to go dress shopping when I first got engaged. I knew I'd be pressured to spend a ton of money and get overwhelmed by all the choices. But my mom and my bridesmaids wanted to go dress shopping with me, so I relented. The boutique was cute and the woman helping us was very nice, but one of the first things she told me is that the average bride spends about $1,500 on her wedding dress. NOPE.
 
-My mom offered to buy my wedding dress for me, so I didn't have to worry about my own budget, but it was still important to me to not spend a lot on my dress. I don't have very fancy taste, so none of the poofy, sparkly dresses appealed to me. After rejecting several dresses, the woman at the boutique finally started bringing me bridesmaids dress that come in white and only cost $300. Pro tip: you can buy white bridesmaids dresses and use them as your wedding dress! That was a game changer for me. I ultimately ended up buying my dress from BHLDN, but it was only $240 and is technically a bridesmaids dress. To make things even better, it's exactly what I had in mind and will be comfortable and simple.
+My mom offered to buy my wedding dress for me, so I didn't have to worry about my own budget, but it was still important to me to not spend a lot on my dress. I don't have very fancy taste, so none of the poofy, sparkly dresses appealed to me. After rejecting several dresses, the woman at the boutique finally started bringing me bridesmaids dresses that come in white and only cost $300. **Pro tip:** you can buy white bridesmaids dresses and use them as your wedding dress! That was a game changer for me. I ultimately ended up buying my dress from BHLDN, but it was only $240 and is technically a bridesmaids dress. To make things even better, it's exactly what I had in mind and will be comfortable and simple.
 
 ## Our Officiant is a Dear Friend
 
@@ -51,4 +59,6 @@ We aren't having a religious wedding ceremony (Dan is Jewish and I'm a recoverin
 
 ## We Won't Be Pronounced Mr. and Mrs.
 
-I'm keeping my last name after I get married. I also don't plan on ever writing "Mrs. Maggie Germano" on anything. I don't think anyone needs to know my marital status just by looking at my name.
+I'm keeping my last name after I get married. I also don't plan on ever writing "Mrs. Maggie Germano" on anything. I don't think anyone needs to know my marital status just by looking at my name. I know a lot of people don't feel strongly about this issue, but it means a lot to me. I want to maintain the identity that I've had for my entire life, and not change it because I've gotten married. Yes, I'll still have a husband and we'll still be a family, but I'll always be Maggie Germano.
+
+*What kinds of values did you incorporate into your own wedding? Is there anything you compromised on? Share in the comments!*
