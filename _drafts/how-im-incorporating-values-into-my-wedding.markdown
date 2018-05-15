@@ -23,11 +23,13 @@ And I'll be honest here: our wedding is going to be much more expensive than I w
 
 ## Both Parents Are Walking Me Down the Aisle
 
-Years ago, I watched an episode of Brothers and Sisters where Calista Flockhart's character is getting married. Her father had already passed away, so he couldn't walk her down the aisle, so she chose her uncle to do so. However, she thought it was unfair to not include her mother in such an important moment, so she had both of them walk her down the aisle. I loved that sentiment so much that I decided I would do the same one day. It turns out, one of the only requests my mom had for the wedding was that she and my dad walk me down the aisle. Win, win!
+Years ago, I watched an episode of [Brothers and Sisters](https://www.imdb.com/title/tt0758737/) where Calista Flockhart's character is getting married. Her father had already passed away, so he couldn't walk her down the aisle, so she chose her mother to do so. She thought it was unfair to not include her mother in such an important moment. I loved that sentiment so much that I decided I would have both of my parents walk me down the aisle someday. It turns out, one of the only requests my mom had for the wedding was that she and my dad walk me down the aisle together. Win, win!
 
 ## I'm Not Being "Given Away"
 
 My dad never owned me. My future husband won't own me. So there's no reason for anyone to say that I'm being given away to anyone. I'm choosing to get married, and I'll still be my own person.
+
+Apparently Brothers and Sisters really impacted me, because this is another part of the show that I remember very well. When Calista Flockhart's character's mother walk her down the aisle, she says this: 
 
 ## I Have a Bridesman
 
