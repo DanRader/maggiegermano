@@ -14,6 +14,8 @@ ticket-price: "$20"
 
 x
 
+This month, we'll be joined by financial coach Claudia Russell! 
+
 --\
 We live in a society where money is an unspoken taboo. We aren’t supposed to ask people how much money they earn, and women especially have a hard time knowing and asking for what they are worth. It’s more important than ever to band together and put it all on the table.
 
