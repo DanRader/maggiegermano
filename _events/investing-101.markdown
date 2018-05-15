@@ -2,6 +2,8 @@
 title: Investing 101
 date: 2018-07-17 18:30:00 -04:00
 published: false
+image: "/uploads/phone.jpg"
+og-image: "/uploads/Money%20Circle%20Photos%20(9).png"
 event-date: 2018-07-17 18:30:00 -04:00
 start-time: 6:30PM
 end-time: 8:30PM
