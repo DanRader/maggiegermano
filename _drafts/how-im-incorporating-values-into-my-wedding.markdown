@@ -13,7 +13,7 @@ posts:
 
 I'm a fierce feminist who has always been outspoken about my opinions and beliefs. I'm also a straight, white, cisgendered person who fits squarely in the role that the wedding industrial complex caters to. I want an egalitarian relationship where I can be utterly and completely myself. And I also want a somewhat traditional wedding where my friends and family can come together and celebrate my partner and me.
 
-These things feel like they come into conflict with each other sometimes. Honestly, being engaged to a white man feels like it comes into conflict with many of my beliefs! But it is what it is, and I am who I am. So while I'm going along with some of the expected traditions for weddings and marriage, it's important to me to incorporate my deeply held values along the way.
+These things feel like they come into conflict with each other sometimes. Honestly, being engaged to a white man feels like it comes into conflict with many of my beliefs (#banmen)! But it is what it is, and I am who I am. So while I'm going along with some of the expected traditions for weddings and marriage, it's important to me to incorporate my deeply held values along the way.
 
 ## We're Paying for the Wedding Ourselves
 
