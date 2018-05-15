@@ -1,9 +1,11 @@
 ---
 title: Investing 101
-date: 2018-05-10 09:45:00 -04:00
+date: 2018-07-17 18:30:00 -04:00
 published: false
+event-date: 2018-07-17 18:30:00 -04:00
 start-time: 6:30PM
 end-time: 8:30PM
+location: Cherry Blossom Creative, 2128 8th Street NW, Washington, DC 20001
 button-text: Sign Me Up!
 ticket-price: "$20"
 ---
