@@ -59,6 +59,10 @@ Two years ago, I officiated the wedding of my bridesman, Matt, and my friend (hi
 
 We aren't having a religious wedding ceremony (Dan is Jewish and I'm a recovering Catholic), so there isn't a religious officiant to choose from. There is the option of hiring a secular celebrant but we didn't really want a stranger to preside over the ceremony. Ultimately, the only officiant who made sense is our dear friend, Brian. I've known Brian since the 7th grade and he's been Dan's best friend since college. He is the one who introduced us to each other too! So we asked, and he graciously accepted. Brian will be both the officiant and the best man, and I can't wait to hear what he comes up with.
 
+## We Aren't Throwing a Bouquet or a Garter
+
+Honestly, the part of a wedding reception where a random guy puts a garter on the thigh of a random woman is really creepy to me. 
+
 ## We Won't Be Pronounced Mr. and Mrs.
 
 I'm keeping my last name after I get married. I also don't plan on ever writing "Mrs. Maggie Germano" on anything. I don't think anyone needs to know my marital status just by looking at my name. I know a lot of people don't feel strongly about this issue, but it means a lot to me. I want to maintain the identity that I've had for my entire life, and not change it because I've gotten married. Yes, I'll still have a husband and we'll still be a family, but I'll always be Maggie Germano.
