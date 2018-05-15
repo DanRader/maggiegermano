@@ -69,7 +69,7 @@ We aren't having a religious wedding ceremony (Dan is Jewish and I'm a recoverin
 
 ## We Aren't Throwing a Bouquet or a Garter
 
-Honestly, the part of a wedding reception where a random guy puts a garter on the thigh of a random woman is really creepy to me.
+Honestly, the part of a wedding reception where a random guy puts a garter on the thigh of a random woman is really creepy to me. And I've sat out the bouquet toss at weddings for probably the last 5 years. 
 
 ## We Won't Be Pronounced Mr. and Mrs.
 
