@@ -29,7 +29,7 @@ Years ago, I watched an episode of [Brothers and Sisters](https://www.imdb.com/t
 
 My dad never owned me. My future husband won't own me. So there's no reason for anyone to say that I'm being given away to anyone. I'm choosing to get married, and I'll still be my own person.
 
-Apparently Brothers and Sisters really impacted me, because this is another part of the show that I remember very well. When Calista Flockhart's character's mother walk her down the aisle, she says this: "She gives herself freely, with my love and my blessing." I'm tearing up just typing that!
+Apparently Brothers and Sisters really impacted me, because this is another part of the wedding episode that I remember very well. When the officiant asks who is giving away the bride, her mother says this: "She gives herself freely, with my love and my blessing." I'm tearing up just typing that!
 
 ## I Have a Bridesman
 
