@@ -1,14 +1,20 @@
 ---
 title: Investing 101
-date: 2018-05-10 09:45:00 -04:00
+date: 2018-07-17 18:30:00 -04:00
 published: false
+image: "/uploads/phone.jpg"
+og-image: "/uploads/Money%20Circle%20Photos%20(9).png"
+event-date: 2018-07-17 18:30:00 -04:00
 start-time: 6:30PM
 end-time: 8:30PM
+location: Cherry Blossom Creative, 2128 8th Street NW, Washington, DC 20001
 button-text: Sign Me Up!
 ticket-price: "$20"
 ---
 
 x
+
+This month, we'll be joined by financial coach Claudia Russell! 
 
 --\
 We live in a society where money is an unspoken taboo. We aren’t supposed to ask people how much money they earn, and women especially have a hard time knowing and asking for what they are worth. It’s more important than ever to band together and put it all on the table.
