@@ -11,9 +11,15 @@ posts:
 - How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
 ---
 
-I'm a fierce feminist who has always been outspoken about my opinions and beliefs. I'm also a straight, white, cisgendered person who fits squarely in the role that the wedding industrial complex caters to. I want an egalitarian relationship where I can be utterly and completely myself. And I also want a somewhat traditional wedding where my friends and family can come together and celebrate my partner and me.  
+I'm a fierce feminist who has always been outspoken about my opinions and beliefs. I'm also a straight, white, cisgendered person who fits squarely in the role that the wedding industrial complex caters to. I want an egalitarian relationship where I can be utterly and completely myself. And I also want a somewhat traditional wedding where my friends and family can come together and celebrate my partner and me.
 
 These things feel like they come into conflict with each other sometimes. Honestly, being engaged to a white man feels like it comes into conflict with many of my beliefs! But it is what it is, and I am who I am. So while I'm going along with some of the expected traditions for weddings and marriage, it's important to me to incorporate my deeply held values along the way.
+
+## We're Paying for the Wedding Ourselves
+
+This is a big one. Weddings are. so. expensive. But it was important to Dan and me to save up and pay for our own wedding. We did this because on one hand, we're not entirely sure either of our parents have tens of thousands of dollars just lying around to use for a party. On the other hand, we wanted to be able to do this ourselves and make sure that the wedding was really what we want it to be. Sometimes, when money gets involved, there can be a lot of expectations.
+
+And I'll be honest here: our wedding is going to be much more expensive than I wanted it to be. Some days, it feels like I'm compromising my financial values by spending as much as we are. And maybe I am. But we are planning the wedding we really want, and weddings cost a lot of money! It's certainly been a reality check, and we're privileged enough to have the money to pay for it without going into debt.
 
 ## Both Parents Are Walking Me Down the Aisle
 
@@ -61,7 +67,7 @@ We aren't having a religious wedding ceremony (Dan is Jewish and I'm a recoverin
 
 ## We Aren't Throwing a Bouquet or a Garter
 
-Honestly, the part of a wedding reception where a random guy puts a garter on the thigh of a random woman is really creepy to me. 
+Honestly, the part of a wedding reception where a random guy puts a garter on the thigh of a random woman is really creepy to me.
 
 ## We Won't Be Pronounced Mr. and Mrs.
 
