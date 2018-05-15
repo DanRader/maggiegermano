@@ -11,9 +11,9 @@ posts:
 - How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
 ---
 
-I'm a fierce feminist who has always been outspoken about my opinions and beliefs. I'm also a straight, cisgendered, white woman who comes from privilege.
+I'm a fierce feminist who has always been outspoken about my opinions and beliefs. I'm also a straight, white, cisgendered person who fits squarely in the role that the wedding industrial complex caters to. I want an egalitarian relationship where I can be utterly and completely myself. And I also want a somewhat traditional wedding where my friends and family can come together and celebrate my partner and me.  
 
-Yes, I'm going along with many of the expected traditions when it comes to getting married. But I also wanted to make sure that I was incorporating my own values throughout the process.
+These things feel like they come into conflict with each other sometimes. Honestly, being engaged to a white man feels like it comes into conflict with many of my beliefs! But it is what it is, and I am who I am. So while I'm going along with some of the expected traditions for weddings and marriage, it's important to me to incorporate my deeply held values along the way.
 
 ## Both Parents Are Walking Me Down the Aisle
 
@@ -39,7 +39,7 @@ I've been in two weddings where the bride let me pick out my own dress. All I ha
 
 ## I'm Not Wearing Heels
 
-There's nothing "unfeminist" about wearing heels. But there's a lot of pressure to look a certain way on your wedding day, whether you want to or not. I've decided that I want to be as comfortable and as true to my normal self as possible. That means I'll be rocking flats all day and night! I plan to buy some flashy blue shoes that will look great and also feel great to dance in. 
+There's nothing "unfeminist" about wearing heels. But there's a lot of pressure to look a certain way on your wedding day, whether you want to or not. I've decided that I want to be as comfortable and as true to my normal self as possible. That means I'll be rocking flats all day and night! I plan to buy some flashy blue shoes that will look great and also feel great to dance in.
 
 ## We're Using All Local Food and Drink
 
