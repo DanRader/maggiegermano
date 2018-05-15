@@ -11,9 +11,15 @@ posts:
 - How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
 ---
 
-I'm a fierce feminist who has always been outspoken about my opinions and beliefs. I'm also a straight, cisgendered, white woman who comes from privilege.
+I'm a fierce feminist who has always been outspoken about my opinions and beliefs. I'm also a straight, white, cisgendered person who fits squarely in the role that the wedding industrial complex caters to. I want an egalitarian relationship where I can be utterly and completely myself. And I also want a somewhat traditional wedding where my friends and family can come together and celebrate my partner and me.
 
-Yes, I'm going along with many of the expected traditions when it comes to getting married. But I also wanted to make sure that I was incorporating my own values throughout the process.
+These things feel like they come into conflict with each other sometimes. Honestly, being engaged to a white man feels like it comes into conflict with many of my beliefs! But it is what it is, and I am who I am. So while I'm going along with some of the expected traditions for weddings and marriage, it's important to me to incorporate my deeply held values along the way.
+
+## We're Paying for the Wedding Ourselves
+
+This is a big one. Weddings are. so. expensive. But it was important to Dan and me to save up and pay for our own wedding. We did this because on one hand, we're not entirely sure either of our parents have tens of thousands of dollars just lying around to use for a party. On the other hand, we wanted to be able to do this ourselves and make sure that the wedding was really what we want it to be. Sometimes, when money gets involved, there can be a lot of expectations.
+
+And I'll be honest here: our wedding is going to be much more expensive than I wanted it to be. Some days, it feels like I'm compromising my financial values by spending as much as we are. And maybe I am. But we are planning the wedding we really want, and weddings cost a lot of money! It's certainly been a reality check, and we're privileged enough to have the money to pay for it without going into debt.
 
 ## Both Parents Are Walking Me Down the Aisle
 
@@ -39,7 +45,7 @@ I've been in two weddings where the bride let me pick out my own dress. All I ha
 
 ## I'm Not Wearing Heels
 
-There's nothing "unfeminist" about wearing heels. But there's a lot of pressure to look a certain way on your wedding day, whether you want to or not. I've decided that I want to be as comfortable and as true to my normal self as possible. That means I'll be rocking flats all day and night! I plan to buy some flashy blue shoes that will look great and also feel great to dance in. 
+There's nothing "unfeminist" about wearing heels. But there's a lot of pressure to look a certain way on your wedding day, whether you want to or not. I've decided that I want to be as comfortable and as true to my normal self as possible. That means I'll be rocking flats all day and night! I plan to buy some flashy blue shoes that will look great and also feel great to dance in.
 
 ## We're Using All Local Food and Drink
 
@@ -58,6 +64,10 @@ My mom offered to buy my wedding dress for me, so I didn't have to worry about m
 Two years ago, I officiated the wedding of my bridesman, Matt, and my friend (his now wife) Kristen. I introduced them to each other, so it was a special honor for me to marry them. I loved being able to add personal touches to the ceremony based on my friendship with both of them, and that is something I really want for my own wedding.
 
 We aren't having a religious wedding ceremony (Dan is Jewish and I'm a recovering Catholic), so there isn't a religious officiant to choose from. There is the option of hiring a secular celebrant but we didn't really want a stranger to preside over the ceremony. Ultimately, the only officiant who made sense is our dear friend, Brian. I've known Brian since the 7th grade and he's been Dan's best friend since college. He is the one who introduced us to each other too! So we asked, and he graciously accepted. Brian will be both the officiant and the best man, and I can't wait to hear what he comes up with.
+
+## We Aren't Throwing a Bouquet or a Garter
+
+Honestly, the part of a wedding reception where a random guy puts a garter on the thigh of a random woman is really creepy to me.
 
 ## We Won't Be Pronounced Mr. and Mrs.
 
