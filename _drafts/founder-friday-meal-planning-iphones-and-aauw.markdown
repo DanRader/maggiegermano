@@ -12,7 +12,7 @@ posts:
 - Founder Friday | Breweries, Safe Spaces, and Money Circle
 ---
 
-x
+Womp, womp. It's basically not stopped raining this week. It's super gloomy, but I'm happy it's not 90 degrees right now. 
 
 ## How I Earned Money This Week
 
