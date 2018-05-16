@@ -3,6 +3,13 @@ title: Founder Friday | Meal Planning, iPhones, and AAUW
 date: 2018-05-18 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/food.jpg"
+tweet: 'This week, I want you to vote, come see me speak, and ask me questions! Check
+  out my #founderfriday post.'
+posts:
+- Founder Friday | Vitamins, HerStory, Frederick
+- Founder Friday | Weddings, Advice, ICF
+- Founder Friday | Breweries, Safe Spaces, and Money Circle
 ---
 
 x
