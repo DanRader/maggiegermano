@@ -73,6 +73,8 @@ We aren't having a religious wedding ceremony (Dan is Jewish and I'm a recoverin
 
 Honestly, the part of a wedding reception where a random guy puts a garter on the thigh of a random woman is really creepy to me. And I've sat out the bouquet toss at weddings for probably the last 5 years.
 
+Also, I did a little research about the history of the bouquet and garter toss, and it's actually worse than I expected. 
+
 ## We Won't Be Pronounced Mr. and Mrs.
 
 I'm keeping my last name after I get married. I also don't plan on ever writing "Mrs. Maggie Germano" on anything. I don't think anyone needs to know my marital status just by looking at my name. I know a lot of people don't feel strongly about this issue, but it means a lot to me. I want to maintain the identity that I've had for my entire life, and not change it just because I've gotten married. Yes, I'll still have a husband and we'll still be a family, but I'll always be Maggie Germano. Keep that in mind, family members who send us mail!
