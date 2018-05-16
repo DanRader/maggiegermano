@@ -29,14 +29,20 @@ May is dedicated to weddings on the blog! This week, I wrote about how you can [
 
 ## What I’m Excited About
 
+* We had a fantastic Money Circle gathering this week! We came together to talk about how expensive it can be to be a wedding guest or bridal party member. Money Circle is always fun and full of good conversation, but we didn't stop talking for two hours straight! Have you struggled to afford being a wedding guest in the past? How did you make it work? Share in the comments!
+
+* I’m starting a financial advice column! I don’t know when I’ll have it up and running yet, but I’ve already answered a few questions that will be published when it’s ready. I need to pick the name and have Dan make some new branding for the column, and then I’ll be ready to go! The premise of the column will be similar to my coaching style and other writing. Helpful advice without judgment. Got questions? Email me at**[hello@maggiegermano.com](mailto:hello@maggiegermano.com)**!
+
 ## What I’m Up To
 
 * The [June Money Circle](https://www.maggiegermano.com/events/how-to-make-a-budget/) is on the schedule! Mark Wednesday, June 20th on your calendar and join us in making a budget!
 
 * I'm speaking at AAUW's [National Conference for College Women Student Leaders](https://www.nccwsl.org/) (NCCWSL)! I will be on a panel called, ["Secure Finances for a Secure Future"](https://www.nccwsl.org/about/workshops/), held on Friday, June 1st from 12:30-2pm.
 
-* 
+* I'm teaming up with [General Assembly on Tuesday, June 26th](https://generalassemb.ly/education/mo-money-mo-worries-get-financially-savvy-in-2018/washington-dc/49127) for a free personal finance workshop. See you there?
 
 ## Money Tip to Take into the Weekend
+
+![You don't have to suffer financially to do good in the world..png](/uploads/You%20don't%20have%20to%20suffer%20financially%20to%20do%20good%20in%20the%20world..png)
 
 That’s all from me this week. Have a great weekend!
