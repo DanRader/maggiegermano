@@ -65,9 +65,9 @@ My mom offered to buy my wedding dress for me, so I didn't have to worry about m
 
 ## Our Officiant is a Dear Friend
 
-Two years ago, I officiated the wedding of my bridesman, Matt, and my friend (his now wife) Kristen. I introduced them to each other, so it was a special honor for me to marry them. I loved being able to add personal touches to the ceremony based on my friendship with both of them, and that is something I really want for my own wedding.
+Two years ago, I officiated the wedding of my bridesman, Matt, and my friend (his now wife, my wifey for life) Kristen. I introduced them to each other, so it was a special honor for me to marry them. I loved being able to add personal touches to the ceremony based on my friendship with both of them, and that is something I really want for my own wedding.
 
-We aren't having a religious wedding ceremony (Dan is Jewish and I'm a recovering Catholic), so there isn't a religious officiant to choose from. There is the option of hiring a secular celebrant but we didn't really want a stranger to preside over the ceremony. Ultimately, the only officiant who made sense is our dear friend, Brian. I've known Brian since the 7th grade and he's been Dan's best friend since college. He is the one who introduced us to each other too! So we asked, and he graciously accepted. Brian will be both the officiant and the best man, and I can't wait to hear what he comes up with.
+We aren't having a religious wedding ceremony (Dan is Jewish and I'm a recovering Catholic), so there wasn't a religious officiant to choose from. There is the option of hiring a secular celebrant but we didn't really want a stranger to preside over the ceremony. Ultimately, the only officiant who made sense is our dear friend, Brian. I've known Brian since the 7th grade and he's been Dan's best friend since college. He is the one who introduced us to each other too! So we asked, and he graciously accepted. Brian will be both the officiant and the best man, and I can't wait to hear what he comes up with.
 
 ## We Aren't Throwing a Bouquet or a Garter
 
