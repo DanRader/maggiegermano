@@ -73,7 +73,9 @@ We aren't having a religious wedding ceremony (Dan is Jewish and I'm a recoverin
 
 Honestly, the part of a wedding reception where a random guy puts a garter on the thigh of a random woman is really creepy to me. And I've sat out the bouquet toss at weddings for probably the last 5 years.
 
-Also, I did a little research about the history of the bouquet and garter toss, and it's actually worse than I expected. 
+Also, I did a little research about the history of the garter toss, and it's actually worse than I expected. This is what I found from How Stuff Works:
+
+![Screen Shot 2018-05-16 at 1.12.47 PM.png](/uploads/Screen%20Shot%202018-05-16%20at%201.12.47%20PM.png)
 
 ## We Won't Be Pronounced Mr. and Mrs.
 
