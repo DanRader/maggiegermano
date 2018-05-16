@@ -75,6 +75,6 @@ Honestly, the part of a wedding reception where a random guy puts a garter on th
 
 ## We Won't Be Pronounced Mr. and Mrs.
 
-I'm keeping my last name after I get married. I also don't plan on ever writing "Mrs. Maggie Germano" on anything. I don't think anyone needs to know my marital status just by looking at my name. I know a lot of people don't feel strongly about this issue, but it means a lot to me. I want to maintain the identity that I've had for my entire life, and not change it because I've gotten married. Yes, I'll still have a husband and we'll still be a family, but I'll always be Maggie Germano.
+I'm keeping my last name after I get married. I also don't plan on ever writing "Mrs. Maggie Germano" on anything. I don't think anyone needs to know my marital status just by looking at my name. I know a lot of people don't feel strongly about this issue, but it means a lot to me. I want to maintain the identity that I've had for my entire life, and not change it just because I've gotten married. Yes, I'll still have a husband and we'll still be a family, but I'll always be Maggie Germano. Keep that in mind, family members who send us mail!
 
 *What kinds of values did you incorporate into your own wedding? Is there anything you compromised on? Share in the comments!*
