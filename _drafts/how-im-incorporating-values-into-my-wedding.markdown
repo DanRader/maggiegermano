@@ -71,9 +71,13 @@ We aren't having a religious wedding ceremony (Dan is Jewish and I'm a recoverin
 
 ## We Aren't Throwing a Bouquet or a Garter
 
-Honestly, the part of a wedding reception where a random guy puts a garter on the thigh of a random woman is really creepy to me. And I've sat out the bouquet toss at weddings for probably the last 5 years.
+Honestly, the part of a wedding reception where a random guy puts a garter on the thigh of a random woman is really creepy to me. And I've sat out the bouquet toss at weddings for probably the last 5 years. I didn't like the idea of a bunch of women rushing at each other to catch a bouquet, which somehow meant they were next to get married. It's pretty heteronormative and also pits women against each other.
 
-Also, I did a little research about the history of the bouquet and garter toss, and it's actually worse than I expected. 
+Also, I did a little research about the history of the garter toss, and it's actually worse than I expected. This is what I found from [How Stuff Works](https://people.howstuffworks.com/culture-traditions/cultural-traditions/history-of-the-wedding-garter-tradition.htm):
+
+![Screen Shot 2018-05-16 at 1.12.47 PM.png](/uploads/Screen%20Shot%202018-05-16%20at%201.12.47%20PM.png)
+
+Plus, florists charge you for an extra "tossing bouquet" instead of tossing your own bridal bouquet!
 
 ## We Won't Be Pronounced Mr. and Mrs.
 
