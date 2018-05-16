@@ -29,21 +29,23 @@ Years ago, I watched an episode of [Brothers and Sisters](https://www.imdb.com/t
 
 My dad never owned me. My future husband won't own me. So there's no reason for anyone to say that I'm being given away to anyone. I'm choosing to get married, and I'll still be my own person.
 
-Apparently Brothers and Sisters really impacted me, because this is another part of the wedding episode that I remember very well. When the officiant asks who is giving away the bride, her mother says this: "She gives herself freely, with my love and my blessing." I'm tearing up just typing that!
+Apparently Brothers and Sisters really impacted me, because this is another part of the wedding episode that I remember very well. When the officiant asks who is giving away the bride, her mother says this: "She gives herself freely, with my love and my blessing." I'm tearing up just typing that! I don't think that will be said at my wedding, because our officiant likely won't ask the question, but I still love the sentiment. 
 
 ## I Have a Bridesman
 
-One of my best friends is a great guy named Matt. We've been friends since 7th grade and he's always been there for me. It didn't make sense to me for him to be Dan's groomsman, and I didn't want him to not be included. So I proposed that he be my bridesman. No
+One of my best friends is a great guy named Matt. We've been friends since 7th grade and he's always been there for me. I actually decided years ago that he would be in my bridal party when I got married. It didn't make sense to me for him to be Dan's groomsman, and I didn't want him to not be included. So I proposed that he be my bridesman. Luckily he was thrilled by the ask. He'll be invited to my bridal shower and bachelorette party, and will hang out with the rest of us while we get our hair and makeup done on the day of the wedding.
 
 PS: [Buy Matt's coffee!](http://simpleroastcoffee.com/)
 
 ## Dan Has Two Groomswomen
 
-Again, we didn't think it made sense to exclude close family or friends because they weren't the same gender. Dan is having his sister and his good friend Marie as his groomswomen.
+Again, we didn't think it made sense to exclude close family or friends because they weren't the "right" gender. Dan is having his sister and his good friend Marie as his groomswomen. They'll be attending his bachelor weekend and will likely be with him and the rest of the groomsmen on the day of the wedding. Their dresses will match my bridesmaids, but if they wanted to wear suits, that would have been totally fine too!
+
+PS: [Buy Rachel's jewelry!](https://ancienttruthinvestigators.com/)
 
 ## We're Letting the Women Pick Their Dresses
 
-I've been in two weddings where the bride let me pick out my own dress. All I had to do was follow a basic color scheme. I thought that was awesome! It allowed me to buy a dress that fit in my budget, that fit my actual body, and that I felt great in! It also helped that I could wear it again. I wanted to pass that favor along to the women in my own bridal party. All the women can pick out their own dress; the only guideline is that it be navy blue to match our theme.
+I've been in two weddings where the bride let me pick out my own dress. All I had to do was follow a basic color scheme. I thought that was awesome! It allowed me to buy a dress that fit in my budget, that fit my actual body, and that I felt great in! It also helped that I could wear it again. I wanted to pass that favor along to the women in my own bridal party. All the women can pick out their own dress; the only guideline is that it be navy blue to match our theme. 
 
 ## I'm Not Wearing Heels
 
@@ -69,7 +71,7 @@ We aren't having a religious wedding ceremony (Dan is Jewish and I'm a recoverin
 
 ## We Aren't Throwing a Bouquet or a Garter
 
-Honestly, the part of a wedding reception where a random guy puts a garter on the thigh of a random woman is really creepy to me. And I've sat out the bouquet toss at weddings for probably the last 5 years. 
+Honestly, the part of a wedding reception where a random guy puts a garter on the thigh of a random woman is really creepy to me. And I've sat out the bouquet toss at weddings for probably the last 5 years.
 
 ## We Won't Be Pronounced Mr. and Mrs.
 
