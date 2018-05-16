@@ -1,11 +1,19 @@
 ---
 title: Founder Friday | Meal Planning, iPhones, and AAUW
 date: 2018-05-18 14:00:00 -04:00
+published: false
 categories:
 - founder friday
+image: "/uploads/food.jpg"
+tweet: 'This week, I want you to vote, come see me speak, and ask me questions! Check
+  out my #founderfriday post.'
+posts:
+- Founder Friday | Vitamins, HerStory, Frederick
+- Founder Friday | Weddings, Advice, ICF
+- Founder Friday | Breweries, Safe Spaces, and Money Circle
 ---
 
-x
+Womp, womp. It's basically not stopped raining this week. It's super gloomy, but I'm honestly happy it's not 90 degrees right now. What can I say, I was raised in the [snowbelt](https://www.merriam-webster.com/dictionary/snowbelt) and have still not adjusted to the heat and humidity of the mid-Atlantic. Anyway, I've got a lot to say this week, so let me know what you think!
 
 ## How I Earned Money This Week
 
