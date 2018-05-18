@@ -1,6 +1,7 @@
 ---
 title: How I'm Incorporating My Values Into My Wedding
 date: 2018-05-21 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 image: "/uploads/bride.jpg"
@@ -77,7 +78,7 @@ Also, I did a little research about the history of the garter toss, and it's act
 
 ![Screen Shot 2018-05-16 at 1.12.47 PM.png](/uploads/Screen%20Shot%202018-05-16%20at%201.12.47%20PM.png)
 
-Plus, florists charge you for an extra "tossing bouquet" instead of tossing your own bridal bouquet!
+The garter toss tradition was created to avoid the scene mentioned above. I think I'll pass on both counts. Plus, these days, florists charge you for an extra "tossing bouquet" instead of tossing your own bridal bouquet!
 
 ## We Won't Be Pronounced Mr. and Mrs.
 
