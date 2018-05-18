@@ -16,7 +16,7 @@ Womp, womp. It's basically not stopped raining this week. It's super gloomy, but
 
 ## How I Earned Money This Week
 
-* I got a new monthly client!
+* I got a new monthly client and a new one-time client.
 
 * Another monthly client's payment went through this week.
 
@@ -40,7 +40,7 @@ May is dedicated to weddings on the blog! This week, I wrote about how you can [
 
 * I’m starting a financial advice column! I don’t know when I’ll have it up and running yet, but I’ve already answered a few questions that will be published when it’s ready. I need to pick the name and have Dan make some new branding for the column, and then I’ll be ready to go! The premise of the column will be similar to my coaching style and other writing. Helpful advice without judgment. Got questions? Email me at **[hello@maggiegermano.com](mailto:hello@maggiegermano.com)**!
 
-* This year is a big election year. Not only are a ton of Congressional seats up for election in November, but there are [many local and state elections](https://www.usa.gov/midterm-state-and-local-elections) before then. So make sure you're [registered to vote](https://vote.gov/) ASAP. Many states (including, DC, Maryland, and Virginia) allow you to register online. 
+* This year is a big election year. Not only are a ton of Congressional seats up for election in November, but there are [many local and state elections](https://www.usa.gov/midterm-state-and-local-elections) before then. So make sure you're [registered to vote](https://vote.gov/) ASAP. Many states (including, DC, Maryland, and Virginia) allow you to register online.
 
 ## What I’m Up To
 
