@@ -1,6 +1,7 @@
 ---
 title: How I'm Incorporating My Values Into My Wedding
 date: 2018-05-21 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 image: "/uploads/bride.jpg"
