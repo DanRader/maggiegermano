@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Meal Planning, iPhones, and AAUW
 date: 2018-05-18 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 image: "/uploads/food.jpg"
