@@ -29,7 +29,7 @@ Years ago, I watched an episode of [Brothers and Sisters](https://www.imdb.com/t
 
 My dad never owned me. My future husband won't own me. So there's no reason for anyone to say that I'm being given away to anyone. I'm choosing to get married, and I'll still be my own person.
 
-Apparently Brothers and Sisters really impacted me, because this is another part of the wedding episode that I remember very well. When the officiant asks who is giving away the bride, her mother says this: "She gives herself freely, with my love and my blessing." I'm tearing up just typing that! I don't think that will be said at my wedding, because our officiant likely won't ask the question, but I still love the sentiment. 
+Apparently Brothers and Sisters really impacted me, because this is another part of the wedding episode that I remember very well. When the officiant asks who is giving away the bride, her mother says this: "She gives herself freely, with my love and my blessing." I'm tearing up just typing that! I don't think that will be said at my wedding, because our officiant likely won't ask the question, but I still love the sentiment.
 
 ## I Have a Bridesman
 
@@ -45,7 +45,7 @@ PS: [Buy Rachel's jewelry!](https://ancienttruthinvestigators.com/)
 
 ## We're Letting the Women Pick Their Dresses
 
-I've been in two weddings where the bride let me pick out my own dress. All I had to do was follow a basic color scheme. I thought that was awesome! It allowed me to buy a dress that fit in my budget, that fit my actual body, and that I felt great in! It also helped that I could wear it again. I wanted to pass that favor along to the women in my own bridal party. All the women can pick out their own dress; the only guideline is that it be navy blue to match our theme. 
+I've been in two weddings where the bride let me pick out my own dress. All I had to do was follow a basic color scheme. I thought that was awesome! It allowed me to buy a dress that fit in my budget, that fit my actual body, and that I felt great in! It also helped that I could wear it again. I wanted to pass that favor along to the women in my own bridal party. All the women can pick out their own dress; the only guideline is that it be navy blue to match our theme.
 
 ## I'm Not Wearing Heels
 
@@ -71,7 +71,7 @@ We aren't having a religious wedding ceremony (Dan is Jewish and I'm a recoverin
 
 ## We Aren't Throwing a Bouquet or a Garter
 
-Honestly, the part of a wedding reception where a random guy puts a garter on the thigh of a random woman is really creepy to me. And I've sat out the bouquet toss at weddings for probably the last 5 years. I didn't like the idea of a bunch of women rushing at each other to catch a bouquet, which somehow meant they were next to get married. It's pretty heteronormative and also pits women against each other.
+And I've sat out the bouquet toss at weddings for probably the last 5 years. I didn't like the idea of a bunch of women rushing at each other to catch a bouquet, which somehow meant they were next to get married. It's pretty heteronormative and also pits women against each other. And, honestly, the part where a random guy puts a garter on the thigh of a random woman is really creepy to me. 
 
 Also, I did a little research about the history of the garter toss, and it's actually worse than I expected. This is what I found from [How Stuff Works](https://people.howstuffworks.com/culture-traditions/cultural-traditions/history-of-the-wedding-garter-tradition.htm):
 
