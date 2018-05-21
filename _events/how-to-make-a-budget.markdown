@@ -17,7 +17,7 @@ Bring a list of your expenses and income. It will also be helpful if you have an
 
 *This event will take place near 11th and Otis Street NW in Columbia Heights. The exact location will be provided upon registration.*
 
---\
+--
 We live in a society where money is an unspoken taboo. We aren’t supposed to ask people how much money they earn, and women especially have a hard time knowing and asking for what they are worth. It’s more important than ever to band together and put it all on the table.
 
 Money Circle is a safe open space where women can ask questions, air their fears, brag about accomplishments, and be honest about any confusion they may have around money.
