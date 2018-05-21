@@ -43,7 +43,7 @@ Again, we didn't think it made sense to exclude close family or friends because 
 
 PS: [Buy Rachel's jewelry!](https://ancienttruthinvestigators.com/)
 
-## We're Letting the Women Pick Their Dresses
+## We're Having the Women Pick Their Dresses
 
 I've been in two weddings where the bride let me pick out my own dress. All I had to do was follow a basic color scheme. I thought that was awesome! It allowed me to buy a dress that fit in my budget, that fit my actual body, and that I felt great in! It also helped that I could wear it again. I wanted to pass that favor along to the women in my own bridal party. All the women can pick out their own dress; the only guideline is that it be navy blue to match our theme.
 
@@ -71,7 +71,7 @@ We aren't having a religious wedding ceremony (Dan is Jewish and I'm a recoverin
 
 ## We Aren't Throwing a Bouquet or a Garter
 
-And I've sat out the bouquet toss at weddings for probably the last 5 years. I didn't like the idea of a bunch of women rushing at each other to catch a bouquet, which somehow meant they were next to get married. It's pretty heteronormative and also pits women against each other. And, honestly, the part where a random guy puts a garter on the thigh of a random woman is really creepy to me. 
+And I've sat out the bouquet toss at weddings for probably the last 5 years. I didn't like the idea of a bunch of women rushing at each other to catch a bouquet, which somehow meant they were next to get married. It's pretty heteronormative and also pits women against each other. And, honestly, the part where a random guy puts a garter on the thigh of a random woman is really creepy to me.
 
 Also, I did a little research about the history of the garter toss, and it's actually worse than I expected. This is what I found from [How Stuff Works](https://people.howstuffworks.com/culture-traditions/cultural-traditions/history-of-the-wedding-garter-tradition.htm):
 
