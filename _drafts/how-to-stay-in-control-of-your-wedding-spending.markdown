@@ -4,6 +4,7 @@ date: 2018-05-28 11:00:00 -04:00
 categories:
 - budget
 - lifestyle
+image: "/uploads/reception.jpg"
 ---
 
 ## Don't Buy Decorations Early
