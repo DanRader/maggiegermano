@@ -5,6 +5,8 @@ categories:
 - budget
 - lifestyle
 image: "/uploads/reception.jpg"
+tweet: 'Even if you set up a #wedding #budget, your spending can still get out of
+  control. Here''s how to prevent that from happening. '
 posts:
 - How I'm Incorporating My Values Into My Wedding
 - How to Plan a Wedding and Stay Sane
