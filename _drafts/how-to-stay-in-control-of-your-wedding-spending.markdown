@@ -11,6 +11,8 @@ posts:
 - How to Create a Wedding Budget
 ---
 
+So I've talked about creating a wedding budget, and making sure you're infusing your own values into the process. But even if you do those things, spending can still get out of control when you're planning a wedding. And it's so normal! 
+
 ## Don't Buy Decorations Early
 
 ## Pay for the Important Stuff First
@@ -21,4 +23,4 @@ Tracking spending is always important, but that's especially true when you're sp
 
 ## Add a 10% Buffer
 
-Things will most likely come up. Your guest list might be higher than originally estimated, or maybe you forgot you have to tip some of your vendors. Regardless, you should build in a spending buffer of 10%. This will protect you in the case of emergencies or unexpected costs.
+I actually didn't consider this until I applied A Practical Wedding's budget guidance to my own wedding budget. Weddings are big events. Things will most likely come up. Your guest list might be higher than originally estimated, or maybe you forgot you have to tip some of your vendors. Regardless, you should build in a spending buffer of 10%. This will protect you in the case of emergencies or unexpected costs.
