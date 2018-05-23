@@ -13,11 +13,17 @@ posts:
 - How to Create a Wedding Budget
 ---
 
-So I've talked about creating a wedding budget, and making sure you're infusing your own values into the process. But even if you do those things, spending can still get out of control when you're planning a wedding. And it's so normal! 
+So I've talked about creating a wedding budget, and making sure you're infusing your own values into the process. But even if you do those things, spending can still get out of control when you're planning a wedding. And it's so normal! But there are still things you can do to prevent your spending from going over budget. 
 
 ## Don't Buy Decorations Early
 
+I have heard this on the Bridechilla podcast a few times. People get engaged and go hog wild buying decorations and other items for their wedding. And then when they get closer to their wedding, they realize they don't even want or need most of the stuff they bought! So not only did they spend money they didn't need to spend, but now they have a bunch of stuff they don't know what to do with.
+
+Getting engaged is exciting and it can be super tempting to get a head start on the fun parts of wedding planning. But it might be more helpful to wait and get a good idea of your wedding day vision first. 
+
 ## Pay for the Important Stuff First
+
+How terrible would it be if you spent a ton of money on random wedding stuff and then didn't have enough left in your budget to pay for booze? Or the photographer? Or any other vendor that is essential? Pretty terrible! So it's important to start your budget and spending with the big ticket items like: catering, photography, venue, DJ, alcohol, clothing, etc. Once you have all of those items priced out and checked off, you can start adding in other things. 
 
 ## Track Everything
 
