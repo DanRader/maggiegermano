@@ -13,7 +13,7 @@ posts:
 - How to Create a Wedding Budget
 ---
 
-So I've talked about [creating a wedding budget](https://www.maggiegermano.com/blog/how-to-create-a-wedding-budget/), [keeping your sanity while planning](https://www.maggiegermano.com/blog/how-to-plan-a-wedding-and-stay-sane/), and making sure you're [infusing your own values into the process](https://www.maggiegermano.com/blog/how-im-incorporating-values-into-my-wedding/). But even if you do all of those things, spending can still get out of control when you're planning a wedding. And it's so normal! Weddings are designed to be expensive, and there's a lot of pressure to make it look and feel perfect. But there are still things you can do to prevent yourself from going over budget. Here's how to can maintain control over your wedding spending. 
+So I've talked about [creating a wedding budget](https://www.maggiegermano.com/blog/how-to-create-a-wedding-budget/), [keeping your sanity while planning](https://www.maggiegermano.com/blog/how-to-plan-a-wedding-and-stay-sane/), and making sure you're [infusing your own values into the process](https://www.maggiegermano.com/blog/how-im-incorporating-values-into-my-wedding/). But even if you do all of those things, spending can still get out of control when you're planning a wedding. And it's so normal! Weddings are designed to be expensive, and there's a lot of pressure to make it look and feel perfect. But there are still things you can do to prevent yourself from going over budget. Here's how to can maintain control over your wedding spending.
 
 ## Don't Buy Decorations Early
 
@@ -31,12 +31,12 @@ Tracking spending is always important, but that's especially true when you're sp
 
 ## Stay Away From Pinterest and Instagram
 
-FOMO is real. And social media makes it so easy to compare ourselves to others and feel less-than. This is especially true with the wedding industrial complex. 
+FOMO is real. And social media makes it so easy to compare ourselves to others and feel less-than. This is especially true with the wedding industrial complex.
 
 ## Be Careful of How Much You DIY
 
-It can seem more affordable to do things yourself for your wedding. Flowers, decorations, food, etc. 
+It can seem more affordable to do things yourself for your wedding. Flowers, decorations, food, etc.
 
 ## Add a 10% Buffer
 
-I actually didn't consider this until I applied A Practical Wedding's budget guidance to my own wedding budget. Weddings are big events. Things will most likely come up. Your guest list might be higher than originally estimated, or maybe you forgot you have to tip some of your vendors. Regardless, you should build in a spending buffer of 10%. This will protect you in the case of emergencies or unexpected costs.
+I actually didn't consider this until I applied [A Practical Wedding](http://www.apracticalwedding.com)'s budget guidance to my own wedding budget. Weddings are big events. Things will most likely come up. Your guest list might be higher than originally estimated, or maybe you forgot you have to tip some of your vendors. Regardless, you should build in a spending buffer of 10%. This will protect you in the case of emergencies or unexpected costs.
