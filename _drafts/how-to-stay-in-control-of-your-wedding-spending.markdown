@@ -29,6 +29,14 @@ How terrible would it be if you spent a ton of money on random wedding stuff and
 
 Tracking spending is always important, but that's especially true when you're spending large amounts.
 
+## Stay Away From Pinterest and Instagram
+
+FOMO is real. And social media makes it so easy to compare ourselves to others and feel less-than. This is especially true with the wedding industrial complex. 
+
+## Be Careful of How Much You DIY
+
+It can seem more affordable to do things yourself for your wedding. Flowers, decorations, food, etc. 
+
 ## Add a 10% Buffer
 
 I actually didn't consider this until I applied A Practical Wedding's budget guidance to my own wedding budget. Weddings are big events. Things will most likely come up. Your guest list might be higher than originally estimated, or maybe you forgot you have to tip some of your vendors. Regardless, you should build in a spending buffer of 10%. This will protect you in the case of emergencies or unexpected costs.
