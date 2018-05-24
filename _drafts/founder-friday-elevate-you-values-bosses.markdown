@@ -3,6 +3,13 @@ title: Founder Friday | Elevate You, Values, Bosses
 date: 2018-05-25 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/boss-8ad857.jpg"
+tweet: 'Podcasts, boss ladies, and more. See what I was up to this week in my #FounderFriday
+  post.'
+posts:
+- Founder Friday | Meal Planning, iPhones, and AAUW
+- Founder Friday | Vitamins, HerStory, Frederick
+- Founder Friday | Weddings, Advice, ICF
 ---
 
 Happy Friday, y'all! I don't know about you, but I'm ready for a long weekend of fun and relaxation. Here's what I was up to this week.
