@@ -18,7 +18,7 @@ Happy Friday, y'all! I don't know about you, but I'm ready for a long weekend of
 
 * We've had a visiting professor from Austria staying in our Airbnb since Monday.
 
-* A monthly client's payment went through this week. 
+* A monthly client's payment went through this week.
 
 ## How I Spent Money This Week
 
@@ -28,15 +28,18 @@ Happy Friday, y'all! I don't know about you, but I'm ready for a long weekend of
 
 ## What I’m Writing
 
-This week, I wrote about [how I'm incorporating my personal values](https://www.maggiegermano.com/blog/how-im-incorporating-values-into-my-wedding/) into my wedding day. 
+This week, I wrote about [how I'm incorporating my personal values](https://www.maggiegermano.com/blog/how-im-incorporating-values-into-my-wedding/) into my wedding day.
 
 ## What I’m Excited About
 
 * Dan and I are going to Frederick, Maryland this weekend! We're only going for Sunday night, because we waited too long to book a place, and that was the only night that was available. We found a place that has all you can eat seafood, including crabs, clams, and shrimp. I plan to eat myself sick. (Got other recommendations in Frederick? Leave them in the comments! We're especially interested in local breweries.)
 
-* I hosted [Solopreneur Circle](https://www.solopreneurcircle.com/) at my house on Wednesday! I'm so grateful to have found this group of women, so that I have people to turn to and spend time with now that I'm an entrepreneur. 
+* I hosted [Solopreneur Circle](https://www.solopreneurcircle.com/) at my house on Wednesday! I'm so grateful to have found this group of women, so that I have people to turn to and spend time with now that I'm an entrepreneur.
 
 * I met up with [Emilie Aries](https://emiliearies.com/) from [Bossed Up](https://bossedup.org/) and several other bosses last weekend to talk about how [Bossed Up Bootcamp](https://bossedup.org/bootcamp/) has changed our career trajectory. It was wonderful to be around so many inspiring women, and I can't wait to see what comes out of it!
+
+![32944466_10212767974737817_7549328522293018624_o.jpg](/uploads/32944466_10212767974737817_7549328522293018624_o.jpg)\
+\(Photo by [Sarah McIntosh](https://www.sarahmapple.com/))
 
 ## What I’m Up To
 
