@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Elevate You, Values, Bosses
 date: 2018-05-25 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 image: "/uploads/boss-8ad857.jpg"
