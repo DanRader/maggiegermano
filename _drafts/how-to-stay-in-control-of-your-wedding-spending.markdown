@@ -39,7 +39,7 @@ How terrible would it be if you spent a ton of money on random wedding stuff and
 
 ## Track Everything
 
-Tracking spending is always important, but that's especially true when you're spending large amounts of money.
+Tracking spending is always important, but that's especially true when you're spending large amounts of money. If you're not seeing the numbers add up, it can be easy to assume you're spending less than you are. So make a budget tracker based on your budget spreadsheet and update it every time you buy something or book a new vendor. Here's a great budget framework from [A Practical Wedding](https://docs.google.com/spreadsheets/d/1XGxcnlTKTQ6bKY_jaj4G6lmrNik8ze53KPRhDPOIV_k/edit). You should know that your estimated budget for certain items will likely not end up being the final price.
 
 For the record, I've been religiously tracking our wedding spending and we're still going to go over budget. I'm not happy about it, but I'm also fully aware that it's going to happen.
 
