@@ -31,7 +31,7 @@ If you find yourself susceptible to comparison and worry that you'll overspend b
 
 ## Be Careful of How Much You DIY
 
-It can seem more affordable to do things yourself for your wedding. Flowers, decorations, food, etc. But sometimes the further you go with DIY, the more expensive it can get. Do a cost comparison of how much it would cost to do things yourself vs. hiring someone to do it for you. And don't forget the value of time and energy saved!
+It can seem more affordable to do things yourself for your wedding. Flowers, decorations, food, etc. But sometimes the further you go with DIY, the more expensive it can get. Craft materials can really add up! Do a cost comparison of how much it would cost to do things yourself vs. hiring someone to do it for you. And don't forget the value of time and energy saved!
 
 ## Pay for the Important Stuff First
 
