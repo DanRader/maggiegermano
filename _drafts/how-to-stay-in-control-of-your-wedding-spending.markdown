@@ -21,7 +21,15 @@ So I've talked about [creating a wedding budget](https://www.maggiegermano.com/b
 
 I have heard this on the [Bridechilla podcast](http://bridechilla.libsyn.com/) a few times. People get engaged and go hog wild buying decorations and other items for their wedding. And then when they get closer to their wedding, they realize they don't even want or need most of the stuff they bought! So not only did they spend money they didn't need to spend, but now they have a bunch of stuff they don't know what to do with, and maybe even have to buy new things that they do actually want.
 
-Getting engaged is exciting and it can be super tempting to get a head start on the fun parts of wedding planning. But it might be more helpful to wait and get a good idea of your wedding day vision first. You'll get a clearer understanding over time of how you want your day to look and feel. Once you have a good understanding (together with your partner), figure out what kinds of decorations you need. 
+Getting engaged is exciting and it can be super tempting to get a head start on the fun parts of wedding planning. But it might be more helpful to wait and get a good idea of your wedding day vision first. You'll get a clearer understanding over time of how you want your day to look and feel. Once you have a good understanding (together with your partner), figure out what kinds of decorations you need.
+
+## Stay Away From Pinterest and Instagram
+
+Pinterest and Instagram can be really fun when it comes to wedding planning. You can find ideas that you wouldn't have thought up on your own. However, FOMO is real. And social media makes it so easy to compare ourselves to others and feel less-than. This is especially true with the wedding industrial complex. If you find yourself susceptible to comparison and worry that you'll overspend because of it, it's probably a good idea to limit your time browsing wedding profiles online.
+
+## Be Careful of How Much You DIY
+
+It can seem more affordable to do things yourself for your wedding. Flowers, decorations, food, etc. But sometimes the further you go with DIY, the more expensive it can get. Do a cost comparison of how much it would cost to do things yourself vs. hiring someone to do it for you. And don't forget the value of time and energy saved!
 
 ## Pay for the Important Stuff First
 
@@ -29,15 +37,11 @@ How terrible would it be if you spent a ton of money on random wedding stuff and
 
 ## Track Everything
 
-Tracking spending is always important, but that's especially true when you're spending large amounts.
+Tracking spending is always important, but that's especially true when you're spending large amounts of money.
 
-## Stay Away From Pinterest and Instagram
+For the record, I've been religiously tracking our wedding spending and we're still going to go over budget. I'm not happy about it, but I'm also fully aware that it's going to happen.
 
-FOMO is real. And social media makes it so easy to compare ourselves to others and feel less-than. This is especially true with the wedding industrial complex.
-
-## Be Careful of How Much You DIY
-
-It can seem more affordable to do things yourself for your wedding. Flowers, decorations, food, etc. But sometimes the further you go with DIY, the more expensive it can get. Do a cost comparison of how much it would cost to do things yourself vs. hiring someone to do it for you. And don't forget the value of time and energy saved!
+This leads me to my next piece of advice...
 
 ## Add a 10% Buffer
 
