@@ -21,7 +21,7 @@ So I've talked about [creating a wedding budget](https://www.maggiegermano.com/b
 
 I have heard this on the [Bridechilla podcast](http://bridechilla.libsyn.com/) a few times. People get engaged and go hog wild buying decorations and other items for their wedding. And then when they get closer to their wedding, they realize they don't even want or need most of the stuff they bought! So not only did they spend money they didn't need to spend, but now they have a bunch of stuff they don't know what to do with, and maybe even have to buy new things that they do actually want.
 
-Getting engaged is exciting and it can be super tempting to get a head start on the fun parts of wedding planning. But it might be more helpful to wait and get a good idea of your wedding day vision first. You'll get a clearer understanding over time of how you want your day to look and feel. Once you have a good understanding (together with your partner), figure out what kinds of decorations you need.
+Getting engaged is exciting and it can be super tempting to get a head start on the fun parts of wedding planning. But it might be more prudent to wait and get a good idea of your wedding day vision first. You'll get a clearer understanding over time of how you want your day to look and feel. Once you have a good understanding (together with your partner), figure out what kinds of decorations you need and want.
 
 ## Stay Away From Pinterest and Instagram
 
