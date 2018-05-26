@@ -49,4 +49,6 @@ Which leads me to my next piece of advice...
 
 I actually didn't consider this until I applied [A Practical Wedding](http://www.apracticalwedding.com)'s budget guidance to my own wedding budget. Weddings are big events. Things will most likely come up. Your guest list might be higher than originally estimated, or maybe you forgot you have to tip some of your vendors (in case you didn't know, [you should tip](https://apracticalwedding.com/wedding-vendor-tips-cheat-sheet/) some of your vendors). Regardless, you should build in a spending buffer of at least 10%. This will protect you in the case of emergencies or unexpected costs.
 
-I'd love to not have to use this 10% buffer, but I already know we're going to dip into it. On principle, it annoys me that we're going over budget, but financially, I know we're safe. 
+I'd love to not have to use this 10% buffer, but I already know we're going to dip into it. On principle, it annoys me that we're going over budget, but financially, I know we're safe.
+
+*Did you go over budget for your wedding spending? How did you manage it? Share in the comments!*
