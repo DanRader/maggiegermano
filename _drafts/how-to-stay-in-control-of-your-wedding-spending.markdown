@@ -25,7 +25,9 @@ Getting engaged is exciting and it can be super tempting to get a head start on 
 
 ## Stay Away From Pinterest and Instagram
 
-Pinterest and Instagram can be really fun when it comes to wedding planning. You can find ideas that you wouldn't have thought up on your own. However, FOMO is real. And social media makes it so easy to compare ourselves to others and feel less-than. This is especially true with the wedding industrial complex. If you find yourself susceptible to comparison and worry that you'll overspend because of it, it's probably a good idea to limit your time browsing wedding profiles online.
+Pinterest and Instagram can be really fun when it comes to wedding planning. You can find ideas that you wouldn't have thought up on your own. However, FOMO is real. And social media makes it so easy to compare ourselves to others and feel less-than. This is especially true with the wedding industrial complex. You see all the amazing flowers, dresses, venues, etc. It can make you feel like you have to keep up with everyone else. But that's an easy way to let your spending get out of hand and also lose sight of your own wedding vision. 
+
+If you find yourself susceptible to comparison and worry that you'll overspend because of it, it's probably a good idea to limit your time browsing wedding profiles online.
 
 ## Be Careful of How Much You DIY
 
