@@ -13,9 +13,9 @@ posts:
 - How to Create a Wedding Budget
 ---
 
-So I've talked about [creating a wedding budget](https://www.maggiegermano.com/blog/how-to-create-a-wedding-budget/), [keeping your sanity while planning](https://www.maggiegermano.com/blog/how-to-plan-a-wedding-and-stay-sane/), and making sure you're [infusing your own values into the process](https://www.maggiegermano.com/blog/how-im-incorporating-values-into-my-wedding/). But even if you do all of those things, spending can still get out of control when you're planning a wedding. And it's so normal! Weddings are designed to be expensive, and there's a lot of pressure to make it look and feel perfect. But there are still things you can do to prevent yourself from going over budget. Here's how to can maintain control over your wedding spending.
+So I've talked about [creating a wedding budget](https://www.maggiegermano.com/blog/how-to-create-a-wedding-budget/), [keeping your sanity while planning](https://www.maggiegermano.com/blog/how-to-plan-a-wedding-and-stay-sane/), and making sure you're [infusing your own values into the process](https://www.maggiegermano.com/blog/how-im-incorporating-values-into-my-wedding/). But even if you do all of those things, spending can still get out of control when you're planning a wedding. And it's so normal! Modern weddings are designed to be expensive, and there's a lot of pressure to make it look and feel perfect. But there are still things you can do to prevent yourself from going over budget. Here's how to can maintain control over your wedding spending.
 
-> Weddings are designed to be expensive, and there's a lot of pressure to make it look and feel perfect.
+> Modern weddings are designed to be expensive, and there's a lot of pressure to make it look and feel perfect.
 
 ## Don't Buy Decorations Early
 
