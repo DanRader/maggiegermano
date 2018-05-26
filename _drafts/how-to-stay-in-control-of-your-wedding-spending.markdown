@@ -31,19 +31,19 @@ If you find yourself susceptible to comparison and worry that you'll overspend b
 
 ## Be Careful of How Much You DIY
 
-It can seem more affordable to do things yourself for your wedding. Flowers, decorations, food, etc. But sometimes the further you go with DIY, the more expensive it can get. Craft materials can really add up! Do a cost comparison of how much it would cost to do things yourself vs. hiring someone to do it for you. And don't forget the value of time and energy saved!
+It can seem more affordable to do things yourself for your wedding. Flowers, decorations, food, etc. But sometimes the further you go with DIY, the more expensive it can get. Craft materials can really add up, especially if you have to start over after messing up a few times. Do a cost comparison of how much it would cost to do things yourself vs. hiring someone to do it for you. And don't forget the value of time and energy saved!
 
 ## Pay for the Important Stuff First
 
-How terrible would it be if you spent a ton of money on random wedding stuff and then didn't have enough left in your budget to pay for booze? Or the photographer? Or any other vendor that is essential? Pretty terrible! So it's important to start your budget and spending with the big ticket items like: catering, photography, venue, DJ, alcohol, clothing, etc. Once you have all of those items priced out and checked off, you can start adding in other things.
+How terrible would it be if you spent a ton of money on random wedding stuff and then didn't have enough left in your budget to pay for booze? Or the photographer? Or any other vendor that is essential? Pretty terrible! So it's important to start your budget and spending with the big ticket (and essential) items like: catering, photography, venue, DJ, alcohol, clothing, etc. Once you have all of those items priced out and checked off, you can start adding in other things.
 
 ## Track Everything
 
-Tracking spending is always important, but that's especially true when you're spending large amounts of money.
+Tracking spending is always important, but that's especially true when you're spending large amounts of money. If you're not seeing the numbers add up, it can be easy to assume you're spending less than you are. So make a budget tracker based on your budget spreadsheet and update it every time you buy something or book a new vendor. Here's a great budget framework from [A Practical Wedding](https://docs.google.com/spreadsheets/d/1XGxcnlTKTQ6bKY_jaj4G6lmrNik8ze53KPRhDPOIV_k/edit). You should know that your estimated budget for certain items will likely not end up being the final price.
 
-For the record, I've been religiously tracking our wedding spending and we're still going to go over budget. I'm not happy about it, but I'm also fully aware that it's going to happen.
+For the record, I've been religiously tracking our wedding spending and we're still going to go over budget. I'm not happy about it, but I'm also fully aware that it's going to happen. It being less of a surprise makes it easier to deal with and plan for.
 
-This leads me to my next piece of advice...
+Which leads me to my next piece of advice...
 
 ## Add a 10% Buffer
 
