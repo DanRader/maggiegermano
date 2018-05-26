@@ -6,7 +6,7 @@ layout: privacy
 # Disclaimer
 
 All data and information provided on this site is strictly the author’s opinion and does not constitute any financial, legal or other type of advice. Maggie Germano Financial Coaching makes no representations as to accuracy, completeness, suitability, or validity of any information on this site and will not be liable for any errors, omissions, or delays in this information or any losses or damages arising from its display or use. We also do not make any personal investments on behalf of our readers; neither do we provide specific investment advice.
- 
+
 # Privacy Notice
 
 Your privacy is important to Maggie Germano Financial Coaching.
@@ -37,4 +37,4 @@ This Privacy Policy applies only to Maggie Germano Financial Coaching’s online
 
 This website is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide will be transferred to the United States. By using this website, participating in any of its services and/or providing your information, you consent to this transfer.
 
-Maggie Germano Financial Coaching may change, modify or update this Privacy Policy at any time by posting updates to this page. If you have any questions or concerns about this Privacy Policy, or wish to change your personal information in our records, contact [hello@maggiegermano.com](mailto:hello@maggiegermano.com).  This policy is effective as of June 06, 2017.
+Maggie Germano Financial Coaching may change, modify or update this Privacy Policy at any time by posting updates to this page. If you have any questions or concerns about this Privacy Policy, or wish to change your personal information in our records, contact [hello@maggiegermano.com](mailto:hello@maggiegermano.com).  This policy is effective as of May 25, 2018.
