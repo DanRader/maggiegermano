@@ -35,7 +35,7 @@ It can seem more affordable to do things yourself for your wedding. Flowers, dec
 
 ## Pay for the Important Stuff First
 
-How terrible would it be if you spent a ton of money on random wedding stuff and then didn't have enough left in your budget to pay for booze? Or the photographer? Or any other vendor that is essential? Pretty terrible! So it's important to start your budget and spending with the big ticket items like: catering, photography, venue, DJ, alcohol, clothing, etc. Once you have all of those items priced out and checked off, you can start adding in other things.
+How terrible would it be if you spent a ton of money on random wedding stuff and then didn't have enough left in your budget to pay for booze? Or the photographer? Or any other vendor that is essential? Pretty terrible! So it's important to start your budget and spending with the big ticket (and essential) items like: catering, photography, venue, DJ, alcohol, clothing, etc. Once you have all of those items priced out and checked off, you can start adding in other things.
 
 ## Track Everything
 
