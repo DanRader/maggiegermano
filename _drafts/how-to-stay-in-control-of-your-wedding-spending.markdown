@@ -15,11 +15,13 @@ posts:
 
 So I've talked about [creating a wedding budget](https://www.maggiegermano.com/blog/how-to-create-a-wedding-budget/), [keeping your sanity while planning](https://www.maggiegermano.com/blog/how-to-plan-a-wedding-and-stay-sane/), and making sure you're [infusing your own values into the process](https://www.maggiegermano.com/blog/how-im-incorporating-values-into-my-wedding/). But even if you do all of those things, spending can still get out of control when you're planning a wedding. And it's so normal! Weddings are designed to be expensive, and there's a lot of pressure to make it look and feel perfect. But there are still things you can do to prevent yourself from going over budget. Here's how to can maintain control over your wedding spending.
 
+> Weddings are designed to be expensive, and there's a lot of pressure to make it look and feel perfect.
+
 ## Don't Buy Decorations Early
 
-I have heard this on the Bridechilla podcast a few times. People get engaged and go hog wild buying decorations and other items for their wedding. And then when they get closer to their wedding, they realize they don't even want or need most of the stuff they bought! So not only did they spend money they didn't need to spend, but now they have a bunch of stuff they don't know what to do with.
+I have heard this on the [Bridechilla podcast](http://bridechilla.libsyn.com/) a few times. People get engaged and go hog wild buying decorations and other items for their wedding. And then when they get closer to their wedding, they realize they don't even want or need most of the stuff they bought! So not only did they spend money they didn't need to spend, but now they have a bunch of stuff they don't know what to do with, and maybe even have to buy new things that they do actually want.
 
-Getting engaged is exciting and it can be super tempting to get a head start on the fun parts of wedding planning. But it might be more helpful to wait and get a good idea of your wedding day vision first.
+Getting engaged is exciting and it can be super tempting to get a head start on the fun parts of wedding planning. But it might be more helpful to wait and get a good idea of your wedding day vision first. You'll get a clearer understanding over time of how you want your day to look and feel. Once you have a good understanding (together with your partner), figure out what kinds of decorations you need. 
 
 ## Pay for the Important Stuff First
 
@@ -35,7 +37,7 @@ FOMO is real. And social media makes it so easy to compare ourselves to others a
 
 ## Be Careful of How Much You DIY
 
-It can seem more affordable to do things yourself for your wedding. Flowers, decorations, food, etc.
+It can seem more affordable to do things yourself for your wedding. Flowers, decorations, food, etc. But sometimes the further you go with DIY, the more expensive it can get. Do a cost comparison of how much it would cost to do things yourself vs. hiring someone to do it for you. And don't forget the value of time and energy saved!
 
 ## Add a 10% Buffer
 
