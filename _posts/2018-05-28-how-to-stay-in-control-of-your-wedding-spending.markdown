@@ -1,7 +1,6 @@
 ---
 title: How to Stay in Control of Your Wedding Spending
 date: 2018-05-28 11:00:00 -04:00
-published: false
 categories:
 - budget
 - lifestyle
