@@ -6,3 +6,4 @@ categories:
 image: "/uploads/wall.jpg"
 ---
 
+This month, I'll be writing full articles answering questions that have been asked by my clients and Money Circle members. 
