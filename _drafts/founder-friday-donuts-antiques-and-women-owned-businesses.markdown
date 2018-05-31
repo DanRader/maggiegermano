@@ -3,6 +3,11 @@ title: Founder Friday | Donuts, Antiques, and Women-Owned Businesses
 date: 2018-06-01 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/donuts.jpg"
+posts:
+- Founder Friday | Elevate You, Values, Bosses
+- Founder Friday | Meal Planning, iPhones, and AAUW
+- Founder Friday | Vitamins, HerStory, Frederick
 ---
 
 xx
