@@ -1,6 +1,8 @@
 ---
 title: Founder Friday | Donuts, Antiques, and Women-Owned Businesses
-date: 2018-05-31 15:15:00 -04:00
+date: 2018-06-01 14:00:00 -04:00
+categories:
+- founder friday
 ---
 
 xx
