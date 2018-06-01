@@ -36,7 +36,7 @@ This week, I wrote about [how to stay in control of spending](https://www.maggie
 
 ## What I’m Up To
 
-* I don't own any orange clothing, so I'm not [wearing orange today](https://wearorange.org/), but I'm still supporting the movement to end gun violence.
+* I don't own any orange clothing, so I'm not [wearing orange today](https://wearorange.org/), but I'm still supporting the movement to end gun violence. Join organizations like [Everytown for Gun Safety](https://everytown.org/) and the [Brady Campaign](http://www.bradycampaign.org/), who are working on this issue everyday. I had forgotten about this awareness day, until I saw a group of teenagers protesting gun violence by the White House yesterday. I snapped a few pictures (see below) and tried not to cry. The kids are alright. 
 
 * The [June Money Circle](https://www.maggiegermano.com/events/how-to-make-a-budget/) event is up! We’ll be gathering to create our own budgets! I’ll be there to guide you and answer your questions. See you there?
 
