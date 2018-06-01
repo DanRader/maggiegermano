@@ -26,6 +26,8 @@ Happy Friday, y'all! Is it just me, or do short weeks always feel the longest?
 
 * My Smartrip card finally ran out of Smart Benefits from my last job, so I had to put more money on the card. 
 
+* I haven't had a light in my home office for months, because we tried to replace the fixture and the wood beams in the ceiling are a little too broken up to drill into. We need to open the hole bigger and install the fixture to beams that haven't been drilled into 100 times. Of course, we're procrastinating on this task. So whenever it's cloudy out or getting dark, I basically sit in the dark in my office while I work. I finally gave in and bought myself a cute floor lamp for $60.
+
 ## What I’m Writing
 
 This week, I wrote about [how to stay in control of spending](https://www.maggiegermano.com/blog/how-to-stay-in-control-of-your-wedding-spending/) while you're wedding planning. Things can get out of hand very easily, so read up for my tips!
