@@ -42,6 +42,8 @@ This week, I wrote about [how to stay in control of spending](https://www.maggie
 
 * I’m teaming up with [General Assembly on Tuesday, June 26th](https://generalassemb.ly/education/mo-money-mo-worries-get-financially-savvy-in-2018/washington-dc/49127) for a free personal finance workshop. See you there?
 
+![2018-05-31 15.46.38-6f2f20.jpg](/uploads/2018-05-31%2015.46.38-6f2f20.jpg)
+
 ## Money Tip to Take Into the Weekend
 
 ![Review your budget on a monthly basis..png](/uploads/Review%20your%20budget%20on%20a%20monthly%20basis..png)
