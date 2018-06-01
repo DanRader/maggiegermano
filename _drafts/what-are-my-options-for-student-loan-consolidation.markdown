@@ -12,7 +12,7 @@ posts:
 - Non-salary Perks You Should Ask For
 ---
 
-This month, I'll be writing full articles answering questions that have been asked by my clients and [Money Circle](http://www.maggiegermano.com/moneycircle) members. One question that comes up consistently is this: how can I consolidate my loans, and what are my options? Debt consolidation can be a great option 
+This month, I'll be writing full articles answering questions that have been asked by my clients and [Money Circle](http://www.maggiegermano.com/moneycircle) members. One question that comes up consistently is this: how can I consolidate my loans, and what are my options? Debt consolidation can be a great option if your monthly payments are high, or if you feel like you're not making a dent because your interest rates are so high. Options will differ based on your personal situation, so there isn't a one-size-fits-all solution. 
 
 ## Why You Might Want to Consolidate
 
