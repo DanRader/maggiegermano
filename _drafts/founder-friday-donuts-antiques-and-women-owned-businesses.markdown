@@ -10,7 +10,7 @@ posts:
 - Founder Friday | Vitamins, HerStory, Frederick
 ---
 
-Happy Friday, y'all! Is it just me, or do short weeks always feel the longest?
+Happy Friday, y'all! Is it just me, or do short weeks always feel the longest? Here's what I was up to during this short, rainy week.
 
 ## How I Earned Money This Week
 
