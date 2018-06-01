@@ -14,6 +14,10 @@ xx
 
 ## How I Earned Money This Week
 
+* I didn't have any client payments go through this week, but we had an Airbnb guest stay for 6 nights straight!
+
+* This isn't my personal income, but Dan's paycheck came through this week. (ICYMI: Dan's income is the money that we're relying on for all of our fixed costs and flex spending. We're using my business income and Airbnb income for house updates and savings.)
+
 ## How I Spent Money This Week
 
 * Dan and I spent Sunday and Monday in Frederick, MD. We spent most of our money on a cute bed and breakfast and an all-you-can-eat crab feast. But we did go to a few antique shops to poke around. I bought a couple small gifts, but otherwise the prices were much higher than we anticipated. 
