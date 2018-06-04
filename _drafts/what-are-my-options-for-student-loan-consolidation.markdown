@@ -46,7 +46,7 @@ There are pros and cons for any financial decision. The important thing is to we
 
 * Consolidating can prolong your loan repayment period, and thus increase the amount you're paying in interest.
 
-* If you’re paying your current loans under an income-driven repayment plan, or if you’ve made qualifying payments toward [Public Service Loan Forgiveness](https://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/public-service), consolidating your current loans will cause you to lose credit for any payments made toward income-driven repayment plan forgiveness or Public Service Loan Forgiveness.x
+* If you’re paying your current loans under an income-driven repayment plan, or if you’ve made qualifying payments toward [Public Service Loan Forgiveness](https://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/public-service), consolidating your current loans will cause you to lose credit for any payments made toward those plans.
 
 * You can't consolidate private loans through the federal [Direct Consolidation Program](https://studentaid.ed.gov/sa/repay-loans/consolidation). 
 
