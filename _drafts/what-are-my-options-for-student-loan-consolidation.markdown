@@ -26,7 +26,9 @@ Debt consolidation and debt refinancing are two different things and they have d
 
 ## Why You Might Want to Consolidate
 
-* If you struggle to make your monthly payments,
+* If you struggle to make your monthly payments.
+
+* If you're in default and want to get back into repayment. 
 
 ## The Pros and Cons of Consolidating
 
