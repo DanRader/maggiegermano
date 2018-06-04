@@ -22,6 +22,8 @@ Debt consolidation and debt refinancing are two different things and they have d
 
 * Debt consolidation applies to your federal student loans, and is done through the government.
 
+* Debt consolidation 
+
 * If you're consolidating to lower your monthly payments, the life of your loan can increase to up to 30 years. 
 
 **Refinancing:**
