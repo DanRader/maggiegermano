@@ -16,7 +16,11 @@ This month, I'll be writing full articles answering questions that have been ask
 
 ## The Difference Between Consolidation and Refinancing
 
+Debt consolidation and debt refinancing are two different things and they have different outcomes. 
+
 ## Why You Might Want to Consolidate
+
+If you struggle to make your monthly payments, 
 
 ## The Pros and Cons of Consolidating
 
