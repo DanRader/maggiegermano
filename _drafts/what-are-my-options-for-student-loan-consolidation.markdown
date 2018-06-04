@@ -48,7 +48,9 @@ x
 
 ## If You Decide to Refinance Instead
 
-Perhaps after reading this article, you decide that loan consolidation won't actually help you, and you want to refinance instead. 
+Perhaps after reading this article, you decide that loan consolidation won't actually help you, and you want to refinance instead. That's great! That means you have received information that shows you what is right for you. But how should you go about doing that?
+
+* Do your research! There are so many consolidation companies out there. You want to make sure you're choosing one that is reputable and that actually helps you get to a better financial place. 
 
 Regardless of what you decide, make sure you do your research. It can be scary to make big financial decisions, but it gets a little bit easier if you're moving forward as informed as possible.
 
