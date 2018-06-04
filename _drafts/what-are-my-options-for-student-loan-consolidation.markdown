@@ -18,9 +18,13 @@ This month, I'll be writing full articles answering questions that have been ask
 
 Debt consolidation and debt refinancing are two different things and they have different outcomes. And based on your financial situation, one may be better for you than the other.
 
-* Debt consolidation is an official process through government channels.
+**Consolidation:**
+
+* Debt consolidation applies to your federal student loans, and is done through the government.
 
 * If you're consolidating to lower your monthly payments, the life of your loan can increase to up to 30 years. 
+
+**Refinancing:**
 
 * Refinancing means you're moving your student loans to a private loan company.
 
