@@ -40,9 +40,13 @@ There are pros and cons for any financial decision. The important thing is to we
 
 * Consolidation is a way to get out of default and back into current repayment.
 
+* You can switch any variable-rate loans you have to a fixed interest rate.
+
 **Cons:**
 
 * Consolidating can prolong your loan repayment period, and thus increase the amount you're paying in interest.
+
+* If you’re paying your current loans under an income-driven repayment plan, or if you’ve made qualifying payments toward [Public Service Loan Forgiveness](https://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/public-service), consolidating your current loans will cause you to lose credit for any payments made toward income-driven repayment plan forgiveness or Public Service Loan Forgiveness.x
 
 * You can't consolidate private loans through the federal [Direct Consolidation Program](https://studentaid.ed.gov/sa/repay-loans/consolidation). 
 
