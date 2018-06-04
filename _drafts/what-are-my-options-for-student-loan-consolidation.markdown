@@ -44,7 +44,7 @@ There are pros and cons for any financial decision. The important thing is to we
 
 * Consolidating can prolong your loan repayment period, and thus increase the amount you're paying in interest.
 
-* You can't consolidate private loans through the federal [Direct Consolidation Program](https://studentloans.gov/myDirectLoan/launchConsolidation.action). 
+* You can't consolidate private loans through the federal [Direct Consolidation Program](https://studentaid.ed.gov/sa/repay-loans/consolidation). 
 
 ## How You Can Consolidate
 
