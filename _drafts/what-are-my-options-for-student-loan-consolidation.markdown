@@ -3,7 +3,7 @@ title: What Are My Options for Student Loan Consolidation?
 date: 2018-06-04 11:00:00 -04:00
 categories:
 - debt
-image: "/uploads/wall.jpg"
+image: "/uploads/alice-pasqual-258250-unsplash%20(1).jpg"
 tweet: Got student loan debt and not sure what your consolidation options are? Read
   on!
 posts:
