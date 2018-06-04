@@ -28,6 +28,14 @@ If you don't recognize the debt or the name of the creditor, respond to the lett
 
 ## Ask for a Lower Settlement Amount
 
+If you realize that you definitely owe the debt you're being sued for, you really should own up to it. I've read some articles where the writer tells you to fight the charge no matter what, but I don't agree with that. If you know it's money you owe, you should do your best to make it right. The good thing in this scenario is that the creditor has likely already sold your debt to a collections agency for less than you actually owe. That means that they will be willing to reduce the amount that you owe just so you'll be able to pay it back. 
+
+## Set Up a Payment Plan
+
+Even if you get the creditor to lower your owed amount, you still might not have that much money lying around. If that's the case, you can set up a payment plan with them.
+
+Make sure you ask for confirmation in writing that you've agreed to a lower payment amount and a payment plan. You want to have proof that you've done your due diligence to pay your debt back.
+
 ## Go to Court
 
 If you still don't agree with the charge that is levied against you, you can go to court to fight it. In fact, if you're summoned to court and don't settle the charge ahead of time, you must show up. If you don't show up, the judge will almost certainly rule in favor of the creditor and you will owe the full amount. If you do show up, you at least have the opportunity to make your own case and show any proof you have if the debt isn't yours.
