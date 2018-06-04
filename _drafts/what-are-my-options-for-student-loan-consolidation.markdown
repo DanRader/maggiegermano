@@ -54,7 +54,11 @@ Perhaps after reading this article, you decide that loan consolidation won't act
 
 * Do your research! There are so many consolidation companies out there. You want to make sure you're choosing one that is reputable and that actually helps you get to a better financial place. 
 
-Regardless of what you decide, make sure you do your research. It can be scary to make big financial decisions, but it gets a little bit easier if you're moving forward as informed as possible.
+* Compare your options. Refinancing companies will let you get a quote for what your rates will be based on your credit score and credit history. 
+
+* Read the fine print. Make sure you're aware of any hidden fees or variable interest rates. 
+
+Regardless of what you decide, make sure you do your research. It can be scary to make big financial decisions, but it gets a little bit easier if you're moving forward as informed as possible. And make sure you're doing what's best for *you*, not just doing what you think you should do, or what other people are doing. 
 
 **Other Resources:**
 
