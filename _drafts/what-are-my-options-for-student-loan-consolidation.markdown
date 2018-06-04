@@ -48,7 +48,7 @@ There are pros and cons for any financial decision. The important thing is to we
 
 ## How You Can Consolidate
 
-x
+Visit StudentLoans.gov. There, you can see if you are eligible for a federal consolidation loan. 
 
 ## If You Decide to Refinance Instead
 
