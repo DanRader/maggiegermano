@@ -8,6 +8,7 @@ start-time: 6:30PM
 end-time: 8:30PM
 location: Columbia Heights Residence (11th and Otis NW)
 button-text: Sign Me Up!
+button-link: https://www.eventbrite.com/e/money-circle-how-to-make-a-budget-tickets-45983639303
 ticket-price: "$20"
 ---
 
