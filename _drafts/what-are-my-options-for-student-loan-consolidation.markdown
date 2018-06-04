@@ -26,8 +26,6 @@ Debt consolidation and debt refinancing are two different things and they have d
 
 * If you're consolidating to lower your monthly payments, the life of your loan can increase to up to 30 years.
 
-* You must consolidate in order to be eligible for income-driven repayment or [student loan forgiveness](https://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/public-service). 
-
 **Refinancing:**
 
 * Refinancing means you're moving your student loans to a private loan company.
@@ -41,6 +39,8 @@ Debt consolidation and debt refinancing are two different things and they have d
 * If you struggle to make your monthly payments.
 
 * If you're in default and want to get back into repayment.
+
+* If you need to consolidate to be eligible for income-driven repayment or public service loan forgiveness. This is the case if you have [Federal Family Education](https://www2.ed.gov/programs/ffel/index.html?exp=0), [Perkins](https://www2.ed.gov/programs/fpl/index.html?exp=0) or [parent PLUS](https://studentaid.ed.gov/sa/types/loans/plus) loans.
 
 ## The Pros and Cons of Consolidating
 
