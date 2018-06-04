@@ -22,15 +22,15 @@ Debt consolidation and debt refinancing are two different things and they have d
 
 * Refinancing means you're moving your student loans to a private loan company.
 
-* If you refinance your student loans with a private company, you will be ineligible for [student loan forgiveness](https://studentloanhero.com/featured/the-complete-list-of-student-loan-forgiveness-programs/). 
+* If you refinance your student loans with a private company, you will be ineligible for [student loan forgiveness](https://studentloanhero.com/featured/the-complete-list-of-student-loan-forgiveness-programs/).
 
 ## Why You Might Want to Consolidate
 
-* If you struggle to make your monthly payments, 
+* If you struggle to make your monthly payments,
 
 ## The Pros and Cons of Consolidating
 
-There are pros and cons for any financial decision. The important thing is to weigh both sides of the coin and figure out what makes the most sense for you. What might be right for someone else, might not be right for you. So it's imperative that you look at your lifestyle and needs and make a decision based on them. 
+There are pros and cons for any financial decision. The important thing is to weigh both sides of the coin and figure out what makes the most sense for you. What might be right for someone else, might not be right for you. So it's imperative that you look at your lifestyle and needs and make a decision based on them.
 
 **Pros:**
 
@@ -40,20 +40,23 @@ There are pros and cons for any financial decision. The important thing is to we
 
 **Cons:**
 
-
-* Consolidating can prolong your loan repayment period, and thus increase the amount you're paying in interest. 
+* Consolidating can prolong your loan repayment period, and thus increase the amount you're paying in interest.
 
 ## How You Can Consolidate
 
 x
 
-Regardless of what you decide, make sure you do your research. It can be scary to make big financial decisions, but it gets a little bit easier if you're moving forward as informed as possible. 
+## If You Decide to Refinance Instead
+
+Perhaps after reading this article, you decide that loan consolidation won't actually help you, and you want to refinance instead. 
+
+Regardless of what you decide, make sure you do your research. It can be scary to make big financial decisions, but it gets a little bit easier if you're moving forward as informed as possible.
 
 **Other Resources:**
 
-* http://time.com/money/4551212/should-consolidate-federal-student-loans/ 
+* http://time.com/money/4551212/should-consolidate-federal-student-loans/
 
-* https://studentloanhero.com/should-i-consolidate-my-student-loans-consider-this/ 
+* https://studentloanhero.com/should-i-consolidate-my-student-loans-consider-this/
 
 * http://www.journeytolaunch.com/episode36/
 
