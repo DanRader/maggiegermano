@@ -34,9 +34,11 @@ Debt consolidation and debt refinancing are two different things and they have d
 
 * If you refinance your student loans with a private company, you will be ineligible for [student loan forgiveness](https://studentloanhero.com/featured/the-complete-list-of-student-loan-forgiveness-programs/).
 
+* Your credit history will determine the interest rates and other parameters of a refinanced loan.
+
 ## Why You Might Want to Consolidate
 
-* If you struggle to make your monthly payments.
+* If you struggle to make your monthly payments and need them to be lower.
 
 * If you're in default and want to get back into repayment.
 
@@ -72,6 +74,8 @@ Visit [StudentLoans.gov](https://studentloans.gov/myDirectLoan/launchConsolidati
 
 Perhaps after reading this article, you decide that loan consolidation won't actually help you, and you want to refinance instead. That's great! That means you have received information that shows you what is right for you. But how should you go about doing that?
 
+* **Make sure your financial house is in order.** Your financial history, including your [credit score](https://www.maggiegermano.com/blog/care-about-your-credit-score), income, and job history, will all impact whether or not you're approved for a refinanced loan. It will also determine the interest rate and other fees involved. You should be in good financial standing if you're going to apply for student loan refinancing.
+
 * **Do your research!** There are so many consolidation companies out there. You want to make sure you're choosing one that is reputable and that actually helps you get to a better financial place.
 
 * **Compare your options.** Refinancing companies will let you get a quote for what your rates will be based on your credit score and credit history. Make sure you're aware of what your current interest rates are versus what the refinanced rate would be. You're ideally trying to save money, so you want the interest rate to be lower.
@@ -80,7 +84,7 @@ Perhaps after reading this article, you decide that loan consolidation won't act
 
 * **Be realistic.** This is not a magic fix for your student loan debt. Yes, if it's right for you, it might help you save money and pay your loans off faster. But you still have debt to pay off. Make sure you're financially prepared for this changes so that you don't default on the new loan.
 
-Regardless of what you decide, make sure you do your research. It can be scary to make big financial decisions, but it gets a little bit easier if you're moving forward as informed as possible. And make sure you're doing what's best for *you*, not just doing what you think you should do, or what other people are doing.
+Regardless of what you decide, make sure you do your research and weigh the pros and cons. It can be scary to make big financial decisions, but it gets a little bit easier if you're moving forward as informed as possible. And make sure you're doing what's best for *you*, not just doing what you think you should do, or what other people are doing.
 
 **Companies that Refinance Your Loans:**
 
