@@ -40,6 +40,10 @@ There are pros and cons for any financial decision. The important thing is to we
 
 ## How You Can Consolidate
 
+x
+
+Regardless of what you decide, make sure you do your research. It can be scary to make big financial decisions, but it gets a little bit easier if you're moving forward as informed as possible. 
+
 **Other Resources:**
 
 * http://time.com/money/4551212/should-consolidate-federal-student-loans/ 
