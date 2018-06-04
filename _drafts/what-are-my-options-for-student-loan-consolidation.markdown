@@ -58,13 +58,13 @@ There are pros and cons for any financial decision. The important thing is to we
 
 * You can switch any variable-rate loans you have to a fixed interest rate.
 
-* If you consolidate loans other than Direct Loans, it may give you access to additional income-driven repayment plan options and Public Service Loan Forgiveness.
+* If you consolidate loans other than Direct Loans, it may give you access to additional income-driven repayment plan options and student loan forgiveness.
 
 **Cons:**
 
 * Consolidating can prolong your loan repayment period, and thus increase the amount you're paying in interest.
 
-* If you’re paying your current loans under an income-driven repayment plan, or if you’ve made qualifying payments toward [Public Service Loan Forgiveness](https://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/public-service), consolidating your current loans will cause you to lose credit for any payments made toward those plans.
+* If you’re paying your current loans under an income-driven repayment plan, or if you’ve made qualifying payments toward the [student loan forgiveness program](https://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/public-service), consolidating your current loans will cause you to lose credit for any payments made toward those plans.
 
 * You can't consolidate private loans through the federal [Direct Consolidation Program](https://studentaid.ed.gov/sa/repay-loans/consolidation).
 
@@ -84,7 +84,7 @@ Perhaps after reading this article, you decide that loan consolidation won't act
 
 * **Read the fine print.** Make sure you're aware of any hidden fees or variable interest rates. One important potential fee is a early payoff penalties. This means that you get charged extra fees if you pay off your loan sooner than the original terms. If you're lucky enough to pay off your loan faster than planned, make sure you won't be punished for it. Another important fee is an origination fee. Most loans (and credit card balance transfers) include origination fees, but some places don't have them. Sometimes, it can be a substantive amount of additional money, so do your calculations and see what makes sense for you.
 
-* **Be realistic.** This is not a magic fix for your student loan debt. Yes, if it's right for you, it might help you save money and pay your loans off faster. But you still have debt to pay off. Make sure you're financially prepared for this changes so that you don't default on the new loan.
+* **Be realistic.** This is not a magic fix for your student loan debt. Yes, if it's right for you, it might help you save money and pay your loans off faster. But you still have debt to pay off. Make sure you're financially prepared for this change so that you don't default on the new loan.
 
 Regardless of what you decide, make sure you do your research and weigh the pros and cons. It can be scary to make big financial decisions, but it gets a little bit easier if you're moving forward as informed as possible. And make sure you're doing what's best for *you*, not just doing what you think you should do, or what other people are doing.
 
