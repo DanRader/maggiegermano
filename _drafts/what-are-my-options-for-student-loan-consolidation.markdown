@@ -48,7 +48,7 @@ There are pros and cons for any financial decision. The important thing is to we
 
 ## How You Can Consolidate
 
-x
+Visit [StudentLoans.gov](https://studentloans.gov/myDirectLoan/launchConsolidation.action). There, you can apply for a consolidation loan and sign a promissory note. You will need all of your student loan account information for this. At this time, you will also choose which type of repayment plan you will want once the consolidation is complete. Make sure you look into the [different repayment options](https://www.nerdwallet.com/blog/loans/student-loans/student-loan-repayment-plans/) first. 
 
 ## If You Decide to Refinance Instead
 
@@ -73,3 +73,5 @@ Regardless of what you decide, make sure you do your research. It can be scary t
 * https://www.nerdwallet.com/blog/loans/student-loans/consolidate-student-loans-2/
 
 * https://studentaid.ed.gov/sa/repay-loans/consolidation
+
+<script src="https://embeds.nerdwallet.com/embed.js" data-id="429907" data-utm_campaign="sl_prod_429907"></script>
