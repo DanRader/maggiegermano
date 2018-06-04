@@ -12,15 +12,21 @@ posts:
 - Non-salary Perks You Should Ask For
 ---
 
-This month, I'll be writing full articles answering questions that have been asked by my clients and [Money Circle](http://www.maggiegermano.com/moneycircle) members. One question that comes up consistently is this: how can I consolidate my loans, and what are my options? Debt consolidation can be a great option if your monthly payments are high, or if you feel like you're not making a dent because your interest rates are so high. Options will differ based on your personal situation, so there isn't a one-size-fits-all solution.
+This month, I'll be writing full articles answering questions that have been asked by my clients and [Money Circle](http://www.maggiegermano.com/moneycircle) members. One question that comes up consistently is this: how can I consolidate my loans, and what are my options? Debt consolidation can be a great option if your monthly payments are high, or if you feel like you have too many different accounts to pay each month. Options will differ based on your personal situation, so there isn't a one-size-fits-all solution. This post will also talk a little bit about student loan refinancing, which is also sometimes called "private student loan consolidation". 
 
 ## The Difference Between Consolidation and Refinancing
 
 Debt consolidation and debt refinancing are two different things and they have different outcomes. And based on your financial situation, one may be better for you than the other.
 
-* Debt consolidation is an official process through government channels.
+**Consolidation:**
+
+* Debt consolidation applies to your federal student loans, and is done through the government.
+
+* Debt consolidation 
 
 * If you're consolidating to lower your monthly payments, the life of your loan can increase to up to 30 years. 
+
+**Refinancing:**
 
 * Refinancing means you're moving your student loans to a private loan company.
 
