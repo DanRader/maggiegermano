@@ -70,11 +70,13 @@ Visit [StudentLoans.gov](https://studentloans.gov/myDirectLoan/launchConsolidati
 
 Perhaps after reading this article, you decide that loan consolidation won't actually help you, and you want to refinance instead. That's great! That means you have received information that shows you what is right for you. But how should you go about doing that?
 
-* Do your research! There are so many consolidation companies out there. You want to make sure you're choosing one that is reputable and that actually helps you get to a better financial place.
+* **Do your research!** There are so many consolidation companies out there. You want to make sure you're choosing one that is reputable and that actually helps you get to a better financial place.
 
-* Compare your options. Refinancing companies will let you get a quote for what your rates will be based on your credit score and credit history.
+* **Compare your options.** Refinancing companies will let you get a quote for what your rates will be based on your credit score and credit history.
 
-* Read the fine print. Make sure you're aware of any hidden fees or variable interest rates. One important potential fee is a early payoff penalties. This means that you get charged extra fees if you pay off your loan sooner than the original terms. If you're lucky enough to pay off your loan faster than planned, make sure you won't be punished for it. Another important fee is an origination fee. Most loans (and credit card balance transfers) include origination fees, but some places don't have them. Sometimes, it can be a substantive amount of additional money, so do your calculations and see what makes sense for you.
+* **Read the fine print.** Make sure you're aware of any hidden fees or variable interest rates. One important potential fee is a early payoff penalties. This means that you get charged extra fees if you pay off your loan sooner than the original terms. If you're lucky enough to pay off your loan faster than planned, make sure you won't be punished for it. Another important fee is an origination fee. Most loans (and credit card balance transfers) include origination fees, but some places don't have them. Sometimes, it can be a substantive amount of additional money, so do your calculations and see what makes sense for you.
+
+* **Be realistic.** This is not a magic fix for your student loan debt. Yes, if it's right for you, it might help you save money and pay your loans off faster. But you still have debt to pay off. Make sure you're financially prepared for this changes so that you don't default on the new loan.
 
 Regardless of what you decide, make sure you do your research. It can be scary to make big financial decisions, but it gets a little bit easier if you're moving forward as informed as possible. And make sure you're doing what's best for *you*, not just doing what you think you should do, or what other people are doing.
 
