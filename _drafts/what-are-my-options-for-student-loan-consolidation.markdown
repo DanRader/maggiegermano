@@ -42,6 +42,8 @@ There are pros and cons for any financial decision. The important thing is to we
 
 * You can switch any variable-rate loans you have to a fixed interest rate.
 
+* If you consolidate loans other than Direct Loans, it may give you access to additional income-driven repayment plan options and Public Service Loan Forgiveness.x
+
 **Cons:**
 
 * Consolidating can prolong your loan repayment period, and thus increase the amount you're paying in interest.
