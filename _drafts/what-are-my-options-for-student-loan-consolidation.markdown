@@ -16,13 +16,27 @@ This month, I'll be writing full articles answering questions that have been ask
 
 ## The Difference Between Consolidation and Refinancing
 
-Debt consolidation and debt refinancing are two different things and they have different outcomes. 
+Debt consolidation and debt refinancing are two different things and they have different outcomes. And based on your financial situation, one may be better for you than the other.
+
+* x
+
+* If you refinance your student loans with a private company, you will be ineligible for [student loan forgiveness](https://studentloanhero.com/featured/the-complete-list-of-student-loan-forgiveness-programs/). 
 
 ## Why You Might Want to Consolidate
 
-If you struggle to make your monthly payments, 
+* If you struggle to make your monthly payments, 
 
 ## The Pros and Cons of Consolidating
+
+There are pros and cons for any financial decision. The important thing is to weigh both sides of the coin and figure out what makes the most sense for you. What might be right for someone else, might not be right for you. So it's imperative that you look at your lifestyle and needs and make a decision based on them. 
+
+**Pros:**
+
+* Consolidation may make your student loans more manageable by combining payments into one lower monthly bill.
+
+**Cons:**
+
+* Consolidating can prolong your loan repayment period, and thus increase the amount you're paying in interest. 
 
 ## How You Can Consolidate
 
