@@ -20,6 +20,8 @@ Debt consolidation and debt refinancing are two different things and they have d
 
 * Debt consolidation is an official process through government channels.
 
+* If you're consolidating to lower your monthly payments, the life of your loan can increase to up to 30 years. 
+
 * Refinancing means you're moving your student loans to a private loan company.
 
 * If you refinance your student loans with a private company, you will be ineligible for [student loan forgiveness](https://studentloanhero.com/featured/the-complete-list-of-student-loan-forgiveness-programs/).
