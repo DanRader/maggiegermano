@@ -22,9 +22,11 @@ Debt consolidation and debt refinancing are two different things and they have d
 
 * Debt consolidation applies to your federal student loans, and is done through a government website.
 
-* Debt consolidation combines your multiple federal loans into one monthly payment, with one fixed interest rate (which is an average of all the interest rates you'd been paying).
+* Debt consolidation combines your multiple federal loans into one monthly payment, with one fixed interest rate (which is the [weighted average](https://www.nerdwallet.com/blog/loans/student-loans/weighted-average-student-loan-calculator/) of all the interest rates you'd been paying).
 
 * If you're consolidating to lower your monthly payments, the life of your loan can increase to up to 30 years.
+
+* You must consolidate in order to be eligible for income-driven repayment or [student loan forgiveness](https://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/public-service). 
 
 **Refinancing:**
 
@@ -52,7 +54,7 @@ There are pros and cons for any financial decision. The important thing is to we
 
 * You can switch any variable-rate loans you have to a fixed interest rate.
 
-* If you consolidate loans other than Direct Loans, it may give you access to additional income-driven repayment plan options and Public Service Loan Forgiveness.x
+* If you consolidate loans other than Direct Loans, it may give you access to additional income-driven repayment plan options and Public Service Loan Forgiveness.
 
 **Cons:**
 
