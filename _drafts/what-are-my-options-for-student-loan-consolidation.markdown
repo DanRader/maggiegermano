@@ -12,7 +12,7 @@ posts:
 - Non-salary Perks You Should Ask For
 ---
 
-This month, I'll be writing full articles answering questions that have been asked by my clients and [Money Circle](http://www.maggiegermano.com/moneycircle) members. One question that comes up consistently is this: how can I consolidate my loans, and what are my options? Debt consolidation can be a great option if your monthly payments are high, or if you feel like you have too many different accounts to pay each month. Options will differ based on your personal situation, so there isn't a one-size-fits-all solution. This post will also talk a little bit about student loan refinancing, which is also sometimes called "private student loan consolidation". 
+This month, I'll be writing full articles answering questions that have been asked by my clients and [Money Circle](http://www.maggiegermano.com/moneycircle) members. One question that comes up consistently is this: how can I consolidate my loans, and what are my options? Debt consolidation can be a great option if your monthly payments are high, or if you feel like you have too many different accounts to pay each month. Options will differ based on your personal situation, so there isn't a one-size-fits-all solution. This post will also talk a little bit about student loan refinancing, which is also sometimes called "private student loan consolidation".
 
 ## The Difference Between Consolidation and Refinancing
 
@@ -24,7 +24,7 @@ Debt consolidation and debt refinancing are two different things and they have d
 
 * Debt consolidation combines your multiple federal loans into one monthly payment, with one fixed interest rate (which is an average of all the interest rates you'd been paying).
 
-* If you're consolidating to lower your monthly payments, the life of your loan can increase to up to 30 years. 
+* If you're consolidating to lower your monthly payments, the life of your loan can increase to up to 30 years.
 
 **Refinancing:**
 
@@ -38,7 +38,7 @@ Debt consolidation and debt refinancing are two different things and they have d
 
 * If you struggle to make your monthly payments.
 
-* If you're in default and want to get back into repayment. 
+* If you're in default and want to get back into repayment.
 
 ## The Pros and Cons of Consolidating
 
@@ -60,7 +60,7 @@ There are pros and cons for any financial decision. The important thing is to we
 
 * If you’re paying your current loans under an income-driven repayment plan, or if you’ve made qualifying payments toward [Public Service Loan Forgiveness](https://studentaid.ed.gov/sa/repay-loans/forgiveness-cancellation/public-service), consolidating your current loans will cause you to lose credit for any payments made toward those plans.
 
-* You can't consolidate private loans through the federal [Direct Consolidation Program](https://studentaid.ed.gov/sa/repay-loans/consolidation). 
+* You can't consolidate private loans through the federal [Direct Consolidation Program](https://studentaid.ed.gov/sa/repay-loans/consolidation).
 
 ## How You Can Consolidate
 
@@ -70,13 +70,27 @@ Visit [StudentLoans.gov](https://studentloans.gov/myDirectLoan/launchConsolidati
 
 Perhaps after reading this article, you decide that loan consolidation won't actually help you, and you want to refinance instead. That's great! That means you have received information that shows you what is right for you. But how should you go about doing that?
 
-* Do your research! There are so many consolidation companies out there. You want to make sure you're choosing one that is reputable and that actually helps you get to a better financial place. 
+* **Do your research!** There are so many consolidation companies out there. You want to make sure you're choosing one that is reputable and that actually helps you get to a better financial place.
 
-* Compare your options. Refinancing companies will let you get a quote for what your rates will be based on your credit score and credit history. 
+* **Compare your options.** Refinancing companies will let you get a quote for what your rates will be based on your credit score and credit history.
 
-* Read the fine print. Make sure you're aware of any hidden fees or variable interest rates. One important potential fee is a early payoff penalties. This means that you get charged extra fees if you pay off your loan sooner than the original terms. If you're lucky enough to pay off your loan faster than planned, make sure you won't be punished for it. Another important fee is an origination fee. Most loans (and credit card balance transfers) include origination fees, but some places don't have them. Sometimes, it can be a substantive amount of additional money, so do your calculations and see what makes sense for you. 
+* **Read the fine print.** Make sure you're aware of any hidden fees or variable interest rates. One important potential fee is a early payoff penalties. This means that you get charged extra fees if you pay off your loan sooner than the original terms. If you're lucky enough to pay off your loan faster than planned, make sure you won't be punished for it. Another important fee is an origination fee. Most loans (and credit card balance transfers) include origination fees, but some places don't have them. Sometimes, it can be a substantive amount of additional money, so do your calculations and see what makes sense for you.
 
-Regardless of what you decide, make sure you do your research. It can be scary to make big financial decisions, but it gets a little bit easier if you're moving forward as informed as possible. And make sure you're doing what's best for *you*, not just doing what you think you should do, or what other people are doing. 
+* **Be realistic.** This is not a magic fix for your student loan debt. Yes, if it's right for you, it might help you save money and pay your loans off faster. But you still have debt to pay off. Make sure you're financially prepared for this changes so that you don't default on the new loan.
+
+Regardless of what you decide, make sure you do your research. It can be scary to make big financial decisions, but it gets a little bit easier if you're moving forward as informed as possible. And make sure you're doing what's best for *you*, not just doing what you think you should do, or what other people are doing.
+
+**Companies that Refinance Your Loans:**
+
+This is not a complete list. It's just a way to get you started on your research. See the resources below for in-depth comparisons of the different companies and what their rates are.
+
+* [SoFi](https://www.sofi.com/)
+
+* [Citizens Bank](https://www.citizensbank.com/HomePage.aspx)
+
+* [Earnest](https://www.earnest.com/)
+
+* 
 
 **Other Resources:**
 
@@ -89,5 +103,9 @@ Regardless of what you decide, make sure you do your research. It can be scary t
 * https://www.nerdwallet.com/blog/loans/student-loans/consolidate-student-loans-2/
 
 * https://studentaid.ed.gov/sa/repay-loans/consolidation
+
+* https://studentloanhero.com/5-banks-to-refinance-your-student-loans-0107/
+
+* https://www.credible.com/blog/refinance-student-loans/best-companies-to-refinance-and-consolidate-your-student-loans/
 
 <script src="https://embeds.nerdwallet.com/embed.js" data-id="429907" data-utm_campaign="sl_prod_429907"></script>
