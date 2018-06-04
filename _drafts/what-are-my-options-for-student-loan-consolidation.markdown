@@ -84,11 +84,11 @@ Regardless of what you decide, make sure you do your research. It can be scary t
 
 This is not a complete list. It's just a way to get you started on your research. See the resources below for in-depth comparisons of the different companies and what their rates are.
 
-* SoFi
+* [SoFi](https://www.sofi.com/)
 
-* Citizens Bank
+* [Citizens Bank](https://www.citizensbank.com/HomePage.aspx)
 
-* Earnest
+* [Earnest](https://www.earnest.com/)
 
 * 
 
