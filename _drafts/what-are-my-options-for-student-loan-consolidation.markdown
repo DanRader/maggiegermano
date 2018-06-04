@@ -72,7 +72,7 @@ Perhaps after reading this article, you decide that loan consolidation won't act
 
 * **Do your research!** There are so many consolidation companies out there. You want to make sure you're choosing one that is reputable and that actually helps you get to a better financial place.
 
-* **Compare your options.** Refinancing companies will let you get a quote for what your rates will be based on your credit score and credit history.
+* **Compare your options.** Refinancing companies will let you get a quote for what your rates will be based on your credit score and credit history. Make sure you're aware of what your current interest rates are versus what the refinanced rate would be. You're ideally trying to save money, so you want the interest rate to be lower.
 
 * **Read the fine print.** Make sure you're aware of any hidden fees or variable interest rates. One important potential fee is a early payoff penalties. This means that you get charged extra fees if you pay off your loan sooner than the original terms. If you're lucky enough to pay off your loan faster than planned, make sure you won't be punished for it. Another important fee is an origination fee. Most loans (and credit card balance transfers) include origination fees, but some places don't have them. Sometimes, it can be a substantive amount of additional money, so do your calculations and see what makes sense for you.
 
