@@ -22,7 +22,7 @@ Debt consolidation and debt refinancing are two different things and they have d
 
 * Debt consolidation applies to your federal student loans, and is done through a government website.
 
-* Debt consolidation combines your multiple federal loans into one monthly payment, with one fixed interest rate (which is an average of all the interest rates you'd been paying).
+* Debt consolidation combines your multiple federal loans into one monthly payment, with one fixed interest rate (which is the [weighted average](https://www.nerdwallet.com/blog/loans/student-loans/weighted-average-student-loan-calculator/) of all the interest rates you'd been paying).
 
 * If you're consolidating to lower your monthly payments, the life of your loan can increase to up to 30 years.
 
@@ -40,6 +40,8 @@ Debt consolidation and debt refinancing are two different things and they have d
 
 * If you're in default and want to get back into repayment.
 
+* If you need to consolidate to be eligible for income-driven repayment or public service loan forgiveness. This is the case if you have [Federal Family Education](https://www2.ed.gov/programs/ffel/index.html?exp=0), [Perkins](https://www2.ed.gov/programs/fpl/index.html?exp=0) or [parent PLUS](https://studentaid.ed.gov/sa/types/loans/plus) loans.
+
 ## The Pros and Cons of Consolidating
 
 There are pros and cons for any financial decision. The important thing is to weigh both sides of the coin and figure out what makes the most sense for you. What might be right for someone else, might not be right for you. So it's imperative that you look at your lifestyle and needs and make a decision based on them.
@@ -52,7 +54,7 @@ There are pros and cons for any financial decision. The important thing is to we
 
 * You can switch any variable-rate loans you have to a fixed interest rate.
 
-* If you consolidate loans other than Direct Loans, it may give you access to additional income-driven repayment plan options and Public Service Loan Forgiveness.x
+* If you consolidate loans other than Direct Loans, it may give you access to additional income-driven repayment plan options and Public Service Loan Forgiveness.
 
 **Cons:**
 
@@ -72,7 +74,7 @@ Perhaps after reading this article, you decide that loan consolidation won't act
 
 * **Do your research!** There are so many consolidation companies out there. You want to make sure you're choosing one that is reputable and that actually helps you get to a better financial place.
 
-* **Compare your options.** Refinancing companies will let you get a quote for what your rates will be based on your credit score and credit history.
+* **Compare your options.** Refinancing companies will let you get a quote for what your rates will be based on your credit score and credit history. Make sure you're aware of what your current interest rates are versus what the refinanced rate would be. You're ideally trying to save money, so you want the interest rate to be lower.
 
 * **Read the fine print.** Make sure you're aware of any hidden fees or variable interest rates. One important potential fee is a early payoff penalties. This means that you get charged extra fees if you pay off your loan sooner than the original terms. If you're lucky enough to pay off your loan faster than planned, make sure you won't be punished for it. Another important fee is an origination fee. Most loans (and credit card balance transfers) include origination fees, but some places don't have them. Sometimes, it can be a substantive amount of additional money, so do your calculations and see what makes sense for you.
 
@@ -82,7 +84,7 @@ Regardless of what you decide, make sure you do your research. It can be scary t
 
 **Companies that Refinance Your Loans:**
 
-This is not a complete list. It's just a way to get you started on your research. See the resources below for in-depth comparisons of the different companies and what their rates are.
+This is not a complete list. It's just a way to get you started on your research. See the other resources below for in-depth comparisons for many of the different companies and what their rates and requirements are.
 
 * [SoFi](https://www.sofi.com/)
 
@@ -90,7 +92,9 @@ This is not a complete list. It's just a way to get you started on your research
 
 * [Earnest](https://www.earnest.com/)
 
-* 
+* [Discover](https://www.discover.com/)
+
+* [LendKey](https://www.lendkey.com/)
 
 **Other Resources:**
 
@@ -107,5 +111,7 @@ This is not a complete list. It's just a way to get you started on your research
 * https://studentloanhero.com/5-banks-to-refinance-your-student-loans-0107/
 
 * https://www.credible.com/blog/refinance-student-loans/best-companies-to-refinance-and-consolidate-your-student-loans/
+
+* https://www.nerdwallet.com/refinancing-student-loans 
 
 <script src="https://embeds.nerdwallet.com/embed.js" data-id="429907" data-utm_campaign="sl_prod_429907"></script>
