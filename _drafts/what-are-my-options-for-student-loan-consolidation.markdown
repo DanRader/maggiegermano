@@ -82,7 +82,7 @@ Regardless of what you decide, make sure you do your research. It can be scary t
 
 **Companies that Refinance Your Loans:**
 
-This is not a complete list. It's just a way to get you started on your research. See the resources below for in-depth comparisons of the different companies and what their rates are.
+This is not a complete list. It's just a way to get you started on your research. See the other resources below for in-depth comparisons for many of the different companies and what their rates and requirements are.
 
 * [SoFi](https://www.sofi.com/)
 
@@ -90,7 +90,9 @@ This is not a complete list. It's just a way to get you started on your research
 
 * [Earnest](https://www.earnest.com/)
 
-* 
+* [Discover](https://www.discover.com/)
+
+* [LendKey](https://www.lendkey.com/)
 
 **Other Resources:**
 
@@ -107,5 +109,7 @@ This is not a complete list. It's just a way to get you started on your research
 * https://studentloanhero.com/5-banks-to-refinance-your-student-loans-0107/
 
 * https://www.credible.com/blog/refinance-student-loans/best-companies-to-refinance-and-consolidate-your-student-loans/
+
+* https://www.nerdwallet.com/refinancing-student-loans 
 
 <script src="https://embeds.nerdwallet.com/embed.js" data-id="429907" data-utm_campaign="sl_prod_429907"></script>
