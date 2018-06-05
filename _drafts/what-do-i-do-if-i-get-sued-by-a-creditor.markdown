@@ -46,4 +46,12 @@ If you still don't agree with the charge that is levied against you, you can go 
 
 If you can't afford a lawyer and you'd feel more comfortable having one, look into legal aid in your area. Your city and state should have legal aid offices that you can contact and see if you qualify for pro bono or "low bono" legal services. 
 
+In the DC, Maryland, Virginia area? Here are legal aid services:
+
+* [Legal Aid Society of DC](https://www.legalaiddc.org/)
+
+* [Virginia Legal Aid](https://www.valegalaid.org/)
+
+* [Maryland Legal Aid](https://www.mdlab.org/)
+
 ## Pay Your Bill
