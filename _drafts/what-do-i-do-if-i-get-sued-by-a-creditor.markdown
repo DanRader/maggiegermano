@@ -67,3 +67,9 @@ You can also consult a consumer attorney: [National Association of Consumer Advo
 A very common reaction to stressful financial situations is to put your head in the sand and ignore it. If you tend to do that, you're definitely not the only one! However, if you do that, you'll end up in a worse financial position.
 
 If you get sued by a creditor and do not reply to the letter or show up in court, the judge will almost certainly rule against you. That means that you will legally be responsible for the full amount you're being sued for. Luckily, if this happens and you're ready to respond, you can appeal the decision or try to settle it for less. 
+
+**More Resources:**
+
+* https://www.nerdwallet.com/blog/finance/statute-limitations-debt/ 
+
+* http://blog.credit.com/2017/04/creditor-gets-a-judgment-against-you-now-what-51696/ 
