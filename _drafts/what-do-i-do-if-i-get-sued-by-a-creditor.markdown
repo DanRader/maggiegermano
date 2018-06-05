@@ -18,6 +18,8 @@ I'm sure you can picture it: you get your mail just like any other day. You open
 
 What?! Who could be suing you? Can you really get sued via mail? As you scan the letter, you see that a collection agency is suing you on behalf of a creditor. This is scary, and it's meant to be. The important thing here is to take action. Don't shred the letter. Here's what you should do next to make sure you don't end up in court or with garnished wages.
 
+> The important thing here is to take action.
+
 ## Confirm the Debt is Actually Yours
 
 There are a lot of scammers out there, especially those trying to scare you into giving them money. (Have you ever gotten one of those phone calls saying you owe money to the IRS? Pro tip: those calls are NEVER real. The IRS only communicates via snail mail, on official letterhead.) It's no different when it comes to someone telling them you're being sued for your debt.
