@@ -60,7 +60,7 @@ In the DC, Maryland, Virginia area? Here are legal aid services:
 
 You can also consult a consumer attorney:
 
-* x
+* [National Association of Consumer Advocates](https://www.consumeradvocates.org/find-an-attorney) 
 
 ## What Happens If You Do Nothing
 
