@@ -16,7 +16,7 @@ I'm sure you can picture it: you get your mail just like any other day. You open
 
 ![Screen Shot 2018-06-05 at 10.33.42 AM.png](/uploads/Screen%20Shot%202018-06-05%20at%2010.33.42%20AM.png)
 
-What?! Who could be suing you? Can you really get sued via mail? As you scan the letter, you see that a collection agency is suing you on behalf of a creditor. This is scary, and it's meant to be. The important thing here is to take action. Don't shred the letter. 
+What?! Who could be suing you? Can you really get sued via mail? As you scan the letter, you see that a collection agency is suing you on behalf of a creditor. This is scary, and it's meant to be. The important thing here is to take action. Don't shred the letter. Here's what you should do next to make sure you don't end up in court or with garnished wages.
 
 ## Confirm the Debt is Actually Yours
 
@@ -56,4 +56,6 @@ In the DC, Maryland, Virginia area? Here are legal aid services:
 
 * [Maryland Legal Aid](https://www.mdlab.org/)
 
-## Pay Your Bill
+## What Happens If You Do Nothing
+
+A very common reaction to stressful financial situations 
