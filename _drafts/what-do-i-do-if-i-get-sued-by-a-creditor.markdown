@@ -12,15 +12,19 @@ posts:
 - Why You Should Care About Your Credit Score
 ---
 
-I'm sure you can picture it: you get your mail just like any other day. You open a plain, white envelope.
+I'm sure you can picture it: you get your mail just like any other day. You open a plain, white envelope. It's not clear what's inside before you open it. But when you rip it open and pull out the paper, you see:
+
+![Screen Shot 2018-06-05 at 10.33.42 AM.png](/uploads/Screen%20Shot%202018-06-05%20at%2010.33.42%20AM.png)
+
+What? Who would be suing you? 
 
 ## Confirm the Debt is Actually Yours
 
-There are a lot of scammers out there, especially those trying to scare you into giving them money. (Have you ever gotten one of those phone calls saying you owe money to the IRS? Pro tip: those calls are NEVER real. The IRS only communicates via snail mail, on official letterhead.) It's no different when it comes to someone telling them you're being sued for your debt. 
+There are a lot of scammers out there, especially those trying to scare you into giving them money. (Have you ever gotten one of those phone calls saying you owe money to the IRS? Pro tip: those calls are NEVER real. The IRS only communicates via snail mail, on official letterhead.) It's no different when it comes to someone telling them you're being sued for your debt.
 
-You may have one of two reactions in this situation: pay the bill right away so you don't get in trouble or throw the letter in the garbage and pretend you never got it. Neither of those reactions will help you in the long run. 
+You may have one of two reactions in this situation: pay the bill right away so you don't get in trouble or throw the letter in the garbage and pretend you never got it. Neither of those reactions will help you in the long run.
 
-Read the letter in full and identify the company that is actually suing you. Do you recognize the name? Perhaps it's the name of the credit card company whose card you couldn't pay and then was sent to collections. 
+Read the letter in full and identify the company that is actually suing you. Do you recognize the name? Perhaps it's the name of the credit card company whose card you couldn't pay and then was sent to collections.
 
 ## Ask for Proof
 
@@ -28,7 +32,7 @@ If you don't recognize the debt or the name of the creditor, respond to the lett
 
 ## Ask for a Lower Settlement Amount
 
-If you realize that you definitely owe the debt you're being sued for, you really should own up to it. I've read some articles where the writer tells you to fight the charge no matter what, but I don't agree with that. If you know it's money you owe, you should do your best to make it right. The good thing in this scenario is that the creditor has likely already sold your debt to a collections agency for less than you actually owe. That means that they will be willing to reduce the amount that you owe just so you'll be able to pay it back. 
+If you realize that you definitely owe the debt you're being sued for, you really should own up to it. I've read some articles where the writer tells you to fight the charge no matter what, but I don't agree with that. If you know it's money you owe, you should do your best to make it right. The good thing in this scenario is that the creditor has likely already sold your debt to a collections agency for less than you actually owe. That means that they will be willing to reduce the amount that you owe just so you'll be able to pay it back.
 
 ## Set Up a Payment Plan
 
