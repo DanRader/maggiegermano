@@ -58,9 +58,7 @@ In the DC, Maryland, Virginia area? Here are legal aid services:
 
 * [Maryland Legal Aid](https://www.mdlab.org/)
 
-You can also consult a consumer attorney:
-
-* [National Association of Consumer Advocates](https://www.consumeradvocates.org/find-an-attorney) 
+You can also consult a consumer attorney: [National Association of Consumer Advocates](https://www.consumeradvocates.org/find-an-attorney) 
 
 ## What Happens If You Do Nothing
 
