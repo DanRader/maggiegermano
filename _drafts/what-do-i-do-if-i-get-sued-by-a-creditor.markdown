@@ -44,4 +44,6 @@ Make sure you ask for confirmation in writing that you've agreed to a lower paym
 
 If you still don't agree with the charge that is levied against you, you can go to court to fight it. In fact, if you're summoned to court and don't settle the charge ahead of time, you must show up. If you don't show up, the judge will almost certainly rule in favor of the creditor and you will owe the full amount. If you do show up, you at least have the opportunity to make your own case and show any proof you have if the debt isn't yours.
 
+If you can't afford a lawyer and you'd feel more comfortable having one, look into legal aid in your area. Your city and state should have legal aid offices that you can contact and see if you qualify for pro bono or "low bono" legal services. 
+
 ## Pay Your Bill
