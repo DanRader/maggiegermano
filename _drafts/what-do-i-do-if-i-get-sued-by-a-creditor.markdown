@@ -38,6 +38,8 @@ If you realize that you definitely owe the debt you're being sued for, you reall
 
 I've had one client who had over $600 knocked off of her bill when she asked for it to be lowered. Another client negotiated a 40% reduction of her bill! The moral of the story is that you should always ask for a lower payment amount. The collections agency and attorney want a resolution to this situation as much as you do. Settling on a lower amount than you originally owed is a win-win.
 
+Once you've come to an agreement with the attorney, contact the court that was listed on the litigation letter. Check with them and make sure the suit was dropped by the creditor so that you know for sure you're no longer being sued.
+
 ## Set Up a Payment Plan
 
 Even if you get the creditor to lower your owed amount, you still might not have enough money lying around to pay it in full. If that's the case, you can set up a payment plan with them.
