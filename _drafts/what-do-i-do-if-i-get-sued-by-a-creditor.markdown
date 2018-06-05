@@ -32,11 +32,13 @@ If you don't recognize the debt or the name of the creditor, respond to the lett
 
 ## Ask for a Lower Settlement Amount
 
-If you realize that you definitely owe the debt you're being sued for, you really should own up to it. I've read some articles where the writer tells you to fight the charge no matter what, but I don't agree with that. If you know it's money you owe, you should do your best to make it right. The good thing in this scenario is that the creditor has likely already sold your debt to a collections agency for less than you actually owe. That means that they will be willing to reduce the amount that you owe just so you'll be able to pay it back.
+If you realize that you definitely owe the debt you're being sued for, you really should own up to it. I've read some articles where the writer tells you to fight the charge no matter what, but I don't agree with that. If you know it's money you owe, you should do your best to make it right. The good thing in this scenario is that the creditor has likely already sold your debt to a collections agency for less than you actually owe. That means that they will be willing to reduce the amount that you owe just so you'll be able to pay it back. 
+
+I've had one client who had over $600 knocked off of her bill when she asked for it to be lowered. Another client negotiated a 40% reduction of her bill! The moral of the story is that you should always ask for a lower payment amount. The collections agency and attorney want a resolution to this situation as much as you do. Settling on a lower amount than you originally owed is a win-win.
 
 ## Set Up a Payment Plan
 
-Even if you get the creditor to lower your owed amount, you still might not have that much money lying around. If that's the case, you can set up a payment plan with them.
+Even if you get the creditor to lower your owed amount, you still might not have enough money lying around to pay it in full. If that's the case, you can set up a payment plan with them.
 
 Make sure you ask for confirmation in writing that you've agreed to a lower payment amount and a payment plan. You want to have proof that you've done your due diligence to pay your debt back.
 
