@@ -30,7 +30,7 @@ Read the letter in full and identify the company that is actually suing you. Do 
 
 ## Ask for Proof
 
-If you don't recognize the debt or the name of the creditor, respond to the letter immediately. There should be the name and contact information of the lawyer representing the plaintiff. Call them and ask for proof of the debt. Have them provide information like: the creditor name, the type of debt, the amount of debt owed, etc. I
+If you don't recognize the debt or the name of the creditor, respond to the letter immediately. There should be the name and contact information of the lawyer representing the plaintiff. Call them and ask for proof of the debt. Have them provide information like: the creditor name, the type of debt, the amount of debt owed, etc. If you do recognize the debt, you should still reach out and ask for confirmation. If they don't have proof that you owe the debt, they won't be able to successfully argue against you in court. 
 
 ## Ask for a Lower Settlement Amount
 
