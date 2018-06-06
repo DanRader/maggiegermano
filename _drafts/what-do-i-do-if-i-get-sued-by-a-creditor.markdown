@@ -16,7 +16,7 @@ I'm sure you can picture it: you get your mail just like any other day. You open
 
 ![Screen Shot 2018-06-05 at 10.33.42 AM.png](/uploads/Screen%20Shot%202018-06-05%20at%2010.33.42%20AM.png)
 
-What?! Who could be suing you? Can you really get sued via mail? As you scan the letter, you see that a collection agency is suing you on behalf of a creditor. This is scary, and it's meant to be. The important thing here is to take action. Don't shred the letter. Here's what you should do next to make sure you don't end up in court or with garnished wages.
+What?! Who could be suing you? Can you really get sued via mail? As you scan the letter, you see that a collection agency is suing you on behalf of a creditor. This is scary, and it's meant to be scary. The important thing here is to take action. Don't shred the letter. There are specific steps you can take to make sure you don't end up in court or with garnished wages.
 
 > The important thing here is to take action.
 
@@ -34,7 +34,7 @@ If you don't recognize the debt or the name of the creditor, respond to the lett
 
 ## Ask for a Lower Settlement Amount
 
-If you realize that you definitely owe the debt you're being sued for, you really should own up to it. I've read some articles where the writer tells you to fight the charge no matter what, but I don't agree with that. If you know it's money you owe, you should do your best to make it right. The good thing in this scenario is that the creditor has likely already sold your debt to a collections agency for less than you actually owe. That means that they will be willing to reduce the amount that you owe just so you'll be able to pay it back. 
+If you realize that you definitely owe the debt you're being sued for, you really should own up to it. I've read some articles where the writer tells you to fight the charge no matter what, but I don't agree with that. If you know it's money you owe, you should do your best to make it right. The good thing in this scenario is that the creditor has likely already sold your debt to a collections agency for less than you actually owe. That means that they will be willing to reduce the amount that you owe just so you'll be able to pay it back.
 
 I've had one client who had over $600 knocked off of her bill when she asked for it to be lowered. Another client negotiated a 40% reduction of her bill! The moral of the story is that you should always ask for a lower payment amount. The collections agency and attorney want a resolution to this situation as much as you do. Settling on a lower amount than you originally owed is a win-win.
 
@@ -50,7 +50,7 @@ Make sure you ask for confirmation in writing that you've agreed to a lower paym
 
 If you still don't agree with the charge that is levied against you, you can go to court to fight it. In fact, if you're summoned to court and don't settle the charge ahead of time, you must show up. If you don't show up, the judge will almost certainly rule in favor of the creditor and you will owe the full amount. If you do show up, you at least have the opportunity to make your own case and show any proof you have if the debt isn't yours.
 
-If you can't afford a lawyer and you'd feel more comfortable having one, look into legal aid in your area. Your city and state should have legal aid offices that you can contact and see if you qualify for pro bono or "low bono" legal services. 
+If you can't afford a lawyer and you'd feel more comfortable having one, look into legal aid in your area. Your city and state should have legal aid offices that you can contact and see if you qualify for pro bono or "low bono" legal services.
 
 In the DC, Maryland, Virginia area? Here are legal aid services:
 
@@ -60,16 +60,16 @@ In the DC, Maryland, Virginia area? Here are legal aid services:
 
 * [Maryland Legal Aid](https://www.mdlab.org/)
 
-You can also consult a consumer attorney: [National Association of Consumer Advocates](https://www.consumeradvocates.org/find-an-attorney) 
+You can also consult a consumer attorney: [National Association of Consumer Advocates](https://www.consumeradvocates.org/find-an-attorney)
 
 ## What Happens If You Do Nothing
 
 A very common reaction to stressful financial situations is to put your head in the sand and ignore it. If you tend to do that, you're definitely not the only one! However, if you do that, you'll end up in a worse financial position.
 
-If you get sued by a creditor and do not reply to the letter or show up in court, the judge will almost certainly rule against you. That means that you will legally be responsible for the full amount you're being sued for. Luckily, if this happens and you're ready to respond, you can appeal the decision or try to settle it for less. 
+If you get sued by a creditor and do not reply to the letter or show up in court, the judge will almost certainly rule against you. That means that you will legally be responsible for the full amount you're being sued for. Luckily, if this happens and you're ready to respond, you can appeal the decision or try to settle it for less.
 
 **More Resources:**
 
-* https://www.nerdwallet.com/blog/finance/statute-limitations-debt/ 
+* https://www.nerdwallet.com/blog/finance/statute-limitations-debt/
 
-* http://blog.credit.com/2017/04/creditor-gets-a-judgment-against-you-now-what-51696/ 
+* http://blog.credit.com/2017/04/creditor-gets-a-judgment-against-you-now-what-51696/
