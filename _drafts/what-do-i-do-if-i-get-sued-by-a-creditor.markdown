@@ -26,11 +26,11 @@ There are a lot of scammers out there, especially those trying to scare you into
 
 You may have one of two reactions in this situation: pay the bill right away so you don't get in trouble or throw the letter in the garbage and pretend you never got it. Neither of those reactions will help you in the long run.
 
-Read the letter in full and identify the company that is actually suing you. Do you recognize the name? Perhaps it's the name of the credit card company whose card you couldn't pay and then was sent to collections. Whether or not you recognize the debt, you should move on to the next step.
+Read the letter in full and try to identify the company that is actually suing you. Do you recognize the name? Perhaps it's the name of the credit card company whose card you couldn't pay and then was sent to collections. It is also likely to be the name of the collections agency the debt was sold to. Whether or not you recognize the debt, you should move on to the next step.
 
 ## Ask for Proof
 
-If you don't recognize the debt or the name of the creditor, respond to the letter immediately. There should be the name and contact information of the lawyer representing the plaintiff. Call them and ask for proof of the debt. Have them provide information like: the creditor name, the type of debt, the amount of debt owed, etc. I
+If you don't recognize the debt or the name of the creditor, respond to the letter immediately. There should be the name and contact information of the lawyer representing the plaintiff. Call them and ask for proof of the debt. Have them provide information like: the creditor name, the type of debt, the amount of debt owed, etc. If you do recognize the debt, you should still reach out and ask for confirmation. If they don't have proof that you owe the debt, they won't be able to successfully argue against you in court. 
 
 ## Ask for a Lower Settlement Amount
 
