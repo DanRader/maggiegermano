@@ -26,7 +26,7 @@ There are a lot of scammers out there, especially those trying to scare you into
 
 You may have one of two reactions in this situation: pay the bill right away so you don't get in trouble or throw the letter in the garbage and pretend you never got it. Neither of those reactions will help you in the long run.
 
-Read the letter in full and identify the company that is actually suing you. Do you recognize the name? Perhaps it's the name of the credit card company whose card you couldn't pay and then was sent to collections. Whether or not you recognize the debt, you should move on to the next step.
+Read the letter in full and try to identify the company that is actually suing you. Do you recognize the name? Perhaps it's the name of the credit card company whose card you couldn't pay and then was sent to collections. It is also likely to be the name of the collections agency the debt was sold to. Whether or not you recognize the debt, you should move on to the next step.
 
 ## Ask for Proof
 
