@@ -36,15 +36,15 @@ If you want to go a step further, you can ask for a [debt validation letter](htt
 
 ## Ask for a Lower Settlement Amount
 
-If you realize that you definitely owe the debt you're being sued for, you really should own up to it. I've read some articles where the writer tells you to fight the charge no matter what, but I don't agree with that. If you know it's money you owe, you should do your best to make it right. The good thing in this scenario is that the creditor has likely already sold your debt to a collections agency for less than you actually owe. That means that they will be willing to reduce the amount that you owe just so you'll be able to pay it back.
+If you realize that you definitely owe the debt you're being sued for, you really should own up to it. I've read some articles where the writer tells you to fight the charge no matter what, but I don't agree with that. If you know it's money you owe, you should do your best to make it right. The good thing in this scenario is that the creditor has likely already sold your debt to a collections agency for less than you actually owe. That means that they will probably be willing to reduce the amount that you owe just so you'll be able to pay it back.
 
 I've had one client who had over $600 knocked off of her bill when she asked for it to be lowered. Another client negotiated a 40% reduction of her bill! The moral of the story is that you should always ask for a lower payment amount. The collections agency and attorney want a resolution to this situation as much as you do. Settling on a lower amount than you originally owed is a win-win.
 
-Once you've come to an agreement with the attorney, contact the court that was listed on the litigation letter. Check with them and make sure the suit was dropped by the creditor so that you know for sure you're no longer being sued.
+Once you've come to an agreement with the attorney, contact the court that was listed on the litigation letter. Check with them and make sure the suit was dropped by the creditor so that you know for sure you're no longer being sued. In addition to this, you should get an agreement in writing from the creditor's attorney.
 
 ## Set Up a Payment Plan
 
-Even if you get the creditor to lower your owed amount, you still might not have enough money lying around to pay it in full. If that's the case, you can set up a payment plan with them.
+Even if you get the creditor to lower your owed amount, you still might not have enough money lying around to pay it in full. If that's the case, you can set up a payment plan with them. At this point, you're so close to a resolution, that the creditor is likely to negotiate a payment plan just so they can get paid. So again, ask them to set up a payment plan, and make sure it's an amount you can afford to pay each month. You don't want to end up in the same situation in a few months because you weren't able to make the payments. 
 
 Make sure you ask for confirmation in writing that you've agreed to a lower payment amount and a payment plan. You want to have proof that you've done your due diligence to pay your debt back.
 
