@@ -13,6 +13,8 @@ x
 
 ## What I’m Writing
 
+For the month of June, I'm writing blog posts about questions I've been asked by clients and [Money Circle](https://www.maggiegermano.com/moneycircle/) members. This week, I wrote about what your options are for [student loan debt consolidation](https://www.maggiegermano.com/blog/what-are-my-options-for-student-loan-consolidation/). I hope it helps!
+
 ## What I’m Excited About
 
 ## What I’m Up To
