@@ -19,6 +19,10 @@ For the month of June, I'm writing blog posts about questions I've been asked by
 
 ## What I’m Up To
 
+* The [June Money Circle meetup](https://www.maggiegermano.com/events/how-to-make-a-budget/) is on June 20th! We’ll be gathering to talk about budgeting basics and we'll create our own budgets. I’ll be there to guide you and answer your questions. Join us!
+
+* I’m teaming up with [General Assembly](https://generalassemb.ly/education/mo-money-mo-worries-get-financially-savvy-in-2018/washington-dc/49127) on Tuesday, June 26th for a free personal finance workshop in Navy Yard. See you there?
+
 ## Money Tip to Take Into the Weekend
 
 ![#fitspiration (3).png](/uploads/%23fitspiration%20(3).png)
