@@ -1,5 +1,5 @@
 ---
-title: Founder Friday | Thank You Cards, Wedding Shoes, and Student Loan Consolidation
+title: Founder Friday | Wedding Shoes, the Dominican Republic, and Student Loan Consolidation
 date: 2018-06-08 14:00:00 -04:00
 categories:
 - founder friday
@@ -22,6 +22,8 @@ Happy Friday! I've been thoroughly enjoying the springlike weather in DC this we
 For the month of June, I'm writing blog posts about questions I've been asked by clients and [Money Circle](https://www.maggiegermano.com/moneycircle/) members. This week, I wrote about what your options are for [student loan debt consolidation](https://www.maggiegermano.com/blog/what-are-my-options-for-student-loan-consolidation/). I hope it helps!
 
 ## What I’m Excited About
+
+* We're going to the Dominican Republic in three weeks! My grandma is taking the entire family to an all-inclusive resort for a week. I cannot wait! We got our travel information in the mail from the travel agent this week, which makes it even more exciting. Do you have any recommendations in La Romana, DR?
 
 ## What I’m Up To
 
