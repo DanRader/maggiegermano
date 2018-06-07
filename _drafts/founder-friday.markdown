@@ -1,5 +1,5 @@
 ---
-title: Founder Friday |
+title: Founder Friday | Thank You Cards, Wedding Shoes, and Student Loan Consolidation
 date: 2018-06-08 14:00:00 -04:00
 categories:
 - founder friday
