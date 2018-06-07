@@ -32,6 +32,8 @@ Read the letter in full and try to identify the company that is actually suing y
 
 If you don't recognize the debt or the name of the creditor, respond to the letter immediately. There should be the name and contact information of the lawyer representing the plaintiff. Call them and ask for proof of the debt. Have them provide information like: the creditor name, the type of debt, the amount of debt owed, etc. If you do recognize the debt, you should still reach out and ask for confirmation. If they don't have proof that you owe the debt, they won't be able to successfully argue against you in court. 
 
+If you want to go a step further, you can ask for a debt validation letter. Collections agencies are required to provide this to you in order to prove that a debt is yours. 
+
 ## Ask for a Lower Settlement Amount
 
 If you realize that you definitely owe the debt you're being sued for, you really should own up to it. I've read some articles where the writer tells you to fight the charge no matter what, but I don't agree with that. If you know it's money you owe, you should do your best to make it right. The good thing in this scenario is that the creditor has likely already sold your debt to a collections agency for less than you actually owe. That means that they will be willing to reduce the amount that you owe just so you'll be able to pay it back.
@@ -73,3 +75,7 @@ If you get sued by a creditor and do not reply to the letter or show up in court
 * https://www.nerdwallet.com/blog/finance/statute-limitations-debt/
 
 * http://blog.credit.com/2017/04/creditor-gets-a-judgment-against-you-now-what-51696/
+
+* https://www.thebalance.com/debt-validation-requires-collectors-to-prove-debts-exist-960594
+
+* https://www.ftc.gov/system/files/documents/plain-language/fair-debt-collection-practices-act.pdf  
