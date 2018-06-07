@@ -32,27 +32,29 @@ Read the letter in full and try to identify the company that is actually suing y
 
 If you don't recognize the debt or the name of the creditor, respond to the letter immediately. There should be the name and contact information of the lawyer representing the plaintiff. Call them and ask for proof of the debt. Have them provide information like: the creditor name, the type of debt, the amount of debt owed, etc. If you do recognize the debt, you should still reach out and ask for confirmation. If they don't have proof that you owe the debt, they won't be able to successfully argue against you in court. 
 
+If you want to go a step further, you can ask for a [debt validation letter](https://www.thebalance.com/debt-validation-requires-collectors-to-prove-debts-exist-960594). Collections agencies are required to provide this to you in order to prove that a debt is yours. This validation might be included in the original letter they've sent you, so make sure to read it closely. Regardless, it doesn't hurt to request the validation so that you know for sure you're on the hook for this debt.
+
 ## Ask for a Lower Settlement Amount
 
-If you realize that you definitely owe the debt you're being sued for, you really should own up to it. I've read some articles where the writer tells you to fight the charge no matter what, but I don't agree with that. If you know it's money you owe, you should do your best to make it right. The good thing in this scenario is that the creditor has likely already sold your debt to a collections agency for less than you actually owe. That means that they will be willing to reduce the amount that you owe just so you'll be able to pay it back.
+If you realize that you definitely owe the debt you're being sued for, you really should own up to it. I've read some articles where the writer tells you to fight the charge no matter what, but I don't agree with that. If you know it's money you owe, you should do your best to make it right. The good thing in this scenario is that the creditor has likely already sold your debt to a collections agency for less than you actually owe. That means that they will probably be willing to reduce the amount that you owe just so you'll be able to pay it back.
 
 I've had one client who had over $600 knocked off of her bill when she asked for it to be lowered. Another client negotiated a 40% reduction of her bill! The moral of the story is that you should always ask for a lower payment amount. The collections agency and attorney want a resolution to this situation as much as you do. Settling on a lower amount than you originally owed is a win-win.
 
-Once you've come to an agreement with the attorney, contact the court that was listed on the litigation letter. Check with them and make sure the suit was dropped by the creditor so that you know for sure you're no longer being sued.
+Once you've come to an agreement with the attorney, contact the court that was listed on the litigation letter. Check with them and make sure the suit was dropped by the creditor so that you know for sure you're no longer being sued. In addition to this, you should get an agreement in writing from the creditor's attorney.
 
 ## Set Up a Payment Plan
 
-Even if you get the creditor to lower your owed amount, you still might not have enough money lying around to pay it in full. If that's the case, you can set up a payment plan with them.
+Even if you get the creditor to lower your owed amount, you still might not have enough money lying around to pay it in full. If that's the case, you can set up a payment plan with them. At this point, you're so close to a resolution, that the creditor is likely to negotiate a payment plan just so they can get paid. So again, ask them to set up a payment plan, and make sure it's an amount you can afford to pay each month. You don't want to end up in the same situation in a few months because you weren't able to make the payments. 
 
 Make sure you ask for confirmation in writing that you've agreed to a lower payment amount and a payment plan. You want to have proof that you've done your due diligence to pay your debt back.
 
 ## Go to Court
 
-If you still don't agree with the charge that is levied against you, you can go to court to fight it. In fact, if you're summoned to court and don't settle the charge ahead of time, you must show up. If you don't show up, the judge will almost certainly rule in favor of the creditor and you will owe the full amount. If you do show up, you at least have the opportunity to make your own case and show any proof you have if the debt isn't yours.
+If you still don't agree with the charge that is levied against you, you can go to court to fight it. In fact, if you're summoned to court and don't settle the charge ahead of time, you must show up. If you don't show up, the judge will almost certainly rule in favor of the creditor and you will owe the full amount. If you do show up, you at least have the opportunity to make your own case and show any proof you have if the debt isn't yours. This will also give you the opportunity to ask for proof from the creditor that the debt is yours. If they don't have the proof, the judge may rule in your favor and dismiss the case.
 
-If you can't afford a lawyer and you'd feel more comfortable having one, look into legal aid in your area. Your city and state should have legal aid offices that you can contact and see if you qualify for pro bono or "low bono" legal services.
+If you can't afford a lawyer and you'd feel more comfortable having one with you in court, look into legal aid in your area. Your city and state should have legal aid offices that you can contact and see if you qualify for pro bono or "low bono" legal services.
 
-In the DC, Maryland, Virginia area? Here are legal aid services:
+In the DC, Maryland, Virginia area? Here are legal aid services to contact:
 
 * [Legal Aid Society of DC](https://www.legalaiddc.org/)
 
@@ -66,10 +68,18 @@ You can also consult a consumer attorney: [National Association of Consumer Advo
 
 A very common reaction to stressful financial situations is to put your head in the sand and ignore it. If you tend to do that, you're definitely not the only one! However, if you do that, you'll end up in a worse financial position.
 
-If you get sued by a creditor and do not reply to the letter or show up in court, the judge will almost certainly rule against you. That means that you will legally be responsible for the full amount you're being sued for. Luckily, if this happens and you're ready to respond, you can appeal the decision or try to settle it for less.
+If you get sued by a creditor and do not reply to the letter or show up in court, the judge will almost certainly rule against you. That means that you will legally be responsible for the full amount you're being sued for. Luckily, if this happens and you're ready to respond at that point, you can appeal the decision or try to settle it for less. If you don't appeal the decision, you're at risk for having your wages garnished in order to pay the bill. 
+
+It's better to take action early so that you have more control over what happens next.
+
+*Have you ever been sued by a creditor? How did your situation turn out?*
 
 **More Resources:**
 
 * https://www.nerdwallet.com/blog/finance/statute-limitations-debt/
 
 * http://blog.credit.com/2017/04/creditor-gets-a-judgment-against-you-now-what-51696/
+
+* https://www.thebalance.com/debt-validation-requires-collectors-to-prove-debts-exist-960594
+
+* https://www.ftc.gov/system/files/documents/plain-language/fair-debt-collection-practices-act.pdf  
