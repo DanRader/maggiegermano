@@ -32,7 +32,7 @@ Read the letter in full and try to identify the company that is actually suing y
 
 If you don't recognize the debt or the name of the creditor, respond to the letter immediately. There should be the name and contact information of the lawyer representing the plaintiff. Call them and ask for proof of the debt. Have them provide information like: the creditor name, the type of debt, the amount of debt owed, etc. If you do recognize the debt, you should still reach out and ask for confirmation. If they don't have proof that you owe the debt, they won't be able to successfully argue against you in court. 
 
-If you want to go a step further, you can ask for a debt validation letter. Collections agencies are required to provide this to you in order to prove that a debt is yours. 
+If you want to go a step further, you can ask for a [debt validation letter](https://www.thebalance.com/debt-validation-requires-collectors-to-prove-debts-exist-960594). Collections agencies are required to provide this to you in order to prove that a debt is yours. This validation might be included in the original letter they've sent you, so make sure to read it closely. Regardless, it doesn't hurt to request the validation so that you know for sure you're on the hook for this debt.
 
 ## Ask for a Lower Settlement Amount
 
