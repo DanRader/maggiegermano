@@ -50,11 +50,11 @@ Make sure you ask for confirmation in writing that you've agreed to a lower paym
 
 ## Go to Court
 
-If you still don't agree with the charge that is levied against you, you can go to court to fight it. In fact, if you're summoned to court and don't settle the charge ahead of time, you must show up. If you don't show up, the judge will almost certainly rule in favor of the creditor and you will owe the full amount. If you do show up, you at least have the opportunity to make your own case and show any proof you have if the debt isn't yours.
+If you still don't agree with the charge that is levied against you, you can go to court to fight it. In fact, if you're summoned to court and don't settle the charge ahead of time, you must show up. If you don't show up, the judge will almost certainly rule in favor of the creditor and you will owe the full amount. If you do show up, you at least have the opportunity to make your own case and show any proof you have if the debt isn't yours. This will also give you the opportunity to ask for proof from the creditor that the debt is yours. If they don't have the proof, the judge may rule in your favor and dismiss the case.
 
-If you can't afford a lawyer and you'd feel more comfortable having one, look into legal aid in your area. Your city and state should have legal aid offices that you can contact and see if you qualify for pro bono or "low bono" legal services.
+If you can't afford a lawyer and you'd feel more comfortable having one with you in court, look into legal aid in your area. Your city and state should have legal aid offices that you can contact and see if you qualify for pro bono or "low bono" legal services.
 
-In the DC, Maryland, Virginia area? Here are legal aid services:
+In the DC, Maryland, Virginia area? Here are legal aid services to contact:
 
 * [Legal Aid Society of DC](https://www.legalaiddc.org/)
 
@@ -68,7 +68,11 @@ You can also consult a consumer attorney: [National Association of Consumer Advo
 
 A very common reaction to stressful financial situations is to put your head in the sand and ignore it. If you tend to do that, you're definitely not the only one! However, if you do that, you'll end up in a worse financial position.
 
-If you get sued by a creditor and do not reply to the letter or show up in court, the judge will almost certainly rule against you. That means that you will legally be responsible for the full amount you're being sued for. Luckily, if this happens and you're ready to respond, you can appeal the decision or try to settle it for less.
+If you get sued by a creditor and do not reply to the letter or show up in court, the judge will almost certainly rule against you. That means that you will legally be responsible for the full amount you're being sued for. Luckily, if this happens and you're ready to respond at that point, you can appeal the decision or try to settle it for less. If you don't appeal the decision, you're at risk for having your wages garnished in order to pay the bill. 
+
+It's better to take action early so that you have more control over what happens next.
+
+*Have you ever been sued by a creditor? How did your situation turn out?*
 
 **More Resources:**
 
