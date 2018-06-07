@@ -11,7 +11,9 @@ Happy Friday! I've been thoroughly enjoying the springlike weather in DC this we
 
 * June is another lucrative week for our Airbnb! We've had guests all week, and will have them through the weekend and next week. Like I've said before, the payments go through the day the guests arrive, so we don't have to wait too long to get paid.
 
-* 
+* One of my monthly clients' regular payments went through on Sunday
+
+* A new client purchased a one-time financial coaching session.
 
 ## How I Spent Money This Week
 
@@ -33,7 +35,7 @@ For the month of June, I'm writing blog posts about questions I've been asked by
 
 * We're going to the Dominican Republic in three weeks! My grandma is taking the entire family to an all-inclusive resort for a week. I cannot wait! We got our travel information in the mail from the travel agent this week, which makes it even more exciting. Do you have any recommendations in La Romana, DR?
 
-* x
+* **I'm offering [20% off one-time financial coaching sessions](https://maggiegermanofinancialcoaching.as.me/onetimediscount) in the month of June!** We're halfway through 2018, and this is usually the time we realize we haven't made progress on our goals for the year. If you want some help getting back on track with your finances, let's talk!
 
 ![IMG_5824.JPG](/uploads/IMG_5824.JPG)
 
