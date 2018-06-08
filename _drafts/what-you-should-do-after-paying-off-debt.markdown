@@ -5,6 +5,7 @@ categories:
 - Credit
 - debt
 - savings
+image: "/uploads/cuppa.jpg"
 ---
 
 
