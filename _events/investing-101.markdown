@@ -12,11 +12,11 @@ button-text: Sign Me Up!
 ticket-price: "$20"
 ---
 
-I bet you hear a lot about investing in the stock market. But do you have no idea where to start? 
+I bet you hear a lot about investing in the stock market. But do you have no idea where to start? You're not alone! The July Money Circle gathering will focus on the basics of investing, so you can decide what's right for you.
 
 This month, we'll be joined by expert Claudia Russell! Claudia is a financial educator, coach and speaker. As the founder of [Ms. Engineered Wealth](http://msengineeredwealth.com/), she offers clear, simple financial education around money mindset, investing fundamentals and money management. Her mission is to empower professionals to transform their relationship with money, so they feel confident and in control and to teach professionals to use money as a tool to build financial stability and create wealth through investment strategies and essential money management skills.
 
-\
+Join us at the beautiful Cherry Blossom Creative and learn the basics about investing!
 
 --\
 We live in a society where money is an unspoken taboo. We aren’t supposed to ask people how much money they earn, and women especially have a hard time knowing and asking for what they are worth. It’s more important than ever to band together and put it all on the table.

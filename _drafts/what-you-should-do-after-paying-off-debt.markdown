@@ -1,10 +1,11 @@
 ---
 title: What You Should Do After Paying Off Debt
-date: 2018-07-16 11:00:00 -04:00
+date: 2018-06-25 11:00:00 -04:00
 categories:
 - Credit
 - debt
 - savings
+image: "/uploads/cuppa.jpg"
 ---
 
 
