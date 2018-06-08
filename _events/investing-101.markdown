@@ -19,6 +19,7 @@ This month, we'll be joined by expert Claudia Russell! Claudia is a financial ed
 Join us at the beautiful Cherry Blossom Creative and learn the basics about investing!
 
 --
+
 We live in a society where money is an unspoken taboo. We aren’t supposed to ask people how much money they earn, and women especially have a hard time knowing and asking for what they are worth. It’s more important than ever to band together and put it all on the table.
 
 Money Circle is a safe open space where women can ask questions, air their fears, brag about accomplishments, and be honest about any confusion they may have around money.
