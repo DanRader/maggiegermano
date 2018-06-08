@@ -8,6 +8,7 @@ start-time: 6:30PM
 end-time: 8:30PM
 location: Cherry Blossom Creative, 2128 8th Street NW, Washington, DC 20001
 button-text: Sign Me Up!
+button-link: https://www.eventbrite.com/e/money-circle-investing-101-tickets-46887149727
 ticket-price: "$20"
 ---
 
