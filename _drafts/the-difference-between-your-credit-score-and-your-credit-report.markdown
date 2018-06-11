@@ -22,10 +22,16 @@ If you're an adult living in the modern world, you've most likely heard of a cre
 
 ## Credit Bureaus are Legally Required to Provide Your Free Credit Report Annually
 
+Do you remember that commercial where a guy would sing "free credit report dot com"? Well, he was lying because that service isn't free. You have to give them your credit card information and then you get charged for a subscription.
+
+All three credit bureaus are required to provide your credit report to you once a year. The credit bureaus are Experian, Equifax, and Transunion. If you want to pull your credit report, go to www.annualcreditreport.com. I like to get a copy of mine every four months. 
+
 ## Your Credit Score Can Fluctuate Often
 
-Your Credit Report Takes Longer to Change
+Have you ever looked at your credit score and noticed that it's 20 points off from where it was last month? Me too! 
+
+## Your Credit Report Takes Longer to Change
 
 If you have any negative marks on your credit report, it can take up to 10 years for them to be removed. If you've missed a credit card payment, had a bill sent to collections, or filed for bankruptcy, it will show on your credit report for almost a decade.
 
-Of course, if there is a negative mark that you don't believe belongs to you, you should take action! Sometimes, credit bureaus and creditors make mistakes. They may put something on your credit report in error. Or, more sinister, someone may have stolen your identity and racked up debt in your name. If either of these is true for you, you should contact the credit bureau and have them start an investigation. You should also reach out to the creditor 
+Of course, if there is a negative mark that you don't believe belongs to you, you should take action! Sometimes, credit bureaus and creditors make mistakes. They may put something on your credit report in error. Or, more sinister, someone may have stolen your identity and racked up debt in your name. If either of these is true for you, you should contact the credit bureau and have them start an investigation. You should also reach out to the creditor
