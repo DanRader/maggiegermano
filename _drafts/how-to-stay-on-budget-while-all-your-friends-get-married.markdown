@@ -7,7 +7,9 @@ categories:
 image: "/uploads/bridesmaid.jpg"
 ---
 
-Have you gotten to a certain age when it feels like everyone you know is getting married? I've personally been through two phases of this. When I was 26, I went to eight weddings in one calendar year. This year, I'm 30 and I'll be attending four weddings; one of those is my own! 
+Have you gotten to a certain age when it feels like everyone you know is getting married? I've personally been through two phases of this. When I was 26, I went to eight weddings in one calendar year. This year, I'm 30 and I'll be attending four weddings; one of those is my own! These life events are wonderful and a lot of fun, but they can also cost a whole lot of money. 
+
+> These life events are wonderful and a lot of fun, but they can also cost a whole lot of money. 
 
 ## Plan It Out
 
