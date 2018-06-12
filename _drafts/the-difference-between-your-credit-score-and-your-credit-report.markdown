@@ -12,7 +12,7 @@ posts:
 - How Does Credit Card Interest Work?
 ---
 
-If you're an adult living in the modern world, you've most likely heard of a credit score. There are many companies out there that offer your credit score to you for free each month. (If you're not already using one, check out [Credit Karma](http://www.creditkarma.com) and [Credit Sesame](http://www.creditsesame.com), but be careful of all the credit card offers you'll get from them!) 
+If you're an adult living in the modern world, you've most likely heard of a credit score. There are many companies out there that offer your credit score to you for free each month. (If you're not already using one, check out [Credit Karma](http://www.creditkarma.com) and [Credit Sesame](http://www.creditsesame.com), but be careful of all the credit card offers you'll get from them!)
 
 But do you know what your credit report is and why it matters? Your credit score and credit report are not one in the same, but they are both very important, and they will impact your financial present and future.
 
@@ -36,4 +36,10 @@ Have you ever looked at your credit score and noticed that it's 20 points off fr
 
 If you have any negative marks on your credit report, it can take up to 10 years for them to be removed. If you've missed a credit card payment, had a bill sent to collections, or filed for bankruptcy, it will show on your credit report for almost a decade.
 
-Of course, if there is a negative mark that you don't believe belongs to you, you should take action! Sometimes, credit bureaus and creditors make mistakes. They may put something on your credit report in error. Or, more sinister, someone may have stolen your identity and racked up debt in your name. If either of these is true for you, you should contact the credit bureau and have them start an investigation. You should also reach out to the creditor
+Of course, if there is a negative mark that you don't believe belongs to you, you should take action! Sometimes, credit bureaus and creditors make mistakes. They may put something on your credit report in error. Or, more sinister, someone may have stolen your identity and racked up debt in your name. If either of these is true for you, you should contact the credit bureau and have them start an investigation. You should also reach out to the creditor directly and ask them to correct the issue with the credit bureau.
+
+## So, What Should You Do Next?
+
+You should check your credit score and credit report regularly! Your credit score will be updated every month at least. Sign into one of the free websites once a month and see how your credit score is doing. 
+
+Since you can only get your credit report for free three times a year, set calendar reminders for yourself. I have an annual recurring calendar reminder for each credit bureau, so that I know when it's time to get my free report from each of them. For example, I pulled my Transunion credit report in May, so I have a calendar reminder set up for next May. I will pull my credit report from one of the other two bureaus in about four months to make sure everything is in order.
