@@ -12,7 +12,9 @@ posts:
 - How Does Credit Card Interest Work?
 ---
 
-If you're an adult living in the modern world, you've most likely heard of a credit score. There are many companies out there that offer your credit score to you for free each month. But do you know what your credit report is and why it matters? Your credit score and credit report are not one in the same, but they are both very important.
+If you're an adult living in the modern world, you've most likely heard of a credit score. There are many companies out there that offer your credit score to you for free each month. (If you're not already using one, check out [Credit Karma](http://www.creditkarma.com) and [Credit Sesame](http://www.creditsesame.com), but be careful of all the credit card offers you'll get from them!) 
+
+But do you know what your credit report is and why it matters? Your credit score and credit report are not one in the same, but they are both very important, and they will impact your financial present and future.
 
 > Your credit score and credit report are not one in the same, but they are both very important.
 
@@ -24,11 +26,11 @@ If you're an adult living in the modern world, you've most likely heard of a cre
 
 Do you remember that commercial where a guy would sing "free credit report dot com"? Well, he was lying because that service isn't free. You have to give them your credit card information and then you get charged for a subscription.
 
-All three credit bureaus are required to provide your credit report to you once a year. The credit bureaus are Experian, Equifax, and Transunion. If you want to pull your credit report, go to www.annualcreditreport.com. I like to get a copy of mine every four months. 
+All three credit bureaus are required to provide your credit report to you once a year. The credit bureaus are Experian, Equifax, and Transunion. If you want to pull your credit report, go to [www.annualcreditreport.com](http://www.annualcreditreport.com). I like to get a copy of mine every four months.
 
 ## Your Credit Score Can Fluctuate Often
 
-Have you ever looked at your credit score and noticed that it's 20 points off from where it was last month? Me too! 
+Have you ever looked at your credit score and noticed that it's 20 points off from where it was last month? Me too!
 
 ## Your Credit Report Takes Longer to Change
 
