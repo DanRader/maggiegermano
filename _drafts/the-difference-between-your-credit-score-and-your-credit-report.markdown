@@ -12,7 +12,9 @@ posts:
 - How Does Credit Card Interest Work?
 ---
 
-If you're an adult living in the modern world, you've most likely heard of a credit score. There are many companies out there that offer your credit score to you for free each month. But do you know what your credit report is and why it matters? Your credit score and credit report are not one in the same, but they are both very important.
+If you're an adult living in the modern world, you've most likely heard of a credit score. There are many companies out there that offer your credit score to you for free each month. (If you're not already using one, check out [Credit Karma](http://www.creditkarma.com) and [Credit Sesame](http://www.creditsesame.com), but be careful of all the credit card offers you'll get from them!) 
+
+But do you know what your credit report is and why it matters? Your credit score and credit report are not one in the same, but they are both very important, and they will impact your financial present and future.
 
 > Your credit score and credit report are not one in the same, but they are both very important.
 
