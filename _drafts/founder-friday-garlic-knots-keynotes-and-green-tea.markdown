@@ -9,7 +9,7 @@ Happy Friday! Has anyone else had just awful allergies this week? My eyes don't 
 
 ## How I Earned Money This Week
 
-* x
+No client payments went through this week, but we had 3 different sets of Airbnb guests!
 
 ## How I Spent Money This Week
 
