@@ -29,4 +29,6 @@ This week, I wrote about what you should do if you get sued by a creditor. If yo
 
 ## Money Tip to Take Into the Weekend
 
+![2017 (2).png](/uploads/2017%20(2).png)
+
 That’s all from me this week. Have a great weekend!
