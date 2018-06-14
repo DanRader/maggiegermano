@@ -19,7 +19,7 @@ No client payments went through this week, but we had three different sets of Ai
 
 ## What I’m Writing
 
-This week, I wrote about what you should do if you get sued by a creditor. If you're in this situation, don't miss out on this piece!
+This week, I wrote about what you should do if you get [sued by a creditor](https://www.maggiegermano.com/blog/what-do-i-do-if-i-get-sued-by-a-creditor/). If you're in this situation, don't miss out on this piece!
 
 ## What I’m Excited About
 
