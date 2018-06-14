@@ -23,11 +23,17 @@ This week, I wrote about what you should do if you get [sued by a creditor](http
 
 ## What I’m Excited About
 
+* I was asked to do a "keynote-ish" speech at a university next spring! It's not a done deal, and it's a far way off, but it's still an exciting prospect! I'm actually trying to do more speaking gigs, so I can reach more people with my thoughts on money and women's empowerment. Interested in having me speak at your organization? Email me at [hello@maggiegermano.com](mailto:hello@maggiegermano.com)!
+
+* I’m offering** [20% off one-time financial coaching sessions](https://maggiegermanofinancialcoaching.as.me/onetimediscount) **in the month of June! We’re halfway through 2018, and this is usually the time we realize we haven’t made progress on our goals for the year. If you want some help getting back on track with your finances, let’s talk!
+
 * x
 
 ## What I’m Up To
 
-* x
+* The **[June Money Circle meetup](https://www.maggiegermano.com/events/how-to-make-a-budget/)** is on June 20th! We’ll be gathering to talk about budgeting basics and we’ll create our own budgets. I’ll be there to guide you and answer your questions. Join us!
+
+* I’m teaming up with **[General Assembly](https://generalassemb.ly/education/mo-money-mo-worries-get-financially-savvy-in-2018/washington-dc/49127)** on Tuesday, June 26th for a free personal finance workshop in Navy Yard. See you there?
 
 ## Money Tip to Take Into the Weekend
 
