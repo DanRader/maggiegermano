@@ -39,6 +39,8 @@ This week, I wrote about what you should do if you get [sued by a creditor](http
 
 ## What I’m Up To
 
+* I was quoted in [Bustle](https://www.bustle.com/p/young-adults-are-twice-as-likely-to-find-money-a-major-relationship-stress-survey-finds-9383478) again this week! I talked about how you can figure out your own relationship with money and reduce financial stress.
+
 * The **[June Money Circle meetup](https://www.maggiegermano.com/events/how-to-make-a-budget/)** is on June 20th! We’ll be gathering to talk about budgeting basics and we’ll create our own budgets. I’ll be there to guide you and answer your questions. Join us!
 
 * I’m teaming up with **[General Assembly](https://generalassemb.ly/education/mo-money-mo-worries-get-financially-savvy-in-2018/washington-dc/49127)** on Tuesday, June 26th for a free personal finance workshop in Navy Yard. See you there?
