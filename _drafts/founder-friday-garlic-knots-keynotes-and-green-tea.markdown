@@ -9,13 +9,23 @@ xx
 
 ## How I Earned Money This Week
 
+* x
+
 ## How I Spent Money This Week
+
+* x
 
 ## What I’m Writing
 
+This week, I wrote about what you should do if you get sued by a creditor. If you're in this situation, don't miss out on this piece!
+
 ## What I’m Excited About
 
+* x
+
 ## What I’m Up To
+
+* x
 
 ## Money Tip to Take Into the Weekend
 
