@@ -16,6 +16,8 @@ No client payments went through this week, but we had three different sets of Ai
 
 * On Sunday, we went to Home Depot for the first time in a few weeks. We bought a ceiling fan for the dining room (and now we might have to hire an electrician because the light isn't working, even after replacing the fixture).
 
+* I also used [Instacart](http://www.instacart.com) for the first time on Sunday. I wanted to get some groceries from Wegman's in particular, but didn't have a lot of time to drive the 20 minutes to the nearest location. I had a $5 off code for Instacart so I thought I'd give it a try. It's pretty amazing to get your deliveries brought to your door! My favorite part was that they would text me when there wasn't an item I wanted, so I could either approve the alternative or cancel that item altogether. If you use [my code](https://inst.cr/t/2SPbdAMbW), you can get $10 off your first Instacart order!
+
 * On Wednesday, I went into the city and worked at a coffee shop. I bought quite a bit of hot green tea, but I packed my own healthy lunch and snacks, so I saved a lot of money. That night, I went to see author [Roxane Gay](http://www.roxanegay.com/) speak at [Sixth & I](https://www.sixthandi.org/). Beforehand, I met a friend at [Farmers & Distillers](https://farmersanddistillers.com/) and I had an order of garlic knots. (So. Good.)
 
 ## What I’m Writing
