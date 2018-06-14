@@ -9,7 +9,7 @@ Happy Friday! Has anyone else had just awful allergies this week? My eyes don't 
 
 ## How I Earned Money This Week
 
-No client payments went through this week, but we had 3 different sets of Airbnb guests!
+No client payments went through this week, but we had three different sets of Airbnb guests! We're actually thinking of increasing our nightly fee, and seeing if we'll still get booked as often. We started our fee fairly low because we weren't sure how popular the location would be. Now that we were booked up for May and June, it might be worth revisiting the price.
 
 ## How I Spent Money This Week
 
