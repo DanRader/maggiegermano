@@ -13,7 +13,7 @@ No client payments went through this week, but we had 3 different sets of Airbnb
 
 ## How I Spent Money This Week
 
-* x
+* On Sunday, we went to Home Depot for the first time in a few weeks. We bought a ceiling
 
 ## What I’m Writing
 
