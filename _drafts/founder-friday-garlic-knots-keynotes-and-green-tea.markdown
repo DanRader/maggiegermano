@@ -5,7 +5,7 @@ categories:
 - founder friday
 ---
 
-xx
+Happy Friday! Has anyone else had just awful allergies this week? My eyes don't want to be open at all. Thanks, pollen. Anyway, here's what I was up to this week!
 
 ## How I Earned Money This Week
 
