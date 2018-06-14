@@ -5,6 +5,12 @@ published: false
 categories:
 - founder friday
 image: "/uploads/tea-71361a.jpg"
+tweet: 'I drank a lot of tea and ate too many garlic knots. See what else I was up
+  to in my #founderfriday post!'
+posts:
+- Founder Friday | Wedding Shoes, the Dominican Republic, and Student Loan Consolidation
+- Founder Friday | Donuts, Antiques, and Women-Owned Businesses
+- Founder Friday | Elevate You, Values, Bosses
 ---
 
 Happy Friday! Has anyone else had just awful allergies this week? My eyes don't want to be open at all. Thanks, pollen. Anyway, here's what I was up to this week!
