@@ -3,6 +3,7 @@ title: Founder Friday | Garlic Knots, Keynotes, and Green Tea
 date: 2018-06-15 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/tea-71361a.jpg"
 ---
 
 Happy Friday! Has anyone else had just awful allergies this week? My eyes don't want to be open at all. Thanks, pollen. Anyway, here's what I was up to this week!
