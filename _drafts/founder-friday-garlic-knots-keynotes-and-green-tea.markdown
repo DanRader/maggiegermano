@@ -26,7 +26,7 @@ This week, I wrote about what you should do if you get [sued by a creditor](http
 
 * I was asked to do a "keynote-ish" speech at a university next spring! It's not a done deal, and it's a far way off, but it's still an exciting prospect! I'm actually trying to do more speaking gigs, so I can reach more people with my thoughts on money and women's empowerment. Interested in having me speak at your organization? Email me at [hello@maggiegermano.com](mailto:hello@maggiegermano.com)!
 
-* I’m offering** [20% off one-time financial coaching sessions](https://maggiegermanofinancialcoaching.as.me/onetimediscount) **in the month of June! We’re halfway through 2018, and this is usually the time we realize we haven’t made progress on our goals for the year. If you want some help getting back on track with your finances, let’s talk!
+* I’m offering **[20% off one-time financial coaching sessions](https://maggiegermanofinancialcoaching.as.me/onetimediscount)** in the month of June! We’re halfway through 2018, and this is usually the time we realize we haven’t made progress on our goals for the year. If you want some help getting back on track with your finances, let’s talk!
 
 * x
 
