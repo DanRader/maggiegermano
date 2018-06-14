@@ -14,7 +14,7 @@ No client payments went through this week, but we had three different sets of Ai
 
 ## How I Spent Money This Week
 
-* On Sunday, we went to Home Depot for the first time in a few weeks. We bought a ceiling fan for the dining room (and now we might have to hire an electrician because the light isn't working).
+* On Sunday, we went to Home Depot for the first time in a few weeks. We bought a ceiling fan for the dining room (and now we might have to hire an electrician because the light isn't working, even after replacing the fixture).
 
 * On Wednesday, I went into the city and worked at a coffee shop. I bought quite a bit of hot green tea, but I packed my own healthy lunch and snacks, so I saved a lot of money. That night, I went to see author [Roxane Gay](http://www.roxanegay.com/) speak at [Sixth & I](https://www.sixthandi.org/). Beforehand, I met a friend at [Farmers & Distillers](https://farmersanddistillers.com/) and I had an order of garlic knots. (So. Good.)
 
