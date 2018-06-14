@@ -13,7 +13,7 @@ No client payments went through this week, but we had three different sets of Ai
 
 ## How I Spent Money This Week
 
-* On Sunday, we went to Home Depot for the first time in a few weeks. We bought a ceiling
+* On Sunday, we went to Home Depot for the first time in a few weeks. We bought a ceiling fan for the dining room (and now we might have to hire an electrician because the light isn't working). 
 
 ## What I’m Writing
 
