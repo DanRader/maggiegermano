@@ -24,7 +24,7 @@ If you've read my [past article about credit scores](https://www.maggiegermano.c
 
 ## Your Credit Report is a Picture of Your Financial History
 
-Your credit report is basically a report card, but for your financial history. It will include the last 7-10 years worth of financial information associated with your name and social security number. 
+Your credit report is basically a report card, but for your financial history. It will include the last 7-10 years worth of financial information associated with your name and social security number. This includes things like:
 
 * Name, address, birth date, and social security number (these are informational, not used against you)
 
