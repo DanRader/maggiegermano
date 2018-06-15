@@ -18,7 +18,31 @@ But do you know what your credit report is and why it matters? Your credit score
 
 > Your credit score and credit report are not one in the same, but they are both very important.
 
+If you've read my [past article about credit scores](https://www.maggiegermano.com/blog/care-about-your-credit-score), you know the basics for why it's important. But I'll reiterate why you should care about your credit score here: 
+
+![Screen Shot 2018-06-15 at 9.55.29 AM.png](/uploads/Screen%20Shot%202018-06-15%20at%209.55.29%20AM.png)
+
 ## Your Credit Report is a Picture of Your Financial History
+
+Your credit report is basically a report card, but for your financial history. It will include the last 7-10 years worth of financial information associated with your name and social security number. 
+
+* Employment history (if it's reported to credit bureaus)
+
+* Student loans and their status
+
+* Credit cards (both open and closed)
+
+* Any debts sent to collections
+
+* Hard credit inquiries (which is when you apply for a line of credit and the company pulls your credit report to see if you qualify for approval)
+
+* Tax liens
+
+* Car loan
+
+* Mortgage
+
+As you can see, not all of these items are negative; they're just facts. Your credit report is supposed to be a factual explanation of your financial history. It's basically showing creditors and lenders whether you can be trusted with their money. 
 
 ## Your Credit Score is Influence by Your Credit Report
 
@@ -40,6 +64,6 @@ Of course, if there is a negative mark that you don't believe belongs to you, yo
 
 ## So, What Should You Do Next?
 
-You should check your credit score and credit report regularly! Your credit score will be updated every month at least. Sign into one of the free websites once a month and see how your credit score is doing. 
+You should check your credit score and credit report regularly! Your credit score will be updated every month at least. Sign into one of the free websites once a month and see how your credit score is doing.
 
 Since you can only get your credit report for free three times a year, set calendar reminders for yourself. I have an annual recurring calendar reminder for each credit bureau, so that I know when it's time to get my free report from each of them. For example, I pulled my Transunion credit report in May, so I have a calendar reminder set up for next May. I will pull my credit report from one of the other two bureaus in about four months to make sure everything is in order.
