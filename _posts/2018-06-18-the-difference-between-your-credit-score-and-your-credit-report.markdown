@@ -1,6 +1,7 @@
 ---
 title: The Difference Between Your Credit Score and Your Credit Report
 date: 2018-06-18 11:00:00 -04:00
+published: false
 categories:
 - Credit
 image: "/uploads/number.jpg"
@@ -9,7 +10,7 @@ tweet: 'Not sure what the difference between your #creditscore and #creditreport
 posts:
 - Why You Should Care About Your Credit Score
 - Why You Should Check Your Credit Report Regularly
-- How Does Credit Card Interest Work?
+- What Do I Do If I Get Sued By a Creditor?
 ---
 
 If you're an adult living in the modern world, you've most likely heard of a credit score. There are many companies out there that offer your credit score to you for free each month. (If you're not already using one, check out [Credit Karma](http://www.creditkarma.com) and [Credit Sesame](http://www.creditsesame.com), but be careful of all the credit card offers you'll get from them!)
@@ -85,6 +86,8 @@ You should check your credit score and credit report regularly! Your credit scor
 Since you can only get your credit report for free three times a year, set calendar reminders for yourself. I have an annual recurring calendar reminder for each credit bureau, so that I know when it's time to get my free report from each of them. For example, I pulled my Transunion credit report in May, so I have a calendar reminder set up for next May. I will pull my credit report from one of the other two bureaus in about four months to make sure everything is in order.
 
 Once you have your credit report and credit score, you can start taking action. If you see any errors, file a complaint with the credit bureau. If you know you have a bill that could be sent to collections soon, pay it (or set up a payment plan)! Start making your monthly payments on time, and try to pay over the minimum in order to get your overall balance down. 
+
+Good luck!
 
 **More Resources:**
 
