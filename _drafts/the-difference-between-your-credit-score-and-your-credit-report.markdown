@@ -48,6 +48,8 @@ Your credit report is basically a report card, but for your financial history. I
 
 * Civil lawsuits
 
+* Any missed or late payments on any of the accounts listed above
+
 As you can see, not all of these items are negative; they're just facts. Your credit report is supposed to be a factual explanation of your financial history. It's basically showing creditors and lenders whether or not you can be trusted with their money. 
 
 ## Your Credit Score is Influenced by Your Credit Report
