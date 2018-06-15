@@ -18,13 +18,15 @@ But do you know what your credit report is and why it matters? Your credit score
 
 > Your credit score and credit report are not one in the same, but they are both very important.
 
-If you've read my [past article about credit scores](https://www.maggiegermano.com/blog/care-about-your-credit-score), you know the basics for why it's important. But I'll reiterate why you should care about your credit score here: 
+If you've read my [past article about credit scores](https://www.maggiegermano.com/blog/care-about-your-credit-score), you know the basics for why it's important. But I'll reiterate why you should care about your credit score: 
 
 ![Screen Shot 2018-06-15 at 9.55.29 AM.png](/uploads/Screen%20Shot%202018-06-15%20at%209.55.29%20AM.png)
 
 ## Your Credit Report is a Picture of Your Financial History
 
 Your credit report is basically a report card, but for your financial history. It will include the last 7-10 years worth of financial information associated with your name and social security number. 
+
+* Name, address, birth date, and social security number (these are informational, not used against you)
 
 * Employment history (if it's reported to credit bureaus)
 
@@ -38,13 +40,23 @@ Your credit report is basically a report card, but for your financial history. I
 
 * Tax liens
 
-* Car loan
+* Car loans
 
-* Mortgage
+* Mortgages
 
-As you can see, not all of these items are negative; they're just facts. Your credit report is supposed to be a factual explanation of your financial history. It's basically showing creditors and lenders whether you can be trusted with their money. 
+* Bankruptcy
 
-## Your Credit Score is Influence by Your Credit Report
+* Civil lawsuits
+
+As you can see, not all of these items are negative; they're just facts. Your credit report is supposed to be a factual explanation of your financial history. It's basically showing creditors and lenders whether or not you can be trusted with their money. 
+
+## Your Credit Score is Influenced by Your Credit Report
+
+The information listed on your credit report will influence your credit score. For more in-depth information about what impacts your credit score, [read my past post](https://www.maggiegermano.com/blog/care-about-your-credit-score). But here's a refresher on what impacts your credit score:
+
+![Screen Shot 2018-06-15 at 10.05.11 AM.png](/uploads/Screen%20Shot%202018-06-15%20at%2010.05.11%20AM.png)
+
+These different factors matter at different levels. Missed payments and negative marks matter the most. Credit utilization is next, meaning how much of the available credit you're using. The length of your credit, number of recent inquiries, and the mix of your accounts matter the least when determining your score. 
 
 ## Credit Bureaus are Legally Required to Provide Your Free Credit Report Annually
 
