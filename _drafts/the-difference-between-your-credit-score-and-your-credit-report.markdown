@@ -68,7 +68,7 @@ All three credit bureaus are required to provide your free credit report to you 
 
 ## Your Credit Score Can Fluctuate Often
 
-Have you ever looked at your credit score and noticed that it's 20 points off from where it was last month? Me too!
+Have you ever looked at your credit score and noticed that it's 20 points off from where it was last month? Me too! This can happen for many reasons. For me, my score fluctuated the most when I was applying for a mortgage. There were multiple credit inquiries from lenders, and I had applied for a credit card in recent months. There was so much activity happening on my credit report, that my credit score took a hit. Luckily, as things change, your credit score can recover. 
 
 ## Your Credit Report Takes Longer to Change
 
