@@ -68,11 +68,13 @@ All three credit bureaus are required to provide your free credit report to you 
 
 ## Your Credit Score Can Fluctuate Often
 
-Have you ever looked at your credit score and noticed that it's 20 points off from where it was last month? Me too! This can happen for many reasons. For me, my score fluctuated the most when I was applying for a mortgage. There were multiple credit inquiries from lenders, and I had applied for a credit card in recent months. There was so much activity happening on my credit report, that my credit score took a hit. Luckily, as things change, your credit score can recover. 
+Have you ever looked at your credit score and noticed that it's 20 points off from where it was last month? Me too! This can happen for many reasons. For me, my score fluctuated the most when I was applying for a mortgage. There were multiple credit inquiries from lenders, and I had also applied for a credit card in recent months. There was so much activity happening on my credit report, that my credit score took a hit. Luckily, as things change and time goes on, your credit score can recover. 
 
 ## Your Credit Report Takes Longer to Change
 
 If you have any negative marks on your credit report, it can take up to 10 years for them to be removed. If you've missed a credit card payment, had a bill sent to collections, or filed for bankruptcy, it will show on your credit report for almost a decade.
+
+Just because it takes time for your credit report to recover doesn't mean that you shouldn't try to improve your situation! 
 
 Of course, if there is a negative mark that you don't believe belongs to you, you should take action! Sometimes, credit bureaus and creditors make mistakes. They may put something on your credit report in error. Or, more sinister, someone may have stolen your identity and racked up debt in your name. If either of these is true for you, you should contact the credit bureau and have them start an investigation. You should also reach out to the creditor directly and ask them to correct the issue with the credit bureau.
 
