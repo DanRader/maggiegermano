@@ -60,9 +60,9 @@ These different factors matter at different levels. Missed payments and negative
 
 ## Credit Bureaus are Legally Required to Provide Your Free Credit Report Annually
 
-Do you remember that commercial where a guy would sing "free credit report dot com"? Well, he was lying because that service isn't free. You have to give them your credit card information and then you get charged for a subscription.
+Do you remember that commercial where a guy would sing "free credit report dot com"? Well, he was lying because that service isn't free. You have to give them your credit card information and then you get charged for a subscription. But there is an actual way to get your credit report for free.
 
-All three credit bureaus are required to provide your credit report to you once a year. The credit bureaus are Experian, Equifax, and Transunion. If you want to pull your credit report, go to [www.annualcreditreport.com](http://www.annualcreditreport.com). I like to get a copy of mine every four months.
+All three credit bureaus are required to provide your free credit report to you once a year. The credit bureaus are Experian, Equifax, and Transunion. If you want to pull your credit report from them, go to [www.annualcreditreport.com](http://www.annualcreditreport.com). I like to get a copy of mine every four months, since that means I'm getting one from each bureau each year.
 
 ## Your Credit Score Can Fluctuate Often
 
