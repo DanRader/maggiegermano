@@ -56,6 +56,8 @@ The information listed on your credit report will influence your credit score. F
 
 ![Screen Shot 2018-06-15 at 10.05.11 AM.png](/uploads/Screen%20Shot%202018-06-15%20at%2010.05.11%20AM.png)
 
+These different factors matter at different levels. Missed payments and negative marks matter the most. Credit utilization is next, meaning how much of the available credit you're using. The length of your credit, number of recent inquiries, and the mix of your accounts matter the least when determining your score. 
+
 ## Credit Bureaus are Legally Required to Provide Your Free Credit Report Annually
 
 Do you remember that commercial where a guy would sing "free credit report dot com"? Well, he was lying because that service isn't free. You have to give them your credit card information and then you get charged for a subscription.
