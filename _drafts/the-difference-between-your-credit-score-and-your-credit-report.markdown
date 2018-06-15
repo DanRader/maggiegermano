@@ -18,7 +18,7 @@ But do you know what your credit report is and why it matters? Your credit score
 
 > Your credit score and credit report are not one in the same, but they are both very important.
 
-If you've read my [past article about credit scores](https://www.maggiegermano.com/blog/care-about-your-credit-score), you know the basics for why it's important. But I'll reiterate why you should care about your credit score here: 
+If you've read my [past article about credit scores](https://www.maggiegermano.com/blog/care-about-your-credit-score), you know the basics for why it's important. But I'll reiterate why you should care about your credit score: 
 
 ![Screen Shot 2018-06-15 at 9.55.29 AM.png](/uploads/Screen%20Shot%202018-06-15%20at%209.55.29%20AM.png)
 
