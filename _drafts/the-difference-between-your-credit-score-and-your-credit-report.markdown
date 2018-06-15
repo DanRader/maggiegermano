@@ -76,6 +76,18 @@ Of course, if there is a negative mark that you don't believe belongs to you, yo
 
 ## So, What Should You Do Next?
 
-You should check your credit score and credit report regularly! Your credit score will be updated every month at least. Sign into one of the free websites once a month and see how your credit score is doing.
+You should check your credit score and credit report regularly! Your credit score will be updated every month at least. Sign into one of the free websites I mentioned above once a month and see how your credit score is doing.
 
 Since you can only get your credit report for free three times a year, set calendar reminders for yourself. I have an annual recurring calendar reminder for each credit bureau, so that I know when it's time to get my free report from each of them. For example, I pulled my Transunion credit report in May, so I have a calendar reminder set up for next May. I will pull my credit report from one of the other two bureaus in about four months to make sure everything is in order.
+
+Once you have your credit report and credit score, you can start taking action. If you see any errors, file a complaint with the credit bureau. If you know you have a bill that could be sent to collections soon, pay it (or set up a payment plan)! Start making your monthly payments on time, and try to pay over the minimum in order to get your overall balance down. 
+
+**More Resources:**
+
+* https://www.nerdwallet.com/blog/finance/credit-scores-change/
+
+* https://www.creditkarma.com/advice/i/what-affects-your-credit-scores/
+
+* https://www.maggiegermano.com/blog/care-about-your-credit-score
+
+* https://www.maggiegermano.com/blog/check-your-credit-report
