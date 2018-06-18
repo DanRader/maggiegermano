@@ -10,6 +10,9 @@ posts:
 - When, Why, and How to Invest in Yourself
 ---
 
+If you read my blog regularly, you know that I am not the type of financial expert who says you shouldn't spend any money ever. I don't believe that you can be hyper-restrictive of your spending and still have a good quality of life. In fact, I think it's imperative to build the things you value into your budget so that you feel more motivated to stick to a budget in the first place. 
+
+One of the best ways to 
 
 ## Travel
 
