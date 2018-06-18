@@ -35,3 +35,5 @@ Figure out exactly what bills you have to pay each month (and throughout the yea
 ## Allocate That Money Towards Your Goals
 
 You've paid off your debt, congratulations! You now have much more money available to you to use for anything you want. But be careful not to just start spending all of that money every month. In fact, you've lived without it while paying off your debt, so what can you put it towards now that will help you? The best opportunity here is to start putting it into savings. This can be an emergency savings account or retirement savings. This is especially important if you haven't been able to save for these things up until now. Automate this savings so that you aren't tempted to spend the money now that it's in your account!
+
+*What do you think? What will you be doing with you money now (or when) that you've paid off your debt? Share in the comments!*
