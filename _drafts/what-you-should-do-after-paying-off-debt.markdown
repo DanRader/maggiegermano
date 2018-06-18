@@ -8,12 +8,15 @@ categories:
 image: "/uploads/cuppa.jpg"
 ---
 
+Congratulations! You paid off some or all of your debt! I bet it felt like this day would never come. But you stuck to it and you reached your goal. But you might be wondering what you should (or shouldn't) do next. And this point in time is actually really important, because it could determine whether you stay out of debt or whether you end up back in debt later. 
+
+> And this point in time is actually really important, because it could determine whether you stay out of debt or whether you end up back in debt later.
 
 ## Stop Using Your Credit Cards
 
 After paying off credit card debt, it can be easy to start racking up that debt again. This is a dangerous cycle to get trapped in. If you've struggled with overspending and credit card debt in the past, do yourself a favor and stop using your credit cards. Set up a budget based on your income and expenses and use cash or debit only. This will protect you from going back into debt after working so hard to get out of it.
 
-## Keep Your Accounts Open 
+## Keep Your Accounts Open
 
 Just because you've paid off your debt and stopped using credit cards doesn't mean you have to close your accounts. The length of your credit history and the credit available to you is really helpful to your credit score. And your credit score is important when it comes to future financial decisions like buying a car or a home. So even if you're going to stop using your credit cards, keep the accounts themselves open so that they can help improve your credit score. If you don't want the temptation of the cards, cut them up or give them to a trusted friend to lock away. They can be open even if they aren't available to you!
 
