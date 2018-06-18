@@ -3,6 +3,11 @@ title: All the Times I've Felt Guilty for Spending Money
 date: 2018-07-02 11:00:00 -04:00
 categories:
 - lifestyle
+image: "/uploads/dollars.jpg"
+posts:
+- How I'm Incorporating My Values Into My Wedding
+- Do Your Money Habits Align with Your Values?
+- When, Why, and How to Invest in Yourself
 ---
 
 ## Travel
