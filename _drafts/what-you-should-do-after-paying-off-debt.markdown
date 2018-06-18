@@ -14,7 +14,7 @@ posts:
 - Budgeting 101
 ---
 
-Congratulations! You paid off some or all of your debt! I bet it felt like this day would never come. But you stuck to it and you reached your goal. But you might be wondering what you should (or shouldn't) do next. And this point in time is actually really important, because it could determine whether you stay out of debt or whether you end up back in debt later.
+Congratulations! You paid off some or all of your debt! I bet it felt like this day would never come. But you stuck to it, you made sacrifices, and you reached your goal. But you might be wondering what you should (or shouldn't) do next. And this point in time is actually really important, because it could determine whether you stay out of debt or whether you end up back in debt later.
 
 > And this point in time is actually really important, because it could determine whether you stay out of debt or whether you end up back in debt later.
 
