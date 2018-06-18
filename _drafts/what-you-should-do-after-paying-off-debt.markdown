@@ -30,7 +30,7 @@ Just because you've paid off your debt and stopped using credit cards doesn't me
 
 You should revisit your budget every couple months or so to make sure it's working for you. But this is especially important to do when you've had a big financial change happen. This can be a pay increase, decrease, a new expense, or when you've paid off a debt. When you've paid off a portion (or all) of your debt, it's a good time to revisit your [budget](https://www.maggiegermano.com/blog/budgeting-101/) and see how things are going. 
 
-Figure out exactly what bills you have to pay each month (and throughout the year) now that you don't have your debt. If you have another debt that you want to start working for, move the money that was going towards your past debt to your other debt. Increasing the monthly payments will allow you to pay off the debt faster. If you don't have another debt to work towards 
+Figure out exactly what bills you have to pay each month (and throughout the year) now that you don't have your debt. If you have another debt that you want to start working for, move the money that was going towards your past debt to your other debt. Increasing the monthly payments will allow you to pay off the debt faster. If you don't have another debt to work towards, decide where you want that money to go. It can be tempting to start spending more, but it will be more rewarding to align your money with your [values](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/) and set yourself up for success later.  
 
 ## Allocate That Money Towards Your Goals
 
