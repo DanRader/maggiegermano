@@ -20,11 +20,11 @@ Congratulations! You paid off some or all of your debt! I bet it felt like this 
 
 ## Stop Using Your Credit Cards
 
-After paying off credit card debt, it can be easy to start racking up that debt again. This is a dangerous cycle to get trapped in. If you've struggled with overspending and credit card debt in the past, do yourself a favor and stop using your credit cards. Set up a budget based on your income and expenses and use cash or debit only. This will protect you from going back into debt after working so hard to get out of it.
+If it's credit card debt you've paid off, this is the most important thing to do afterwards. After paying off credit card debt, it can be easy to start racking up that debt again. This is a dangerous cycle to get trapped in. If you've struggled with overspending and credit card debt in the past, do yourself a favor and stop using your credit cards all together. [Set up a budget](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/) based on your income and expenses and use cash or debit only. It might feel limiting or scary at first, but this will protect you from going back into debt after working so hard to get out of it.
 
 ## Keep Your Credit Card Accounts Open
 
-Just because you've paid off your debt and stopped using credit cards doesn't mean you have to close your accounts. The length of your credit history and the credit available to you is really helpful to your credit score. And your credit score is important when it comes to future financial decisions like buying a car or a home. So even if you're going to stop using your credit cards, keep the accounts themselves open so that they can help improve your credit score. If you don't want the temptation of the cards, cut them up or give them to a trusted friend to lock away. They can be open even if they aren't available to you!
+Just because you've paid off your debt and stopped using credit cards doesn't mean you have to close your accounts. The length of your credit history and the credit limit available to you is really helpful to your [credit score](https://www.maggiegermano.com/blog/care-about-your-credit-score). And your credit score is important when it comes to future financial decisions like buying a car or a home. So even if you're going to stop using your credit cards, keep the accounts themselves open so that they can help improve your credit score. If you don't want the temptation of the cards, cut them up or give them to a trusted friend to lock away. They can be open even if they aren't available to you!
 
 ## Allocate That Money Towards Your Goals
 
