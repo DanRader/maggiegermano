@@ -10,6 +10,7 @@ posts:
 - When, Why, and How to Invest in Yourself
 ---
 
+
 ## Travel
 
 The funny thing about this guilt is it wasn't about the actual money I was spending. In fact, for years, I've prioritized saving for travel so that I can explore this world without guilt and without going into debt. I believe that if you love to travel, spending money (that you have) on it should never be a shameful thing. It only improves your quality of life.
@@ -44,4 +45,4 @@ Here are the areas where we saved some money and feel really good about it:
 
 Here are the areas where we spent more than I wanted to, and am still annoyed about it:
 
-* This vendor was who we were originally looking at for catering. They are a one-stop shop for weddings and it seemed like it would be much easier to just hire them to handle everything, rather than having multiple vendors. And it would have definitely been easier! But it would have also been way more expensive. The original quote they gave us was nearly the entire amount we're paying for the wedding. And that quote didn't include pizza! We decided not to use them for food and booze, but we ended up having to hire them for a few other items: bathroom trailer, tables, chairs, linens, bartenders, day-of-coordinator, etc. I think their staff will help the day to move more smoothly, but I'm still frustrated by how much we're paying in "operations fees". 
+* This vendor was who we were originally looking at for catering. They are a one-stop shop for weddings and it seemed like it would be much easier to just hire them to handle everything, rather than having multiple vendors. And it would have definitely been easier! But it would have also been way more expensive. The original quote they gave us was nearly the entire amount we're paying for the wedding. And that quote didn't include pizza! We decided not to use them for food and booze, but we ended up having to hire them for a few other items: bathroom trailer, tables, chairs, linens, bartenders, day-of-coordinator, etc. I think their staff will help the day to move more smoothly, but I'm still frustrated by how much we're paying in "operations fees".
