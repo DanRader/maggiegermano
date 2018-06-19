@@ -5,11 +5,17 @@ categories:
 - lifestyle
 - budget
 image: "/uploads/bridesmaid.jpg"
+tweet: 'Wedding season can break the bank, even if you are just a guest. So here''s
+  how to protect your #budget.'
+posts:
+- You Can Have Fun with Your Friends While Spending Less
+- How to Stop Trying to Keep Up with "the Joneses"
+- How to Talk to Your Friends about Money
 ---
 
-Have you gotten to a certain age when it feels like everyone you know is getting married? I've personally been through two phases of this. When I was 26, I went to eight weddings in one calendar year. This year, I'm 30 and I'll be attending four weddings; one of those is my own! These life events are wonderful and a lot of fun, but they can also cost a whole lot of money. So how can you celebrate your friends and family while not blowing your budget completely?
+Have you gotten to a certain age when it feels like everyone you know is getting married? I've personally been through two phases of this. When I was 26, I went to eight weddings in one calendar year. This year, I'm 30 (almost 31) and I'll be attending four weddings; one of those is my own! These life events are wonderful and a lot of fun, but they can also cost a whole lot of money. So how can you celebrate your friends and family while not blowing your budget completely?
 
-> These life events are wonderful and a lot of fun, but they can also cost a whole lot of money. 
+> These life events are wonderful and a lot of fun, but they can also cost a whole lot of money.
 
 ## Plan It Out
 
@@ -30,3 +36,5 @@ Set up a savings account that is specifically for wedding expenses. This will ma
 ## Do Group Gifts
 
 If you and your friends are traveling for a wedding, consider going in on a gift together, rather than everyone buying something separately. This can save money, but it can also allow you to get your friend something meaningful that you wouldn’t have been able to afford otherwise.
+
+*Have you put any of these ideas to use in your own life? How did it turn out? Share in the comments!*
