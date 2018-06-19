@@ -1,6 +1,6 @@
 ---
 title: How to Stay on Budget While All Your Friends Get Married
-date: 2018-07-16 11:00:00 -04:00
+date: 2018-07-09 11:00:00 -04:00
 categories:
 - lifestyle
 - budget
