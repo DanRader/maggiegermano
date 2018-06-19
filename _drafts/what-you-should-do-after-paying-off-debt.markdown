@@ -20,7 +20,7 @@ Congratulations! You paid off some or all of your debt! I bet it felt like this 
 
 ## Stop Using Your Credit Cards
 
-If it's credit card debt you've paid off, this is the most important thing to do afterwards. After paying off credit card debt, it can be easy to start racking up that debt again. This is a dangerous cycle to get trapped in. If you've struggled with overspending and credit card debt in the past, do yourself a favor and stop using your credit cards all together. [Set up a budget](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/) based on your income and expenses and use cash or debit only. It might feel limiting or scary at first, but this will protect you from going back into debt after working so hard to get out of it.
+If it's credit card debt you've paid off, this is the most important thing to do afterwards. After paying off credit card debt, it can be easy to start racking up that debt again. This is a dangerous cycle to get trapped in. If you've struggled with overspending and credit card debt in the past, do yourself a favor and stop using your credit cards all together. [Set up a budget](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/) based on your income and expenses and use cash or debit only. It might feel limiting or scary at first, but this will protect you from going back into debt after working so hard to get out of it. If you need to cut up your cards to stop yourself from using them, do it! And make sure to remove your credit card information from online shopping portals like Amazon.
 
 ## Keep Your Credit Card Accounts Open
 
