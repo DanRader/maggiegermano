@@ -3,6 +3,11 @@ title: Founder Friday | Money Circle, Ellevate Network, and Paramore
 date: 2018-06-22 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/concert.jpg"
+posts:
+- Founder Friday | Garlic Knots, Keynotes, and Green Tea
+- Founder Friday | Wedding Shoes, the Dominican Republic, and Student Loan Consolidation
+- Founder Friday | Donuts, Antiques, and Women-Owned Businesses
 ---
 
 Happy Friday, y'all! Can you believe we only have one more week left in June? I can't, but I'm going on vacation next weekend, so I'm excited! Here's what I was up to this week.
@@ -23,7 +28,7 @@ Happy Friday, y'all! Can you believe we only have one more week left in June? I 
 
 * I spent $15 on two travel guides from [Nomadic Matt](https://www.nomadicmatt.com/). There's so much to do in Thailand that I'm having trouble keeping track of it all. I figured the small expense would be worth it to have an organized guide on what to do in Bangkok and Thailand as a whole.
 
-* We booked our hotel for the first two nights we'll be in Thailand! We're spending two days in Bangkok when we arrive, because we want to recover from our travel before heading south to the islands. 
+* We booked our hotel for the first two nights we'll be in Thailand! We're spending two days in Bangkok when we arrive, because we want to recover from our travel before heading south to the islands. We're spending quite a bit on the hotel in [Koh Lipe](http://kohlipethailand.com/), so we're trying to be frugal about our choices in the rest of Thailand. 
 
 ## **What I’m Writing**
 
@@ -39,7 +44,7 @@ This week, I wrote about the difference between your credit score and your credi
 
 ## **What I’m Up To**
 
-* 
+* I'm voting in Maryland next Tuesday, June 26th! It's my first time voting as a Maryland resident, and I'm excited for it. It's the gubernatorial primary, with lots of other local primary elections. If you're a Maryland resident, make sure you [do your research](https://www.elections.maryland.gov/elections/2018/primary_candidates/index.html) over the weekend and [get to the polls](https://voterservices.elections.maryland.gov/PollingPlaceSearch) on Tuesday!
 
 * I’m teaming up with [General Assembly](https://generalassemb.ly/education/mo-money-mo-worries-get-financially-savvy-in-2018/washington-dc/49127) on Tuesday, June 26th for a free personal finance workshop in Navy Yard. See you there?
 
