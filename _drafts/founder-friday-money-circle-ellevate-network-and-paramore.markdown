@@ -4,6 +4,10 @@ date: 2018-06-22 14:00:00 -04:00
 categories:
 - founder friday
 image: "/uploads/concert.jpg"
+posts:
+- Founder Friday | Garlic Knots, Keynotes, and Green Tea
+- Founder Friday | Wedding Shoes, the Dominican Republic, and Student Loan Consolidation
+- Founder Friday | Donuts, Antiques, and Women-Owned Businesses
 ---
 
 Happy Friday, y'all! Can you believe we only have one more week left in June? I can't, but I'm going on vacation next weekend, so I'm excited! Here's what I was up to this week.
