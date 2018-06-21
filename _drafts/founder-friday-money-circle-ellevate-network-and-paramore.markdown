@@ -15,7 +15,7 @@ xx
 
 ## **How I Spent Money This Week**
 
-* x
+* I donated $20 to RAICES, which is a Texas organization that is helping detained immigrants get legal representation so that they can be released and (hopefully) reunited with their children. I'm sick and disgusted over the treatment of these people, and I'm ashamed to be an American. 
 
 ## **What I’m Writing**
 
