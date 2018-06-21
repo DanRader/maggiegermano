@@ -39,7 +39,7 @@ This week, I wrote about the difference between your credit score and your credi
 
 ## **What I’m Up To**
 
-* I'm voting in Maryland next Tuesday, June 26th! It's my first time voting as a Maryland resident, and I'm excited for it. It's the gubernatorial primary, with lots of other local elections. If you're a Maryland resident, make sure you [do your research](https://www.elections.maryland.gov/elections/2018/primary_candidates/index.html) over the weekend and [get to the polls](https://voterservices.elections.maryland.gov/PollingPlaceSearch) on Tuesday!
+* I'm voting in Maryland next Tuesday, June 26th! It's my first time voting as a Maryland resident, and I'm excited for it. It's the gubernatorial primary, with lots of other local primary elections. If you're a Maryland resident, make sure you [do your research](https://www.elections.maryland.gov/elections/2018/primary_candidates/index.html) over the weekend and [get to the polls](https://voterservices.elections.maryland.gov/PollingPlaceSearch) on Tuesday!
 
 * I’m teaming up with [General Assembly](https://generalassemb.ly/education/mo-money-mo-worries-get-financially-savvy-in-2018/washington-dc/49127) on Tuesday, June 26th for a free personal finance workshop in Navy Yard. See you there?
 
