@@ -23,6 +23,8 @@ Happy Friday, y'all! Can you believe we only have one more week left in June? I 
 
 * I spent $15 on two travel guides from [Nomadic Matt](https://www.nomadicmatt.com/). There's so much to do in Thailand that I'm having trouble keeping track of it all. I figured the small expense would be worth it to have an organized guide on what to do in Bangkok and Thailand as a whole.
 
+* We booked 
+
 ## **What I’m Writing**
 
 This week, I wrote about the difference between your credit score and your credit report. I also talked about why each of them is important. Make sure to [check it out](https://www.maggiegermano.com/blog/the-difference-between-your-credit-score-and-your-credit-report/)!
