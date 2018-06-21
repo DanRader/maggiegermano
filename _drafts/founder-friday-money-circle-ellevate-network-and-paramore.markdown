@@ -22,7 +22,7 @@ Happy Friday, y'all! Can you believe we only have one more week left in June? I 
 
 ## **How I Spent Money This Week**
 
-* I donated $20 to [RAICES](https://www.raicestexas.org/), which is a Texas organization that is helping detained immigrants get legal representation so that they can be released and (hopefully) reunited with their children. I'm sick and disgusted over the treatment of these people, and I'm ashamed to be an American right now. If you can't afford to donate, make sure you're harassing your Senators and Representatives and letting them know they need to do something about this NOW. 
+* I donated $20 to [RAICES](https://www.raicestexas.org/), which is a Texas organization that is helping detained immigrants get legal representation so that they can be released and (hopefully) reunited with their children. I'm sick and disgusted over the treatment of these people, and I'm ashamed to be an American right now. If you can't afford to donate, make sure you're harassing your Senators and Representatives and letting them know they need to do something about this NOW. (Worried about who you're donating to? Check out [this piece](https://slate.com/business/2018/06/raices-can-be-effective-with-all-that-money-its-raising-on-facebook.html) about why RAICES is great.)
 
 * We bought tickets to go see [Paramore](http://www.paramore.net/) at [Merriweather Post Pavilion](https://www.merriweathermusic.com/) this Saturday! I've loved Paramore since college, and after my sisters saw them perform in Syracuse this past weekend, I decided I needed to splurge on some tickets, as well. Hopefully it doesn't rain too much!
 
