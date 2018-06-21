@@ -17,11 +17,13 @@ xx
 
 * I donated $20 to RAICES, which is a Texas organization that is helping detained immigrants get legal representation so that they can be released and (hopefully) reunited with their children. I'm sick and disgusted over the treatment of these people, and I'm ashamed to be an American right now.  
 
-* We bought tickets to go see Paramore at Merriweather Post Pavillion this Saturday! I've loved Paramore since college, and after my sisters saw them perform in Syracuse this past weekend, I decided I needed to splurge on some tickets, as well. Hopefully it doesn't rain too much!
+* We bought tickets to go see [Paramore](http://www.paramore.net/) at [Merriweather Post Pavilion](https://www.merriweathermusic.com/) this Saturday! I've loved Paramore since college, and after my sisters saw them perform in Syracuse this past weekend, I decided I needed to splurge on some tickets, as well. Hopefully it doesn't rain too much!
+
+* I spent $15 on two travel guides from [Nomadic Matt](https://www.nomadicmatt.com/). There's so much to do in Thailand that I'm having trouble keeping track of it all. I figured the small expense would be worth it to have an organized guide on what to do in Bangkok and Thailand as a whole.
 
 ## **What I’m Writing**
 
-xx
+This week, I wrote about the difference between your credit score and your credit report. I also talked about why each of them is important. Make sure to [check it out](https://www.maggiegermano.com/blog/the-difference-between-your-credit-score-and-your-credit-report/)!
 
 ## **What I’m Excited About**
 
