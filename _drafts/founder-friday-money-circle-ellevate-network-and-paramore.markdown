@@ -13,11 +13,11 @@ Happy Friday, y'all! Can you believe we only have one more week left in June? I 
 
 * The June [Money Circle](https://www.maggiegermano.com/moneycircle/) meetup was this Wednesday, so the Eventbrite transfer is in route. I don't really consider Money Circle as an income source, as the funds usually are enough to cover snacks and materials, but every little bit counts!
 
-* We also had 4 different sets of Airbnb guests this week. We're still going strong!
+* We also had four different sets of Airbnb guests this week. We're still going strong!
 
 ## **How I Spent Money This Week**
 
-* I donated $20 to RAICES, which is a Texas organization that is helping detained immigrants get legal representation so that they can be released and (hopefully) reunited with their children. I'm sick and disgusted over the treatment of these people, and I'm ashamed to be an American right now.  
+* I donated $20 to [RAICES](https://www.raicestexas.org/), which is a Texas organization that is helping detained immigrants get legal representation so that they can be released and (hopefully) reunited with their children. I'm sick and disgusted over the treatment of these people, and I'm ashamed to be an American right now. If you can't afford to donate, make sure you're harassing your Senators and Representatives and letting them know they need to do something about this NOW. 
 
 * We bought tickets to go see [Paramore](http://www.paramore.net/) at [Merriweather Post Pavilion](https://www.merriweathermusic.com/) this Saturday! I've loved Paramore since college, and after my sisters saw them perform in Syracuse this past weekend, I decided I needed to splurge on some tickets, as well. Hopefully it doesn't rain too much!
 
