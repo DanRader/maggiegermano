@@ -5,7 +5,7 @@ categories:
 - founder friday
 ---
 
-xx
+Happy Friday, y'all! Can you believe we only have one more week left in June? 
 
 ## **How I Earned Money This Week**
 
@@ -43,6 +43,6 @@ This week, I wrote about the difference between your credit score and your credi
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![Digital Imaging Specialist (1).png](/uploads/Digital%20Imaging%20Specialist%20(1).png)
 
 That’s all from me this week. Have a great weekend!
