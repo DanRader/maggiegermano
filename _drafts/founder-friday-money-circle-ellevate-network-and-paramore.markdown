@@ -3,6 +3,7 @@ title: Founder Friday | Money Circle, Ellevate Network, and Paramore
 date: 2018-06-22 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/concert.jpg"
 ---
 
 Happy Friday, y'all! Can you believe we only have one more week left in June? I can't, but I'm going on vacation next weekend, so I'm excited! Here's what I was up to this week.
