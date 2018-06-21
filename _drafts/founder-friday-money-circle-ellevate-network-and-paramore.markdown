@@ -15,7 +15,9 @@ xx
 
 ## **How I Spent Money This Week**
 
-* I donated $20 to RAICES, which is a Texas organization that is helping detained immigrants get legal representation so that they can be released and (hopefully) reunited with their children. I'm sick and disgusted over the treatment of these people, and I'm ashamed to be an American. 
+* I donated $20 to RAICES, which is a Texas organization that is helping detained immigrants get legal representation so that they can be released and (hopefully) reunited with their children. I'm sick and disgusted over the treatment of these people, and I'm ashamed to be an American right now.  
+
+* We bought tickets to go see Paramore at Merriweather Post Pavillion this Saturday! I've loved Paramore since college, and after my sisters saw them perform in Syracuse this past weekend, I decided I needed to splurge on some tickets, as well. Hopefully it doesn't rain too much!
 
 ## **What I’m Writing**
 
