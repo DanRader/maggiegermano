@@ -23,7 +23,7 @@ Happy Friday, y'all! Can you believe we only have one more week left in June? I 
 
 * I spent $15 on two travel guides from [Nomadic Matt](https://www.nomadicmatt.com/). There's so much to do in Thailand that I'm having trouble keeping track of it all. I figured the small expense would be worth it to have an organized guide on what to do in Bangkok and Thailand as a whole.
 
-* We booked 
+* We booked our hotel for the first two nights we'll be in Thailand! We're spending two days in Bangkok when we arrive, because we want to recover from our travel before heading south to the islands. 
 
 ## **What I’m Writing**
 
