@@ -4,6 +4,8 @@ date: 2018-06-22 14:00:00 -04:00
 categories:
 - founder friday
 image: "/uploads/concert.jpg"
+tweet: 'Concert tickets, hotel rooms, and Chinese food. See what I was up to this
+  week in my #FounderFriday post!'
 posts:
 - Founder Friday | Garlic Knots, Keynotes, and Green Tea
 - Founder Friday | Wedding Shoes, the Dominican Republic, and Student Loan Consolidation
@@ -42,9 +44,7 @@ This week, I wrote about the difference between your credit score and your credi
 
 ## **What I’m Excited About**
 
-* We had a fantastic [Money Circle](https://www.maggiegermano.com/moneycircle/) gathering this week! The theme was budgeting and we all created our own budgets together. 
-
-* I'll be voting as a Maryland resident for the first time next Tuesday, June 26th! 
+* We had a fantastic [Money Circle](https://www.maggiegermano.com/moneycircle/) gathering this week! The theme was budgeting and we all created our own budgets together. I always love having so many awesome women in one space, being open and vulnerable about money. See you [next month](https://www.maggiegermano.com/events/investing-101/)?
 
 * I’m offering [20% off one-time financial coaching sessions](https://maggiegermanofinancialcoaching.as.me/onetimediscount) in the month of June! We’re halfway through 2018, and this is usually the time we realize we haven’t made progress on our goals for the year. If you want some help getting back on track with your finances, let’s talk!
 
