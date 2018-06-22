@@ -4,6 +4,8 @@ date: 2018-06-22 14:00:00 -04:00
 categories:
 - founder friday
 image: "/uploads/concert.jpg"
+tweet: 'Concert tickets, hotel rooms, and Chinese food. See what I was up to this
+  week in my #FounderFriday post!'
 posts:
 - Founder Friday | Garlic Knots, Keynotes, and Green Tea
 - Founder Friday | Wedding Shoes, the Dominican Republic, and Student Loan Consolidation
