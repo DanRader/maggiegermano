@@ -30,6 +30,8 @@ Happy Friday, y'all! Can you believe we only have one more week left in June? I 
 
 * We booked our hotel for the first two nights we'll be in Thailand! We're spending two days in Bangkok when we arrive, because we want to recover from our travel before heading south to the islands. We're spending quite a bit on the hotel in [Koh Lipe](http://kohlipethailand.com/), so we're trying to be frugal about our choices in the rest of Thailand. 
 
+* I also bought a new bathing suit for my trip to the Dominican Republic next weekend. It was super cute and also very
+
 ## **What I’m Writing**
 
 This week, I wrote about the difference between your credit score and your credit report. I also talked about why each of them is important. Make sure to [check it out](https://www.maggiegermano.com/blog/the-difference-between-your-credit-score-and-your-credit-report/)!
