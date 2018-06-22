@@ -14,7 +14,7 @@ Happy Friday, y'all! Can you believe we only have one more week left in June? I 
 
 ## **How I Earned Money This Week**
 
-* Last week was quiet on the business income front, but this week, the payments for three of my monthly clients went through.
+* Last week was quiet on the business income front, but this week, the payments for three of my monthly clients went through. Someone also bought a one-time [coaching](https://www.maggiegermano.com/coaching/) session.
 
 * The June [Money Circle](https://www.maggiegermano.com/moneycircle/) meetup was this Wednesday, so the Eventbrite transfer is in route. I don't really consider Money Circle as an income source, as the funds usually are enough to cover snacks and materials, but every little bit counts!
 
