@@ -30,7 +30,11 @@ Happy Friday, y'all! Can you believe we only have one more week left in June? I 
 
 * We booked our hotel for the first two nights we'll be in Thailand! We're spending two days in Bangkok when we arrive, because we want to recover from our travel before heading south to the islands. We're spending quite a bit on the hotel in [Koh Lipe](http://kohlipethailand.com/), so we're trying to be frugal about our choices in the rest of Thailand. 
 
-* I also bought a new bathing suit for my trip to the Dominican Republic next weekend. It was super cute and also very
+* I also bought a new bathing suit for my trip to the Dominican Republic next weekend. It was super cute and also very much on sale. Check out [Old Navy](https://oldnavy.gap.com/browse/category.do?cid=68066&mlink=5151,13518818,flyout_w_Swim_Shop&clink=13518818) if you're still looking for a new suit!
+
+* Last night, Dan and I went to a free event at [MilkBoy ArtHouse](https://www.milkboyarthouse.com/) in College Park, Maryland. It was this cool musical event that aims to make classical music more accessible to more people. It was a lot of fun, and a way for Dan to see live classical music without us having to pay to go to the symphony. After that event, we got Chinese food delivered from [Postmates](https://postmates.com/invite/XDRG3?utm_medium=referral&utm_source=local&_branch_match_id=414929381658162143), because we didn't want to order food at the bar. (Use my link for [Postmates](https://postmates.com/invite/XDRG3?utm_medium=referral&utm_source=local&_branch_match_id=414929381658162143) and you'll get free delivery!)
+
+* (I'm realizing I've spent quite a bit of money this week! We're still under budget because we've been really frugal for the past couple of weeks, but we're going to have to reel it in for next week!)
 
 ## **What I’m Writing**
 
