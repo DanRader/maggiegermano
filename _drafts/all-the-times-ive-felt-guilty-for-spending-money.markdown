@@ -24,11 +24,11 @@ The funny thing about this guilt is it wasn't about the actual money I was spend
 
 The guilt I have felt has actually come after I've spoken to friends and family about my travel plans. Not everyone is able to save the money or take the time to travel, and I completely understand that. But it's also true that a lot of people don't prioritize things like travel. And that's okay! Everyone has their own priorities. 
 
-The problem for me is when I talk about my travel plans and the response is: "Well, that must be nice" or "I wish I could travel" or "Wow, do you ever work?". It's a frustrating response and often makes me feel defensive and guilty about the exciting trips I've been able to take. 
+The problem for me is when I talk about my travel plans and the response is: "Well, that must be nice" or "I wish I could travel" or "Wow, do you ever work?". It's a frustrating response and often makes me feel defensive and guilty about the exciting trips I've been able to take. Luckily, my reaction has softened over time, and the comments come less and less. In fact, I haven't heard any negative comments about my upcoming honeymoon in Thailand! The lesson here is that you just have to continue doing what makes you happy, and try not to worry about what other people think. It's your money and it's your life, so use it in a way that means the most to you!
 
 ## House Expenses
 
-My guilt hasn't been too high on this end.
+My guilt hasn't been too high on this end. However, buying a home was probably the most stressful thing I've ever done! We only put down 10% as our down payment, and that was the largest check I've ever written in my life! I wanted to vomit. But at the same time, I've always wanted to own a home, and I allocated that money specifically for my down payment. 
 
 ## My Wedding
 
@@ -55,3 +55,7 @@ Here are the areas where we saved some money and feel really good about it:
 Here are the areas where we spent more than I wanted to, and am still annoyed about it:
 
 * This vendor was who we were originally looking at for catering. They are a one-stop shop for weddings and it seemed like it would be much easier to just hire them to handle everything, rather than having multiple vendors. And it would have definitely been easier! But it would have also been way more expensive. The original quote they gave us was nearly the entire amount we're paying for the wedding. And that quote didn't include pizza! We decided not to use them for food and booze, but we ended up having to hire them for a few other items: bathroom trailer, tables, chairs, linens, bartenders, day-of-coordinator, etc. I think their staff will help the day to move more smoothly, but I'm still frustrated by how much we're paying in "operations fees".
+
+* **Invitations.** When Dan first told me we'd probably spend $400 on invitations, I had a fit. I couldn't believe that something so small could cost so much. Of course, Dan is a graphic designer and has made wedding invitations in the past, so he knows better than me. But I thought that having him design our invitations would mean that we would save some money! But the truth is, printing is expensive. And printing gold foil on thick paper is even more expensive (did I mention Dan is a designer?). So we'll likely spend around $400 on our invitations, after all. I'm not pleased about it, but I've accepted it at this point (for the most part). 
+
+*When have you felt guilty or conflicted about spending money you've saved up? Did you end up changing your plans? Share in the comments!*
