@@ -19,11 +19,13 @@ Have you gotten to a certain age when it feels like everyone you know is getting
 
 ## Plan It Out
 
-Find out when your friends and family members are getting married and mark it on your calendar. Figure out how much time you have to plan and save for the wedding. Next, find out if you’ll be invited to any pre-wedding parties, like a bridal shower or bachelorette party. Put those on your calendar as well, so that they’re always on your radar.
+Find out when your friends and family members are getting married and mark it on your calendar. Figure out how much time you have to plan and save for the wedding. Next, find out if you’ll be invited to any pre-wedding parties, like a bridal shower or bachelorette party. Put those on your calendar as well, so that they’re always on your radar. Forgetting about a wedding or party is a guaranteed way to be stressed and end up overspending.
 
 ## Prioritize Events
 
-There are lots of events when it comes to weddings. Engagement parties, bridal showers, bachelorette parties, rehearsal dinners, and then the wedding itself! If travel is involved, these can really add up. So start prioritizing; you don’t have to go to every single event if it doesn’t fit in your budget. You also don’t have to go to every wedding you’re invited to. It can be awkward to send a “no” RSVP, but if that’s what’s best for you, do it.
+There are lots of events when it comes to weddings. Engagement parties, bridal showers, bachelorette parties, rehearsal dinners, and then the wedding itself! If travel is involved, these can really add up. Plus, many of these events also include a gift. So start prioritizing; you don’t have to go to every single event if it doesn’t fit in your budget. You also don’t have to go to every wedding you’re invited to. It can be awkward to send a “no” RSVP, but if that’s what’s best for you, do it. If you have an old friend you haven't spoken to in years, if may not make sense to fly across the country to attend their wedding. 
+
+Personally, I have many friends who don't live anywhere near where I'm getting married. I'm inviting them to my bachelorette party and my wedding, but I'm letting them know that there is no pressure to attend both. Your good friends will be understanding.
 
 ## Create a Wedding Guest Budget
 
