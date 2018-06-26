@@ -10,9 +10,11 @@ posts:
 - When, Why, and How to Invest in Yourself
 ---
 
-If you read my blog regularly, you know that I am not the type of financial expert who says you shouldn't spend any money ever. I don't believe that you can be hyper-restrictive of your spending and still have a good quality of life. In fact, I think it's imperative to build the things you value into your budget so that you feel more motivated to stick to a budget in the first place. 
+If you read my blog regularly, you know that I am not the type of financial expert who says you shouldn't spend any money ever. I don't believe that you can be hyper-restrictive of your spending and still have a good quality of life. In fact, I think it's imperative to build the things you value into your budget so that you feel more motivated to stick to a budget in the first place.
 
-One of the best ways to 
+One of the best ways to include the things you value most into your budget is to save up for them over time. That way, when a big expense comes up, you know you have the money for it and you don't have to feel stressed out or guilty about it. However, there will be times when you have a hard time spending the money you saved up. At least, that's how I've felt! 
+
+As someone who is fairly structured with spending and saving, I don't often spend a whole lot of money. But the truth is, a lot of exciting things cost a lot of money! And in the past year especially, I've had a lot of guilt and conflict about spending large sums of money. These feelings haven't been particularly rational, but they do make some sense, because spending a lot of money is scary! 
 
 ## Travel
 
