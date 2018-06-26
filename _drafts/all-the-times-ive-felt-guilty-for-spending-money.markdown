@@ -44,7 +44,7 @@ Here are the areas where we spent more than I wanted to, but will actually turn 
 
 * **Our venue.** When we first booked our venue, I felt really good about the price. This was because I was completely naive about everything else we needed to pay for. I also wasn't fully aware that almost nothing came with the venue fee. We had to rent a bathroom trailer, tables, chairs, and we had to pay for all of the staff from a different vendor.
 
-Here are the areas where we saved some money and feel really good about it:
+Here are the areas where we saved some money and I feel really good about it:
 
 * **DJ.** We're actually not hiring a DJ. We are making our own playlists and we hired an audio engineer who will run the sound system for the day.
 
