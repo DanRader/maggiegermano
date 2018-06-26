@@ -33,7 +33,7 @@ Decide how many wedding events you’ll be going to. Figure out how much it will
 
 ## Start Saving
 
-Set up a savings account that is specifically for wedding expenses. This will make it easier to keep track of how much you’re saving. It is also an easy place to pull the money from once you need it. From there, start saving money every month.
+Set up a savings account that is specifically for these wedding expenses. This will make it easier to keep track of how much you’re saving. It is also an easy place to pull the money from once you need it. From there, start saving money every month. The best way to make sure you're doing this is to automate your savings. Set up direct deposit through your employer, or set it up so your bank automatically transfers money on pay day. 
 
 ## Do Group Gifts
 
