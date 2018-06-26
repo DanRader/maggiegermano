@@ -16,13 +16,15 @@ One of the best ways to include the things you value most into your budget is to
 
 > However, there will be times when you have a hard time spending the money you saved up.
 
-As someone who is fairly structured with spending and saving, I don't often spend a whole lot of money. But the truth is, a lot of exciting things cost a lot of money! And in the past year especially, I've had a lot of guilt and conflict about spending large sums of money. These feelings haven't been particularly rational, but they do make some sense, because spending a lot of money is scary! 
+As someone who is fairly structured with spending and saving, I don't often spend a whole lot of money. But the truth is, a lot of exciting things cost a lot of money! And in the past year especially, I've had a lot of guilt and conflict about spending large sums of money. These feelings haven't been particularly rational, but they do make some sense, because spending a lot of money is scary! So here are the times I've felt most guilty (and scared) about spending my money.
 
 ## Travel
 
-The funny thing about this guilt is it wasn't about the actual money I was spending. In fact, for years, I've prioritized saving for travel so that I can explore this world without guilt and without going into debt. I believe that if you love to travel, spending money (that you have) on it should never be a shameful thing. It only improves your quality of life.
+The funny thing about this guilt is it wasn't about the actual money I was spending. In fact, for years, I've prioritized saving for travel so that I can explore this world without guilt and without going into debt. I believe that if you love to travel, spending money (that you have) on it should never be a shameful thing. It only improves your quality of life. And that's what ultimately matters!
 
-The guilt I have felt has actually come after I've spoken to friends and family about my travel plans. Not everyone is able to save the money or take the time to travel. But it's also true that a lot of people don't prioritize things like travel. And that's okay! Everyone has their own priorities. Where the guilt has come up for me is when I talk about my travel plans and the response is: "Well, that must be nice" or "I wish I could travel" or "Wow, do you ever work?". It's a frustrating response and often makes me feel defensive and guilty about the exciting trips I've been able to take. 
+The guilt I have felt has actually come after I've spoken to friends and family about my travel plans. Not everyone is able to save the money or take the time to travel, and I completely understand that. But it's also true that a lot of people don't prioritize things like travel. And that's okay! Everyone has their own priorities. 
+
+The problem for me is when I talk about my travel plans and the response is: "Well, that must be nice" or "I wish I could travel" or "Wow, do you ever work?". It's a frustrating response and often makes me feel defensive and guilty about the exciting trips I've been able to take. 
 
 ## House Expenses
 
