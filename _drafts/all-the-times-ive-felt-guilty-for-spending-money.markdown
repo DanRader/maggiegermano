@@ -28,7 +28,9 @@ The problem for me is when I talk about my travel plans and the response is: "We
 
 ## House Expenses
 
-My guilt hasn't been too high on this end. However, buying a home was probably the most stressful thing I've ever done! We only put down 10% as our down payment, and that was the largest check I've ever written in my life! I wanted to vomit. But at the same time, I've always wanted to own a home, and I allocated that money specifically for my down payment. 
+My guilt hasn't been too high on this end. However, buying a home was probably the most stressful thing I've ever done! We only put down 10% as our down payment, and that was the largest check I've ever written in my life! I wanted to vomit. But at the same time, I've always wanted to own a home, and I allocated that money specifically for my down payment. I was surprised at how conflicted I felt when I was actually writing the check. 
+
+The real spending drama came when we started construction on our home renovations. We had a big job that included knocking down walls and rebuilding new ones. We found a contractor we liked a lot and ended up adding a bunch of work to the project just to get it over with faster. That was a mistake! We ended up overspending on shoddy work and feeling really foolish about our decisions. 
 
 ## My Wedding
 
