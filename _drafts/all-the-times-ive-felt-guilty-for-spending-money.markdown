@@ -16,7 +16,7 @@ One of the best ways to include the things you value most into your budget is to
 
 > However, there will be times when you have a hard time spending the money you saved up.
 
-As someone who is fairly structured with spending and saving, I don't often spend a whole lot of money. But the truth is, a lot of exciting things cost a lot of money! And in the past year especially, I've had a lot of guilt and conflict about spending large sums of money. These feelings haven't been particularly rational, but they do make some sense, because spending a lot of money is scary! 
+As someone who is fairly structured with spending and saving, I don't often spend a whole lot of money. But the truth is, a lot of exciting things cost a lot of money! And in the past year especially, I've had a lot of guilt and conflict about spending large sums of money. These feelings haven't been particularly rational, but they do make some sense, because spending a lot of money is scary! So here are the times I've felt most guilty (and scared) about spending my money.
 
 ## Travel
 
