@@ -20,7 +20,7 @@ As someone who is fairly structured with spending and saving, I don't often spen
 
 The funny thing about this guilt is it wasn't about the actual money I was spending. In fact, for years, I've prioritized saving for travel so that I can explore this world without guilt and without going into debt. I believe that if you love to travel, spending money (that you have) on it should never be a shameful thing. It only improves your quality of life.
 
-The guilt I have felt has actually come after I've spoken to friends and family about my travel plans.
+The guilt I have felt has actually come after I've spoken to friends and family about my travel plans. Not everyone is able to save the money or take the time to travel. But it's also true that a lot of people don't prioritize things like travel. And that's okay! Everyone has their own priorities. Where the guilt has come up for me is when I talk about my travel plans and the response is: "Well, that must be nice" or "I wish I could travel" or "Wow, do you ever work?". It's a frustrating response and often makes me feel defensive and guilty about the exciting trips I've been able to take. 
 
 ## House Expenses
 
