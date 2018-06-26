@@ -13,7 +13,7 @@ posts:
 - How to Talk to Your Friends about Money
 ---
 
-Have you gotten to a certain age when it feels like everyone you know is getting married? I've personally been through two phases of this. When I was 26, I went to eight weddings in one calendar year. This year, I'm 30 (almost 31) and I'll be attending four weddings; one of those is my own! These life events are wonderful and a lot of fun, but they can also cost a whole lot of money. So how can you celebrate your friends and family while not blowing your budget completely?
+Have you gotten to a certain age when it feels like everyone you know is getting married? I've personally been through two phases of this. When I was 26, I went to eight weddings in one calendar year. This year, I'm 30 (almost 31) and I'll be attending four weddings. One of those is my own! These life events are wonderful and a lot of fun, but they can also cost a whole lot of money. So how can you celebrate your friends and family while not blowing your budget completely?
 
 > These life events are wonderful and a lot of fun, but they can also cost a whole lot of money.
 
