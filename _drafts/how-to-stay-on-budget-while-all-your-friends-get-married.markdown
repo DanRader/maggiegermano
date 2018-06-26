@@ -39,4 +39,6 @@ Set up a savings account that is specifically for wedding expenses. This will ma
 
 If you and your friends are traveling for a wedding, consider going in on a gift together, rather than everyone buying something separately. This can save money, but it can also allow you to get your friend something meaningful that you wouldn’t have been able to afford otherwise.
 
+Wedding season comes with a lot of pressure. It can feel like you're a bad friend if you have to miss a wedding or buy a more affordable gift. But that's not the case! We all have limits, and our friends should understand that. 
+
 *Have you put any of these ideas to use in your own life? How did it turn out? Share in the comments!*
