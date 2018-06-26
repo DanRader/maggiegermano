@@ -24,7 +24,7 @@ The funny thing about this guilt is it wasn't about the actual money I was spend
 
 The guilt I have felt has actually come after I've spoken to friends and family about my travel plans. Not everyone is able to save the money or take the time to travel, and I completely understand that. But it's also true that a lot of people don't prioritize things like travel. And that's okay! Everyone has their own priorities. 
 
-The problem for me is when I talk about my travel plans and the response is: "Well, that must be nice" or "I wish I could travel" or "Wow, do you ever work?". It's a frustrating response and often makes me feel defensive and guilty about the exciting trips I've been able to take. 
+The problem for me is when I talk about my travel plans and the response is: "Well, that must be nice" or "I wish I could travel" or "Wow, do you ever work?". It's a frustrating response and often makes me feel defensive and guilty about the exciting trips I've been able to take. Luckily, my reaction has softened over time, and the comments come less and less. In fact, I haven't heard any negative comments about my upcoming honeymoon in Thailand! The lesson here is that you just have to continue doing what makes you happy, and try not to worry about what other people think. It's your money and it's your life, so use it in a way that means the most to you!
 
 ## House Expenses
 
