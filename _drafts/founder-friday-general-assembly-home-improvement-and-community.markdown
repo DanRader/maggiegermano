@@ -3,6 +3,7 @@ title: Founder Friday | General Assembly, Home Improvement, and Community
 date: 2018-06-29 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/construction.jpg"
 posts:
 - Founder Friday | Money Circle, Ellevate Network, and Paramore
 - Founder Friday | Garlic Knots, Keynotes, and Green Tea
