@@ -20,6 +20,10 @@ We hosted a mother and daughter in our Airbnb for the whole week. Apparently the
 
 * Dan and I went a tad over budget this month
 
+* I've been yearning for some classy, comfortable shirts that I can wear during speaking engagements and other important events. An Express Factory opened at PG Plaza Mall, so I went there on Tuesday and bought three really cute shirts. Everything was 40% off, which was great. I will pay for the expense from my "fun fund". 
+
+* 
+
 ## **What I’m Writing**
 
 This week, I wrote about [what you should do](https://www.maggiegermano.com/blog/what-you-should-do-after-paying-off-debt/) after paying off debt. The time after paying off debt is super important so that you don't end up in debt again! So check out [the piece](https://www.maggiegermano.com/blog/what-you-should-do-after-paying-off-debt/) and make sure you're on the right track. 
