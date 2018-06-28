@@ -18,7 +18,7 @@ We hosted a mother and daughter in our Airbnb for the whole week. Apparently the
 
 ## **How I Spent Money This Week**
 
-* Dan and I went a tad over budget this month
+* Dan and I went a tad over budget this month. We're lucky enough to have a home improvement savings account, where we can pull from when we make larger house purchases, but I really wanted to stay on budget even with the house spending. That didn't really happen! 
 
 * I've been yearning for some classy, comfortable shirts that I can wear during speaking engagements and other important events. An Express Factory opened at PG Plaza Mall, so I went there on Tuesday and bought three really cute shirts. Everything was 40% off, which was great. I will pay for the expense from my "fun fund". 
 
