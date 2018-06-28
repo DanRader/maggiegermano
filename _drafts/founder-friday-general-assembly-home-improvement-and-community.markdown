@@ -14,7 +14,7 @@ Happy Friday!
 
 ## **How I Earned Money This Week**
 
-* x
+* We hosted a mother and daughter in our Airbnb for the whole week. Apparently the little girl is super political already and obsessed with Ruth Bader Ginsberg. I was happy they chose our place for their first visit to DC!
 
 ## **How I Spent Money This Week**
 
@@ -34,7 +34,7 @@ x
 
 * I was quoted in [The EveryGirl](http://theeverygirl.com/how-to-successfully-make-a-career-change-as-told-by-people-who-have-done-it/) this week! I talked about how you can prepare to make a big career change, even if you're scared.
 
-* I had two different speaking gigs this week! On Tuesday, I spoke about financial savviness with General Assembly. On Thursday, I talked about adulting at WIN's Women Opening Doors for Women event. 
+* I had two different speaking gigs this week! On Tuesday, I spoke about financial savviness with General Assembly. On Thursday, I talked about adulting at WIN's Women Opening Doors for Women event.
 
 * The [July Money Circle meetup](https://www.maggiegermano.com/events/investing-101/) is live! We’re bringing in expert Claudia Russell to talk about investing basics. Get your ticket and I’ll see you on July 17th!
 
