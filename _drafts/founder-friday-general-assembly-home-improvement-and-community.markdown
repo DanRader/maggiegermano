@@ -22,7 +22,7 @@ We hosted a mother and daughter in our Airbnb for the whole week. Apparently the
 
 * I've been yearning for some classy, comfortable shirts that I can wear during speaking engagements and other important events. An Express Factory opened at PG Plaza Mall, so I went there on Tuesday and bought three really cute shirts. Everything was 40% off, which was great. I will pay for the expense from my "fun fund". 
 
-* 
+* Maryland requires that you get an emissions test on your car every two years. Since we just moved here in October, Dan had to get his car tested this week. Well, actually, it was due three months ago, so it cost $15 extra with the late fee. Womp, womp.
 
 ## **What I’m Writing**
 
