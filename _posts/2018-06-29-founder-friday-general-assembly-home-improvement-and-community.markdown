@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | General Assembly, Home Improvement, and Community
 date: 2018-06-29 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/construction.jpg"
@@ -18,25 +19,27 @@ We hosted a mother and daughter in our Airbnb for the whole week. Apparently the
 
 ## **How I Spent Money This Week**
 
-* Dan and I went a tad over budget this month. We're lucky enough to have a home improvement savings account, where we can pull from when we make larger house purchases, but I really wanted to stay on budget even with the house spending. That didn't really happen! 
+* Dan and I went a tad over budget this month. We're lucky enough to have a home improvement savings account, where we can pull from when we make larger house purchases, but I really wanted to stay on budget even with the house spending. That didn't really happen! So we tried to be as frugal as possible this week so that we could stay close to our budget and not go too far over. After all, if we keep pulling from our savings, there won't be money left forever! 
 
-* Since we're going on vacation this Sunday, we had to stock up on travel snacks. I bought some trail mix, Incan corn, and cashews from Trader Joe's to tide us over on the flight. 
+* Since we're going on vacation this Sunday, we had to stock up on travel snacks. I bought some trail mix, Incan corn, and cashews from Trader Joe's to tide us over on the flight.
 
-* I've been yearning for some classy, comfortable shirts that I can wear during speaking engagements and other important events. An Express Factory opened at PG Plaza Mall, so I went there on Tuesday and bought three really cute shirts. Everything was 40% off, which was great. I will pay for the expense from my "fun fund". 
+* I've been yearning for some classy, comfortable shirts that I can wear during speaking engagements and other important events. An Express Factory opened at PG Plaza Mall, so I went there on Tuesday and bought three really cute shirts. Everything was 40% off, which was great. I will pay for the expense from my "fun fund".
 
 * Maryland requires that you get an emissions test on your car every two years. Since we just moved here in October, Dan had to get his car tested this week. Well, actually, it was due three months ago, so it cost $15 extra with the late fee. Womp, womp.
 
+* I was in the city three days this week for work. I spent about $9 on tea, but I packed my lunch and snacks to keep my costs down.
+
 ## **What I’m Writing**
 
-This week, I wrote about [what you should do](https://www.maggiegermano.com/blog/what-you-should-do-after-paying-off-debt/) after paying off debt. The time after paying off debt is super important so that you don't end up in debt again! So check out [the piece](https://www.maggiegermano.com/blog/what-you-should-do-after-paying-off-debt/) and make sure you're on the right track. 
+This week, I wrote about [what you should do](https://www.maggiegermano.com/blog/what-you-should-do-after-paying-off-debt/) after paying off debt. The time after paying off debt is super important so that you don't end up in debt again! So check out [the piece](https://www.maggiegermano.com/blog/what-you-should-do-after-paying-off-debt/) and make sure you're on the right track.
 
 ## **What I’m Excited About**
 
 * I'm marching at the White House tomorrow. I'm disgusted and horrified by how immigrants are being treated in our country. We should all be horrified, and we should all do something about it. I already donated to RAICES (you should too!), and I am going to physically show up tomorrow to join the message that [Families Belong Together](https://www.familiesbelongtogether.org/).
 
-* I'm heading to the Dominican Republic on Sunday! My grandma is taking our entire family on a week-long vacation, and I'm so excited. I haven't seen my family since Easter, so I'm looking forward to seeing my niece and nephew for a full week without much to do except relax! I've also never been to the Dominican, so I'm excited to experience it. 
+* I'm heading to the Dominican Republic on Sunday! My grandma is taking our entire family on a week-long vacation, and I'm so excited. I haven't seen my family since Easter, so I'm looking forward to seeing my niece and nephew for a full week without much to do except relax! I've also never been to the Dominican, so I'm excited to experience it.
 
-[![6.30-DC.png](/uploads/6.30-DC.png)](https://www.familiesbelongtogether.org/)
+![6.30-DC.png](/uploads/6.30-DC.png)
 
 ## **What I’m Up To**
 
