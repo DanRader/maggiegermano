@@ -77,6 +77,8 @@ option-2-text: |-
   * Personalized recap and action guide after each session
 
   * **Unlimited** email support
+
+  * Free attendance to monthly [Money Circle](http://maggiegermano.com/moneycircle) gatherings
 layout: coaching
 ---
 
