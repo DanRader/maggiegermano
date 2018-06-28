@@ -36,6 +36,8 @@ This week, I wrote about [what you should do](https://www.maggiegermano.com/blog
 
 * I'm heading to the Dominican Republic on Sunday! My grandma is taking our entire family on a week-long vacation, and I'm so excited. I haven't seen my family since Easter, so I'm looking forward to seeing my niece and nephew for a full week without much to do except relax! I've also never been to the Dominican, so I'm excited to experience it. 
 
+![6.30-DC.png](/uploads/6.30-DC.png)
+
 ## **What I’m Up To**
 
 * I was quoted in [The EveryGirl](http://theeverygirl.com/how-to-successfully-make-a-career-change-as-told-by-people-who-have-done-it/) this week! I talked about how you can prepare to make a big career change, even if you're scared.
