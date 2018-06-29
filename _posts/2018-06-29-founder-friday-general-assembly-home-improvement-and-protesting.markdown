@@ -1,7 +1,6 @@
 ---
-title: Founder Friday | General Assembly, Home Improvement, and Community
+title: Founder Friday | General Assembly, Home Improvement, and Protesting
 date: 2018-06-29 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 image: "/uploads/construction.jpg"
@@ -19,7 +18,7 @@ We hosted a mother and daughter in our Airbnb for the whole week. Apparently the
 
 ## **How I Spent Money This Week**
 
-* Dan and I went a tad over budget this month. We're lucky enough to have a home improvement savings account, where we can pull from when we make larger house purchases, but I really wanted to stay on budget even with the house spending. That didn't really happen! So we tried to be as frugal as possible this week so that we could stay close to our budget and not go too far over. After all, if we keep pulling from our savings, there won't be money left forever! 
+* Dan and I went a tad over budget this month. We're lucky enough to have a home improvement savings account, where we can pull from when we make larger house purchases, but I really wanted to stay on budget even with the house spending. That didn't really happen! So we tried to be as frugal as possible this week so that we could stay close to our budget and not go too far over. After all, if we keep pulling from our savings, there won't be money left forever!
 
 * Since we're going on vacation this Sunday, we had to stock up on travel snacks. I bought some trail mix, Incan corn, and cashews from Trader Joe's to tide us over on the flight.
 
@@ -28,6 +27,8 @@ We hosted a mother and daughter in our Airbnb for the whole week. Apparently the
 * Maryland requires that you get an emissions test on your car every two years. Since we just moved here in October, Dan had to get his car tested this week. Well, actually, it was due three months ago, so it cost $15 extra with the late fee. Womp, womp.
 
 * I was in the city three days this week for work. I spent about $9 on tea, but I packed my lunch and snacks to keep my costs down.
+
+* Another week, another home improvement cost we're incurring! This time, it's something I'm really relieved about. Before we started renting out our basement on Airbnb, we installed a sliding door to separate the basement from our main house. It turns out, there's no sound barrier when you just have a sliding door! After four months of hearing the echos of every guest's conversations, we decided to install a real door. The space is awkward and half of it is concrete, so we decided to hire a handyman to do it for us. I'm really looking forward to not being hyper aware of our guests' every move! We'll be using a portion of the money we earned through Airbnb this month to pay both for the door and the installation.
 
 ## **What I’m Writing**
 
@@ -45,7 +46,7 @@ This week, I wrote about [what you should do](https://www.maggiegermano.com/blog
 
 * I was quoted in [The EveryGirl](http://theeverygirl.com/how-to-successfully-make-a-career-change-as-told-by-people-who-have-done-it/) this week! I talked about how you can prepare to make a big career change, even if you're scared.
 
-* I had two different speaking gigs this week! On Tuesday, I spoke about financial savviness with [General Assembly](https://generalassemb.ly/), and it was my biggest crowd  yet! On Thursday, I talked about using your finances to support your feminism at [WIN's](http://winonline.org/) Women Opening Doors for Women event.
+* I had two different speaking gigs this week! On Tuesday, I spoke about financial savviness with [General Assembly](https://generalassemb.ly/), and it was my biggest crowd  yet! On Thursday, I talked about using your finances to support your feminism at [WIN's](http://winonline.org/) Women Opening Doors for Women event. (If you aren't a WIN member, you should be! And consider running for their executive committee!)
 
 * The [July Money Circle meetup](https://www.maggiegermano.com/events/investing-101/) is live! We’re bringing in expert [Claudia Russell](http://msengineeredwealth.com/) to talk about investing basics. Get your ticket and I’ll see you on July 17th!
 
