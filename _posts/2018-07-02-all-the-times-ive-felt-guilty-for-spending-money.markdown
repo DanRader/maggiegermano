@@ -1,6 +1,7 @@
 ---
 title: All the Times I've Felt Guilty for Spending Money
 date: 2018-07-02 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 image: "/uploads/dollars.jpg"
@@ -66,6 +67,6 @@ Here are the areas where we spent more than I wanted to, and I'm still annoyed a
 
 * **Invitations.** When Dan first told me we'd probably spend $400 on invitations, I had a fit. I couldn't believe that something so small could cost so much. Of course, Dan is a graphic designer and has made wedding invitations in the past, so he knows better than I do. But I thought that having him design our invitations would mean that we would save some money! But the truth is, printing is expensive. And printing gold foil on thick paper is even more expensive (did I mention Dan is a designer?). So we'll likely spend around $400 on our invitations, after all. I'm not pleased about it, but I've accepted it at this point (for the most part).
 
-So why did I tell you all of this? Well first of all, I needed to write about it for catharsis. But I also wanted to let you know that it's normal to be freaked out about spending money, even if you've planned and saved for it. It's okay to have conflicting emotions when you're making big decisions. 
+So why did I tell you all of this? Well, first of all, I needed to write about it for catharsis. But I also wanted to let you know that it's normal to be freaked out about spending money, even if you've planned and saved for it. It's okay to have conflicting emotions when you're making big decisions. And you'll probably find yourself in situations where you have competing values. It's okay! You just have to decide which value is more important in that instant. For me, it's having a wedding day that we'll love, while still not going into debt.
 
 *When have you felt guilty or conflicted about spending money you've saved up? Did you end up changing your plans? Share in the comments!*
