@@ -4,6 +4,8 @@ date: 2018-07-02 11:00:00 -04:00
 categories:
 - lifestyle
 image: "/uploads/dollars.jpg"
+tweet: 'Have you ever felt scared or conflicted when making big #money decisions?
+  Me too! '
 posts:
 - How I'm Incorporating My Values Into My Wedding
 - Do Your Money Habits Align with Your Values?
