@@ -50,9 +50,9 @@ Here are the areas where we spent more than I wanted to, but will actually turn 
 
 * **Our florist.** Do you know how many times I said "we don't even need centerpieces!"? I said it a lot. We're spending more than double what I wanted to spend on flowers. But I also didn't want to be up late the night before my wedding finishing up the centerpieces and bouquets. So we hired a florist who is associated with our venue and who grows many of their flowers themselves. They value sustainability and authenticity. They seemed to really vibe with our wedding day vision, and I think the flowers will turn out beautifully. Plus, we definitely cut some costs here, as the bridesmaids will not carry bouquets.
 
-* **Our venue.** When we first booked our venue, I felt really good about the price. This was because I was completely naive about everything else we needed to pay for. I also wasn't fully aware that almost nothing came with the venue fee. We had to rent a bathroom trailer, tables, chairs, and we had to pay for all of the staff from a different vendor.
+* **Our venue.** When we first booked our venue, I felt really good about the price. This was because I was completely naive about everything else we needed to pay for. I also wasn't fully aware that almost nothing else came along with the venue fee. We had to rent a bathroom trailer, tables, chairs, and we had to pay for all of the staff from a different vendor. But I saw our venue two years ago and knew I wanted to get married there. It's a beautiful space and I can't wait to see how it looks on our wedding day.
 
-Here are the areas where we saved some money and I feel really good about it:
+Here are the areas where we *saved* some money and I feel really good about it:
 
 * **DJ.** We're actually not hiring a DJ. We are making our own playlists and we hired an audio engineer who will run the sound system for the day.
 
