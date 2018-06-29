@@ -32,7 +32,7 @@ My guilt hasn't been too high on this end. However, buying a home was probably t
 
 The real spending drama came when we started construction on our home renovations. We had a big job that included knocking down walls and rebuilding new ones. We found a contractor we liked a lot and ended up adding a bunch of work to the project just to get it over with faster. That was a mistake! We ended up overspending on shoddy work and feeling really foolish about our decisions. In fact, I had a hard time talking about how much we spent on new counters and railings, because I wasn't happy with how they turned out, and I felt we were taken advantage of.
 
-That was definitely a learning experience, because we are much more careful with our contractor spending and home renovations now. We are choosing individual projects at a time and getting at least 3 quotes before moving forward. 
+That was definitely a learning experience, because we are much more careful with our contractor spending and home renovations now. We are choosing individual projects at a time and getting at least 3 quotes before moving forward.
 
 ## My Wedding
 
@@ -61,5 +61,7 @@ Here are the areas where we spent more than I wanted to, and am still annoyed ab
 * **One vendor.** This vendor was who we were originally looking at for catering. They are a one-stop shop for weddings and it seemed like it would be much easier to just hire them to handle everything, rather than having multiple vendors. And it would have definitely been easier! But it would have also been way more expensive. The original quote they gave us was nearly the entire amount we're paying for the wedding. And that quote didn't include pizza! We decided not to use them for food and booze, but we ended up having to hire them for a few other items: bathroom trailer, tables, chairs, linens, bartenders, day-of-coordinator, etc. I think their staff will help the day to move more smoothly, but I'm still frustrated by how much we're paying in "operations fees".
 
 * **Invitations.** When Dan first told me we'd probably spend $400 on invitations, I had a fit. I couldn't believe that something so small could cost so much. Of course, Dan is a graphic designer and has made wedding invitations in the past, so he knows better than me. But I thought that having him design our invitations would mean that we would save some money! But the truth is, printing is expensive. And printing gold foil on thick paper is even more expensive (did I mention Dan is a designer?). So we'll likely spend around $400 on our invitations, after all. I'm not pleased about it, but I've accepted it at this point (for the most part).
+
+So why did I tell you all of this? Well first of all, I needed to write about it. But I also wanted to let you know that it's normal to be freaked out about spending money, even if 
 
 *When have you felt guilty or conflicted about spending money you've saved up? Did you end up changing your plans? Share in the comments!*
