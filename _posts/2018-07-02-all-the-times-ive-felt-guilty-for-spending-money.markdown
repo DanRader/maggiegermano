@@ -1,6 +1,7 @@
 ---
 title: All the Times I've Felt Guilty for Spending Money
 date: 2018-07-02 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 image: "/uploads/dollars.jpg"
@@ -54,18 +55,18 @@ Here are the areas where we spent more than I wanted to, but will actually turn 
 
 Here are the areas where we *saved* some money and I feel really good about it:
 
-* **DJ.** We're actually not hiring a DJ. We are making our own playlists and we hired an audio engineer who will run the sound system for the day.
+* **DJ.** We're actually not hiring a DJ. We are making our own Spotify playlists and we hired an audio engineer who will run the sound system for the day. We're also having our good friend, Liz, emcee the reception for us.
 
 * **Booze.** We had to overspend a bit on wine because we were required to purchase wine from the venue (they're a vineyard), and their wine is more expensive than the three-buck chuck I would have gotten from Trader Joe's. But we're making up for this by buying our own cases of beer. We're going to try to only buy local beer, but this will still be more affordable than having our vendor provide the booze.
 
-* **Wedding dress and shoes.** I've written about this before, but my wedding dress cost less than $250. (Plus, my mom paid for it.) I don't often spend a lot on my clothes, so I felt strongly about not spending a lot on my wedding dress. I also really wanted something very simple that I felt like myself in. I found the perfect dress from BHLDN and it was even cheaper than I expected! To top it off, Dan and I both bought our wedding shoes from Poshmark.
+* **Wedding dress and shoes.** I've written about this before, but my wedding dress cost less than $250. (Plus, my mom paid for it.) I don't often spend a lot on my clothes, so I felt strongly about not spending a lot on my wedding dress. I also really wanted something very simple that I felt like myself in. I found the perfect dress from [BHLDN](https://www.bhldn.com/) and it was even cheaper than I expected! To top it off, Dan and I both bought our wedding shoes from [Poshmark](http://www.poshmark.com). (Use my code **maggermano** for a $5 credit when you sign up!)
 
-Here are the areas where we spent more than I wanted to, and am still annoyed about it:
+Here are the areas where we spent more than I wanted to, and I'm still annoyed about it:
 
-* **One vendor.** This vendor was who we were originally looking at for catering. They are a one-stop shop for weddings and it seemed like it would be much easier to just hire them to handle everything, rather than having multiple vendors. And it would have definitely been easier! But it would have also been way more expensive. The original quote they gave us was nearly the entire amount we're paying for the wedding. And that quote didn't include pizza! We decided not to use them for food and booze, but we ended up having to hire them for a few other items: bathroom trailer, tables, chairs, linens, bartenders, day-of-coordinator, etc. I think their staff will help the day to move more smoothly, but I'm still frustrated by how much we're paying in "operations fees".
+* **One vendor.** This vendor was who we were originally looking at for catering. They are a one-stop shop for weddings and it seemed like it would be much easier to just hire them to handle everything, rather than having multiple vendors. And it would have definitely been easier! But it would have also been way more expensive. The original quote they gave us for food and drink alone was nearly the entire amount we're paying for the wedding. We decided not to use them for food and booze, but we ended up having to hire them for a few other items: bathroom trailer, tables, chairs, linens, bartenders, day-of-coordinator, etc. I think their staff will help the day to move more smoothly, but I'm still frustrated by how much we're paying in "operations fees".
 
-* **Invitations.** When Dan first told me we'd probably spend $400 on invitations, I had a fit. I couldn't believe that something so small could cost so much. Of course, Dan is a graphic designer and has made wedding invitations in the past, so he knows better than me. But I thought that having him design our invitations would mean that we would save some money! But the truth is, printing is expensive. And printing gold foil on thick paper is even more expensive (did I mention Dan is a designer?). So we'll likely spend around $400 on our invitations, after all. I'm not pleased about it, but I've accepted it at this point (for the most part).
+* **Invitations.** When Dan first told me we'd probably spend $400 on invitations, I had a fit. I couldn't believe that something so small could cost so much. Of course, Dan is a graphic designer and has made wedding invitations in the past, so he knows better than I do. But I thought that having him design our invitations would mean that we would save some money! But the truth is, printing is expensive. And printing gold foil on thick paper is even more expensive (did I mention Dan is a designer?). So we'll likely spend around $400 on our invitations, after all. I'm not pleased about it, but I've accepted it at this point (for the most part).
 
-So why did I tell you all of this? Well first of all, I needed to write about it for catharsis. But I also wanted to let you know that it's normal to be freaked out about spending money, even if you've planned and saved for it. It's okay to have conflicting emotions when you're making big decisions. 
+So why did I tell you all of this? Well, first of all, I needed to write about it for catharsis. But I also wanted to let you know that it's normal to be freaked out about spending money, even if you've planned and saved for it. It's okay to have conflicting emotions when you're making big decisions. And you'll probably find yourself in situations where you have competing values. It's okay! You just have to decide which value is more important in that instant. For me, it's having a wedding day that we'll love, while still not going into debt.
 
 *When have you felt guilty or conflicted about spending money you've saved up? Did you end up changing your plans? Share in the comments!*
