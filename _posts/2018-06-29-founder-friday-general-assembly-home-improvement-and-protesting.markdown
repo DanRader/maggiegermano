@@ -1,7 +1,6 @@
 ---
-title: Founder Friday | General Assembly, Home Improvement, and Community
+title: Founder Friday | General Assembly, Home Improvement, and Protesting
 date: 2018-06-29 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 image: "/uploads/construction.jpg"
