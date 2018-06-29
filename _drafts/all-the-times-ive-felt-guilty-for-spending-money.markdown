@@ -46,9 +46,9 @@ But having enough to spend on our wedding didn't take away the intense shame and
 
 Here are the areas where we spent more than I wanted to, but will actually turn out great:
 
-* **Our photographer.** She's amazing and we have great chemistry with her. It took some convincing, but now I realize that spending a lot on photography will be worth it.
+* **Our photographer.** She's amazing and we have great chemistry with her. It took some convincing, but now I realize that spending a lot on photography will be worth it. I can't wait to see how our wedding photos turn out.
 
-* **Our florist.** Do you know how many times I said "we don't even need centerpieces!"? I said it a lot. We're spending more than double what I wanted to spend on flowers. But I didn't want to be up late the night before my wedding finishing up the centerpieces. So we hired a florist who is associated with our venue and who grows many of their own flowers. They value sustainability and authenticity. They seemed to really vibe with our wedding day vision, and I think the flowers will turn out beautifully. Plus, we definitely cut some costs here, as the bridesmaids will not carry bouquets.
+* **Our florist.** Do you know how many times I said "we don't even need centerpieces!"? I said it a lot. We're spending more than double what I wanted to spend on flowers. But I also didn't want to be up late the night before my wedding finishing up the centerpieces and bouquets. So we hired a florist who is associated with our venue and who grows many of their flowers themselves. They value sustainability and authenticity. They seemed to really vibe with our wedding day vision, and I think the flowers will turn out beautifully. Plus, we definitely cut some costs here, as the bridesmaids will not carry bouquets.
 
 * **Our venue.** When we first booked our venue, I felt really good about the price. This was because I was completely naive about everything else we needed to pay for. I also wasn't fully aware that almost nothing came with the venue fee. We had to rent a bathroom trailer, tables, chairs, and we had to pay for all of the staff from a different vendor.
 
