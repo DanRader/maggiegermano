@@ -12,3 +12,8 @@ posts:
 - The Difference Between Your Credit Score and Your Credit Report
 ---
 
+## When You Might Want to Get a Personal Loan
+
+## When You Don't Want to Get a Personal Loan
+
+## What Might Stop You from Getting a Personal Loan
