@@ -27,7 +27,7 @@ It's important to know that unemployment benefits do not completely replace the 
 
 * You were on contract at your job and the contract ended.
 
-* x
+* You're actively applying for new jobs. You're required to prove that you've been job searching while you're on unemployment benefits. 
 
 ## When Are You Not Eligible for Unemployment?
 
