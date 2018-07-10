@@ -7,4 +7,16 @@ categories:
 image: "/uploads/laptop-acf67b.jpg"
 ---
 
-A few months ago, I was talking to a friend who had recently been laid off from her job. She was stressed, frustrated, shocking, and scared. On top of the pressure of looking for a new job, she was also worried about applying for unemployment. She was worried that filing for unemployment would negatively affect her credit score. 
+A few months ago, I was talking to a friend who had recently been laid off from her job. She was stressed, frustrated, shocking, and scared. On top of the pressure of looking for a new job, she was also worried about applying for unemployment. She was worried that filing for unemployment would negatively affect her credit score. My immediate reaction was that there was no way utilizing unemployment benefits could hurt your credit score. But at the same time, I wasn't completely sure. I had never heard of that idea. So I decided to look into it and share my findings with you!
+
+## What is Unemployment?
+
+## When Are You Eligible for Unemployment?
+
+## When Are You Not Eligible for Unemployment?
+
+## How Can You File for Unemployment?
+
+## Does Unemployment Actually Affect Your Credit Score?
+
+No! If you file for unemployment, it will not show up on your credit report and therefore will not impact your credit in any way.
