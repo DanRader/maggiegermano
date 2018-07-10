@@ -30,11 +30,17 @@ Full disclosure: I had never heard of a personal loan until I started coaching w
 
 * A low credit score.
 
-* Debt to income ratio. 
+* Debt to income ratio.
 
 ## Questions You Want to Ask Personal Loan Companies
 
-* 
+* Is the interest rate fixed?
+
+* Is there an origination fee?
+
+* If there is an origination fee, how much is it?
+
+* Is there a penalty for early payoff? 
 
 ## Companies That Offer Personal Loans
 
