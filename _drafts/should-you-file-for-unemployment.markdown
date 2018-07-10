@@ -45,6 +45,6 @@ It's important to know that unemployment benefits do not completely replace the 
 
 ## Does Unemployment Actually Affect Your Credit Score?
 
-No! If you file for unemployment, it will not show up on your credit report and therefore will not impact your credit in any way. If you need financial support while you're looking for a new job, you should absolutely take advantage of unemployment benefits. That's what they are here for! Don't let your fears about your credit score stop you, because your credit score will be fine as long as you're paying your bills. 
+No! If you file for unemployment, it will not show up on your credit report and therefore will not impact your credit in any way. If you need financial support while you're looking for a new job, you should absolutely take advantage of unemployment benefits. That's what they are here for! Don't let your fears about your credit score stop you, because your credit score will be fine as long as you're paying your bills. And don't let shame or judgment stop you either. We live in a society, and unexpected things happen all the time. There is no shame in accepting the help that is available to you.
 
 However, actually being unemployed *can* ultimately impact your credit score. This happens if you are unable to pay your bills and missed payments are reported to the credit bureaus. Situations like this are why it's so incredibly important to have an [emergency fund](https://www.maggiegermano.com/blog/you-need-an-emergency-fund) to protect you and cover your bills.
