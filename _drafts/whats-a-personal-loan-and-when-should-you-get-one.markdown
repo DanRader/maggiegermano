@@ -16,8 +16,16 @@ Full disclosure: I had never heard of a personal loan until I started coaching w
 
 ## When You Might Want to Get a Personal Loan
 
+* You're struggling to make your credit card payments each month.
+
+* Your credit card interest rates are sky-high.
+
 ## When You Don't Want to Get a Personal Loan
 
-* 
+* You're going to continue using credit cards after you pay off your debt with a loan.
+
+* x
 
 ## What Might Stop You from Getting a Personal Loan
+
+* x
