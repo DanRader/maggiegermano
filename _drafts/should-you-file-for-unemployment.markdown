@@ -19,11 +19,19 @@ A few months ago, I was talking to a friend who had recently been laid off from 
 
 ## When Are You Eligible for Unemployment?
 
+* You were laid off from your job.
+
+* You were on contract at your job and the contract ended.
+
+* x
+
 ## When Are You Not Eligible for Unemployment?
 
 * If you quit your job. However, if you can prove that you quit your job due to employer misconduct or mistreatment, you may still be eligible for unemployment benefits.
 
 * If you were fired for cause. This means you broke company rules or committed a crime, so you were fired for it. Basically, this  means it's your fault you're unemployed.
+
+* You didn't work long enough at your place of work.
 
 ## How Can You File for Unemployment?
 
