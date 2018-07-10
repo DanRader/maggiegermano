@@ -31,3 +31,13 @@ Full disclosure: I had never heard of a personal loan until I started coaching w
 * A low credit score.
 
 * Debt to income ratio. 
+
+## Questions You Want to Ask Personal Loan Companies
+
+* 
+
+## Companies That Offer Personal Loans
+
+* Sofi
+
+* Upstart
