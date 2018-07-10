@@ -21,8 +21,14 @@ A few months ago, I was talking to a friend who had recently been laid off from 
 
 ## When Are You Not Eligible for Unemployment?
 
+* If you quit your job. However, if you can prove that you quit your job due to employer misconduct or mistreatment, you may still be eligible for unemployment benefits.
+
+* If you were fired for cause. This means you broke company rules or committed a crime, so you were fired for it. Basically, this  means it's your fault you're unemployed.
+
 ## How Can You File for Unemployment?
 
 ## Does Unemployment Actually Affect Your Credit Score?
 
 No! If you file for unemployment, it will not show up on your credit report and therefore will not impact your credit in any way.
+
+However, actually being unemployed *can* ultimately impact your credit score. This happens if you are unable to pay your bills and missed payments are reported to the credit bureaus. Situations like this are why it's so incredibly important to have an [emergency fund](https://www.maggiegermano.com/blog/you-need-an-emergency-fund) to protect you and cover your bills. 
