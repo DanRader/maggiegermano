@@ -19,7 +19,7 @@ A few months ago, I was talking to a friend who had recently been laid off from 
 
 Unemployment benefits are benefits from the government that protect you if you unexpectedly lose your job.
 
-It's important to know that unemployment benefits do not completely replace the salary you were earning. In fact, this income is only a fraction of the amount you were making at your most recent job. It likely won't sustain you for long, but it's a good safety net in the short-term. 
+It's important to know that unemployment benefits do not completely replace the salary you were earning. In fact, this income is only a fraction of the amount you were making at your most recent job. It likely won't sustain you for long, but it's a good safety net in the short-term.
 
 ## When Are You Eligible for Unemployment?
 
@@ -37,10 +37,12 @@ It's important to know that unemployment benefits do not completely replace the 
 
 * You didn't work long enough at your place of work.
 
+* You're still getting paid. Sometimes you'll get a severance package or get paid out for your vacation days. You can't file for unemployment until after you're no longer being compensated by your now former employer.
+
 ## How Can You File for Unemployment?
 
 ## Does Unemployment Actually Affect Your Credit Score?
 
 No! If you file for unemployment, it will not show up on your credit report and therefore will not impact your credit in any way.
 
-However, actually being unemployed *can* ultimately impact your credit score. This happens if you are unable to pay your bills and missed payments are reported to the credit bureaus. Situations like this are why it's so incredibly important to have an [emergency fund](https://www.maggiegermano.com/blog/you-need-an-emergency-fund) to protect you and cover your bills. 
+However, actually being unemployed *can* ultimately impact your credit score. This happens if you are unable to pay your bills and missed payments are reported to the credit bureaus. Situations like this are why it's so incredibly important to have an [emergency fund](https://www.maggiegermano.com/blog/you-need-an-emergency-fund) to protect you and cover your bills.
