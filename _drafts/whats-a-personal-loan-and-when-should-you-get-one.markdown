@@ -28,4 +28,6 @@ Full disclosure: I had never heard of a personal loan until I started coaching w
 
 ## What Might Stop You from Getting a Personal Loan
 
-* x
+* A low credit score.
+
+* Debt to income ratio. 
