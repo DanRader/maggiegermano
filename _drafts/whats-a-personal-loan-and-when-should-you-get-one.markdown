@@ -44,10 +44,16 @@ x
 
 * If there is an origination fee, how much is it?
 
-* Is there a penalty for early payoff? 
+* Is there a penalty for early payoff?
 
 ## Companies That Offer Personal Loans
 
 * Sofi
 
 * Upstart
+
+* Prosper
+
+* Payoff
+
+* Best Egg
