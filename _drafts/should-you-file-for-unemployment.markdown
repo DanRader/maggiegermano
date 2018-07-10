@@ -17,6 +17,10 @@ A few months ago, I was talking to a friend who had recently been laid off from 
 
 ## What is Unemployment?
 
+Unemployment benefits are benefits from the government that protect you if you unexpectedly lose your job.
+
+It's important to know that unemployment benefits do not completely replace the salary you were earning. In fact, this income is only a fraction of the amount you were making at your most recent job. It likely won't sustain you for long, but it's a good safety net in the short-term. 
+
 ## When Are You Eligible for Unemployment?
 
 * You were laid off from your job.
