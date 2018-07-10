@@ -26,3 +26,5 @@ A few months ago, I was talking to a friend who had recently been laid off from 
 ## Does Unemployment Actually Affect Your Credit Score?
 
 No! If you file for unemployment, it will not show up on your credit report and therefore will not impact your credit in any way.
+
+However, being unemployed can ultimately impact your credit score. This happens if you are unable to pay your bills and missed payments are reported to the credit bureaus. Situations like this are why it's so incredibly important to have an [emergency fund](https://www.maggiegermano.com/blog/you-need-an-emergency-fund) to protect you and cover your bills. 
