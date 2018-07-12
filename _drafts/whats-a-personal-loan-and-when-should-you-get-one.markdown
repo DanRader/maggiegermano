@@ -24,11 +24,15 @@ x
 
 * Your credit card interest rates are sky-high.
 
+* You want to consolidate your debt into one monthly payment.
+
 ## When You Don't Want to Get a Personal Loan
 
 * You're going to continue using credit cards after you pay off your debt with a loan.
 
-* x
+* You want to consolidate your car loan. Car loans typically have fantastic interest rates. You don't want to replace your car loan with a personal loan, because you'll likely increase what you're paying in interest.
+
+* You want a loan to pay for a wedding. 
 
 ## What Might Stop You from Getting a Personal Loan
 
