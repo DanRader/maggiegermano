@@ -28,7 +28,7 @@ Happy Friday!
 
 ## **What I’m Writing**
 
-xx
+This week, I revisited the topic of weddings. But this time, I talked about how  you can stay on budget while you're a wedding guest. [Check it out](https://www.maggiegermano.com/blog/how-to-stay-on-budget-while-all-your-friends-get-married/)!
 
 ## **What I’m Excited About**
 
