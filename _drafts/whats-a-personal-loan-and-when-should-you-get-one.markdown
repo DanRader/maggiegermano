@@ -50,7 +50,7 @@ x
 
 * **Is there an origination fee?** Many companies charge a fee for simply giving you to loan. That can add a large amount to your debt, so find out.
 
-* If there is an origination fee, how much is it?
+* **If there is an origination fee, how much is it?** The origination fee is often a percentage of the loan amount. If the company you're looking at charges a fee like this, find out how much it will cost you.
 
 * **Is there a penalty for early payoff?** This is very important. Some lenders don't want you to pay off your debt early, because they won't earn as much interest off of you. They can discourage you from paying off your debt early by charging fees for it. Make sure you choose a lender that won't penalize you for getting out of debt ahead of schedule.
 
