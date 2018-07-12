@@ -1,12 +1,13 @@
 ---
 title: Founder Friday | Beer, Curtains, and Biz Development
 date: 2018-07-13 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/dream.jpg"
 ---
 
-Happy Friday!
+Happy Friday! I hope you've stayed cool this week. Here's what I was up to!
 
 ## **How I Earned Money This Week**
 
@@ -29,10 +30,6 @@ Happy Friday!
 ## **What I’m Writing**
 
 This week, I revisited the topic of weddings. But this time, I talked about how  you can stay on budget while you're a wedding guest. [Check it out](https://www.maggiegermano.com/blog/how-to-stay-on-budget-while-all-your-friends-get-married/)!
-
-## **What I’m Excited About**
-
-* x
 
 ## **What I’m Up To**
 
