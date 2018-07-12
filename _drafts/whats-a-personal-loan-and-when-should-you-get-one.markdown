@@ -34,9 +34,9 @@ Many people use personal loans in order to consolidate credit card debt and make
 
 * You're going to continue using credit cards after you pay off your debt with a loan.
 
-* **You want to consolidate your car loan.** Car loans typically have fantastic interest rates. You don't want to replace your car loan with a personal loan, because you'll likely increase what you're paying in interest.
+* You want to consolidate your car loan. Car loans typically have fantastic interest rates. You don't want to replace your car loan with a personal loan, because you'll likely increase what you're paying in interest.
 
-* **You want a loan to pay for a wedding.** I highly recommend against taking out a loan to pay for your wedding. 
+* You want a loan to pay for a wedding. I highly recommend against taking out a loan to pay for your wedding. 
 
 ## What Might Stop You from Getting a Personal Loan
 
