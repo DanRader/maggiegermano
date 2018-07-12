@@ -18,9 +18,9 @@ Full disclosure: I had never heard of a personal loan until I started coaching w
 
 ## What is a Personal Loan?
 
-A personal loan is money borrowed from a bank, credit union, or online lender. This type of loan has a set monthly payment that you pay over the course of a determined number of years. The interest rates can range anywhere from 5 to 35 percent. You can usually use personal loan money for anything you want. 
+A personal loan is money borrowed from a bank, credit union, or online lender. This type of loan has a set monthly payment that you pay over the course of a determined number of years. The interest rates can range anywhere from 5 to 35 percent. You can usually use personal loan money for anything you want.
 
-Many people use personal loans in order to consolidate credit card debt and make lower, fixed monthly payments. I've written about [loan consolidation](https://www.maggiegermano.com/blog/what-are-your-options-for-debt-consolidation/) in the past
+Many people use personal loans in order to consolidate credit card debt and make lower, fixed monthly payments. I've written about [loan consolidation](https://www.maggiegermano.com/blog/what-are-your-options-for-debt-consolidation/) in the past. 
 
 ## When You Might Want to Get a Personal Loan
 
@@ -30,7 +30,7 @@ Many people use personal loans in order to consolidate credit card debt and make
 
 * You want to consolidate your debt into one monthly payment.
 
-* You're ready to get out of credit card debt. 
+* You're ready to get out of credit card debt.
 
 ## When You Probably Don't Want to Get a Personal Loan
 
@@ -38,7 +38,7 @@ Many people use personal loans in order to consolidate credit card debt and make
 
 * You want to consolidate your car loan. Car loans typically have fantastic interest rates. You don't want to replace your car loan with a personal loan, because you'll likely increase what you're paying in interest.
 
-* You want a loan to pay for a wedding. I highly recommend against taking out a loan to pay for your wedding. 
+* You want a loan to pay for a wedding. I highly recommend against taking out a loan to pay for your wedding.
 
 ## What May Stop You from Getting a Personal Loan
 
@@ -72,8 +72,8 @@ Many people use personal loans in order to consolidate credit card debt and make
 
 * [Best Egg](https://www.bestegg.com/)
 
-Make sure to also talk to your bank to see if they have better offers. And never make a decision unless you feel comfortable and confident that it will put you in a better place than where you are now. 
+Make sure to also talk to your bank to see if they have better offers. And never make a decision unless you feel comfortable and confident that it will put you in a better place than where you are now.
 
-It's also important to remember that getting a personal loan will not solve all of your problems! If you use a personal loan to consolidate your credit cards, you have to make sure to stop using your credit cards. Otherwise, you'll end up with a personal loan to pay back and more additional debt. It's a dangerous cycle to get into, so your priority should be to change your habits to prevent overspending. If you do successfully pay off your debt, make sure you take the [right steps](https://www.maggiegermano.com/blog/what-you-should-do-after-paying-off-debt/) afterwards. 
+It's also important to remember that getting a personal loan will not solve all of your problems! If you use a personal loan to consolidate your credit cards, you have to make sure to stop using your credit cards. Otherwise, you'll end up with a personal loan to pay back and more additional debt. It's a dangerous cycle to get into, so your priority should be to change your habits to prevent overspending. If you do successfully pay off your debt, make sure you take the [right steps](https://www.maggiegermano.com/blog/what-you-should-do-after-paying-off-debt/) afterwards.
 
 *Do you think you could benefit from financial coaching, so you can make lasting, positive changes in your life? [Let's talk!](https://www.maggiegermano.com/coaching/)*
