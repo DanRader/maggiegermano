@@ -35,7 +35,7 @@ Another thing to look for is whether or not the loan provider charges penalties 
 
 I'm sure you've seen many credit cards out there that offer balance transfers for 0% interest for a period of time. These cards allow you to transfer the balances from other credit cards to just one card that doesn't charge interest for the introductory period. This can be a great way to save on big interest fees that you are paying on your existing credit cards. It's also a nice way to simplify your bills so you only have to focus on paying down one card each month.
 
-One downside of this option is that there is usually an origination fee for your balance transfer. That means that you are charged a lump sum that equals a small percentage of the debt you're transferring. Depending on the amount of debt, that sum can be a lot of money. Plus, once the introductory period is over, the interest rate will go way up. That means if you don't pay off your debt during that initial period, you will have to start paying interest on it again later. 
+One downside of this option is that there is usually an origination fee for your balance transfer. That means that you are charged a lump sum that equals a small percentage of the debt you're transferring. Depending on the amount of debt, that sum can be a lot of money. Plus, once the introductory period is over, the interest rate will go way up. That means if you don't pay off your debt during that initial period, you will have to start paying interest on it again later.
 
 Make sure you don't add any new spending to the card you've transferred your balances to. You want to make sure you only need to pay back the amount you transferred, not any additional debt. It's also important to stop using the credit cards you already had. You don't want to get stuck in a pattern of transferring your debt over and over and never seeing the end.
 
@@ -57,7 +57,7 @@ Of course, it's important to remember that you're borrowing money against your o
 
 In this scenario, you work with a third party, a credit counseling organization, that handles the debt consolidation for you. With this option, all of your credit cards are closed and you pay one monthly payment to the organization, which then pays the money to the creditors you owe.
 
-This is a good option for you if you really struggle with overspending and have a hard time getting and staying out of debt. It also simplifies your debt into one standard payment over a set amount of time. 
+This is a good option for you if you really struggle with overspending and have a hard time getting and staying out of debt. It also simplifies your debt into one standard payment over a set amount of time.
 
 A potential downside of this option is that your credit card accounts are closed. This can hurt your credit score if you're closing accounts you've had for a long time. But it might end up being more helpful to your credit down the line if it helps you pay off your debt and stay out of it.
 
@@ -67,11 +67,11 @@ A potential downside of this option is that your credit card accounts are closed
 
 I would consider this your *absolutely last resort*. You should leave your retirement savings alone at all costs. However, it is an option for consolidation if you really need it. Basically, you take a loan from your retirement account to pay off existing debt. Different employers have different rules, but typically
 
-You can borrow up to $50,000, or half the balance in your account, whichever is less, from a 401k or similar plan like a 403b. You then gradually repay the money, plus interest, to your own account. One upside is that you're paying the interest back to yourself, rather than to a company. 
+You can borrow up to $50,000, or half the balance in your account, whichever is less, from a 401k or similar plan like a 403b. You then gradually repay the money, plus interest, to your own account. One upside is that you're paying the interest back to yourself, rather than to a company.
 
-A big downside is that if you left your employer for a new job, you'd have to pay back the amount you owe right away. And if you are unable to pay the money back, at any point, you'll be taxed and penalized as if you've withdrawn your retirement money before retirement age. This can cost you a heck of a lot more money than the original loan. 
+A big downside is that if you left your employer for a new job, you'd have to pay back the amount you owe right away. And if you are unable to pay the money back, at any point, you'll be taxed and penalized as if you've withdrawn your retirement money before retirement age. This can cost you a heck of a lot more money than the original loan.
 
-And more importantly (in my opinion), this option can set you back in your retirement savings. According to Fidelity, 20% of people who take out a 401k loan decrease their retirement contributions, and 15% of people stop their contributions completely within five years of taking out the loan. Plus, when your money is out of the stock market, you're losing out on growth potential. This can really hurt you when you get to retirement age. 
+And more importantly (in my opinion), this option can set you back in your retirement savings. According to Fidelity, 20% of people who take out a 401k loan decrease their retirement contributions, and 15% of people stop their contributions completely within five years of taking out the loan. Plus, when your money is out of the stock market, you're losing out on growth potential. This can really hurt you when you get to retirement age.
 
 *For more information about 401k loans, [check out this article](https://www.fidelity.com/viewpoints/financial-basics/avoiding-401k-loans).*
 
@@ -80,5 +80,3 @@ It's important to remember that debt consolidation does not mean your debt is go
 --
 
 **Want to feel less alone in your debt journey?** [Come to Money Circle this Wednesday, April 25th](https://www.maggiegermano.com/events/how-to-deal-with-credit-card-debt/)! We'll be gathering to talk about our experiences with credit card debt, and you'll walk away with tips for how to start wrangling your debt.
-
-<script src="https://embeds.nerdwallet.com/embed.js" data-id="457628" data-utm_campaign="ln_prod_457628"></script>
