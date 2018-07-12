@@ -8,7 +8,7 @@ image: "/uploads/money-fe73eb.jpg"
 tweet: What's a personal loan and should you get one?
 posts:
 - What Are Your Options for Debt Consolidation?
-- Why Credit Card Interest Sucks and What You Could Be Spending It On Instead
+- What You Should Do After Paying Off Debt
 - The Difference Between Your Credit Score and Your Credit Report
 ---
 
@@ -30,7 +30,7 @@ Many people use personal loans in order to consolidate credit card debt and make
 
 * You're ready to get out of credit card debt. 
 
-## When You Don't Want to Get a Personal Loan
+## When You Probably Don't Want to Get a Personal Loan
 
 * You're going to continue using credit cards after you pay off your debt with a loan.
 
@@ -38,7 +38,7 @@ Many people use personal loans in order to consolidate credit card debt and make
 
 * You want a loan to pay for a wedding. I highly recommend against taking out a loan to pay for your wedding. 
 
-## What Might Stop You from Getting a Personal Loan
+## What May Stop You from Getting a Personal Loan
 
 * A low credit score.
 
@@ -70,6 +70,8 @@ Many people use personal loans in order to consolidate credit card debt and make
 
 * [Best Egg](https://www.bestegg.com/)
 
-Make sure to also talk to your bank to see if they have better offers. And never make a decision unless you feel comfortable and confident that it will put you in a better place than where you are now. And it's important to remember that getting a personal loan will not solve all of your problems! If you use a personal loan to consolidate your credit cards, you have to make sure to stop using your credit cards. Otherwise, you'll end up with a personal loan to pay back and more additional debt. It's a dangerous cycle to get into, so your priority should be to change your habits to prevent overspending.
+Make sure to also talk to your bank to see if they have better offers. And never make a decision unless you feel comfortable and confident that it will put you in a better place than where you are now. 
+
+It's also important to remember that getting a personal loan will not solve all of your problems! If you use a personal loan to consolidate your credit cards, you have to make sure to stop using your credit cards. Otherwise, you'll end up with a personal loan to pay back and more additional debt. It's a dangerous cycle to get into, so your priority should be to change your habits to prevent overspending.
 
 *Do you think you could benefit from financial coaching, so you can make lasting, positive changes in your life? [Let's talk!](https://www.maggiegermano.com/coaching/) *
