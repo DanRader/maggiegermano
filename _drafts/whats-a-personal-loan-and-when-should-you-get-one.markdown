@@ -40,15 +40,19 @@ x
 
 * Debt to income ratio.
 
+* Low income.
+
+* Too large of a debt owed.
+
 ## Questions You Want to Ask Personal Loan Companies
 
-* Is the interest rate fixed?
+* **Is the interest rate fixed?** You want to make sure the interest rate won't change during the life of the loan.
 
-* Is there an origination fee?
+* **Is there an origination fee?** Many companies charge a fee for simply giving you to loan. That can add a large amount to your debt, so find out.
 
 * If there is an origination fee, how much is it?
 
-* Is there a penalty for early payoff?
+* **Is there a penalty for early payoff?** This is very important. Some lenders don't want you to pay off your debt early, because they won't earn as much interest off of you. They can discourage you from paying off your debt early by charging fees for it. Make sure you choose a lender that won't penalize you for getting out of debt ahead of schedule.
 
 ## Companies That Offer Personal Loans
 
