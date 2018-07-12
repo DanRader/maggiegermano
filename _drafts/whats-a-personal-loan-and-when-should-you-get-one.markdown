@@ -16,7 +16,7 @@ Full disclosure: I had never heard of a personal loan until I started coaching w
 
 ## What is a Personal Loan?
 
-You can usually use personal loan money for anything you want. 
+A personal loan is money borrowed from a bank, credit union, or online lender. You can usually use personal loan money for anything you want. 
 
 ## When You Might Want to Get a Personal Loan
 
@@ -54,7 +54,7 @@ You can usually use personal loan money for anything you want.
 
 * **Is there a penalty for early payoff?** This is very important. Some lenders don't want you to pay off your debt early, because they won't earn as much interest off of you. They can discourage you from paying off your debt early by charging fees for it. Make sure you choose a lender that won't penalize you for getting out of debt ahead of schedule.
 
-## Companies That Offer Personal Loans
+## Online Companies That Offer Personal Loans
 
 * [Sofi](https://www.sofi.com/)
 
