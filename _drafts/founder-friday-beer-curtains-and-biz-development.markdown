@@ -33,7 +33,7 @@ xx
 
 ## **What I’m Up To**
 
-* The **[July Money Circle meetup](https://www.maggiegermano.com/events/investing-101/)** is next Tuesday! We’re bringing in expert **[Claudia Russell](http://msengineeredwealth.com/)** to talk about investing basics. Get your ticket and I’ll see you on July 17th!
+* The [July Money Circle meetup](https://www.maggiegermano.com/events/investing-101/) is next Tuesday! We’re bringing in expert [Claudia Russell](http://msengineeredwealth.com/) to talk about investing basics. Get your ticket and I’ll see you on July 17th!
 
 ## **Money Tip to Take Into the Weekend**
 
