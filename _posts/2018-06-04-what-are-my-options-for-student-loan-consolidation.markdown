@@ -118,8 +118,6 @@ This is not a complete list. It's just a way to get you started on your research
 
 * https://www.credible.com/blog/refinance-student-loans/best-companies-to-refinance-and-consolidate-your-student-loans/
 
-* https://www.nerdwallet.com/refinancing-student-loans 
+* https://www.nerdwallet.com/refinancing-student-loans
 
 * https://studentloanhero.com/featured/direct-loan-consolidation-right-choice/
-
-<script src="https://embeds.nerdwallet.com/embed.js" data-id="429907" data-utm_campaign="sl_prod_429907"></script>
