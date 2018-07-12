@@ -67,3 +67,5 @@ Many people use personal loans in order to consolidate credit card debt and make
 * [Payoff](https://www.payoff.com/)
 
 * [Best Egg](https://www.bestegg.com/)
+
+Make sure to also talk to your bank to see if they have better offers. And never make a decision unless you feel comfortable and confident that it will put you in a better place than where you are now.
