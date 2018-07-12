@@ -28,6 +28,8 @@ Many people use personal loans in order to consolidate credit card debt and make
 
 * You want to consolidate your debt into one monthly payment.
 
+* You're ready to get out of credit card debt. 
+
 ## When You Don't Want to Get a Personal Loan
 
 * You're going to continue using credit cards after you pay off your debt with a loan.
