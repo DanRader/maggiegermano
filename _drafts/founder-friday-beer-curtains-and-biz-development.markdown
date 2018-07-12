@@ -3,6 +3,7 @@ title: Founder Friday | Beer, Curtains, and Biz Development
 date: 2018-07-13 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/dream.jpg"
 ---
 
 Happy Friday!
