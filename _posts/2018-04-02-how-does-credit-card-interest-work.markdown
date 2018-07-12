@@ -62,5 +62,3 @@ Have you been a good customer, paying your bills on time and never missing a pay
 * https://www.nerdwallet.com/blog/credit-cards/how-credit-card-interest-calculated/
 
 *Have you ever successfully had your interest rate lowered? Have you ever been shocked by the amount you were paying in interest? Share in the comments!*
-
-<script src="https://embeds.nerdwallet.com/embed.js" data-widget="find-a-credit-card" data-utm_campaign="cc_prod_find-a-credit-card"></script>
