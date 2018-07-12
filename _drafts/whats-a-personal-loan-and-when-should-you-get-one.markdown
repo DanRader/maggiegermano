@@ -16,7 +16,7 @@ Full disclosure: I had never heard of a personal loan until I started coaching w
 
 ## What is a Personal Loan?
 
-x
+You can usually use personal loan money for anything you want. 
 
 ## When You Might Want to Get a Personal Loan
 
