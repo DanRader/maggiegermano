@@ -66,7 +66,7 @@ It's really hard to make a plan or start saving if you don't know where you're s
 
 If you don't have enough left over to save for your goals, it's time to figure out where to cut back. Look at your spending habits around dining or Lyft. Those are the two areas that my clients tend to be really shocked by their spending. Track your spending for a month or two and see how much is going to areas like this. If you can cut back on that spending, you'll have a lot left to save.
 
-Of course, sometimes you're already living on a barebones budget, and there's nowhere to feasibly cut back. In that case, unfortunately, the only option is to bring in more money. Your options here are to either [ask for a raise](https://www.maggiegermano.com/blog/how-to-ask-for-a-raise/), [find a job that pays more](https://www.maggiegermano.com/blog/how-to-pick-a-salary-number-that-works-for-you/), or take on a part-time job or side hustle. 
+Of course, sometimes you're already living on a barebones budget, and there's nowhere to feasibly cut back. In that case, unfortunately, the only option is to bring in more money. Your options here are to either [ask for a raise](https://www.maggiegermano.com/blog/how-to-ask-for-a-raise/), [find a job that pays more](https://www.maggiegermano.com/blog/how-to-pick-a-salary-number-that-works-for-you/), or take on a part-time job or side hustle.
 
 **Ask Your Employer**
 
@@ -99,5 +99,3 @@ What are you going to prioritize for yourself? How do you plan to make it happen
 --
 
 *Have I inspired you to invest in your financial future? [Schedule a free discovery call](https://maggiegermanofinancialcoaching.as.me/discovery) with me! As a financial coach, I give women the support and tools they need to take control of their money.*
-
-<script src="https://embeds.nerdwallet.com/embed.js" data-widget="savings-accounts" data-utm_campaign="bk_prod_savings-accounts"></script>
