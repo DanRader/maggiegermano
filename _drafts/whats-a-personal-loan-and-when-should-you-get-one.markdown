@@ -48,12 +48,12 @@ x
 
 ## Companies That Offer Personal Loans
 
-* Sofi
+* [Sofi](https://www.sofi.com/)
 
-* Upstart
+* [Upstart](http://www.upstart.com)
 
-* Prosper
+* [Prosper](https://www.prosper.com/)
 
-* Payoff
+* [Payoff](https://www.payoff.com/)
 
-* Best Egg
+* [Best Egg](https://www.bestegg.com/)
