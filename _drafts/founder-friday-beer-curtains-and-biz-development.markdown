@@ -19,7 +19,7 @@ Happy Friday!
 
 * After the birthday party, Dan and I went to Target and bought a few sets of curtains. We bought sheer white curtains for the dining room, which already spruced up the space quite a bit. And we bought light gray blackout curtains for our bedroom. I don't know about you, but I need pitch dark at night, and I'm excited to hang these curtains!
 
-* I made a big investment in my business this week. I joined the [Signed](https://www.smartgetspaid.com/signed/) course with Leah Neaderthal so that I can grow my business and get more clients. We had our kickoff call on Tuesday and I'm so excited to see where this course helps me take my business!
+* I made a big investment in my business this week. I joined the [Signed](https://www.smartgetspaid.com/signed/) course with [Leah Neaderthal](https://www.smartgetspaid.com/about/) so that I can grow my business and get more clients. We had our kickoff call on Tuesday and I'm so excited to see where this course helps me take my business!
 
 * 
 
