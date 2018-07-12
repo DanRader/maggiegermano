@@ -30,9 +30,9 @@ x
 
 * You're going to continue using credit cards after you pay off your debt with a loan.
 
-* You want to consolidate your car loan. Car loans typically have fantastic interest rates. You don't want to replace your car loan with a personal loan, because you'll likely increase what you're paying in interest.
+* **You want to consolidate your car loan.** Car loans typically have fantastic interest rates. You don't want to replace your car loan with a personal loan, because you'll likely increase what you're paying in interest.
 
-* You want a loan to pay for a wedding. 
+* **You want a loan to pay for a wedding.** x
 
 ## What Might Stop You from Getting a Personal Loan
 
