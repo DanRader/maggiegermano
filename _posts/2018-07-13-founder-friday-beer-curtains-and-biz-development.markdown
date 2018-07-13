@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Beer, Curtains, and Biz Development
 date: 2018-07-13 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 image: "/uploads/dream.jpg"
@@ -23,7 +22,7 @@ Happy Friday! I hope you've stayed cool this week. Here's what I was up to!
 
 * I made a big investment in my business this week. I joined the [Signed](https://www.smartgetspaid.com/signed/) course with [Leah Neaderthal](https://www.smartgetspaid.com/about/) so that I can grow my business and get more clients. We had our kickoff call on Tuesday and I'm so excited to see where this course helps me take my business!
 
-* We finally gave in and bought a weed whacker for our yard. 
+* We finally gave in and bought a weed whacker for our yard.
 
 * We made some wedding purchases this week too. We bought envelopes and stamps, and officially ordered our invitations! We also paid for event insurance for our wedding, which will protect us and our vendor if anything happens at the wedding.
 
@@ -33,7 +32,7 @@ This week, I revisited the topic of weddings. But this time, I talked about how 
 
 ## **What I’m Up To**
 
-* The [July Money Circle meetup](https://www.maggiegermano.com/events/investing-101/) is next Tuesday! We’re bringing in expert [Claudia Russell](http://msengineeredwealth.com/) to talk about investing basics. We only have a few slots left, so get your ticket and I’ll see you on July 17th!
+* The [July Money Circle meetup](https://www.maggiegermano.com/events/investing-101/) is next Tuesday! We’re bringing in expert [Claudia Russell](http://msengineeredwealth.com/) to talk about investing basics. We are sold out (!!!), but you can add yourself to the waiting list in case anyone needs to back out.
 
 ## **Money Tip to Take Into the Weekend**
 
