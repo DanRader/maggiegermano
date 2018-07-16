@@ -1,6 +1,7 @@
 ---
 title: What's a Personal Loan and When Should You Get One?
 date: 2018-07-16 11:00:00 -04:00
+published: false
 categories:
 - debt
 - lifestyle
@@ -18,7 +19,7 @@ Full disclosure: I had never heard of a personal loan until I started coaching w
 
 ## What is a Personal Loan?
 
-A personal loan is money borrowed from a bank, credit union, or online lender. This type of loan has a set monthly payment that you pay over the course of a determined number of years. The interest rates can range anywhere from 5 to 35 percent. You can usually use personal loan money for anything you want it for.
+A personal loan is money borrowed from a bank, credit union, or online lender. This type of loan has a set monthly payment that you pay over the course of a determined number of years. The interest rates can range anywhere from 5 to 35 percent. You can usually use personal loan money for anything you want it for. Another important point about personal loans is that they are unsecured. This means that there is no collateral put up in order to get the loan, unlike something like a home equity loan. 
 
 Many people use personal loans in order to consolidate credit card debt and make lower, fixed monthly payments within a specific time frame. This can help provide a light at the end of the tunnel for those with large amounts of credit card debt, because they aren't constantly accruing more interest and feeling like they will never pay off their debt. 
 
@@ -40,7 +41,7 @@ Many people use personal loans in order to consolidate credit card debt and make
 
 * You want to consolidate your car loan. Car loans typically have fantastic interest rates. You don't want to replace your car loan with a personal loan, because you'll likely increase what you're paying in interest.
 
-* You want a loan to pay for a wedding. I highly recommend against taking out a loan to pay for your wedding.
+* You want a loan to pay for a wedding. I highly recommend against taking out a loan to pay for your wedding. If you can't afford to pay for a wedding, you should delay in order to save up or get married now and have a wedding later when you can pay for it.
 
 ## What May Stop You from Getting a Personal Loan
 
@@ -56,9 +57,9 @@ Many people use personal loans in order to consolidate credit card debt and make
 
 * **Is the interest rate fixed?** You want to make sure the interest rate won't change during the life of the loan.
 
-* **Is there an origination fee?** Many companies charge a fee for simply giving you to loan. That can add a large amount to your debt, so find out.
+* **Is there an origination fee?** Many companies charge a fee for simply giving you to loan. That can add a large amount to your debt, so find out up front.
 
-* **If there is an origination fee, how much is it?** The origination fee is often a percentage of the loan amount. If the company you're looking at charges a fee like this, find out how much it will cost you.
+* **If there is an origination fee, how much is it?** The origination fee is often a percentage of the loan amount. If the company you're looking at charges a fee like this, find out how much it will cost you, and decide if it's worth it.
 
 * **Is there a penalty for early payoff?** This is very important. Some lenders don't want you to pay off your debt early, because they won't earn as much interest off of you. They can discourage you from paying off your debt early by charging fees for it. Make sure you choose a lender that won't penalize you for getting out of debt ahead of schedule.
 
@@ -76,6 +77,6 @@ Many people use personal loans in order to consolidate credit card debt and make
 
 Make sure to also talk to your bank to see if they have better offers. And never make a decision unless you feel comfortable and confident that it will put you in a better place than where you are now.
 
-It's also important to remember that getting a personal loan will not solve all of your problems! If you use a personal loan to consolidate your credit cards, you have to make sure to stop using your credit cards. Otherwise, you'll end up with a personal loan to pay back and more additional debt. It's a dangerous cycle to get into, so your priority should be to change your habits to prevent overspending. If you do successfully pay off your debt, make sure you take the [right steps](https://www.maggiegermano.com/blog/what-you-should-do-after-paying-off-debt/) afterwards.
+It's also important to remember that getting a personal loan will not solve all of your problems! If you use a personal loan to consolidate your credit cards, you have to make sure to stop using your credit cards. Otherwise, you'll end up with a personal loan to pay back and then accrue more debt later. It's a dangerous cycle to get into, so your priority should be to change your habits to prevent overspending. If you do successfully pay off your debt, make sure you take the [right steps](https://www.maggiegermano.com/blog/what-you-should-do-after-paying-off-debt/) afterwards.
 
 *Do you think you could benefit from financial coaching, so you can make lasting, positive changes in your life? [Let's talk!](https://www.maggiegermano.com/coaching/)*
