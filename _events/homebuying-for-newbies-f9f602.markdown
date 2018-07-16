@@ -2,6 +2,7 @@
 title: Homebuying for Newbies
 date: 2018-07-16 12:54:00 -04:00
 published: false
+image: "/uploads/homes.jpg"
 og-image: "/uploads/Money%20Circle%20Photos%20(10).png"
 start-time: 6:30 PM
 end-time: 8:30 PM
