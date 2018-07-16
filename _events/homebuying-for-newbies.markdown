@@ -1,11 +1,13 @@
 ---
 title: Homebuying for Newbies
-date: 2018-07-16 12:54:00 -04:00
+date: 2018-08-14 18:30:00 -04:00
 published: false
 image: "/uploads/homes.jpg"
 og-image: "/uploads/Money%20Circle%20Photos%20(10).png"
+event-date: 2018-08-14 18:30:00 -04:00
 start-time: 6:30 PM
 end-time: 8:30 PM
+location: Private Eastern Market Residence (Provided upon RSVP)
 button-text: Sign Me Up!
 ticket-price: "$20"
 ---
