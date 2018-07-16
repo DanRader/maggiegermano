@@ -20,7 +20,9 @@ Full disclosure: I had never heard of a personal loan until I started coaching w
 
 A personal loan is money borrowed from a bank, credit union, or online lender. This type of loan has a set monthly payment that you pay over the course of a determined number of years. The interest rates can range anywhere from 5 to 35 percent. You can usually use personal loan money for anything you want it for.
 
-Many people use personal loans in order to consolidate credit card debt and make lower, fixed monthly payments within a specific time frame. This can help provide a light at the end of the tunnel for those with large amounts of credit card debt, because they aren't constantly accruing more interest and feeling like they will never pay off their debt. (See what I've written about [loan consolidation](https://www.maggiegermano.com/blog/what-are-your-options-for-debt-consolidation/) in the past.)
+Many people use personal loans in order to consolidate credit card debt and make lower, fixed monthly payments within a specific time frame. This can help provide a light at the end of the tunnel for those with large amounts of credit card debt, because they aren't constantly accruing more interest and feeling like they will never pay off their debt. 
+
+*(See what I've written about [loan consolidation](https://www.maggiegermano.com/blog/what-are-your-options-for-debt-consolidation/) in the past.)*
 
 ## When You Might Want to Get a Personal Loan
 
