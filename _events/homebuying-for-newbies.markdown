@@ -1,7 +1,6 @@
 ---
 title: Homebuying for Newbies
 date: 2018-08-14 18:30:00 -04:00
-published: false
 image: "/uploads/homes.jpg"
 og-image: "/uploads/Money%20Circle%20Photos%20(10).png"
 event-date: 2018-08-14 18:30:00 -04:00
@@ -9,6 +8,7 @@ start-time: 6:30 PM
 end-time: 8:30 PM
 location: Private Eastern Market Residence (Provided upon RSVP)
 button-text: Sign Me Up!
+button-link: https://www.eventbrite.com/e/money-circle-homebuying-for-newbies-tickets-48132651055
 ticket-price: "$20"
 ---
 
@@ -16,7 +16,9 @@ Do you wish someday to own a home? You're not alone! But do you also feel like y
 
 --
 
-Liz Delgado-Steo is...
+[Liz Delgado-Steo](mailto:lizdsrealestate@gmail.com) is a proud Washington, DC native and real estate agent. A part of the woman-led Bidwell Properties Group, her focus is on establishing a connection to her clients’ needs to achieve the greatest results. Whether it’s buying or selling, she’s committed to providing her clients with thorough market expertise, quick solution-based thinking, and unparalleled customer service.
+
+When she says above and beyond, she means it. Her goal is to have all her clients empowered and prepared to take the next step in buying or selling a home. Liz lives with her fianceé George and their fantastic cat Morty — and is proud to call Tenleytown her home.
 
 --
 
