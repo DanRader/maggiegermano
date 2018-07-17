@@ -14,6 +14,8 @@ ticket-price: "$20"
 
 Do you wish someday to own a home? You're not alone! Homeownership has been the American Dream forever. But do you also feel like you have no idea where to start or what to do? You're definitely not alone there either. This process can be confusing and discouraging, and above all, it's expensive! This month, we'll be joined by the fantastic real estate agent, Liz Delgado-Steo. Come to this event and soak up all of her knowledge about homebuying in the DC area!
 
+PS: This event will be at a house with two cats in residence.
+
 --
 
 [Liz Delgado-Steo](mailto:lizdsrealestate@gmail.com) is a proud Washington, DC native and real estate agent. A part of the woman-led Bidwell Properties Group, her focus is on establishing a connection to her clients’ needs to achieve the greatest results. Whether it’s buying or selling, she’s committed to providing her clients with thorough market expertise, quick solution-based thinking, and unparalleled customer service.
