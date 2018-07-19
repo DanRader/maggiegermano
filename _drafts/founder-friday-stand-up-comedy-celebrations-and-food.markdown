@@ -4,6 +4,8 @@ date: 2018-07-20 14:00:00 -04:00
 categories:
 - founder friday
 image: "/uploads/cookies.jpg"
+tweet: 'Celebrations and spending abound! Check out my #FounderFriday post to see
+  what I was up to this week.'
 posts:
 - Founder Friday | Beer, Curtains, and Biz Development
 - Founder Friday | General Assembly, Home Improvement, and Protesting
