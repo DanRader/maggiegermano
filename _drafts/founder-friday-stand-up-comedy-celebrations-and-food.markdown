@@ -32,6 +32,9 @@ Happy Friday! I hope you had a fantastic week. Here's what I was up to!
 
 * I just recently rolled of the [Collective Action for Safe Spaces](http://www.collectiveactiondc.org/) board of directors, but I still support what they do and love the people. So this week, I went to a fundraising happy hour at [Little Coco's](http://www.littlecocos.com/) and bought two beers. If you want to [donate](https://donatenow.networkforgood.org/collectiveactiondc) to CASS and support their work, I highly recommend it! If you can't afford to donate, volunteer with them!
 
+![IMG_6632.JPG](/uploads/IMG_6632.JPG)\
+*(Dan and his vodka martini from Burton's.)*
+
 ## What I’m Writing
 
 This week, I wrote about personal loans and whether or not they are right for you. If you struggle with credit card debt and are looking for a solution, personal loans might be a good option. [Read the article](https://www.maggiegermano.com/blog/whats-a-personal-loan-and-when-should-you-get-one/) and be honest with yourself about whether or not a personal loan might get you into a better financial position.
@@ -40,7 +43,9 @@ This week, I wrote about personal loans and whether or not they are right for yo
 
 * Speaking of personal loans, I was quoted in [Student Loan Hero](https://studentloanhero.com/featured/what-is-a-good-interest-rate-for-a-personal-loan/) talking about your odds and offerings depending on your credit score. 
 
-* 
+* The [August Money Circle](https://www.maggiegermano.com/events/homebuying-for-newbies/) is planned and available for registration! We'll be focusing on homebuying for first-timers, and we'll be joined by the wonderful real estate agent (and dear friend) Liz Delgado-Steo. Liz is great at breaking down the homebuying process into language you can understand, so this is a meetup you can't miss! [Register here](https://www.eventbrite.com/e/money-circle-homebuying-for-newbies-tickets-48132651055)!
+
+* I'm planning a budgeting workshop for August or September. It will likely be a 3-hour workshop, where you will learn budgeting basics and then we'll actually create our budgets! We realized at the budgeting Money Circle gathering that a more in-depth budgeting session was needed, so your wish is my command! Is this something you'll be interested in? Comment below or email me at [hello@maggiegermano.com](mailto:hello@maggiegermano.com) and let me know!
 
 ## What I'm Excited About
 
@@ -51,6 +56,9 @@ This week, I wrote about personal loans and whether or not they are right for yo
 * I'm obsessed with stand-up comedy lately. I listen to the podcast [Put Your Hands Together](https://www.earwolf.com/show/put-your-hands-together/) on a weekly basis. I loved Cameron Esposito's new special called *[Rape Jokes](https://www.cameronesposito.com/)*, I laughed and sobbed through Hannah Gadsby's *[Nanette](https://www.netflix.com/title/80233611)*, I watch anything that [Tig Notaro](http://tignation.com/) does... you get the idea. So imagine my excitement when I saw that Cameron Esposito and her wife, Rhea Butcher, are coming to DC with Tig Notaro for the [Bentzen Ball](https://brightestyoungthings.com/bentzen-ball) in October! I bought my tickets first thing this morning and can't wait to attend. See you there?
 
 * I'm heading home to Syracuse next weekend for my bridal shower! I was torn about whether or not I wanted a bridal shower, but now I'm really excited to be with my family to celebrate my upcoming marriage. I can't wait to see what my sisters came up with for the party!
+
+![37286644_930272133821044_1888987167229739008_o (1).jpg](/uploads/37286644_930272133821044_1888987167229739008_o%20(1).jpg)\
+*(Hi from Money Circle!)*
 
 ## Money Tip to Take Into the Weekend
 
