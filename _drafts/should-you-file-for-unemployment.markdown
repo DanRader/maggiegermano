@@ -43,7 +43,7 @@ It's important to know that unemployment benefits do not completely replace the 
 
 ## How Can You File for Unemployment?
 
-Unemployment benefits are given out by your state. If you live in a state that is different from the state where you work, you should file for unemployment in the state you work in. 
+Unemployment benefits are given out by your state. If you live in a state that is different from the state where you work, you should file for unemployment in the state you work in. You should contact your state's unemployment program as soon as possible after becoming unemployed. 
 
 ## Does Unemployment Actually Affect Your Credit Score?
 
