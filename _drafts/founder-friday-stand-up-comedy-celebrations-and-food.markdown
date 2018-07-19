@@ -38,7 +38,7 @@ This week, I wrote about personal loans and whether or not they are right for yo
 
 ## What I’m Up To
 
-* x
+* Speaking of personal loans, I was quoted in [Student Loan Hero](https://studentloanhero.com/featured/what-is-a-good-interest-rate-for-a-personal-loan/) talking about your odds and offerings depending on your credit score. 
 
 * 
 
