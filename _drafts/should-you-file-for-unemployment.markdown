@@ -13,7 +13,7 @@ posts:
 - Why You Should Check Your Credit Report Regularly
 ---
 
-A few months ago, I was talking to a friend who had recently been laid off from her job. She was stressed, frustrated, shocking, and scared. On top of the pressure of looking for a new job, she was also worried about applying for unemployment. She was worried that filing for unemployment would negatively affect her credit score. My immediate reaction was that there was no way utilizing unemployment benefits could hurt your credit score. But at the same time, I wasn't completely sure. I had never heard of that idea. So I decided to look into it and share my findings with you!
+A few months ago, I was talking to a friend who had recently been laid off from her job. She was stressed, frustrated, shocked, and scared. On top of the pressure of looking for a new job, she was also worried about applying for unemployment. She was worried that filing for unemployment would negatively affect her credit score. My immediate reaction was that there was no way utilizing unemployment benefits could hurt your credit score. But at the same time, I wasn't completely sure. I had never heard of that idea. So I decided to look into it and share my findings with you!
 
 ## What is Unemployment?
 
@@ -27,7 +27,7 @@ It's important to know that unemployment benefits do not completely replace the 
 
 * You were on contract at your job and the contract ended.
 
-* You're actively applying for new jobs. You're required to prove that you've been job searching while you're on unemployment benefits. 
+* You're actively applying for new jobs. You're required to prove that you've been job searching while you're on unemployment benefits.
 
 ## When Are You Not Eligible for Unemployment?
 
@@ -39,9 +39,11 @@ It's important to know that unemployment benefits do not completely replace the 
 
 * You're still getting paid. Sometimes you'll get a severance package or get paid out for your vacation days. You can't file for unemployment until after you're no longer being compensated by your now former employer.
 
-* You're working part-time. 
+* You're working part-time.
 
 ## How Can You File for Unemployment?
+
+Unemployment benefits are given out by your state. If you live in a state that is different from the state where you work, you should file for unemployment in the state you work in. 
 
 ## Does Unemployment Actually Affect Your Credit Score?
 
