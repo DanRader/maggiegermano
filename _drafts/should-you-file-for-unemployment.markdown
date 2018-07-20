@@ -17,9 +17,9 @@ A few months ago, I was talking to a friend who had recently been laid off from 
 
 ## What is Unemployment?
 
-Unemployment benefits are benefits from the government that protect you if you unexpectedly lose your job.
+Unemployment benefits are benefits from the government that protect you if you unexpectedly lose your job. This is a joint program between the federal government and states. It was created to support citizens when they lose their job "through no fault of their own", while they are searching for a new job.
 
-It's important to know that unemployment benefits do not completely replace the salary you were earning. In fact, this income is only a fraction of the amount you were making at your most recent job. It likely won't sustain you for long, but it's a good safety net in the short-term.
+It's important to know that unemployment benefits do not completely replace the salary you were earning. In fact, this income is only a fraction of the amount you were making at your most recent job. Plus, your state probably has a maximum amount that you're able to receive each week. It likely won't sustain you for long, but it's a good safety net in the short-term.
 
 ## When Are You Eligible for Unemployment?
 
@@ -43,7 +43,7 @@ It's important to know that unemployment benefits do not completely replace the 
 
 ## How Can You File for Unemployment?
 
-Unemployment benefits are given out by your state. If you live in a state that is different from the state where you work, you should file for unemployment in the state you work in. You should contact your state's unemployment program as soon as possible after becoming unemployed. It generally takes two weeks or so after you file your claim to receive your first check. 
+Unemployment benefits are given out by your state. If you live in a state that is different from the state where you work, you should file for unemployment in the state you work in. You should contact your state's unemployment program as soon as possible after becoming unemployed. It generally takes two weeks or so after you file your claim to receive your first check.
 
 x
 
