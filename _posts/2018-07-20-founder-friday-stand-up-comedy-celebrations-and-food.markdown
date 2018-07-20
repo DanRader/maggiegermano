@@ -43,7 +43,7 @@ This week, I wrote about personal loans and whether or not they are right for yo
 
 ## What I’m Up To
 
-* Speaking of personal loans, I was quoted in [Student Loan Hero](https://studentloanhero.com/featured/what-is-a-good-interest-rate-for-a-personal-loan/) talking about your odds and offerings depending on your credit score. 
+* Speaking of personal loans, I was quoted in [Student Loan Hero](https://studentloanhero.com/featured/what-is-a-good-interest-rate-for-a-personal-loan/) talking about your odds and offerings depending on your credit score.
 
 * The [August Money Circle](https://www.maggiegermano.com/events/homebuying-for-newbies/) is planned and available for registration! We'll be focusing on homebuying for first-timers, and we'll be joined by the wonderful real estate agent (and dear friend) Liz Delgado-Steo. Liz is great at breaking down the homebuying process into language you can understand, so this is a meetup you can't miss! [Register here](https://www.eventbrite.com/e/money-circle-homebuying-for-newbies-tickets-48132651055)!
 
@@ -53,9 +53,11 @@ This week, I wrote about personal loans and whether or not they are right for yo
 
 * We had a sold out [Money Circle](https://www.maggiegermano.com/moneycircle/) gathering this week! It was the first time we've sold out, which was super exciting! Y'all are really interested in learning all you can about investing, and [Claudia Russell](http://msengineeredwealth.com/) did a great job as our expert! (See you next month at our [homebuying](https://www.maggiegermano.com/events/homebuying-for-newbies/) Money Circle?)
 
-* I mentioned [last week](https://www.maggiegermano.com/blog/founder-friday-beer-curtains-and-biz-development/) that I joined the [Signed](https://www.smartgetspaid.com/signed/) business and sales program with Leah Neaderthal. We had our first module and video call this week, and it was incredibly illuminating. 
+* I mentioned [last week](https://www.maggiegermano.com/blog/founder-friday-beer-curtains-and-biz-development/) that I joined the [Signed](https://www.smartgetspaid.com/signed/) business and sales program with Leah Neaderthal. We had our first module and video call this week, and it was incredibly illuminating.
 
 * I'm obsessed with stand-up comedy lately. I listen to the podcast [Put Your Hands Together](https://www.earwolf.com/show/put-your-hands-together/) on a weekly basis. I loved Cameron Esposito's new special called *[Rape Jokes](https://www.cameronesposito.com/)*, I laughed and sobbed through Hannah Gadsby's *[Nanette](https://www.netflix.com/title/80233611)*, I watch anything that [Tig Notaro](http://tignation.com/) does... you get the idea. So imagine my excitement when I saw that Cameron Esposito and her wife, Rhea Butcher, are coming to DC with Tig Notaro for the [Bentzen Ball](https://brightestyoungthings.com/bentzen-ball) in October! I bought my tickets first thing this morning and can't wait to attend. See you there?
+
+* I got my butt back to the gym this week! I was on vacation for the first week of July, and then I was out of commission with more than one sickness for all of last week. I was nervous about going back to my workout class, because I had never taken that much time away from it since getting started. I'm super sore but I'm feeling good about being back at it!
 
 * I'm heading home to Syracuse next weekend for my bridal shower! I was torn about whether or not I wanted a bridal shower, but now I'm really excited to be with my family to celebrate my upcoming marriage. I can't wait to see what my sisters came up with for the party!
 
