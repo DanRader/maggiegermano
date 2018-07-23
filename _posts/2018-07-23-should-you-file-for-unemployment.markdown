@@ -1,7 +1,6 @@
 ---
 title: Should You File for Unemployment?
 date: 2018-07-23 11:00:00 -04:00
-published: false
 categories:
 - Career
 - Credit
