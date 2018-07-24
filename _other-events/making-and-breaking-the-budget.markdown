@@ -1,7 +1,6 @@
 ---
 title: Making & Breaking the Budget
 date: 2018-09-15 14:00:00 -04:00
-published: false
 image: "/uploads/FB@2x%20(1).png"
 event-date: 
 start-time: 2:00 PM
