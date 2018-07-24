@@ -9,3 +9,8 @@ posts:
 - The Lowdown on Down Payment Assistance Programs
 ---
 
+xx
+
+## You Can't Afford to Hire a Contractor
+
+## You Want to Learn How to DIY
