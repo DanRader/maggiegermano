@@ -2,6 +2,7 @@
 title: Making & Breaking the Budget
 date: 2018-09-15 14:00:00 -04:00
 published: false
+image: "/uploads/FB@2x%20(1).png"
 ---
 
 Do you struggle with managing your money on a day-to-day basis? You're absolutely not alone. And chances are, you never actually learned how to create a budget and live within your means. That doesn't make you a bad person, it doesn't make you irresponsible, and it doesn't mean you will never be able to get control over your money. Come to the Making & Breaking The Budget workshop to learn how to get started so you can move forward with confidence!
