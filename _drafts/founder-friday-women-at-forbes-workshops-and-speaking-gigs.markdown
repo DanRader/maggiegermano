@@ -13,7 +13,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * A new client signed up for a one-time coaching session.
 
-* 
+* We had guests stay in our Airbnb for most of the week.
 
 ## **How I Spent Money This Week**
 
