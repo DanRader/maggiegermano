@@ -27,9 +27,13 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * We also spent a whole lot of money on our honeymoon this week! I am too excited to be stressed about that, though. Plus, we have a travel savings account where we are pulling all of that money from, so it isn't coming out of our normal budget. We booked our lodging in Chiang Mai and Bangkok, we booked our visit to the Elephant Jungle Sanctuary (!!!), and we booked our travel from Bangkok to Koh Lipe and then from Koh Lipe to Chiang Mai. It's getting really real!
 
+* Last night, Dan and I went to the Anthem for the first time. We saw Sylvan Esso in concert. It was a delayed anniversary gift from me to him. To make a real date of it, we went to Kaliwa for dinner. It was delicious!
+
+* 
+
 ## **What I’m Writing**
 
-x
+This week, I wrote about [unemployment benefits](https://www.maggiegermano.com/blog/should-you-file-for-unemployment/) and when you may or may not qualify for them. If you've recently been laid off, make sure you check it out!
 
 ## **What I’m Up To**
 
