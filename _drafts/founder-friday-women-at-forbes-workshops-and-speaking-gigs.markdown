@@ -9,7 +9,11 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## **How I Earned Money This Week**
 
-* x
+* One of my clients' monthly payment went through.
+
+* A new client signed up for a one-time coaching session.
+
+* 
 
 ## **How I Spent Money This Week**
 
