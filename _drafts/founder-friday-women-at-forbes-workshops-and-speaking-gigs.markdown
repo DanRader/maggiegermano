@@ -39,7 +39,7 @@ This week, I wrote about [unemployment benefits](https://www.maggiegermano.com/b
 
 * I'm holding my first official workshop! On Saturday, September 15th, we'll be gathering at [Yoga Heights](https://yogaheightsdc.com/) in Petworth, DC to learn how to budget! Sign up for the [Making & Breaking the Budget](https://www.eventbrite.com/e/making-breaking-the-budget-workshop-tickets-48317128833) workshop today!
 
-* The [August Money Circle](https://www.maggiegermano.com/events/homebuying-for-newbies/) is planned and available for registration! We’ll be focusing on homebuying for first-timers, and we’ll be joined by the wonderful real estate agent (and dear friend) Liz Delgado-Steo. Liz is great at breaking down the homebuying process into language you can understand, so this is a meetup you can’t miss! [Register here](https://www.eventbrite.com/e/money-circle-homebuying-for-newbies-tickets-48132651055)!
+* The [August Money Circle](https://www.maggiegermano.com/events/homebuying-for-newbies/) is planned and available for registration! We’ll be focusing on homebuying for first-timers, and we’ll be joined by the wonderful real estate agent (and dear friend) [Liz Delgado-Steo](https://www.realliving.com/elizabeth-delgado-steo). Liz is great at breaking down the homebuying process into language you can understand, so this is a meetup you can’t miss! [Register here](https://www.eventbrite.com/e/money-circle-homebuying-for-newbies-tickets-48132651055)!
 
 * x
 
