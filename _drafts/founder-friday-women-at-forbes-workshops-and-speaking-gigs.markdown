@@ -17,7 +17,9 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## **How I Spent Money This Week**
 
-* x
+* Hoo boy, this was a big wedding spending week. We ordered our wedding invitations (!!!), which was a bigger expense than I wanted it to be (check out my post about that). But I can't wait to see them because Dan designed them and they'll be beautiful. I'm also trying to check a bunch of little things off my list, so I ordered some random items for the wedding, including some decorations and gifts for the bridal party. 
+
+* We also spent a whole lot of money on our honeymoon this week! I am too excited to be stressed about that, though. Plus, we have a travel savings account where we are pulling all of that money from, so it isn't coming out of our normal budget. 
 
 ## **What I’m Writing**
 
