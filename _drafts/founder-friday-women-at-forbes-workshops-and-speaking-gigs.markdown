@@ -33,7 +33,11 @@ x
 
 ## **What I’m Excited About**
 
-* x
+* 
+
+* I can officially announce that I'm a new contributor over at [Women@Forbes](https://www.forbes.com/sites/maggiegermano/)! I will have my own column where I will share my tips and advice about how to get your money right. Check out my first post about [how to trick yourself into a budget](https://www.forbes.com/sites/maggiegermano/2018/07/25/how-to-trick-yourself-into-sticking-to-a-budget/), and click "follow" on my [author page](https://www.forbes.com/sites/maggiegermano/#37ea97a87556) so you always know when I'm publishing!
+
+![Screen Shot 2018-07-25 at 3.38.57 PM.png](/uploads/Screen%20Shot%202018-07-25%20at%203.38.57%20PM.png)
 
 ## **Money Tip to Take Into the Weekend**
 
