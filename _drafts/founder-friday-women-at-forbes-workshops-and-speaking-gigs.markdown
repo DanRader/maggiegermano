@@ -3,6 +3,7 @@ title: Founder Friday | Women@Forbes, Workshops, and Speaking Gigs
 date: 2018-07-27 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/chairs.jpg"
 ---
 
 Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
