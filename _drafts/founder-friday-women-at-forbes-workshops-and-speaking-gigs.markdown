@@ -13,11 +13,13 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * A new client signed up for a one-time coaching session.
 
-* 
+* We had guests stay in our Airbnb for most of the week.
 
 ## **How I Spent Money This Week**
 
-* x
+* Hoo boy, this was a big wedding spending week. We ordered our wedding invitations (!!!), which was a bigger expense than I wanted it to be (check out my post about that). But I can't wait to see them because Dan designed them and they'll be beautiful. I'm also trying to check a bunch of little things off my list, so I ordered some random items for the wedding, including some decorations and gifts for the bridal party. 
+
+* We also spent a whole lot of money on our honeymoon this week! I am too excited to be stressed about that, though. Plus, we have a travel savings account where we are pulling all of that money from, so it isn't coming out of our normal budget. We booked our lodging in Chiang Mai and Bangkok, we booked our visit to the Elephant Jungle Sanctuary (!!!), and we booked our travel from Bangkok to Koh Lipe and then from Koh Lipe to Chiang Mai. It's getting really real!
 
 ## **What I’m Writing**
 
