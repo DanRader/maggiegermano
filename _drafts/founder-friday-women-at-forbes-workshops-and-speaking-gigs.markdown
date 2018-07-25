@@ -4,6 +4,11 @@ date: 2018-07-27 14:00:00 -04:00
 categories:
 - founder friday
 image: "/uploads/chairs.jpg"
+tweet: 'Lots of big news this week! See what I was up to in today''s #FounderFriday. '
+posts:
+- Founder Friday | Stand-Up Comedy, Celebrations, and Food
+- Founder Friday | Beer, Curtains, and Biz Development
+- Founder Friday | General Assembly, Home Improvement, and Protesting
 ---
 
 Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
