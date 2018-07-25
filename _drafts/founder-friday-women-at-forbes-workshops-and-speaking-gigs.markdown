@@ -1,6 +1,8 @@
 ---
 title: Founder Friday | Women@Forbes, Workshops, and Speaking Gigs
 date: 2018-07-27 14:00:00 -04:00
+categories:
+- founder friday
 ---
 
 Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
@@ -19,9 +21,9 @@ x
 
 ## **What I’m Up To**
 
-* x
+* I'm holding my first official workshop! On Saturday, September 15th, we'll be gathering at Yoga Heights in Petworth, DC to learn how to budget! Sign up for the Making & Breaking the Budget workshop today!
 
-* The **[August Money Circle](https://www.maggiegermano.com/events/homebuying-for-newbies/)** is planned and available for registration! We’ll be focusing on homebuying for first-timers, and we’ll be joined by the wonderful real estate agent (and dear friend) Liz Delgado-Steo. Liz is great at breaking down the homebuying process into language you can understand, so this is a meetup you can’t miss! **[Register here](https://www.eventbrite.com/e/money-circle-homebuying-for-newbies-tickets-48132651055)**!
+* The [August Money Circle](https://www.maggiegermano.com/events/homebuying-for-newbies/) is planned and available for registration! We’ll be focusing on homebuying for first-timers, and we’ll be joined by the wonderful real estate agent (and dear friend) Liz Delgado-Steo. Liz is great at breaking down the homebuying process into language you can understand, so this is a meetup you can’t miss! [Register here](https://www.eventbrite.com/e/money-circle-homebuying-for-newbies-tickets-48132651055)!
 
 * x
 
