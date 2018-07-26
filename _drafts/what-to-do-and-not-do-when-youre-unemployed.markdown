@@ -43,7 +43,7 @@ This is so, so, so important. And I will yell this from the rooftops for the res
 
 ## Don't Only Rely on COBRA
 
-After you lose or leave a job, you typically get a letter in the mail about COBRA insurance. 
+After you lose or leave a job, you typically get a letter in the mail about COBRA insurance. If you don't know what COBRA is, it stands for Consolidated Omnibus Budget Reconciliation Act of 1985, which was a law passed that requires there to be an insurance option for those who leave employment. 
 
 ## Don't Rely on Your Credit Cards
 
