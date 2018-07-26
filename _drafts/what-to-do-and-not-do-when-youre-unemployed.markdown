@@ -15,7 +15,9 @@ I wrote last week about when and how to file for unemployment benefits. This is 
 
 ## Alert Your Student Loan Provider
 
-If you're having financial hardship, you can defer your student loans.
+If you're having financial hardship, you can defer your student loans. If you're unemployed, that definitely counts as a hardship, and your student loan servicer understands that. They would rather you defer your loans now and stay current on payments later. So, reach out to your provider and tell them what is going on. 
+
+Putting your loans into deferment will protect you from late fees and penalties. It will also protect you from having missed payments put on your credit report. These sorts of marks can negatively affect your credit score for years, which will impact your ability to get future loans and credit. 
 
 ## Apply for Marketplace Insurance
 
@@ -31,13 +33,19 @@ If you don't know where to start, reach out to the people in your networks! Ther
 
 Hopefully you've been able to build up some sort of emergency savings for times like this. And if you haven't yet and are still employed, start prioritizing it now! It can be scary and frustrating to have to use your emergency savings, but that's literally what you saved it for. Losing your job is definitely an emergency, and you need that money in order to keep a roof over your head, food in your belly, and your bills current. So I am giving you permission to use your emergency savings on your bills in this scenario. 
 
+Ask for Help
+
+When my dad was unemployed for six months when I was a kid, he still had bills to pay and three children to take care of. 
+
 ## Don't Borrow from Your Retirement
 
 This is so, so, so important. And I will yell this from the rooftops for the rest of my life. Never borrow from your retirement! You will be much worse off later if you do this. 
 
 ## Don't Only Rely on COBRA
 
-After you lose or leave a job, you typically get a letter in the mail about COBRA insurance. 
+After you lose or leave a job, you typically get a letter in the mail about COBRA insurance. If you don't know what COBRA is, it stands for Consolidated Omnibus Budget Reconciliation Act of 1985, which was a law passed that requires there to be an insurance option for those who leave employment. 
+
+COBRA is available whether you left your job voluntarily or not. You don't have to be laid off in order to use it. 
 
 ## Don't Rely on Your Credit Cards
 
