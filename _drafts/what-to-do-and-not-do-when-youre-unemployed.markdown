@@ -25,7 +25,7 @@ If you've lost your job, you've most likely lost your health insurance as well. 
 
 If you file for unemployment, you will be required to apply for at least three jobs each week, and show proof that you've done it. Not only does this ensure that you're getting your benefit check, but it's a good accountability measure to make sure you are staying on top of your job search. 
 
-If you don't know where to start, reach out to the people in your networks! 
+If you don't know where to start, reach out to the people in your networks! There are so many people out there who want to help you when you're struggling. Reach out to friends, former colleagues, and acquaintances who work in the field you're interested in. Maybe they can't literally get you a job, but they may have advice or leads for you. Check out listservs like the [WINlist](http://winonline.org/) to get started!
 
 ## Turn to Your Emergency Savings
 
