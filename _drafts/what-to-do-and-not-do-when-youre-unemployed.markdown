@@ -45,6 +45,8 @@ This is so, so, so important. And I will yell this from the rooftops for the res
 
 After you lose or leave a job, you typically get a letter in the mail about COBRA insurance. If you don't know what COBRA is, it stands for Consolidated Omnibus Budget Reconciliation Act of 1985, which was a law passed that requires there to be an insurance option for those who leave employment. 
 
+COBRA is available whether you left your job voluntarily or not. You don't have to be laid off in order to use it. 
+
 ## Don't Rely on Your Credit Cards
 
 Of course, this can be impossible when you have bills to pay and mouths to feed, with not much money coming in.
