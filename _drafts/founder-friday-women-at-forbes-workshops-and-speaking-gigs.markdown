@@ -47,6 +47,8 @@ This week, I wrote about [unemployment benefits](https://www.maggiegermano.com/b
 
 * I'm speaking at Robert Morris University next month! There was a last minute cancelation at one of their orientation events, so I'm filling in. I'm hoping to do more events like this, because it's important to get your money right from a young age, and I want to reach women in college! So if you know of any universities who are looking for money experts, [let me know](mailto:boss@maggiegermano.com). 
 
+* I'm heading up to Syracuse this afternoon for my bridal shower. I can't wait to see my family! It also happens to be my dad's 60th birthday, so I'm excited to be there to celebrate.
+
 * I can officially announce that I'm a new contributor over at [Women@Forbes](https://www.forbes.com/sites/maggiegermano/)! I will have my own column where I will share my tips and advice about how to get your money right. Check out my first post about [how to trick yourself into a budget](https://www.forbes.com/sites/maggiegermano/2018/07/25/how-to-trick-yourself-into-sticking-to-a-budget/), and click "follow" on my [author page](https://www.forbes.com/sites/maggiegermano/#37ea97a87556) so you always know when I'm publishing!
 
 ![Screen Shot 2018-07-25 at 3.38.57 PM.png](/uploads/Screen%20Shot%202018-07-25%20at%203.38.57%20PM.png)
