@@ -23,13 +23,21 @@ If you've lost your job, you've most likely lost your health insurance as well. 
 
 ## Search for New Jobs
 
+If you file for unemployment, you will be required to apply for at least three jobs each week, and show proof that you've done it. Not only does this ensure that you're getting your benefit check, but it's a good accountability measure to make sure you are staying on top of your job search. 
+
+If you don't know where to start, reach out to the people in your networks! 
+
 ## Turn to Your Emergency Savings
 
-Hopefully you've been able to build up some sort of emergency savings for times like this. And if you haven't yet and are still employed, start prioritizing it now!
+Hopefully you've been able to build up some sort of emergency savings for times like this. And if you haven't yet and are still employed, start prioritizing it now! It can be scary and frustrating to have to use your emergency savings, but that's literally what you saved it for. Losing your job is definitely an emergency, and you need that money in order to keep a roof over your head, food in your belly, and your bills current. So I am giving you permission to use your emergency savings on your bills in this scenario. 
 
 ## Don't Borrow from Your Retirement
 
-## Don't Rely on COBRA
+This is so, so, so important. And I will yell this from the rooftops for the rest of my life. Never borrow from your retirement! You will be much worse off later if you do this. 
+
+## Don't Only Rely on COBRA
+
+After you lose or leave a job, you typically get a letter in the mail about COBRA insurance. 
 
 ## Don't Rely on Your Credit Cards
 
