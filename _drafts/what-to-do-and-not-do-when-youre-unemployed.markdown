@@ -33,6 +33,10 @@ If you don't know where to start, reach out to the people in your networks! Ther
 
 Hopefully you've been able to build up some sort of emergency savings for times like this. And if you haven't yet and are still employed, start prioritizing it now! It can be scary and frustrating to have to use your emergency savings, but that's literally what you saved it for. Losing your job is definitely an emergency, and you need that money in order to keep a roof over your head, food in your belly, and your bills current. So I am giving you permission to use your emergency savings on your bills in this scenario. 
 
+Ask for Help
+
+When my dad was unemployed for six months when I was a kid, he still had bills to pay and three children to take care of. 
+
 ## Don't Borrow from Your Retirement
 
 This is so, so, so important. And I will yell this from the rooftops for the rest of my life. Never borrow from your retirement! You will be much worse off later if you do this. 
