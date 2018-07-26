@@ -15,9 +15,11 @@ I wrote last week about when and how to file for unemployment benefits. This is 
 
 ## Alert Your Student Loan Provider
 
-If you're having financial hardship, you can defer your student loans. 
+If you're having financial hardship, you can defer your student loans.
 
 ## Apply for Marketplace Insurance
+
+If you've lost your job, you've most likely lost your health insurance as well. Since losing your job is considered a life event, you will be eligible to get insurance through the marketplace. 
 
 ## Search for New Jobs
 
@@ -28,3 +30,7 @@ Hopefully you've been able to build up some sort of emergency savings for times 
 ## Don't Borrow from Your Retirement
 
 ## Don't Rely on COBRA
+
+## Don't Rely on Your Credit Cards
+
+Of course, this can be impossible when you have bills to pay and mouths to feed, with not much money coming in.
