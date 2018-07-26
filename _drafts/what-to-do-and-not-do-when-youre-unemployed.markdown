@@ -15,7 +15,7 @@ I wrote last week about when and how to file for unemployment benefits. This is 
 
 ## Alert Your Student Loan Provider
 
-If you're having financial hardship, you can defer your student loans.
+If you're having financial hardship, you can defer your student loans. If you're unemployed, that definitely counts as a hardship, and the student loan servicer understands that. 
 
 ## Apply for Marketplace Insurance
 
