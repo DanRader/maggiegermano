@@ -3,7 +3,7 @@ title: Founder Friday | Women@Forbes, Workshops, and Speaking Gigs
 date: 2018-07-27 14:00:00 -04:00
 categories:
 - founder friday
-image: "/uploads/chairs.jpg"
+image: "/uploads/more%20chairs.jpg"
 tweet: 'Lots of big news this week! See what I was up to in today''s #FounderFriday. '
 posts:
 - Founder Friday | Stand-Up Comedy, Celebrations, and Food
