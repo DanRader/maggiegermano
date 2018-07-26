@@ -1,6 +1,10 @@
 ---
 title: What to Do and Not Do When You're Unemployed
 date: 2018-07-30 11:00:00 -04:00
+categories:
+- lifestyle
+- debt
+- Credit
 ---
 
 It's one of the scariest positions to be in. It's the thing that you hope will never happen. But unemployment is real and many of us find ourself in the midst of it at some point in our lives. Regardless of how long you're unemployed, it can wreak havoc on your peace of mind and your finances. There are, however, some steps you can take to try to limit that negative impact. 
