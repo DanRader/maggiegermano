@@ -41,8 +41,6 @@ This week, I wrote about [unemployment benefits](https://www.maggiegermano.com/b
 
 * The [August Money Circle](https://www.maggiegermano.com/events/homebuying-for-newbies/) is planned and ready for registration! We’ll be focusing on homebuying for first-timers, and we’ll be joined by the wonderful real estate agent (and dear friend) [Liz Delgado-Steo](https://www.realliving.com/elizabeth-delgado-steo). Liz is great at breaking down the homebuying process into language you can understand, so this is a meetup you can’t miss! [Register here](https://www.eventbrite.com/e/money-circle-homebuying-for-newbies-tickets-48132651055)!
 
-* x
-
 ## **What I’m Excited About**
 
 * I'm speaking at Robert Morris University next month! There was a last minute cancelation at one of their orientation events, so I'm filling in. I'm hoping to do more events like this, because it's important to get your money right from a young age, and I want to reach women in college! So if you know of any universities who are looking for money experts, [let me know](mailto:boss@maggiegermano.com). 
