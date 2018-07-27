@@ -36,9 +36,9 @@ Hopefully you've been able to build up some sort of emergency savings for times 
 
 ## Ask for Help
 
-When my dad was unemployed for six months when I was a kid, he still had bills to pay and three children to take care of.
+When my dad was unemployed for six months when I was a kid, he still had bills to pay and three children to take care of. 
 
-Of course, borrowing money from loved ones can get really complicated. It can cause problems in relationships. 
+Of course, borrowing money from loved ones can get really complicated. It can cause problems in relationships and make things awkward. So if you do borrow money from a family member or friend, make sure to document your agreement in writing. Map out a repayment plan with a deadline. That way, everyone will be on the same page, and no one will get frustrated or resentful. If you end up having trouble paying the money back on time, be honest! Have a conversation with your loved one so that they know what's going on.
 
 ## Don't Borrow from Your Retirement
 
