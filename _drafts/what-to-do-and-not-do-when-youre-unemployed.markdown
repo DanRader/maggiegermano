@@ -52,4 +52,4 @@ COBRA is available whether you left your job voluntarily or not. You don't have 
 
 ## Don't Rely on Your Credit Cards
 
-Of course, this can be impossible when you have bills to pay and mouths to feed, with not much money coming in.
+One of the keys for financially protecting yourself is to not use your credit cards unless you have the money to pay them back. Of course, this can be impossible when you have bills to pay and mouths to feed, with not much money coming in. 
