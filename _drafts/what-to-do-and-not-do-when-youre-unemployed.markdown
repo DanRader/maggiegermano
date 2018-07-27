@@ -12,7 +12,7 @@ It's one of the scariest positions to be in. It's the thing that you hope will n
 
 ## File for Unemployment
 
-I wrote last week about when and how to file for [unemployment benefits](https://www.maggiegermano.com/blog/should-you-file-for-unemployment/). This is a great safety net offered by our federal and state governments. If you're eligible, make sure you file so that you can have some money coming in while you search for a new job.
+I wrote last week about when and how to file for [unemployment benefits](https://www.maggiegermano.com/blog/should-you-file-for-unemployment/). This is a great safety net offered by our federal and state governments. If you're eligible, make sure you file so that you can have some money coming in while you search for a new job. There's no shame in taking advantage of the programs that were created to protect us when we're vulnerable.
 
 ## Alert Your Student Loan Provider
 
