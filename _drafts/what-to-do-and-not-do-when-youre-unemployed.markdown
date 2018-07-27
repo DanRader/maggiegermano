@@ -22,7 +22,7 @@ Putting your loans into deferment will protect you from late fees and penalties.
 
 ## Apply for Marketplace Insurance
 
-If you've lost your job, you've most likely lost your health insurance as well. Since losing your job is considered a life event, you will be eligible to get insurance through the marketplace.
+If you've lost your job, you've most likely lost your health insurance as well. Since losing your job is considered a life event, you will be eligible to get insurance through the marketplace. Not only will this protect you if you have a health emergency while you're unemployed (and allow you to get coverage for your existing needs), but it will also be much more affordable. 
 
 ## Search for New Jobs
 
