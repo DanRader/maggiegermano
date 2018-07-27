@@ -12,17 +12,17 @@ It's one of the scariest positions to be in. It's the thing that you hope will n
 
 ## File for Unemployment
 
-I wrote last week about when and how to file for [unemployment benefits](https://www.maggiegermano.com/blog/should-you-file-for-unemployment/). This is a great safety net offered by our federal and state governments. If you're eligible, make sure you file so that you can have some money coming in while you search for a new job.
+I wrote last week about when and how to file for [unemployment benefits](https://www.maggiegermano.com/blog/should-you-file-for-unemployment/). This is a great safety net offered by our federal and state governments. If you're eligible, make sure you file so that you can have some money coming in while you search for a new job. There's no shame in taking advantage of the programs that were created to protect us when we're vulnerable.
 
 ## Alert Your Student Loan Provider
 
-If you're having financial hardship, you can defer your student loans. If you're unemployed, that definitely counts as a hardship, and your student loan servicer understands that. They would rather you defer your loans now and stay current on payments later. So, reach out to your provider and tell them what is going on.
+If you're having financial hardship, you can [defer your student loans](https://www.nelnet.com/postpone-your-payments). If you're unemployed, that definitely counts as a hardship, and your student loan servicer understands that. They would rather you defer your loans now and stay current on payments later. So, reach out to your provider and tell them what is going on.
 
 Putting your loans into deferment will protect you from late fees and penalties. It will also protect you from having missed payments put on your credit report. These sorts of marks can negatively affect your credit score for years, which will impact your ability to get future loans and credit.
 
 ## Apply for Marketplace Insurance
 
-If you've lost your job, you've most likely lost your health insurance as well. Since losing your job is considered a life event, you will be eligible to get insurance through the marketplace.
+If you've lost your job, you've most likely lost your health insurance as well. Since losing your job is considered a life event, you will be eligible to get insurance through the marketplace. Not only will this protect you if you have a health emergency while you're unemployed (and allow you to get coverage for your existing needs), but it will also be much more affordable. 
 
 ## Search for New Jobs
 
