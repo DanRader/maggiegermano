@@ -16,7 +16,7 @@ I wrote last week about when and how to file for [unemployment benefits](https:/
 
 ## Alert Your Student Loan Provider
 
-If you're having financial hardship, you can defer your student loans. If you're unemployed, that definitely counts as a hardship, and your student loan servicer understands that. They would rather you defer your loans now and stay current on payments later. So, reach out to your provider and tell them what is going on.
+If you're having financial hardship, you can [defer your student loans](https://www.nelnet.com/postpone-your-payments). If you're unemployed, that definitely counts as a hardship, and your student loan servicer understands that. They would rather you defer your loans now and stay current on payments later. So, reach out to your provider and tell them what is going on.
 
 Putting your loans into deferment will protect you from late fees and penalties. It will also protect you from having missed payments put on your credit report. These sorts of marks can negatively affect your credit score for years, which will impact your ability to get future loans and credit.
 
