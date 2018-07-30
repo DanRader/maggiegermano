@@ -38,13 +38,15 @@ Hopefully you've been able to build up some sort of emergency savings for times 
 
 ## Ask for Help
 
-When my dad was unemployed for six months when I was a kid, he still had bills to pay and three children to take care of. To make matters worse, he had taken out a 401k loan (you'll see how I feel about this below) for home improvements. It turns out, when you quit or get laid off, you have to pay back your 401k loan very quickly or else you'll get taxed and penalized as if you withdrew early for retirement. 
+When my dad was unemployed for six months when I was a kid, he still had bills to pay and three children to take care of. To make matters worse, he had taken out a 401k loan (you'll see how I feel about this below) for home improvements. It turns out, when you quit or get laid off, you have to pay back your 401k loan very quickly or else you'll get taxed and penalized as if you withdrew early for retirement. My dad wanted very much to avoid this penalty, so he asked his father if he could borrow money to pay it back. Luckily, my grandfather had that money and was able to loan it to my dad. 
 
 Of course, borrowing money from loved ones can get really complicated. It can cause problems in relationships and make things awkward. So if you do borrow money from a family member or friend, make sure to document your agreement in writing. Map out a repayment plan with a deadline. That way, everyone will be on the same page, and no one will get frustrated or resentful. If you end up having trouble paying the money back on time, be honest! Have a conversation with your loved one so that they know what's going on.
 
 ## Don't Borrow from Your Retirement
 
-This is so, so, so important. And I will yell this from the rooftops for the rest of my life. Never borrow from your retirement! You will be much worse off later if you do this.
+This is so, so, so important. And I will yell this from the rooftops for the rest of my life. Never borrow from your retirement! You will be much worse off later if you do this. Like I mentioned above, if you borrow from your retirement account before the aged of 59.5, you'll be penalized. You will have to pay taxes and fees for withdrawing early. This means that you will lose a lot of that money you've diligently saved for your retirement years. 
+
+Plus, even if you're able to pay that money back eventually, you'll have lost money. If you attended the [July Money Circle gathering](https://www.maggiegermano.com/events/investing-101/), you know that [compound interest](https://en.wikipedia.org/wiki/Compound_interest) is your friend. This means that the longer your money is out of the market, the less it's able to grow on itself. So you should try to keep your investments in the market no matter what. Your 65-year-old self will thank you.
 
 ## Don't Only Rely on COBRA
 
@@ -55,3 +57,5 @@ COBRA is available whether you left your job voluntarily or not. You don't have 
 ## Don't Rely on Your Credit Cards
 
 One of the keys for financially protecting yourself is to not use your credit cards unless you have the money to pay them back. Of course, this can be impossible when you have bills to pay and mouths to feed, with not much money coming in.
+
+*Have you ever been unemployed? Did you do the things above? Is there anything you wish you'd done? Share in the comments!*
