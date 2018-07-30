@@ -56,6 +56,8 @@ COBRA is available whether you left your job voluntarily or not. You don't have 
 
 ## Don't Rely on Your Credit Cards
 
-One of the keys for financially protecting yourself is to not use your credit cards unless you have the money to pay them back. Of course, this can be impossible when you have bills to pay and mouths to feed, with not much money coming in.
+One of the keys for financially protecting yourself is to not use your credit cards unless you have the money to pay them back. Of course, this can be impossible when you have bills to pay and mouths to feed, with not much money coming in. But if you have other options than using your credit cards, it's best to do that. Otherwise, you may find yourself deep in debt even once you're employed again.
+
+If you do have to turn to your credit cards to get by, you do have options to protect yourself. Call your creditors and let them know about your situation. The thing is, they want to get paid, so if you can't pay your bills, that hurts them too. Call them and ask them if it's possible to lower your interest rates while you're unemployed, so your interest charges don't balloon and make it harder to make your payments. 
 
 *Have you ever been unemployed? Did you do the things above? Is there anything you wish you'd done? Share in the comments!*
