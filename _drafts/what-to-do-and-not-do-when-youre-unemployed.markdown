@@ -44,7 +44,9 @@ Of course, borrowing money from loved ones can get really complicated. It can ca
 
 ## Don't Borrow from Your Retirement
 
-This is so, so, so important. And I will yell this from the rooftops for the rest of my life. Never borrow from your retirement! You will be much worse off later if you do this.
+This is so, so, so important. And I will yell this from the rooftops for the rest of my life. Never borrow from your retirement! You will be much worse off later if you do this. Like I mentioned above, if you borrow from your retirement account before the aged of 59.5, you'll be penalized. You will have to pay taxes and fees for withdrawing early. This means that you will lose a lot of that money you've diligently saved for your retirement years. 
+
+Plus, even if you're able to pay that money back eventually, you'll have lost money. If you attended the [July Money Circle gathering](https://www.maggiegermano.com/events/investing-101/), you know that [compound interest](https://en.wikipedia.org/wiki/Compound_interest) is your friend. This means that the longer your money is out of the market, the less it's able to grow on itself. So you should try to keep your investments in the market no matter what. 
 
 ## Don't Only Rely on COBRA
 
@@ -55,3 +57,5 @@ COBRA is available whether you left your job voluntarily or not. You don't have 
 ## Don't Rely on Your Credit Cards
 
 One of the keys for financially protecting yourself is to not use your credit cards unless you have the money to pay them back. Of course, this can be impossible when you have bills to pay and mouths to feed, with not much money coming in.
+
+*Have you ever been unemployed? Did you do the things above? Is there anything you wish you'd done? Share in the comments!*
