@@ -22,9 +22,9 @@ Putting your loans into deferment will protect you from late fees and penalties.
 
 ## Apply for Marketplace Insurance
 
-If you've lost your job, you've most likely lost your health insurance as well. Since losing your job is considered a life event, you will be eligible to get insurance through the [marketplace](https://www.healthcare.gov/) once you're unemployed. Not only will this protect you if you have a health emergency while you're unemployed (and allow you to get coverage for your existing needs), but it will also be much more affordable.
+If you've lost your job, you've most likely lost your health insurance as well. Since losing your job is considered a life event, you will be eligible to get insurance through the [marketplace](https://www.healthcare.gov/) once you're unemployed. Not only will this [protect you](https://www.maggiegermano.com/blog/why-healthcare-is-self-care/) if you have a health emergency while you're unemployed (and allow you to get coverage for your existing needs), but it will also be much more affordable than other options, like COBRA (see more about that below).
 
-PS: You don't have to get laid off in order to apply for marketplace insurance. If you leave a job for any reason, you're eligible. The amount you will pay each month will determine how much you will be earning. Fun fact: I have Kaiser Permanente insurance through the marketplace now that I'm self-employed.
+PS: You don't have to get laid off in order to apply for marketplace insurance. If you leave a job for any reason, you're eligible. The amount you will pay each month will determine how much you will be earning. Fun fact: I have Kaiser Permanente insurance through the marketplace now that I'm self-employed. It's super affordable, so I don't hesitate before going to the doctor.
 
 ## Search for New Jobs
 
