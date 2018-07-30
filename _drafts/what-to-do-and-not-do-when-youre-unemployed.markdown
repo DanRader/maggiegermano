@@ -38,7 +38,7 @@ Hopefully you've been able to build up some sort of emergency savings for times 
 
 ## Ask for Help
 
-When my dad was unemployed for six months when I was a kid, he still had bills to pay and three children to take care of. To make matters worse, he had taken out a 401k loan (you'll see how I feel about this below) for home improvements. It turns out, when you quit or get laid off, you have to pay back your 401k loan very quickly or else you'll get taxed and penalized as if you withdrew early for retirement. 
+When my dad was unemployed for six months when I was a kid, he still had bills to pay and three children to take care of. To make matters worse, he had taken out a 401k loan (you'll see how I feel about this below) for home improvements. It turns out, when you quit or get laid off, you have to pay back your 401k loan very quickly or else you'll get taxed and penalized as if you withdrew early for retirement. My dad wanted very much to avoid this penalty, so he asked his father if he could borrow money to pay it back. Luckily, my grandfather had that money
 
 Of course, borrowing money from loved ones can get really complicated. It can cause problems in relationships and make things awkward. So if you do borrow money from a family member or friend, make sure to document your agreement in writing. Map out a repayment plan with a deadline. That way, everyone will be on the same page, and no one will get frustrated or resentful. If you end up having trouble paying the money back on time, be honest! Have a conversation with your loved one so that they know what's going on.
 
