@@ -60,4 +60,6 @@ One of the keys for financially protecting yourself is to not use your credit ca
 
 If you do have to turn to your credit cards to get by, you do have options to protect yourself. Call your creditors and let them know about your situation. The thing is, they want to get paid, so if you can't pay your bills, that hurts them too. Call them and ask them if it's possible to lower your interest rates while you're unemployed, so your interest charges don't balloon and make it harder to make your payments. 
 
+You should also find out if you have [payment protection insurance](https://www.ccpc.ie/consumers/money/insurance/payment-protection-insurance/) on your current credit cards. This is a benefit that will suspend your interest rates and pay your minimum payment for a period of time. It can prevent you from having missed payments that will be reported on your credit report, which will hurt your credit score. Of course, there is a monthly fee that comes along with this protection, and you are not able to get the insurance once you're already unemployed. So if this is something you feel like you might need someday, look into it now.
+
 *Have you ever been unemployed? Did you do the things above? Is there anything you wish you'd done? Share in the comments!*
