@@ -6,6 +6,11 @@ categories:
 - debt
 - Credit
 image: "/uploads/yoga.jpg"
+tweet: 'So you''re unemployed. Here''s what you should do next:'
+posts:
+- Should You File for Unemployment?
+- Why You Should Care About Your Credit Score
+- Why You Need an Emergency Fund
 ---
 
 It's one of the scariest positions to be in. It's the thing that you hope will never happen. But unemployment is real and many of us find ourself in the midst of it at some point in our lives. Regardless of how long you're unemployed, it can wreak havoc on your peace of mind and your finances. There are, however, some steps you can take to try to limit that negative impact. Many of these steps will also protect your credit in the long run.
@@ -50,9 +55,9 @@ Plus, even if you're able to pay that money back eventually, you'll have lost mo
 
 ## Don't Only Rely on COBRA
 
-After you lose or leave a job, you typically get a letter in the mail about COBRA insurance. If you don't know what COBRA is, it stands for Consolidated Omnibus Budget Reconciliation Act of 1985, which was a law passed that requires there to be an insurance option for those who leave employment.
+After you lose or leave a job, you typically get a letter in the mail about [COBRA](https://www.cancer.org/treatment/finding-and-paying-for-treatment/understanding-health-insurance/health-insurance-laws/what-is-cobra.html) insurance. If you don't know what COBRA is, it stands for [Consolidated Omnibus Budget Reconciliation Act of 1985](https://en.wikipedia.org/wiki/Consolidated_Omnibus_Budget_Reconciliation_Act_of_1985), which was a law passed that requires there to be an insurance option for those who leave employment.
 
-COBRA is available whether you left your job voluntarily or not. You don't have to be laid off in order to use it.
+COBRA is available whether you left your job voluntarily or not. You don't have to be laid off in order to use it. COBRA is typically available for you to use for about 18 months, if you're unemployed or underemployed for that long. It's a great benefit that was the only option for insurance covered before the Affordable Care Act was passed. If you're unemployed, don't automatically assume that COBRA is your best or only option. Compare benefits and costs to the insurance plans in the [healthcare marketplace](http://www.healthcare.gov). You might find plans with more coverage for a lower cost.
 
 ## Don't Rely on Your Credit Cards
 
