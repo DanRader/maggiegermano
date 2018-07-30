@@ -6,6 +6,11 @@ categories:
 - debt
 - Credit
 image: "/uploads/yoga.jpg"
+tweet: 'So you''re unemployed. Here''s what you should do next:'
+posts:
+- Should You File for Unemployment?
+- Why You Should Care About Your Credit Score
+- Why You Need an Emergency Fund
 ---
 
 It's one of the scariest positions to be in. It's the thing that you hope will never happen. But unemployment is real and many of us find ourself in the midst of it at some point in our lives. Regardless of how long you're unemployed, it can wreak havoc on your peace of mind and your finances. There are, however, some steps you can take to try to limit that negative impact. Many of these steps will also protect your credit in the long run.
@@ -22,9 +27,9 @@ Putting your loans into deferment will protect you from late fees and penalties.
 
 ## Apply for Marketplace Insurance
 
-If you've lost your job, you've most likely lost your health insurance as well. Since losing your job is considered a life event, you will be eligible to get insurance through the [marketplace](https://www.healthcare.gov/) once you're unemployed. Not only will this protect you if you have a health emergency while you're unemployed (and allow you to get coverage for your existing needs), but it will also be much more affordable.
+If you've lost your job, you've most likely lost your health insurance as well. Since losing your job is considered a life event, you will be eligible to get insurance through the [marketplace](https://www.healthcare.gov/) once you're unemployed. Not only will this [protect you](https://www.maggiegermano.com/blog/why-healthcare-is-self-care/) if you have a health emergency while you're unemployed (and allow you to get coverage for your existing needs), but it will also be much more affordable than other options, like COBRA (see more about that below).
 
-PS: You don't have to get laid off in order to apply for marketplace insurance. If you leave a job for any reason, you're eligible. The amount you will pay each month will determine how much you will be earning. Fun fact: I have Kaiser Permanente insurance through the marketplace now that I'm self-employed.
+PS: You don't have to get laid off in order to apply for marketplace insurance. If you leave a job for any reason, you're eligible. The amount you will pay each month will determine how much you will be earning. Fun fact: I have Kaiser Permanente insurance through the marketplace now that I'm self-employed. It's super affordable, so I don't hesitate before going to the doctor.
 
 ## Search for New Jobs
 
@@ -34,11 +39,11 @@ If you don't know where to start, reach out to the people in your networks! Ther
 
 ## Turn to Your Emergency Savings
 
-Hopefully you've been able to build up some sort of emergency savings for times like this. And if you haven't yet and are still employed, start prioritizing it now! It can be scary and frustrating to have to use your emergency savings, but that's literally what you saved it for. Losing your job is definitely an emergency, and you need that money in order to keep a roof over your head, food in your belly, and your bills current. So I am giving you permission to use your emergency savings on your bills in this scenario.
+Hopefully you've been able to build up some sort of [emergency savings](https://www.maggiegermano.com/blog/you-need-an-emergency-fund) for times like this. And if you haven't yet and are still employed, start prioritizing it now! It can be scary and frustrating to have to use your emergency savings, but that's literally what you saved it for. Losing your job is definitely an emergency, and you need that money in order to keep a roof over your head, food in your belly, and your bills current. So I am giving you permission to use your emergency savings on your bills in this scenario.
 
 ## Ask for Help
 
-When my dad was unemployed for six months when I was a kid, he still had bills to pay and three children to take care of. To make matters worse, he had taken out a 401k loan (you'll see how I feel about this below) for home improvements. It turns out, when you quit or get laid off, you have to pay back your 401k loan very quickly or else you'll get taxed and penalized as if you withdrew early for retirement. My dad wanted very much to avoid this penalty, so he asked his father if he could borrow money to pay it back. Luckily, my grandfather had that money and was able to loan it to my dad. 
+When my dad was unemployed for six months when I was a kid, he still had bills to pay and three children to take care of. To make matters worse, he had previously taken out a 401k loan (you'll see how I feel about this below) for home improvements. It turns out, when you quit or get laid off, you have to pay back your 401k loan very quickly or else you'll get taxed and penalized as if you withdrew early for retirement. My dad wanted very much to avoid this penalty, so he asked his father if he could borrow money to pay it back. Luckily, my grandfather had that money and was able to loan it to my dad. This helped to prevent a lot of stress and loss of money, so I'm grateful that my dad turned to my grandfather for help when he needed it.
 
 Of course, borrowing money from loved ones can get really complicated. It can cause problems in relationships and make things awkward. So if you do borrow money from a family member or friend, make sure to document your agreement in writing. Map out a repayment plan with a deadline. That way, everyone will be on the same page, and no one will get frustrated or resentful. If you end up having trouble paying the money back on time, be honest! Have a conversation with your loved one so that they know what's going on.
 
@@ -50,9 +55,9 @@ Plus, even if you're able to pay that money back eventually, you'll have lost mo
 
 ## Don't Only Rely on COBRA
 
-After you lose or leave a job, you typically get a letter in the mail about COBRA insurance. If you don't know what COBRA is, it stands for Consolidated Omnibus Budget Reconciliation Act of 1985, which was a law passed that requires there to be an insurance option for those who leave employment.
+After you lose or leave a job, you typically get a letter in the mail about [COBRA](https://www.cancer.org/treatment/finding-and-paying-for-treatment/understanding-health-insurance/health-insurance-laws/what-is-cobra.html) insurance. If you don't know what COBRA is, it stands for [Consolidated Omnibus Budget Reconciliation Act of 1985](https://en.wikipedia.org/wiki/Consolidated_Omnibus_Budget_Reconciliation_Act_of_1985), which was a law passed that requires there to be an insurance option for those who leave employment.
 
-COBRA is available whether you left your job voluntarily or not. You don't have to be laid off in order to use it.
+COBRA is available whether you left your job voluntarily or not. You don't have to be laid off in order to use it. COBRA is typically available for you to use for about 18 months, if you're unemployed or underemployed for that long. It's a great benefit that was the only option for insurance covered before the Affordable Care Act was passed. If you're unemployed, don't automatically assume that COBRA is your best or only option. Compare benefits and costs to the insurance plans in the [healthcare marketplace](http://www.healthcare.gov). You might find plans with more coverage for a lower cost.
 
 ## Don't Rely on Your Credit Cards
 
