@@ -22,7 +22,7 @@ Putting your loans into deferment will protect you from late fees and penalties.
 
 ## Apply for Marketplace Insurance
 
-If you've lost your job, you've most likely lost your health insurance as well. Since losing your job is considered a life event, you will be eligible to get insurance through the [marketplace](https://www.healthcare.gov/) once you're unemployed. Not only will this protect you if you have a health emergency while you're unemployed (and allow you to get coverage for your existing needs), but it will also be much more affordable. 
+If you've lost your job, you've most likely lost your health insurance as well. Since losing your job is considered a life event, you will be eligible to get insurance through the [marketplace](https://www.healthcare.gov/) once you're unemployed. Not only will this protect you if you have a health emergency while you're unemployed (and allow you to get coverage for your existing needs), but it will also be much more affordable.
 
 PS: You don't have to get laid off in order to apply for marketplace insurance. If you leave a job for any reason, you're eligible. The amount you will pay each month will determine how much you will be earning. Fun fact: I have Kaiser Permanente insurance through the marketplace now that I'm self-employed.
 
@@ -38,7 +38,7 @@ Hopefully you've been able to build up some sort of emergency savings for times 
 
 ## Ask for Help
 
-When my dad was unemployed for six months when I was a kid, he still had bills to pay and three children to take care of. 
+When my dad was unemployed for six months when I was a kid, he still had bills to pay and three children to take care of. To make matters worse, he had taken out a 401k loan (you'll see how I feel about this below) for home improvements. It turns out, when you quit or get laid off, you have to pay back your 401k loan very quickly or else you'll get taxed and penalized as if you withdrew early for retirement. 
 
 Of course, borrowing money from loved ones can get really complicated. It can cause problems in relationships and make things awkward. So if you do borrow money from a family member or friend, make sure to document your agreement in writing. Map out a repayment plan with a deadline. That way, everyone will be on the same page, and no one will get frustrated or resentful. If you end up having trouble paying the money back on time, be honest! Have a conversation with your loved one so that they know what's going on.
 
@@ -54,4 +54,4 @@ COBRA is available whether you left your job voluntarily or not. You don't have 
 
 ## Don't Rely on Your Credit Cards
 
-One of the keys for financially protecting yourself is to not use your credit cards unless you have the money to pay them back. Of course, this can be impossible when you have bills to pay and mouths to feed, with not much money coming in. 
+One of the keys for financially protecting yourself is to not use your credit cards unless you have the money to pay them back. Of course, this can be impossible when you have bills to pay and mouths to feed, with not much money coming in.
