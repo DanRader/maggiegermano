@@ -12,9 +12,11 @@ posts:
 - How to Create a Wedding Budget
 ---
 
-I'm on my honeymoon right now! Well, I'm actually in the air or in an airport somewhere. We left DC late last night and are en route to Thailand for a three-week honeymoon adventure! You can keep track of what we're up to by following my [Instagram](https://www.instagram.com/maggiegermano/).
+I'm on my honeymoon right now! Well, I'm actually in the air or in an airport somewhere. We left DC late last night and are en route to Thailand for a three-week honeymoon adventure! You can keep track of what we're up to by following my [Instagram](https://www.instagram.com/maggiegermano/). 
 
 ## Start Planning Early
+
+We decided where we wanted to go on our honeymoon at least a year ago. This gave us a lot of time to plan and save for our trip. It's unlikely that you could just up and go to Thailand for three weeks if you haven't been planning and saving for a while. (Unless, of course, you keep a full travel savings fund at all times.) 
 
 ## Save, Save, Save
 
