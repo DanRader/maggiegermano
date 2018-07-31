@@ -6,3 +6,12 @@ categories:
 image: "/uploads/wallet.jpg"
 ---
 
+So you've come into a bit of cash, congratulations! This is an exciting moment, but it's also a good time to take a step back before making any decisions.
+
+## Don't Spend It Right Away
+
+## Get Clear on Your Debts
+
+## Prioritize Your Goals
+
+## Put 10% Aside for Fun
