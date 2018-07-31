@@ -12,3 +12,5 @@ posts:
 ---
 
 Practice Gratitude
+
+Get Off Social Media
