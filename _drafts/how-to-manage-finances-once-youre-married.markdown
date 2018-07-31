@@ -5,5 +5,10 @@ categories:
 - Budget
 - lifestyle
 image: "/uploads/couple-2a0cce.jpg"
+tweet: There's no one way to manage finances as a married couple. Here are your options.
+posts:
+- How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
+- How to Budget as a Couple
+- What Survivors Wish You Knew About Financial Abuse
 ---
 
