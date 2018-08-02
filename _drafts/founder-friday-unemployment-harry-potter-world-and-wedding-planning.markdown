@@ -3,6 +3,7 @@ title: Founder Friday | Unemployment, Harry Potter World, and Wedding Planning
 date: 2018-08-03 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/train.jpg"
 ---
 
 Happy Friday! I hope you had a fantastic week, even though it was pretty wet. Here’s what I was up to!
