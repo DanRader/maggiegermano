@@ -1,9 +1,12 @@
 ---
 title: Founder Friday | Unemployment, Harry Potter World, and Wedding Planning
 date: 2018-08-03 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/train.jpg"
+tweet: 'Groceries, flights, and gasoline. See how I spent money this week in my #founderfriday
+  post!'
 posts:
 - Founder Friday | Women@Forbes, Workshops, and Speaking Gigs
 - Founder Friday | Stand-Up Comedy, Celebrations, and Food
