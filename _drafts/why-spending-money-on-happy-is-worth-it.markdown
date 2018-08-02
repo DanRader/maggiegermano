@@ -6,3 +6,9 @@ categories:
 - Budget
 ---
 
+
+It Improves Your Quality of Life
+
+It Makes Other Sacrifices Worth It
+
+It
