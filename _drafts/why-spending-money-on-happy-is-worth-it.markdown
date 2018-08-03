@@ -15,9 +15,9 @@ posts:
 
 If you've been reading my blog for a while, you know that I'm not one of those financial bloggers who tells you to give up everything you love in order to pay off debt and build up savings. Yes, it takes some sacrifice to get yourself to a better financial situation. That's true when you want to make any kind of change or improvement. But I also believe that it's incredibly important to allow yourself joy and comfort.
 
-For instance, have you ever decided you wanted to get fit and/or lose weight? You've probably tried a handful of different diets or exercise routines. You tell yourself you're not going to eat ANY sugar and you're going to work out every single day. How long does that usually last for you? In my experience, it doesn't last very long. I like to use this analogy because I think that physical wellness and financial wellness are very similar. If you restrict yourself from having anything that you enjoy, you'll give up and go completely in the other direction. 
+For instance, have you ever decided you wanted to get fit and/or lose weight? You've probably tried a handful of different diets or exercise routines. You tell yourself you're not going to eat ANY sugar and you're going to work out every single day. How long does that usually last for you? In my experience, it doesn't last very long. I like to use this analogy because I think that physical wellness and financial wellness are very similar. If you restrict yourself from having anything that you enjoy, you'll give up and go completely in the other direction.
 
-For example, every time I have done a Whole 30, I have completely gorged myself on cheese and chocolate after it's over. That's not sustainable! And then it makes me feel like I undid all the healthy progress I made before. 
+For example, every time I have done a Whole 30, I have completely gorged myself on cheese and chocolate after it's over. That's not sustainable! And then it makes me feel like I undid all the healthy progress I made before.
 
 ## It Improves Your Quality of Life
 
@@ -26,3 +26,5 @@ For example, every time I have done a Whole 30, I have completely gorged myself 
 Of course, you can't just continue spending money on the things that make you happy and expect your budget to magically work better. The key to affording the things you love the most is making room for it in your budget. The way you can make room for something is either to bring in more money or reduce or eliminate other spending.
 
 ## It Makes It Easier to Stick to a Budget
+
+## It Reduces the Scarcity Mindset
