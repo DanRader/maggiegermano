@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Unemployment, Harry Potter World, and Wedding Planning
 date: 2018-08-03 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 image: "/uploads/train.jpg"
