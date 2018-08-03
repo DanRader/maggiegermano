@@ -4,6 +4,7 @@ date: 2018-08-06 11:00:00 -04:00
 categories:
 - lifestyle
 - Budget
+image: "/uploads/balloons.jpg"
 ---
 
 If you've been reading my blog for a while, you know that I'm not one of those financial bloggers who tells you to give up everything you love in order to pay off debt and build up savings. Yes, it takes some sacrifice to get yourself to a better financial situation. That's true when you want to make any kind of change or improvement. But I also believe that it's incredibly important to allow yourself joy and comfort.
