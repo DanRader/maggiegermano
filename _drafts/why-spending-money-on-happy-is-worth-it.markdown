@@ -23,4 +23,6 @@ For example, every time I have done a Whole 30, I have completely gorged myself 
 
 ## It Makes Other Sacrifices Worth It
 
+Of course, you can't just continue spending money on the things that make you happy and expect your budget to magically work better. The key to affording the things you love the most is making room for it in your budget. The way you can make room for something is either to bring in more money or reduce or eliminate other spending.
+
 ## It Makes It Easier to Stick to a Budget
