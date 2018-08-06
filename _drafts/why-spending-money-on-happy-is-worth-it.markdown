@@ -29,6 +29,8 @@ Of course, you can't just continue spending money on the things that make you ha
 
 ## It Makes It Easier to Stick to a Budget
 
+Have you ever tried to implement a budget but gave up when it felt too restrictive? 
+
 ## It Reduces the Scarcity Mindset
 
 Mindset has a huge impact on everything in our lives. If you believe that you'll never have different circumstances, you'll likely never try to change your circumstances. It's a self-fulfilling prophesy. 
