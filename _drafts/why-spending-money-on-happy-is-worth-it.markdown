@@ -15,11 +15,13 @@ posts:
 
 If you've been reading my blog for a while, you know that I'm not one of those financial bloggers who tells you to give up everything you love in order to pay off debt and build up savings. Yes, it takes some sacrifice to get yourself to a better financial situation. That's true when you want to make any kind of change or improvement. But I also believe that it's incredibly important to allow yourself joy and comfort long the way.
 
-For instance, have you ever decided you wanted to get fit and/or lose weight? You've probably tried a handful of different diets or exercise routines. You tell yourself you're not going to eat ANY sugar and you're going to work out every single day. How long does that usually last for you? In my experience, it doesn't last very long. I like to use this analogy because I think that physical wellness and financial wellness are very similar. If you restrict yourself from having anything that you enjoy, you'll give up and go completely in the other direction.
+Have you ever decided you wanted to get fit and/or lose weight? You've probably tried a handful of different diets or exercise routines. You tell yourself you're not going to eat ANY sugar and you're going to work out every single day. How long does that usually last for you? In my experience, it doesn't last very long. I like to use this analogy because I think that physical wellness and financial wellness are very similar. If you restrict yourself from having anything that you enjoy, you'll give up and go completely in the other direction.
 
-For example, every time I have done a Whole 30, I have completely gorged myself on cheese and chocolate after it's over. That's not sustainable! And then it makes me feel like I undid all the healthy progress I made before. So my goal is to create a lifestyle that encourages and supports healthy eating, so that I'm taking care of myself overall, while still allowing myself things I love, like chocolate and beer. 
+> Yes, it takes some sacrifice to get yourself to a better financial situation. That's true when you want to make any kind of change or improvement. But I also believe that it's incredibly important to allow yourself joy and comfort long the way.
 
-That's why I think it's so important to build the things that make you happy into your budget. 
+For example, every time I have done a [Whole 30](https://whole30.com/), I have completely gorged myself on cheese and chocolate after it's over. That's not sustainable! And then it makes me feel like I undid all the healthy progress I made before (because I definitely did). So my new goal is to create a lifestyle that encourages and supports healthy eating, so that I'm taking care of myself overall, while still allowing myself things I love, like chocolate and beer, once in a while. 
+
+That's why I think it's so important to build the things that make you happy into your budget. There are many benefits, both to you and to your finances:
 
 ## It Improves Your Quality of Life
 
@@ -31,7 +33,7 @@ Of course, you can't just continue spending money on the things that make you ha
 
 ## It Makes It Easier to Stick to a Budget
 
-Have you ever tried to implement a [budget](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/) but gave up when it felt too restrictive? I hear you! Humans aren't very good at restriction; we need moderation. 
+Have you ever tried to implement a [budget](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/) but gave up when it felt too restrictive? I hear you! Humans aren't very good at restriction; we need moderation. Building fun or relaxing things into your regular budget will make it feel less like you're on a budget and more like you're allowing yourself joy. 
 
 ## It Reduces the Scarcity Mindset
 
