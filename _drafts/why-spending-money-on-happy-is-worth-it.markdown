@@ -19,19 +19,19 @@ For instance, have you ever decided you wanted to get fit and/or lose weight? Yo
 
 For example, every time I have done a Whole 30, I have completely gorged myself on cheese and chocolate after it's over. That's not sustainable! And then it makes me feel like I undid all the healthy progress I made before. So my goal is to create a lifestyle that encourages and supports healthy eating, so that I'm taking care of myself overall, while still allowing myself things I love, like chocolate and beer. 
 
-That's why I think it's so important to build the things that make you happy into your budget. Here's why:
+That's why I think it's so important to build the things that make you happy into your budget. 
 
 ## It Improves Your Quality of Life
 
-When you align your money with your [deeply-held values](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/), you will feel happier and more fulfilled. Values are beliefs and principles that make what we do in life worthwhile and meaningful to us. Your financial goals will be a lot easier to attain if they line up with what you believe in most. 
+When you align your money with your [deeply-held values](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/), you will feel happier and more fulfilled. Values are beliefs and principles that make what we do in life worthwhile and meaningful to us. Your financial goals will be a lot easier to attain if they line up with what you believe in most. Plus, if you're doing the things that you love most, or that bring you joy, your quality of life will improve. 
 
 ## It Makes Other Sacrifices Worth It
 
-Of course, you can't just continue spending money on the things that make you happy and expect your budget to magically work better. The key to affording the things you love the most is making room for it in your budget. The way you can make room for something is either to bring in more money or reduce or eliminate other spending.
+Of course, you can't just continue spending money on the things that make you happy and expect your budget to magically work better. The key to affording the things you love the most is making room for it in your budget. The way you can make room for something is either to bring in more money or reduce or eliminate other spending. When you're clear on where you want your money to be going, it gets easier to stop spending in other areas. For example, if you love trying new restaurants with your friends, you'll have to have a larger dining budget. In order to make room for that, you can give up taking cabs around. If it's obvious that you're cutting back on that expense to allow for the more important expense, it'll be more motivating to take the bus.
 
 ## It Makes It Easier to Stick to a Budget
 
-Have you ever tried to implement a budget but gave up when it felt too restrictive? 
+Have you ever tried to implement a budget but gave up when it felt too restrictive? I hear you! Humans aren't very good at restriction; we need moderation. 
 
 ## It Reduces the Scarcity Mindset
 
