@@ -21,7 +21,7 @@ For example, every time I have done a Whole 30, I have completely gorged myself 
 
 ## It Improves Your Quality of Life
 
-When you align your money with your [deeply-held values](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/), you will feel happier and more fulfilled. 
+When you align your money with your [deeply-held values](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/), you will feel happier and more fulfilled. Values are beliefs and principles that make what we do in life worthwhile and meaningful to us. Your financial goals will be a lot easier to attain if they line up with what you believe in most. 
 
 ## It Makes Other Sacrifices Worth It
 
