@@ -12,7 +12,7 @@ posts:
 - Why Credit Card Interest Sucks and What You Could Be Spending It On Instead
 ---
 
-So you've come into a bit of cash, congratulations! This is an exciting moment, but it's also a good time to take a step back before making any decisions.
+So you've come into a bit of cash, congratulations! This is an exciting moment, but it's also a good time to take a step back before making any decisions. First thing's first, what's a windfall? A windfall is when you received an unexpected, potentially large, sum of money. This could be an inheritance, a gift, a refund (tax, student loan), etc. Basically, it's an amount of money that you weren't relying on.
 
 ## Don't Spend It Right Away
 
