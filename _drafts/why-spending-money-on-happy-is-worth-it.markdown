@@ -17,6 +17,8 @@ If you've been reading my blog for a while, you know that I'm not one of those f
 
 Have you ever decided you wanted to get fit and/or lose weight? You've probably tried a handful of different diets or exercise routines. You tell yourself you're not going to eat ANY sugar and you're going to work out every single day. How long does that usually last for you? In my experience, it doesn't last very long. I like to use this analogy because I think that physical wellness and financial wellness are very similar. If you restrict yourself from having anything that you enjoy, you'll give up and go completely in the other direction.
 
+> Yes, it takes some sacrifice to get yourself to a better financial situation. That's true when you want to make any kind of change or improvement. But I also believe that it's incredibly important to allow yourself joy and comfort long the way.
+
 For example, every time I have done a [Whole 30](https://whole30.com/), I have completely gorged myself on cheese and chocolate after it's over. That's not sustainable! And then it makes me feel like I undid all the healthy progress I made before (because I definitely did). So my new goal is to create a lifestyle that encourages and supports healthy eating, so that I'm taking care of myself overall, while still allowing myself things I love, like chocolate and beer, once in a while. 
 
 That's why I think it's so important to build the things that make you happy into your budget. There are many benefits, both to you and to your finances:
