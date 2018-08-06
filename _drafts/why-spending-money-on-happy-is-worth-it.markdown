@@ -19,7 +19,7 @@ For instance, have you ever decided you wanted to get fit and/or lose weight? Yo
 
 For example, every time I have done a Whole 30, I have completely gorged myself on cheese and chocolate after it's over. That's not sustainable! And then it makes me feel like I undid all the healthy progress I made before. So my goal is to create a lifestyle that encourages and supports healthy eating, so that I'm taking care of myself overall, while still allowing myself things I love, like chocolate and beer. 
 
-That's why I think it's so important to build the things that make you happy into your budget. 
+That's why I think it's so important to build the things that make you happy into your budget. Here's why:
 
 ## It Improves Your Quality of Life
 
