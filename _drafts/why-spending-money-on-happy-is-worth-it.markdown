@@ -25,7 +25,9 @@ That's why I think it's so important to build the things that make you happy int
 
 ## It Improves Your Quality of Life
 
-When you align your money with your [deeply-held values](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/), you will feel happier and more fulfilled. Values are beliefs and principles that make what we do in life worthwhile and meaningful to us. Your financial goals will be a lot easier to attain if they line up with what you believe in most. Plus, if you're doing the things that you love most, or that bring you joy, your quality of life will improve. 
+When you align your money with your [deeply-held values](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/), you will feel happier and more fulfilled. Values are beliefs and principles that make what we do in life worthwhile and meaningful to us. Your financial goals will be a lot easier to attain if they line up with what you believe in most. Plus, if you're doing the things that you love most, your quality of life will improve. 
+
+I love to travel, but travel can be expensive. Maybe it's more responsible to save and invest the money I would use on travel, but I don't think I would have a very good quality of life if I did that. Yes, I have save my emergency fund and I prioritize my retirement savings, but I also get so much joy from traveling the world. That is why I save money throughout the year for travel. It is a specific line item in my budget, so that I am able to travel regularly. This is absolutely worthwhile for me, because I don't want to wait until retirement to see the world.
 
 ## It Makes Other Sacrifices Worth It
 
