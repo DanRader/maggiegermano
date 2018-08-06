@@ -51,4 +51,4 @@ However, if you're creating space for joy, and prioritizing that spending, it wi
 
 Of course, even if you prioritize spending money on the things that make you happiest, there is going to be a limit to your spending. I want you to spend money on happy, but I don't want you to spend with abandon. You should still be living within your means and automating your savings. The key is to build your values and happiness spending into your budget. If there isn't enough room for them, figure out what you can cut out to make the room.
 
-*What do you spend money on that is non-negotiable? What can't you live without? Share in the comments!* 
+*What do you spend money on that is non-negotiable? What can't you live without? Share in the comments!*  
