@@ -31,7 +31,7 @@ Of course, you can't just continue spending money on the things that make you ha
 
 ## It Makes It Easier to Stick to a Budget
 
-Have you ever tried to implement a budget but gave up when it felt too restrictive? I hear you! Humans aren't very good at restriction; we need moderation. 
+Have you ever tried to implement a [budget](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/) but gave up when it felt too restrictive? I hear you! Humans aren't very good at restriction; we need moderation. 
 
 ## It Reduces the Scarcity Mindset
 
