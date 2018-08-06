@@ -34,3 +34,5 @@ Have you ever tried to implement a budget but gave up when it felt too restricti
 ## It Reduces the Scarcity Mindset
 
 Mindset has a huge impact on everything in our lives. If you believe that you'll never have different circumstances, you'll likely never try to change your circumstances. It's a self-fulfilling prophesy. The scarcity mindset means that you think that you'll never have enough. Enough money, enough stuff, enough experiences, etc. Does that resonate with you? This mindset impacts your behavior, and makes it less likely that you'll be thoughtful and discerning with your money. 
+
+Of course, even if you prioritize spending money on the things that make you happiest, there is going to be a limit to your spending. I want you to spend money on happy, but I don't want you to spend with abandon. You should still be living within your means and automating your savings. 
