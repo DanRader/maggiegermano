@@ -22,6 +22,8 @@ I know it's tempting, but don't spend this money as soon as you get it! If you k
 
 ## Prioritize Your Goals
 
+This is a great time to get some perspective on your financial situation. 
+
 ## Get Clear on Your Debts
 
 This is an amazing opportunity to start making
