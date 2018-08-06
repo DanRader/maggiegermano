@@ -25,7 +25,7 @@ That's why I think it's so important to build the things that make you happy int
 
 ## It Improves Your Quality of Life
 
-When you align your money with your [deeply-held values](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/), you will feel happier and more fulfilled. Values are beliefs and principles that make what we do in life worthwhile and meaningful to us. Your financial goals will be a lot easier to attain if they line up with what you believe in most. Plus, if you're doing the things that you love most, or that bring you joy, your quality of life will improve. 
+When you align your money with your [deeply-held values](https://www.maggiegermano.com/blog/do-your-habits-and-values-align/), you will feel happier and more fulfilled. Values are beliefs and principles that make what we do in life worthwhile and meaningful to us. Your financial goals will be a lot easier to attain if they line up with what you believe in most. Plus, if you're doing the things that you love most, your quality of life will improve. 
 
 ## It Makes Other Sacrifices Worth It
 
