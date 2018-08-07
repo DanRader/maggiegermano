@@ -2,7 +2,7 @@
 title: Making & Breaking the Budget
 date: 2018-09-15 14:00:00 -04:00
 image: "/uploads/FB@2x%20(1).png"
-event-date: 
+event-date: 2018-09-15 14:00:00 -04:00
 start-time: 2:00 PM
 end-time: 5:00 PM
 location: Yoga Heights, 3506 Georgia Avenue NW, Washington, DC 20010

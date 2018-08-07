@@ -7,7 +7,7 @@ quote-1:
     and draws the crowd in. Her knowledge of finance and how it can impact everyday
     life is unrivaled.
   name: Janice Omadeke
-  org: The mentor method
+  org: The Mentor Method
 ---
 
 Maggie Germano's relatable presentation style is immediately engaging and draws the crowd in. Her knowledge of finance and how it can impact everyday life is unrivaled.  the crowd in. Her knowledge of finance and how it can impact everyday life is unrivaled.
