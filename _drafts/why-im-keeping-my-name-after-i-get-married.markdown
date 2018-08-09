@@ -1,11 +1,16 @@
 ---
 title: Why I'm Keeping My Name After I Get Married
-date: 2018-08-09 09:22:00 -04:00
+date: 2018-10-29 11:00:00 -04:00
+categories:
+- lifestyle
+image: "/uploads/rings.jpg"
 ---
 
 ***Disclaimer: **This article is going to be super heteronormative. I’m speaking about my own experience, and based on the research that has been conducted so far. Unfortunately, much of the research has only focused on heterosexual (white?) couples. I will include some stats about gay couples, but most of this article will focus on my thoughts on heterosexual marriage, as that’s what I’m about to enter into! I’d love to hear your experience as someone in a same-sex marriage (or otherwise), so please do share in the comments!*\
 \
-80-9% of American women take their husband's last name after they get married. Only 3% of men take their husband’s last name. \
+80-9% of American women take their husband's last name after they get married. Only 3% of men take their husband’s last name. 
+
+I would love to say that I don't hold any judgment for women who do change their names, but I am still a human. I believe that women should make whatever choice they feel best about, and if that means changing their name, go for it! But I'd be lying if I said I didn't bristle a little bit every time a friend changes their name on Facebook the day after their wedding. \
 \
 The history of a woman taking her husband’s name. \
 \
