@@ -16,7 +16,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## **How I Earned Money This Week**
 
-* I'm speaking at ISL next week, and the payment for the gig went through this week.
+* I'm speaking at [ISL](https://isl.co/) next week, and the payment for the gig went through this week.
 
 * We had Airbnb guests nonstop this week, which has been going really well. We had a solid core door installed in the basement stairwell and it has helped a lot with dampening the sounds coming from the Airbnb.  
 
