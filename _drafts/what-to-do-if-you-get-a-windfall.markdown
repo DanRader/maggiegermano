@@ -22,7 +22,7 @@ I know it's tempting, but don't spend this money as soon as you get it! If you k
 
 ## Prioritize Your Goals
 
-This is a great time to get some perspective on your financial situation. 
+This is a great time to get some perspective on your financial situation.
 
 ## Get Clear on Your Debts
 
@@ -30,4 +30,4 @@ This is an amazing opportunity to start making
 
 ## Put 10% Aside for Fun
 
-Putting all your money towards responsible goals is great, but it often doesn't feel very fun. That's why it's a good idea to set 10 percent of that windfall aside just for you. When you make room for indulgence, it's easier to be responsible with most of the money. 
+Putting all your money towards responsible goals is great, but it often doesn't feel very fun. That's why it's a good idea to set 10 percent of that windfall aside just for you. When you make room for [indulgence](https://www.maggiegermano.com/blog/why-spending-money-on-happy-is-worth-it/), it's easier to be responsible with most of the money.
