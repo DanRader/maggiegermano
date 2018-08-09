@@ -15,13 +15,13 @@ Happy Friday! I hope you had a fantastic week, even though it was pretty wet. He
 
 ## **How I Spent Money This Week**
 
-* 
+* I bought a bunch of random wedding items this week. We're buying matching necklaces and neck ties for our bridal party and parents, so I purchased all of those. 
 
 * I have found myself walking to the store most days this week to buy sweet snacks. I have a pretty infamous sweet tooth, but this week it has been even more so. So I spent more than I want to admit on snacks.
 
 ## **What I’m Writing**
 
-xx
+This week, I wrote about why it's important to spend money on things that make you happy. It can actually make it easier for you to stick to a budget! [Check it out.](https://www.maggiegermano.com/blog/why-spending-money-on-happy-is-worth-it/)
 
 ## **What I’m Up To**
 
@@ -35,7 +35,7 @@ xx
 
 ## **What I’m Excited About**
 
-* x
+* We sent our wedding invites out this week! According to The Internet, three months ahead of the wedding is too soon to send out the invitations. But you know what? They were designed, printed, sealed, and stamped early, so I needed them to be out the door. Plus, we've invited quite a few more people than we can actually fit in our venue, so I wanted to give plenty of time to get "no" responses. We also have some people we want to invite later on if there's room, and want to give them plenty of time to respond as well.
 
 * x
 
