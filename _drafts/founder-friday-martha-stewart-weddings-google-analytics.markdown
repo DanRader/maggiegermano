@@ -12,7 +12,7 @@ posts:
 - Founder Friday | Stand-Up Comedy, Celebrations, and Food
 ---
 
-Happy Friday! I hope you had a fantastic week, even though it was pretty wet. Here’s what I was up to!
+Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## **How I Earned Money This Week**
 
