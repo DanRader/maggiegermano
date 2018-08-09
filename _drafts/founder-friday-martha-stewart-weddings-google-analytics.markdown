@@ -22,6 +22,8 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## **How I Spent Money This Week**
 
+* On Sunday, we went grocery shopping for the first time in a couple weeks. I've been finding it difficult to eat normal meals while I'm working at home during the day. That also makes it a lot harder to eat healthy. So this week, we went to the grocery store with a few crock pot recipes in hand. We bought the items that would make zuppa tuscana and Thai chicken soup. Not only did we have food to last us all week, but both meals were delicious and healthy.
+
 * I bought a bunch of random wedding items this week. We're buying matching necklaces and neck ties for our bridal party and parents, so I purchased all of those. I also bought the picture from that we'll be having people sign as a guest book at the wedding. 
 
 * We also each bought some water shoes for our honeymoon. We'll likely be doing quite a bit of swimming and snorkeling, and I personally always feel more comfortable if I have something sturdy on my feet. 
