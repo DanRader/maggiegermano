@@ -22,11 +22,13 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## **How I Spent Money This Week**
 
-* I bought a bunch of random wedding items this week. We're buying matching necklaces and neck ties for our bridal party and parents, so I purchased all of those.
+* I bought a bunch of random wedding items this week. We're buying matching necklaces and neck ties for our bridal party and parents, so I purchased all of those. I also bought the picture from that we'll be having people sign as a guest book at the wedding. 
 
 * We also each bought some water shoes for our honeymoon. We'll likely be doing quite a bit of swimming and snorkeling, and I personally always feel more comfortable if I have something sturdy on my feet. 
 
 * I have found myself walking to the store most days this week to buy sweet snacks. I have a pretty infamous sweet tooth, but this week it has been even more so. So I spent more than I want to admit on snacks.
+
+* We started pre-marital counseling last week. Unfortunately, the therapist that we wanted to use doesn't accept insurance, so we're paying out of pocket for our 90-minute sessions. It's quite the investment, but it's really important to me that we go through this process before our wedding. Our credit card gets charged the Friday after each of our sessions, so we've been charged for two so far. 
 
 ## **What I’m Writing**
 
