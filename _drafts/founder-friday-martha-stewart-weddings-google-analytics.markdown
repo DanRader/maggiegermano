@@ -3,6 +3,13 @@ title: Founder Friday | Martha Stewart, Weddings, Google Analytics
 date: 2018-08-10 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/wed.jpg"
+tweet: "#FounderFriday: wedding items and snacks... see how I spent and earned money
+  this week!"
+posts:
+- Founder Friday | Unemployment, Harry Potter World, and Wedding Planning
+- Founder Friday | Women@Forbes, Workshops, and Speaking Gigs
+- Founder Friday | Stand-Up Comedy, Celebrations, and Food
 ---
 
 Happy Friday! I hope you had a fantastic week, even though it was pretty wet. Here’s what I was up to!
