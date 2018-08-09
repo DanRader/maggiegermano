@@ -34,6 +34,6 @@ This is an amazing opportunity to start making progress on any debt you have. Th
 
 ## Put 10% Aside for Fun
 
-Putting all your money towards responsible goals is great, but it often doesn't feel very fun. That's why it's a good idea to set 10 percent of that windfall aside just for you. When you make room for [indulgence](https://www.maggiegermano.com/blog/why-spending-money-on-happy-is-worth-it/), it's easier to be responsible with most of the money.
+Putting all your money towards responsible goals is great, but it often doesn't feel very fun. That's why it's a good idea to set 10 percent of that windfall aside just for you. When you make room for [indulgence](https://www.maggiegermano.com/blog/why-spending-money-on-happy-is-worth-it/), it's easier to be responsible with most of the money. Plus, you get an instant 
 
 *Have you ever received a windfall? What did you do with it? Do you wish you'd done something different? Share in the comments!*
