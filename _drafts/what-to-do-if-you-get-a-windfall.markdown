@@ -30,7 +30,7 @@ This is an amazing opportunity to start making progress on any debt you have. Th
 
 ## Beef Up Your Emergency Fund
 
-Saving for emergencies doesn't feel very fun, but it's an incredibly important step to take. It will protect you if something unexpected happens, and free
+[Saving for emergencies](https://www.maggiegermano.com/blog/you-need-an-emergency-fund) doesn't feel very fun, but it's an incredibly important step to take. It will protect you if something unexpected happens, and free
 
 ## Put 10% Aside for Fun
 
