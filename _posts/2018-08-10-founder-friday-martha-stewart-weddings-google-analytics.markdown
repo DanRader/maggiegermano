@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Martha Stewart, Weddings, Google Analytics
 date: 2018-08-10 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/wed.jpg"
@@ -49,8 +50,6 @@ This week, I wrote about why it's important to spend money on things that make y
 * We sent our wedding invites out this week! According to The Internet, three months ahead of the wedding is too soon to send out the invitations. But you know what? They were designed, printed, sealed, and stamped early, so I needed them to be out the door. Plus, we've invited quite a few more people than we can actually fit in our venue, so I wanted to give plenty of time to get "no" responses. We also have some people we want to invite later on if there's room, and want to give them plenty of time to respond as well.
 
 * I’m speaking at [Robert Morris University](https://www.rmu.edu/) next weekend! There was a last minute cancelation at one of their orientation events, so I’m filling in to talk about money. I’m hoping to do more events like this, because it’s important to get your money right from a young age, and I want to reach women in college! So if you know of any universities who are looking for money experts, [let me know](mailto:boss@maggiegermano.com).
-
-* x
 
 ## **Money Tip to Take Into the Weekend**
 
