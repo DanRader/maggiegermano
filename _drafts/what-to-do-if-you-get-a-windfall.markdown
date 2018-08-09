@@ -26,7 +26,7 @@ This is a great time to get some perspective on your financial situation.
 
 ## Get Clear on Your Debts
 
-This is an amazing opportunity to start making
+This is an amazing opportunity to start making progress on any debt you have. The first step here is to figure out exactly how much you owe and to whom. If you aren't sure - perhaps you have been avoiding your debt - a good start is to pull your credit report. You'll see any debts that have been sent to collections, any tax liens , 
 
 ## Put 10% Aside for Fun
 
