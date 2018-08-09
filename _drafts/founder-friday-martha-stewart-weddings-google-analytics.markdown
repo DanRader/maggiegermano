@@ -9,13 +9,15 @@ Happy Friday! I hope you had a fantastic week, even though it was pretty wet. He
 
 ## **How I Earned Money This Week**
 
-* x
+* I'm speaking at ISL next week, and the payment for the gig went through this week.
 
-* x
+* We had Airbnb guests nonstop this week, which has been going really well. We had a solid core door installed in the basement stairwell and it has helped a lot with dampening the sounds coming from the Airbnb.  
 
 ## **How I Spent Money This Week**
 
-* x
+* 
+
+* I have found myself walking to the store most days this week to buy sweet snacks. I have a pretty infamous sweet tooth, but this week it has been even more so. So I spent more than I want to admit on snacks.
 
 ## **What I’m Writing**
 
