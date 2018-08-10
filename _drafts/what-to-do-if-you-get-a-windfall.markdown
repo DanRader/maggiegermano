@@ -14,7 +14,7 @@ posts:
 
 So you've come into a bit of cash, congratulations! First thing's first, what's a windfall? A windfall is when you received an unexpected, potentially large, sum of money. This could be an inheritance, a gift, a refund (tax, student loan), etc. Basically, it's an amount of money that you weren't relying on. This is an exciting moment, but it's also a good time to take a step back before making any decisions.
 
-x
+Here are some ideas for what you should do if and when you get a windfall.
 
 > This is an exciting moment, but it's also a good time to take a step back before making any decisions.
 
@@ -36,6 +36,6 @@ This is an amazing opportunity to start making progress on any debt you have. Th
 
 ## Put 10% Aside for Fun
 
-Putting all your money towards responsible goals is great, but it often doesn't feel very fun. That's why it's a good idea to set 10 percent of that windfall aside just for you. When you make room for [indulgence](https://www.maggiegermano.com/blog/why-spending-money-on-happy-is-worth-it/), it's easier to be responsible with most of the money. Plus, you get instant gratification instead of having to wait u
+Putting all your money towards responsible goals is great, but it often doesn't feel very fun or exciting. That's why it's a good idea to set ten percent of that windfall aside just for you. When you make room for [indulgence](https://www.maggiegermano.com/blog/why-spending-money-on-happy-is-worth-it/), it's easier to be responsible with most of the money. Plus, you get the instant gratification that is so compelling. Put the money towards something you've been really wanted to do or have, but that you haven't been able to afford. 
 
 *Have you ever received a windfall? What did you do with it? Do you wish you'd done something different? Share in the comments!*
