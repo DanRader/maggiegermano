@@ -18,19 +18,19 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * I'm speaking at [ISL](https://isl.co/) next week, and the payment for the gig went through this week.
 
-* We had Airbnb guests nonstop this week, which has been going really well. We had a solid core door installed in the basement stairwell and it has helped a lot with dampening the sounds coming from the Airbnb.  
+* We had Airbnb guests nonstop this week, which has been going really well. We had a solid core door installed in the basement stairwell and it has helped a lot with dampening the sounds coming from the Airbnb.
 
 ## **How I Spent Money This Week**
 
 * On Sunday, we went grocery shopping for the first time in a couple weeks. I've been finding it difficult to eat normal meals while I'm working at home during the day. That also makes it a lot harder to eat healthy. So this week, we went to the grocery store with a few crock pot recipes in hand. We bought the items that would make zuppa tuscana and Thai chicken and rice soup. Not only did we have food to last us all week, but both meals were delicious and healthy.
 
-* I bought a bunch of random wedding items this week. We're buying matching necklaces and neck ties for our bridal party and parents, so I purchased all of those. I also bought the picture from that we'll be having people sign as a guest book at the wedding. 
+* I bought a bunch of random wedding items this week. We're buying matching necklaces and neck ties for our bridal party and parents, so I purchased all of those. I also bought the picture from that we'll be having people sign as a guest book at the wedding.
 
-* We also each bought some water shoes for our honeymoon. We'll likely be doing quite a bit of swimming and snorkeling, and I personally always feel more comfortable if I have something sturdy on my feet. 
+* We also each bought some water shoes for our honeymoon. We'll likely be doing quite a bit of swimming and snorkeling, and I personally always feel more comfortable if I have something sturdy on my feet.
 
 * I have found myself walking to the store most days this week to buy sweet snacks. I have a pretty infamous sweet tooth, but this week it has been even more so. So I spent more than I want to admit on snacks.
 
-* We started pre-marital counseling last week. Unfortunately, the therapist that we wanted to use doesn't accept insurance, so we're paying out of pocket for our 90-minute sessions. It's quite the investment, but it's really important to me that we go through this process before our wedding. Our credit card gets charged the Friday after each of our sessions, so we've been charged for two so far. 
+* We started pre-marital counseling last week. Unfortunately, the therapist that we wanted to use doesn't accept insurance, so we're paying out of pocket for our 90-minute sessions. It's quite the investment, but it's really important to me that we go through this process before our wedding. Our credit card gets charged the Friday after each of our sessions, so we've been charged for two so far.
 
 ## **What I’m Writing**
 
@@ -47,6 +47,8 @@ This week, I wrote about why it's important to spend money on things that make y
 ## **What I’m Excited About**
 
 * We sent our wedding invites out this week! According to The Internet, three months ahead of the wedding is too soon to send out the invitations. But you know what? They were designed, printed, sealed, and stamped early, so I needed them to be out the door. Plus, we've invited quite a few more people than we can actually fit in our venue, so I wanted to give plenty of time to get "no" responses. We also have some people we want to invite later on if there's room, and want to give them plenty of time to respond as well.
+
+* I'm going to a [General Assembly](https://generalassemb.ly/) workshop on Google Analytics this weekend. Maybe I'm not "excited" per se, but I'm looking forward to understanding my website analytics better. Even better, a friend of mine gave me a discount code, so I got my ticket 75 percent off!
 
 * I’m speaking at [Robert Morris University](https://www.rmu.edu/) next weekend! There was a last minute cancelation at one of their orientation events, so I’m filling in to talk about money. I’m hoping to do more events like this, because it’s important to get your money right from a young age, and I want to reach women in college! So if you know of any universities who are looking for money experts, [let me know](mailto:boss@maggiegermano.com).
 
