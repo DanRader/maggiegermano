@@ -20,7 +20,7 @@ x
 
 ## Don't Spend It Right Away
 
-I know it's tempting, but don't spend this money as soon as you get it! If you know that money burns a hole in your pocket, move the money out of your checking account. Put the money into a savings account that is separate from your checking, or give the check to someone you trust to hold onto.
+I know it's tempting, but don't spend this money as soon as you get it! If you spend it without being thoughtful, you know you'll regret it later. If you know that money burns a hole in your pocket, move the money out of your checking account. Put the money into a savings account that is separate from your checking, or give the check to someone you trust to hold onto.
 
 ## Prioritize Your Goals
 
