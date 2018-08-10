@@ -12,3 +12,5 @@ posts:
 - What Survivors Wish You Knew About Financial Abuse
 ---
 
+
+Am I responsible for my spouse's debt?
