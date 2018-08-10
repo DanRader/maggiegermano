@@ -24,7 +24,7 @@ I know it's tempting, but don't spend this money as soon as you get it! If you s
 
 ## Prioritize Your Goals
 
-This is a great time to get some perspective on your financial situation. Figure out which goals you want (or must) attack first. It helps to write out your goals clearly so you know where you stand.
+This is a great time to get some perspective on your financial situation. Figure out which goals you want (or must) attack first. It could be paying down debt, building up savings, or investing in something you've been putting off. Whatever the goals are, you should identify them individually and then prioritize them. It helps to write out your goals clearly so you know where you stand.
 
 ## Get Clear on Your Debts
 
