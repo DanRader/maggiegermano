@@ -20,15 +20,15 @@ x
 
 ## Don't Spend It Right Away
 
-I know it's tempting, but don't spend this money as soon as you get it! If you know that money burns a hole in your pocket, move the money out of your checking account. Put the money into a savings account that is separate from your checking, or give the check to someone you trust to hold onto.
+I know it's tempting, but don't spend this money as soon as you get it! If you spend it without being thoughtful, you know you'll regret it later. If you know that money burns a hole in your pocket, move the money out of your checking account. Put the money into a savings account that is separate from your checking, or give the check to someone you trust to hold onto.
 
 ## Prioritize Your Goals
 
-This is a great time to get some perspective on your financial situation. Figure out which goals you want (or must) attack first. It helps to write out your goals clearly so you know where you stand.
+This is a great time to get some perspective on your financial situation. Figure out which goals you want (or must) attack first. It could be paying down debt, building up savings, or investing in something you've been putting off. Whatever the goals are, you should identify them individually and then prioritize them. It helps to write out your goals clearly so you know where you stand.
 
 ## Get Clear on Your Debts
 
-This is an amazing opportunity to start making progress on any debt you have. The first step here is to figure out exactly how much you owe and to whom. If you aren't sure - perhaps you have been avoiding your debt - a good start is to pull your credit report. You'll see any debts that have been sent to collections, any tax liens ,
+This is an amazing opportunity to start making progress on any debt you have. The first step here is to figure out exactly how much you owe and to whom. If you aren't sure - perhaps you have been avoiding your debt - a good start is to pull your [credit report](https://www.maggiegermano.com/blog/the-difference-between-your-credit-score-and-your-credit-report/). You can do this for free at [www.annualcreditreport.com](http://www.annualcreditreport.com). You'll see any debts that have been sent to collections, any tax liens, and any late payments on credit cards or loans. This probably won't feel very good, but it's necessary. If you see any debts listed that you don't recognize, you should do some digging to see if they are on your report in error. Whatever you do recognize, come up with a plan to pay it off. 
 
 ## Beef Up Your Emergency Fund
 
