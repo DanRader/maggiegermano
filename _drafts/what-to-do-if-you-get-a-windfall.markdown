@@ -16,13 +16,15 @@ So you've come into a bit of cash, congratulations! First thing's first, what's 
 
 x
 
+> This is an exciting moment, but it's also a good time to take a step back before making any decisions.
+
 ## Don't Spend It Right Away
 
 I know it's tempting, but don't spend this money as soon as you get it! If you know that money burns a hole in your pocket, move the money out of your checking account. Put the money into a savings account that is separate from your checking, or give the check to someone you trust to hold onto.
 
 ## Prioritize Your Goals
 
-This is a great time to get some perspective on your financial situation. Figure out which goals you want (or must) attack first. It helps to write out your goals clearly so you know where you stand. 
+This is a great time to get some perspective on your financial situation. Figure out which goals you want (or must) attack first. It helps to write out your goals clearly so you know where you stand.
 
 ## Get Clear on Your Debts
 
