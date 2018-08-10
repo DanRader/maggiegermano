@@ -28,7 +28,7 @@ This is a great time to get some perspective on your financial situation. Figure
 
 ## Get Clear on Your Debts
 
-This is an amazing opportunity to start making progress on any debt you have. The first step here is to figure out exactly how much you owe and to whom. If you aren't sure - perhaps you have been avoiding your debt - a good start is to pull your credit report. You'll see any debts that have been sent to collections, any tax liens, and any late payments on credit cards or loans. This probably won't feel very good, but it's necessary. 
+This is an amazing opportunity to start making progress on any debt you have. The first step here is to figure out exactly how much you owe and to whom. If you aren't sure - perhaps you have been avoiding your debt - a good start is to pull your [credit report](https://www.maggiegermano.com/blog/the-difference-between-your-credit-score-and-your-credit-report/). You can do this for free at [www.annualcreditreport.com](http://www.annualcreditreport.com). You'll see any debts that have been sent to collections, any tax liens, and any late payments on credit cards or loans. This probably won't feel very good, but it's necessary. 
 
 ## Beef Up Your Emergency Fund
 
