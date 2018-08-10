@@ -14,7 +14,7 @@ posts:
 
 So you've come into a bit of cash, congratulations! First thing's first, what's a windfall? A windfall is when you received an unexpected, potentially large, sum of money. This could be an inheritance, a gift, a refund (tax, student loan), etc. Basically, it's an amount of money that you weren't relying on. This is an exciting moment, but it's also a good time to take a step back before making any decisions.
 
-x
+Here are some ideas for what you should do if and when you get a windfall.
 
 > This is an exciting moment, but it's also a good time to take a step back before making any decisions.
 
