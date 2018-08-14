@@ -4,6 +4,8 @@ date: 2018-08-20 11:00:00 -04:00
 image: "/uploads/bummed.jpg"
 posts:
 - How to Stop Trying to Keep Up with "the Joneses"
+- Why I Became a Financial Coach for Women
+- 5 Signs You Might Need a Money Coach
 ---
 
 ## Forgive Yourself
