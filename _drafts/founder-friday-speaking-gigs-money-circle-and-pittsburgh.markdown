@@ -10,13 +10,13 @@ posts:
 - Founder Friday | Women@Forbes, Workshops, and Speaking Gigs
 ---
 
-Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
+Happy Friday! I hope you had a fantastic week. Here’s what I was (and still am) up to!
 
 ## **How I Earned Money This Week**
 
 * The [August Money Circle](https://www.maggiegermano.com/events/homebuying-for-newbies/) was this week! I do count this monthly event as income, but the money that comes in usually just covers what I spend on snacks and wine.
 
-* This money hasn't actually come in yet, but I'm speaking at [Roger Morris University](http://www.rmu.edu) tomorrow. They'll be paying me via check when I arrive. 
+* This money hasn't actually come in yet, but I'm speaking at [Roger Morris University](http://www.rmu.edu) tomorrow. They'll be paying me via check when I arrive.
 
 * One of my new clients' monthly payments came through this week.
 
