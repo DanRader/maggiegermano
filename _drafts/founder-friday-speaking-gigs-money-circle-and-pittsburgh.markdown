@@ -3,6 +3,7 @@ title: Founder Friday | Speaking Gigs, Money Circle, and Pittsburgh
 date: 2018-08-17 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/field-a189ca.jpg"
 posts:
 - Founder Friday | Martha Stewart, Weddings, Google Analytics
 - Founder Friday | Unemployment, Harry Potter World, and Wedding Planning
