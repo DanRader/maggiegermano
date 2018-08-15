@@ -20,6 +20,8 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was (and still am
 
 * One of my new clients' monthly payments came through this week.
 
+* I got two new monthly clients this week!
+
 ## **How I Spent Money This Week**
 
 * As I mentioned above, [Money Circle](https://www.maggiegermano.com/moneycircle/) was on Tuesday. I spent money on snacks and wine, and I also bought a "thank you" card and small gift for our guest expert, Liz Delgado-Steo.
