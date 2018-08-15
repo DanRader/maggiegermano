@@ -14,6 +14,8 @@ posts:
 
 ## Learn the Truth About Others
 
+If you've ever received an end-of-year letter from a distant friend of the family, you know that people have been sharing their highlight reels since before social media came around. But social media makes it a lot easier to make our lives look perfect. 
+
 ## Adopt Affirmations
 
 ## Get Clear on What You're Good At
