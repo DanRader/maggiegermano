@@ -26,7 +26,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was (and still am
 
 * As I mentioned above, [Money Circle](https://www.maggiegermano.com/moneycircle/) was on Tuesday. I spent money on snacks and wine, and I also bought a "thank you" card and small gift for our guest expert, Liz Delgado-Steo.
 
-* x
+* We were charged for the Hungry Harvest delivery we received last week. For $22.50, we received a dozen eggs, two bunches of kale, two zucchini, one cucumber, one bunch of small carrots, two bags of snap peas, 
 
 ![2018-08-14 20.43.29-1.jpg](/uploads/2018-08-14%2020.43.29-1.jpg)
 
