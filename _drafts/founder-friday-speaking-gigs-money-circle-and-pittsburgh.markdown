@@ -28,6 +28,8 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was (and still am
 
 * x
 
+![2018-08-14 20.43.29-1.jpg](/uploads/2018-08-14%2020.43.29-1.jpg)
+
 ## **What I’m Writing**
 
 This week, I wrote about what to do with the money if you get a windfall. A windfall is when you receive an unexpected sum of money. It's important to take a beat and make smart decisions with that money. [Check it out!](https://www.maggiegermano.com/blog/what-to-do-if-you-get-a-windfall/)
@@ -38,11 +40,15 @@ This week, I wrote about what to do with the money if you get a windfall. A wind
 
 * x
 
+[![FB@2x (1)-9bba77.png](/uploads/FB@2x%20(1)-9bba77.png)](https://www.eventbrite.com/e/making-breaking-the-budget-workshop-tickets-48317128833)
+
 ## **What I’m Excited About**
 
 * I’m speaking at [Robert Morris University](https://www.rmu.edu/) tomorrow! In fact, I'm on my way to Pittsburgh right now, and I'm pumped to explore a new city. If you have any places that you think I must check out, comment below! I’m hoping to do more events like this, because it’s important to get your money right from a young age, and I want to reach women in college! So if you know of any universities who are looking for money experts, [let me know](mailto:boss@maggiegermano.com).
 
-* x
+* I spoke to the great folks at ISL on Wednesday. I love speaking to smaller groups, because it's really easy to ask people's specific questions. 
+
+![2018-08-15 11.26.46-1.jpg](/uploads/2018-08-15%2011.26.46-1.jpg)
 
 ## **Money Tip to Take Into the Weekend**
 
