@@ -26,7 +26,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was (and still am
 
 * As I mentioned above, [Money Circle](https://www.maggiegermano.com/moneycircle/) was on Tuesday. I spent money on snacks and wine, and I also bought a "thank you" card and small gift for our guest expert, Liz Delgado-Steo.
 
-* We were charged for the [Hungry Harvest](https://www.hungryharvest.net/) delivery we received last week. For $22.50, we received a dozen eggs, two bunches of kale, two zucchini, one cucumber, one bunch of small carrots, two bags of snap peas, and one eggplant. It's a pretty good deal, especially considering that we are also saving the food from being thrown in the trash. (Use [my link](http://hharvest.net/m5didTk) to get $5 off your first order!)
+* We were charged for the [Hungry Harvest](https://www.hungryharvest.net/) delivery we received last week. For $23.99, we received a dozen eggs, two bunches of kale, two zucchini, one cucumber, one bunch of small carrots, two bags of snap peas, and one eggplant. It's a pretty good deal, especially considering that we are also saving the food from being thrown in the trash. (Use [my link](http://hharvest.net/m5didTk) to get $5 off your first order!)
 
 ![2018-08-14 20.43.29-1.jpg](/uploads/2018-08-14%2020.43.29-1.jpg)
 
