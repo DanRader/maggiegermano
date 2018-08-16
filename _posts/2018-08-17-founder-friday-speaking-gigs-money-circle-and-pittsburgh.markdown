@@ -1,9 +1,11 @@
 ---
 title: Founder Friday | Speaking Gigs, Money Circle, and Pittsburgh
 date: 2018-08-17 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/field-a189ca.jpg"
+tweet: "#FounderFriday: See how I earned money and spent money this week!"
 posts:
 - Founder Friday | Martha Stewart, Weddings, Google Analytics
 - Founder Friday | Unemployment, Harry Potter World, and Wedding Planning
@@ -27,6 +29,10 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was (and still am
 * As I mentioned above, [Money Circle](https://www.maggiegermano.com/moneycircle/) was on Tuesday. I spent money on snacks and wine, and I also bought a "thank you" card and small gift for our guest expert, Liz Delgado-Steo.
 
 * We were charged for the [Hungry Harvest](https://www.hungryharvest.net/) delivery we received last week. For $23.99, we received a dozen eggs, two bunches of kale, two zucchini, one cucumber, one bunch of small carrots, two bags of snap peas, and one eggplant. It's a pretty good deal, especially considering that we are also saving the food from being thrown in the trash. (Use [my link](http://hharvest.net/m5didTk) to get $5 off your first order!)
+
+* Dan was traveling for work this week, so he put some money on our shared credit card. Luckily, he'll be reimbursed soon.
+
+* I'll be spending some money in Pittsburgh today, as I'm going to play tourist this afternoon. If you have recommendations for places I should go and where I should eat, comment below!
 
 ![2018-08-14 20.43.29-1.jpg](/uploads/2018-08-14%2020.43.29-1.jpg)
 
