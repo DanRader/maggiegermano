@@ -36,7 +36,7 @@ This week, I wrote about what to do with the money if you get a windfall. A wind
 
 ## **What I’m Up To**
 
-* I’m holding my first official workshop! On Saturday, September 15th, we’ll be gathering at [Yoga Heights](https://yogaheightsdc.com/) in Petworth, DC to learn how to budget! Sign up for the [Making & Breaking the Budget](https://www.eventbrite.com/e/making-breaking-the-budget-workshop-tickets-48317128833) workshop today!
+* I’m holding my first official workshop! On Saturday, September 15th, we’ll be gathering at [Yoga Heights](https://yogaheightsdc.com/) in Petworth, DC to learn how to budget! Sign up for the [Making & Breaking the Budget](https://www.eventbrite.com/e/making-breaking-the-budget-workshop-tickets-48317128833) workshop today! This is for you if you've always struggled to stick to a budget, and you want to find a budgeting framework that works for you. 
 
 * x
 
