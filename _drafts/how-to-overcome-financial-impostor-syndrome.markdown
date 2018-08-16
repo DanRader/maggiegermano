@@ -12,6 +12,8 @@ posts:
 
 One of the number one problems that my coaching clients have is financial impostor syndrome. Impostor syndrome is "a psychological pattern in which an individual doubts their accomplishments and has a persistent internalized fear of being exposed as a 'fraud'". This is often talked about in terms of career and feeling like we don't deserve our success. 
 
+As for financial impostor syndrome, I've seen it show up in many ways.
+
 ## Forgive Yourself
 
 We all make mistakes. I'm sure everyone in the world has something in their past that they regret and wish they'd done differently.
