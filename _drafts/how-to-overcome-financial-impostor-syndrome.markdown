@@ -24,6 +24,12 @@ If you've ever received an end-of-year letter from a distant friend of the famil
 
 ## Adopt Affirmations
 
+If you've ever worked with a coach or done any sort of self-care, you've probably heard of affirmations. 
+
 ## Get Clear on What You're Good At
 
+As with anything, it's important to know yourself when it comes to your money. If you have financial impostor syndrome, you probably think you're not good at dealing with your money at all. But maybe that's not true! 
+
 ## Take Yourself Out of It
+
+If it turns out to be true that your strengths do not lie in money management, there are still things you can do! 
