@@ -20,7 +20,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was (and still am
 
 * One of my new clients' monthly payments came through this week.
 
-* I got two new monthly clients this week!
+* I got two new monthly clients this week! This was actually really exciting. I've been taking a sales course ([check it out here!](https://www.smartgetspaid.com/signed/)) and I used some of the advice in my discovery calls this week. The approach clearly works because both people signed on for coaching while we were still on the phone! 
 
 ## **How I Spent Money This Week**
 
