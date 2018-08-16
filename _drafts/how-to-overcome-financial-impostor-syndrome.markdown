@@ -32,4 +32,4 @@ As with anything, it's important to know yourself when it comes to your money. I
 
 ## Take Yourself Out of It
 
-If it turns out to be true that your strengths do not lie in money management, there are still things you can do! 
+If it turns out to be true that your strengths do not lie in money management, there are still things you can do! This is why it's so important to know yourself and your tendencies. 
