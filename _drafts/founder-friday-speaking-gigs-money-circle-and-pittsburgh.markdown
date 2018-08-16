@@ -26,7 +26,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was (and still am
 
 * As I mentioned above, [Money Circle](https://www.maggiegermano.com/moneycircle/) was on Tuesday. I spent money on snacks and wine, and I also bought a "thank you" card and small gift for our guest expert, Liz Delgado-Steo.
 
-* We were charged for the [Hungry Harvest](https://www.hungryharvest.net/) delivery we received last week. For $22.50, we received a dozen eggs, two bunches of kale, two zucchini, one cucumber, one bunch of small carrots, two bags of snap peas, and one eggplant. It's a pretty good deal, especially considering that we are also saving the food from being thrown in the trash. (Use [my link](http://hharvest.net/m5didTk) to get $5 off your first order!)
+* We were charged for the [Hungry Harvest](https://www.hungryharvest.net/) delivery we received last week. For $23.99, we received a dozen eggs, two bunches of kale, two zucchini, one cucumber, one bunch of small carrots, two bags of snap peas, and one eggplant. It's a pretty good deal, especially considering that we are also saving the food from being thrown in the trash. (Use [my link](http://hharvest.net/m5didTk) to get $5 off your first order!)
 
 ![2018-08-14 20.43.29-1.jpg](/uploads/2018-08-14%2020.43.29-1.jpg)
 
@@ -38,7 +38,7 @@ This week, I wrote about what to do with the money if you get a windfall. A wind
 
 * I’m holding my first official workshop! On Saturday, September 15th, we’ll be gathering at [Yoga Heights](https://yogaheightsdc.com/) in Petworth, DC to learn how to budget! Sign up for the [Making & Breaking the Budget](https://www.eventbrite.com/e/making-breaking-the-budget-workshop-tickets-48317128833) workshop today! This is for you if you've always struggled to stick to a budget, and you want to find a budgeting framework that works for you. 
 
-* x
+* The September Money Circle gathering is live! It might seem like it's a little early to talk about the holidays, but it's important to start early if you're going to plan ahead. Join us on September X!
 
 [![FB@2x (1)-9bba77.png](/uploads/FB@2x%20(1)-9bba77.png)](https://www.eventbrite.com/e/making-breaking-the-budget-workshop-tickets-48317128833)
 
