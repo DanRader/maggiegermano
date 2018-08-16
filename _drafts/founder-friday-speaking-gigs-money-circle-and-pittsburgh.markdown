@@ -26,7 +26,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was (and still am
 
 * As I mentioned above, [Money Circle](https://www.maggiegermano.com/moneycircle/) was on Tuesday. I spent money on snacks and wine, and I also bought a "thank you" card and small gift for our guest expert, Liz Delgado-Steo.
 
-* We were charged for the Hungry Harvest delivery we received last week. For $22.50, we received a dozen eggs, two bunches of kale, two zucchini, one cucumber, one bunch of small carrots, two bags of snap peas, and one eggplant. It's a pretty good deal, especially considering that we are also saving the food from being thrown in the trash. 
+* We were charged for the [Hungry Harvest](https://www.hungryharvest.net/) delivery we received last week. For $22.50, we received a dozen eggs, two bunches of kale, two zucchini, one cucumber, one bunch of small carrots, two bags of snap peas, and one eggplant. It's a pretty good deal, especially considering that we are also saving the food from being thrown in the trash. (Use [my link](http://hharvest.net/m5didTk) to get $5 off your first order!)
 
 ![2018-08-14 20.43.29-1.jpg](/uploads/2018-08-14%2020.43.29-1.jpg)
 
@@ -46,7 +46,7 @@ This week, I wrote about what to do with the money if you get a windfall. A wind
 
 * I’m speaking at [Robert Morris University](https://www.rmu.edu/) tomorrow! In fact, I'm on my way to Pittsburgh right now, and I'm pumped to explore a new city. If you have any places that you think I must check out, comment below! I’m hoping to do more events like this, because it’s important to get your money right from a young age, and I want to reach women in college! So if you know of any universities who are looking for money experts, [let me know](mailto:boss@maggiegermano.com).
 
-* I spoke to the great folks at ISL on Wednesday. I love speaking to smaller groups, because it's really easy to ask people's specific questions. 
+* I spoke to the great folks at [ISL](http://www.isl.co) on Wednesday. I love speaking to smaller groups, because it's really easy to ask people's specific questions. 
 
 ![2018-08-15 11.26.46-1.jpg](/uploads/2018-08-15%2011.26.46-1.jpg)
 
