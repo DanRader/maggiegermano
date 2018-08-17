@@ -16,11 +16,11 @@ As for financial impostor syndrome, I've seen it show up in many ways.
 
 ## Forgive Yourself
 
-We all make mistakes. I'm sure everyone in the world has something in their past that they regret and wish they'd done differently.
+We all make mistakes. I'm sure everyone in the world has something in their past that they regret and wish they'd done differently. If you've made unwise financial decisions in the past, there is nothing you can do now to change them. The most important thing you can do now is to make different, better decisions moving forward. But first, you have to forgive yourself for the mistakes you've made before. If you berate or shame yourself, you won't truly feel motivated to move forward. You'll feel paralyzed and incapable of making changes. Shame doesn't help anyone, so forgive yourself and allow yourself to improve your life.
 
 ## Learn the Truth About Others
 
-If you've ever received an end-of-year letter from a distant friend of the family, you know that people have been sharing their highlight reels since before social media came around. But social media makes it a lot easier to make our lives look perfect.
+If you've ever received an end-of-year letter from a distant friend of the family, you know that people have been sharing their highlight reels since before social media came around. But social media makes it a lot easier for people to make their lives look perfect. Instagram especially allows people to share beautiful, filtered images that represent their lives. But pictures don't tell the whole story. Your friend who posts pictures of her new Kate Spade purse and your friend who is always going on amazing vacations might actually be in debt. I've said this before, but I'll say it again: there's nothing morally wrong with being in debt, but it's also not a stable place to be. You never know what might be going on behind the scenes in someone's life. So don't try to keep up with others by spending more than you can afford. Get clear on what matters the most to you, and you'll feel a lot better about how you budget your money.
 
 ## Adopt Affirmations
 
