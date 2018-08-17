@@ -12,7 +12,7 @@ posts:
 
 One of the number one problems that my coaching clients have is financial impostor syndrome. Impostor syndrome is "a psychological pattern in which an individual doubts their accomplishments and has a persistent internalized fear of being exposed as a 'fraud'". This is often talked about in terms of career and feeling like we don't deserve our success.
 
-As for financial impostor syndrome, I've seen it show up in many ways. It's the belief that you're just bad with money and will never be able to improve. The idea that your past financial mistakes define you as an irresponsible person. 
+As for financial impostor syndrome, I've seen it show up in many ways. It's the belief that you're just bad with money and will never be able to improve. The idea that your past financial mistakes define you as an irresponsible person. The belief that money is bad, and that you don't deserve to feel financially comfortable. It's the scarcity mindset. 
 
 ## Forgive Yourself
 
@@ -26,7 +26,7 @@ If you've ever received an end-of-year letter from a distant friend of the famil
 
 If you've ever worked with a coach or done any sort of self-care, you've probably heard of affirmations. Basically, you come up with sayings that you can read or repeat to yourself to make yourself start believing them. Your affirmations will depend on what you're struggling with, but they should always be positive and they should always be aspirational. Here are a few that might help you if you struggle with financial impostor syndrome:
 
-* I am capable .
+* I am capable of improving my financial future.
 
 * My past mistakes do not determine my future.
 
