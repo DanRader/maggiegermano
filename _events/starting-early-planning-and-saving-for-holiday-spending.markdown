@@ -14,7 +14,7 @@ ticket-price: "$20"
 
 Christmas in September? Not quite! 
 
-But it is important to plan for holiday spending months in advance. Otherwise, you'll get to December and have no money set aside for travel and gifts.
+But it is important to plan for holiday spending months in advance. Otherwise, you'll get to December and have no money set aside for travel and gifts. The holidays are expensive, stressful times. There's a lot of planning and spending that might not fit into your budget. But there are ways to set yourself up for success. Join us for Money Circle to learn how you can plan ahead and reduce (or even eliminate) the financial stress that comes up around the holidays.
 
 --
 
