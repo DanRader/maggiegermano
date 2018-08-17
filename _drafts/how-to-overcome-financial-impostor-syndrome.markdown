@@ -14,6 +14,8 @@ One of the number one problems that my coaching clients have is financial impost
 
 As for financial impostor syndrome, I've seen it show up in many ways. It's the belief that you're just bad with money and will never be able to improve. The idea that your past financial mistakes define you as an irresponsible person. The belief that money is bad, and that you don't deserve to feel financially comfortable. It's the scarcity mindset. 
 
+> It's the belief that you're just bad with money and will never be able to improve.
+
 ## Forgive Yourself
 
 We all make mistakes. I'm sure everyone in the world has something in their past that they regret and wish they'd done differently. If you've made unwise financial decisions in the past, there is nothing you can do now to change them. The most important thing you can do now is to make different, better decisions moving forward. But first, you have to forgive yourself for the mistakes you've made before. If you berate or shame yourself, you won't truly feel motivated to move forward. You'll feel paralyzed and incapable of making changes. Shame doesn't help anyone, so forgive yourself and allow yourself to improve your life.
