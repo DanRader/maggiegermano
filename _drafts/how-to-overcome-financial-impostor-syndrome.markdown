@@ -30,7 +30,7 @@ I've said this before, but I'll say it again: there's nothing morally wrong with
 
 ## Adopt Affirmations
 
-If you've ever worked with a coach or done any sort of self-care, you've probably heard of affirmations. Basically, you come up with sayings that you can read or repeat to yourself to make yourself start believing them. Your affirmations will depend on what you're struggling with, but they should always be positive and they should always be aspirational. Here are a few that might help you if you struggle with financial impostor syndrome:
+If you've ever worked with a coach or done any sort of self-care, you've probably heard of affirmations. Basically, you come up with sayings that you can read or repeat to yourself to make your brain start believing them. Your affirmations will depend on what you're struggling with, but they should always be positive and they should always be aspirational. Here are a few that might help you if you struggle with financial impostor syndrome:
 
 * I am capable of improving my financial future.
 
@@ -43,6 +43,10 @@ If you've ever worked with a coach or done any sort of self-care, you've probabl
 * I am capable of saving money.
 
 * I deserve to feel comfortable in my life.
+
+* My self worth is not my net worth.
+
+* I am capable of sticking to a budget.
 
 ## Get Clear on What You're Good At
 
