@@ -16,7 +16,7 @@ As for financial impostor syndrome, I've seen it show up in many ways. It's the 
 
 > It's the belief that you're just bad with money and will never be able to improve.
 
-These beliefs make it nearly impossible to make any positive changes. You don't believe you're capable, so why would you even try? 
+These beliefs make it nearly impossible to make any positive changes. You don't believe you're capable, so why would you even try? This is a self-fulfilling prophecy. If you think nothing will ever change, nothing will ever change. And that's because you're not trying new approaches to ensure that things will change. That's why it's so important to work against this financial impostor syndrome. Because if you do, you'll be able to make changes and take control of your financial future. Here's how:
 
 ## Forgive Yourself
 
