@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Speaking Gigs, Money Circle, and Pittsburgh
 date: 2018-08-17 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 image: "/uploads/field-a189ca.jpg"
@@ -22,7 +21,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was (and still am
 
 * One of my new clients' monthly payments came through this week.
 
-* I got two new monthly clients this week! This was actually really exciting. I've been taking a sales course ([check it out here!](https://www.smartgetspaid.com/signed/)) and I used some of the advice in my discovery calls this week. The approach clearly works because both people signed on for coaching while we were still on the phone! 
+* I got two new monthly clients this week! This was actually really exciting. I've been taking a sales course ([check it out here!](https://www.smartgetspaid.com/signed/)) and I used some of the advice in my discovery calls this week. The approach clearly works because both people signed on for coaching while we were still on the phone!
 
 ## **How I Spent Money This Week**
 
@@ -31,6 +30,8 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was (and still am
 * We were charged for the [Hungry Harvest](https://www.hungryharvest.net/) delivery we received last week. For $23.99, we received a dozen eggs, two bunches of kale, two zucchini, one cucumber, one bunch of small carrots, two bags of snap peas, and one eggplant. It's a pretty good deal, especially considering that we are also saving the food from being thrown in the trash. (Use [my link](http://hharvest.net/m5didTk) to get $5 off your first order!)
 
 * Dan was traveling for work this week, so he put some money on our shared credit card. Luckily, he'll be reimbursed soon.
+
+* I made some more small wedding purchases last night. We're having a ketubah at our wedding, which is a Jewish marriage contract. Dan is going to design the ketubah himself, so I just bought a nice frame for it to go into.
 
 * I'll be spending some money in Pittsburgh today, as I'm going to play tourist this afternoon. If you have recommendations for places I should go and where I should eat, comment below!
 
@@ -42,17 +43,15 @@ This week, I wrote about what to do with the money if you get a windfall. A wind
 
 ## **What I’m Up To**
 
-* I’m holding my first official workshop! On Saturday, September 15th, we’ll be gathering at [Yoga Heights](https://yogaheightsdc.com/) in Petworth, DC to learn how to budget! Sign up for the [Making & Breaking the Budget](https://www.eventbrite.com/e/making-breaking-the-budget-workshop-tickets-48317128833) workshop today! This is for you if you've always struggled to stick to a budget, and you want to find a budgeting framework that works for you. 
+I’m holding my first official workshop! On Saturday, September 15th, we’ll be gathering at [Yoga Heights](https://yogaheightsdc.com/) in Petworth, DC to learn how to budget! Sign up for the [Making & Breaking the Budget](https://www.eventbrite.com/e/making-breaking-the-budget-workshop-tickets-48317128833) workshop today! This is for you if you've always struggled to stick to a budget, and you want to find a budgeting framework that works for you.
 
-* The September Money Circle gathering is live! It might seem like it's a little early to talk about the holidays, but it's important to start early if you're going to plan ahead. Join us on September X!
-
-[![FB@2x (1)-9bba77.png](/uploads/FB@2x%20(1)-9bba77.png)](https://www.eventbrite.com/e/making-breaking-the-budget-workshop-tickets-48317128833)
+![FB@2x (1)-9bba77.png](/uploads/FB@2x%20(1)-9bba77.png)
 
 ## **What I’m Excited About**
 
 * I’m speaking at [Robert Morris University](https://www.rmu.edu/) tomorrow! In fact, I'm on my way to Pittsburgh right now, and I'm pumped to explore a new city. If you have any places that you think I must check out, comment below! I’m hoping to do more events like this, because it’s important to get your money right from a young age, and I want to reach women in college! So if you know of any universities who are looking for money experts, [let me know](mailto:boss@maggiegermano.com).
 
-* I spoke to the great folks at [ISL](http://www.isl.co) on Wednesday. I love speaking to smaller groups, because it's really easy to ask people's specific questions. 
+* I spoke to the great folks at [ISL](http://www.isl.co) on Wednesday. I love speaking to smaller groups, because it's really easy to ask people's specific questions.
 
 ![2018-08-15 11.26.46-1.jpg](/uploads/2018-08-15%2011.26.46-1.jpg)
 
