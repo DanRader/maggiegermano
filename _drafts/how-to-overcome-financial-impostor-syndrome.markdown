@@ -26,7 +26,7 @@ If you've ever received an end-of-year letter from a distant friend of the famil
 
 If you've ever worked with a coach or done any sort of self-care, you've probably heard of affirmations. Basically, you come up with sayings that you can read or repeat to yourself to make yourself start believing them. Your affirmations will depend on what you're struggling with, but they should always be positive and they should always be aspirational. Here are a few that might help you if you struggle with financial impostor syndrome:
 
-* I am capable .
+* I am capable of improving my financial future.
 
 * My past mistakes do not determine my future.
 
