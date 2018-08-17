@@ -1,9 +1,11 @@
 ---
 title: How to Overcome Financial Impostor Syndrome
 date: 2018-08-20 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 image: "/uploads/bummed.jpg"
+tweet: Do you suffer from financial impostor syndrome? Here's how you can change that.
 posts:
 - How to Stop Trying to Keep Up with "the Joneses"
 - Why I Became a Financial Coach for Women
@@ -50,7 +52,7 @@ If you've ever worked with a coach or done any sort of self-care, you've probabl
 
 ## Get Clear on What You're Good At
 
-As with anything, it's important to know yourself when it comes to your money. If you have financial impostor syndrome, you probably think you're not good at dealing with your money at all. But maybe that's not true! Once you identify what you're really good at, see how you can apply those skills to your money. Think about ways you've overcome obstacles in the past. How can you approach your money in the same way?
+As with anything, it's important to know yourself when it comes to your money. If you have financial impostor syndrome, you probably think you're not good at dealing with your money at all. But maybe that's not true! Think about the things that you're really good at. Once you identify what you're really good at, see how you can apply those skills to your money. Even if those skills don't seem obviously applicable to money management, there might be ways that they are. Think about ways you've overcome obstacles in the past. How can you approach your money in the same way?
 
 ## Take Yourself Out of It
 
