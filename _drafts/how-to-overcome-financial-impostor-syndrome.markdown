@@ -10,9 +10,9 @@ posts:
 - 5 Signs You Might Need a Money Coach
 ---
 
-One of the number one problems that my coaching clients have is financial impostor syndrome. Impostor syndrome is "a psychological pattern in which an individual doubts their accomplishments and has a persistent internalized fear of being exposed as a 'fraud'". This is often talked about in terms of career and feeling like we don't deserve our success. 
+One of the number one problems that my coaching clients have is financial impostor syndrome. Impostor syndrome is "a psychological pattern in which an individual doubts their accomplishments and has a persistent internalized fear of being exposed as a 'fraud'". This is often talked about in terms of career and feeling like we don't deserve our success.
 
-As for financial impostor syndrome, I've seen it show up in many ways.
+As for financial impostor syndrome, I've seen it show up in many ways. It's the belief that you're just bad with money and will never be able to improve. The idea that your past financial mistakes define you as an irresponsible person. 
 
 ## Forgive Yourself
 
