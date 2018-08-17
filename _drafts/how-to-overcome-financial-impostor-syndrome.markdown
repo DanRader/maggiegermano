@@ -10,7 +10,7 @@ posts:
 - 5 Signs You Might Need a Money Coach
 ---
 
-One of the number one problems that my coaching clients have is financial impostor syndrome. Impostor syndrome is "a psychological pattern in which an individual doubts their accomplishments and has a persistent internalized fear of being exposed as a 'fraud'". This is often talked about in terms of career and feeling like we don't deserve our success.
+One of the number one problems that my coaching clients have is financial impostor syndrome. Impostor syndrome [is](https://en.wikipedia.org/wiki/Impostor_syndrome) "a psychological pattern in which an individual doubts their accomplishments and has a persistent internalized fear of being exposed as a 'fraud'". This is often talked about in terms of [career](https://www.themuse.com/advice/how-to-banish-imposter-syndrome-and-embrace-everything-you-deserve) and feeling like we don't deserve our success, but it can absolutely apply to other areas of life.
 
 As for financial impostor syndrome, I've seen it show up in many ways. It's the belief that you're just bad with money and will never be able to improve. The idea that your past financial mistakes define you as an irresponsible person. The belief that money is bad, and that you don't deserve to feel financially comfortable. It's the scarcity mindset. 
 
@@ -57,5 +57,7 @@ If it turns out to be true that your strengths do not lie in money management, t
 * Delete your favorite shopping apps from your phone. You'll be much less tempted to shop if you take away the ease of an app.
 
 * Spend cash only. Take out your budgeted amount of money at the beginning of the week. Don't carry around a credit or debit card. Once you run out of cash, you're done spending for the week.
+
+Does this article resonate with you? You may benefit from [financial coaching](https://www.maggiegermano.com/coaching/)! I can help you improve your relationship with money so you can take control of your financial future. [Let's talk!](https://maggiegermanofinancialcoaching.as.me/discovery)
 
 *Have you ever felt incapable or like a fraud when it comes to your money? Share your story in the comments! You're not alone.*
