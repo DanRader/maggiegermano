@@ -11,8 +11,9 @@ posts:
 - How to Talk to Your Friends about Money
 ---
 
-Practice Gratitude
 
-Get Off Social Media
+## Practice Gratitude
 
-Have a Conversation
+## Get Off Social Media
+
+## Have a Conversation
