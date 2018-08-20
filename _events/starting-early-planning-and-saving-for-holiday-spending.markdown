@@ -1,7 +1,6 @@
 ---
 title: Starting Early! Planning and Saving for Holiday Spending
 date: 2018-09-18 18:30:00 -04:00
-published: false
 image: "/uploads/presents.jpg"
 og-image: "/uploads/Money%20Circle%20Photos%20(10)-a815c3.png"
 event-date: 2018-09-18 18:30:00 -04:00
