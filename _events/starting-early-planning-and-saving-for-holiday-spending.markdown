@@ -1,14 +1,15 @@
 ---
 title: Starting Early! Planning and Saving for Holiday Spending
-date: 2018-09-12 18:30:00 -04:00
+date: 2018-09-18 18:30:00 -04:00
 published: false
 image: "/uploads/presents.jpg"
-og-image: "/uploads/Money%20Circle%20Photos%20(12).png"
-event-date: 2018-09-12 18:30:00 -04:00
+og-image: "/uploads/Money%20Circle%20Photos%20(10)-a815c3.png"
+event-date: 2018-09-18 18:30:00 -04:00
 start-time: 6:30 PM
 end-time: 8:30 PM
-location: Private Petworth Residence
+location: Private Columbia Heights/Petworth Residence
 button-text: Sign Me Up!
+button-link: https://www.eventbrite.com/e/money-circle-planning-and-saving-for-holiday-spending-tickets-49211954280
 ticket-price: "$20"
 ---
 
