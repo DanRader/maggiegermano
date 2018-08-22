@@ -15,7 +15,9 @@ It goes a little something like this: your best friend goes on an amazing trip t
 
 ## Practice Gratitude
 
-When you're constantly comparing your own life against others', you can forget how fortunate you already are.
+When you're constantly comparing your own life against others', you can forget how fortunate you already are. Take a moment to look at your life instead of your friends' and see what you're most grateful for. Literally make a list of all the things you're lucky or privileged to have. This doesn't have to only apply to things related to money. Make a list of every single thing you're grateful for. It could be as simple as the delicious coffee you drank this morning. Practicing gratitude rewires your brain to look for the positive, rather than focusing on the negative. It also takes your mind off of what you don't have and allows you to focus on what you do. This is an especially helpful task if you suffer from anxiety or depression.
+
+What are the three things you're most grateful for today?
 
 ## Get Off Social Media
 
