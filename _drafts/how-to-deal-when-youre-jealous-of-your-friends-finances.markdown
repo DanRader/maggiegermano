@@ -11,7 +11,7 @@ posts:
 - How to Talk to Your Friends about Money
 ---
 
-It goes a little something like this: your best friend goes on an amazing trip to Europe, you graciously "like" all of her Instagram photos, but you're seething with jealousy. Or your cousin had all of her education paid for by her parents, and you think she's a spoiled brat for it. Jealousy comes up a lot, especially when we take money into consideration. 
+It goes a little something like this: your best friend goes on an amazing trip to Europe, you graciously "like" all of her Instagram photos, but you're seething with jealousy. Or your cousin had all of her education paid for by her parents, and you think she's a spoiled brat for it. Jealousy comes up a lot, especially when we take money into consideration. It's totally natural, but it can also make you start resenting your loved ones. So not only will you be jealous, but then you'll be pissed off at your favorite people for their circumstances, and then you'll probably feel bad for feeling that way. It's not a great cycle to find yourself in, and there are ways to work through it.
 
 ## Practice Gratitude
 
