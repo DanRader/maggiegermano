@@ -15,6 +15,10 @@ It goes a little something like this: your best friend goes on an amazing trip t
 
 ## Practice Gratitude
 
+When you're constantly comparing your own life against others', you can forget how fortunate you already are. 
+
 ## Get Off Social Media
 
 ## Have a Conversation
+
+You never know what is actually going on in someone's life unless you ask them. Your friend who doesn't have any student loan debt is fortunate, but she might have medical debt you don't know about. Your friend who had a lavish European vacation may have saved up for that trip for years before she could finally go. 
