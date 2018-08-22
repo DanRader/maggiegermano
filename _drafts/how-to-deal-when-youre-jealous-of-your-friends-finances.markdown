@@ -11,6 +11,7 @@ posts:
 - How to Talk to Your Friends about Money
 ---
 
+It goes a little something like this: your best friend goes on an amazing trip to Europe
 
 ## Practice Gratitude
 
