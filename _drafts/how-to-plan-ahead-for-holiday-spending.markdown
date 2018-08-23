@@ -6,6 +6,10 @@ categories:
 image: "/uploads/presents-a001ad.jpg"
 ---
 
-*This week, Money Circle is meeting to talk about how to plan ahead and save for holiday spending. But in case you aren't in the DC area and can't attend, I wanted to write a piece on how to do just that! *
+*This week, Money Circle is meeting to talk about how to plan ahead and save for holiday spending. But in case you aren't in the DC area and can't attend, I wanted to write a piece on how to do just that!*
 
-x
+## Look Back at Last Year's Spending
+
+## Get Clear on Your Priorities
+
+## Make a List of Those You Want to Buy Gifts For
