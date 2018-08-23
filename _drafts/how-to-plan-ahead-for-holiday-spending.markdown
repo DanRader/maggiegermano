@@ -15,3 +15,5 @@ image: "/uploads/presents-a001ad.jpg"
 ## Make a List of Those You Want to Buy Gifts For
 
 ## Save All Year Long
+
+This is the easiest and most effective way to be prepared for expensive activities and . 
