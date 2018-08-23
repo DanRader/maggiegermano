@@ -23,12 +23,14 @@ What are the three things you're most grateful for today?
 
 ## Get Off Social Media
 
-I love social media as much as the next person, but it absolutely has a way of making me feel inadequate. Don't forget: most of us are only showing our highlight reels. We aren't showing the days that aren't going so well. So it's easy to feel like everyone else has it all figured out and has everything they want when you're only seeing what they want you to see. If you find yourself getting jealous or resentful of your friends, or feeling inadequate yourself, get off social media! Take social media breaks throughout the day or week. 
+I love social media as much as the next person, but it absolutely has a way of making me feel inadequate. Don't forget: most of us are only showing our highlight reels. We aren't showing the days that aren't going so well. So it's easy to feel like everyone else has it all figured out and has everything they want when you're only seeing what they want you to see. If you find yourself getting jealous or resentful of your friends, or feeling inadequate yourself, get off social media! Take social media breaks throughout the day or week. Not only will you feel less jealous of your friends, but you'll probably notice an improvement in your overall mental health.
 
 ## Have a Conversation
 
-You never know what is actually going on in someone's life unless you ask them. Your friend who doesn't have any student loan debt is fortunate, but she might have medical debt you don't know about. Your friend who had a lavish European vacation may have saved up for that trip for years before she could finally go.
+You never know what is actually going on in someone's life unless you ask them. Your friend who doesn't have any student loan debt is fortunate, but she might have medical debt you don't know about. Your friend who had a lavish European vacation may have saved up for that trip for years before she could finally go. Or they might be struggling with things that have nothing to do with money! No one's life is perfect, and it's important to have perspective. But you can never understand someone else if you just watch them from afar. 
 
 ## Analyze Your Own Life
 
 What is it about your friends' lives that you're jealous of? It's important to ask yourself this question. Perhaps it is signaling something that is missing from your own life. It might also show you that you're jealous for no good reason. If your friends are doing things that you have no interest in, like buying a house, then there's no reason to not just be completely happy for them.
+
+*How have you gotten over your own negative feelings of jealousy? Share in the comments!*
