@@ -3,6 +3,11 @@ title: Founder Friday | Financial Impostor Syndrome, Birthdays, and Los Angeles
 date: 2018-08-24 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/balloons-b99b31.jpg"
+posts:
+- Founder Friday | Speaking Gigs, Money Circle, and Pittsburgh
+- Founder Friday | Martha Stewart, Weddings, Google Analytics
+- Founder Friday | Unemployment, Harry Potter World, and Wedding Planning
 ---
 
 Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
