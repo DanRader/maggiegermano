@@ -44,4 +44,4 @@ Have you ever deleted the Twitter or Facebook app from your phone so that you wo
 
 Budgeting is not a one-size-fits-all system. What works for you might not work for someone else. It’s important to know yourself and your habits so that you can know exactly what you need to trick yourself into sticking to a budget. So, what kinds of tricks would help you?
 
-*This article was originally published on [Women@Forbes](https://www.forbes.com/sites/maggiegermano/2018/07/25/how-to-trick-yourself-into-sticking-to-a-budget/#783b250cc049). *
+*This article was originally published on [Women@Forbes](https://www.forbes.com/sites/maggiegermano/2018/07/25/how-to-trick-yourself-into-sticking-to-a-budget/#783b250cc049).*
