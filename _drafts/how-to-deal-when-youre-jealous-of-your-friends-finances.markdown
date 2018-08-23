@@ -23,7 +23,7 @@ What are the three things you're most grateful for today?
 
 ## Get Off Social Media
 
-I love social media as much as the next person, but it absolutely has a way of making me feel inadequate. Don't forget: most of us are only showing our highlight reels. We aren't showing the days that aren't going so well. 
+I love social media as much as the next person, but it absolutely has a way of making me feel inadequate. Don't forget: most of us are only showing our highlight reels. We aren't showing the days that aren't going so well. So it's easy to feel like everyone else has it all figured out and has everything they want when you're only seeing what they want you to see. If you find yourself getting jealous or resentful of your friends, or feeling inadequate yourself, get off social media! Take social media breaks throughout the day or week. 
 
 ## Have a Conversation
 
@@ -31,4 +31,4 @@ You never know what is actually going on in someone's life unless you ask them. 
 
 ## Analyze Your Own Life
 
-What is it about your friends' lives that you're jealous of? It's important to ask yourself this question. Perhaps it is signaling something that is missing from your own life. It might also show you that you're jealous for no good reason. If your friends are doing things that you have no interest in, like buying a house, then there's no reason to not just be completely happy for them. 
+What is it about your friends' lives that you're jealous of? It's important to ask yourself this question. Perhaps it is signaling something that is missing from your own life. It might also show you that you're jealous for no good reason. If your friends are doing things that you have no interest in, like buying a house, then there's no reason to not just be completely happy for them.
