@@ -1,6 +1,7 @@
 ---
 title: How to Deal When You're Jealous of Your Friends' Finances
 date: 2018-08-27 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 image: "/uploads/person.jpg"
@@ -29,8 +30,12 @@ I love social media as much as the next person, but it absolutely has a way of m
 
 You never know what is actually going on in someone's life unless you ask them. Your friend who doesn't have any student loan debt is fortunate, but she might have medical debt you don't know about. Your friend who had a lavish European vacation may have saved up for that trip for years before she could finally go. Or they might be struggling with things that have nothing to do with money! No one's life is perfect, and it's important to have perspective. But you can never understand someone else if you just watch them from afar. 
 
+It's also important to talk about your own life. Sharing your financial limitations or stresses will make you feel less alone, and you might even learn something about your friends that you weren't aware of. More people are struggling than you might expect, and opening up conversations about that will make us all more honest and connected. 
+
 ## Analyze Your Own Life
 
-What is it about your friends' lives that you're jealous of? It's important to ask yourself this question. Perhaps it is signaling something that is missing from your own life. It might also show you that you're jealous for no good reason. If your friends are doing things that you have no interest in, like buying a house, then there's no reason to not just be completely happy for them.
+What is it about your friends' lives that you're jealous of? It's important to ask yourself this question. Perhaps it is signaling something that is missing from your own life. Maybe it can be used as motivation to get your own financial situation in order. If you want to be traveling or buying nice things, you need to plan and save for that. What kinds of changes might you need to make in order to make your life into one that you really want?
+
+This exercise might also show you that you're jealous for no good reason. If your friends are doing things that you have no interest in, like buying a house, then there's no reason to not just be completely happy for them. So get clear on what you actually want and either make changes, or let that jealousy go.
 
 *How have you gotten over your own negative feelings of jealousy? Share in the comments!*
