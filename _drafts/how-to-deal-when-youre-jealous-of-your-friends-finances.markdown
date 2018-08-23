@@ -27,7 +27,7 @@ I love social media as much as the next person, but it absolutely has a way of m
 
 ## Have a Conversation
 
-You never know what is actually going on in someone's life unless you ask them. Your friend who doesn't have any student loan debt is fortunate, but she might have medical debt you don't know about. Your friend who had a lavish European vacation may have saved up for that trip for years before she could finally go.
+You never know what is actually going on in someone's life unless you ask them. Your friend who doesn't have any student loan debt is fortunate, but she might have medical debt you don't know about. Your friend who had a lavish European vacation may have saved up for that trip for years before she could finally go. Or they might be struggling with things that have nothing to do with money! No one's life is perfect, and it's important to have perspective. But you can never understand someone else if you just watch them from afar. 
 
 ## Analyze Your Own Life
 
