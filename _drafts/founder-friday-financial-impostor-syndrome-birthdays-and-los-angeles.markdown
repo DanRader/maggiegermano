@@ -22,9 +22,11 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * On Monday, Dan and I celebrated our "engagiversary" (is that a thing? can it be a thing?). We bought steaks and asparagus from Whole Foods and had a nice dinner at home. To make it even better, the steaks were 40% off for Amazon Prime members, so we got a great discount.
 
-* I spent a bit of money on myself this week, in celebration of my 31st birthday. On Tuesday morning, I got a manicure and pedicure at [NailSaloon](https://www.thenailsaloon.com/). It cost $80 and I left a 10% tip for the technician. I had lunch (with a glass of wine) at [DC Noodles](http://dcnoodles.com/) and I also bought myself a beer and a box of Buncha Crunch at [Atlantic Plumbing Cinema](https://www.landmarktheatres.com/washington-d-c/atlantic-plumbing-cinema).
+* I spent a bit of money on myself this week, in celebration of my 31st birthday. On Tuesday morning, I got a manicure and pedicure at [NailSaloon](https://www.thenailsaloon.com/). It cost $80 and I left a 10% tip for the technician. I had lunch (with a glass of wine) at [DC Noodles](http://dcnoodles.com/) and I also bought myself a beer and a box of Buncha Crunch at [Atlantic Plumbing Cinema](https://www.landmarktheatres.com/washington-d-c/atlantic-plumbing-cinema). We also took a Lyft home from happy hour in the evening, since there was a freak rain storm going on.
 
 * But even though I spent a bunch of money on myself, I also took advantage of the free things offered to me for my birthday! I had a coupon for a free donut at [Sugar Shack](http://www.sugarshackdonuts.com/) and a free tea at Starbucks. I also went to see Crazy Rich Asians for "free" (I have a [MoviePass](https://www.moviepass.com/) subscription for $9.95 a month. They've been having problems, but I haven't given up on them yet.)
+
+* Dan and I bought Chinese food last night for dinner, after running around trying to meet up with our Lyft driver from Tuesday to retrieve Dan's cell phone. 
 
 ![2018-08-21 10.37.06.jpg](/uploads/2018-08-21%2010.37.06.jpg)
 
@@ -44,9 +46,9 @@ This week, I wrote about how you can [overcome financial impostor syndrome](http
 
 * I spoke at [Robert Morris University](https://www.rmu.edu/) last weekend! I had a fantastic time with their Women in Leadership and Mentorship Program, and I wish I'd had a group like that when I was in college! I was impressed by these women, and loved hearing their responses to my questions and thoughts. I’m hoping to do more events like this, because it’s important to get your money right from a young age, and I want to reach women in college! So if you know of any universities who are looking for money experts, [let me know](mailto:boss@maggiegermano.com).
 
-* Two of my cousins and my uncle are coming to visit this weekend! My cousins are surprising my uncle by taking him to an Orioles (his favorite team) game in Baltimore on Saturday, and they are staying at our house for the weekend. It'll be nice to hang out with them for a couple days without a big family event going on at the same time. 
+* Two of my cousins and my uncle are coming to visit this weekend! My cousins are surprising my uncle by taking him to an Orioles (his favorite team) game in Baltimore on Saturday, and they are staying at our house for the weekend. It'll be nice to hang out with them for a couple days without a big family event going on at the same time.
 
-* Dan and I are going to Los Angeles in October! Dan is attending an all-expenses-paid conference and I'm tagging along. I have been to LA once before, but what are the things that we absolutely must do while we're there? Related: are you in LA? Let's hang out! 
+* Dan and I are going to Los Angeles in October! Dan is attending an all-expenses-paid conference and I'm tagging along. I have been to LA once before, but what are the things that we absolutely must do while we're there? Related: are you in LA? Let's hang out!
 
 ![2018-08-18 12.10.47.png](/uploads/2018-08-18%2012.10.47.png)
 
