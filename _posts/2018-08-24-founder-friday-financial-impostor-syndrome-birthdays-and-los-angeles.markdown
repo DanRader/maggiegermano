@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Financial Impostor Syndrome, Birthdays, and Los Angeles
 date: 2018-08-24 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/balloons-b99b31.jpg"
