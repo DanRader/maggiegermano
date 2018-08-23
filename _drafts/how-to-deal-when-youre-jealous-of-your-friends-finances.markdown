@@ -32,3 +32,5 @@ You never know what is actually going on in someone's life unless you ask them. 
 ## Analyze Your Own Life
 
 What is it about your friends' lives that you're jealous of? It's important to ask yourself this question. Perhaps it is signaling something that is missing from your own life. It might also show you that you're jealous for no good reason. If your friends are doing things that you have no interest in, like buying a house, then there's no reason to not just be completely happy for them.
+
+*How have you gotten over your own negative feelings of jealousy? Share in the comments!*
