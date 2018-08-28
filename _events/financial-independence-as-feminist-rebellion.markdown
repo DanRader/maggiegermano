@@ -12,4 +12,4 @@ button-text: Sign me up!
 ticket-price: "$20"
 ---
 
-I am woman, hear me roar! 
+I became a financial coach for women because I'm passion about women's independence and empowerment. Money touches every aspect of our lives and determines how much freedom and autonomy we actually have. Women have not historically had access to money and therefore haven't had access to power. This is slowly changing, but not fast enough. 
