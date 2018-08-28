@@ -7,7 +7,9 @@ og-image: "/uploads/hand-680f80.jpg"
 event-date: 2018-10-24 18:30:00 -04:00
 start-time: 6:30 PM
 end-time: 8:30 PM
+location: Private Eastern Market DC Residence
 button-text: Sign Me Up!
+button-link: https://www.eventbrite.com/e/money-circle-how-to-ask-for-a-raise-tickets-49618103082
 ticket-price: "$20"
 ---
 
