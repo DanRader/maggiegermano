@@ -7,6 +7,7 @@ og-image: "/uploads/hand-680f80.jpg"
 event-date: 2018-10-24 18:30:00 -04:00
 start-time: 6:30 PM
 end-time: 8:30 PM
+location: Private Eastern Market DC Residence
 button-text: Sign Me Up!
 ticket-price: "$20"
 ---
