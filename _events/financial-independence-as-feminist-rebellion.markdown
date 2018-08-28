@@ -7,6 +7,7 @@ og-image: "/uploads/resilient.jpg"
 event-date: 2018-12-12 18:30:00 -05:00
 start-time: 6:30 PM
 end-time: 8:30 PM
+location: TBD
 button-text: Sign me up!
 ticket-price: "$20"
 ---
