@@ -13,6 +13,8 @@ ticket-price: "$20"
 
 If you're like many people, the end of the calendar year also means it's performance review time. Even if you've already been through your review for the year, it's always a good time to brush up on how to ask for a raise. 
 
+Join us at Money Circle this month and you'll walk away with concrete ways to ask for a raise and back up the ask with evidence that you deserve it. 
+
 --
 
 Money Circle is a safe open space where women can ask questions, air their fears, brag about accomplishments, and be honest about any confusion they may have around money.
