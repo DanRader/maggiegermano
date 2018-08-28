@@ -1,6 +1,6 @@
 ---
 title: Financial Independence as a Feminist Rebellion
-date: 2017-05-25 13:16:00 -04:00
+date: 2018-12-12 18:30:00 -05:00
 published: false
 ---
 
