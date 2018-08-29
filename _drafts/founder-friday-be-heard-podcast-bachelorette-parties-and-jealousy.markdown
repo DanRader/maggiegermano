@@ -26,7 +26,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * As with every week, I bought several small items for the wedding. I bought table numbers, tags that will go on guests' drinking glasses, and a dress bag for my wedding dress. 
 
-* I had lunch with my friend, Nina, yesterday. We ate at XX.
+* I had lunch with my friend, Nina, yesterday. We ate at SweetGreen.
 
 * Yesterday, I attended my friend Rachel's bachelorette party. It was a tea party at Lady Camilla's Tea House in Georgetown, and was so much fun!
 
