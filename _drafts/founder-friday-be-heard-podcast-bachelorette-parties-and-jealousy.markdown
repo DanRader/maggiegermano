@@ -45,10 +45,12 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## What I’m Excited About
 
-* x
+* My friends Rachel and Paul are getting married this weekend! I can't wait to go down to Luray, Virginia to celebrate them.
 
 * x
 
 ## Money Tip to Take Into the Weekend
+
+![As with anything, the more you learn about something, the more you practice something, the better you’re gonna get..png](/uploads/As%20with%20anything,%20the%20more%20you%20learn%20about%20something,%20the%20more%20you%20practice%20something,%20the%20better%20you%E2%80%99re%20gonna%20get..png)
 
 That’s all from me this week. Have a great weekend!
