@@ -11,13 +11,15 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * One of my clients' monthly payments came through this week.
 
-* x
+* We have an Airbnb guest coming tonight and staying through Monday.
 
 ## How I Spent Money This Week
 
 * On Sunday, Dan and I bought a bunch of healthy food at Safeway. We've had a really hard time eating well since we moved into our house, and with the wedding almost two months away, we want to get down to business. 
 
 * On Monday, I had a doctor's appointment, so I paid the small co-pay for that.
+
+* I had lunch with my friend, Nina, yesterday. We ate at XX.
 
 * Yesterday, I attended my friend Rachel's bachelorette party. It was a tea party at Lady Camilla's Tea House in Georgetown, and was so much fun!
 
