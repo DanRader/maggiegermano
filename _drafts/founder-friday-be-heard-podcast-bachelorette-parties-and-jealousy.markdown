@@ -15,9 +15,11 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## How I Spent Money This Week
 
-* On Sunday, Dan and I bought a bunch of healthy food at Safeway. We've had a really hard time eating well since we moved into our house, and with the wedding almost two months away, we want to get down to business. 
+* On Sunday, Dan and I bought a bunch of healthy food at Safeway. We've had a really hard time eating well since we moved into our house, and with the wedding almost two months away, we want to get down to business. I also bought a few supplemental things on Amazon that night.
 
 * On Monday, I had a doctor's appointment, so I paid the small co-pay for that.
+
+* As with every week, I bought several small items for the wedding. I bought table numbers, tags that will go on guests' drinking glasses, and a dress bag for my wedding dress. 
 
 * I had lunch with my friend, Nina, yesterday. We ate at XX.
 
