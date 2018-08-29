@@ -3,6 +3,11 @@ title: Founder Friday | Be Heard Podcast, Bachelorette Parties, and Jealousy
 date: 2018-08-31 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/cupcake.jpg"
+posts:
+- Founder Friday | Financial Impostor Syndrome, Birthdays, and Los Angeles
+- Founder Friday | Speaking Gigs, Money Circle, and Pittsburgh
+- Founder Friday | Martha Stewart, Weddings, Google Analytics
 ---
 
 Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
