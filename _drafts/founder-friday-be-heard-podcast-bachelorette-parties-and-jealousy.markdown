@@ -17,9 +17,11 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * On Sunday, Dan and I bought a bunch of healthy food at Safeway. We've had a really hard time eating well since we moved into our house, and with the wedding almost two months away, we want to get down to business. 
 
+* On Monday, I had a doctor's appointment, so I paid the small co-pay for that.
+
 * Yesterday, I attended my friend Rachel's bachelorette party. It was a tea party at Lady Camilla's Tea House in Georgetown, and was so much fun!
 
-* 
+* Today, we were charged for this week's pre-marital counseling appointment. 
 
 ## What I’m Writing
 
