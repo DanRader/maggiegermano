@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Be Heard Podcast, Bachelorette Parties, and Jealousy
 date: 2018-08-31 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/cupcake.jpg"
@@ -52,7 +53,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * My friends Rachel and Paul are getting married this weekend! I can't wait to go down to Luray, Virginia to celebrate them.
 
-* x
+* My bachelorette party is next weekend! I'm excited to have my family and dear friends come down from New York and mingle with my DC friends. We'll be riding a shuttle around to a few different DC breweries and cideries. 
 
 ## Money Tip to Take Into the Weekend
 
