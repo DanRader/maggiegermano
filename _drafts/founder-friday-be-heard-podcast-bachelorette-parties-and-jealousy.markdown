@@ -1,6 +1,8 @@
 ---
 title: Founder Friday | Be Heard Podcast, Bachelorette Parties, and Jealousy
-date: 2018-08-29 09:34:00 -04:00
+date: 2018-08-31 14:00:00 -04:00
+categories:
+- founder friday
 ---
 
 Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
