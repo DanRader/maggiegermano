@@ -1,6 +1,6 @@
 ---
 title: How to Plan Ahead for Holiday Spending
-date: 2018-08-23 12:14:00 -04:00
+date: 2018-09-24 11:00:00 -04:00
 categories:
 - Budget
 image: "/uploads/presents-a001ad.jpg"
