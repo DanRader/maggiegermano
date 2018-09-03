@@ -1,7 +1,6 @@
 ---
 title: How to Trick Yourself into Sticking to a Budget
 date: 2018-09-03 11:00:00 -04:00
-published: false
 categories:
 - budget
 image: "/uploads/budget-584218.jpg"
