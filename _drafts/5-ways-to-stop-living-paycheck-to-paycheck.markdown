@@ -1,6 +1,9 @@
 ---
 title: 5 Ways to Stop Living Paycheck to Paycheck
-date: 2018-09-04 11:20:00 -04:00
+date: 2018-09-10 11:00:00 -04:00
+categories:
+- Budget
+- Career
 image: "/uploads/glasses.jpg"
 ---
 
