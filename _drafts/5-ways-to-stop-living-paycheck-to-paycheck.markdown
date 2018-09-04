@@ -5,6 +5,10 @@ categories:
 - Budget
 - Career
 image: "/uploads/glasses.jpg"
+posts:
+- How to Trick Yourself into Sticking to a Budget
+- What You Should Do After Paying Off Debt
+- Budgeting 101
 ---
 
 According to a [2015 Nielsen study](https://www.fa-mag.com/news/nielsen--even-many-high-earners-live-paycheck-to-paycheck-22704.html), 25 percent of Americans earning over $150,000 are living paycheck to paycheck. That number increases to roughly one-third for households earning $50,000 to $100,000 and then to half for those making $49,999 and less. To put that into perspective, the average income in America is about $59,000. That means that people who are earning more than double the average income still feel like they are living paycheck to paycheck.
