@@ -15,6 +15,8 @@ If you've been following me at all in the past year, you know I've been going th
 
 ## I Saved Over 10% of a Windfall
 
+In July 2017, I received a large sum of money as a settlement from the Department of Health and Human Services. In December 2015, I got a routine flu shot at CVS so that I wouldn't risk giving the flu to my then-newborn nephew over Christmas. Within an hour, my shoulder hurt so bad that I couldn't lift my arm. I had never gotten the flu shot before, so I figured it just hurt a lot normally. Well, I was wrong. It took over a year and many doctors 
+
 ## I Saved 20% of My Take-Home Pay
 
 ## We Saved Our Tax Returns
