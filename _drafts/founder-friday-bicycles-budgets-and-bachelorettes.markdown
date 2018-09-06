@@ -15,13 +15,15 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## How I Spent Money This Week
 
-* x
+* On Sunday morning, Dan and I drove down to Luray, Virginia. Our dear friends, Rachel and Paul, were getting married that afternoon, but we went down early to explore. We went to Luray Caverns for the first time. It was incredibly crowded and *quite* expensive ($28 per person!) but we decided to check it out anyway. 
 
 * x
+
+![2018-09-02 13.15.03.jpg](/uploads/2018-09-02%2013.15.03.jpg)
 
 ## What I’m Writing
 
-x
+This week, I reblogged my first [Forbes](https://www.forbes.com/sites/maggiegermano) piece, which was all about how to [trick yourself](https://www.maggiegermano.com/blog/how-to-trick-yourself-into-sticking-to-a-budget/) into sticking to a budget. 
 
 ## What I’m Up To
 
