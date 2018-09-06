@@ -9,9 +9,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## How I Earned Money This Week
 
-* x
-
-* x
+No income this week
 
 ## How I Spent Money This Week
 
