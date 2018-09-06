@@ -37,6 +37,8 @@ x
 
 * My bachelorette party is this weekend! My sisters, two cousins, and my best buds from New York are arriving tonight. Tomorrow, a bunch of us are renting a shuttle and visiting a few DC breweries. I can't wait!
 
+* I bought some podcasting gear this week! I don't have a firm idea of what I'm going to do yet, but I have a few hunches. *What would you like to hear from me if I started a podcast?* Let me know in the comments!
+
 * Dan bought me a bicycle for my birthday and we went to pick it up last Friday. It's the prettiest bike I've ever seen, and we spent an hour and a half exploring the bike trails near our house. I hadn't ridden a bike in a few years, so I was a little wobbly (and definitely fell off once), but I had so much fun! We're able to ride up to [Lake Artemesia](http://www.mncppc.org/facilities/facility/details/lakeartemesianaturalarea-242) really quickly, so I expect a lot of picnics this fall.
 
 ![2018-08-31 14.09.41.jpg](/uploads/2018-08-31%2014.09.41.jpg)
