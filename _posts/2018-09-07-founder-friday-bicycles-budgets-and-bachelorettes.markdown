@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Bicycles, Budgets, and Bachelorettes
 date: 2018-09-07 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 ---
@@ -9,7 +10,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## How I Earned Money This Week
 
-No income this week
+No income this week!
 
 ## How I Spent Money This Week
 
