@@ -29,13 +29,15 @@ x
 
 * The [September Money Circle meetup](https://www.maggiegermano.com/events/starting-early-planning-and-saving-for-holiday-spending/) is scheduled and ready for you to sign up! This month, we’ll be meeting to discuss how to plan ahead and save for holiday season. See you there?
 
-* In case you can't attend the September Money Circle, you can now sign up for the October event! 
+* In case you can't attend the September Money Circle, you can now sign up for the October event!
 
 ## What I’m Excited About
 
+* [The Feminist Book Club!](https://www.feministbookclub.com/)** **The Feminist Book Club is a monthly subscription box that features a book of the month as chosen by members and 2-4 self-care products from femme-owned businesses. The box itself features a one-of-a-kind collage in the spirit of feminist 'zines from the 1990s and 5% of sales is donated to a new feminist organization each month. Group coaching and book discussion is facilitated through Facebook and Zoom video chat by [Renee M. Powers](https://www.wildcozytruth.com/about), feminist life coach and host of the [Wild Cozy Truth podcast](https://www.wildcozytruth.com/essays). **Get $10 off your first box with code MAGGIE10.**
+
 * My bachelorette party is this weekend! My sisters, two cousins, and my best buds from New York are arriving tonight. Tomorrow, a bunch of us are renting a shuttle and visiting a few DC breweries. I can't wait!
 
-* Dan bought me a bicycle for my birthday and we went to pick it up last Friday. It's the prettiest bike I've ever seen, and we spent an hour and a half exploring the bike trails near our house. I hadn't ridden a bike in a few years, so I was a little wobbly (and definitely fell off once), but I had so much fun! We're able to ride up to [Lake Artemesia](http://www.mncppc.org/facilities/facility/details/lakeartemesianaturalarea-242) really quickly, so I expect a lot of picnics this fall. 
+* Dan bought me a bicycle for my birthday and we went to pick it up last Friday. It's the prettiest bike I've ever seen, and we spent an hour and a half exploring the bike trails near our house. I hadn't ridden a bike in a few years, so I was a little wobbly (and definitely fell off once), but I had so much fun! We're able to ride up to [Lake Artemesia](http://www.mncppc.org/facilities/facility/details/lakeartemesianaturalarea-242) really quickly, so I expect a lot of picnics this fall.
 
 ![2018-08-31 14.09.41.jpg](/uploads/2018-08-31%2014.09.41.jpg)
 
