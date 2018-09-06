@@ -17,7 +17,9 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * On Sunday morning, Dan and I drove down to Luray, Virginia. Our dear friends, Rachel and Paul, were getting married that afternoon, but we went down early to explore. We went to [Luray Caverns](https://luraycaverns.com/) for the first time. It was incredibly crowded and *quite* expensive ($28 per person!) but we decided to check it out anyway. It was huge and beautiful. I'm glad we went.
 
-* After we explored the caverns, we grabbed lunch at a cute deli in downtown Luray.
+* After we explored the caverns, we grabbed lunch at a cute deli in downtown Luray. And of course, we paid for the hotel room after the wedding.
+
+* Now that we have people visiting for the next couple of weekends, and the wedding is coming up, Dan and I finally decided to buy dining room chairs. We bought a table and a bench several months ago, but we've been supplementing them with our office chairs whenever we have guests. I'm so excited to see how these new chairs look in our dining room. It's all coming together!
 
 * I've finally given in an bought myself a pair of high-waisted jeans. I'm trying to put my money where my values are more and more, so I ordered a pair from [Everlane](https://www.everlane.com/r/marygermano). I'm hoping they arrive before my bachelorette party tomorrow!
 
