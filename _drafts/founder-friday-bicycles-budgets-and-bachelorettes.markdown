@@ -15,9 +15,11 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## How I Spent Money This Week
 
-* On Sunday morning, Dan and I drove down to Luray, Virginia. Our dear friends, Rachel and Paul, were getting married that afternoon, but we went down early to explore. We went to Luray Caverns for the first time. It was incredibly crowded and *quite* expensive ($28 per person!) but we decided to check it out anyway. 
+* On Sunday morning, Dan and I drove down to Luray, Virginia. Our dear friends, Rachel and Paul, were getting married that afternoon, but we went down early to explore. We went to [Luray Caverns](https://luraycaverns.com/) for the first time. It was incredibly crowded and *quite* expensive ($28 per person!) but we decided to check it out anyway. It was huge and beautiful. I'm glad we went.
 
-* x
+* After we explored the caverns, we grabbed lunch at a cute deli in downtown Luray.
+
+* I've finally given in an bought myself a pair of high-waisted jeans. I'm trying to put my money where my values are more and more, so I ordered a pair from [Everlane](https://www.everlane.com/r/marygermano). I'm hoping they arrive before my bachelorette party tomorrow!
 
 ![2018-09-02 13.15.03.jpg](/uploads/2018-09-02%2013.15.03.jpg)
 
