@@ -42,7 +42,7 @@ This week, I reblogged my first [Forbes](https://www.forbes.com/sites/maggiegerm
 
 ## What I’m Excited About
 
-* [The Feminist Book Club!](https://www.feministbookclub.com/) The Feminist Book Club is a monthly subscription box that features a book of the month as chosen by members and 2-4 self-care products from femme-owned businesses. The box itself features a one-of-a-kind collage in the spirit of feminist 'zines from the 1990s and 5% of sales is donated to a new feminist organization each month. Group coaching and book discussion is facilitated through Facebook and Zoom video chat by [Renee M. Powers](https://www.wildcozytruth.com/about), feminist life coach and host of the [Wild Cozy Truth podcast](https://www.wildcozytruth.com/essays). **Get $10 off your first box with code MAGGIE10.**
+* [The Feminist Book Club!](https://www.feministbookclub.com/) The Feminist Book Club is a monthly subscription box that features a book of the month as chosen by members and 2-4 self-care products from femme-owned businesses. The box itself features a one-of-a-kind collage in the spirit of feminist 'zines from the 1990s and 5% of sales is donated to a new feminist organization each month. Group coaching and book discussion is facilitated through Facebook and Zoom video chat by [Renee M. Powers](https://www.wildcozytruth.com/about), feminist life coach and host of the [Wild Cozy Truth podcast](https://www.wildcozytruth.com/essays). **Get $10 off your first box with code MAGGIE10**.
 
 * My bachelorette party is this weekend! My sisters, two cousins, and my best buds from New York are arriving tonight. Tomorrow, a bunch of us are renting a shuttle and visiting a few DC breweries. I can't wait!
 
