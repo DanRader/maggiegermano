@@ -3,6 +3,11 @@ title: Founder Friday | Bicycles, Budgets, and Bachelorettes
 date: 2018-09-07 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/bike.jpg"
+posts:
+- Founder Friday | Be Heard Podcast, Bachelorette Parties, and Jealousy
+- Founder Friday | Financial Impostor Syndrome, Birthdays, and Los Angeles
+- Founder Friday | Speaking Gigs, Money Circle, and Pittsburgh
 ---
 
 Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
