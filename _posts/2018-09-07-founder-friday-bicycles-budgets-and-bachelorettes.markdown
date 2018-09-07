@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Bicycles, Budgets, and Bachelorettes
 date: 2018-09-07 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 ---
