@@ -15,6 +15,8 @@ According to a [2015 Nielsen study](https://www.fa-mag.com/news/nielsen--even-ma
 
 There are a lot of complicated reasons for this. First of all, many people live in large cities. The cost of living in our cities is skyrocketing, especially in places like New York, DC, and San Francisco. These increasing living costs make it difficult even for high-earning folks to have money leftover. Another likely cause for this is lifestyle creep. Lifestyle creep is when, as you earn more money, you also spend more money. This ultimately means that you continue to live paycheck to paycheck, no matter how much you earn.
 
+> Lifestyle creep is when, as you earn more money, you also spend more money. This ultimately means that you continue to live paycheck to paycheck, no matter how much you earn.
+
 In this article, I will give advice on how you can avoid lifestyle creep in your own life. I will also include anecdotes from members of my free Facebook group, Money Circle, about their own experiences with lifestyle creep. Some people have taken steps to avoid the increase in spending that comes with an increase in income. Some have struggled with controlling their spending, and others have made specific, valuable lifestyle changes.
 
 ## Revisit Your Budget
