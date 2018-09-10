@@ -5,7 +5,8 @@ categories:
 - lifestyle
 - debt
 image: "/uploads/woman-c0301c.jpg"
-tweet: Your money doesn't define you. You have worth beyond your net worth.
+tweet: 'Your money doesn''t define you. You have worth beyond your net worth. #EndTheStigma
+  #DebtDrop'
 posts:
 - How to Care for Your Mental Health on a Budget
 - 5 Ways to Practice Self Care While on a Budget
