@@ -25,6 +25,8 @@ This month, which is Suicide Prevention Awareness Month, I want to talk about wh
 
 ## Your Well-Being is More Important Than Your Money
 
+I've seen many people toil away in toxic workplaces, or in bad relationships, because they think it's the more responsible thing to do. Perhaps they would have to take a pay cut if they changed jobs, or they'd have to pay higher rent if they left their relationship. These are understandable worries to have! Money and being able to afford your life is no joke. But constant unhappiness is no joke either.
+
 If you don't believe me, take it from [Brené Brown](https://brenebrown.com/):
 
 ![brene.jpg](/uploads/brene.jpg)
