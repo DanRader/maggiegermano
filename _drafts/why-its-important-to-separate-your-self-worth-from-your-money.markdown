@@ -13,8 +13,22 @@ posts:
 - How to Talk to Your Friends about Money
 ---
 
-*This blog post is part of the 3rd Annual Suicide Prevention Awareness Month blog tour. If you are feeling suicidal, please call the National Suicide Prevention Lifeline at 1-800-273-8255 or text HOME to 741741.*
+*This blog post is part of the 3rd Annual Suicide Prevention Awareness Month blog tour. If you are feeling suicidal, please call the [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) at 1-800-273-8255 or text HOME to 741741.*
 
-x
+As a financial coach, I hear from a lot of people who beat themselves up because of their financial situation. They are stressed out about money and they blame themselves. They feel embarrassed, ashamed, isolated, and stupid for the situation they are in. And it's normal to feel that way; it's often easier to be angry at ourselves, rather than figure out what we need to do to make a change. But this kind of negative self-talk can be damaging beyond the bank account. It can lead to hopelessness, depression, and even suicide.
+
+This month, which is Suicide Prevention Awareness Month, I want to talk about why and how you should separate your self-worth from your money.
+
+## Your Net Worth Doesn't Determine Your Self Worth
+
+## Your Past Mistakes Don't Define You
+
+## Your Well-Being is More Important Than Your Money
+
+I've seen many people toil away in toxic workplaces, or in bad relationships, because they think it's the more responsible thing to do. Perhaps they would have to take a pay cut if they changed jobs, or they'd have to pay higher rent if they left their relationship. These are understandable worries to have! Money and being able to afford your life is no joke. But constant unhappiness is no joke either.
+
+If you don't believe me, take it from [Brené Brown](https://brenebrown.com/):
 
 ![brene.jpg](/uploads/brene.jpg)
+
+*This blog post is part of the 3rd Annual Suicide Prevention Awareness Month blog tour. If you are feeling suicidal, please call the [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) at 1-800-273-8255 or text HOME to 741741.*
