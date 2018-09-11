@@ -1,5 +1,5 @@
 ---
-title: Why It's Important to Separate Your Self-Worth from Your Money
+title: Why It's Important to Separate Your Self Worth from Your Money
 date: 2018-09-17 11:00:00 -04:00
 categories:
 - lifestyle
@@ -17,7 +17,7 @@ posts:
 
 As a financial coach, I hear from a lot of people who beat themselves up because of their financial situation. They are stressed out about money and they blame themselves. They feel embarrassed, ashamed, isolated, and stupid for the situation they are in. And it's normal to feel that way; it's often easier to be angry at ourselves, rather than figure out what we need to do to make a change. But this kind of negative self-talk can be damaging beyond the bank account. It can lead to hopelessness, depression, and even suicide.
 
-This month, which is Suicide Prevention Awareness Month, I want to talk about why and how you should separate your self-worth from your money.
+This month, which is Suicide Prevention Awareness Month, I want to talk about why you should separate your self worth from your money.
 
 ## Your Net Worth Doesn't Determine Your Self Worth
 
