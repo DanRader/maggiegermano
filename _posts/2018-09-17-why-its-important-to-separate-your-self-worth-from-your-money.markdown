@@ -1,6 +1,7 @@
 ---
 title: Why It's Important to Separate Your Self Worth from Your Money
 date: 2018-09-17 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 - debt
@@ -23,11 +24,11 @@ This month is [Suicide Prevention Awareness Month](https://www.nami.org/Get-Invo
 
 It might be easy to forget when you're out there reading blogs and scrolling through Instagram, but your net worth does not determine your worth as a human. Your worthiness does not rely on how much money you have in the bank or how much debt you've paid off. It also isn't reflected in how much cute stuff you own or how often you travel. 
 
-Not only will you feel like shit if you rely on your financial standing to feel good about yourself, but it may even discourage you from making positive changes. If you think that you're bad with money and that you've always been bad with money, you will have no desire to move forward.
+Not only will you feel like shit if you rely on your financial standing to feel good about yourself, but it may even discourage you from making positive changes. If you think that you're bad with money and that you've always been bad with money, you will have no desire to move forward. You'll continue to feel bad about yourself and beat yourself up, and feel incapable of making changes.
 
 ## Your Past Mistakes Don't Define You
 
-Just because you've made mistake with your money (or any other part of your life) in the past, doesn't mean you're bad with money or a bad person. It's important to separate who you are as a person from your past behaviors. If you define yourself based on what you've done in the past, shame will overwhelm you. You'll be stuck and paralyzed in a negative loop. On the flip side, if you recognize that you want to behave differently, you If you see the possibility that you can make changes for yourself, you'll be more motivated to make them.
+Just because you've made mistakes with your money (or any other part of your life) in the past, doesn't mean you're bad with money or a bad person. It's important to separate who you are as a person from your past behaviors. If you define yourself based on what you've done in the past, shame will overwhelm you. You'll be stuck and paralyzed in a negative loop. On the flip side, if you recognize that you want to behave differently, you If you see the possibility that you can make changes for yourself, you'll be more motivated to make them. 
 
 ## Your Well Being is More Important Than Your Money
 
@@ -35,7 +36,7 @@ I've seen many people toil away in toxic workplaces, or in bad relationships, be
 
 Earlier this year, I was giving a presentation to a group of female bartenders and one person raised their hand and said, "I know giving up Lyft would save me money, but I work until 3am and it's the only way I feel safe getting home." And this is so true! It's okay to spend money that helps you protect or take care of yourself. The same is true for things like therapy, hiring a coach, eating healthy food, or paying for a gym membership. Don't beat yourself up for spending money on the things that improve your overall safety and well being. 
 
-If you don't believe me, take it from [Brené Brown](https://brenebrown.com/):
+If you don't believe me about separating your worth from your money, take it from [Brené Brown](https://brenebrown.com/):
 
 ![brene.jpg](/uploads/brene.jpg)
 
