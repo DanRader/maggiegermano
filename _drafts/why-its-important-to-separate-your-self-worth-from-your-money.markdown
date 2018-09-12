@@ -21,17 +21,19 @@ This month, which is Suicide Prevention Awareness Month, I want to take today ta
 
 ## Your Net Worth Doesn't Determine Your Self Worth
 
-It might be easy to forget when you're out there reading blogs and scrolling through Instagram, but your net worth does not determine your self worth. Your worthiness as a person does not rely on how much money you have in the bank or how much debt you've paid off. 
+It might be easy to forget when you're out there reading blogs and scrolling through Instagram, but your net worth does not determine your self worth. Your worthiness as a person does not rely on how much money you have in the bank or how much debt you've paid off.
 
-Not only will you feel like shit 
+Not only will you feel like shit
 
 ## Your Past Mistakes Don't Define You
 
 Just because you've made mistake with your money (or any other part of your life) in the past, doesn't mean you're bad with money. It's important to separate who you are as a person from past behaviors. If you see the possibility that you can make changes for yourself, you'll be more motivated to make them.
 
-## Your Well-Being is More Important Than Your Money
+## Your Well Being is More Important Than Your Money
 
-I've seen many people toil away in toxic workplaces, or in bad relationships, because they think it's the more responsible thing to do. Perhaps they would have to take a pay cut if they changed jobs, or they'd have to pay higher rent if they left their relationship. These are understandable worries to have! Money and being able to afford your life is no joke. But constant unhappiness is no joke either.
+I've seen many people toil away in toxic workplaces, or in bad relationships, because they think it's the more responsible thing to do. Perhaps they would have to take a pay cut if they changed jobs, or they'd have to pay higher rent if they left their relationship. These are understandable worries to have! Money and being able to afford your life is no joke. But constant unhappiness is no joke either. 
+
+Earlier this year, I was giving a presentation to a group of female bartenders and one person raised their hand and said, "I know giving up Lyft would save me money, but I work until 3am and it's the only way I feel safe getting home." And this is so true! It's okay to spend money that helps you protect or take care of yourself. The same is true for things like therapy, hiring a coach, eating healthy food, or paying for a gym membership. Don't beat yourself up for spending money on the things that improve your overall safety and well being. 
 
 If you don't believe me, take it from [Brené Brown](https://brenebrown.com/):
 
