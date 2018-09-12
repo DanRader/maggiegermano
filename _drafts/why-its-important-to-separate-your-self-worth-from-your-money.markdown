@@ -23,11 +23,11 @@ This month, which is Suicide Prevention Awareness Month, I want to take today ta
 
 It might be easy to forget when you're out there reading blogs and scrolling through Instagram, but your net worth does not determine your self worth. Your worthiness as a person does not rely on how much money you have in the bank or how much debt you've paid off.
 
-Not only will you feel like shit
+Not only will you feel like shit if you rely on your finances to feel good about yourself, but it may even discourage you from making positive changes. If you think that you're bad with money and that you've always been bad with money, you will have no desire to move forward.
 
 ## Your Past Mistakes Don't Define You
 
-Just because you've made mistake with your money (or any other part of your life) in the past, doesn't mean you're bad with money. It's important to separate who you are as a person from past behaviors. If you see the possibility that you can make changes for yourself, you'll be more motivated to make them.
+Just because you've made mistake with your money (or any other part of your life) in the past, doesn't mean you're bad with money or a bad person. It's important to separate who you are as a person from your past behaviors. If you define yourself based on what you've done in the past, shame will overwhelm you. You'll be stuck and paralyzed in a negative loop. On the flip side, if you recognize that you want to behave differently, you If you see the possibility that you can make changes for yourself, you'll be more motivated to make them.
 
 ## Your Well Being is More Important Than Your Money
 
