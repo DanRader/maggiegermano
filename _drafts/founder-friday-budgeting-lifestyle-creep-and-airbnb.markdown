@@ -3,6 +3,10 @@ title: Founder Friday | Budgeting, Lifestyle Creep, and Airbnb
 date: 2018-09-14 14:00:00 -04:00
 categories:
 - founder friday
+posts:
+- Founder Friday | Bicycles, Budgets, and Bachelorettes
+- Founder Friday | Be Heard Podcast, Bachelorette Parties, and Jealousy
+- Founder Friday | Financial Impostor Syndrome, Birthdays, and Los Angeles
 ---
 
 Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
