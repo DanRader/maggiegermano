@@ -13,7 +13,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## **How I Earned Money This Week**
 
-* We had two different sets of Airbnb guests this week (which is a blessing, because we have to shut it down for a week or two to renovate the bathroom shower). 
+* We had two different sets of Airbnb guests this week (which is a blessing, because we have to shut it down for a week or two to renovate the bathroom shower).
 
 * x
 
@@ -21,7 +21,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * x
 
-* In preparation for Hurricane Florence's landfall, we stocked up on some extra groceries and water this week. 
+* In preparation for Hurricane Florence's landfall, we stocked up on some extra groceries and water this week. We also bought taco fixings for dinner last night, to celebrate [Taco Thursday](https://dcabortionfund.org/events/) and donate money to [DCAF](https://dcabortionfund.org/).
 
 ## **What I’m Writing**
 
