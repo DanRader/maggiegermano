@@ -27,7 +27,7 @@ Not only will you feel like shit if you rely on your finances to feel good about
 
 ## Your Past Mistakes Don't Define You
 
-Just because you've made mistake with your money (or any other part of your life) in the past, doesn't mean you're bad with money. It's important to separate who you are as a person from past behaviors. If you see the possibility that you can make changes for yourself, you'll be more motivated to make them.
+Just because you've made mistake with your money (or any other part of your life) in the past, doesn't mean you're bad with money or a bad person. It's important to separate who you are as a person from your past behaviors. If you define yourself based on what you've done in the past, shame will overwhelm you. You'll be stuck and paralyzed in a negative loop. On the flip side, if you recognize that you want to behave differently, you If you see the possibility that you can make changes for yourself, you'll be more motivated to make them.
 
 ## Your Well Being is More Important Than Your Money
 
