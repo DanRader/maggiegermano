@@ -15,15 +15,15 @@ posts:
 
 *This blog post is part of the 3rd Annual Suicide Prevention Awareness Month blog tour. If you are feeling suicidal, please call the [National Suicide Prevention Lifeline](https://suicidepreventionlifeline.org/) at 1-800-273-8255 or text HOME to 741741.*
 
-As a financial coach, I hear from a lot of people who beat themselves up because of their financial situation. They are stressed out about money and they blame themselves. They feel embarrassed, ashamed, isolated, and stupid for the situation they are in. And it's normal to feel that way; it's often easier to be angry at ourselves, rather than figure out what we need to do to make a change. Plus, financial problems are still pretty taboo in our society. But this kind of negative self-talk can be damaging beyond the bank account. It can lead to shame, hopelessness, depression, and even suicide.
+As a financial coach, I hear from a lot of people who beat themselves up because of their financial situation. They are stressed out about money and they blame themselves. They feel embarrassed, ashamed, isolated, and stupid for the situation they are in. And it's normal to feel that way; it's often easier to be angry at ourselves, rather than figure out what we need to do to make big changes. Plus, financial problems are still pretty taboo in our society, and we're often told that we're to blame if we have debt or other issues. But this kind of negative self-talk can be damaging beyond the bank account. It can lead to shame, hopelessness, depression, and even suicide.
 
-This month, which is Suicide Prevention Awareness Month, I want to take today talk about why you should separate your self worth from your money.
+This month is [Suicide Prevention Awareness Month](https://www.nami.org/Get-Involved/Awareness-Events/Suicide-Prevention-Awareness-Month), so I want to take today talk about why you should try to separate your self worth from your money.
 
 ## Your Net Worth Doesn't Determine Your Self Worth
 
-It might be easy to forget when you're out there reading blogs and scrolling through Instagram, but your net worth does not determine your self worth. Your worthiness as a person does not rely on how much money you have in the bank or how much debt you've paid off.
+It might be easy to forget when you're out there reading blogs and scrolling through Instagram, but your net worth does not determine your worth as a human. Your worthiness does not rely on how much money you have in the bank or how much debt you've paid off. It also isn't reflected in how much cute stuff you own or how often you travel. 
 
-Not only will you feel like shit if you rely on your finances to feel good about yourself, but it may even discourage you from making positive changes. If you think that you're bad with money and that you've always been bad with money, you will have no desire to move forward.
+Not only will you feel like shit if you rely on your financial standing to feel good about yourself, but it may even discourage you from making positive changes. If you think that you're bad with money and that you've always been bad with money, you will have no desire to move forward.
 
 ## Your Past Mistakes Don't Define You
 
