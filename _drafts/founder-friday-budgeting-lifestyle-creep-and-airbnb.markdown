@@ -3,6 +3,7 @@ title: Founder Friday | Budgeting, Lifestyle Creep, and Airbnb
 date: 2018-09-14 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/chair.jpg"
 posts:
 - Founder Friday | Bicycles, Budgets, and Bachelorettes
 - Founder Friday | Be Heard Podcast, Bachelorette Parties, and Jealousy
@@ -23,6 +24,8 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * In preparation for Hurricane Florence's landfall, we stocked up on some extra groceries and water this week. We also bought taco fixings for dinner last night, to celebrate [Taco Thursday](https://dcabortionfund.org/events/) and donate money to [DCAF](https://dcabortionfund.org/).
 
+![2018-09-08 12.07.11.jpg](/uploads/2018-09-08%2012.07.11.jpg)
+
 ## **What I’m Writing**
 
 This week, I reposted my second [Women@Forbes](https://www.forbes.com/sites/maggiegermano) post on my blog. I wrote about how to avoid lifestyle creep so that you are no longer living [paycheck to paycheck](https://www.maggiegermano.com/blog/5-ways-to-stop-living-paycheck-to-paycheck/).
@@ -34,6 +37,8 @@ This week, I reposted my second [Women@Forbes](https://www.forbes.com/sites/magg
 * The [September Money Circle meetup](https://www.maggiegermano.com/events/starting-early-planning-and-saving-for-holiday-spending/) is scheduled and ready for you to sign up! This month, we’ll be meeting to discuss how to plan ahead and save for holiday season. See you there?
 
 * In case you can’t attend the September Money Circle, you can now sign up for the [October event](https://www.maggiegermano.com/events/how-to-ask-for-a-raise/)! We'll be talking about how to ask for a raise at work.
+
+![FB@2x (1)-9bba77.png](/uploads/FB@2x%20(1)-9bba77.png)
 
 ## **What I’m Excited About**
 
