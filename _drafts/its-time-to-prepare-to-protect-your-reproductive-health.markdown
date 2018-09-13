@@ -38,10 +38,14 @@ When abortion was illegal before 1974, that didn’t mean no one was getting abo
 
 I hope we don’t go back to that time, but in case we do, you need to protect yourself by creating this emergency savings account.
 
-Have I made you scared or angry enough? Take action!
+Have I made you scared or angry enough? Take action now!
 
 * Call your senators and urge them to vote “no” on Brett Kavanaugh.
 
 * Donate to [Planned Parenthood](https://www.plannedparenthood.org/) or your local affiliate.
 
 * Donate to your local [abortion fund](https://abortionfunds.org/) like the [DC Abortion Fund](https://dcabortionfund.org/).
+
+* Talk to your doctor about your birth control options.
+
+* Start your [emergency savings](https://www.maggiegermano.com/blog/you-need-an-emergency-fund) account, if you haven't already.
