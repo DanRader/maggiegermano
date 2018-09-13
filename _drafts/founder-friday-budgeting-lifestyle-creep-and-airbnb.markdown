@@ -16,17 +16,21 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * We had two different sets of Airbnb guests this week (which is a blessing, because we have to shut it down for a week or two to renovate the bathroom shower).
 
-* x
+* The income from my [budgeting workshop](https://www.eventbrite.com/e/making-breaking-the-budget-workshop-tickets-48317128833) this weekend should process tomorrow. [Sign up](https://www.eventbrite.com/e/making-breaking-the-budget-workshop-tickets-48317128833) if you haven't yet!
 
 ## **How I Spent Money This Week**
 
 * The [Hungry Harvest](https://www.hungryharvest.net/) delivery from last Friday was charged to our credit card this week. If you want to get $5 off your first order of rescued produce, [use my link](http://hharvest.net/m5didTk)!
 
-* On Wednesday, I met with a friend of mine who is a social media strategist. We've been trading services to each other for a few months. We ordered Thai food for dinner while we talked through Facebook ads and upcoming social media strategies. 
+* On Wednesday, I met with a friend of mine who is a social media strategist. We've been trading services to each other for a few months. We ordered Thai food for dinner while we talked through Facebook ads and upcoming social media strategies.
 
 * In preparation for Hurricane Florence's landfall, we stocked up on some extra groceries and water this week. We also bought taco fixings for dinner last night, to celebrate [Taco Thursday](https://dcabortionfund.org/events/) and we donated some money to [DCAF](https://dcabortionfund.org/).
 
+* As with every week lately, I bought several random wedding items. 
+
 ![2018-09-08 12.07.11.jpg](/uploads/2018-09-08%2012.07.11.jpg)
+
+*Thanks to all the friends and family who came to my bachelorette party last weekend! I had a wonderful time and felt very spoiled. *
 
 ## **What I’m Writing**
 
