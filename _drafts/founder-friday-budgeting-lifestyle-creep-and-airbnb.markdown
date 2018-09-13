@@ -46,7 +46,7 @@ This week, I reposted my second [Women@Forbes](https://www.forbes.com/sites/magg
 
 * In case you can’t attend the September Money Circle, you can now sign up for the [October event](https://www.maggiegermano.com/events/how-to-ask-for-a-raise/)! We'll be talking about how to ask for a raise at work.
 
-![FB@2x (1)-9bba77.png](/uploads/FB@2x%20(1)-9bba77.png)
+[![FB@2x (1)-9bba77.png](/uploads/FB@2x%20(1)-9bba77.png)](https://www.eventbrite.com/e/making-breaking-the-budget-workshop-tickets-48317128833)
 
 ## **What I’m Excited About**
 
