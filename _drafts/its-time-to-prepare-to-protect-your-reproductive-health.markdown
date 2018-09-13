@@ -17,9 +17,11 @@ When you’re interviewing for jobs, find out about their policies on maternity 
 
 ## Get an IUD or Implant
 
-[Implants](https://www.plannedparenthood.org/learn/birth-control/birth-control-implant-implanon) can last up to 3 years and [IUDs](https://www.plannedparenthood.org/learn/birth-control/iud) can last up to 10 years, depending on the type that you choose.
+[Implants](https://www.plannedparenthood.org/learn/birth-control/birth-control-implant-implanon) can last up to 3 years and [IUDs](https://www.plannedparenthood.org/learn/birth-control/iud) can last up to 10 years, depending on the type that you choose. As of now, unless you work for a "religious" company, birth control is
 
-## Stock Up On Plan B
+## Stock Up On The Morning-After Pill
+
+Most women who have sex with men probably know what it's like to have a pregnancy scare or have their birth control fail in some way. Pills like Plan B are a great medication that prevent ... Taking the [morning-after pill](https://www.plannedparenthood.org/learn/morning-after-pill-emergency-contraception/whats-plan-b-morning-after-pill) can reduce your likelihood of getting pregnant by 75-89% if you take it within three days of intercourse. 
 
 ## Designate a Reproductive Health Savings Account
 
