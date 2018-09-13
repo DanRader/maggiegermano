@@ -26,7 +26,9 @@ Of course, each person reacts differently to all birth control options. Talk to 
 
 Most women who have sex with men probably know what it's like to have a pregnancy scare or have their birth control fail in some way. Pills like Plan B are a great medication that prevents pregnancy by temporarily stopping the release of an egg from the ovary, preventing fertilization, and preventing a fertilized egg from attaching to the uterus. Taking the [morning-after pill](https://www.plannedparenthood.org/learn/morning-after-pill-emergency-contraception/whats-plan-b-morning-after-pill) can reduce your likelihood of getting pregnant by 75-89% if you take it within three days of intercourse. 
 
-The morning-after pill isn't cheap. It costs about $40 per box (depending on the brand), so this isn't a viable option for all women. But if you're worried that this medication will be taken away from us, it is a good idea to stock up on it. They even sell them on [Amazon](https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=morning\+after\+pill).
+There are many different morning-after pill options now. Some of them are more effective depending on how much you weigh, so do your research. The most well-known option is [Plan B](https://www.planbonestep.com/), but there is also [Ella](https://www.ellanow.com/), [My Way](http://mywaypill.com/), [Take Action](http://www.takeaction-ec.com/), etc.
+
+The morning-after pill isn't cheap. It costs about $40 per box (depending on the brand), so this isn't a viable option for all women. It used to only be available if you got a prescription from your doctor, but now it's available over the counter. If you're worried that this medication will be taken away from us, it is a good idea to stock up on it. They even sell them on [Amazon](https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=morning\+after\+pill).
 
 ## Designate a Reproductive Health Savings Account
 
