@@ -20,7 +20,7 @@ When you’re interviewing for jobs, find out about their policies on maternity 
 
 [Implants](https://www.plannedparenthood.org/learn/birth-control/birth-control-implant-implanon) can last up to 3 years and [IUDs](https://www.plannedparenthood.org/learn/birth-control/iud) can last up to 10 years, depending on the type that you choose. As of now, unless you work for a "religious" company, birth control is still covered by insurance. If you know you won't want a child between now and 3-10 years from now, it might be a good time to get an implant or IUD inserted. 
 
-Of course, each person reacts differently to all birth control options. 
+Of course, each person reacts differently to all birth control options. Talk to your doctor to decide what's best for you. I got the [Nexplanon](https://www.nexplanon.com/) implant 3 years ago and my body didn't react very well. I'm still sad about it, because I loved not having to take a daily pill. But you have to do what is right for you!
 
 ## Stock Up On The Morning-After Pill
 
