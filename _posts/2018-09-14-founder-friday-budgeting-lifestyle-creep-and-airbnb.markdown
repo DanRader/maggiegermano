@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Budgeting, Lifestyle Creep, and Airbnb
 date: 2018-09-14 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/chair.jpg"
@@ -30,6 +31,8 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * As with every week lately, I bought several random wedding items. 
 
+* I worked at a coffee shop yesterday and treated myself to some jasmine tea.
+
 ![2018-09-08 12.07.11.jpg](/uploads/2018-09-08%2012.07.11.jpg)
 
 *Thanks to all the friends and family who came to my bachelorette party last weekend! I had a wonderful time and felt very spoiled. *
@@ -50,9 +53,7 @@ This week, I reposted my second [Women@Forbes](https://www.forbes.com/sites/magg
 
 ## **What I’m Excited About**
 
-* [The Feminist Book Club!](https://www.feministbookclub.com/) The Feminist Book Club is a monthly subscription box that features a book of the month as chosen by members and 2-4 self-care products from femme-owned businesses. The box itself features a one-of-a-kind collage in the spirit of feminist ‘zines from the 1990s and 5% of sales is donated to a new feminist organization each month. Group coaching and book discussion is facilitated through Facebook and Zoom video chat by **[Renee M. Powers](https://www.wildcozytruth.com/about)**, feminist life coach and host of the **[Wild Cozy Truth podcast](https://www.wildcozytruth.com/essays)**. **Get $10 off your first box with code MAGGIE10**.
-
-* x
+[The Feminist Book Club!](https://www.feministbookclub.com/) The Feminist Book Club is a monthly subscription box that features a book of the month as chosen by members and 2-4 self-care products from femme-owned businesses. The box itself features a one-of-a-kind collage in the spirit of feminist ‘zines from the 1990s and 5% of sales is donated to a new feminist organization each month. Group coaching and book discussion is facilitated through Facebook and Zoom video chat by **[Renee M. Powers](https://www.wildcozytruth.com/about)**, feminist life coach and host of the **[Wild Cozy Truth podcast](https://www.wildcozytruth.com/essays)**. **Get $10 off your first box with code MAGGIE10**.
 
 ## **Money Tip to Take Into the Weekend**
 
