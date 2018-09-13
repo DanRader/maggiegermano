@@ -18,6 +18,8 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * The income from my [budgeting workshop](https://www.eventbrite.com/e/making-breaking-the-budget-workshop-tickets-48317128833) this weekend should process tomorrow. [Sign up](https://www.eventbrite.com/e/making-breaking-the-budget-workshop-tickets-48317128833) if you haven't yet!
 
+* I had a new client pay for a 90-minute budget deep dive session. (Does this sound like something you'd be interested in? Schedule a [free discovery call](https://maggiegermanofinancialcoaching.as.me/discovery)!)
+
 ## **How I Spent Money This Week**
 
 * The [Hungry Harvest](https://www.hungryharvest.net/) delivery from last Friday was charged to our credit card this week. If you want to get $5 off your first order of rescued produce, [use my link](http://hharvest.net/m5didTk)!
