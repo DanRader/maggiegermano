@@ -17,7 +17,9 @@ When you’re interviewing for jobs, find out about their policies on maternity 
 
 ## Get an IUD or Implant
 
-[Implants](https://www.plannedparenthood.org/learn/birth-control/birth-control-implant-implanon) can last up to 3 years and [IUDs](https://www.plannedparenthood.org/learn/birth-control/iud) can last up to 10 years, depending on the type that you choose. As of now, unless you work for a "religious" company, birth control is
+[Implants](https://www.plannedparenthood.org/learn/birth-control/birth-control-implant-implanon) can last up to 3 years and [IUDs](https://www.plannedparenthood.org/learn/birth-control/iud) can last up to 10 years, depending on the type that you choose. As of now, unless you work for a "religious" company, birth control is still covered by insurance. If you know you won't want a child between now and 3-10 years from now, it might be a good time to get an implant or IUD inserted. 
+
+Of course, each person reacts differently to all birth control options. 
 
 ## Stock Up On The Morning-After Pill
 
