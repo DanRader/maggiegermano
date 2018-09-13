@@ -4,11 +4,19 @@ date: 2018-09-11 10:25:00 -04:00
 categories:
 - lifestyle
 image: "/uploads/protest-4b365f.jpg"
+tweet: With Republicans controlling the House, Senate, White House and possibly the
+  SCOTUS, it's time to protect your own reproductive health.
+posts:
+- What Volunteering For The DC Abortion Fund Taught Me About Money
+- Fight White Supremacy with Your Wallet and Your Voice
+- How Financial Security is a Feminist Act
 ---
 
-If you've been conscious at all within the last few months (or the last two years), you know that there is a new Supreme Court nominee being vetted by the Senate. Brett Kavanaugh is.... You also probably know that President Trump promised to appoint a Supreme Court Justice who would overturn [Roe v. Wade](https://www.plannedparenthoodaction.org/issues/abortion/roe-v-wade).
+If you've been conscious at all within the last few months (or the last two years), you know that there is a new Supreme Court nominee, [Brett Kavanaugh](https://www.cnn.com/2018/07/09/politics/kavanaugh-on-the-issues/index.html), being vetted by the Senate. You also probably know that President Trump promised to appoint a Supreme Court Justice who would overturn [Roe v. Wade](https://www.plannedparenthoodaction.org/issues/abortion/roe-v-wade). 
 
 What you should also know is that Brett Kavanaugh, in his testimony, referred to birth control as "abortion inducing". If you know anything about birth control or abortion, you know that birth control, including Plan B, does not cause abortion. In fact, it prevents pregnancy, which means it also prevents abortion. However, misinformation abounds, and Brett Kavanaugh is likely willfully ignorant about birth control. The problem with this ignorance, though, is that it puts birth control at risk. We already have Congress fighting the birth control mandate in the Affordable Care Act. If we have a majority conservative Supreme Court, it could be fought there as well. (Listen to [Dan Savage’s rant](https://www.savagelovecast.com/episodes/620#.W5pqlZNKjBI) about this.)
+
+The Supreme Court should not be used as a tool to affect all Americans, but that is where we are. It is usually where the buck stops when lawmakers are going rogue. In just the last several years, the Supreme Court has struck down the Defense of Marriage Act, which disallowed gay marriage, it upheld the Affordable Care Act, which works to provide affordable healthcare to all Americans, and ... The more conservative and politically-connected justices that get appointed to the Court, the worse off we all are. 
 
 ## Find An Employer That Supports Women
 
@@ -38,10 +46,14 @@ When abortion was illegal before 1974, that didn’t mean no one was getting abo
 
 I hope we don’t go back to that time, but in case we do, you need to protect yourself by creating this emergency savings account.
 
-Have I made you scared or angry enough? Take action!
+Have I made you scared or angry enough? Take action now!
 
 * Call your senators and urge them to vote “no” on Brett Kavanaugh.
 
 * Donate to [Planned Parenthood](https://www.plannedparenthood.org/) or your local affiliate.
 
 * Donate to your local [abortion fund](https://abortionfunds.org/) like the [DC Abortion Fund](https://dcabortionfund.org/).
+
+* Talk to your doctor about your birth control options.
+
+* Start your [emergency savings](https://www.maggiegermano.com/blog/you-need-an-emergency-fund) account, if you haven't already.
