@@ -33,6 +33,6 @@ Have I made you scared or angry enough? Take action!
 
 * Call your senators and urge them to vote “no” on Brett Kavanaugh.
 
-* Donate to Planned Parenthood.
+* Donate to [Planned Parenthood](https://www.plannedparenthood.org/) or your local affiliate.
 
-* Donate to your local abortion fund.
+* Donate to your local [abortion fund](https://abortionfunds.org/) like the [DC Abortion Fund](https://dcabortionfund.org/).
