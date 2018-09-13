@@ -3,6 +3,7 @@ title: It's Time to Prepare to Protect Your Reproductive Health
 date: 2018-09-11 10:25:00 -04:00
 categories:
 - lifestyle
+image: "/uploads/protest-4b365f.jpg"
 ---
 
 If you've been conscious at all within the last few months (or the last two years), you know that there is a new Supreme Court nominee being vetted by the Senate. Brett Kavanaugh is.... You also probably know that President Trump promised to appoint a Supreme Court Justice who would overturn [Roe v. Wade](https://www.plannedparenthoodaction.org/issues/abortion/roe-v-wade).
@@ -19,13 +20,15 @@ When you’re interviewing for jobs, find out about their policies on maternity 
 
 [Implants](https://www.plannedparenthood.org/learn/birth-control/birth-control-implant-implanon) can last up to 3 years and [IUDs](https://www.plannedparenthood.org/learn/birth-control/iud) can last up to 10 years, depending on the type that you choose. As of now, unless you work for a "religious" company, birth control is still covered by insurance. If you know you won't want a child between now and 3-10 years from now, it might be a good time to get an implant or IUD inserted. 
 
-Of course, each person reacts differently to all birth control options. 
+Of course, each person reacts differently to all birth control options. Talk to your doctor to decide what's best for you. I got the [Nexplanon](https://www.nexplanon.com/) implant 3 years ago and my body didn't react very well. I'm still sad about it, because I loved not having to take a daily pill. But you have to do what is right for you!
 
 ## Stock Up On The Morning-After Pill
 
 Most women who have sex with men probably know what it's like to have a pregnancy scare or have their birth control fail in some way. Pills like Plan B are a great medication that prevents pregnancy by temporarily stopping the release of an egg from the ovary, preventing fertilization, and preventing a fertilized egg from attaching to the uterus. Taking the [morning-after pill](https://www.plannedparenthood.org/learn/morning-after-pill-emergency-contraception/whats-plan-b-morning-after-pill) can reduce your likelihood of getting pregnant by 75-89% if you take it within three days of intercourse. 
 
-The morning-after pill isn't cheap. It costs about $40 per box (depending on the brand), so this isn't a viable option for all women. But if you're worried that this medication will be taken away from us, it is a good idea to stock up on it. They even sell them on [Amazon](https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=morning\+after\+pill).
+There are many different morning-after pill options now. Some of them are more effective depending on how much you weigh, so do your research. The most well-known option is [Plan B](https://www.planbonestep.com/), but there is also [Ella](https://www.ellanow.com/), [My Way](http://mywaypill.com/), [Take Action](http://www.takeaction-ec.com/), etc.
+
+The morning-after pill isn't cheap. It costs about $40 per box (depending on the brand), so this isn't a viable option for all women. It used to only be available if you got a prescription from your doctor, but now it's available over the counter. If you're worried that this medication will be taken away from us, it is a good idea to stock up on it. They even sell them on [Amazon](https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=morning\+after\+pill).
 
 ## Designate a Reproductive Health Savings Account
 
