@@ -4,6 +4,12 @@ date: 2018-09-11 10:25:00 -04:00
 categories:
 - lifestyle
 image: "/uploads/protest-4b365f.jpg"
+tweet: With Republicans controlling the House, Senate, White House and possibly the
+  SCOTUS, it's time to protect your own reproductive health.
+posts:
+- What Volunteering For The DC Abortion Fund Taught Me About Money
+- Fight White Supremacy with Your Wallet and Your Voice
+- How Financial Security is a Feminist Act
 ---
 
 If you've been conscious at all within the last few months (or the last two years), you know that there is a new Supreme Court nominee, [Brett Kavanaugh](https://www.cnn.com/2018/07/09/politics/kavanaugh-on-the-issues/index.html), being vetted by the Senate. You also probably know that President Trump promised to appoint a Supreme Court Justice who would overturn [Roe v. Wade](https://www.plannedparenthoodaction.org/issues/abortion/roe-v-wade). 
