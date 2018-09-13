@@ -30,6 +30,8 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * As with every week lately, I bought several random wedding items. 
 
+* I worked at a coffee shop yesterday and treated myself to some jasmine tea.
+
 ![2018-09-08 12.07.11.jpg](/uploads/2018-09-08%2012.07.11.jpg)
 
 *Thanks to all the friends and family who came to my bachelorette party last weekend! I had a wonderful time and felt very spoiled. *
