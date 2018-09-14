@@ -28,13 +28,13 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * In preparation for Hurricane Florence's landfall, we stocked up on some extra groceries and water this week. We also bought taco fixings for dinner last night, to celebrate [Taco Thursday](https://dcabortionfund.org/events/) and we donated some money to [DCAF](https://dcabortionfund.org/).
 
-* As with every week lately, I bought several random wedding items. 
+* As with every week lately, I bought several random wedding items.
 
 * I worked at a coffee shop yesterday and treated myself to some jasmine tea.
 
 ![2018-09-08 12.07.11.jpg](/uploads/2018-09-08%2012.07.11.jpg)
 
-*Thanks to all the friends and family who came to my bachelorette party last weekend! I had a wonderful time and felt very spoiled. *
+*Thanks to all the friends and family who came to my bachelorette party last weekend! I had a wonderful time and felt very spoiled.*
 
 ## **What I’m Writing**
 
@@ -48,7 +48,7 @@ This week, I reposted my second [Women@Forbes](https://www.forbes.com/sites/magg
 
 * In case you can’t attend the September Money Circle, you can now sign up for the [October event](https://www.maggiegermano.com/events/how-to-ask-for-a-raise/)! We'll be talking about how to ask for a raise at work.
 
-[![FB@2x (1)-9bba77.png](/uploads/FB@2x%20(1)-9bba77.png)](https://www.eventbrite.com/e/making-breaking-the-budget-workshop-tickets-48317128833)
+![FB@2x (1)-9bba77.png](/uploads/FB@2x%20(1)-9bba77.png)
 
 ## **What I’m Excited About**
 
