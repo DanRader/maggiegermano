@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Budgeting, Lifestyle Creep, and Airbnb
 date: 2018-09-14 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 image: "/uploads/chair.jpg"
