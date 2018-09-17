@@ -12,11 +12,11 @@ posts:
 - How Financial Security is a Feminist Act
 ---
 
-If you've been conscious at all within the last few months (or the last two years), you know that there is a new Supreme Court nominee, [Brett Kavanaugh](https://www.cnn.com/2018/07/09/politics/kavanaugh-on-the-issues/index.html), being vetted by the Senate. You also probably know that President Trump promised to appoint a Supreme Court Justice who would overturn [Roe v. Wade](https://www.plannedparenthoodaction.org/issues/abortion/roe-v-wade). 
+If you've been conscious at all within the last few months (or the last two years), you know that there is a new Supreme Court nominee, [Brett Kavanaugh](https://www.cnn.com/2018/07/09/politics/kavanaugh-on-the-issues/index.html), being vetted by the Senate. You also probably know that President Trump promised to appoint a Supreme Court Justice who would overturn [Roe v. Wade](https://www.plannedparenthoodaction.org/issues/abortion/roe-v-wade).
 
-What you should also know is that Brett Kavanaugh, in his testimony, referred to birth control as "abortion inducing". If you know anything about birth control or abortion, you know that birth control, including Plan B, does not cause abortion. In fact, it prevents pregnancy, which means it also prevents abortion. However, misinformation abounds, and Brett Kavanaugh is likely willfully ignorant about birth control. The problem with this ignorance, though, is that it puts birth control at risk. We already have Congress fighting the birth control mandate in the Affordable Care Act. If we have a majority conservative Supreme Court, it could be fought there as well. (Listen to [Dan Savage’s rant](https://www.savagelovecast.com/episodes/620#.W5pqlZNKjBI) about this.)
+What you should also know is that Brett Kavanaugh, in his testimony, referred to birth control as "abortion inducing". If you know anything about birth control or abortion, you know that birth control, including emergency contraception, does not cause abortion. In fact, it prevents pregnancy, which means it also prevents the need for abortions. However, misinformation abounds, and Brett Kavanaugh is likely willfully ignorant about birth control. The problem with this ignorance, though, is that it puts birth control at risk. We already have Congress fighting the birth control mandate in the Affordable Care Act. If we have a majority conservative Supreme Court, it could be fought there as well. (Listen to [Dan Savage’s rant](https://www.savagelovecast.com/episodes/620#.W5pqlZNKjBI) about this.)
 
-The Supreme Court should not be used as a tool to affect all Americans, but that is where we are. It is usually where the buck stops when lawmakers are going rogue. In just the last several years, the Supreme Court has struck down the Defense of Marriage Act, which disallowed gay marriage, it upheld the Affordable Care Act, which works to provide affordable healthcare to all Americans, and ... The more conservative and politically-connected justices that get appointed to the Court, the worse off we all are. 
+The Supreme Court should not be used as a tool to affect all Americans, but that is where we are. It is usually where the buck stops when lawmakers are going rogue. In just the last several years, the Supreme Court has struck down the Defense of Marriage Act, which disallowed gay marriage, it upheld the Affordable Care Act, which works to provide affordable healthcare to all Americans, and ... The more conservative and politically-connected justices that get appointed to the Court, the worse off we all are.
 
 ## Find An Employer That Supports Women
 
@@ -26,13 +26,13 @@ When you’re interviewing for jobs, find out about their policies on maternity 
 
 ## Get an IUD or Implant
 
-[Implants](https://www.plannedparenthood.org/learn/birth-control/birth-control-implant-implanon) can last up to 3 years and [IUDs](https://www.plannedparenthood.org/learn/birth-control/iud) can last up to 10 years, depending on the type that you choose. As of now, unless you work for a "religious" company, birth control is still covered by insurance. If you know you won't want a child between now and 3-10 years from now, it might be a good time to get an implant or IUD inserted. 
+[Implants](https://www.plannedparenthood.org/learn/birth-control/birth-control-implant-implanon) can last up to 3 years and [IUDs](https://www.plannedparenthood.org/learn/birth-control/iud) can last up to 10 years, depending on the type that you choose. As of now, unless you work for a "religious" company, birth control is still covered by insurance. If you know you won't want a child between now and 3-10 years from now, it might be a good time to get an implant or IUD inserted.
 
 Of course, each person reacts differently to all birth control options. Talk to your doctor to decide what's best for you. I got the [Nexplanon](https://www.nexplanon.com/) implant 3 years ago and my body didn't react very well. I'm still sad about it, because I loved not having to take a daily pill. But you have to do what is right for you!
 
 ## Stock Up On The Morning-After Pill
 
-Most women who have sex with men probably know what it's like to have a pregnancy scare or have their birth control fail in some way. Pills like Plan B are a great medication that prevents pregnancy by temporarily stopping the release of an egg from the ovary, preventing fertilization, and preventing a fertilized egg from attaching to the uterus. Taking the [morning-after pill](https://www.plannedparenthood.org/learn/morning-after-pill-emergency-contraception/whats-plan-b-morning-after-pill) can reduce your likelihood of getting pregnant by 75-89% if you take it within three days of intercourse. 
+Most women who have sex with men probably know what it's like to have a pregnancy scare or have their birth control fail in some way. Pills like Plan B are a great medication that prevents pregnancy by temporarily stopping the release of an egg from the ovary, preventing fertilization, and preventing a fertilized egg from attaching to the uterus. Taking the [morning-after pill](https://www.plannedparenthood.org/learn/morning-after-pill-emergency-contraception/whats-plan-b-morning-after-pill) can reduce your likelihood of getting pregnant by 75-89% if you take it within three days of intercourse.
 
 There are many different morning-after pill options now. Some of them are more effective depending on how much you weigh, so do your research. The most well-known option is [Plan B](https://www.planbonestep.com/), but there is also [Ella](https://www.ellanow.com/), [My Way](http://mywaypill.com/), [Take Action](http://www.takeaction-ec.com/), etc.
 
@@ -57,3 +57,5 @@ Have I made you scared or angry enough? Take action now!
 * Talk to your doctor about your birth control options.
 
 * Start your [emergency savings](https://www.maggiegermano.com/blog/you-need-an-emergency-fund) account, if you haven't already.
+
+*PS: To make things worse, there are now sexual assault accusations against Brett Kavanaugh. Urge your Senators to believe women and call for his nomination to be withdrawn.*
