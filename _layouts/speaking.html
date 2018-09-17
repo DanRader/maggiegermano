@@ -2,30 +2,17 @@
 layout: default
 ---
 <div class="speaking-wrap">
-    <div class="row">
-        <div class="max-width-4">
-            <div class="col m8 content-innerWrap">
-                <div class="">
-                    <h1>{{page.title}}</h1>
-                    <p>{{ content }}</p>
-                    <a href="#">Book Maggie Now</a>
-                </div>
-            </div>
-            <div class="col m4 content-innerWrap border-left center">
-                <div class="">
-                    <i class="testi-quote_Mark">"</i>
-                    <p class="testi-quote">{{page.quote-1.quote-text}}</p>
-                    <i class="testi-quote_Mark">"</i>
-                    <p class="testi-quote_name">{{page.quote-1.name}}</p>
-                    <p class="testi-quote_org">{{page.quote-1.org}}</p>
-                </div>
+    <div class="gridy two-one">
+        <div class="content-innerWrap">
+            <div class="intro-wrap">
+                <h1>{{page.title}}</h1>
+                {{ content }}
+                <a class="button" href="#form-wrap">Book Maggie Now</a>
             </div>
         </div>
+        <img class="img-feature" src="/uploads/maggie_speaking.jpg" alt="Maggie Germano Speaking at Deloitte Digital">
     </div>
-
-<!-- LOGO SECTION -->
-    <div class="row">
-        <div class="max-width-4 center logo-wrap">
+    <div class="gridy one logo-wrap center">
             <h2>past audiences</h2>
             <div class="logo-list">
                 {% assign logo-sort = site.audience-logos | sort: "position" %}
@@ -42,69 +29,81 @@ layout: default
                 </a>
                 {% endfor %}
             </div>
-            <button type="button" name="Read" class="">Past Events</button>
-        </div>
+            <div class="">
+                <button type="button" name="Read" class="">Past Events</button>
+            </div>
     </div>
 
-<!-- TOPICS     -->
-    <div class="row">
-        <div class="col m4 content-innerWrap img-cover">
-            <img src="/uploads/hische-speaking.jpg" alt="">
+    <div class="gridy one-two">
+        <div class="content-innerWrap quote-wrap ">
+                <img src="/uploads/quote@2x.png" alt="quote">
+                <p class="testi-quote">{{page.quote-2.quote-text}}</p>
+                <img class="flip" src="/uploads/quote@2x.png" alt="quote">
+                <p class="testi-quote_name">{{page.quote-2.name}}</p>
+                <p class="testi-quote_name org">{{page.quote-2.org}}</p>
         </div>
-        <div class="max-width-4">
-            <div class="col m8 content-innerWrap border-left">
-                <div class="">
-                    {{page.speaker-topics | markdownify }}
-                </div>
-            </div>
-        </div>
-    </div>
-
-<!-- WORKSHOPS     -->
-        <div class="row">
-            <div class="max-width-4">
-                <div class="col m8 content-innerWrap">
-                    <div class="">
-                        {{page.workshops | markdownify }}
-                    </div>
-                </div>
-                <div class="col m4 content-innerWrap border-left center">
-                    <div class="">
-                        <i class="testi-quote_Mark">"</i>
-                        <p class="testi-quote">{{page.quote-1.quote-text}}</p>
-                        <i class="testi-quote_Mark">"</i>
-                        <p class="testi-quote_name">{{page.quote-1.name}}</p>
-                        <p class="testi-quote_org">{{page.quote-1.org}}</p>
-                    </div>
-                </div>
-            </div>
-        </div>
-
-
-<!-- PODCASTS     -->
-    <div class="row">
-        <div class="max-width-4">
-            <div class="col m4 content-innerWrap">
-                <div class="">
-                    {{page.podcasts | markdownify }}
-                </div>
-            </div>
-            <div class="col m8 content-innerWrap center img-cover">
-                <img src="/uploads/speaking.jpg" alt="Maggie Germano Speaking at Deloitte Digital">
+        <div class="content-innerWrap border-left">
+            <div class="intro-wrap">
+                {{page.speaker-topics | markdownify }}
             </div>
         </div>
     </div>
 
-    <div class=" center form-wrap">
+    <div class="gridy two-one ">
+        <div class="content-innerWrap">
+            <div class="intro-wrap">
+                {{page.workshops | markdownify }}
+            </div>
+        </div>
+        <img class="img-feature" src="/uploads/MaggieGermano_speaking3.jpg" alt="Maggie Germano Speaking at ISL workshop">
+    </div>
+
+    <div class="gridy singles">
+        <div class="content-innerWrap quote-wrap ">
+                <img src="/uploads/quote@2x.png" alt="quote">
+                <p class="testi-quote">{{page.quote-2.quote-text}}</p>
+                <img class="flip" src="/uploads/quote@2x.png" alt="quote">
+                <p class="testi-quote_name">{{page.quote-2.name}}</p>
+                <p class="testi-quote_name org">{{page.quote-2.org}}</p>
+        </div>
+        <div class="content-innerWrap quote-wrap border-left">
+                <img src="/uploads/quote@2x.png" alt="quote">
+                <p class="testi-quote">{{page.quote-2.quote-text}}</p>
+                <img class="flip" src="/uploads/quote@2x.png" alt="quote">
+                <p class="testi-quote_name">{{page.quote-2.name}}</p>
+                <p class="testi-quote_name org">{{page.quote-2.org}}</p>
+        </div>
+        <div class="content-innerWrap quote-wrap border-left">
+                <img src="/uploads/quote@2x.png" alt="quote">
+                <p class="testi-quote">{{page.quote-2.quote-text}}</p>
+                <img class="flip" src="/uploads/quote@2x.png" alt="quote">
+                <p class="testi-quote_name">{{page.quote-2.name}}</p>
+                <p class="testi-quote_name org">{{page.quote-2.org}}</p>
+        </div>
+    </div>
+
+    <div class="gridy two-one ">
+        <div class="content-innerWrap">
+            <div class="intro-wrap">
+                {{page.podcasts | markdownify }}
+            </div>
+        </div>
+        <img class="img-feature" src="/uploads/MaggieGermano_speaking3.jpg" alt="Maggie Germano Speaking at ISL workshop">
+    </div>
+
+    <div class="center form-wrap" id="form-wrap">
         <div class="form-intro">
             {{page.form-text | markdownify}}
         </div>
-            <form id="speaker_contact">
-                <label for="form-name">Name</label>
-                <input id="form-name" type="text" name="Name" placeholder="Ruth Bader Ginsburg" required>
-
-                <label for="form-name">Email</label>
-                <input id="form-email" type="email" name="Email" placeholder="email@example.com" required>
+            <form class="row" id="speaker_contact">
+                <div class="col m6">
+                    <label for="form-name">Name</label>
+                    <input id="form-name" type="text" name="Name" placeholder="Ruth Bader Ginsburg" required>
+                </div>
+                <div class="col m6">
+                    <label for="form-name">Email</label>
+                    <input id="form-email" type="email" name="Email" placeholder="email@example.com" required>
+                </div>
 
                 <label for="form-name">Budget</label>
                 <input id="form-budget" type="budget" name="Budget" placeholder="What are you working with?">
@@ -119,7 +118,13 @@ layout: default
                 <input type="submit" value="Submit" id="Form-submit" class="button "/>
             </form>
     </div>
+
 </div>
+
+
+<!-- ————————————————————————————— -->
+
+
 
 <script type="text/javascript">
     var submitButton = document.getElementById('Form-submit');
@@ -137,12 +142,12 @@ layout: default
                  $contactForm.find('.alert--loading').hide();
                  $contactForm.append('<div class="alert alert--success">Message sent!</div>');
                  submitButton.classList.add('hidden');
-
              },
              error: function(err) {
                  $contactForm.find('.alert--loading').hide();
                  $contactForm.append('<div class="alert alert--error">Ops, there was an error.</div>');
              }
-     });
-});
+            });
+    });
+
 </script>

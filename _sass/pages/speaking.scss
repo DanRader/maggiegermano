@@ -1,7 +1,62 @@
+// utils
 .max-width-4 {
-    max-width: 90rem;
+    max-width: 80rem;
     margin: auto;
 }
+.mb2 {
+    margin-bottom: 2rem;
+}
+
+.flex-height-row {
+    display: flex;
+}
+
+.border-left {
+    border-left: 1px solid white;
+}
+.border-right {
+    border-right: 1px solid white;
+}
+
+.gridy {
+    position: relative;
+    margin: 0;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-auto-rows: minmax(60px, auto);
+    grid-column-gap: 0;
+    grid-row-gap: 0;
+    align-content: start;
+    border-bottom: 1px solid white;
+
+    & .img-feature {
+        object-fit: cover;
+        height: 100%;
+        width: 100%;
+        border: 12px solid white;
+    }
+}
+
+.two-one {
+    grid-template-columns: 2fr 1fr;
+}
+.one-two {
+    grid-template-columns: 1fr 2fr;
+}
+.fiddyfiddy {
+    grid-template-columns: 1fr 1fr;
+}
+.one {
+    grid-template-columns: 1fr;
+}
+.singles {
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+
+
+// utils
+
 
 .speaking-wrap {
 background-image: linear-gradient(-214deg, #00B3C8 0%, #00C5A2 53%, #00B3C8 100%);
@@ -15,6 +70,7 @@ background-image: linear-gradient(-214deg, #00B3C8 0%, #00C5A2 53%, #00B3C8 100%
     }
     & p {
         color: white;
+        line-height: 34px;
     }
     & h1, h2 {
         font-size: 62px;
@@ -28,18 +84,31 @@ background-image: linear-gradient(-214deg, #00B3C8 0%, #00C5A2 53%, #00B3C8 100%
     }
 }
 
+.intro-wrap {
+    padding: 8% !important;
+    & p {
+        margin-bottom: 2rem;
+    }
+}
+
+.workshop-wrap {
+    padding: 8% !important;
+}
+
+
 .content-innerWrap {
-    height: 80vh;
     min-height: 450px;
     display: flex;
     align-items: center;
-    padding: 3rem !important;
+    padding: 4% !important;
 }
 
 .img-cover {
     padding: 0 !important;
     border: 12px solid white;
     overflow: hidden;
+    background-color: green;
+
     & img {
         object-fit: cover;
         height: 100%;
@@ -48,7 +117,15 @@ background-image: linear-gradient(-214deg, #00B3C8 0%, #00C5A2 53%, #00B3C8 100%
 }
 
 .logo-wrap {
-    padding: 4rem;
+    padding: 6rem;
+    & h2 {
+        font-weight: 900;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        font-size: 18px;
+        line-height: 12px;
+        margin-top: 1.5rem;
+    }
 }
 .logo-list {
     display: flex;
@@ -58,6 +135,7 @@ background-image: linear-gradient(-214deg, #00B3C8 0%, #00C5A2 53%, #00B3C8 100%
     & a {
         padding: 3%;
     }
+
 }
 
 .hidden {
@@ -74,6 +152,10 @@ background-image: linear-gradient(-214deg, #00B3C8 0%, #00C5A2 53%, #00B3C8 100%
     text-align: left;
     color: white;
     font-weight: 500;
+
+    & col {
+        margin: 0;
+    }
 
     & input, textarea {
         border: 1px solid #FFFFFF;
@@ -111,6 +193,38 @@ background-image: linear-gradient(-214deg, #00B3C8 0%, #00C5A2 53%, #00B3C8 100%
         margin-bottom: 1rem;
         font-weight: 600;
         line-height: 34px;
+    }
+
+}
+
+.quote-wrap {
+    flex-direction: column;
+    margin: 16px 0 32px;
+
+    & .testi-quote {
+        font-size: 27px;
+        line-height: 40px;
+        color: #FFFFFF;
+        text-align: center;
+    }
+    & .testi-quote_name {
+        font-weight: 300;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        font-size: 18px;
+        line-height: 12px;
+        margin-top: 1.5rem;
+    }
+    & .org {
+        font-size: 14px;
+        margin: 0;
+    }
+    & img {
+        width: 2rem;
+        margin: 1.5rem 0;
+    }
+    & .flip {
+        transform: rotate(180deg);
     }
 
 }
