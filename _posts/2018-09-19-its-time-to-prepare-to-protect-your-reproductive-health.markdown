@@ -1,6 +1,7 @@
 ---
 title: It's Time to Prepare to Protect Your Reproductive Health
-date: 2018-09-11 10:25:00 -04:00
+date: 2018-09-19 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 image: "/uploads/protest-4b365f.jpg"
@@ -42,17 +43,17 @@ There are many different morning-after pill options now. Some of them are more o
 
 The morning-after pill isn't cheap. It costs about $40 per box (depending on the brand), so this isn't a viable option for all women. It used to only be available if you got a prescription from your doctor, but now it's available over the counter. If you're worried that this medication will be taken away from us, it is a good idea to stock up on it. They even sell them on [Amazon](https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=morning\+after\+pill).
 
-## Designate a Reproductive Health Savings Account
+## Start a Reproductive Health Savings Account
 
-As scary as this is, sometimes all of the above might not be enough. If you know for a fact that you don’t want to become a parent now or ever, you have to financially plan for that. If Roe v. Wade or [Griswold v. Connecticut](https://www.plannedparenthoodaction.org/issues/birth-control/griswold-v-connecticut) is overturned, you’ll need back up cash.
+As scary as this is, sometimes all of the above might not be enough. If you know for a fact that you don’t want to become a parent now or ever, you have to financially plan for that. If [Roe v. Wade](https://www.plannedparenthoodaction.org/issues/abortion/roe-v-wade) or [Griswold v. Connecticut](https://www.plannedparenthoodaction.org/issues/birth-control/griswold-v-connecticut) is overturned, you’ll need back up cash.
 
-When abortion was illegal before 1974, that didn’t mean no one was getting abortions. When birth control was illegal, that didn’t mean no one was trying to prevent pregnancy. It meant that women (usually white) with money had access to these services because they could travel and pay a premium. Low-income women and women of color didn’t necessarily have those options. So they either took care of things themselves, or they paid nonreputable people to help them. This led to injury, infection, infertility, and death.
+When abortion was illegal before 1974, that didn’t mean no one was getting abortions. When birth control was illegal, that didn’t mean no one was trying to prevent pregnancy. It meant that women (usually white ones) with money had access to these services because they could afford to travel and pay a premium. Low-income women and women of color didn’t necessarily have those options. So they either took care of things themselves, or they paid non-reputable people to help them. This led to injury, infection, infertility, trauma, and death.
 
-I hope we don’t go back to that time, but in case we do, you need to protect yourself by creating this emergency savings account.
+I hope we won't be forced back to that time, but in case we do, you need to protect yourself by creating this type of emergency savings account. 
 
-Have I made you scared or angry enough? Take action now!
+**Have I made you scared or angry enough? Take action now!**
 
-* Call your senators and urge them to vote “no” on Brett Kavanaugh.
+* [Call your senators](https://act.indivisible.org/call/supreme-court-fight/) and urge them to vote “no” on Brett Kavanaugh. Even if you think your senator is voting no, call them anyway. You never know when they might sway to pressure from their colleagues, so we need to pressure them ourselves.
 
 * Donate to [Planned Parenthood](https://www.plannedparenthood.org/) or your local affiliate.
 
@@ -62,4 +63,4 @@ Have I made you scared or angry enough? Take action now!
 
 * Start your [emergency savings](https://www.maggiegermano.com/blog/you-need-an-emergency-fund) account, if you haven't already.
 
-*PS: To make things worse, there are now sexual assault accusations against Brett Kavanaugh. Urge your Senators to believe women and call for his nomination to be withdrawn.*
+*PS: To make things worse, there are now [sexual assault accusations](https://www.vox.com/2018/9/17/17869672/supreme-court-brett-kavanaugh-sexual-assault-allegations) against Brett Kavanaugh. Urge your Senators to believe women and call for his nomination to be withdrawn. #BelieveWomen*
