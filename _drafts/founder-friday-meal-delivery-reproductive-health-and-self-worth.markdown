@@ -30,7 +30,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## What I’m Writing
 
-* In honor of Suicide Prevention Awareness Month, I wrote a piece about why you should separate your self worth from your net worth.
+* In honor of Suicide Prevention Awareness Month, I wrote a piece about why you should [separate your self worth from your net worth](https://www.maggiegermano.com/blog/why-its-important-to-separate-your-self-worth-from-your-money/).
 
 * I wrote an extra post this week about how you can start protecting your reproductive health, in case the Supreme Court ends up having a majority of anti-choice justices.
 
