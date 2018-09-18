@@ -14,13 +14,13 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## How I Earned Money This Week
 
-* Workshop
+* I hosted my first-ever budgeting workshop last Saturday at Yoga Heights. Eventbrite processed the transfer of the payment this week
 
-* Money Circle
+* Money Circle was on Tuesday, and Eventbrite is processing the payment transfer.
 
-* Rhana
+* One of my clients paid her monthly fee this week.
 
-* x
+* I did a virtual presentation for a group at a wealth management company on Monday. They sent the check in the mail this week. 
 
 ## How I Spent Money This Week
 
@@ -28,19 +28,29 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * One of the activities that Dan really wants to do on our honeymoon is taking a cooking class! Since his birthday is happening while we're in Thailand, I picked a cooking class for that day. Since that week is also a festival week in Chiang Mai, I had to pay this week to hold our spots. 
 
+* I had two doctor's appointments this week, so I paid two co-pays.
+
+* The [Hungry Harvest fee](http://hharvest.net/m5didTk) was charged for our produce delivery last Friday.
+
+* We bought two stamps and ink pads for our wedding, so that we can stamp gift bags and other things with our wedding mark. We also bought some wedding-themed stickers to keep my niece and nephew entertained during the busy day.
+
 ## What I’m Writing
 
-* In honor of Suicide Prevention Awareness Month, I wrote a piece about why you should separate your self worth from your net worth.
+* In honor of Suicide Prevention Awareness Month, I wrote a piece about why you should [separate your self worth from your net worth](https://www.maggiegermano.com/blog/why-its-important-to-separate-your-self-worth-from-your-money/).
 
 * I wrote an extra post this week about how you can start protecting your reproductive health, in case the Supreme Court ends up having a majority of anti-choice justices.
 
 ## What I’m Up To
 
-* Next month, [Money Circle](https://www.maggiegermano.com/moneycircle/) is meeting to talk about [how to ask for a raise](https://www.maggiegermano.com/events/how-to-ask-for-a-raise/) at your current job. 
+* Next month, [Money Circle](https://www.maggiegermano.com/moneycircle/) is meeting to talk about [how to ask for a raise](https://www.maggiegermano.com/events/how-to-ask-for-a-raise/) at your current job. If you know you'll have to do this soon, join us on October 24th!
+
+* x
 
 ## What I’m Excited About
 
-* I'm excited for FinCon, which is coming up next week! It's a huge conference for financial bloggers and other financial professionals. This will be my third time attending, and I'm really looking forward to it. *Will you be there? Send me a note so we can meet up!*
+* I'm excited for [FinCon](https://finconexpo.com/), which is coming up next week! It's a huge conference for financial bloggers and other financial professionals. This will be my third time attending, and I'm really looking forward to it. *Will you be there? Send me a note so we can meet up!*
+
+* x
 
 ## Money Tip to Take Into the Weekend
 
