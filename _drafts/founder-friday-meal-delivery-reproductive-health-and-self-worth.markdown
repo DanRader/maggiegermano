@@ -1,6 +1,8 @@
 ---
 title: Founder Friday | Meal Delivery, Reproductive Health, and Self Worth
 date: 2018-09-21 14:00:00 -04:00
+categories:
+- founder friday
 image: "/uploads/cooking.jpg"
 posts:
 - Founder Friday | Budgeting, Lifestyle Creep, and Airbnb
@@ -24,7 +26,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * I'm trying out a new meal delivery service. Dan and I have been terrible about eating well ever since we moved into our house almost a year ago. With our wedding staring us down, we want to get serious about eating healthy so we can feel our best on our wedding day and beyond. I put in an order for [Sun Basket](http://www.sunbasket.com), using the "lean and clean" option. I'm excited to see how it goes. If you want to get $40 off your first order, [use my link](https://sunbasket.com/invite/Mary1915063)!
 
-* x
+* One of the activities that Dan really wants to do on our honeymoon is taking a cooking class! Since his birthday is happening while we're in Thailand, I picked a cooking class for that day. Since that week is also a festival week in Chiang Mai, I had to pay this week to hold our spots. 
 
 ## What I’m Writing
 
@@ -34,7 +36,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## What I’m Up To
 
-* x
+* Next month, [Money Circle](https://www.maggiegermano.com/moneycircle/) is meeting to talk about [how to ask for a raise](https://www.maggiegermano.com/events/how-to-ask-for-a-raise/) at your current job. 
 
 ## What I’m Excited About
 
