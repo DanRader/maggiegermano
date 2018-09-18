@@ -36,11 +36,15 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## What I’m Up To
 
-* Next month, [Money Circle](https://www.maggiegermano.com/moneycircle/) is meeting to talk about [how to ask for a raise](https://www.maggiegermano.com/events/how-to-ask-for-a-raise/) at your current job. 
+* Next month, [Money Circle](https://www.maggiegermano.com/moneycircle/) is meeting to talk about [how to ask for a raise](https://www.maggiegermano.com/events/how-to-ask-for-a-raise/) at your current job. If you know you'll have to do this soon, join us on October 24th!
+
+* x
 
 ## What I’m Excited About
 
-* I'm excited for FinCon, which is coming up next week! It's a huge conference for financial bloggers and other financial professionals. This will be my third time attending, and I'm really looking forward to it. *Will you be there? Send me a note so we can meet up!*
+* I'm excited for [FinCon](https://finconexpo.com/), which is coming up next week! It's a huge conference for financial bloggers and other financial professionals. This will be my third time attending, and I'm really looking forward to it. *Will you be there? Send me a note so we can meet up!*
+
+* x
 
 ## Money Tip to Take Into the Weekend
 
