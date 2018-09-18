@@ -28,6 +28,12 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * One of the activities that Dan really wants to do on our honeymoon is taking a cooking class! Since his birthday is happening while we're in Thailand, I picked a cooking class for that day. Since that week is also a festival week in Chiang Mai, I had to pay this week to hold our spots. 
 
+* I had two doctor's appointments this week, so I paid two co-pays.
+
+* The [Hungry Harvest fee](http://hharvest.net/m5didTk) was charged for our produce delivery last Friday.
+
+* We bought two stamps and ink pads for our wedding, so that we can stamp gift bags and other things with our wedding mark. We also bought some wedding-themed stickers to keep my niece and nephew entertained during the busy day.
+
 ## What I’m Writing
 
 * In honor of Suicide Prevention Awareness Month, I wrote a piece about why you should [separate your self worth from your net worth](https://www.maggiegermano.com/blog/why-its-important-to-separate-your-self-worth-from-your-money/).
