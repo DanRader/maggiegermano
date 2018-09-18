@@ -14,13 +14,13 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## How I Earned Money This Week
 
-* Workshop
+* I hosted my first-ever budgeting workshop last Saturday at Yoga Heights. Eventbrite processed the transfer of the payment this week
 
-* Money Circle
+* Money Circle was on Tuesday, and Eventbrite is processing the payment transfer.
 
-* Rhana
+* One of my clients paid her monthly fee this week.
 
-* x
+* I did a virtual presentation for a group at a wealth management company on Monday. They sent the check in the mail this week. 
 
 ## How I Spent Money This Week
 
