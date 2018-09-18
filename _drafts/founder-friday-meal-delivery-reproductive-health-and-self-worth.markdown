@@ -20,13 +20,13 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * One of my clients paid her monthly fee this week.
 
-* I did a virtual presentation for a group at a wealth management company on Monday. They sent the check in the mail this week. 
+* I did a virtual presentation for a group at a wealth management company on Monday. They sent the check in the mail this week.
 
 ## How I Spent Money This Week
 
 * I'm trying out a new meal delivery service. Dan and I have been terrible about eating well ever since we moved into our house almost a year ago. With our wedding staring us down, we want to get serious about eating healthy so we can feel our best on our wedding day and beyond. I put in an order for [Sun Basket](http://www.sunbasket.com), using the "lean and clean" option. I'm excited to see how it goes. If you want to get $40 off your first order, [use my link](https://sunbasket.com/invite/Mary1915063)!
 
-* One of the activities that Dan really wants to do on our honeymoon is taking a cooking class! Since his birthday is happening while we're in Thailand, I picked a cooking class for that day. Since that week is also a festival week in Chiang Mai, I had to pay this week to hold our spots. 
+* One of the activities that Dan really wants to do on our honeymoon is taking a cooking class! Since his birthday is happening while we're in Thailand, I picked a cooking class for that day. Since that week is also a festival week in Chiang Mai, I had to pay this week to hold our spots.
 
 * I had two doctor's appointments this week, so I paid two co-pays.
 
@@ -38,7 +38,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * In honor of Suicide Prevention Awareness Month, I wrote a piece about why you should [separate your self worth from your net worth](https://www.maggiegermano.com/blog/why-its-important-to-separate-your-self-worth-from-your-money/).
 
-* I wrote an extra post this week about how you can start protecting your reproductive health, in case the Supreme Court ends up having a majority of anti-choice justices.
+* I wrote an extra post this week about how you can [start protecting your reproductive health](www.maggiegermano.com/blog/its-time-to-prepare-to-protect-your-reproductive-health/), in case the Supreme Court ends up having a majority of anti-choice justices.
 
 ## What I’m Up To
 
