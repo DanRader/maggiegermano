@@ -1,6 +1,6 @@
 ---
 title: Founder Friday | Meal Delivery, Reproductive Health, and Self Worth
-date: 2018-09-18 09:04:00 -04:00
+date: 2018-09-21 14:00:00 -04:00
 ---
 
 Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
