@@ -1,6 +1,11 @@
 ---
 title: Founder Friday | Meal Delivery, Reproductive Health, and Self Worth
 date: 2018-09-21 14:00:00 -04:00
+image: "/uploads/cooking.jpg"
+posts:
+- Founder Friday | Budgeting, Lifestyle Creep, and Airbnb
+- Founder Friday | Bicycles, Budgets, and Bachelorettes
+- Founder Friday | Be Heard Podcast, Bachelorette Parties, and Jealousy
 ---
 
 Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
@@ -29,8 +34,14 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## What I’m Up To
 
+* x
+
 ## What I’m Excited About
 
 * I'm excited for FinCon, which is coming up next week! It's a huge conference for financial bloggers and other financial professionals. This will be my third time attending, and I'm really looking forward to it. *Will you be there? Send me a note so we can meet up!*
 
 ## Money Tip to Take Into the Weekend
+
+![hugs.png](/uploads/hugs.png)
+
+That's all from me today! Have a fantastic weekend!
