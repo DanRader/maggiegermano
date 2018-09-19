@@ -16,9 +16,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * I hosted my first-ever budgeting workshop last Saturday at Yoga Heights. Eventbrite processed the transfer of the payment this week
 
-* Money Circle was on Tuesday, and Eventbrite is processing the payment transfer.
-
-* One of my clients paid her monthly fee this week.
+* Two of my ongoing clients paid their monthly fees this week.
 
 * I did a virtual presentation for a group at a wealth management company on Monday. They sent the check in the mail this week.
 
@@ -44,7 +42,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * Next month, [Money Circle](https://www.maggiegermano.com/moneycircle/) is meeting to talk about [how to ask for a raise](https://www.maggiegermano.com/events/how-to-ask-for-a-raise/) at your current job. If you know you'll have to do this soon, join us on October 24th!
 
-* x
+* Soooooo... we had to cancel this week's Money Circle meetup because the host had an issue. But fear not, we'll still talk about how to plan ahead for holiday spending! We're rescheduling for December, so you can be super informed for next year!
 
 ## What I’m Excited About
 
