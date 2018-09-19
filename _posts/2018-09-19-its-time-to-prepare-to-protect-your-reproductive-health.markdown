@@ -1,7 +1,6 @@
 ---
 title: It's Time to Prepare to Protect Your Reproductive Health
 date: 2018-09-19 11:00:00 -04:00
-published: false
 categories:
 - lifestyle
 image: "/uploads/protest-4b365f.jpg"
