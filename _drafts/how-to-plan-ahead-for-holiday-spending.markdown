@@ -4,9 +4,13 @@ date: 2018-09-24 11:00:00 -04:00
 categories:
 - Budget
 image: "/uploads/presents-a001ad.jpg"
+posts:
+- How To Become The Ultimate Gift-Giver (Without Going Broke)
+- How to Be Prepared for Non-monthly Expenses
+- How to Ensure the Holidays Are (Financially) Stress-Free
 ---
 
-*This week, Money Circle is meeting to talk about how to plan ahead and save for holiday spending. But in case you aren't in the DC area and can't attend, I wanted to write a piece on how to do just that!*
+x
 
 ## Look Back at Last Year's Spending
 
@@ -16,4 +20,4 @@ image: "/uploads/presents-a001ad.jpg"
 
 ## Save All Year Long
 
-This is the easiest and most effective way to be prepared for expensive activities and . 
+This is the easiest and most effective way to be prepared for expensive activities and .
