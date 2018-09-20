@@ -1,6 +1,7 @@
 ---
 title: How to Plan Ahead for Holiday Spending
 date: 2018-09-24 11:00:00 -04:00
+published: false
 categories:
 - Budget
 image: "/uploads/presents-a001ad.jpg"
@@ -16,9 +17,11 @@ You know how it is. Holiday season sneaks up on you and you suddenly have to buy
 
 Years ago, when I was finally making enough money to feel comfortable buying nice gifts for my friends and family, I went a little hog wild and spent hundreds of dollars. I was excited to treat my loved ones for the first time, but then I looked at my budget and was much less emphatic. I had completely blown my discretionary spending for the month. So I then had to recuperate the money by basically becoming a hermit until the new year. I decided I didn't want to feel that way every year, and I came up with some solutions for myself. And now you can use them too!
 
+> But what if there was a way to avoid the stress and debt that comes along with holiday spending? It turns out, there is!
+
 ## Plan Out Your Travel Spending Early
 
-If you have to travel for the holidays, don't wait too long to buy your flight or other mode of transportation. Waiting until it gets too close to the date will mean you spend a lot more money. The holidays are typically always an expensive time to travel, but you'll be better off if you plan ahead. 
+If you have to travel for the holidays, don't wait too long to buy your flight or other mode of transportation. Waiting until it gets too close to the date will mean you spend a lot more money. The holidays are typically always an expensive time to travel, but you'll be better off if you plan ahead. Part of planning ahead is also prioritizing which holidays you want to travel home for. If you are working with a limited budget, you may not be able to go home for every holiday. Decide which ones are the most important to you, and stay put for the others.
 
 ## Look Back at Last Year's Spending
 
