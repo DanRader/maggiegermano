@@ -14,7 +14,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## How I Earned Money This Week
 
-* I hosted my first-ever budgeting workshop last Saturday at [Yoga Heights](https://yogaheightsdc.com/). Eventbrite processed the transfer of the payment this week. 
+* I hosted my first-ever budgeting workshop last Saturday at [Yoga Heights](https://yogaheightsdc.com/). Eventbrite processed the transfer of the payment this week.
 
 * Two of my ongoing clients paid their monthly fees this week.
 
@@ -29,6 +29,8 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 * I had two doctor's appointments this week, so I paid two co-pays.
 
 * The [Hungry Harvest fee](http://hharvest.net/m5didTk) was charged for our produce delivery last Friday.
+
+* On Thursday, I was in the city for a few meetings and a book reading, so I bought myself a few cups of green tea throughout the day.
 
 * We bought two stamps and ink pads for our wedding, so that we can stamp gift bags and other things with our wedding mark. We also bought some wedding-themed stickers to keep my niece and nephew entertained during the busy day.
 
@@ -50,7 +52,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * I'm excited for [FinCon](https://finconexpo.com/), which is coming up next week! It's a huge conference for financial bloggers and other financial professionals. This will be my third time attending, and I'm really looking forward to it. *Will you be there? Send me a note so we can meet up!*
 
-* x
+* I met [Erin Gibson](http://www.gibblertron.com/) last night! You probably know her if you listen to the hilarious podcast [Throwing Shade](http://www.throwingshade.com/). She recently wrote a book, called *[Feminasty](https://www.feminasty.com/)*, and I went to her book reading at [Kramerbooks](http://kramers.com/). I loved her book so much, so you should definitely read it!
 
 ## Money Tip to Take Into the Weekend
 
