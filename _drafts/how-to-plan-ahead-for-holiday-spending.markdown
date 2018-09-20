@@ -39,3 +39,11 @@ If you have a really big family, it may be completely unreasonable to get a gift
 ## Save All Year Long
 
 Create a savings account that is just for holiday spending and gifts throughout the year. That way, you’ll always have money set aside for it. Figure out how much you want to spend each year and divide that amount by 12. That is how much you need to save each month in order to have enough to cover your spending. Make sure that you automate it so that you don’t have to think about moving the money yourself. Set it up through your paycheck direct deposit, ask your bank to move the money, or use an app like Digit.
+
+## Buy All Year Long
+
+I don't mean you should just buy everything you see all year long. That's not a good strategy for your budget. But it actually might be cheaper and easier if you buy gifts throughout the year instead of waiting until November or December.
+
+Just don't forget where you put the gifts!
+
+*How do you financially prepare for the holiday season? Share in the comments!*
