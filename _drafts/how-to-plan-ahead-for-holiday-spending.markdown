@@ -45,3 +45,5 @@ Create a savings account that is just for holiday spending and gifts throughout 
 I don't mean you should just buy everything you see all year long. That's not a good strategy for your budget. But it actually might be cheaper and easier if you buy gifts throughout the year instead of waiting until November or December.
 
 Just don't forget where you put the gifts!
+
+*How do you financially prepare for the holiday season? Share in the comments!*
