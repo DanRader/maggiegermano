@@ -12,7 +12,15 @@ posts:
 - How to Ensure the Holidays Are (Financially) Stress-Free
 ---
 
-x
+You know how it is. Holiday season sneaks up on you and you suddenly have to buy a bunch of gifts. You have to travel home to see family. And all the while, you're not quite sure how you're going to afford it all. And you're not alone; the average American racks up $1,000 in debt over the holidays. But what if there was a way to avoid the stress and debt that comes along with holiday spending? It turns out, there is!
+
+Years ago, when I was finally making enough money to feel comfortable buying nice gifts for my friends and family, I went a little hog wild and spent hundreds of dollars. I was excited to treat my loved ones for the first time, but then I looked at my budget and was much less emphatic. I had completely blown my discretionary spending for the month. So I then had to recuperate the money by basically becoming a hermit until the new year. I decided I didn't want to feel that way every year, and I came up with some solutions for myself. And now you can use them too!
+
+## Plan Out Your Travel Spending Early
+
+Flights
+
+Hotels
 
 ## Look Back at Last Year's Spending
 
