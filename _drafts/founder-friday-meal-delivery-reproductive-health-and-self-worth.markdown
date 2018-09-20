@@ -46,7 +46,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * Next month, [Money Circle](https://www.maggiegermano.com/moneycircle/) is meeting to talk about [how to ask for a raise](https://www.maggiegermano.com/events/how-to-ask-for-a-raise/) at your current job. If you know you'll have to do this soon, join us on October 24th!
 
-* Soooooo... we had to cancel this week's Money Circle meetup because the host had an issue. But fear not, we'll still talk about how to plan ahead for holiday spending! We're rescheduling for December, so you can be super informed for next year! Plus, you can already [sign up](https://www.eventbrite.com/e/money-circle-how-to-plan-for-holiday-spending-tickets-50456857820)!
+* Soooooo... we had to cancel this week's Money Circle meetup because the host had an issue arise. But fear not, we'll still talk about how to plan ahead for holiday spending! We're rescheduling for December, so you can be super informed and ready for next year! Plus, you can already [sign up](https://www.eventbrite.com/e/money-circle-how-to-plan-for-holiday-spending-tickets-50456857820)!
 
 ## What I’m Excited About
 
