@@ -26,9 +26,9 @@ If you’re going to make any changes or plans, you need to know where you’re 
 
 ## Make a List of Those You Want to Buy Gifts For
 
-You don’t have to buy a gift for everyone you know. If you can’t afford to buy gifts for everyone who is important to you, you have to prioritize. So, who are the people you absolutely want to buy gifts for this year? You can make a tier 1 (must gift) and tier 2 (maybe gift) list, based on what your budget will end up being.\
+You don’t have to buy a gift for everyone you know. If you can’t afford to buy gifts for everyone who is important to you, you have to prioritize. There's no shame in that. So, who are the people you absolutely want to buy gifts for this year? You can make a tier 1 (must gift) and tier 2 (maybe gift) list, based on what your budget will end up being.\
 \
-If you have a really big family, it may be completely unreasonable to get a gift for every single person. A great solution is this: throw everyone’s name into a hat and have each person pull a name out. That is the person they have to buy a gift for that year. It seriously cuts down on spending and takes a lot of the pressure off.
+If you have a really big family, it may be completely unreasonable to get a gift for every single person. A great solution is this: throw everyone’s name into a hat and have each person pull a name out. That is the person they have to buy a gift for that year. That's what my family does! It seriously cuts down on spending and takes a lot of the pressure off.
 
 ## Save All Year Long
 
