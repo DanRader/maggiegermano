@@ -32,7 +32,7 @@ If you have a really big family, it may be completely unreasonable to get a gift
 
 ## Save All Year Long
 
-Create a savings account that is just for holiday spending and gifts throughout the year. That way, you’ll always have money set aside for it. Figure out how much you want to spend each year and divide that amount by 12. That is how much you need to save each month in order to have enough to cover your spending. Make sure that you automate it so that you don’t have to think about moving the money yourself. Set it up through your paycheck direct deposit, ask your bank to move the money, or use an app like Digit.
+The real key to planning for the holidays is to save throughout the year. Create a savings account that is just for holiday spending and gifts. That way, you’ll always have money set aside for it. Figure out how much you want to spend each year and divide that amount by 12. That is how much you need to save each month in order to have enough to cover your spending. Make sure that you automate it so that you don’t have to think about moving the money yourself. Set it up through your paycheck direct deposit, ask your bank to move the money, or use an app like [Digit](https://digit.co/).
 
 ## Buy All Year Long
 
