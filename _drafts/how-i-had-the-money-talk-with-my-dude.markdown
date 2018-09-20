@@ -5,3 +5,12 @@ categories:
 - lifestyle
 ---
 
+I Started Early
+
+I Communicated My Needs
+
+I Offered My Help
+
+I Practiced Non-Judgment
+
+I Continue the Conversation
