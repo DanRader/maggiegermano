@@ -22,11 +22,7 @@ If you have to travel for the holidays, don't wait too long to buy your flight o
 
 ## Look Back at Last Year's Spending
 
-If you’re going to make any changes, you need to know where you’re starting from. Go through your bank statements from last year and add up what you spent. This should include gifts and any travel expenses that you had to incur. Are you happy with this amount? Do you want it to be higher and lower?
-
-## Get Clear on Your Priorities
-
-Is it more important to you to get home for the holidays or to send gifts? If you have to travel home for the holidays, you may not have much money leftover for the actual gifting part. And that’s okay! Get clear on your priorities at the holidays and set a budget accordingly.
+If you’re going to make any changes or plans, you need to know where you’re starting from. Get a good baseline for how much you typically spend. Go through your bank statements from the last couple of years and add up what you spent. This should include gifts and any travel expenses that you had to incur. Will this year's circumstances be any different? Are you happy with the amount you spent? Do you want it to be higher or lower? With this information, you can plan accordingly.
 
 ## Make a List of Those You Want to Buy Gifts For
 
