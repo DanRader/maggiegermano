@@ -4,6 +4,8 @@ date: 2018-09-24 11:00:00 -04:00
 categories:
 - Budget
 image: "/uploads/presents-a001ad.jpg"
+tweet: You don't have to be stressed and broke during holiday season. Learn how to
+  plan ahead!
 posts:
 - How To Become The Ultimate Gift-Giver (Without Going Broke)
 - How to Be Prepared for Non-monthly Expenses
