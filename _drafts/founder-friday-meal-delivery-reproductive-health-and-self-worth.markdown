@@ -14,7 +14,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## How I Earned Money This Week
 
-* I hosted my first-ever budgeting workshop last Saturday at [Yoga Heights](https://yogaheightsdc.com/). Eventbrite processed the transfer of the payment this week. 
+* I hosted my first-ever budgeting workshop last Saturday at [Yoga Heights](https://yogaheightsdc.com/). Eventbrite processed the transfer of the payment this week.
 
 * Two of my ongoing clients paid their monthly fees this week.
 
@@ -30,6 +30,8 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * The [Hungry Harvest fee](http://hharvest.net/m5didTk) was charged for our produce delivery last Friday.
 
+* On Thursday, I was in the city for a few meetings and a book reading, so I bought myself a few cups of green tea throughout the day.
+
 * We bought two stamps and ink pads for our wedding, so that we can stamp gift bags and other things with our wedding mark. We also bought some wedding-themed stickers to keep my niece and nephew entertained during the busy day.
 
 ![IMG_8598.JPG](/uploads/IMG_8598.JPG)
@@ -44,13 +46,13 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * Next month, [Money Circle](https://www.maggiegermano.com/moneycircle/) is meeting to talk about [how to ask for a raise](https://www.maggiegermano.com/events/how-to-ask-for-a-raise/) at your current job. If you know you'll have to do this soon, join us on October 24th!
 
-* Soooooo... we had to cancel this week's Money Circle meetup because the host had an issue. But fear not, we'll still talk about how to plan ahead for holiday spending! We're rescheduling for December, so you can be super informed for next year! Plus, you can already [sign up](https://www.eventbrite.com/e/money-circle-how-to-plan-for-holiday-spending-tickets-50456857820)!
+* Soooooo... we had to cancel this week's Money Circle meetup because the host had an issue arise. But fear not, we'll still talk about how to plan ahead for holiday spending! We're rescheduling for December, so you can be super informed and ready for next year! Plus, you can already [sign up](https://www.eventbrite.com/e/money-circle-how-to-plan-for-holiday-spending-tickets-50456857820)!
 
 ## What I’m Excited About
 
 * I'm excited for [FinCon](https://finconexpo.com/), which is coming up next week! It's a huge conference for financial bloggers and other financial professionals. This will be my third time attending, and I'm really looking forward to it. *Will you be there? Send me a note so we can meet up!*
 
-* x
+* I met [Erin Gibson](http://www.gibblertron.com/) last night! You probably know her if you listen to the hilarious podcast [Throwing Shade](http://www.throwingshade.com/). She recently wrote a book, called *[Feminasty](https://www.feminasty.com/)*, and I went to her book reading at [Kramerbooks](http://kramers.com/). I loved her book so much, so you should definitely read it!
 
 ## Money Tip to Take Into the Weekend
 
