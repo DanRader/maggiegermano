@@ -22,17 +22,13 @@ If you have to travel for the holidays, don't wait too long to buy your flight o
 
 ## Look Back at Last Year's Spending
 
-If you’re going to make any changes, you need to know where you’re starting from. Go through your bank statements from last year and add up what you spent. This should include gifts and any travel expenses that you had to incur. Are you happy with this amount? Do you want it to be higher and lower?
-
-## Get Clear on Your Priorities
-
-Is it more important to you to get home for the holidays or to send gifts? If you have to travel home for the holidays, you may not have much money leftover for the actual gifting part. And that’s okay! Get clear on your priorities at the holidays and set a budget accordingly.
+If you’re going to make any changes or plans, you need to know where you’re starting from. Get a good baseline for how much you typically spend. Go through your bank statements from the last couple of years and add up what you spent. This should include gifts and any travel expenses that you had to incur. Will this year's circumstances be any different? Are you happy with the amount you spent? Do you want it to be higher or lower? With this information, you can plan accordingly.
 
 ## Make a List of Those You Want to Buy Gifts For
 
-You don’t have to buy a gift for everyone you know. If you can’t afford to buy gifts for everyone who is important to you, you have to prioritize. So, who are the people you absolutely want to buy gifts for this year? You can make a tier 1 (must gift) and tier 2 (maybe gift) list, based on what your budget will end up being.\
+You don’t have to buy a gift for everyone you know. If you can’t afford to buy gifts for everyone who is important to you, you have to prioritize. There's no shame in that. So, who are the people you absolutely want to buy gifts for this year? You can make a tier 1 (must gift) and tier 2 (maybe gift) list, based on what your budget will end up being.\
 \
-If you have a really big family, it may be completely unreasonable to get a gift for every single person. A great solution is this: throw everyone’s name into a hat and have each person pull a name out. That is the person they have to buy a gift for that year. It seriously cuts down on spending and takes a lot of the pressure off.
+If you have a really big family, it may be completely unreasonable to get a gift for every single person. A great solution is this: throw everyone’s name into a hat and have each person pull a name out. That is the person they have to buy a gift for that year. That's what my family does! It seriously cuts down on spending and takes a lot of the pressure off.
 
 ## Save All Year Long
 
