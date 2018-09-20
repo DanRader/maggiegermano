@@ -18,9 +18,7 @@ Years ago, when I was finally making enough money to feel comfortable buying nic
 
 ## Plan Out Your Travel Spending Early
 
-Flights
-
-Hotels
+If you have to travel for the holidays, don't wait too long to buy your flight or other mode of transportation. Waiting until it gets too close to the date will mean you spend a lot more money. The holidays are typically always an expensive time to travel, but you'll be better off if you plan ahead. 
 
 ## Look Back at Last Year's Spending
 
@@ -42,8 +40,6 @@ Create a savings account that is just for holiday spending and gifts throughout 
 
 ## Buy All Year Long
 
-I don't mean you should just buy everything you see all year long. That's not a good strategy for your budget. But it actually might be cheaper and easier if you buy gifts throughout the year instead of waiting until November or December.
-
-Just don't forget where you put the gifts!
+I don't mean you should just buy everything you see all year long. That's not a good strategy for your budget. But it actually might be cheaper and easier if you buy gifts throughout the year instead of waiting until November or December. It would be easier to include individual gifts in your normal discretionary spending month-to-month, rather than buying them all at once. Plus that way, you can buy things that remind you of your loved one as you see them, and you won't have to think too hard later on. Just don't forget where you put the gifts!
 
 *How do you financially prepare for the holiday season? Share in the comments!*
