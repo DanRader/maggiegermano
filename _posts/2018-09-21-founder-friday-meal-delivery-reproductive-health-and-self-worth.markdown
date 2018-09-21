@@ -54,6 +54,10 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * I met [Erin Gibson](http://www.gibblertron.com/) last night! You probably know her if you listen to the hilarious podcast [Throwing Shade](http://www.throwingshade.com/). She recently wrote a book, called *[Feminasty](https://www.feminasty.com/)*, and I went to her book reading at [Kramerbooks](http://kramers.com/). I loved her book so much, so you should definitely read it!
 
+![IMG_8629.JPG](/uploads/IMG_8629.JPG)
+
+![IMG_8630.JPG](/uploads/IMG_8630.JPG)
+
 ## Money Tip to Take Into the Weekend
 
 ![hugs.png](/uploads/hugs.png)
