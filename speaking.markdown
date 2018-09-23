@@ -14,7 +14,7 @@ quote-2:
   org: The mentor method
 
 quote-3:
-    quote-text: Maggie Germano's relatable presentation style is immediately engaging
+    quote-text: Maggie Germano's presentation style is immediately engaging
       and draws the crowd in. Her knowledge of finance and how it can impact everyday
       life is unrivaled.
     name: Suze Orman
