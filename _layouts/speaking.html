@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<div class="speaking-wrap">
+<div id="speaking-wrap">
     <div class="gridy two-one">
         <div class="content-innerWrap">
             <div class="intro-wrap">
@@ -29,21 +29,18 @@ layout: default
                 </a>
                 {% endfor %}
             </div>
-            <div class="">
-                <button type="button" name="Read" class="">Past Events</button>
-            </div>
     </div>
 
     <div class="gridy one-two">
         <div class="content-innerWrap quote-wrap ">
                 <img src="/uploads/quote@2x.png" alt="quote">
-                <p class="testi-quote">{{page.quote-2.quote-text}}</p>
+                <p class="testi-quote">{{page.quote-1.quote-text}}</p>
                 <img class="flip" src="/uploads/quote@2x.png" alt="quote">
-                <p class="testi-quote_name">{{page.quote-2.name}}</p>
-                <p class="testi-quote_name org">{{page.quote-2.org}}</p>
+                <p class="testi-quote_name">{{page.quote-1.name}}</p>
+                <p class="testi-quote_name org">{{page.quote-1.org}}</p>
         </div>
         <div class="content-innerWrap border-left">
-            <div class="intro-wrap">
+            <div class="intro-wrap speaker-topics">
                 {{page.speaker-topics | markdownify }}
             </div>
         </div>
@@ -51,7 +48,7 @@ layout: default
 
     <div class="gridy two-one ">
         <div class="content-innerWrap">
-            <div class="intro-wrap">
+            <div class="intro-wrap workshops">
                 {{page.workshops | markdownify }}
             </div>
         </div>
@@ -68,27 +65,22 @@ layout: default
         </div>
         <div class="content-innerWrap quote-wrap border-left">
                 <img src="/uploads/quote@2x.png" alt="quote">
-                <p class="testi-quote">{{page.quote-2.quote-text}}</p>
+                <p class="testi-quote">{{page.quote-3.quote-text}}</p>
                 <img class="flip" src="/uploads/quote@2x.png" alt="quote">
-                <p class="testi-quote_name">{{page.quote-2.name}}</p>
-                <p class="testi-quote_name org">{{page.quote-2.org}}</p>
+                <p class="testi-quote_name">{{page.quote-3.name}}</p>
+                <p class="testi-quote_name org">{{page.quote-3.org}}</p>
         </div>
         <div class="content-innerWrap quote-wrap border-left">
                 <img src="/uploads/quote@2x.png" alt="quote">
-                <p class="testi-quote">{{page.quote-2.quote-text}}</p>
+                <p class="testi-quote">{{page.quote-4.quote-text}}</p>
                 <img class="flip" src="/uploads/quote@2x.png" alt="quote">
-                <p class="testi-quote_name">{{page.quote-2.name}}</p>
-                <p class="testi-quote_name org">{{page.quote-2.org}}</p>
+                <p class="testi-quote_name">{{page.quote-4.name}}</p>
+                <p class="testi-quote_name org">{{page.quote-4.org}}</p>
         </div>
     </div>
 
-    <div class="gridy two-one ">
-        <div class="content-innerWrap">
-            <div class="intro-wrap">
-                {{page.podcasts | markdownify }}
-            </div>
-        </div>
-        <img class="img-feature" src="/uploads/MaggieGermano_speaking3.jpg" alt="Maggie Germano Speaking at ISL workshop">
+    <div class="gridy one single-image">
+        <img class="img-feature" src="/uploads/maggie_speaking2.jpg" alt="Maggie Germano Speaking at ISL workshop">
     </div>
 
     <div class="center form-wrap" id="form-wrap">
@@ -96,11 +88,11 @@ layout: default
             {{page.form-text | markdownify}}
         </div>
             <form class="row" id="speaker_contact">
-                <div class="col m6">
+                <div class="col s12 m6">
                     <label for="form-name">Name</label>
                     <input id="form-name" type="text" name="Name" placeholder="Ruth Bader Ginsburg" required>
                 </div>
-                <div class="col m6">
+                <div class="col s12 m6">
                     <label for="form-name">Email</label>
                     <input id="form-email" type="email" name="Email" placeholder="email@example.com" required>
                 </div>
@@ -132,7 +124,7 @@ layout: default
     $contactForm.submit(function(e){
         e.preventDefault();
         $.ajax({
-            url:'https://hooks.zapier.com/hooks/catch/2549310/kcqd2f/',
+            url:'https://hooks.zapier.com/hooks/catch/2549310/lyipv3/',
             type:'post',
             data:$contactForm.serialize(),
             beforeSend: function() {
@@ -149,5 +141,33 @@ layout: default
              }
             });
     });
+
+    $(document).ready(function() {
+        var movementStrength = 10;
+        var height = movementStrength / $(window).height();
+        var width = movementStrength / $(window).width();
+
+        $("#speaking-wrap").mousemove(function(e){
+                 var pageX = e.pageX - ($(window).width() / 2);
+                 var pageY = e.pageY - ($(window).height() / 2);
+                 var newvalueX = width * pageX * 1 + 1;
+                 var newvalueY = height * pageY * 1 + 1;
+                 $('#speaking-wrap').css("background-position", "calc(100% + "+newvalueX+"px)"+" calc(50% + "+newvalueY+"px), "+"calc(100% + "+newvalueX+"px)"+" calc(50% + "+newvalueY+"px)" );
+        });
+    });
+
+    // $(document).ready(function() {
+    //     var movementStrength = 150;
+    //     var height = movementStrength / $(window).height();
+    //     var width = movementStrength / $(window).width();
+    //
+    //     $("#speaking-wrap").mousemove(function(e){
+    //              var pageX = e.pageX - ($(window).width() / 2);
+    //              var pageY = e.pageY - ($(window).height() / 2);
+    //              var newvalueX = width * pageX * 1 - 150;
+    //              var newvalueY = height * pageY * 1 + 1;
+    //              $('#speaking-wrap').css("background", 'url("http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=100"), linear-gradient('+newvalueX+'deg, #00B3C8 0%, #00C5A2 53%)' );
+    //     });
+    // });
 
 </script>

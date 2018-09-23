@@ -34,6 +34,7 @@
         height: 100%;
         width: 100%;
         border: 12px solid white;
+        min-height: 450px;
     }
 }
 
@@ -53,14 +54,31 @@
     grid-template-columns: 1fr 1fr 1fr;
 }
 
+@media only screen and (max-width: 840px) {
+
+    .two-one, .one-two, .fiddyfiddy, .singles {
+        grid-template-columns: 1fr;
+    }
+}
+
+.single-image {
+    & img {
+        height: 451px !important;
+        object-position: 60% 19%;
+    }
+}
 
 
-// utils
+// end utils
 
 
-.speaking-wrap {
-background-image: linear-gradient(-214deg, #00B3C8 0%, #00C5A2 53%, #00B3C8 100%);
+#speaking-wrap {
+    background: url("http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=100"), linear-gradient(-214deg, #00B3C8 0%, #00C5A2 53%, #00B3C8 100%);
     min-height: 100vh;
+    background-position: 100% 50%;
+    background-blend-mode: overlay;
+    background-size: 21%;
+    transition: .1s all;
 
     & .row {
         border-bottom: 1px solid white;
@@ -70,24 +88,36 @@ background-image: linear-gradient(-214deg, #00B3C8 0%, #00C5A2 53%, #00B3C8 100%
     }
     & p {
         color: white;
-        line-height: 34px;
+        line-height: 28px;
     }
-    & h1, h2 {
-        font-size: 62px;
+    & h1 {
+        font-size: 80px;
         font-weight: 300;
         color: white;
         line-height: 1.2;
         margin-bottom: 2rem;
+
+        @media only screen and (max-width: 840px) {
+            font-size: 60px;
+            line-height: 1;
+        }
     }
-    & h1 {
-        font-size: 80px;
+    & h2 {
+        margin-bottom: 1.2rem;
+        font-family: 'Playfair Display', serif;
+        font-size: 42px;
+        color: white;
+        line-height: 1.1;
+    }
+    & .button {
+        color: white !important;
     }
 }
 
 .intro-wrap {
     padding: 8% !important;
     & p {
-        margin-bottom: 2rem;
+        margin-bottom: 3rem;
     }
 }
 
@@ -100,7 +130,7 @@ background-image: linear-gradient(-214deg, #00B3C8 0%, #00C5A2 53%, #00B3C8 100%
     min-height: 450px;
     display: flex;
     align-items: center;
-    padding: 4% !important;
+    padding: 4%;
 }
 
 .img-cover {
@@ -122,9 +152,13 @@ background-image: linear-gradient(-214deg, #00B3C8 0%, #00C5A2 53%, #00B3C8 100%
         font-weight: 900;
         text-transform: uppercase;
         letter-spacing: 4px;
-        font-size: 18px;
+        font-size: 18px !important;
         line-height: 12px;
         margin-top: 1.5rem;
+        font-family: 'Open Sans', sans-serif !important;
+    }
+    @media only screen and (max-width: 840px) {
+        padding: 1rem;
     }
 }
 .logo-list {
@@ -135,26 +169,43 @@ background-image: linear-gradient(-214deg, #00B3C8 0%, #00C5A2 53%, #00B3C8 100%
     & a {
         padding: 3%;
     }
+    @media only screen and (max-width: 840px) {
+        flex-wrap: wrap;
+
+        & a {
+            max-width: 120px;
+        }
+    }
 
 }
 
 .hidden {
-    display: none;
+    display: none !important;
 }
 
 .form-wrap {
     padding: 4rem 0;
-    max-width: 38rem;
+    max-width: 45rem;
     margin: auto;
+    padding: 4rem 16px;
 }
 
 #speaker_contact {
     text-align: left;
     color: white;
     font-weight: 500;
+    border: none !important;
 
-    & col {
-        margin: 0;
+    & .col {
+        &:first-child {
+            padding-left: 0;
+        }
+        &:nth-child(2) {
+            padding-right: 0;
+        }
+        @media only screen and (max-width: 600px) {
+            padding: 0;
+        }
     }
 
     & input, textarea {
@@ -199,11 +250,11 @@ background-image: linear-gradient(-214deg, #00B3C8 0%, #00C5A2 53%, #00B3C8 100%
 
 .quote-wrap {
     flex-direction: column;
-    margin: 16px 0 32px;
+    padding: 12%;
 
     & .testi-quote {
-        font-size: 27px;
-        line-height: 40px;
+        font-size: 24px;
+        line-height: 34px !important;
         color: #FFFFFF;
         text-align: center;
     }
@@ -214,6 +265,7 @@ background-image: linear-gradient(-214deg, #00B3C8 0%, #00C5A2 53%, #00B3C8 100%
         font-size: 18px;
         line-height: 12px;
         margin-top: 1.5rem;
+        margin-bottom: 0;
     }
     & .org {
         font-size: 14px;
@@ -227,4 +279,47 @@ background-image: linear-gradient(-214deg, #00B3C8 0%, #00C5A2 53%, #00B3C8 100%
         transform: rotate(180deg);
     }
 
+    @media only screen and (max-width: 840px) {
+        border-bottom: 1px solid white;
+    }
+
+}
+
+.speaker-topics {
+
+    & p {
+        margin-bottom: 2rem;
+        line-height: 24px;
+    }
+
+    & li {
+        color: white;
+        list-style-type: disc;
+        font-weight: 100;
+        font-size: 20px;
+        line-height: 2;
+    }
+}
+
+.workshops {
+    & h2 {
+        margin-bottom: 2rem;
+    }
+    & h3 {
+        color: white;
+        text-transform: uppercase;
+        font-size: 15px;
+        letter-spacing: 2px;
+        font-weight: 600;
+    }
+    & p {
+        line-height: 30px;
+    }
+}
+
+.alert {
+    text-align: center;
+    font-size: 31px;
+    margin-top: 16px;
+    font-weight: 900;
 }
