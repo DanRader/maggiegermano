@@ -1,0 +1,173 @@
+---
+layout: default
+---
+<div id="speaking-wrap">
+    <div class="gridy two-one">
+        <div class="content-innerWrap">
+            <div class="intro-wrap">
+                <h1>{{page.title}}</h1>
+                {{ content }}
+                <a class="button" href="#form-wrap">Book Maggie Now</a>
+            </div>
+        </div>
+        <img class="img-feature" src="/uploads/maggie_speaking.jpg" alt="Maggie Germano Speaking at Deloitte Digital">
+    </div>
+    <div class="gridy one logo-wrap center">
+            <h2>past audiences</h2>
+            <div class="logo-list">
+                {% assign logo-sort = site.audience-logos | sort: "position" %}
+                {% for logo in logo-sort limit: 5 %}
+                <a href="{{ logo.link }}">
+                    <img src="{{ logo.image }}" alt="{{ logo.title }}">
+                </a>
+                {% endfor %}
+            </div>
+            <div class="logo-list">
+                {% for logo in logo-sort offset: 5 %}
+                <a href="{{ logo.link }}">
+                    <img src="{{ logo.image }}" alt="{{ logo.title }}">
+                </a>
+                {% endfor %}
+            </div>
+    </div>
+
+    <div class="gridy one-two">
+        <div class="content-innerWrap quote-wrap ">
+                <img src="/uploads/quote@2x.png" alt="quote">
+                <p class="testi-quote">{{page.quote-1.quote-text}}</p>
+                <img class="flip" src="/uploads/quote@2x.png" alt="quote">
+                <p class="testi-quote_name">{{page.quote-1.name}}</p>
+                <p class="testi-quote_name org">{{page.quote-1.org}}</p>
+        </div>
+        <div class="content-innerWrap border-left">
+            <div class="intro-wrap speaker-topics">
+                {{page.speaker-topics | markdownify }}
+            </div>
+        </div>
+    </div>
+
+    <div class="gridy two-one ">
+        <div class="content-innerWrap">
+            <div class="intro-wrap workshops">
+                {{page.workshops | markdownify }}
+            </div>
+        </div>
+        <img class="img-feature" src="/uploads/MaggieGermano_speaking3.jpg" alt="Maggie Germano Speaking at ISL workshop">
+    </div>
+
+    <div class="gridy singles">
+        <div class="content-innerWrap quote-wrap ">
+                <img src="/uploads/quote@2x.png" alt="quote">
+                <p class="testi-quote">{{page.quote-2.quote-text}}</p>
+                <img class="flip" src="/uploads/quote@2x.png" alt="quote">
+                <p class="testi-quote_name">{{page.quote-2.name}}</p>
+                <p class="testi-quote_name org">{{page.quote-2.org}}</p>
+        </div>
+        <div class="content-innerWrap quote-wrap border-left">
+                <img src="/uploads/quote@2x.png" alt="quote">
+                <p class="testi-quote">{{page.quote-3.quote-text}}</p>
+                <img class="flip" src="/uploads/quote@2x.png" alt="quote">
+                <p class="testi-quote_name">{{page.quote-3.name}}</p>
+                <p class="testi-quote_name org">{{page.quote-3.org}}</p>
+        </div>
+        <div class="content-innerWrap quote-wrap border-left">
+                <img src="/uploads/quote@2x.png" alt="quote">
+                <p class="testi-quote">{{page.quote-4.quote-text}}</p>
+                <img class="flip" src="/uploads/quote@2x.png" alt="quote">
+                <p class="testi-quote_name">{{page.quote-4.name}}</p>
+                <p class="testi-quote_name org">{{page.quote-4.org}}</p>
+        </div>
+    </div>
+
+    <div class="gridy one single-image">
+        <img class="img-feature" src="/uploads/maggie_speaking2.jpg" alt="Maggie Germano Speaking at ISL workshop">
+    </div>
+
+    <div class="center form-wrap" id="form-wrap">
+        <div class="form-intro">
+            {{page.form-text | markdownify}}
+        </div>
+            <form class="row" id="speaker_contact">
+                <div class="col s12 m6">
+                    <label for="form-name">Name</label>
+                    <input id="form-name" type="text" name="Name" placeholder="Ruth Bader Ginsburg" required>
+                </div>
+                <div class="col s12 m6">
+                    <label for="form-name">Email</label>
+                    <input id="form-email" type="email" name="Email" placeholder="email@example.com" required>
+                </div>
+
+                <label for="form-name">Budget</label>
+                <input id="form-budget" type="budget" name="Budget" placeholder="What are you working with?">
+
+                <label for="form-name">Event Details</label>
+                <textarea id="form-message" name="Message" cols="30" rows="6" placeholder="Tell me a little bit about your event or organization" required></textarea>
+                <!-- CONFIG -->
+                <input class="hidden" type="text" name="_gotcha">
+                <input type="hidden" name="_subject" value="Subject">
+                <input type="hidden" name="_cc" value="email@cc.com">
+                <!-- /CONFIG -->
+                <input type="submit" value="Submit" id="Form-submit" class="button "/>
+            </form>
+    </div>
+
+</div>
+
+
+<!-- ————————————————————————————— -->
+
+
+
+<script type="text/javascript">
+    var submitButton = document.getElementById('Form-submit');
+    var $contactForm = $('#speaker_contact');
+    $contactForm.submit(function(e){
+        e.preventDefault();
+        $.ajax({
+            url:'https://hooks.zapier.com/hooks/catch/2549310/lyipv3/',
+            type:'post',
+            data:$contactForm.serialize(),
+            beforeSend: function() {
+                 $contactForm.append('<div class="alert alert--loading">Sending message…</div>');
+             },
+             success: function(data) {
+                 $contactForm.find('.alert--loading').hide();
+                 $contactForm.append('<div class="alert alert--success">Message sent!</div>');
+                 submitButton.classList.add('hidden');
+             },
+             error: function(err) {
+                 $contactForm.find('.alert--loading').hide();
+                 $contactForm.append('<div class="alert alert--error">Ops, there was an error.</div>');
+             }
+            });
+    });
+
+    $(document).ready(function() {
+        var movementStrength = 10;
+        var height = movementStrength / $(window).height();
+        var width = movementStrength / $(window).width();
+
+        $("#speaking-wrap").mousemove(function(e){
+                 var pageX = e.pageX - ($(window).width() / 2);
+                 var pageY = e.pageY - ($(window).height() / 2);
+                 var newvalueX = width * pageX * 1 + 1;
+                 var newvalueY = height * pageY * 1 + 1;
+                 $('#speaking-wrap').css("background-position", "calc(100% + "+newvalueX+"px)"+" calc(50% + "+newvalueY+"px), "+"calc(100% + "+newvalueX+"px)"+" calc(50% + "+newvalueY+"px)" );
+        });
+    });
+
+    // $(document).ready(function() {
+    //     var movementStrength = 150;
+    //     var height = movementStrength / $(window).height();
+    //     var width = movementStrength / $(window).width();
+    //
+    //     $("#speaking-wrap").mousemove(function(e){
+    //              var pageX = e.pageX - ($(window).width() / 2);
+    //              var pageY = e.pageY - ($(window).height() / 2);
+    //              var newvalueX = width * pageX * 1 - 150;
+    //              var newvalueY = height * pageY * 1 + 1;
+    //              $('#speaking-wrap').css("background", 'url("http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=100"), linear-gradient('+newvalueX+'deg, #00B3C8 0%, #00C5A2 53%)' );
+    //     });
+    // });
+
+</script>

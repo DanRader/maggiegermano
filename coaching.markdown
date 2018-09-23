@@ -81,7 +81,5 @@ option-2-text: |-
   * Free attendance to monthly [Money Circle](http://maggiegermano.com/moneycircle) gatherings
 layout: coaching
 ---
-
 ## Struggling with money? You’re not alone.
-
 If you don’t know how to tackle these common issues, financial coaching may be right for you!

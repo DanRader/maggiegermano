@@ -5,12 +5,13 @@
           <a href="{{ site.baseurl }}/" class="brand-logo"><img src="/uploads/MaggieG_Logo@2x.png"></a>
           <a href="#" data-activates="mobile-demo" class="button-collapse burger-time"><i class="fa fa-bars"></i></a>
 
- 
+
           <ul class="right hide-on-med-and-down">
 
              {% assign current = page.url | downcase | split: '/' %}
 
                   <li class="{% if current contains 'coaching' %}active {% endif %}nav-links"><a href='/coaching'>Coaching</a></li>
+                  <!-- <li><a href='/speaking'>Speaking</a></li> -->
                   <li class="{% if current contains 'moneycircle' %}active {% endif %}nav-links"><a href='/moneycircle'>Money Circle</a></li>
                   <li class="{% if current contains 'blog' %}active {% endif %}nav-links"><a href='/blog'>Blog</a></li>
 
@@ -23,6 +24,7 @@
             <!-- <img src="/uploads/MaggieG_KO_Mark@3x.svg"> -->
            <li><a href="{{ site.url }}/">Home</a></li>
             <li><a href='/coaching'>Coaching</a></li>
+            <li><a href='/speaking'>Speaking</a></li>
             <li><a href='/moneycircle'>Money Circle</a></li>
             <li><a href='/blog'>Blog</a></li>
            <li><a href="{{ site.url }}/subscribe">Subscribe</a></li>
