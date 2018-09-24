@@ -4,7 +4,7 @@ date: 2018-10-01 11:00:00 -04:00
 categories:
 - savings
 - lifestyle
-image: "/uploads/piggy%20bank-95fe45.jpg"
+image: "/uploads/coins.jpg"
 posts:
 - How to Create a Wedding Budget
 - How to Plan a Wedding and Stay Sane
