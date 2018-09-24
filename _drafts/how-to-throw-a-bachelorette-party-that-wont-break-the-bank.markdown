@@ -5,5 +5,12 @@ categories:
 - Budget
 - lifestyle
 image: "/uploads/party-28e656.jpg"
+tweet: 'Having a #bachelorette party doesn''t have to make you or your friends go
+  broke.'
+posts:
+- How to Create a Wedding Budget
+- How to Plan a Wedding and Stay Sane
+- How I'm Incorporating My Values Into My Wedding
 ---
 
+Stay Local
