@@ -8,6 +8,8 @@ image: "/uploads/bench.jpg"
 
 ## I Started Early
 
+I remember the moment I first talked to Dan about money. It was probably our fourth or fifth date and we were walking towards my apartment, where I was going to make dinner for him. Dan was carrying a bouquet of flowers for me. I turned to him and casually asked him if he had any credit card debt. 
+
 ## I Communicated My Needs
 
 ## I Offered My Help
