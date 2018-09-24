@@ -5,6 +5,8 @@ categories:
 - savings
 - lifestyle
 image: "/uploads/coins.jpg"
+tweet: I quit my job last December. I also bought a house. And now I'm paying for
+  wedding. See how I did it all at once.
 posts:
 - How to Create a Wedding Budget
 - How to Plan a Wedding and Stay Sane
