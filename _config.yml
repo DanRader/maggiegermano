@@ -2,6 +2,9 @@
 title: Maggie Germano | Financial Coach based in Washington, DC
 timezone: America/New_York
 collections:
+  audience-logos:
+    title: Audience Logos
+    output: true
   categories:
     title: Categories
     output: true
@@ -91,6 +94,7 @@ description: Break the taboo of discussing debt, earnings, and financial goals. 
 url: https://maggiegermano.com
 twitter_username: maggiegermano
 github_username: DanRader
+port: 6689
 google-analytics: |-
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
