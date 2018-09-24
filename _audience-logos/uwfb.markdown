@@ -1,6 +1,7 @@
 ---
-layout: default
 title: ISL
-link: #
+layout: default
+link: 
 image: "/uploads/logos/uwiblogolongform-1@2x.png"
 ---
+

@@ -1,5 +1,5 @@
 ---
-title: "Public Speaking & Workshops"
+title: Public Speaking & Workshops
 date: 2018-03-26 15:14:00 -04:00
 is-menu: true
 quote-1:
@@ -9,23 +9,24 @@ quote-1:
   name: Janice Omadeke
   org: The mentor method
 quote-2:
-  quote-text: Maggie Germano's relatable presentation style is immediately engaging and draws the crowd in. Her knowledge of finance and how it can impact everyday life is unrivaled.
+  quote-text: Maggie Germano's relatable presentation style is immediately engaging
+    and draws the crowd in. Her knowledge of finance and how it can impact everyday
+    life is unrivaled.
   name: Michelle Obama
   org: The mentor method
-
 quote-3:
-    quote-text: Maggie Germano's presentation style is immediately engaging
-      and draws the crowd in. Her knowledge of finance and how it can impact everyday
-      life is unrivaled.
-    name: Suze Orman
-    org: The mentor method
+  quote-text: Maggie Germano's presentation style is immediately engaging and draws
+    the crowd in. Her knowledge of finance and how it can impact everyday life is
+    unrivaled.
+  name: Suze Orman
+  org: The mentor method
 quote-4:
-    quote-text: Maggie Germano's relatable presentation style is immediately engaging and draws the crowd in. Her knowledge of finance and how it can impact everyday life is unrivaled.
-    name: Janet Jackson
-    org: The mentor method
-
-
-layout: speaking  
+  quote-text: Maggie Germano's relatable presentation style is immediately engaging
+    and draws the crowd in. Her knowledge of finance and how it can impact everyday
+    life is unrivaled.
+  name: Janet Jackson
+  org: The mentor method
+layout: speaking
 speaker-topics: |-
   ## Speaker Topics
 
@@ -38,8 +39,6 @@ speaker-topics: |-
   * How to save for your life goals
   * Why your money mindset is important
   * How to talk about money
-
-
 workshops: |-
   ## Workshops
 
@@ -51,24 +50,13 @@ workshops: |-
 
   ### Confidence and Money
   Something that holds women back from getting their money right is the feeling that they don't know what they're doing. This workshop will show you how to find confidence with your money and make the changes that you're hoping for.
-
-
-podcasts: |-
-  ## Podcasts & Interviews
-
-  Perfect for someone just looking to get pointed in the right direction or looking for answers to specific questions.
-
-  *	The Daily Cup
-  *	Clever Girl Finance
-  *	Popcorn Finance
-  *	Bossed Up
-  *	Aligned and Alive
-
+podcasts: "## Podcasts & Interviews\n\nPerfect for someone just looking to get pointed
+  in the right direction or looking for answers to specific questions.\n\n*\tThe Daily
+  Cup\n*\tClever Girl Finance\n*\tPopcorn Finance\n*\tBossed Up\n*\tAligned and Alive"
 form-text: |-
   ## Want to have Maggie speak at your next event?
 
   Maggie Germano's relatable presentation style is immediately engaging and draws the crowd in. Her knowledge of finance and how it can impact everyday life is unrivaled.
-
 ---
 
 Maggie Germano's relatable presentation style is immediately engaging and draws the crowd in. Her knowledge of finance and how it can impact everyday life is unrivaled.  the crowd in. Her knowledge of finance and how it can impact everyday life is unrivaled.

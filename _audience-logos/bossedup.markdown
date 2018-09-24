@@ -1,6 +1,7 @@
 ---
-layout: default
 title: Bossed Up
-link: #
+layout: default
+link: 
 image: "/uploads/logos/Logo-on-Transparent@2x.png"
 ---
+

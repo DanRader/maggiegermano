@@ -1,6 +1,7 @@
 ---
-layout: default
 title: ISL
-link: #
+layout: default
+link: 
 image: "/uploads/logos/ownit@2x.png"
 ---
+
