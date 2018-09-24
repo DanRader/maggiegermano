@@ -4,6 +4,7 @@ date: 2018-10-29 11:00:00 -04:00
 categories:
 - lifestyle
 image: "/uploads/rings.jpg"
+tweet: 'Why I''m Keeping My Name After Getting Married. '
 posts:
 - How I Had the Money Talk with My Dude
 - How I Saved Money for My Wedding (While Buying a House and Quitting My Job)
