@@ -62,4 +62,4 @@ form-text: |-
 layout: speaking
 ---
 
-Maggie Germano is a feminist and financial coach for women. She helps women improve their relationship with money so they can take control of their futures. 
+Maggie Germano is a feminist and financial coach for women. She helps women improve their relationship with money so they can take control of their futures. She wants to reach even more women from all backgrounds to give them the financial literacy they need to get their money right.
