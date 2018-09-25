@@ -52,6 +52,7 @@ workshops: |-
   Something that holds women back from getting their money right is the feeling that they don't know what they're doing. This workshop will show you how to find confidence with your money and make the changes that you're hoping for.
 
   ### Making and Breaking the Budget
+  Budgeting is hard. We need a new way to approach it, and that means creating a budget that works for you and your life, goals, and values. This workshop will help you identify your values, determine your goals, and create a budget that you'll actually want to stick to.
 podcasts: "## Podcasts & Interviews\n\nPerfect for someone just looking to get pointed
   in the right direction or looking for answers to specific questions.\n\n*\tThe Daily
   Cup\n*\tClever Girl Finance\n*\tPopcorn Finance\n*\tBossed Up\n*\tAligned and Alive"
