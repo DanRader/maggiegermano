@@ -29,6 +29,8 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * I won an award last week! The DC Women's Business Center named me the Woman Empowerment Entrepreneur of the Year!
 
+![IMG_6746.JPG](/uploads/IMG_6746.JPG)
+
 ## **Money Tip to Take Into the Weekend**
 
 ![Carol& Nick.png](/uploads/Carol&%20Nick.png)
