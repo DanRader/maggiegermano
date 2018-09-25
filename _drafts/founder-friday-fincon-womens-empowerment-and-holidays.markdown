@@ -16,11 +16,15 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * xx
 
+* xx
+
 ## **How I Spent Money This Week**
 
 * xx
 
-* 
+* I'm currently in Orlando, Florida for FinCon, an annual conference for financial professionals. When I check out tomorrow, I'll pay for my hotel, and I've been expensing my meals. 
+
+* Since I'm in Orlando, I've decided to go to Harry Potter World tomorrow. It's pretty expensive, even just for one day, but I've been told that it's really worth it. I'll report back!
 
 ## **What I’m Writing**
 
@@ -35,6 +39,8 @@ This week, I wrote about how you can prepare ahead of time for [holiday spending
 ## **What I’m Excited About**
 
 * I won an award last week! The DC Women's Business Center named me the Woman Empowerment Entrepreneur of the Year!
+
+* xx
 
 ![IMG_6746.JPG](/uploads/IMG_6746.JPG)
 
