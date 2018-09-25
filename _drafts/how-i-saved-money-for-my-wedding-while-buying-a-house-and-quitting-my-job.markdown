@@ -27,11 +27,11 @@ I immediately put over 10% of that settlement into a savings account earmarked f
 
 For the last four months of my time at my day job, I saved about 20% of my take-home pay for the wedding. That amounted to about $700 a month, so by the time I left the job at the end of December, I had saved $2,100 for the wedding from my paycheck. 
 
-I think this is one of the best ways to save up a lot of money over time, if you have the money to spare. Set up direct deposit from your paychecks and save a percentage each month. 
+I think this is one of the best ways to save up a lot of money over time, if you have the money to spare. Set up direct deposit from your paychecks and save a percentage each month. You can do this for any goal, whether it's building up  your emergency savings account or saving up for a trip. 
 
 ## We Saved Our Tax Returns
 
-Since Dan and I were both fully employed in 2017, we both received tax refunds in April.
+Since Dan and I were both fully employed in 2017, we both received tax refunds in April. 2017 was the last year that we could meaningfully write off the interest on our mortgage payments and real estate taxes. This helped with our 
 
 ## I Saved All My Business Income
 
