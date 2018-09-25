@@ -21,13 +21,13 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## **What I’m Up To**
 
-* Next month, **[Money Circle](https://www.maggiegermano.com/moneycircle/)** is meeting to talk about **[how to ask for a raise](https://www.maggiegermano.com/events/how-to-ask-for-a-raise/)** at your current job. If you know you’ll have to do this soon, join us on October 24th!
+* Next month, [Money Circle](https://www.maggiegermano.com/moneycircle/) is meeting to talk about [how to ask for a raise](https://www.maggiegermano.com/events/how-to-ask-for-a-raise/) at your current job. If you know you’ll have to do this soon, join us on October 24th!
 
 * x
 
 ## **What I’m Excited About**
 
-* I won an award last week! The DC Women's Business Center named me the Woman Empowerment Entrepreneur of the Year! 
+* I won an award last week! The DC Women's Business Center named me the Woman Empowerment Entrepreneur of the Year!
 
 ## **Money Tip to Take Into the Weekend**
 
