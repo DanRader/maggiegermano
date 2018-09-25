@@ -51,7 +51,7 @@ workshops: |-
   ### Confidence and Money
   Something that holds women back from getting their money right is the feeling that they don't know what they're doing. This workshop will show you how to find confidence with your money and make the changes that you're hoping for.
 
-  ## Making and Breaking the Budget
+  ### Making and Breaking the Budget
 podcasts: "## Podcasts & Interviews\n\nPerfect for someone just looking to get pointed
   in the right direction or looking for answers to specific questions.\n\n*\tThe Daily
   Cup\n*\tClever Girl Finance\n*\tPopcorn Finance\n*\tBossed Up\n*\tAligned and Alive"
@@ -62,4 +62,4 @@ form-text: |-
 layout: speaking
 ---
 
-Maggie Germano is a feminist and financial coach for women. She helps women improve their relationship with money so they can take control of their futures. 
+Maggie Germano is a feminist and financial coach for women. She helps women improve their relationship with money so they can take control of their futures. She wants to reach even more women from all backgrounds to give them the financial literacy they need to get their money right.
