@@ -21,7 +21,7 @@ All of these changes are pretty expensive, so we had to be pretty strategic to a
 
 In July 2017, I received a large sum of money as a settlement from the Department of Health and Human Services. In December 2015, I got a routine flu shot at CVS so that I wouldn't risk giving the flu to my then-newborn nephew over Christmas. Within an hour, my shoulder hurt so badly that I couldn't lift my arm. I had never gotten the flu shot before, so I figured it was a normal reaction to the shot. Well, I was wrong. I could barely lift my left arm for six months. Dan had to help me get dressed and even take off my jacket. It took over a year, an MRI and CT scan, and many doctors telling me I was crazy, but eventually, I received a settlement from the government for my injury.
 
-I immediately put over 10% of that settlement into a savings account earmarked for our future wedding. If you had any doubts about my knack for planning ahead, you should know that we weren't even engaged yet at this time. But I put this large sum of money aside and that made it so that we had nearly half of what we would ultimately need for the wedding. I recommend this approach if you ever receive a windfall in the future.
+I immediately put over 10% of that settlement into a savings account earmarked for our future wedding. If you had any doubts about my knack for planning ahead, you should know that we weren't even engaged yet at this time. But I put this large sum of money aside and that made it so that we had nearly half of what we would ultimately need for the wedding. I recommend this approach if you ever [receive a windfall](https://www.maggiegermano.com/blog/what-to-do-if-you-get-a-windfall/) in the future.
 
 ## I Saved 20% of My Take-Home Pay
 
@@ -39,4 +39,4 @@ For the first four months of 2018, I saved all of my business profit and put it 
 
 ## Dan Saved His Freelance Income
 
-Dan is a interactive graphic designer, so he often designs and builds websites (like [mine!](https://www.maggiegermano.com/))
+Dan is a interactive graphic designer, so he often designs and builds websites (like [mine!](https://www.maggiegermano.com/)). Earlier this year, he built the website for the new DC cidery, Capital Cider House. He put that freelance income directly into our savings account (after setting aside 30% for taxes, of course). 
