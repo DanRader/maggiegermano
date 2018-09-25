@@ -3,6 +3,11 @@ title: Founder Friday | FinCon, Women's Empowerment, and the Holidays
 date: 2018-09-28 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/conference.jpg"
+posts:
+- Founder Friday | Meal Delivery, Reproductive Health, and Self Worth
+- Founder Friday | Budgeting, Lifestyle Creep, and Airbnb
+- Founder Friday | Bicycles, Budgets, and Bachelorettes
 ---
 
 Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
