@@ -1,5 +1,5 @@
 ---
-title: Founder Friday | FinCon, Women's Empowerment, and Holidays
+title: Founder Friday | FinCon, Women's Empowerment, and the Holidays
 date: 2018-09-28 14:00:00 -04:00
 categories:
 - founder friday
@@ -15,9 +15,11 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * xx
 
+* 
+
 ## **What I’m Writing**
 
-* xx
+This week, I wrote about how you can prepare ahead of time for [holiday spending](https://www.maggiegermano.com/blog/how-to-plan-ahead-for-holiday-spending/). You don't have to be stressed and broke every year. Plan ahead and make your life better. 
 
 ## **What I’m Up To**
 
