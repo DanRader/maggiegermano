@@ -31,7 +31,9 @@ I think this is one of the best ways to save up a lot of money over time, if you
 
 ## We Saved Our Tax Returns
 
-Since Dan and I were both fully employed in 2017, we both received tax refunds in April. 2017 was the last year that we could meaningfully write off the interest on our mortgage payments and real estate taxes. This helped with our 
+Since Dan and I were both fully employed in 2017, we both received tax refunds in April. 2017 was the last year that we could meaningfully write off the interest on our mortgage payments and real estate taxes. We also wrote off the start-up costs we incurred for getting our Airbnb up to snuff. These write-offs helped increase our tax refund. We put those refunds directly into our wedding fund. 
+
+Are you wondering what you should do with your tax refund? [Here's what I think](https://maggiegermano.com/blog/heres-how-you-should-use-your-tax-refund/)!
 
 ## I Saved All My Business Income
 
