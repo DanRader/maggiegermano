@@ -1,6 +1,7 @@
 ---
 title: How I Saved Money for My Wedding (While Buying a House and Quitting My Job)
 date: 2018-10-01 11:00:00 -04:00
+published: false
 categories:
 - savings
 - lifestyle
@@ -37,8 +38,10 @@ Are you wondering what you should do with your tax refund? [Here's what I think]
 
 ## I Saved All My Business Income
 
-For the first four months of 2018, I saved all of my business profit and put it directly into our wedding savings account.
+For the first four months of 2018, I saved all of my business profit and put it directly into our wedding savings account. As I'm getting my business off the ground and building profit, Dan and I are living off of his paycheck completely. All of my take-home pay from my business is going directly into savings. The first priority this year was obviously the wedding. By April, we had reached our savings goal for the wedding. Since then, I've been putting the money into our home improvement fund.
 
 ## Dan Saved His Freelance Income
 
-Dan is a interactive graphic designer, so he often designs and builds websites (like [mine!](https://www.maggiegermano.com/)). Earlier this year, he built the website for the new DC cidery, Capital Cider House. He put that freelance income directly into our savings account (after setting aside 30% for taxes, of course). 
+Dan is a interactive graphic designer, so he often designs and builds websites (like [mine!](https://www.maggiegermano.com/)). Earlier this year, he built the website for the new DC cidery, [Capitol Cider House](https://capitolciderhouse.com/). He put that freelance income directly into our savings account (after setting aside 30% for taxes, of course). In the future, we will likely put his freelance income towards our dog fund and our home improvement projects.
+
+*How did you pay for your wedding? Share in the comments!*
