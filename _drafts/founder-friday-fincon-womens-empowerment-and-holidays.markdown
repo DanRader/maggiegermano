@@ -1,6 +1,8 @@
 ---
 title: Founder Friday | FinCon, Women's Empowerment, and Holidays
-date: 2018-09-25 14:39:00 -04:00
+date: 2018-09-28 14:00:00 -04:00
+categories:
+- founder friday
 ---
 
 Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
