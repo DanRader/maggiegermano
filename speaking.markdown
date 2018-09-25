@@ -26,7 +26,6 @@ quote-4:
     life is unrivaled.
   name: Janet Jackson
   org: The mentor method
-layout: speaking
 speaker-topics: |-
   ## Speaker Topics
 
@@ -57,6 +56,7 @@ form-text: |-
   ## Want to have Maggie speak at your next event?
 
   Maggie Germano's relatable presentation style is immediately engaging and draws the crowd in. Her knowledge of finance and how it can impact everyday life is unrivaled.
+layout: speaking
 ---
 
-Maggie Germano's relatable presentation style is immediately engaging and draws the crowd in. Her knowledge of finance and how it can impact everyday life is unrivaled.  the crowd in. Her knowledge of finance and how it can impact everyday life is unrivaled.
+Maggie Germano is a feminist and financial coach for women. She helps women improve their relationship with money so they can take control of their futures. 
