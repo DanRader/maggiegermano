@@ -59,7 +59,7 @@ podcasts: "## Podcasts & Interviews\n\nPerfect for someone just looking to get p
 form-text: |-
   ## Want to have Maggie speak at your next event?
 
-  Maggie Germano's relatable presentation style is immediately engaging and draws the crowd in. Her knowledge of finance and how it can impact everyday life is unrivaled.
+  Send her a note with details about your event and your budget.
 layout: speaking
 ---
 
