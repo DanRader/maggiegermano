@@ -10,3 +10,8 @@ posts:
 - What to Expect When You're Inspecting
 ---
 
+## Redoing the Floors
+
+## Fixing Up the Basement
+
+## Opening Up the Living Room
