@@ -24,6 +24,8 @@ We had to block off the Airbnb this week while we renovate the basement shower, 
 
 * Since I'm in Orlando, I decided to go to [Universal Studios](https://www.universalorlando.com/web/en/us/index.html), mainly to see Hogwarts. It's pretty expensive, even just for one day ($180 for both parks where there are [Harry Potter](https://www.universalorlando.com/web/en/us/universal-orlando-resort/the-wizarding-world-of-harry-potter/hub/index.html) attractions!), but I was told that it's really worth it. I took the 7am free shuttle from my hotel and got to the park as soon as it was opening. I stayed for about 5 hours, and it was pretty empty and quiet for the first hour or two, which was nice. I loved the rides at Hogwarts and Diagon Alley. I also enjoyed the raft ride at Jurassic Park, and the crazy truck ride at the King Kong exhibit. I don't know how anyone can spend more than half a day at the park, but I enjoyed my time there! Though I'm getting too old to ride rides without getting nauseated.
 
+![0E3850C0-1134-4827-9D36-25EDEF141362.JPG](/uploads/0E3850C0-1134-4827-9D36-25EDEF141362.JPG)
+
 ## **What I’m Writing**
 
 This week, I wrote about how you can prepare ahead of time for [holiday spending](https://www.maggiegermano.com/blog/how-to-plan-ahead-for-holiday-spending/). You don't have to be stressed and broke every year. Plan ahead and make your life better.
