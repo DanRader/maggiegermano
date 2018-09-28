@@ -30,9 +30,7 @@ This week, I wrote about how you can prepare ahead of time for [holiday spending
 
 ## **What I’m Up To**
 
-* Next month, [Money Circle](https://www.maggiegermano.com/moneycircle/) is meeting to talk about [how to ask for a raise](https://www.maggiegermano.com/events/how-to-ask-for-a-raise/) at your current job. If you know you’ll have to do this soon, join us on October 24th!
-
-* x
+Next month, [Money Circle](https://www.maggiegermano.com/moneycircle/) is meeting to talk about [how to ask for a raise](https://www.maggiegermano.com/events/how-to-ask-for-a-raise/) at your current job. If you know you’ll have to do this soon, join us on October 24th!
 
 ## **What I’m Excited About**
 
