@@ -22,7 +22,7 @@ We had to block off the Airbnb this week while we renovate the basement shower, 
 
 * I'm currently in Orlando, Florida for [FinCon](http://www.finconexpo.com), an annual conference for financial professionals. When I check out tomorrow, I'll pay for my hotel, and I've been paying for my meals with my business credit card.
 
-* Since I'm in Orlando, I decided to go to [Universal Studios](https://www.universalorlando.com/web/en/us/index.html), mainly to see Hogwarts. It's pretty expensive, even just for one day ($180 for both parks where there are Harry Potter attractions!), but I was told that it's really worth it. I took the 7am free shuttle from my hotel and got to the park as soon as it was opening. 
+* Since I'm in Orlando, I decided to go to [Universal Studios](https://www.universalorlando.com/web/en/us/index.html), mainly to see Hogwarts. It's pretty expensive, even just for one day ($180 for both parks where there are [Harry Potter](https://www.universalorlando.com/web/en/us/universal-orlando-resort/the-wizarding-world-of-harry-potter/hub/index.html) attractions!), but I was told that it's really worth it. I took the 7am free shuttle from my hotel and got to the park as soon as it was opening. 
 
 ## **What I’m Writing**
 
