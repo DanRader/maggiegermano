@@ -36,9 +36,7 @@ This week, I wrote about how you can prepare ahead of time for [holiday spending
 
 ## **What I’m Excited About**
 
-* I won an award last week! The DC Women's Business Center named me the Woman Empowerment Entrepreneur of the Year!
-
-* xx
+I won an award last week! The [DC Women's Business Center](http://www.dcwbc.org/) named me the Woman Empowerment Entrepreneur of the Year! I was really surprised to win, since there were so many other amazing entrepreneurs there, but I'm also very proud!
 
 ![IMG_6746.JPG](/uploads/IMG_6746.JPG)
 
