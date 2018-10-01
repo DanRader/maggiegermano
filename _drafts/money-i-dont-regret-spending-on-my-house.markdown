@@ -14,8 +14,12 @@ Last September, my fiance, Dan, and I closed on a house near Hyattsville, MD. It
 
 ## Redoing the Floors
 
+When we first bought our house, the living room floor was all parkay. When you walked through the living room and into the kitchen, it morphed into a large, tan tile with black grout. That tile continued on into the dining room. I hated everything about those floors. I couldn't imagine living in a house that was almost entirely parkay and tile. I felt that having the floors redone would instantly make the house feel more like our own. 
+
+Plus, we knew we wanted to rent out our basement on Airbnb. The floors in the basement were reminiscent of elementary school floors back in the 80s and 90s. They were ugly and dirty. 
+
 ## Fixing Up the Basement
 
 ## Opening Up the Living Room
 
-Now, don't get me wrong, I definitely have some regrets. The contractor that we used for the bulk of the work when we first bought the house definitely overcharged us. By the end of that (very long) process, we felt taken advantage of and foolish. We paid way too much to get new counters installed, and they didn't even check with us before they purchased the counters and new sink. The sink is much smaller than we wanted, but at this point, we don't want to spend more money on this area. 
+Now, don't get me wrong, I definitely have some regrets. The contractor that we used for the bulk of the work when we first bought the house definitely overcharged us. By the end of that (very long) process, we felt taken advantage of and foolish. We paid way too much to get new counters installed, and they didn't even check with us before they purchased the counters and new sink. The sink is much smaller than we wanted, but at this point, we don't want to spend more money on this area.
