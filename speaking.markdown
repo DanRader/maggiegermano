@@ -1,6 +1,9 @@
 ---
 title: Public Speaking & Workshops
 date: 2018-03-26 15:14:00 -04:00
+excerpt: Maggie brings a unique perspective, transformative knowledge, and seamlessly
+  integrates relatable personal stories to help her audiences feel good about money.
+image: /uploads/maggie_speaking.jpg   
 is-menu: true
 quote-1:
   quote-text: Maggie brings a unique perspective, transformative knowledge, and seamlessly
