@@ -24,6 +24,10 @@ Plus, we knew we wanted to rent out our basement on Airbnb. The floors in the ba
 
 Like I said above, we knew from the beginning that we wanted to rent out our basement. In fact, we were specifically looking for houses with finished basements that had their own entrance. The problem was, the basement was finished, but had not been very well cared for. Everything was pretty filthy and there were some electrical hazards going on. 
 
+Not only did we re-do the floors, but we also repainted all of the walls. We got rid of the unsafe electric stove, the oversized refrigerator, and moved the sink to a more appropriate location. We bought the most adorable mini fridge, along with a microwave and electric kettle. Dan and his sister installed the backsplash in the kitchenette. 
+
+More recently, I noticed that one of the walls in the kitchenette had water damage and early signs of mold. I was a little in denial about it at first, but I eventually got a plumber to come take a look. It turns out, the floor of the shower was cracked and water was leaking into the floors and walls surrounding it. Not good! So for that past week or so, we've had a plumber working on completely demolishing and re-installing the shower. It costs a pretty penny, but it's better than water and mold damage. Plus, now the shower will be done right and will look great. 
+
 ## Opening Up the Living Room
 
 When we bought the house, the living room was very narrow. It wasn't really possible to have a couch facing the television if you put it above the mantle. Plus, the doorway was a double door situation that jutted into the room, and we didn't think that was necessary at all. We hired contractors (more on them below) to knock down the entryway and move the back wall of the living room out by five feet. The room behind the living room is now my office, but it had been an oversized bedroom. It's still a pretty big room; almost too big for my home office. Opening up the living room made it much more functional and spacious. 
