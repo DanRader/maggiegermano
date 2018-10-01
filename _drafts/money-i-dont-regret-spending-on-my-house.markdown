@@ -18,11 +18,11 @@ We decided to put 10% down for the downpayment so that we'd have money leftover 
 
 When we first bought our house, the living room floor was all parkay. When you walked through the living room and into the kitchen, it morphed into a large, tan tile with black grout. That tile continued on into the dining room. I hated everything about those floors. I couldn't imagine living in a house that was almost entirely parkay and tile. I felt that having the floors redone would instantly make the house feel more like our own.
 
-Plus, we knew we wanted to rent out our basement on Airbnb. The floors in the basement were reminiscent of elementary school floors back in the 80s and 90s. They were ugly and dirty.
+Plus, we knew we wanted to rent out our basement on Airbnb. The floors in the basement were reminiscent of elementary school floors back in the 80s and 90s. They were ugly and dirty. Plus, it turns out that the type of tile used likely had asbestos in it. So we wanted to make sure to update the floors. It's incredibly expensive to mitigate asbestos, but the floors are safe as long as you don't drill or nail into them. So we had luxury vinyl flooring put over the floors in the entire basement. It's easy to clean and looks like gray hardwood. It made the basement look like a whole new space.
 
 ## Fixing Up the Basement
 
-Like I said above, we knew from the beginning that we wanted to rent out our basement. In fact, we were specifically looking for houses with finished basements that had their own entrance. The problem was, the basement had not been very well cared for. Everything was
+Like I said above, we knew from the beginning that we wanted to rent out our basement. In fact, we were specifically looking for houses with finished basements that had their own entrance. The problem was, the basement was finished, but had not been very well cared for. Everything was pretty filthy and there were some electrical hazards going on. 
 
 ## Opening Up the Living Room
 
