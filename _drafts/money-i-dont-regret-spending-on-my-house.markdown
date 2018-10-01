@@ -20,6 +20,8 @@ Plus, we knew we wanted to rent out our basement on Airbnb. The floors in the ba
 
 ## Fixing Up the Basement
 
+Like I said above, we knew from the beginning that we wanted to rent out our basement. In fact, we were specifically looking for houses with finished basements that had their own entrance. The problem was, the basement had not been very well cared for. Everything was 
+
 ## Opening Up the Living Room
 
 Now, don't get me wrong, I definitely have some regrets. The contractor that we used for the bulk of the work when we first bought the house definitely overcharged us. By the end of that (very long) process, we felt taken advantage of and foolish. We paid way too much to get new counters installed, and they didn't even check with us before they purchased the counters and new sink. The sink is much smaller than we wanted, but at this point, we don't want to spend more money on this area.
