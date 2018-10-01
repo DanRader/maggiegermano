@@ -1,9 +1,6 @@
 ---
 title: Public Speaking & Workshops
 date: 2018-03-26 15:14:00 -04:00
-excerpt: Maggie brings a unique perspective, transformative knowledge, and seamlessly
-  integrates relatable personal stories to help her audiences feel good about money.
-image: /uploads/maggie_speaking.jpg   
 is-menu: true
 quote-1:
   quote-text: Maggie brings a unique perspective, transformative knowledge, and seamlessly
@@ -33,7 +30,7 @@ quote-4:
 speaker-topics: |-
   ## Speaker Topics
 
-  Perfect for someone just looking to get pointed in the right direction or looking for answers to specific questions.
+  Maggie is happy to speak about many different topics related to money, but here are some specifics:
 
   * Salary negotiation and knowing your worth
   * Budgeting 101
@@ -42,6 +39,7 @@ speaker-topics: |-
   * How to save for your life goals
   * Why your money mindset is important
   * How to talk about money
+  * Love and money
 workshops: |-
   ## Workshops
 
