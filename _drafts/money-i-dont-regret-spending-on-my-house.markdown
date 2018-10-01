@@ -24,4 +24,8 @@ Like I said above, we knew from the beginning that we wanted to rent out our bas
 
 ## Opening Up the Living Room
 
+When we bought the house, the living room was very narrow. It wasn't really possible to have a couch facing the television if you put it above the mantle. 
+
+## But, There Were Some Regrets...
+
 Now, don't get me wrong, I definitely have some regrets. The contractor that we used for the bulk of the work when we first bought the house definitely overcharged us. By the end of that (very long) process, we felt taken advantage of and foolish. We paid way too much to get new counters installed, and they didn't even check with us before they purchased the counters and new sink. The sink is much smaller than we wanted, but at this point, we don't want to spend more money on this area.
