@@ -30,7 +30,7 @@ quote-4:
 speaker-topics: |-
   ## Speaker Topics
 
-  Perfect for someone just looking to get pointed in the right direction or looking for answers to specific questions.
+  Maggie is happy to speak about many different topics related to money, but here are some specifics:
 
   * Salary negotiation and knowing your worth
   * Budgeting 101
@@ -39,6 +39,7 @@ speaker-topics: |-
   * How to save for your life goals
   * Why your money mindset is important
   * How to talk about money
+  * Love and money
 workshops: |-
   ## Workshops
 
