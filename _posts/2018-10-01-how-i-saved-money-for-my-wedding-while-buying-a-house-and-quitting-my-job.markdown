@@ -1,7 +1,6 @@
 ---
 title: How I Saved Money for My Wedding (While Buying a House and Quitting My Job)
 date: 2018-10-01 11:00:00 -04:00
-published: false
 categories:
 - savings
 - lifestyle
