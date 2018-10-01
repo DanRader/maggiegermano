@@ -13,7 +13,7 @@ posts:
 - How I'm Incorporating My Values Into My Wedding
 ---
 
-If you've been following me at all in the past year, you know I've been going through a lot of changes. I got engaged, I bought a house, and I quit my day job. These are all very financially risky and stressful changes to make, especially all at once! But I also wasn't willing to give up or substantially delay any of these big changes. I wanted to buy a house before quitting my job so that we weren't given a hard time by the mortgage lender. I also couldn't imagine going into 2018 still employed at my day job. And I didn't want to put off getting married beyond 2018 (I turned 30 last year and suddenly felt like there wasn't a ton of time to spare). 
+If you've been following me at all in the past year, you know I've been going through a lot of changes. I got engaged, I bought a house, and I quit my day job. These are all very financially risky and stressful changes to make, especially all at once! But I also wasn't willing to give up or substantially delay any of these big changes. I wanted to buy a house before quitting my job so that we weren't given a hard time by the mortgage lender. I also couldn't imagine going into 2018 still employed at my day job. And I didn't want to put off getting married beyond 2018 (I turned 30 last year and suddenly felt like there wasn't a ton of time to spare).
 
 All of these changes are pretty expensive, so we had to be pretty strategic to afford them all. This is especially true when it came to saving for our wedding. Weddings are expensive and we had a specific dream in mind for ours. It ended up being a lot more expensive than I expected, but we made it work and have saved the full amount months ahead of the wedding. Here's how we did it!
 
@@ -25,13 +25,13 @@ I immediately put over 10% of that settlement into a savings account earmarked f
 
 ## I Saved 20% of My Take-Home Pay
 
-For the last four months of my time at my day job, I saved about 20% of my take-home pay for the wedding. That amounted to about $700 a month, so by the time I left the job at the end of December, I had saved $2,100 for the wedding from my paycheck. 
+For the last four months of my time at my day job, I saved about 20% of my take-home pay for the wedding. That amounted to about $700 a month, so by the time I left the job at the end of December, I had saved $2,100 for the wedding from my paycheck.
 
-I think this is one of the best ways to save up a lot of money over time, if you have the money to spare. Set up direct deposit from your paychecks and save a percentage each month. You can do this for any goal, whether it's building up  your emergency savings account or saving up for a trip. 
+I think this is one of the best ways to save up a lot of money over time, if you have the money to spare. Set up direct deposit from your paychecks and save a percentage each month. You can do this for any goal, whether it's building up  your emergency savings account or saving up for a trip.
 
-## We Saved Our Tax Returns
+## We Saved Our Tax Refunds
 
-Since Dan and I were both fully employed in 2017, we both received tax refunds in April. 2017 was the last year that we could meaningfully write off the interest on our mortgage payments and real estate taxes. We also wrote off the start-up costs we incurred for getting our Airbnb up to snuff. These write-offs helped increase our tax refund. We put those refunds directly into our wedding fund. 
+Since Dan and I were both fully employed in 2017, we both received tax refunds in April. 2017 was the last year that we could meaningfully write off the interest on our mortgage payments and real estate taxes. We also wrote off the start-up costs we incurred for getting our Airbnb up to snuff. These write-offs helped increase our tax refund. We put those refunds directly into our wedding fund.
 
 Are you wondering what you should do with your tax refund? [Here's what I think](https://maggiegermano.com/blog/heres-how-you-should-use-your-tax-refund/)!
 
