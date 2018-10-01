@@ -14,14 +14,18 @@ Last September, my fiance, Dan, and I closed on a house near Hyattsville, MD. It
 
 ## Redoing the Floors
 
-When we first bought our house, the living room floor was all parkay. When you walked through the living room and into the kitchen, it morphed into a large, tan tile with black grout. That tile continued on into the dining room. I hated everything about those floors. I couldn't imagine living in a house that was almost entirely parkay and tile. I felt that having the floors redone would instantly make the house feel more like our own. 
+When we first bought our house, the living room floor was all parkay. When you walked through the living room and into the kitchen, it morphed into a large, tan tile with black grout. That tile continued on into the dining room. I hated everything about those floors. I couldn't imagine living in a house that was almost entirely parkay and tile. I felt that having the floors redone would instantly make the house feel more like our own.
 
-Plus, we knew we wanted to rent out our basement on Airbnb. The floors in the basement were reminiscent of elementary school floors back in the 80s and 90s. They were ugly and dirty. 
+Plus, we knew we wanted to rent out our basement on Airbnb. The floors in the basement were reminiscent of elementary school floors back in the 80s and 90s. They were ugly and dirty.
 
 ## Fixing Up the Basement
 
-Like I said above, we knew from the beginning that we wanted to rent out our basement. In fact, we were specifically looking for houses with finished basements that had their own entrance. The problem was, the basement had not been very well cared for. Everything was 
+Like I said above, we knew from the beginning that we wanted to rent out our basement. In fact, we were specifically looking for houses with finished basements that had their own entrance. The problem was, the basement had not been very well cared for. Everything was
 
 ## Opening Up the Living Room
+
+When we bought the house, the living room was very narrow. It wasn't really possible to have a couch facing the television if you put it above the mantle. Plus, the doorway was a double door situation that jutted into the room, and we didn't think that was necessary at all. We hired contractors (more on them below) to knock down the entryway and move the back wall of the living room out by five feet. The room behind the living room is now my office, but it had been an oversized bedroom. It's still a pretty big room; almost too big for my home office. Opening up the living room made it much more functional and spacious. 
+
+## But, There Were Some Regrets...
 
 Now, don't get me wrong, I definitely have some regrets. The contractor that we used for the bulk of the work when we first bought the house definitely overcharged us. By the end of that (very long) process, we felt taken advantage of and foolish. We paid way too much to get new counters installed, and they didn't even check with us before they purchased the counters and new sink. The sink is much smaller than we wanted, but at this point, we don't want to spend more money on this area.
