@@ -5,6 +5,8 @@ published: false
 categories:
 - lifestyle
 image: "/uploads/living%20room.jpg"
+tweet: We spent a lot of money on renovations when we first bought our house. But
+  were they all worth it?
 posts:
 - How I Saved Money for My Wedding (While Buying a House and Quitting My Job)
 - What I Wish I'd Known Before Buying a Home
