@@ -1,6 +1,7 @@
 ---
 title: Money I Don't Regret Spending on My House
 date: 2018-10-08 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 image: "/uploads/living%20room.jpg"
@@ -39,8 +40,8 @@ When we bought the house, the living room was very narrow. It wasn't really poss
 
 ## But, There Were Some Regrets...
 
-Now, don't get me wrong, I definitely have some regrets. The contractor that we used for the bulk of the work when we first bought the house definitely overcharged us. By the end of that (very long) process, we felt taken advantage of and foolish. We paid way too much to get new counters installed, and they didn't even check with us before they purchased the counters and new sink. The sink is much smaller than we wanted, but at this point, we don't want to spend more money on this area.
+Now, don't get me wrong, I definitely have some regrets. The contractor that we used for the bulk of the work when we first bought the house definitely overcharged us. By the end of that (very long) process, we felt taken advantage of and foolish. We paid way too much to get new counters installed, and they didn't even check with us before they purchased the counters and new sink. The sink is much smaller than we wanted, but at this point, we don't want to spend more money on this area. We also had them build and install new hand railings by the stairs, and they did a really hacky job, while refusing to give us a discount that was more than a couple hundred dollars.
 
-I think the main lesson we learned was that we tried to do too much at once. We should have been incremental in our renovations. That would have saved us money and definitely a lot of stress. We were so excited to get everything done at once, and we had (misplaced) trust in our contractor, so we went full speed ahead. If I had to do it over, I would have opened up the living room, redone the floors, and then paused to assess our next steps.
+I think the main lesson we learned was that we tried to do too much at once. We should have been incremental in our renovations. That would have saved us money and definitely a lot of stress. We were so excited to get everything done at once, and we had (misplaced) trust in our contractor, so we went full speed ahead. If I had to do it over, I would have opened up the living room, redone the floors, and then paused to assess our next steps. We could have been much more discerning in our decisions.
 
 *Have you ever been through a home renovation? Share in the comments!*
