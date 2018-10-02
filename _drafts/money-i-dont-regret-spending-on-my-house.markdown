@@ -32,7 +32,10 @@ So not only has all of this work helped us to actually earn money back through A
 
 ## Opening Up the Living Room
 
-When we bought the house, the living room was very narrow. It wasn't really possible to have a couch facing the television if you put it above the mantle. Plus, the doorway was a double door situation that jutted into the room, and we didn't think that was necessary at all. We hired contractors (more on them below) to knock down the entryway and move the back wall of the living room out by five feet. The room behind the living room is now my office, but it had been an oversized bedroom. It's still a pretty big room; almost too big for my home office. Opening up the living room made it much more functional and spacious.
+When we bought the house, the living room was very narrow. It wasn't really possible to have a couch facing the television if you put it above the mantle. Plus, the doorway was a double door situation that jutted into the room, and we didn't think that was necessary at all. We hired contractors (more on them below) to knock down the entryway and move the back wall of the living room out by five feet. The room behind the living room is now my office, but it had been an oversized bedroom. It's still a pretty big room; almost too big for my home office. Opening up the living room made it much more functional and spacious, without sacrificing the usability of the office.
+
+![BBF2547B-00C4-42DD-9C33-9EDD5E9C466B.JPG](/uploads/BBF2547B-00C4-42DD-9C33-9EDD5E9C466B.JPG)\
+*On the left are the before pictures of the living room and dining room. On the right are the after pictures. You can see how we opened up the space and updated the floors.*
 
 ## But, There Were Some Regrets...
 
