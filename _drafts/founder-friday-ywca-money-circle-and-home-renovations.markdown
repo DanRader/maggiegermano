@@ -46,6 +46,8 @@ This week, I wrote about how I saved up for my wedding while doing lots of other
 
 * Dan and I are heading to Los Angeles next weekend. (I know, wtf are we doing traveling less than a month before the wedding?) But Dan was invited to attend a conference for free, including his flight and hotel stay, so I used Southwest points to join him. I'm meeting up with a couple fellow women in finance while I'm there. What else should I be sure to do?
 
+![Screen Shot 2018-10-01 at 1.10.28 PM.png](/uploads/Screen%20Shot%202018-10-01%20at%201.10.28%20PM.png)
+
 ## **Money Tip to Take Into the Weekend**
 
 ![Have a good Vesak!.png](/uploads/Have%20a%20good%20Vesak!.png)
