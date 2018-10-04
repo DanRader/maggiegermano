@@ -3,6 +3,7 @@ title: Founder Friday | YWCA, Money Circle, and Home Renovations
 date: 2018-10-05 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/rawpixel-780507-unsplash.jpg"
 ---
 
 Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
