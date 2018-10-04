@@ -12,7 +12,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * We had two sets of Airbnb guests this week.
 
-* One of my new clients paid for her first month of coaching.
+* Three of my new clients paid for their first month of [coaching](https://www.maggiegermano.com/coaching/).
 
 ## **How I Spent Money This Week**
 
@@ -39,6 +39,8 @@ This week, I wrote about how I saved up for my wedding while doing lots of other
 * If you can't make it to Money Circle this month, join us in [December](https://www.eventbrite.com/e/money-circle-how-to-plan-for-holiday-spending-tickets-50456857820) to talk about how to plan ahead for holiday spending. You'll be super prepared for next year!
 
 ## **What I’m Excited About**
+
+* My [speaker page](https://www.maggiegermano.com/speaking/) is up and live on my website! I'm expanding my business to include more public speaking and workshops. I want to reach more women to spread financial literacy at a level that is more affordable and accessible for them. [Check it out](https://www.maggiegermano.com/speaking/) and reach out if you'd like to hire me for your event!
 
 * My wedding is coming up in just over a month! I'm really excited for the day to finally be here. I'm also incredibly excited to no longer be planning a wedding. It's not for the faint of heart. 
 
