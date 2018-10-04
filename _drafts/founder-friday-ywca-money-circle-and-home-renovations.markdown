@@ -4,6 +4,10 @@ date: 2018-10-05 14:00:00 -04:00
 categories:
 - founder friday
 image: "/uploads/rawpixel-780507-unsplash.jpg"
+posts:
+- Founder Friday | FinCon, Women's Empowerment, and Harry Potter
+- Founder Friday | Meal Delivery, Reproductive Health, and Self Worth
+- Founder Friday | Budgeting, Lifestyle Creep, and Airbnb
 ---
 
 Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
