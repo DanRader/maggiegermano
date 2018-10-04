@@ -20,6 +20,8 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * I mentioned before that Dan and I are using [Sun Basket](https://sunbasket.com/invite/Mary1915063) for meal delivery until the wedding. We've been so stressed with all the life things going on that we haven't been able to feed ourselves healthy food. So we were charged this week for next week's meals. Use [my link](https://sunbasket.com/invite/Mary1915063) to sign up for $40 off your first order!
 
+* I spent Wednesday in the city for meetings and the YWCA event. I bought a couple cups of tea and a chocolate chip scone (yum). 
+
 ## **What I’m Writing**
 
 This week, I wrote about how I saved up for my wedding while doing lots of other expensive things! [Check it out.](https://www.maggiegermano.com/blog/how-i-saved-money-for-my-wedding-while-buying-a-house-and-quitting-my-job/)
