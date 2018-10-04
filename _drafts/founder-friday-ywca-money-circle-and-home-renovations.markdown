@@ -16,7 +16,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## **How I Spent Money This Week**
 
-* I think I mentioned this last week, but we had to get our basement shower completely demolished and rebuilt. The floor was cracked and leaking into the surrounding walls and floor. We paid the deposit for the work last week and the remaining balance this week. Thank goodness it's tax deductible as a business expense. Not only did we have to pay the contractor, but we also had to buy extra 
+* I think I mentioned this last week, but we had to get our basement shower completely demolished and rebuilt. The floor was cracked and leaking into the surrounding walls and floor. We paid the deposit for the work last week and the remaining balance this week. Thank goodness it's tax deductible as a business expense. Not only did we have to pay the contractor, but we also had to buy extra paint to touch up the parts of the kitchen that needed to be re-patched.
 
 * I mentioned before that Dan and I are using [Sun Basket](https://sunbasket.com/invite/Mary1915063) for meal delivery until the wedding. We've been so stressed with all the life things going on that we haven't been able to feed ourselves healthy food. So we were charged this week for next week's meals. Use [my link](https://sunbasket.com/invite/Mary1915063) to sign up for $40 off your first order!
 
@@ -38,8 +38,12 @@ This week, I wrote about how I saved up for my wedding while doing lots of other
 
 ## **What I’m Excited About**
 
-xx
+* My wedding is coming up in just over a month! I'm really excited for the day to finally be here. I'm also incredibly excited to no longer be planning a wedding. It's not for the faint of heart. 
+
+* Dan and I are heading to Los Angeles next weekend. (I know, wtf are we doing traveling less than a month before the wedding?) But Dan was invited to attend a conference for free, including his flight and hotel stay, so I used Southwest points to join him. I'm meeting up with a couple fellow women in finance while I'm there. What else should I be sure to do?
 
 ## **Money Tip to Take Into the Weekend**
+
+![Have a good Vesak!.png](/uploads/Have%20a%20good%20Vesak!.png)
 
 That’s all from me today! Have a fantastic weekend!
