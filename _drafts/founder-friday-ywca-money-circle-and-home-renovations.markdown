@@ -15,7 +15,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## **How I Spent Money This Week**
 
-* I think I mentioned this last week, but we had to get our basement shower completely demolished and rebuilt. The floor was cracked and leaking into the surrounding walls and floor. We paid the deposit for the work last week and the remaining balance this week. Thank goodness it's tax deductible as a business expense.
+* I think I mentioned this last week, but we had to get our basement shower completely demolished and rebuilt. The floor was cracked and leaking into the surrounding walls and floor. We paid the deposit for the work last week and the remaining balance this week. Thank goodness it's tax deductible as a business expense. Not only did we have to pay the contractor, but we also had to buy extra 
 
 * I mentioned before that Dan and I are using [Sun Basket](https://sunbasket.com/invite/Mary1915063) for meal delivery until the wedding. We've been so stressed with all the life things going on that we haven't been able to feed ourselves healthy food. So we were charged this week for next week's meals. Use [my link](https://sunbasket.com/invite/Mary1915063) to sign up for $40 off your first order!
 
