@@ -15,9 +15,9 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## **How I Spent Money This Week**
 
-* I think I mentioned this last week, but we had to get our basement shower completely demolished and rebuilt. The floor was cracked and leaking into the surrounding walls and floor. We paid the deposit for the work last week and the remaining balance this week. Thank goodness it's tax deductible as a business expense.
+* I think I mentioned this last week, but we had to get our basement shower completely demolished and rebuilt. The floor was cracked and leaking into the surrounding walls and floor. We paid the deposit for the work last week and the remaining balance this week. Thank goodness it's tax deductible as a business expense. Not only did we have to pay the contractor, but we also had to buy extra 
 
-* c
+* I mentioned before that Dan and I are using [Sun Basket](https://sunbasket.com/invite/Mary1915063) for meal delivery until the wedding. We've been so stressed with all the life things going on that we haven't been able to feed ourselves healthy food. So we were charged this week for next week's meals. Use [my link](https://sunbasket.com/invite/Mary1915063) to sign up for $40 off your first order!
 
 ## **What I’m Writing**
 
@@ -27,7 +27,7 @@ This week, I wrote about how I saved up for my wedding while doing lots of other
 
 * This past Wednesday, I spoke at the YWCA NCA Young Women's Leadership Council's [Women, Wealth, and Wine](https://www.facebook.com/events/261331111177190/). I talked with two groups of women about paying down debt, and had a great time!
 
-* I'm participating in a salary negotiation workshop for the [Public Leadership Education Network](https://plen.org/) (PLEN) on Saturday, October 20th. I'm excited to chat with college students about negotiating for their future. 
+* I'm participating in a salary negotiation workshop for the [Public Leadership Education Network](https://plen.org/) (PLEN) on Saturday, October 20th. I'm excited to chat with college students about negotiating for their future.
 
 * I'm joining Emilie Aries for a [live podcast taping](https://www.facebook.com/events/177486379757315/) of the Bossed Up podcast on Monday, October 22nd! We'll be talking all about women and money. Tickets are free - [see you there](https://www.facebook.com/events/177486379757315/)?
 
