@@ -4,6 +4,10 @@ date: 2018-10-05 14:00:00 -04:00
 categories:
 - founder friday
 image: "/uploads/rawpixel-780507-unsplash.jpg"
+posts:
+- Founder Friday | FinCon, Women's Empowerment, and Harry Potter
+- Founder Friday | Meal Delivery, Reproductive Health, and Self Worth
+- Founder Friday | Budgeting, Lifestyle Creep, and Airbnb
 ---
 
 Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
@@ -12,7 +16,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * We had two sets of Airbnb guests this week.
 
-* One of my new clients paid for her first month of coaching.
+* Three of my new clients paid for their first month of [coaching](https://www.maggiegermano.com/coaching/).
 
 ## **How I Spent Money This Week**
 
@@ -40,9 +44,13 @@ This week, I wrote about how I saved up for my wedding while doing lots of other
 
 ## **What I’m Excited About**
 
+* My [speaker page](https://www.maggiegermano.com/speaking/) is up and live on my website! I'm expanding my business to include more public speaking and workshops. I want to reach more women to spread financial literacy at a level that is more affordable and accessible for them. [Check it out](https://www.maggiegermano.com/speaking/) and reach out if you'd like to hire me for your event!
+
 * My wedding is coming up in just over a month! I'm really excited for the day to finally be here. I'm also incredibly excited to no longer be planning a wedding. It's not for the faint of heart. 
 
 * Dan and I are heading to Los Angeles next weekend. (I know, wtf are we doing traveling less than a month before the wedding?) But Dan was invited to attend a conference for free, including his flight and hotel stay, so I used Southwest points to join him. I'm meeting up with a couple fellow women in finance while I'm there. What else should I be sure to do?
+
+![Screen Shot 2018-10-01 at 1.10.28 PM.png](/uploads/Screen%20Shot%202018-10-01%20at%201.10.28%20PM.png)
 
 ## **Money Tip to Take Into the Weekend**
 
