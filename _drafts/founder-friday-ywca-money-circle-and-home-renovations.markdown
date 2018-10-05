@@ -16,15 +16,17 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * We had two sets of Airbnb guests this week.
 
-* Three of my new clients paid for their first month of [coaching](https://www.maggiegermano.com/coaching/).
+* Two of my new clients paid for their first month of [coaching](https://www.maggiegermano.com/coaching/).
 
 ## **How I Spent Money This Week**
 
-* I think I mentioned this last week, but we had to get our basement shower completely demolished and rebuilt. The floor was cracked and leaking into the surrounding walls and floor. We paid the deposit for the work last week and the remaining balance this week. Thank goodness it's tax deductible as a business expense. Not only did we have to pay the contractor, but we also had to buy extra paint to touch up the parts of the kitchen that needed to be re-patched.
+* I think I mentioned this last week, but we had to get our basement shower completely demolished and rebuilt. The floor was cracked and leaking into the surrounding walls and floor. We paid the deposit for the work last week and the remaining balance this week. Thank goodness it's tax deductible as a business expense. Not only did we have to pay the contractor, but we also had to buy extra paint to touch up the parts of the bathroom that needed to be re-patched.
 
-* I mentioned before that Dan and I are using [Sun Basket](https://sunbasket.com/invite/Mary1915063) for meal delivery until the wedding. We've been so stressed with all the life things going on that we haven't been able to feed ourselves healthy food. So we were charged this week for next week's meals. Use [my link](https://sunbasket.com/invite/Mary1915063) to sign up for $40 off your first order!
+* I mentioned before that Dan and I are using [Sun Basket](https://sunbasket.com/invite/Mary1915063) for meal delivery until the wedding. We've been so stressed with all the life things going on that we haven't been able to feed ourselves healthy food. So we were charged this week for next week's meals. **Use [my link](https://sunbasket.com/invite/Mary1915063) to sign up for $40 off your first order!**
 
 * I spent Wednesday in the city for meetings and the YWCA event. I bought a couple cups of tea and a chocolate chip scone (yum). 
+
+* The [Unladylike book](https://www.amazon.com/Unladylike-Field-Smashing-Patriarchy-Claiming/dp/039958045X) came out on Tuesday! I bought the book for myself and can't wait to get started. If you don't already listen to the [Unladylike podcast](https://unladylike.co/), you must start. And then check out the book!
 
 ## **What I’m Writing**
 
