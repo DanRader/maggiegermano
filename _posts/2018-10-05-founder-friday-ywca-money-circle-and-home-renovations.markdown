@@ -28,6 +28,10 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * The [Unladylike book](https://www.amazon.com/Unladylike-Field-Smashing-Patriarchy-Claiming/dp/039958045X) came out on Tuesday! I bought the book for myself and can't wait to get started. If you don't already listen to the [Unladylike podcast](https://unladylike.co/), you must start. And then check out the book!
 
+* Dan bought me a bicycle over the summer. I've never been a big cyclist, but I've been enjoying going on long rides with Dan on the bike trail near our house. One problem: my butt hurts during and afterwards! I bought some [padded cycling shorts](https://smile.amazon.com/gp/product/B076Y2JW1X/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1) this week to help make my rides more comfortable. I'll report back!
+
+![IMG_9211.JPG](/uploads/IMG_9211.JPG)
+
 ## **What I’m Writing**
 
 This week, I wrote about how I saved up for my wedding while doing lots of other expensive things! [Check it out.](https://www.maggiegermano.com/blog/how-i-saved-money-for-my-wedding-while-buying-a-house-and-quitting-my-job/)
@@ -43,6 +47,8 @@ This week, I wrote about how I saved up for my wedding while doing lots of other
 * Next month, [Money Circle](https://www.maggiegermano.com/moneycircle/) is meeting to talk about [how to ask for a raise](https://www.maggiegermano.com/events/how-to-ask-for-a-raise/) at your current job. If you know you’ll have to do this soon, [join us](https://www.eventbrite.com/e/money-circle-how-to-ask-for-a-raise-tickets-49618103082) on October 24th!
 
 * If you can't make it to Money Circle this month, join us in [December](https://www.eventbrite.com/e/money-circle-how-to-plan-for-holiday-spending-tickets-50456857820) to talk about how to plan ahead for holiday spending. You'll be super prepared for next year!
+
+![IMG_9175.JPG](/uploads/IMG_9175.JPG)
 
 ## **What I’m Excited About**
 
