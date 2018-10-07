@@ -45,4 +45,4 @@ Now, don't get me wrong, I definitely have some regrets. The contractor that we 
 
 I think the main lesson we learned was that we tried to do too much at once. We should have been incremental in our renovations. That would have saved us money and definitely a lot of stress. We were so excited to get everything done at once, and we had (misplaced) trust in our contractor, so we went full speed ahead. If I had to do it over, I would have opened up the living room, redone the floors, and then paused to assess our next steps. We could have been much more discerning in our decisions.
 
-*Have you ever been through a home renovation? Share in the comments!*
+*Have you ever been through a home renovation? Share in the comments!* 
