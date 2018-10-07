@@ -32,6 +32,12 @@ More recently, I noticed that one of the walls in the kitchenette had water dama
 
 So not only has all of this work helped us to actually earn money back through Airbnb, but now it is a much more pleasant space for us and for our family and friends when they visit.
 
+![2017-10-09 09.50.59.JPG](/uploads/2017-10-09%2009.50.59.JPG)\
+*The basement bedroom before we made all our updates.*
+
+![2018-02-05 17.12.33 (1).jpg](/uploads/2018-02-05%2017.12.33%20(1).jpg)\
+*The basement kitchenette after all our updates!*
+
 ## Opening Up the Living Room
 
 When we bought the house, the living room was very narrow. It wasn't really possible to have a couch facing the television if you put it above the mantle. Plus, the doorway was a double door situation that jutted into the room, and we didn't think that was necessary at all. We hired contractors (more on them below) to knock down the entryway and move the back wall of the living room out by five feet. The room behind the living room is now my office, but it had been an oversized bedroom. It's still a pretty big room; almost too big for my home office. Opening up the living room made it much more functional and spacious, without sacrificing the usability of the office.
@@ -45,4 +51,4 @@ Now, don't get me wrong, I definitely have some regrets. The contractor that we 
 
 I think the main lesson we learned was that we tried to do too much at once. We should have been incremental in our renovations. That would have saved us money and definitely a lot of stress. We were so excited to get everything done at once, and we had (misplaced) trust in our contractor, so we went full speed ahead. If I had to do it over, I would have opened up the living room, redone the floors, and then paused to assess our next steps. We could have been much more discerning in our decisions.
 
-*Have you ever been through a home renovation? Share in the comments!* 
+*Have you ever been through a home renovation? Share in the comments!*
