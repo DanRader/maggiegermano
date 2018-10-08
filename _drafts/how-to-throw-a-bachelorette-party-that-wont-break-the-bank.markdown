@@ -21,15 +21,19 @@ So what was my solution for having a fun bachelorette party that was also afford
 
 ## Stay Local
 
-It's become incredibly popular to have a destination bachelorette party. And I won't lie, I was tempted by the allure of travel myself. However, I decided it made more sense to stay local for my party. It was easier on everyone's wallets (including my own; I'm paying for a wedding in a month, afterall) and it made it easier to
+It's become incredibly popular to have a destination bachelorette party. And I won't lie, I was tempted by the allure of travel myself. However, I decided it made more sense to stay local for my party. It was easier on everyone's wallets (including my own; I'm paying for a wedding in a month, after all) and it made it easier to
 
 ![IMG_8307.JPG](/uploads/IMG_8307.JPG)
 
 ## Eat at Home
 
-Most of the attendees to my bachelorette party arrived on Friday evening (except for my cousin, Samantha, whose flight had to turn back!).
+Most of the attendees to my bachelorette party arrived on Friday evening (except for my cousin, Samantha, whose flight had to turn back!). Instead of going out to eat, Dan made us all his famous ramen. Not only was it delicious but it seriously cut down on costs. All the guests brought their own alcohol with them, so we had plenty to drink along with dinner.
+
+On the day of the bachelorette party, Dan made pancakes, eggs, and bacon for all of us. (Do you see why I'm marrying him?) 
 
 ## Choose free locations
+
+s
 
 ![IMG_8423.JPG](/uploads/IMG_8423.JPG)
 
