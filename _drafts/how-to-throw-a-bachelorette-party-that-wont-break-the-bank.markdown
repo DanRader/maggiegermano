@@ -15,20 +15,22 @@ posts:
 
 Last month, I celebrated my bachelorette party. I had only been to one or two bachelorette parties in the past, and they were usually very low-key. However, I have known a lot of people who have gone to a lot of bachelorette parties. The number one complaint that I hear is how expensive they can be. So money was at the front of my mind when planning mine. I didn't want anyone to feel like they couldn't afford to attend. I also didn't want anyone to feel resentful about attending and spending more money than they could comfortably afford.
 
-Ultimately, I think I worried a little bit too much about cost in the weeks before my bachelorette party. I likely would have had more fun planning it if I wasn't so anxious about people being okay with spending the money. However, I think it's important to be conscious and thoughtful about the differing financial situations of our loved ones. 
+Ultimately, I think I worried a little bit too much about cost in the weeks before my bachelorette party. I likely would have had more fun planning it if I wasn't so anxious about people being okay with spending the money. However, I think it's important to be conscious and thoughtful about the differing financial situations of our loved ones.
 
 So what was my solution for having a fun bachelorette party that was also affordable for my loved ones and myself?
 
 ## Stay Local
 
-It's become incredibly popular to have a destination bachelorette party. And I won't lie, I was tempted by the allure of travel myself. However, I decided it made more sense to stay local for my party. It was easier on everyone's wallets (including my own; I'm paying for a wedding in a month, afterall) and it made it easier to 
+It's become incredibly popular to have a destination bachelorette party. And I won't lie, I was tempted by the allure of travel myself. However, I decided it made more sense to stay local for my party. It was easier on everyone's wallets (including my own; I'm paying for a wedding in a month, afterall) and it made it easier to
+
+![IMG_8307.JPG](/uploads/IMG_8307.JPG)
 
 ## Eat at Home
 
-Most of the attendees to my bachelorette party arrived on Friday evening (except for my cousin, Samantha, whose flight had to turn back!). 
+Most of the attendees to my bachelorette party arrived on Friday evening (except for my cousin, Samantha, whose flight had to turn back!).
 
 ## Choose free locations
 
-
+![IMG_8423.JPG](/uploads/IMG_8423.JPG)
 
 ## Offer Multiple Options
