@@ -21,7 +21,7 @@ So what was my solution for having a fun bachelorette party that was also afford
 
 ## Stay Local
 
-It's become incredibly popular to have a destination bachelorette party. And I won't lie, I was tempted by the allure of travel myself. However, I decided it made more sense to stay local for my party. It was easier on everyone's wallets (including my own; I'm paying for a wedding in a month, afterall) and it made it easier to
+It's become incredibly popular to have a destination bachelorette party. And I won't lie, I was tempted by the allure of travel myself. However, I decided it made more sense to stay local for my party. It was easier on everyone's wallets (including my own; I'm paying for a wedding in a month, after all) and it made it easier to
 
 ![IMG_8307.JPG](/uploads/IMG_8307.JPG)
 
