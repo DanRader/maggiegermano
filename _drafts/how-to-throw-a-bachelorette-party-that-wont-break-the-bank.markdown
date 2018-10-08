@@ -31,6 +31,8 @@ Most of the attendees to my bachelorette party arrived on Friday evening (except
 
 ## Choose free locations
 
+s
+
 ![IMG_8423.JPG](/uploads/IMG_8423.JPG)
 
 ## Offer Multiple Options
