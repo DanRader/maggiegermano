@@ -15,6 +15,6 @@ posts:
 
 Last month, I celebrated my bachelorette party. I had only been to one or two bachelorette parties in the past, and they were usually very low-key. However, I have known a lot of people who have gone to a lot of bachelorette parties. The number one complaint that I hear is how expensive they can be. So money was at the front of my mind when planning mine. I didn't want anyone to feel like they couldn't afford to attend. I also didn't want anyone to feel resentful about attending and spending more money than they could comfortably afford. 
 
-Stay Local
+## Stay Local
 
-Offer Different Options
+## Offer Multiple Options
