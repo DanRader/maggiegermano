@@ -14,3 +14,5 @@ posts:
 ---
 
 Stay Local
+
+Offer Different Options
