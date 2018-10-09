@@ -31,6 +31,8 @@ Most of the attendees to my bachelorette party arrived on Friday evening (except
 
 On the day of the bachelorette party, Dan made pancakes, eggs, and bacon for all of us. (Do you see why I'm marrying him?) 
 
+After the day of breweries, we came back home and ordered Chinese takeout. Dan picked it up for us, and everyone Venmo-ed us for their portion of the food. It was delicious and we didn't have to go anywhere, and it only cost $120 for about 13 people. 
+
 ## Choose free locations
 
 s
@@ -39,4 +41,4 @@ s
 
 ## Offer Multiple Options
 
-I didn't do this for my 
+There were a couple friends who weren't able to commit the entire day to my bachelorette party, but they still wanted to be involved. So instead of joining us on the shuttle or at the breweries, they came over to my house afterwards. It was only 5pm by the time we got back home, so that left plenty of time for latecomers to hang out. 
