@@ -35,7 +35,7 @@ After the day of breweries, we came back home and ordered Chinese takeout. Dan p
 
 ## Choose free locations
 
-s
+Of course, renting the shuttle and buying beer cost money, but getting into the breweries themselves was free. 
 
 ![IMG_8423.JPG](/uploads/IMG_8423.JPG)
 
