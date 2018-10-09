@@ -35,10 +35,12 @@ After the day of breweries, we came back home and ordered Chinese takeout. Dan p
 
 ## Choose free locations
 
-s
+Of course, renting the shuttle and buying beer cost money, but getting into the breweries themselves was free. 
 
 ![IMG_8423.JPG](/uploads/IMG_8423.JPG)
 
 ## Offer Multiple Options
 
 There were a couple friends who weren't able to commit the entire day to my bachelorette party, but they still wanted to be involved. So instead of joining us on the shuttle or at the breweries, they came over to my house afterwards. It was only 5pm by the time we got back home, so that left plenty of time for latecomers to hang out. 
+
+A good friend of mine is in the process of planning her bachelorette party and she's doing something similar. We will likely go to a spa to get massages and/or facials, which might be a little pricier than some people are comfortable with. The solution there is that she's going to host a potluck dinner at her apartment afterwards. She will make it clear that there is no pressure to do both options, and that one or the other is completely fine.
