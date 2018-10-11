@@ -1,6 +1,6 @@
 ---
 title: Founder Friday | Doctors, Los Angeles and Wild Cozy Truth
-date: 2018-10-11 15:03:00 -04:00
+date: 2018-10-12 14:00:00 -04:00
 posts:
 - Founder Friday | YWCA, Money Circle, and Home Renovations
 - Founder Friday | FinCon, Women's Empowerment, and Harry Potter
