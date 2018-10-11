@@ -11,25 +11,25 @@ posts:
 
 Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
-**How I Earned Money This Week**
+## How I Earned Money This Week
 
 * x
 
 * x
 
-## **How I Spent Money This Week**
+## How I Spent Money This Week
+
+* Dan and I sent the final payment to both our photographer and florist this week. It doesn't feel great to be writing huge checks to multiple people, but it's nice to know that we already have all that money in the bank.
 
 * x
 
-* x
+## What I’m Writing
 
-## **What I’m Writing**
+This week, I got real about the money I've been spending on improving my house. I mostly focused on the money I don't regret spending, but I also talked a bit about the times I was a little foolish. And I'm sure there will be more times! [Check out the piece](https://www.maggiegermano.com/blog/money-i-dont-regret-spending-on-my-house/) and let me know what you think!
 
-xx
+## What I’m Up To
 
-## **What I’m Up To**
-
-* I was featured on the Wild Cozy Truth podcast with Renee M. Powers this week! We chatted about feminism, money, homebuying, and more. I loved chatting with Renee, so check it out and let me know what you think!
+* I was featured on the [Wild Cozy Truth podcast](https://www.wildcozytruth.com/single-post/2018/10/11/Episode-61-Why-Personal-Finance-is-a-Feminist-Issue-with-Maggie-Germano) with Renee M. Powers this week! We chatted about feminism, money, homebuying, and more. I loved chatting with Renee, so check it out and let me know what you think!
 
 * I’m participating in a salary negotiation workshop for the [Public Leadership Education Network](https://plen.org/) (PLEN) on Saturday, October 20th. I’m excited to chat with college students about negotiating for their future.
 
@@ -45,6 +45,8 @@ xx
 
 * Dan and I are heading to Los Angeles this weekend. I'm excited to meet up with a couple ladies in finance and get to know them better. I'm also super excited to go to the live show of Put Your Hands Together. If you haven't yet checked out that podcast, what are you waiting for??
 
-## **Money Tip to Take Into the Weekend**
+## Money Tip to Take Into the Weekend
+
+![Untitled design (5).png](/uploads/Untitled%20design%20(5).png)
 
 That’s all from me today! Have a fantastic weekend!
