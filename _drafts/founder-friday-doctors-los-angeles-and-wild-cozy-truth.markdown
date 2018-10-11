@@ -19,7 +19,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## **How I Spent Money This Week**
 
-* x
+* Dan and I sent the final payment to both our photographer and florist this week. It doesn't feel great to be writing huge checks to multiple people, but it's nice to know that we already have all that money in the bank.
 
 * x
 
