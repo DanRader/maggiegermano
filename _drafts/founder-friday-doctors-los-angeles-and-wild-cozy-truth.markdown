@@ -11,23 +11,23 @@ posts:
 
 Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
-**How I Earned Money This Week**
+## How I Earned Money This Week
 
 * x
 
 * x
 
-## **How I Spent Money This Week**
+## How I Spent Money This Week
 
 * Dan and I sent the final payment to both our photographer and florist this week. It doesn't feel great to be writing huge checks to multiple people, but it's nice to know that we already have all that money in the bank.
 
 * x
 
-## **What I’m Writing**
+## What I’m Writing
 
 xx
 
-## **What I’m Up To**
+## What I’m Up To
 
 * I was featured on the Wild Cozy Truth podcast with Renee M. Powers this week! We chatted about feminism, money, homebuying, and more. I loved chatting with Renee, so check it out and let me know what you think!
 
@@ -45,6 +45,6 @@ xx
 
 * Dan and I are heading to Los Angeles this weekend. I'm excited to meet up with a couple ladies in finance and get to know them better. I'm also super excited to go to the live show of Put Your Hands Together. If you haven't yet checked out that podcast, what are you waiting for??
 
-## **Money Tip to Take Into the Weekend**
+## Money Tip to Take Into the Weekend
 
 That’s all from me today! Have a fantastic weekend!
