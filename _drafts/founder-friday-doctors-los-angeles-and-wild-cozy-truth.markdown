@@ -14,15 +14,19 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## How I Earned Money This Week
 
-* x
+* We had a guest and his wife stay in our Airbnb until Wednesday this week. We have another guest arriving tomorrow and she's staying for a full week.
 
-* x
+* No business income this week, but I'm hounding two clients who need to pay their invoices, so fingers crossed!
 
 ## How I Spent Money This Week
 
 * Dan and I sent the final payment to both our photographer and florist this week. It doesn't feel great to be writing huge checks to multiple people, but it's nice to know that we already have all that money in the bank.
 
-* x
+* Dan bought the dress shirt he's going to wear at our rehearsal dinner. It's a really pretty, busy floral shirt that is exactly what he was looking for. We also bought a couple more wedding-related items. They were fairly low cost, but these things do add up, so I'm hoping we don't have to buy anything else!
+
+* We bought some more paint from Home Depot to finally paint our guest room. It's been a pale yellow that had become very discolored, so it feels good to repaint it. We also bought a new ceiling fan for that room, because my parents complained a little bit about it being stuffy in there.
+
+* I spent a lot of time working outside of the house this week. I somehow had meetings almost everyday this week. So I bought myself quite a bit of tea.
 
 ## What I’m Writing
 
