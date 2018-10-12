@@ -21,28 +21,30 @@ So what was my solution for having a fun bachelorette party that was also afford
 
 ## Stay Local
 
-It's become incredibly popular to have a destination bachelorette party. And I won't lie, I was tempted by the allure of travel myself. However, I decided it made more sense to stay local for my party. It was easier on everyone's wallets (including my own; I'm paying for a wedding in a month, after all) and it made it easier to
+It's become incredibly popular to have a destination bachelorette party. And I won't lie, I was tempted by the allure of travel myself. However, I decided it made more sense to stay local for my party. It was easier on everyone's wallets (including my own; I'm paying for a wedding in a month, after all) and it made it easier to organize it. So I had my sisters, two cousins, and besties from New York come down to Maryland. 
+
+I knew I wanted to go out and not just stay at home, so I decided to visit a few DC breweries. We were staying local and keeping the costs down, while still exploring fun places in DC. We rented a 12-person shuttle that picked us up at my house. My DC friends came over in the morning and hopped on the shuttle with us there. The plan was to start at DC Brau, go from there to Supreme Core cidery, and then end things at Atlas Brew Works. We never actually made it to Atlas, because we were having too much fun at the cidery, and only had the shuttle until 5pm.
 
 ![IMG_8307.JPG](/uploads/IMG_8307.JPG)
 
 ## Eat at Home
 
-Most of the attendees to my bachelorette party arrived on Friday evening (except for my cousin, Samantha, whose flight had to turn back!). Instead of going out to eat, Dan made us all his famous ramen. Not only was it delicious but it seriously cut down on costs. All the guests brought their own alcohol with them, so we had plenty to drink along with dinner.
+Most of the attendees to my bachelorette party arrived on Friday evening (except for my cousin, Samantha, whose flight had to turn back!). Instead of going out to eat, Dan made us all his famous ramen. Not only was it delicious but it seriously cut down on costs. All the guests brought their own alcohol with them, so we had plenty to drink along with dinner. 
 
-On the day of the bachelorette party, Dan made pancakes, eggs, and bacon for all of us. (Do you see why I'm marrying him?) 
+On the day of the bachelorette party, Dan made pancakes, eggs, and bacon for all of us. (Do you see why I'm marrying him?) I wanted to make sure we were all well fed before going on a brewery tour. 
 
-After the day of breweries, we came back home and ordered Chinese takeout. Dan picked it up for us, and everyone Venmo-ed us for their portion of the food. It was delicious and we didn't have to go anywhere, and it only cost $120 for about 13 people. 
+After the day of breweries, we came back home and ordered Chinese takeout. Dan picked it up for us, and everyone Venmo-ed us for their portion of the food. It was delicious and we didn't have to go anywhere, and it only cost $120 for about 13 people. I also bought a bunch of snacks at Costco, so there was an abundance of snacks on the shuttle during the day.
 
 ## Choose free locations
 
-Of course, renting the shuttle and buying beer cost money, but getting into the breweries themselves was free. 
+Of course, renting the shuttle and buying beer cost money, but getting into the breweries themselves was free.
 
 ![IMG_8423.JPG](/uploads/IMG_8423.JPG)
 
 ## Offer Multiple Options
 
-There were a couple friends who weren't able to commit the entire day to my bachelorette party, but they still wanted to be involved. So instead of joining us on the shuttle or at the breweries, they came over to my house afterwards. It was only 5pm by the time we got back home, so that left plenty of time for latecomers to hang out. 
+There were a couple friends who weren't able to commit the entire day to my bachelorette party, but they still wanted to be involved. So instead of joining us on the shuttle or at the breweries, they came over to my house afterwards. It was only 5pm by the time we got back home, so that left plenty of time for latecomers to hang out.
 
 A good friend of mine is in the process of planning her bachelorette party and she's doing something similar. We will likely go to a spa to get massages and/or facials, which might be a little pricier than some people are comfortable with. The solution there is that she's going to host a potluck dinner at her apartment afterwards. She will make it clear that there is no pressure to do both options, and that one or the other is completely fine.
 
-There are two important things to take away from this piece. It's important to have a bachelorette party that will make you happy. It's also important to be thoughtful other other people's circumstances, just to be a kind friend! 
+There are two important things to take away from this piece. It's important to have a bachelorette party that will make you happy. It's also important to be thoughtful other other people's circumstances, just to be a kind friend!
