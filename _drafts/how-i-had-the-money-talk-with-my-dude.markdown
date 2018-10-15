@@ -4,6 +4,10 @@ date: 2018-10-22 11:00:00 -04:00
 categories:
 - lifestyle
 image: "/uploads/bench.jpg"
+posts:
+- How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
+- How to Talk to Your Friends about Money
+- Stop Fighting About Money With Your Valentine
 ---
 
 One of the first articles I ever wrote about money was about how to have the [money talk](https://www.maggiegermano.com/blog/have-the-money-talk) with your romantic partner. It's so, so important to talk about money with the person you're sharing your life with. This sets expectations, opens up the conversation about your financial goals, and makes sure that everyone is on the same page.
