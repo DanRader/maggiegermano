@@ -17,29 +17,29 @@ Last month, I celebrated my bachelorette party. I had only been to one or two ba
 
 > I have known a lot of people who have gone to a lot of bachelorette parties. The number one complaint that I hear is how expensive they can be.
 
-Ultimately, I think I worried a little bit too much about cost in the weeks before my bachelorette party. I likely would have had more fun planning it if I wasn't so anxious about people being okay with spending the money. However, I think it's important to be conscious and thoughtful about the differing financial situations of our loved ones.
+Ultimately, I think I worried a little bit too much about cost in the weeks before my bachelorette party. I likely would have had more fun planning it if I wasn't so anxious about people being okay with spending the money. However, I do think it's important to be conscious and thoughtful about the differing financial situations of our loved ones.
 
-So what was my solution for having a fun bachelorette party that was also affordable for my loved ones and myself?
+So what was my solution for having a fun bachelorette party that was also affordable for my loved ones and also myself?
 
 ## Stay Local
 
 It's become incredibly popular to have a destination bachelorette party. And I won't lie, I was tempted by the allure of travel myself. However, I decided it made more sense to stay local for my party. It was easier on everyone's wallets (including my own; I'm paying for a wedding in a month, after all) and it made it easier to organize it. So I had my sisters, two cousins, and besties from New York come down to Maryland. 
 
-I knew I wanted to go out and not just stay at home, so I decided to visit a few DC breweries. We were staying local and keeping the costs down, while still exploring fun places in DC. We rented a 12-person shuttle that picked us up at my house. My DC friends came over in the morning and hopped on the shuttle with us there. The plan was to start at DC Brau, go from there to Supreme Core cidery, and then end things at Atlas Brew Works. We never actually made it to Atlas, because we were having too much fun at the cidery, and only had the shuttle until 5pm.
+I knew I wanted to go out and not just stay at home, so I decided we would visit a few DC breweries. We were staying local and keeping the costs down, while still exploring fun places in DC. We rented a 12-person shuttle that picked us up at my house. My DC friends came over in the morning and hopped on the shuttle with us there. The plan was to start at [DC Brau](https://dcbrau.com/), go from there to [Supreme Core Cider](https://supremecorecider.com/), and then finish up at [Atlas Brew Works](http://www.atlasbrewworks.com/). We never actually made it to Atlas, because we were having too much fun at the cidery, and only had the shuttle until 5pm.
 
 ![IMG_8307.JPG](/uploads/IMG_8307.JPG)
 
 ## Eat at Home
 
-Most of the attendees to my bachelorette party arrived on Friday evening (except for my cousin, Samantha, whose flight had to turn back!). Instead of going out to eat, Dan made us all his famous ramen. Not only was it delicious but it seriously cut down on costs. All the guests brought their own alcohol with them, so we had plenty to drink along with dinner. 
+Most of the attendees to my bachelorette party arrived on Friday evening (except for my cousin, Samantha, whose flight had to turn back!). Instead of going out to eat, Dan made us all his famous ramen. Not only was it delicious but it seriously cut down on costs for everyone. All the guests brought their own alcohol with them, so we had plenty to drink along with dinner. 
 
-On the day of the bachelorette party, Dan made pancakes, eggs, and bacon for all of us. (Do you see why I'm marrying him?) I wanted to make sure we were all well fed before going on a brewery tour. 
+On the day of the bachelorette party, Dan made pancakes, eggs, and bacon for all of us. (Do you see why I'm marrying him?) I wanted to make sure we were all well fed before going on a brewery tour. I'm 31 so throwing up on the shuttle wasn't something I wanted to happen. I also bought a bunch of snacks at Costco ahead of time, so there was an abundance of snacks on the shuttle during the day.
 
-After the day of breweries, we came back home and ordered Chinese takeout. Dan picked it up for us, and everyone Venmo-ed us for their portion of the food. It was delicious and we didn't have to go anywhere, and it only cost $120 for about 13 people. I also bought a bunch of snacks at Costco, so there was an abundance of snacks on the shuttle during the day.
+After the day of breweries, we came back home and ordered Chinese takeout. Dan picked it up for us, and everyone Venmo-ed us for their portion of the food. It was delicious and we didn't have to go anywhere, and it only cost $120 for about 13 people. 
 
 ## Choose free locations
 
-Of course, renting the shuttle and buying beer cost money, but getting into the breweries themselves was free.
+Of course, renting the shuttle and buying beer cost money, but getting into the breweries themselves was free. 
 
 ![IMG_8423.JPG](/uploads/IMG_8423.JPG)
 
