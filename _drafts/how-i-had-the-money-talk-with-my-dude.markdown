@@ -6,7 +6,7 @@ categories:
 image: "/uploads/bench.jpg"
 ---
 
-One of the first articles I ever wrote about money was about how to have the [money talk](https://www.maggiegermano.com/blog/have-the-money-talk) with your romantic partner. 
+One of the first articles I ever wrote about money was about how to have the [money talk](https://www.maggiegermano.com/blog/have-the-money-talk) with your romantic partner. It's so, so important to talk about money with the person you're sharing your life with. This sets expectations, opens up the conversation about your financial goals, and makes sure that everyone is on the same page.
 
 ## I Started Early
 
