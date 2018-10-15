@@ -20,4 +20,12 @@ When Dan and I first started dating, we obviously went out a lot. We went out fo
 
 ## I Practiced Non-Judgment
 
+This is still a tricky thing for me, especially in my personal life. When it comes to my clients, I never judge them or make them feel bad about their money choices.  When I am directly affected by someone's money habits, it's difficult for me to react in the same calm way. 
+
+x
+
 ## I Continue the Conversation
+
+As with most important topics, it's crucial to continue the money conversation over time. Priorities change, income changes, expenses change. These can be good things or they can be difficult things. The point is, the conversation must evolve as life evolves. 
+
+Dan and my situation is much different now than it was when we first started dating. We own a home together, we've both paid off our student loans, we've combined most of our finances, Dan has more than doubled his income, I've cut mine in half (for now!) by pursuing self-employment, 
