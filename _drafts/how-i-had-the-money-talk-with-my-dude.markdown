@@ -6,7 +6,7 @@ categories:
 image: "/uploads/bench.jpg"
 ---
 
-One of the first articles I ever wrote about money was about how to have the money talk with your romantic partner. 
+One of the first articles I ever wrote about money was about how to have the [money talk](https://www.maggiegermano.com/blog/have-the-money-talk) with your romantic partner. 
 
 ## I Started Early
 
