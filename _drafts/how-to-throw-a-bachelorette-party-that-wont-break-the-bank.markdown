@@ -17,9 +17,9 @@ Last month, I celebrated my bachelorette party. I had only been to one or two ba
 
 > I have known a lot of people who have gone to a lot of bachelorette parties. The number one complaint that I hear is how expensive they can be.
 
-Ultimately, I think I worried a little bit too much about cost in the weeks before my bachelorette party. I likely would have had more fun planning it if I wasn't so anxious about people being okay with spending the money. However, I think it's important to be conscious and thoughtful about the differing financial situations of our loved ones.
+Ultimately, I think I worried a little bit too much about cost in the weeks before my bachelorette party. I likely would have had more fun planning it if I wasn't so anxious about people being okay with spending the money. However, I do think it's important to be conscious and thoughtful about the differing financial situations of our loved ones.
 
-So what was my solution for having a fun bachelorette party that was also affordable for my loved ones and myself?
+So what was my solution for having a fun bachelorette party that was also affordable for my loved ones and also myself?
 
 ## Stay Local
 
