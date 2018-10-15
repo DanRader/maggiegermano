@@ -18,11 +18,11 @@ When Dan and I first started dating, we obviously went out a lot. We went out fo
 
 ## I Offered My Help
 
+x
+
 ## I Practiced Non-Judgment
 
 This is still a tricky thing for me, especially in my personal life. When it comes to my clients, I never judge them or make them feel bad about their money choices.  When I am directly affected by someone's money habits, it's difficult for me to react in the same calm way. 
-
-x
 
 ## I Continue the Conversation
 
