@@ -39,7 +39,7 @@ After the day of breweries, we came back home and ordered Chinese takeout. Dan p
 
 ## Choose free locations
 
-Of course, renting the shuttle and buying beer cost money, but getting into the breweries themselves was free. 
+Of course, renting the shuttle and buying beer cost money, but getting into the breweries themselves was free. Coordinating the shuttle and people's travel was enough planning, and I didn't want to involve a venue that would require anything official or costly. Other options could be wineries, parks, nail salons, restaurants (without renting a private room). 
 
 ![IMG_8423.JPG](/uploads/IMG_8423.JPG)
 
@@ -49,4 +49,6 @@ There were a couple friends who weren't able to commit the entire day to my bach
 
 A good friend of mine is in the process of planning her bachelorette party and she's doing something similar. We will likely go to a spa to get massages and/or facials, which might be a little pricier than some people are comfortable with. The solution there is that she's going to host a potluck dinner at her apartment afterwards. She will make it clear that there is no pressure to do both options, and that one or the other is completely fine.
 
-There are two important things to take away from this piece. It's important to have a bachelorette party that will make you happy. It's also important to be thoughtful other other people's circumstances, just to be a kind friend!
+There are two things for you to take away from this piece. It's important to have a bachelorette party that will make you happy. It's also important to be thoughtful other other people's circumstances. If you know what you want most is going to be really expensive, make it clear that you won't hold it against anyone if they can't attend. 
+
+Enjoy!
