@@ -1,6 +1,8 @@
 ---
 title: Founder Friday | UCB, Bachelorette Parties, and Bossed Up
 date: 2018-10-19 14:00:00 -04:00
+categories:
+- founder friday
 posts:
 - Founder Friday | Doctors, Los Angeles and Wild Cozy Truth
 - Founder Friday | YWCA, Money Circle, and Home Renovations
