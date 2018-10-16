@@ -4,6 +4,8 @@ date: 2018-10-22 11:00:00 -04:00
 categories:
 - lifestyle
 image: "/uploads/bench.jpg"
+tweet: One of the most important conversations w/ your partner is about money. Here's
+  how I did it.
 posts:
 - How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
 - How to Talk to Your Friends about Money
