@@ -12,7 +12,7 @@ This is definitely the biggest mistake we made, in terms of money. I fell in lov
 
 Maybe we would have decided to get married there even after looking at other venues! It is a beautiful space that had a lot of what we were looking for. But at least with other estimates and options, we would know if we'd had more affordable venues to choose from.
 
-I highly recommend looking at multiple venues, even if you think you've found "the one". 
+I highly recommend looking at multiple venues, even if you think you've found "the one".
 
 ## Not Listening to My Gut
 
@@ -22,4 +22,4 @@ The guest list and RSVP process was a lot more stressful than I expected. There 
 
 Inviting people out of obligation made it so that I wasn't able to invite certain people I would have preferred to invite. It also brought up a lot of negative emotion and stress when RSVPs were due. Ultimately, a lot of those obligatory invitees declined the invite, which makes it even clearer that it wasn't necessary to extend the invite in the first place.
 
-It can be tough to 
+It can be tough to navigate family politics, but it's important to feel good about who will be at your wedding. I feel even more strongly about this if you and your partner are paying for your wedding yourselves. 
