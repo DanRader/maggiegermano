@@ -26,7 +26,7 @@ When Dan and I first started dating, we obviously went out a lot. We went out fo
 
 ## I Offered My Help
 
-x
+Dan never really felt like he knew what he was doing with money. It wasn't something he felt he had learned growing up. So I offered my support and guidance to help him pay off his credit card. I also helped him fill out his budget so he was aware of his spending guidelines. Eventually, I gave him advice for contributing to his retirement account.
 
 ## I Practiced Non-Judgment
 
@@ -36,4 +36,4 @@ This is still a tricky thing for me, especially in my personal life. When it com
 
 As with most important topics, it's crucial to continue the money conversation over time. Priorities change, income changes, expenses change. These can be good things or they can be difficult things. The point is, the conversation must evolve as life evolves.
 
-Dan and my situation is much different now than it was when we first started dating. We own a home together, we've both paid off our student loans, we've combined most of our finances, Dan has more than doubled his income, I've cut mine in half (for now!) by pursuing self-employment, and our expenses are higher overall. Before all these changes, we didn't have to talk very often about money, because we had plenty of it and didn't spend very much. Now, there's less money and more to spend on. 
+Dan and my situation is much different now than it was when we first started dating. We own a home together, we've both paid off our student loans, we've combined most of our finances, Dan has more than doubled his income, I've cut mine in half (for now!) by pursuing self-employment, and our expenses are higher overall. Before all these changes, we didn't have to talk very often about money, because we had plenty of it and didn't spend very much. Now, there's less money and more to spend on.
