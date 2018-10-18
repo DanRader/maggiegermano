@@ -18,7 +18,7 @@ I
 
 ## I Started Early
 
-I remember the moment I first talked to Dan about money. It was probably our fourth or fifth date and we were walking towards my apartment, where I was going to make dinner for him. Dan was carrying a bouquet of flowers for me. I turned to him and casually asked him if he had any credit card debt.
+I remember the moment I first talked to Dan about money. It was probably our fourth or fifth date and we were walking towards my apartment, where I was going to make dinner for him. Dan was carrying a bouquet of flowers for me. I turned to him and casually asked him if he had any credit card debt. I can't remember exactly how he reacted, but he did tell me that he did and he told me how much. 
 
 ## I Communicated My Needs
 
