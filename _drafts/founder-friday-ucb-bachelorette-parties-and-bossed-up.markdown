@@ -25,6 +25,8 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * I treated myself to this [Unladylike pin](https://unladylike.co/shop/unladylike-pin) and can't wait to wear it around.
 
+* We are trying out another meal delivery kit, this time it's [Home Chef](https://www.homechef.com). I had a coupon for $35 off my first order, so we're getting a bunch of meals for a great price. [Get $30 off your first order if you use my link!](https://www.homechef.com/invite/vVKxdzswbJvdB)
+
 ## What I’m Writing
 
 This week, I wrote about how to throw an [affordable bachelorette party](https://www.maggiegermano.com/blog/how-to-throw-a-bachelorette-party-that-wont-break-the-bank/). I  used these tips for my own bachelorette party, so I hope they work for you!
