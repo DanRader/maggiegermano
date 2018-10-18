@@ -14,7 +14,7 @@ posts:
 
 One of the first articles I ever wrote about money was about how to have the [money talk](https://www.maggiegermano.com/blog/have-the-money-talk) with your romantic partner. It's so, so important to talk about money with the person you're sharing your life with. It sets expectations, opens up the conversation about your financial goals, and makes sure that everyone is on the same page. It will also help you to understand each other and your relationship with money. Money impacts every area of our lives, including our romantic lives, so this is not a conversation that you should skip.
 
-I 
+I
 
 ## I Started Early
 
@@ -36,4 +36,4 @@ This is still a tricky thing for me, especially in my personal life. When it com
 
 As with most important topics, it's crucial to continue the money conversation over time. Priorities change, income changes, expenses change. These can be good things or they can be difficult things. The point is, the conversation must evolve as life evolves.
 
-Dan and my situation is much different now than it was when we first started dating. We own a home together, we've both paid off our student loans, we've combined most of our finances, Dan has more than doubled his income, I've cut mine in half (for now!) by pursuing self-employment,
+Dan and my situation is much different now than it was when we first started dating. We own a home together, we've both paid off our student loans, we've combined most of our finances, Dan has more than doubled his income, I've cut mine in half (for now!) by pursuing self-employment, and our expenses are higher overall. Before all these changes, we didn't have to talk very often about money, because we had plenty of it and didn't spend very much. Now, there's less money and more to spend on. 
