@@ -18,7 +18,7 @@ I
 
 ## I Started Early
 
-I remember the moment I first talked to Dan about money. It was probably our fourth or fifth date and we were walking towards my apartment, where I was going to make dinner for him. Dan was carrying a bouquet of flowers for me. I turned to him and casually asked him if he had any credit card debt. I can't remember exactly how he reacted, but he did tell me that he did and he told me how much. 
+I remember the moment I first talked to Dan about money. It was probably our fourth or fifth date and we were walking towards my apartment, where I was going to make dinner for him. Dan was carrying a bouquet of flowers for me. I turned to him and casually asked him if he had any credit card debt. I can't remember exactly how he reacted, but he did tell me that he did and he told me how much. I wasn't a financial coach yet, so I was slightly judgmental about credit card debt at the time. I didn't insult him, but I did show concern about his debt. Looking back, it wasn't very much at all! That's proven by the fact that Dan was able to pay it off in just three months after our conversation. 
 
 ## I Communicated My Needs
 
@@ -27,6 +27,10 @@ When Dan and I first started dating, we obviously went out a lot. We went out fo
 ## I Offered My Help
 
 Dan never really felt like he knew what he was doing with money. It wasn't something he felt he had learned growing up. So I offered my support and guidance to help him pay off his credit card. I also helped him fill out his budget so he was aware of his spending guidelines. Eventually, I gave him advice for contributing to his retirement account.
+
+Once we moved in together, I obviously took over the financial management of the household. I created a joint budget spreadsheet so that we could track our budget and spending. I added Dan as an authorized user on one of my credit cards so that we could use it for joint expenses, such as groceries. This made it easier to make sure that we were each contributing equally. 
+
+*I should note that I trusted Dan as an authorized user, and didn't worry that he would abuse the card. I don't recommend giving someone access to your credit card if you don't trust that they will use it responsibly and always pay it back. *
 
 ## I Practiced Non-Judgment
 
