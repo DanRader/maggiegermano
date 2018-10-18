@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | UCB, Bachelorette Parties, and Bossed Up
 date: 2018-10-19 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/jack-finnigan-569674-unsplash.jpg"
@@ -46,9 +47,7 @@ This week, I wrote about how to throw an [affordable bachelorette party](https:/
 
 ## What I’m Excited About
 
-* I was quoted in an [NBC News](https://www.nbcnews.com/better/pop-culture/how-being-lazy-can-actually-help-you-save-money-ncna920471) piece this week! I talked to Holly Trantham of [The Financial Diet](https://thefinancialdiet.com/) about how automation can help you get your money right. [Check it out](https://www.nbcnews.com/better/pop-culture/how-being-lazy-can-actually-help-you-save-money-ncna920471)!
-
-* x
+I was quoted in an [NBC News](https://www.nbcnews.com/better/pop-culture/how-being-lazy-can-actually-help-you-save-money-ncna920471) piece this week! I talked to Holly Trantham of [The Financial Diet](https://thefinancialdiet.com/) about how automation can help you get your money right. [Check it out](https://www.nbcnews.com/better/pop-culture/how-being-lazy-can-actually-help-you-save-money-ncna920471)!
 
 ## Money Tip to Take Into the Weekend
 
