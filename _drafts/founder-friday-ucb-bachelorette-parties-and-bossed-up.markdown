@@ -25,7 +25,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## What I’m Writing
 
-This week, I wrote about how to throw an affordable bachelorette party. I 
+This week, I wrote about how to throw an affordable bachelorette party. I
 
 ## What I’m Up To
 
@@ -39,7 +39,7 @@ This week, I wrote about how to throw an affordable bachelorette party. I
 
 ## What I’m Excited About
 
-* x
+* I was quoted in an NBC News piece this week! I talked to Holly Tratham of The Financial Diet about how automation can help you get your money right. Check it out!
 
 * x
 
