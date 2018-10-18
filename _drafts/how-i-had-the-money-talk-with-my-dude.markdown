@@ -26,7 +26,7 @@ When Dan and I first started dating, we obviously went out a lot. We went out fo
 
 ## I Offered My Help
 
-Dan never really felt like he knew what he was doing with money. It wasn't something he felt he had learned growing up. 
+Dan never really felt like he knew what he was doing with money. It wasn't something he felt he had learned growing up. So I offered my support and guidance to help him pay off his credit card. I also helped him fill out his budget so he was aware of his spending guidelines. Eventually, I gave him advice for contributing to his retirement account.
 
 ## I Practiced Non-Judgment
 
