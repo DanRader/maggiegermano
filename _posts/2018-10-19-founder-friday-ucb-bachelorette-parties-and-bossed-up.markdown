@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | UCB, Bachelorette Parties, and Bossed Up
 date: 2018-10-19 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/jack-finnigan-569674-unsplash.jpg"
@@ -28,6 +29,8 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * We are trying out another meal delivery kit, this time it's [Home Chef](https://www.homechef.com). I had a coupon for $35 off my first order, so we're getting a bunch of meals for a great price. [Get $30 off your first order if you use my link!](https://www.homechef.com/invite/vVKxdzswbJvdB)
 
+![IMG_9521.JPG](/uploads/IMG_9521.JPG)
+
 ## What I’m Writing
 
 This week, I wrote about how to throw an [affordable bachelorette party](https://www.maggiegermano.com/blog/how-to-throw-a-bachelorette-party-that-wont-break-the-bank/). I  used these tips for my own bachelorette party, so I hope they work for you!
@@ -44,9 +47,7 @@ This week, I wrote about how to throw an [affordable bachelorette party](https:/
 
 ## What I’m Excited About
 
-* I was quoted in an [NBC News](https://www.nbcnews.com/better/pop-culture/how-being-lazy-can-actually-help-you-save-money-ncna920471) piece this week! I talked to Holly Trantham of [The Financial Diet](https://thefinancialdiet.com/) about how automation can help you get your money right. [Check it out](https://www.nbcnews.com/better/pop-culture/how-being-lazy-can-actually-help-you-save-money-ncna920471)!
-
-* x
+I was quoted in an [NBC News](https://www.nbcnews.com/better/pop-culture/how-being-lazy-can-actually-help-you-save-money-ncna920471) piece this week! I talked to Holly Trantham of [The Financial Diet](https://thefinancialdiet.com/) about how automation can help you get your money right. [Check it out](https://www.nbcnews.com/better/pop-culture/how-being-lazy-can-actually-help-you-save-money-ncna920471)!
 
 ## Money Tip to Take Into the Weekend
 
