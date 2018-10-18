@@ -23,6 +23,8 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * We bought the final flight we'll be taking while in Thailand for our honeymoon! 
 
+* I treated myself to this [Unladylike pin](https://unladylike.co/shop/unladylike-pin) and can't wait to wear it around.
+
 ## What I’m Writing
 
 This week, I wrote about how to throw an [affordable bachelorette party](https://www.maggiegermano.com/blog/how-to-throw-a-bachelorette-party-that-wont-break-the-bank/). I  used these tips for my own bachelorette party, so I hope they work for you!
