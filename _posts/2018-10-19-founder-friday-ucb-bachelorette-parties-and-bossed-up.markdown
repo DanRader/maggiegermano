@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | UCB, Bachelorette Parties, and Bossed Up
 date: 2018-10-19 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 image: "/uploads/jack-finnigan-569674-unsplash.jpg"
