@@ -26,15 +26,15 @@ When Dan and I first started dating, we obviously went out a lot. We went out fo
 
 ## I Offered My Help
 
-Dan never really felt like he knew what he was doing with money. It wasn't something he felt he had learned growing up. So I offered my support and guidance to help him pay off his credit card. I also helped him fill out his budget so he was aware of his spending guidelines. Eventually, I gave him advice for contributing to his retirement account.
+Dan never really felt like he knew what he was doing with money. It wasn't something he felt he had learned growing up. So I offered my support and guidance to help him pay off his credit card and start saving. I also helped him fill out his budget so he was aware of his spending guidelines. Eventually, I gave him advice for contributing to his retirement account.
 
-Once we moved in together, I obviously took over the financial management of the household. I created a joint budget spreadsheet so that we could track our budget and spending. I added Dan as an authorized user on one of my credit cards so that we could use it for joint expenses, such as groceries. This made it easier to make sure that we were each contributing equally.
+Once we moved in together, I took over the financial management of the household. I created a joint budget spreadsheet so that we could track our budget and spending. I added Dan as an authorized user on one of my credit cards so that we could use it for joint expenses, such as groceries. This made it easier to make sure that we were each contributing equally. We continue to use a joint credit card now that we own a home together.
 
-\*I should note that I trusted Dan as an authorized user, and didn't worry that he would abuse the card. I don't recommend giving someone access to your credit card if you don't trust that they will use it responsibly and always pay it back. \*
+\(I should note that I trusted Dan as an authorized user, and didn't worry that he would abuse the card. I don't recommend giving someone access to your credit card if you don't trust that they will use it responsibly and always pay it back.)
 
-## I Practiced Non-Judgment
+## I Practice Non-Judgment
 
-This is still a tricky thing for me, especially in my personal life. When it comes to my clients, I never judge them or make them feel bad about their money choices.  When I am directly affected by someone's money habits, it's difficult for me to react in the same calm way.
+This is still a tricky thing for me, especially in my personal life. When it comes to my clients, I never judge them or make them feel bad about their money choices.  When I am directly affected by someone's money habits, it's sometimes difficult for me to react in the same calm way. If a financial conflict comes up, I try to be careful about the language that I use. Instead of being accusatory like saying, "Why did you spend so much money at that bar?", I try to be more curious by saying things like, "Hey, what's this charge from the other day? I want to make sure I have the budget updated properly." 
 
 ## I Continue the Conversation
 
