@@ -14,6 +14,8 @@ posts:
 
 One of the first articles I ever wrote about money was about how to have the [money talk](https://www.maggiegermano.com/blog/have-the-money-talk) with your romantic partner. It's so, so important to talk about money with the person you're sharing your life with. It sets expectations, opens up the conversation about your financial goals, and makes sure that everyone is on the same page. It will also help you to understand each other and your relationship with money. Money impacts every area of our lives, including our romantic lives, so this is not a conversation that you should skip or delay.
 
+> It's so, so important to talk about money with the person you're sharing your life with. It sets expectations, opens up the conversation about your financial goals, and makes sure that everyone is on the same page.
+
 I've always cared about financial stability, so it was important to me for someone I was dating to be in a good position, as well. That's why I knew I had to start that conversation in the beginning of my relationship with Dan. Here's how I did (and continue to do) it.  
 
 ## I Started Early
@@ -43,3 +45,7 @@ As with most important topics, it's crucial to continue the money conversation o
 Dan and my situation is much different now than it was when we first started dating. We own a home together, we've both paid off our student loans, we've combined most of our finances, Dan has more than doubled his income, I've more than cut mine in half (for now!) by pursuing self-employment, and our expenses are higher overall. Before all these changes, we didn't have to talk very often about money, because we had plenty of it and didn't spend very much. Now, there's less money and more to spend on.
 
 We had to have a serious money talk earlier this year, because both of us were getting frustrated with each other. Dan felt like he didn't have any money of his own, and I felt like he wasn't being thoughtful about how tight our budget is. It was a very productive (though difficult) conversation, because we were able to walk away with solutions. Dan has a small amount of money going into his personal checking account each month so that he can spend it without worrying about our overall budget. He also has a little bit of money going into his private savings account so that he can buy gifts or fix up his bike. This has made Dan feel more autonomous while taking stress off of our joint budget.
+
+Now that we're getting married, Dan and I are getting even more grown up with our financial conversations. We recently went to see a financial advisor to talk about life insurance and making sure we're making smart choices for retirement. It feels good to be talking about and making these decisions together. 
+
+*Have you had the money talk with your partner yet? How did it go? What's holding you back? Share in the comments!*
