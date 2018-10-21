@@ -12,13 +12,13 @@ posts:
 - Stop Fighting About Money With Your Valentine
 ---
 
-One of the first articles I ever wrote about money was about how to have the [money talk](https://www.maggiegermano.com/blog/have-the-money-talk) with your romantic partner. It's so, so important to talk about money with the person you're sharing your life with. It sets expectations, opens up the conversation about your financial goals, and makes sure that everyone is on the same page. It will also help you to understand each other and your relationship with money. Money impacts every area of our lives, including our romantic lives, so this is not a conversation that you should skip.
+One of the first articles I ever wrote about money was about how to have the [money talk](https://www.maggiegermano.com/blog/have-the-money-talk) with your romantic partner. It's so, so important to talk about money with the person you're sharing your life with. It sets expectations, opens up the conversation about your financial goals, and makes sure that everyone is on the same page. It will also help you to understand each other and your relationship with money. Money impacts every area of our lives, including our romantic lives, so this is not a conversation that you should skip or delay.
 
-I
+I've always cared about financial stability, so it was important to me for someone I was dating to be in a good position, as well. That's why I knew I had to start that conversation in the beginning of my relationship with Dan. Here's how I did (and continue to do) it.  
 
 ## I Started Early
 
-I remember the moment I first talked to Dan about money. It was probably our fourth or fifth date and we were walking towards my apartment, where I was going to make dinner for him. Dan was carrying a bouquet of flowers for me. I turned to him and casually asked him if he had any credit card debt. I can't remember exactly how he reacted, but he did tell me that he did and he told me how much. I wasn't a financial coach yet, so I was slightly judgmental about credit card debt at the time. I didn't insult him, but I did show concern about his debt. Looking back, it wasn't very much at all! That's proven by the fact that Dan was able to pay it off in just three months after our conversation. 
+I remember the moment I first talked to Dan about money. It was probably our fourth or fifth date and we were walking towards my apartment, where I was going to make dinner for him. Dan was carrying a bouquet of flowers for me (aww). I turned to him and casually asked him if he had any credit card debt. I can't remember exactly how he reacted, but he told me that he did and he told me how much. I wasn't a financial coach yet, so I was slightly judgmental about credit card debt at the time. I didn't insult him, but I did show concern about his debt. Looking back, it wasn't very much at all! That's proven by the fact that Dan was able to pay it off in just three months after our conversation. 
 
 ## I Communicated My Needs
 
@@ -28,9 +28,9 @@ When Dan and I first started dating, we obviously went out a lot. We went out fo
 
 Dan never really felt like he knew what he was doing with money. It wasn't something he felt he had learned growing up. So I offered my support and guidance to help him pay off his credit card. I also helped him fill out his budget so he was aware of his spending guidelines. Eventually, I gave him advice for contributing to his retirement account.
 
-Once we moved in together, I obviously took over the financial management of the household. I created a joint budget spreadsheet so that we could track our budget and spending. I added Dan as an authorized user on one of my credit cards so that we could use it for joint expenses, such as groceries. This made it easier to make sure that we were each contributing equally. 
+Once we moved in together, I obviously took over the financial management of the household. I created a joint budget spreadsheet so that we could track our budget and spending. I added Dan as an authorized user on one of my credit cards so that we could use it for joint expenses, such as groceries. This made it easier to make sure that we were each contributing equally.
 
-*I should note that I trusted Dan as an authorized user, and didn't worry that he would abuse the card. I don't recommend giving someone access to your credit card if you don't trust that they will use it responsibly and always pay it back. *
+\*I should note that I trusted Dan as an authorized user, and didn't worry that he would abuse the card. I don't recommend giving someone access to your credit card if you don't trust that they will use it responsibly and always pay it back. \*
 
 ## I Practiced Non-Judgment
 
