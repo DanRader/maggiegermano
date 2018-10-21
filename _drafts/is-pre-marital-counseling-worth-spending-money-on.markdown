@@ -11,6 +11,6 @@ posts:
 - How to Care for Your Mental Health on a Budget
 ---
 
-Dan and I are getting married this Saturday (!!!). 
+Dan and I are getting married this Saturday (!!!???).
 
-A couple months ago, we teamed up with a therapist for pre-marital counseling. 
+A couple months ago, we teamed up with a therapist for pre-marital counseling.
