@@ -18,23 +18,23 @@ I've always cared about financial stability, so it was important to me for someo
 
 ## I Started Early
 
-I remember the moment I first talked to Dan about money. It was probably our fourth or fifth date and we were walking towards my apartment, where I was going to make dinner for him. Dan was carrying a bouquet of flowers for me (aww). I turned to him and casually asked him if he had any credit card debt. I can't remember exactly how he reacted, but he told me that he did and he told me how much. I wasn't a financial coach yet, so I was slightly judgmental about credit card debt at the time. I didn't insult him, but I did show concern about his debt. Looking back, it wasn't very much at all! That's proven by the fact that Dan was able to pay it off in just three months after our conversation. 
+I remember the moment I first talked to Dan about money. It was probably our fourth or fifth date and we were walking towards my apartment, where I was going to make dinner for him. Dan was carrying a bouquet of flowers for me (aww). I turned to him and casually asked him if he had any credit card debt. I can't remember exactly how he reacted, but he told me that he did and he told me how much. I wasn't a financial coach yet, so I was slightly judgmental about credit card debt at the time. I didn't insult him, but I did show concern about his debt. Looking back, it wasn't very much at all! That's proven by the fact that Dan was able to pay it off in just three months after our conversation. Having this conversation early made it easier for us to communicate about money as other issues arose. 
 
 ## I Communicated My Needs
 
-When Dan and I first started dating, we obviously went out a lot. We went out for dinner, we went to movies, we went out to brunch, etc. At first, Dan paid for me much of the time, but once I found out how much he was earning in salary, I didn't feel comfortable letting him cover everything (we were making similar income and it wasn't a lot!). We began splitting costs from time to time, but eventually, that spending started to conflict with my budget and savings goals.
+When Dan and I first started dating, we obviously went out a lot. We went out for dinner, we went to the movies, we went out to brunch, etc. At first, Dan paid for me much of the time, but once I found out how much he was earning in salary, I didn't feel comfortable letting him cover everything (we were making similar income and it wasn't a lot!). We began splitting costs from time to time, but eventually, that spending started to conflict with my budget and savings goals. I was living alone at the time and trying to pay off my student loans ahead of schedule. That didn't leave me with a ton of fun money. After a couple months of dating, I told him that we needed to slow down a bit with our fun spending and be more thoughtful about where our money was going. I didn't want too much food and drink to derail my financial goals. That wasn't a fun conversation, but Dan was understanding, and we started being a little bit pickier about when we went out and how much we spent when we did.
 
 ## I Offered My Help
 
-Dan never really felt like he knew what he was doing with money. It wasn't something he felt he had learned growing up. So I offered my support and guidance to help him pay off his credit card. I also helped him fill out his budget so he was aware of his spending guidelines. Eventually, I gave him advice for contributing to his retirement account.
+Dan never really felt like he knew what he was doing with money. It wasn't something he felt he had learned growing up. So I offered my support and guidance to help him pay off his credit card and start saving. I also helped him fill out his budget so he was aware of his spending guidelines. Eventually, I gave him advice for contributing to his retirement account.
 
-Once we moved in together, I obviously took over the financial management of the household. I created a joint budget spreadsheet so that we could track our budget and spending. I added Dan as an authorized user on one of my credit cards so that we could use it for joint expenses, such as groceries. This made it easier to make sure that we were each contributing equally.
+Once we moved in together, I took over the financial management of the household. I created a joint budget spreadsheet so that we could track our budget and spending. I added Dan as an authorized user on one of my credit cards so that we could use it for joint expenses, such as groceries. This made it easier to make sure that we were each contributing equally. We continue to use a joint credit card now that we own a home together.
 
-\*I should note that I trusted Dan as an authorized user, and didn't worry that he would abuse the card. I don't recommend giving someone access to your credit card if you don't trust that they will use it responsibly and always pay it back. \*
+\(I should note that I trusted Dan as an authorized user, and didn't worry that he would abuse the card. I don't recommend giving someone access to your credit card if you don't trust that they will use it responsibly and always pay it back.)
 
-## I Practiced Non-Judgment
+## I Practice Non-Judgment
 
-This is still a tricky thing for me, especially in my personal life. When it comes to my clients, I never judge them or make them feel bad about their money choices.  When I am directly affected by someone's money habits, it's difficult for me to react in the same calm way.
+This is still a tricky thing for me, especially in my personal life. When it comes to my clients, I never judge them or make them feel bad about their money choices.  When I am directly affected by someone's money habits, it's sometimes difficult for me to react in the same calm way. If a financial conflict comes up, I try to be careful about the language that I use. Instead of being accusatory like saying, "Why did you spend so much money at that bar?", I try to be more curious by saying things like, "Hey, what's this charge from the other day? I want to make sure I have the budget updated properly." 
 
 ## I Continue the Conversation
 
