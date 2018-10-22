@@ -24,4 +24,10 @@ I know this doesn't sound fun. No one likes to pay off debt with gift money. But
 
 ## Build Up Your Savings
 
+As I've written before, building up your emergency savings is crucial for your financial wellness. 
+
 ## Do Something Fun
+
+Using all of your gift money for responsible things can be a real downer. That's why it's also okay to use a portion of your money to pay for something fun! Take 10% of your gift money to spend just one the two of you. It could go towards your honeymoon, towards a fancy dinner, or perhaps for a new piece of furniture for your home. Whatever will treat you enough to make you feel good about putting most of the money towards debt and savings!
+
+*What did you spend your wedding gift money on? Share in the comments!*
