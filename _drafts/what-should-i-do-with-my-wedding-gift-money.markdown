@@ -4,13 +4,15 @@ date: 2018-11-19 11:00:00 -05:00
 categories:
 - lifestyle
 image: "/uploads/gift-784611.jpg"
+tweet: Wedding gifts are an exciting part of getting married! Here's how you should
+  use any money you get.
 posts:
 - How to Create a Wedding Budget
 - How to Plan a Wedding and Stay Sane
 - How I'm Incorporating My Values Into My Wedding
 ---
 
-Congratulations, you're married! And the wedding planning part of life is finally over! Plus, if you're lucky, you're walking away from your wedding with a nice chunk of change. But it's important to have a plan when you get a windfall like this. You don't want to find yourself a few months from now with no money left and nothing to show for it.
+Congratulations, you're married! And the wedding planning part of life is finally over! Plus, if you're lucky, you're walking away from your wedding with a nice chunk of change. But it's important to have a plan when you get a windfall like this. You don't want to find yourself a few months from now with no extra money left and nothing to show for it.
 
 Of course, how you use the money depends on you and your partner's goals and responsibilities. But there are some basics that you should focus on when spending that money.
 
