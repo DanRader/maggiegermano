@@ -21,21 +21,23 @@ The history of a woman taking her husband’s name.
 
 ## What I feel like I’d be losing:
 
-* my identity
+* **My identity:** I've been Maggie Germano for my entire life. I would be giving up a big part of myself if I gave up my name for a new one.
 
-* My deep connection with my family
+* **My connection with my family:** This reason is slightly hypocritical because one of my arguments against changing my name is that everyone in a family doesn't have to have the same name to be considered a family. 
 
-* My principles
+* **My principles:** x
 
-* My domain name
+* **My domain name:** x
 
-* My name recognition for my biz
+* **My business recognition:** x
 
 I honestly don’t know what we’ll do with our kids’ names. We’ve been talking about that a lot lately, and haven’t come to a real agreement. In fact, it's been a point of contention, because we both have the same arguments for our kids having either of our last names. I do think it’s unfair that a woman is not present in her children’s identity (name). We give birth, we are still the primary caregiver. We are just as much an influential parent as a father may be. Why can’t our children carry our names?
 
 I’m not keen on a hyphenated name (Germano-Rader or Rader-Germano). The idea of using our couple name (Radermano) seems perfect and adorable but also isn’t actually a name (but what’s in a name? Aren’t they all made up?). Dan has suggested that we use my last name as our kids’ middle names but that isn’t super appealing to me either.
 
 ## The cost/inconvenience of changing your name:
+
+A piece of this puzzle that isn't always talked about 
 
 * license
 
