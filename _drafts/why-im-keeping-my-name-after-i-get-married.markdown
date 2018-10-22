@@ -39,18 +39,20 @@ I’m not keen on a hyphenated name (Germano-Rader or Rader-Germano). The idea o
 
 A piece of this puzzle that isn't always talked about is the literal cost of changing your name. There are a lot of documents to change and processes to go through to make that happen. Most of those things cost time and money. 
 
-* Social security card: 
+* **Social security card:** x
 
-* ID (license, permit, etc.):
+* **State-issued identification:** x
 
-* Passport: 
+* **Passport:** x Be careful! If you've already booked a flight in your maiden name, wait to legally change your name until after the trip, or else TSA and Customs will give you a really hard time!
 
-* Bank accounts: 
+* **Bank accounts:** x 
 
-* Email address:
+* **Email address:** x
 
-* All online accounts
+* **All online accounts:** x
 
-* Career
+* **Website domain:** If you have your own business or other type of 
 
-* Online presence
+Ultimately, it's up to the individual whether or not they want to change their name. I do hope that one day men and women change their names at an equal rate, rather than it being a given that women will do it. But until then, 
+
+*How do you feel about the name change debate? What did you do in your own life? Share in the comments!*
