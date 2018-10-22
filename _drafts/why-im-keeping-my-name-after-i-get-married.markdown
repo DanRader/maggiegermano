@@ -37,19 +37,19 @@ I’m not keen on a hyphenated name (Germano-Rader or Rader-Germano). The idea o
 
 ## The cost/inconvenience of changing your name:
 
-A piece of this puzzle that isn't always talked about is the literal cost of changing your name. 
+A piece of this puzzle that isn't always talked about is the literal cost of changing your name. There are a lot of documents to change and processes to go through to make that happen. Most of those things cost time and money. 
 
-* license
+* Social security card: 
 
-* Social security card
+* ID (license, permit, etc.):
 
-* Passport
+* Passport: 
 
-* Email
+* Bank accounts: 
+
+* Email address:
 
 * All online accounts
-
-* Banking
 
 * Career
 
