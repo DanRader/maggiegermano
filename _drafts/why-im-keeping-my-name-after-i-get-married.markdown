@@ -29,8 +29,8 @@ What I feel like I’d be losing:\\
 
 * My domain name \\
 
-* My name recognition for my biz\
-  \
+* My name recognition for my biz
+
   I honestly don’t know what we’ll do with our kids’ names. We’ve been talking about that a lot lately, and haven’t come to a real agreement. Strangely, I don’t feel as strongly about my kids having my last name. If I think about it for more than a few seconds, I do think it’s unfair that a woman is not present in her children’s identity (name). We give birth, we are still the primary care giver. Why can’t our children carry our names? But I’m not particularly willing to die on that hill yet, so I haven’t argued for it. \
   \
   I’m not keen on a hyphenated name (Germano-Rader). The idea of using our couple name (Radermano) seems perfect and adorable but also isn’t a name (but what’s in a name? Aren’t they all made up?). Dan has suggested that we use my last name as our kids’ middle names but that isn’t super appealing to me either. \
