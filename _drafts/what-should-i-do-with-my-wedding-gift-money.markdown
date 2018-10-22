@@ -4,6 +4,8 @@ date: 2018-11-19 11:00:00 -05:00
 categories:
 - lifestyle
 image: "/uploads/gift-784611.jpg"
+tweet: Wedding gifts are an exciting part of getting married! Here's how you should
+  use any money you get.
 posts:
 - How to Create a Wedding Budget
 - How to Plan a Wedding and Stay Sane
