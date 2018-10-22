@@ -22,6 +22,6 @@ Of course, how you use the money depends on you and your partner's goals and res
 
 I know this doesn't sound fun. No one likes to pay off debt with gift money. But it's actually hugely important to pay off your debt if you can! If you have any credit card debt (or debt accrued during wedding planning), you should absolutely put your wedding money towards it. This will help you and your new spouse start your marriage on more solid financial footing.
 
-## Do Something Fun
-
 ## Build Up Your Savings
+
+## Do Something Fun
