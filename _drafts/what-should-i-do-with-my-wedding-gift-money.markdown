@@ -31,3 +31,7 @@ Wh
 ## Do Something Fun
 
 Whenever you have a windfall of any kind, you should use a small portion of it to do something fun. Allowing yourself to treat yourself makes it easier (and therefore, more likely) to use the majority of the money on responsible things. Take 10% of the money and buy something you've been yearning for, or treat yourselves to a fancy dinner.  
+
+Dan and I have a few different ideas for our wedding money (keep in mind I'm writing this before the wedding, so I don't know how much we've gotten). We don't have any debt aside from our mortgage, and our emergency fund is fully funded. So, we will use some of the money for our honeymoon, and the rest of it will likely go towards home projects. 
+
+*What do you plan to do with your wedding gift money? Share in the comments!*
