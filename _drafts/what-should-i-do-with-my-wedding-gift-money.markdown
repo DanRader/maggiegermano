@@ -23,3 +23,5 @@ I know this doesn't sound fun. No one likes to pay off debt with gift money. But
 ## Do Something Fun
 
 ## Build Up Your Savings
+
+Emergency savings is incredibly important, es
