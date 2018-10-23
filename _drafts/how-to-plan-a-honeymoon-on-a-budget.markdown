@@ -18,11 +18,11 @@ Based on my own experience, here's how you can plan a great honeymoon, even if y
 
 ## Start Planning Early
 
-We decided where we wanted to go on our honeymoon at least a year ago. This gave us a lot of time to plan and save for our trip. It's unlikely that you could just up and go to Thailand for three weeks if you haven't been planning and saving for a while. (Unless, of course, you keep a full travel savings fund at all times.)
+We decided where we wanted to go on our honeymoon at least a year ago. This gave us a lot of time to plan and save for our trip. It's unlikely that you could just up and go to Thailand for three weeks if you haven't been planning and saving for a while. (Unless, of course, you keep a full travel savings fund at all times.) So make your decision and start planning early. You'll have more time to save, and you'll have more time to find affordable deals for travel and lodging.
 
 ## Save, Save, Save
 
-I know you're probably saving everything you have right now in order to pay for your wedding. However, it's important to remember that you'll want to save up for your honeymoon too!
+I know you're probably saving everything you have right now in order to pay for your wedding. However, it's important to remember that you'll want to save up for your honeymoon too! Put a monthly amount aside, or save any extra money that you get (bonuses, [tax refunds](https://www.maggiegermano.com/blog/heres-how-you-should-use-your-tax-refund/), or other [windfalls](https://www.maggiegermano.com/blog/what-to-do-if-you-get-a-windfall/)). 
 
 ## Take Advantage of Rewards Programs
 
