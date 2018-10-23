@@ -12,5 +12,4 @@ posts:
 - What Survivors Wish You Knew About Financial Abuse
 ---
 
-
-Am I responsible for my spouse's debt?
+One of the most popular questions I get from clients and readers is this: how should we combine finances after we get married? 
