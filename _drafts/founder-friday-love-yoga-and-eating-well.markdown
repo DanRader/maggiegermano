@@ -9,21 +9,21 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## **How I Earned Money This Week**
 
-* x
+* We had a guest in our Airbnb from Sunday evening until Friday morning, and another guest is arriving today through the weekend.
 
-* x
+* Two of my clients paid their money fees this week. 
 
 ## **How I Spent Money This Week**
 
 * I joined my friend Nina for tea and yoga on Sunday evening. We went to [Takoma Beverage Company](http://takomabevco.com/) for tea and catching up, and then we went to a yoga beats class at [Yoga Heights](https://yogaheightsdc.com/). I'd never been to a yoga class like that, and it was really tough, but it was a lot of fun!
 
-* Dan and I got our marriage license on Tuesday! We had to pay $55 for the license itself, and $8 for parking. After the wedding, we'll have to pay about $15 to get official copies of the license for our records (and to send to Dan's insurance company so I can get on his policy). 
+* Dan and I got our marriage license on Tuesday! We had to pay $55 for the license itself, and $8 for parking. After the wedding, we'll have to pay about $15 to get official copies of the license for our records (and to send to Dan's insurance company so I can get on his policy).
 
 * Now that we're two weeks out from the wedding (gah!), we are doubling down on eating healthily so that we feel as good as possible on the day. We spent a bit extra on groceries this week in order to make sure we're eating well and aren't tempted to buy any junk.
 
 ## **What I’m Writing**
 
-This week, I wrote about how I had the money talk with my fiance when we were first dating. 
+This week, I wrote about how I had the money talk with my fiance when we were first dating.
 
 ## **What I’m Up To**
 
