@@ -1,6 +1,7 @@
 ---
 title: How to Plan a Honeymoon on a Budget
 date: 2018-11-12 11:00:00 -05:00
+published: false
 categories:
 - Budget
 - lifestyle
@@ -38,4 +39,6 @@ Yes, we're en route to Thailand, but you don't have to travel to the other side 
 
 ## Delay
 
-More and more of my friends are delaying their honeymoon for six months or a year. That's a great way to recoup some of the money you spent on your wedding and give you time to save up for your honeymoon.
+More and more of my friends are delaying their honeymoon for six months or a year. That's a great way to recoup some of the money you spent on your wedding and give you time to save up for your honeymoon. That way, you can make sure you're having the honeymoon you really want without sacrificing your financial wellness. If you really want to get away, but can't afford the big trip just yet, you could take a mini-moon and go somewhere more affordable for a few days after the wedding. As of late, I've seen my friends visit Miami, Asheville, and Shenandoah National Park. 
+
+*What are you planning for your honeymoon? How are you going to pay for it? Share in the comments!*
