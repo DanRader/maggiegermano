@@ -1,6 +1,7 @@
 ---
 title: What Should I Do With My Wedding Gift Money?
 date: 2018-11-19 11:00:00 -05:00
+published: false
 categories:
 - lifestyle
 - savings
@@ -26,11 +27,11 @@ I know this doesn't sound fun. No one likes to pay off debt with gift money. But
 
 ## Build Up Your Savings
 
-One of the cornerstones of financial health is having a funded emergency savings account. This account will protect you and your family if there is a job loss, injury or illness, or other costly emergency. Having three to six months worth of your expenses can prevent you from being evicted, keep you current with your bills, and preserve your peace of mind. When you are joining your life with someone else and increasing your financial responsibilities, it's even more important to have emergency savings. 
+One of the cornerstones of financial health is having a funded [emergency savings account](https://www.maggiegermano.com/blog/you-need-an-emergency-fund). This account will protect you and your family if there is a job loss, injury or illness, or other costly emergency. Having three to six months worth of your expenses can prevent you from being evicted, keep you current with your bills, and preserve your peace of mind. When you are joining your life with someone else and increasing your financial responsibilities, it's even more important to have emergency savings. Even if you haven't been given enough to fully fund your savings account, it's important to get it started. 
 
 ## Do Something Fun
 
-Whenever you have a windfall of any kind, you should use a small portion of it to do something fun. Allowing yourself to treat yourself makes it easier (and therefore, more likely) to use the majority of the money on responsible things. Take 10% of the money and buy something you've been yearning for, or treat yourselves to a fancy dinner.  
+Whenever you have a windfall of any kind, you should use a small portion of it to do something fun. Allowing yourself to treat yourself makes it easier (and therefore, more likely) to use the majority of the money on responsible things. Take 10% of the money and buy something you've been yearning for, or treat yourselves to a fancy dinner. You deserve it, and your guests would be happy to know that you used the gift on something just for you. 
 
 Dan and I have a few different ideas for our wedding money (keep in mind I'm writing this before the wedding, so I don't know how much we've gotten). We don't have any debt aside from our mortgage, and our emergency fund is fully funded. So, we will use some of the money for our honeymoon, and the rest of it will likely go towards home projects. 
 
