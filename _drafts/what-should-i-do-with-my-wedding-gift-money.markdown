@@ -3,6 +3,8 @@ title: What Should I Do With My Wedding Gift Money?
 date: 2018-11-19 11:00:00 -05:00
 categories:
 - lifestyle
+- savings
+- debt
 image: "/uploads/gift-784611.jpg"
 tweet: Got a bunch of cash from your wedding gifts? Here's what you should do with
   it!
