@@ -12,23 +12,25 @@ posts:
 - How to Create a Wedding Budget
 ---
 
-I'm on my honeymoon right now! Well, I'm actually in the air or in an airport somewhere. We left DC late last night and are en route to Thailand for a three-week honeymoon adventure! You can keep track of what we're up to by following my [Instagram](https://www.instagram.com/maggiegermano/). We're making the most of this honeymoon, but I also wanted to make sure that we found budget options where we could. 
+I'm on my honeymoon right now! Well, I'm actually in the air or in an airport somewhere. We left DC late last night and are en route to Thailand for a three week honeymoon adventure! You can keep track of what we're up to by following my [Instagram](https://www.instagram.com/maggiegermano/). We're making the most of this long honeymoon, but I also wanted to make sure that we found budget options where we could.
+
+Based on my own experience, here's how you can plan a great honeymoon, even if you're on a strict budget. 
 
 ## Start Planning Early
 
-We decided where we wanted to go on our honeymoon at least a year ago. This gave us a lot of time to plan and save for our trip. It's unlikely that you could just up and go to Thailand for three weeks if you haven't been planning and saving for a while. (Unless, of course, you keep a full travel savings fund at all times.)
+We decided where we wanted to go on our honeymoon at least a year ago. This gave us a lot of time to plan and save for our trip. It's unlikely that you could just up and go to Thailand for three weeks if you haven't been planning and saving for a while. (Unless, of course, you keep a full travel savings fund at all times.) So make your decision and start planning early. You'll have more time to save, and you'll have more time to find affordable deals for travel and lodging.
 
 ## Save, Save, Save
 
-I know you're probably saving everything you have right now in order to pay for your wedding. However, it's important to remember that you'll want to save up for your honeymoon too!
+I know you're probably saving everything you have right now in order to pay for your wedding. However, it's important to remember that you'll want to save up for your honeymoon too! Put a monthly amount aside, or save any extra money that you get (bonuses, [tax refunds](https://www.maggiegermano.com/blog/heres-how-you-should-use-your-tax-refund/), or other [windfalls](https://www.maggiegermano.com/blog/what-to-do-if-you-get-a-windfall/)). 
 
 ## Take Advantage of Rewards Programs
 
-I don't usually recommend points churning to my clients, because rewards credit cards have high interest rates that overrule any rewards you get. However, if you trust yourself to pay off your credit cards in full every month, rewards programs can be incredibly helpful. If you are loyal to certain airlines or hotel chains, getting their credit cards might be a good idea. The 
+I don't usually recommend points churning to my clients, because rewards credit cards have high interest rates that overrule any rewards you get. However, if you trust yourself to pay off your credit cards in full every month, rewards programs can be incredibly helpful. If you are loyal to certain airlines or hotel chains, getting their credit cards might be a good idea. The
 
 ## Keep Track of Deals
 
-Once we knew where we wanted to go, it was time to start tracking good deals. The most expensive part of our honeymoon was the flight to Thailand and back, so I wanted to make sure we were getting the best deal. I used platforms like [airfarewatchdog](https://www.airfarewatchdog.com/), [The Flight Deal](https://www.theflightdeal.com/), and [Google Flights](https://www.google.com/flights) to save my desired route and get email alerts whenever there was a good price. This is how I was able to see when an affordable Turkish Airlines flight was available and book it before it changed. 
+Once we knew where we wanted to go, it was time to start tracking good deals. The most expensive part of our honeymoon was the flight to Thailand and back, so I wanted to make sure we were getting the best deal. I used platforms like [airfarewatchdog](https://www.airfarewatchdog.com/), [The Flight Deal](https://www.theflightdeal.com/), and [Google Flights](https://www.google.com/flights) to save my desired route and get email alerts whenever there was a good price. This is how I was able to see when an affordable Turkish Airlines flight was available and book it before it changed.
 
 ## Go Somewhere Close
 

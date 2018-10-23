@@ -11,7 +11,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * We had a guest in our Airbnb from Sunday evening until Friday morning, and another guest is arriving today through the weekend.
 
-* Two of my clients paid their money fees this week. 
+* Three of my clients paid their money fees this week. 
 
 ## **How I Spent Money This Week**
 
