@@ -26,7 +26,7 @@ I know this doesn't sound fun. No one likes to pay off debt with gift money. But
 
 ## Build Up Your Savings
 
-Wh
+One of the cornerstones of financial health is having a funded emergency savings account. This account will protect you and your family if there is a job loss, injury or illness, or other costly emergency. Having three to six months worth of your expenses can prevent you from being evicted, keep you current with your bills, and preserve your peace of mind. When you are joining your life with someone else and increasing your financial responsibilities, it's even more important to have emergency savings. 
 
 ## Do Something Fun
 
