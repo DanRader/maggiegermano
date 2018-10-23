@@ -14,7 +14,7 @@ posts:
 
 Congratulations, you're married! And the wedding planning part of life is finally over! Plus, if you're lucky, you're walking away from your wedding with a nice chunk of change. But it's important to have a plan when you get a windfall like this. You don't want to find yourself a few months from now with no money left and nothing to show for it.
 
-Of course, how you use the money depends on you and your partner's goals and responsibilities. But there are some basics that you should focus on when spending that money.
+Of course, how you use the money depends on you and your partner's goals and responsibilities. But there are some basics that you should focus on when spending (or saving) that money.
 
 > You don't want to find yourself a few months from now with no money left and nothing to show for it.
 
