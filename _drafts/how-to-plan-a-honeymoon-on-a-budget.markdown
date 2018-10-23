@@ -22,7 +22,7 @@ We decided where we wanted to go on our honeymoon at least a year ago. This gave
 
 ## Save, Save, Save
 
-I know you're probably saving everything you have right now in order to pay for your wedding. However, it's important to remember that you'll want to save up for your honeymoon too! Put a monthly amount aside, or save any extra money that you get (bonuses, [tax refunds](https://www.maggiegermano.com/blog/heres-how-you-should-use-your-tax-refund/), or other [windfalls](https://www.maggiegermano.com/blog/what-to-do-if-you-get-a-windfall/)). 
+I know you're probably saving everything you have right now in order to pay for your wedding. However, it's important to remember that you'll want to save up for your honeymoon too! Put a monthly amount aside, or save any extra money that you get (bonuses, [tax refunds](https://www.maggiegermano.com/blog/heres-how-you-should-use-your-tax-refund/), or other [windfalls](https://www.maggiegermano.com/blog/what-to-do-if-you-get-a-windfall/)). You may also want to create a honeymoon fund for your wedding registry. There are lots of options out there through [Zola](https://www.zola.com/invite/maggermano201707311447), [HoneyFund](https://www.honeyfund.com/home?), and other platforms. 
 
 ## Take Advantage of Rewards Programs
 
