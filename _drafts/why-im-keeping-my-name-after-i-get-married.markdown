@@ -43,11 +43,11 @@ A piece of this puzzle that isn't always talked about is the literal cost of cha
 
 * **Passport:** If you're changing your name and you also enjoy to travel, you'll need to get a new passport. This process can cost between [$0 and $165](https://travel.state.gov/content/travel/en/passports/requirements/fees.html), depending on your situation and needs. You'll need to provide proof of citizenship, your marriage license, and possibly another form of photo ID. \*Be careful! If you've already booked a flight in your maiden name, wait to legally change your name until after the trip, or else TSA and Customs will give you a really hard time!\*
 
-* **Bank accounts:** x
+* **Bank accounts:** 
 
-* **Email address:** x
+* **Email address:** This probably doesn't cost anything, but it may be annoying. If your email address includes your name at all, you'll probably want to change it to avoid any confusion. You will create a new email address, and then hopefully have your old email address forward any messages to your new one.
 
-* **All online accounts:** x
+* **All online accounts:** Another free step, but if you change your name, you'll probably want to change it on all your social media accounts, especially if you're well-known. 
 
 * **Website domain:** If you have your own business or other type of
 
