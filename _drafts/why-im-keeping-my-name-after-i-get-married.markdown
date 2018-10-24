@@ -25,7 +25,7 @@ The history of a woman taking her husband’s name.
 
 * **My connection with my family:** This reason is slightly hypocritical because one of my arguments against changing my name is that everyone in a family doesn't have to have the same name to be considered a family. But I do identify strongly as a "Germano" and want to stay that way.
 
-* **My principles:** My main issue with the name change question is that men don't have to answer it. 
+* **My principles:** My main issue with the name change question is that men don't have to answer it. Women have to spend a lot of time and emotional energy thinking about the decision and talking about it with people who ask. Men just don't have that same burden. It's a given that they will have their name forever and their family will also bear that name. Women should have that same expectation. 
 
 * **My domain name and business recognition:** When I started my business, I decided to name it after myself because I knew my name would never change. I didn't want to come up with a cutesy business name and then change it later when I grew out of it. If I changed my name now, I would have to change my business name, all my materials, and my domain name. 
 
@@ -41,15 +41,15 @@ A piece of this puzzle that isn't always talked about is the literal cost of cha
 
 * **State-issued identification:** Once you update your social security card, you can go to the DMV to update your license or other ID. In Maryland, where I live, you have to alert the DMV within 30 days of the change. This can cost nothing or you may have to pay the renewal fee. To see how the process works in your state, Google "how to change my name on my \[state name\] license". 
 
-* **Passport:** If you're changing your name and you also enjoy to travel, you'll need to get a new passport. This process can cost between [$0 and $165](https://travel.state.gov/content/travel/en/passports/requirements/fees.html), depending on your situation and needs. You'll need to provide proof of citizenship, your marriage license, and possibly another form of photo ID. \*Be careful! If you've already booked a flight in your maiden name, wait to legally change your name until after the trip, or else TSA and Customs will give you a really hard time!\*
+* **Passport:** If you're changing your name and you also enjoy to travel, you'll need to get a new passport. This process can cost between [$0 and $165](https://travel.state.gov/content/travel/en/passports/requirements/fees.html), depending on your situation and needs. You'll need to provide proof of citizenship, your marriage license, and possibly another form of photo ID. *Be careful! If you've already booked a flight in your maiden name, wait to legally change your name until after the trip, or else TSA and Customs will give you a really hard time!*
 
-* **Bank accounts:** 
+* **Bank accounts:** You'll have to show your marriage license and proof of your name change in order to update your name in your banking and other financial accounts. You'll want to do that soon if you've received any wedding gift checks in your married name. 
 
 * **Email address:** This probably doesn't cost anything, but it may be annoying. If your email address includes your name at all, you'll probably want to change it to avoid any confusion. You will create a new email address, and then hopefully have your old email address forward any messages to your new one.
 
 * **All online accounts:** Another free step, but if you change your name, you'll probably want to change it on all your social media accounts, especially if you're well-known. 
 
-* **Website domain:** If you have your own business or other type of
+* **Website domain:** If you have your own business or have a blog or other website that is under your name, you'll likely want to update it. This means buying a new domain name and forwarding visitors to your old site to your new one. 
 
 * **Voter registration:** Don't forget to do this! Especially if you changed your name this year. Go to the website for your state or local election office. You may be able to change information on your registration, or you may have to re-register all together. 
 
