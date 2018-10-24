@@ -11,7 +11,7 @@ posts:
 - Why It's Important to Get Your Money Right (As a Woman)
 ---
 
-**Disclaimer:** *This article is going to be super heteronormative. I’m speaking about my own experience, and based on the research that has been conducted so far. Unfortunately, much of the research has only focused on heterosexual (white?) couples. I will include some stats about gay couples, but most of this article will focus on my thoughts on heterosexual marriage, as that’s what I’m about to enter into! I’d love to hear your experience as someone in a same-sex marriage (or otherwise), so please do share in the comments!*
+**Disclaimer:** *This article is going to be super heteronormative. I’m speaking about my own experience, and based on the research that has been conducted so far. Unfortunately, much of the research has only focused on heterosexual (white?) couples, and I couldn't find any data on how same sex couples land on this issue. I’d love to hear your experience as someone in a same-sex marriage (or otherwise), so please do share in the comments!*
 
 Eighty to ninety percent of heterosexual American women take their husband's last name after they get married. Only three percent of men take their wife’s last name. In a [2011 study](http://journals.sagepub.com/doi/abs/10.1177/0891243211398653), seventy-two percent of respondents said they believe women *should* take their husband's last name. Half of those people said they think it should be legally required for women to do so!
 
@@ -52,6 +52,8 @@ A piece of this puzzle that isn't always talked about is the literal cost of cha
 * **Website domain:** If you have your own business or have a blog or other website that is under your name, you'll likely want to update it. This means buying a new domain name and forwarding visitors to your old site to your new one. 
 
 * **Voter registration:** Don't forget to do this! Especially if you changed your name this year. Go to the website for your state or local election office. You may be able to change information on your registration, or you may have to re-register all together. 
+
+* **Insurance:** If you have health insurance, car insurance, homeowners insurance, renters insurance, or anything else, you'll have to update them and let them know your name has changed. 
 
 If you want to change your name and don't want to deal with the hassle of all these changes yourself, there are actually companies out there that will do it for you for a fee, like [MissNowMrs](https://www.missnowmrs.com/). 
 
