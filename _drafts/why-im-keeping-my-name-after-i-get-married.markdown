@@ -53,6 +53,8 @@ A piece of this puzzle that isn't always talked about is the literal cost of cha
 
 * **Voter registration:** Don't forget to do this! Especially if you changed your name this year. Go to the website for your state or local election office. You may be able to change information on your registration, or you may have to re-register all together. 
 
+* **Insurance:** If you have health insurance, car insurance, homeowners insurance, renters insurance, or anything else, you'll have to update them and let them know your name has changed. 
+
 If you want to change your name and don't want to deal with the hassle of all these changes yourself, there are actually companies out there that will do it for you for a fee, like [MissNowMrs](https://www.missnowmrs.com/). 
 
 Ultimately, it's up to the individual whether or not they want to change their name. And I'm trying to be less reactionary when I see my friends change their names on Facebook. However, I do hope that one day men and women change their names at an equal rate, rather than it being a given that women will do it. But until then,
