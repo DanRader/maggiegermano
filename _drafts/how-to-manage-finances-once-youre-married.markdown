@@ -12,4 +12,6 @@ posts:
 - What Survivors Wish You Knew About Financial Abuse
 ---
 
-One of the most popular questions I get from clients and readers is this: how should we combine finances after we get married? 
+One of the most popular questions I get from clients and readers is this: how should we combine finances after we get married? And to be honest, there's no one-size-fits-all answer to that question.
+
+Talk, Talk, Talk
