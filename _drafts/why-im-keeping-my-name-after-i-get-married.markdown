@@ -41,7 +41,7 @@ A piece of this puzzle that isn't always talked about is the literal cost of cha
 
 * **State-issued identification:** x
 
-* **Passport:** x Be careful! If you've already booked a flight in your maiden name, wait to legally change your name until after the trip, or else TSA and Customs will give you a really hard time!
+* **Passport:** If you're changing your name and you also enjoy to travel, you'll need to get a new passport. This process can cost between [$0 and $165](https://travel.state.gov/content/travel/en/passports/requirements/fees.html), depending on your situation and needs. You'll need to provide proof of citizenship, your marriage license, and possibly another form of photo ID. \*Be careful! If you've already booked a flight in your maiden name, wait to legally change your name until after the trip, or else TSA and Customs will give you a really hard time!\*
 
 * **Bank accounts:** x
 
