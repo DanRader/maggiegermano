@@ -21,13 +21,13 @@ The history of a woman taking her husband’s name.
 
 ## What I feel like I’d be losing:
 
-* **My identity:** I've been Maggie Germano for my entire life. I would be giving up a big part of myself if I gave up my name for a new one.
+* **My identity:** I've been Maggie Germano for my entire life, and I love my name. I would be giving up a big part of myself if I gave it up for a new one.
 
 * **My connection with my family:** This reason is slightly hypocritical because one of my arguments against changing my name is that everyone in a family doesn't have to have the same name to be considered a family. But I do identify strongly as a "Germano" and want to stay that way.
 
-* **My principles:** My main issue with the name change question is that men don't have to answer it. Women have to spend a lot of time and emotional energy thinking about the decision and talking about it with people who ask. Men just don't have that same burden. It's a given that they will have their name forever and their family will also bear that name. Women should have that same expectation. 
+* **My principles:** My main issue with the name change question is that men don't have to answer it. Women have to spend a lot of time and emotional energy thinking about the decision and talking about it with people who ask. Men just don't have that same burden. It's a given that they will have their name forever and their family will also bear that name. Women should have that same expectation. For me, it's a feminist decision to keep my own name after marriage. 
 
-* **My domain name and business recognition:** When I started my business, I decided to name it after myself because I knew my name would never change. I didn't want to come up with a cutesy business name and then change it later when I grew out of it. If I changed my name now, I would have to change my business name, all my materials, and my domain name. 
+* **My domain name and business recognition:** When I started my business, I decided to name it after myself. I didn't want to come up with a cutesy business name and then change it later when I grew out of it. I also knew I would never change my name, so my business name is evergreen. If I changed my name now, I would have to change my business name, all of my materials, and my domain name. 
 
 I honestly don’t know what we’ll do with our kids’ names. We’ve been talking about that a lot lately, and haven’t come to a real agreement. In fact, it's been a point of contention, because we both have the same arguments for our kids having either of our last names. I do think it’s unfair that a woman is not present in her children’s identity (name). We give birth, we are still the primary caregiver. We are just as much an influential parent as a father may be. Why can’t our children carry our names?
 
@@ -55,7 +55,7 @@ A piece of this puzzle that isn't always talked about is the literal cost of cha
 
 * **Insurance:** If you have health insurance, car insurance, homeowners insurance, renters insurance, or anything else, you'll have to update them and let them know your name has changed. 
 
-If you want to change your name and don't want to deal with the hassle of all these changes yourself, there are actually companies out there that will do it for you for a fee, like [MissNowMrs](https://www.missnowmrs.com/). 
+If you want to change your name and don't want to deal with the hassle of all these changes yourself, there are actually companies out there that will do it for you for a fee, like [MissNowMrs](https://www.missnowmrs.com/). However! They just fill out the forms for you, they can't do the actual filing. If you hate filling out paperwork, it might be useful, but otherwise, there's still legwork that you need to do.
 
 Ultimately, it's up to the individual whether or not they want to change their name. And I'm trying to be less reactionary when I see my friends change their names on Facebook. However, I do hope that one day men and women change their names at an equal rate, rather than it being a given that women will do it. But until then,
 
