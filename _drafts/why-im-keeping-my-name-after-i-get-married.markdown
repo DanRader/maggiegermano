@@ -25,7 +25,7 @@ The history of a woman taking her husband’s name.
 
 * **My connection with my family:** This reason is slightly hypocritical because one of my arguments against changing my name is that everyone in a family doesn't have to have the same name to be considered a family. But I do identify strongly as a "Germano" and want to stay that way.
 
-* **My principles:** My main issue with the name change question is that men don't have to answer it. Women have to spend a lot of time and emotional energy thinking about the decision and talking about it with people who ask. 
+* **My principles:** My main issue with the name change question is that men don't have to answer it. Women have to spend a lot of time and emotional energy thinking about the decision and talking about it with people who ask. Men just don't have that same burden. It's a given that they will have their name forever and their family will also bear that name. Women should have that same expectation. 
 
 * **My domain name and business recognition:** When I started my business, I decided to name it after myself because I knew my name would never change. I didn't want to come up with a cutesy business name and then change it later when I grew out of it. If I changed my name now, I would have to change my business name, all my materials, and my domain name. 
 
