@@ -39,17 +39,21 @@ A piece of this puzzle that isn't always talked about is the literal cost of cha
 
 * **Social security card:** This is the first step you should take, since you'll need an updated social security card in order to update other items. You'll need to provide your birth certificate, marriage license, and other identification in order to go through this process. This step costs nothing, but you will have to go into the [Social Security Administration](https://www.ssa.gov/) to do it.
 
-* **State-issued identification:** Once you update your social security card, you can go to the DMV to update your license or other ID. In Maryland, where I live, you have to alert the DMV within 30 days of the change. To see how the process works in your state, Google "how to change my name on my \[state name\] license". 
+* **State-issued identification:** Once you update your social security card, you can go to the DMV to update your license or other ID. In Maryland, where I live, you have to alert the DMV within 30 days of the change. This can cost nothing or you may have to pay the renewal fee. To see how the process works in your state, Google "how to change my name on my \[state name\] license". 
 
 * **Passport:** If you're changing your name and you also enjoy to travel, you'll need to get a new passport. This process can cost between [$0 and $165](https://travel.state.gov/content/travel/en/passports/requirements/fees.html), depending on your situation and needs. You'll need to provide proof of citizenship, your marriage license, and possibly another form of photo ID. \*Be careful! If you've already booked a flight in your maiden name, wait to legally change your name until after the trip, or else TSA and Customs will give you a really hard time!\*
 
-* **Bank accounts:** x
+* **Bank accounts:** 
 
-* **Email address:** x
+* **Email address:** This probably doesn't cost anything, but it may be annoying. If your email address includes your name at all, you'll probably want to change it to avoid any confusion. You will create a new email address, and then hopefully have your old email address forward any messages to your new one.
 
-* **All online accounts:** x
+* **All online accounts:** Another free step, but if you change your name, you'll probably want to change it on all your social media accounts, especially if you're well-known. 
 
 * **Website domain:** If you have your own business or other type of
+
+* **Voter registration:** Don't forget to do this! Especially if you changed your name this year. Go to the website for your state or local election office. You may be able to change information on your registration, or you may have to re-register all together. 
+
+If you want to change your name and don't want to deal with the hassle of all these changes yourself, there are actually companies out there that will do it for you for a fee, like [MissNowMrs](https://www.missnowmrs.com/). 
 
 Ultimately, it's up to the individual whether or not they want to change their name. And I'm trying to be less reactionary when I see my friends change their names on Facebook. However, I do hope that one day men and women change their names at an equal rate, rather than it being a given that women will do it. But until then,
 
