@@ -21,7 +21,7 @@ The history of a woman taking her husband’s name.
 
 ## What I feel like I’d be losing:
 
-* **My identity:** I've been Maggie Germano for my entire life. I would be giving up a big part of myself if I gave up my name for a new one.
+* **My identity:** I've been Maggie Germano for my entire life, and I love my name. I would be giving up a big part of myself if I gave it up for a new one.
 
 * **My connection with my family:** This reason is slightly hypocritical because one of my arguments against changing my name is that everyone in a family doesn't have to have the same name to be considered a family. But I do identify strongly as a "Germano" and want to stay that way.
 
@@ -55,7 +55,7 @@ A piece of this puzzle that isn't always talked about is the literal cost of cha
 
 * **Insurance:** If you have health insurance, car insurance, homeowners insurance, renters insurance, or anything else, you'll have to update them and let them know your name has changed. 
 
-If you want to change your name and don't want to deal with the hassle of all these changes yourself, there are actually companies out there that will do it for you for a fee, like [MissNowMrs](https://www.missnowmrs.com/). 
+If you want to change your name and don't want to deal with the hassle of all these changes yourself, there are actually companies out there that will do it for you for a fee, like [MissNowMrs](https://www.missnowmrs.com/). However! They just fill out the forms for you, they can't do the actual filing. If you hate filling out paperwork, it might be useful, but otherwise, there's still legwork that you need to do.
 
 Ultimately, it's up to the individual whether or not they want to change their name. And I'm trying to be less reactionary when I see my friends change their names on Facebook. However, I do hope that one day men and women change their names at an equal rate, rather than it being a given that women will do it. But until then,
 
