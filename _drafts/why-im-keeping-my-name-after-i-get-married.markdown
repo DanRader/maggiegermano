@@ -19,7 +19,9 @@ I would love to say that I don't hold any judgment for women who do change their
 
 ## The History of a Woman Taking Her Husband's Name
 
-## What I Feel Like I’d Be losing:
+x
+
+## What I Feel Like I’d Be Losing
 
 * **My identity:** I've been Maggie Germano for my entire life, and I love my name. I would be giving up a big part of myself if I gave it up for a new one.
 
@@ -29,11 +31,13 @@ I would love to say that I don't hold any judgment for women who do change their
 
 * **My domain name and business recognition:** When I started my business, I decided to name it after myself. I didn't want to come up with a cutesy business name and then change it later when I grew out of it. I also knew I would never change my name, so my business name is evergreen. If I changed my name now, I would have to change my business name, all of my materials, and my domain name.
 
+## But, What About the Kids?
+
 I honestly don’t know what we’ll do with our kids’ names. We’ve been talking about that a lot lately, and haven’t come to a real agreement. In fact, it's been a point of contention, because we both have the same arguments for our kids having either of our last names. I do think it’s unfair that a woman is not present in her children’s identity (name). We give birth, we are still the primary caregiver. We are just as much an influential parent as a father may be. Why can’t our children carry our names?
 
 I’m not keen on a hyphenated name (Germano-Rader or Rader-Germano). The idea of using our couple name (Radermano) seems perfect and adorable but also isn’t actually a name (but what’s in a name? Aren’t they all made up?). Dan has suggested that we use my last name as our kids’ middle names but that isn’t super appealing to me either.
 
-## The Cost/Inconvenience of Changing Your Name:
+## The Cost/Inconvenience of Changing Your Name
 
 A piece of this puzzle that isn't always talked about is the literal cost of changing your name. There are a lot of documents to change and processes to go through to make that happen. Most of those things cost time and money, and women are the ones paying it.
 
