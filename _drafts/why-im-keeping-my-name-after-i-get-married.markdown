@@ -19,7 +19,7 @@ I would love to say that I don't hold any judgment for women who do change their
 
 ## The History of a Woman Taking Her Husband's Name
 
-Women began taking their husbands' last name in England in the 9th century. This was because women were considered "one" with their husbands after marriage. This might sound romantic, but what it really meant was that women had no legal identity apart from their husband. (This actually applied to being given your father's name at birth, as well.) 
+Women began taking their husbands' last name in England in the 9th century. This was because women were considered "one" with their husbands after marriage. This might sound romantic, but what it really meant was that women had no legal identity apart from their husband. (This actually applied to being given your father's name at birth, as well.) Being one with your husband meant that you couldn't own property, participate in business, and more. 
 
 ## What I Feel Like I’d Be Losing
 
