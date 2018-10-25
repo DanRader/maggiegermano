@@ -11,7 +11,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * We had a guest in our Airbnb from Sunday evening until Friday morning, and another guest is arriving today through the weekend.
 
-* Three of my clients paid their money fees this week. 
+* Three of my clients paid their money fees this week.
 
 ## **How I Spent Money This Week**
 
@@ -23,7 +23,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## **What I’m Writing**
 
-This week, I wrote about how I had the money talk with my fiance when we were first dating.
+This week, I wrote about how I had the [money talk](https://www.maggiegermano.com/blog/how-i-had-the-money-talk-with-my-dude/) with my fiance when we were first dating.
 
 ## **What I’m Up To**
 
