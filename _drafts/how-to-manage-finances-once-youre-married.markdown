@@ -20,14 +20,20 @@ I hope you had the money talk before you got married, but if not, you must do it
 
 ## Get Transparent
 
-If you're going to be sharing your life, you should be transparent about what that life includes. That means getting really honest about 
+If you're going to be sharing your life, you should be transparent about what that life includes. That means getting really honest about
 
 ## Set Joint Goals
 
+Money is much easier to talk about when you frame it around your goals. Setting joint goals is even more important, so that you both know what you're working towards. 
+
 ## Decide If/How to Combine Accounts
 
-Every couple handles money differently. Gone are the days when the husband earned the money and handled all the financial decisions. Gone are the days when women weren't even allowed to have their own bank accounts. Now, as marriages look different than they used to, and women are becoming the main breadwinners, there are more options for handling money. 
+Every couple handles money differently. Gone are the days when the husband earned the money and handled all the financial decisions. Gone are the days when women weren't even allowed to have their own bank accounts. Now, as marriages look different than they used to, and women are becoming the main breadwinners, there are more options for handling money.
 
-I personally like to have some of my own money. I think it's important to at least have your own personal emergency savings account in case you need to leave a relationship. 
+I personally like to have some of my own money. I think it's important to at least have your own personal emergency savings account in case you need to leave a relationship.
+
+## Assign the Money Point Person
+
+Who is going to be the one to pay the bills? Whose name is going to be on the accounts? Sometimes, there is an obvious person who is 
 
 ## Have Regular Money Dates
