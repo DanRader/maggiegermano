@@ -14,4 +14,20 @@ posts:
 
 One of the most popular questions I get from clients and readers is this: how should we combine finances after we get married? And to be honest, there's no one-size-fits-all answer to that question.
 
-Talk, Talk, Talk
+## Talk, Talk, Talk
+
+I hope you had the money talk before you got married, but if not, you must do it now. Money touches every area of our lives, so it's imperative to talk about it with our partners.
+
+## Get Transparent
+
+If you're going to be sharing your life, you should be transparent about what that life includes. That means getting really honest about 
+
+## Set Joint Goals
+
+## Decide If/How to Combine Accounts
+
+Every couple handles money differently. Gone are the days when the husband earned the money and handled all the financial decisions. Gone are the days when women weren't even allowed to have their own bank accounts. Now, as marriages look different than they used to, and women are becoming the main breadwinners, there are more options for handling money. 
+
+I personally like to have some of my own money. I think it's important to at least have your own personal emergency savings account in case you need to leave a relationship. 
+
+## Have Regular Money Dates
