@@ -16,6 +16,8 @@ One of the most popular questions I get from clients and readers is this: how sh
 
 Talk, Talk, Talk
 
+I hope you had the money talk before you got married, but if not, you must do it now. Money touches every area of our lives, so it's imperative to talk about it with our partners.
+
 Get Transparent
 
 If you're going to be sharing your life, you should be transparent about what that life includes. That means getting really honest about 
