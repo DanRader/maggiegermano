@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Love, Yoga, and Eating Well
 date: 2018-10-26 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 ---
@@ -31,11 +32,13 @@ This week, I wrote about how I had the [money talk](https://www.maggiegermano.co
 
 * I was one of the guests on the live taping of the [Bossed Up](http://www.bossedup.org) podcast this week! We talked about women and wealth, and how to close the wage, investment, and wealth gaps. Stay tuned and I'll let you know when the episode goes up!
 
+![b75a8688.JPG](/uploads/b75a8688.JPG)
+
 ## **What I’m Excited About**
 
-* x
+* I'm getting married in two weeks! We hosted my dear friend (and real estate agent - hire her!) Liz Delgado-Steo for dinner last night, because she will be emceeing our wedding. Going over the details of the evening made it more real and exciting. 
 
-* x
+* Getting married in two weeks means we're going on our honeymoon in 16 days! If you haven't yet told me your favorite things to do, see, or eat in Thailand, please comment below! 
 
 ## **Money Tip to Take Into the Weekend**
 
