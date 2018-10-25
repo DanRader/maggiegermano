@@ -15,3 +15,11 @@ posts:
 One of the most popular questions I get from clients and readers is this: how should we combine finances after we get married? And to be honest, there's no one-size-fits-all answer to that question.
 
 Talk, Talk, Talk
+
+Get Transparent
+
+If you're going to be sharing your life, you should be transparent about what that life includes. That means getting really honest about 
+
+Set Joint Goals
+
+Have Regular Money Dates
