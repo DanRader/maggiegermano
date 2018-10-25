@@ -24,7 +24,7 @@ If you're going to be sharing your life, you should be transparent about what th
 
 ## Set Joint Goals
 
-Money is much easier to talk about when you frame it around your goals. Setting joint goals is even more important, so that you both know what you're working towards. 
+Money is much easier to talk about when you frame it around your goals. Setting joint goals is even more important, so that you both know what you're working towards.
 
 ## Decide If/How to Combine Accounts
 
@@ -34,6 +34,8 @@ I personally like to have some of my own money. I think it's important to at lea
 
 ## Assign the Money Point Person
 
-Who is going to be the one to pay the bills? Whose name is going to be on the accounts? Sometimes, there is an obvious person who is 
+Who is going to be the one to pay the bills? Whose name is going to be on the accounts? Sometimes, there is an obvious person who is
 
 ## Have Regular Money Dates
+
+Just like you can't set and forget a budget, you can't set and forget joint financial goals. You have to check in and make sure things are still on track, and see if there are any tweaks that need to be made. 
