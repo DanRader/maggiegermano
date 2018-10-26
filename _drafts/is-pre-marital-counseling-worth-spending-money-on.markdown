@@ -13,4 +13,4 @@ posts:
 
 Dan and I are getting married this Saturday (!!!???).
 
-A couple months ago, we teamed up with a therapist for pre-marital counseling.
+A couple of months ago, we teamed up with a therapist for pre-marital counseling. It was important to me for us to prepare for marriage by going through this counseling. We had attended an 8-hour pre-marital workshop in January and enjoyed it. 
