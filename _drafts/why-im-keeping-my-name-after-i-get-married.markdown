@@ -45,7 +45,7 @@ I’m not keen on a hyphenated name (Germano-Rader or Rader-Germano). The idea o
 
 A piece of this puzzle that isn't always talked about is the literal cost of changing your name. There are a lot of documents to change and processes to go through to make that happen. Most of those things cost time and money, and women are the ones paying for it.
 
-* **Social security card:** This is the first step you should take, since you'll need an updated social security card in order to update other items. You'll need to provide your birth certificate, marriage license, and other identification in order to go through this process. This step costs nothing, but you will have to go into the [Social Security Administration](https://www.ssa.gov/) to do it.
+* **Social security card:** This is the first step you should take, since you'll need an updated social security card in order to update other items. You'll need to provide your birth certificate, marriage license, and other identification in order to go through this process. This step costs nothing, but you will have to go to the [Social Security Administration](https://www.ssa.gov/) to do it.
 
 * **State-issued identification:** Once you update your social security card, you can go to the DMV to update your license or other ID. In Maryland, where I live, you have to alert the DMV within 30 days of the change. This can cost nothing or you may have to pay the renewal fee. To see how the process works in your state, Google "how to change my name on my \[state name\] license".
 
