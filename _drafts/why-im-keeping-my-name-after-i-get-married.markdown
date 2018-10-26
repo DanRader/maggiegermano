@@ -43,7 +43,7 @@ I’m not keen on a hyphenated name (Germano-Rader or Rader-Germano). The idea o
 
 ## The Cost/Inconvenience of Changing Your Name
 
-A piece of this puzzle that isn't always talked about is the literal cost of changing your name. There are a lot of documents to change and processes to go through to make that happen. Most of those things cost time and money, and women are the ones paying it.
+A piece of this puzzle that isn't always talked about is the literal cost of changing your name. There are a lot of documents to change and processes to go through to make that happen. Most of those things cost time and money, and women are the ones paying for it.
 
 * **Social security card:** This is the first step you should take, since you'll need an updated social security card in order to update other items. You'll need to provide your birth certificate, marriage license, and other identification in order to go through this process. This step costs nothing, but you will have to go into the [Social Security Administration](https://www.ssa.gov/) to do it.
 
