@@ -3,6 +3,11 @@ title: Founder Friday | Love, Yoga, and Eating Well
 date: 2018-10-26 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/rawpixel-771284-unsplash.jpg"
+posts:
+- Founder Friday | UCB, Bachelorette Parties, and Bossed Up
+- Founder Friday | Doctors, Los Angeles and Wild Cozy Truth
+- Founder Friday | YWCA, Money Circle, and Home Renovations
 ---
 
 Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
