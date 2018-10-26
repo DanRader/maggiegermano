@@ -13,15 +13,17 @@ posts:
 
 **Disclaimer:** *This article is going to be super heteronormative. I’m speaking about my own experience and the research that has been conducted so far. Unfortunately, much of the research has only focused on heterosexual couples, and I couldn't find any data on how same sex couples land on this issue. I’d love to hear your experience as someone in a same-sex marriage (or otherwise), so please do share in the comments!*
 
-Eighty to ninety percent of heterosexual American women take their husband's last name after they get married. Only three percent of men take their wife’s last name. In a [2011 study](http://journals.sagepub.com/doi/abs/10.1177/0891243211398653), seventy-two percent of respondents said they believe women *should* take their husband's last name. Half of those people said they think it should be legally required for women to do so!
+I'm getting married next weekend. That means that the topic of a name change has come up a lot in conversation and has also been on my mind. I've known for years that I'm not changing my name (I'm pretty sure I told Dan that on our third date), but it is still something that has been somewhat stressing me out. So, of course, I decided to write about it!
+
+Eighty to ninety percent of heterosexual American women take their husband's last name after they get married. In contrast, only three percent of men take their wife’s last name. In a [2011 study](http://journals.sagepub.com/doi/abs/10.1177/0891243211398653), seventy-two percent of respondents said they believe women *should* take their husband's last name. Half of those people said they think it should be legally required for women to do so!
 
 I would love to say that I don't hold any judgment for women who do change their names, but I am still a human. I believe that women should make whatever choice they feel best about, and if that means changing their name, go for it! But I'd be lying if I said I didn't bristle a little bit every time a friend changes their name on Facebook the day after their wedding. This is not because I'm against the idea of having one name for a family, it's because women are the only ones who are expected to do so. Yes, there are some guys out there who will take their wife's name, but that's still incredibly uncommon. I would feel so much better if it was more of a real conversation, but we aren't there yet.
 
 ## The History of a Woman Taking Her Husband's Name
 
-Women began taking their husbands' last name in England in the 9th century. This was because women were considered "one" with their husbands after marriage. This might sound romantic, but what it really meant was that women had no legal identity apart from their husband. (This actually applied to being given your father's name at birth, as well.) Being one with your husband meant that you couldn't own property, participate in business, and more.
+Women began taking their husbands' last name in England in the 9th century. This was because women were considered "one" with their husbands after marriage. That might sound romantic, but what it really meant was that women had no legal identity apart from their husband. (This actually applied to being given your father's name at birth, as well.) Being one with your husband meant that you couldn't own property, participate in business, and more. Everything you had automatically belonged to your husband after marriage. 
 
-It wasn't until the mid-1800s that women were able to own and inherit property in countries like the [United States](https://en.wikipedia.org/wiki/Married_Women%27s_Property_Acts_in_the_United_States) and the [United Kingdom](https://en.wikipedia.org/wiki/Married_Women%27s_Property_Act_1870). At that time, women began to keep their maiden names, as they held more value and recognition, now that they could own property and participate in business.
+It wasn't until the mid-1800s that women were able to own and inherit property in countries like the [United States](https://en.wikipedia.org/wiki/Married_Women%27s_Property_Acts_in_the_United_States) and the [United Kingdom](https://en.wikipedia.org/wiki/Married_Women%27s_Property_Act_1870). At that time, some women began to keep their maiden names, as they held more value and recognition, now that they could own property and participate in business.
 
 ## What I Feel Like I’d Be Losing
 
@@ -41,9 +43,9 @@ I’m not keen on a hyphenated name (Germano-Rader or Rader-Germano). The idea o
 
 ## The Cost/Inconvenience of Changing Your Name
 
-A piece of this puzzle that isn't always talked about is the literal cost of changing your name. There are a lot of documents to change and processes to go through to make that happen. Most of those things cost time and money, and women are the ones paying it.
+A piece of this puzzle that isn't always talked about is the literal cost of changing your name. There are a lot of documents to change and processes to go through to make that happen. Most of those things cost time and money, and women are the ones paying for it.
 
-* **Social security card:** This is the first step you should take, since you'll need an updated social security card in order to update other items. You'll need to provide your birth certificate, marriage license, and other identification in order to go through this process. This step costs nothing, but you will have to go into the [Social Security Administration](https://www.ssa.gov/) to do it.
+* **Social security card:** This is the first step you should take, since you'll need an updated social security card in order to update other items. You'll need to provide your birth certificate, marriage license, and other identification in order to go through this process. This step costs nothing, but you will have to go to the [Social Security Administration](https://www.ssa.gov/) to do it.
 
 * **State-issued identification:** Once you update your social security card, you can go to the DMV to update your license or other ID. In Maryland, where I live, you have to alert the DMV within 30 days of the change. This can cost nothing or you may have to pay the renewal fee. To see how the process works in your state, Google "how to change my name on my \[state name\] license".
 
