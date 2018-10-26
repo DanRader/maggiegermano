@@ -11,7 +11,7 @@ posts:
 - Why It's Important to Get Your Money Right (As a Woman)
 ---
 
-**Disclaimer:** *This article is going to be super heteronormative. I’m speaking about my own experience, and based on the research that has been conducted so far. Unfortunately, much of the research has only focused on heterosexual (white?) couples, and I couldn't find any data on how same sex couples land on this issue. I’d love to hear your experience as someone in a same-sex marriage (or otherwise), so please do share in the comments!*
+**Disclaimer:** *This article is going to be super heteronormative. I’m speaking about my own experience and the research that has been conducted so far. Unfortunately, much of the research has only focused on heterosexual couples, and I couldn't find any data on how same sex couples land on this issue. I’d love to hear your experience as someone in a same-sex marriage (or otherwise), so please do share in the comments!*
 
 Eighty to ninety percent of heterosexual American women take their husband's last name after they get married. Only three percent of men take their wife’s last name. In a [2011 study](http://journals.sagepub.com/doi/abs/10.1177/0891243211398653), seventy-two percent of respondents said they believe women *should* take their husband's last name. Half of those people said they think it should be legally required for women to do so!
 
@@ -19,9 +19,9 @@ I would love to say that I don't hold any judgment for women who do change their
 
 ## The History of a Woman Taking Her Husband's Name
 
-Women began taking their husbands' last name in England in the 9th century. This was because women were considered "one" with their husbands after marriage. This might sound romantic, but what it really meant was that women had no legal identity apart from their husband. (This actually applied to being given your father's name at birth, as well.) Being one with your husband meant that you couldn't own property, participate in business, and more. 
+Women began taking their husbands' last name in England in the 9th century. This was because women were considered "one" with their husbands after marriage. This might sound romantic, but what it really meant was that women had no legal identity apart from their husband. (This actually applied to being given your father's name at birth, as well.) Being one with your husband meant that you couldn't own property, participate in business, and more.
 
-It wasn't until the mid-1800s that women were able to own and inherit property in countries like the [United States](https://en.wikipedia.org/wiki/Married_Women%27s_Property_Acts_in_the_United_States) and the [United Kingdom](https://en.wikipedia.org/wiki/Married_Women%27s_Property_Act_1870). At that time, women began to keep their maiden names, as they held more value and recognition, now that they could own property and participate in business. 
+It wasn't until the mid-1800s that women were able to own and inherit property in countries like the [United States](https://en.wikipedia.org/wiki/Married_Women%27s_Property_Acts_in_the_United_States) and the [United Kingdom](https://en.wikipedia.org/wiki/Married_Women%27s_Property_Act_1870). At that time, women began to keep their maiden names, as they held more value and recognition, now that they could own property and participate in business.
 
 ## What I Feel Like I’d Be Losing
 
@@ -37,7 +37,7 @@ It wasn't until the mid-1800s that women were able to own and inherit property i
 
 I honestly don’t know what we’ll do with our kids’ names. We’ve been talking about that a lot lately, and haven’t come to a real agreement. In fact, it's been a point of contention, because we both have the same arguments for our kids having either of our last names. I do think it’s unfair that a woman is not present in her children’s identity (name). We give birth, we are still the primary caregiver. We are just as much an influential parent as a father may be. Why can’t our children carry our names?
 
-I’m not keen on a hyphenated name (Germano-Rader or Rader-Germano). The idea of using our couple name (Radermano) seems perfect and adorable but also isn’t actually a name (but what’s in a name? Aren’t they all made up?). Dan has suggested that we use my last name as our kids’ middle names but that isn’t super appealing to me either. The conversation has been mildly contentious, as we both have similar arguments. For me, it's important to be *having* the conversation, rather than just accepting it as a given that our kids will have his name. So we'll see what we end up choosing. 
+I’m not keen on a hyphenated name (Germano-Rader or Rader-Germano). The idea of using our couple name (Radermano) seems perfect and adorable but also isn’t actually a name (but what’s in a name? Aren’t they all made up?). Dan has suggested that we use my last name as our kids’ middle names but that isn’t super appealing to me either. The conversation has been mildly contentious, as we both have similar arguments. For me, it's important to be *having* the conversation, rather than just accepting it as a given that our kids will have his name. So we'll see what we end up choosing.
 
 ## The Cost/Inconvenience of Changing Your Name
 
