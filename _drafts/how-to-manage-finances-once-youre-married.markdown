@@ -30,7 +30,7 @@ Money is much easier to talk about when you frame it around your goals. It remin
 
 Every couple handles money differently. Gone are the days when the husband earned the money and handled all the financial decisions. Gone are the days when women weren't even allowed to have their own bank accounts. Now, as marriages look different than they used to, and women are becoming the main breadwinners, there are more options for handling money.
 
-I personally like to have some of my own money. I think it's important to at least have your own personal emergency savings account in case you need to leave a relationship.
+I personally like to have some of my own money. I think it's important to at least have your own personal emergency savings account in case you need to leave a relationship. For Dan and me, we each have our own checking and savings accounts, but we also have joint accounts. Most of our expenses and spending come out of our joint accounts, but we also have our own money to use as we please. 
 
 ## Assign the Money Point Person
 
