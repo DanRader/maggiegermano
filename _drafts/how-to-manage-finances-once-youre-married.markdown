@@ -16,7 +16,7 @@ One of the most popular questions I get from clients and readers is this: how sh
 
 ## Talk, Talk, Talk
 
-I hope you had the money talk before you got married, but if not, you must do it now. Money touches every area of our lives, so it's imperative to talk about it with our partners.
+I hope you had the money talk before you got married, but if not, you must do it now. Money touches every area of our lives, so it's imperative to talk about it with our partners. Talk about how your parents dealt with money while you were growing up. Talk about any money mistakes you've made it the past. Talk about your money habits and if and when you go overboard with your spending. 
 
 ## Get Transparent
 
