@@ -34,7 +34,7 @@ I personally like to have some of my own money. I think it's important to at lea
 
 ## Assign the Money Point Person
 
-Who is going to be the one to pay the bills? Whose name is going to be on the accounts? Sometimes, there is an obvious person who is more inclined
+Who is going to be the one to pay the bills? Whose name is going to be on the accounts? Sometimes, there is an obvious person who is more financially inclined or organized. Or perhaps, one of you hates managing money less than the other. 
 
 ## Meet With a Financial Expert
 
