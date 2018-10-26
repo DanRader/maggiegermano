@@ -14,3 +14,5 @@ posts:
 Dan and I are getting married this Saturday (!!!???).
 
 A couple of months ago, we teamed up with a therapist for pre-marital counseling. It was important to me for us to prepare for marriage by going through this counseling. We had attended an 8-hour pre-marital workshop in January and enjoyed it. 
+
+We couldn't find a pre-marital therapist that accepted insurance. Even though we would have to pay out of pocket, it was important to me, so I was willing to make the investment. I allocated a portion of my monthly income one month to make it happen. 
