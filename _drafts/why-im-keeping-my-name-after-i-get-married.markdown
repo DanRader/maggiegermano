@@ -13,7 +13,7 @@ posts:
 
 **Disclaimer:** *This article is going to be super heteronormative. I’m speaking about my own experience and the research that has been conducted so far. Unfortunately, much of the research has only focused on heterosexual couples, and I couldn't find any data on how same sex couples land on this issue. I’d love to hear your experience as someone in a same-sex marriage (or otherwise), so please do share in the comments!*
 
-I'm getting married next weekend. That means that the topic of a name change has come up a lot in conversation and has also been on my mind. I've known for years that I'm not changing my name (I'm pretty sure I told Dan that on our third date), but it is still something that has been somewhat stressing me out. So of course, I decided to write about it!
+I'm getting married next weekend. That means that the topic of a name change has come up a lot in conversation and has also been on my mind. I've known for years that I'm not changing my name (I'm pretty sure I told Dan that on our third date), but it is still something that has been somewhat stressing me out. So, of course, I decided to write about it!
 
 Eighty to ninety percent of heterosexual American women take their husband's last name after they get married. In contrast, only three percent of men take their wife’s last name. In a [2011 study](http://journals.sagepub.com/doi/abs/10.1177/0891243211398653), seventy-two percent of respondents said they believe women *should* take their husband's last name. Half of those people said they think it should be legally required for women to do so!
 
