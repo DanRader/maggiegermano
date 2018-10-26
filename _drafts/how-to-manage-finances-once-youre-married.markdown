@@ -24,7 +24,7 @@ If you're going to be sharing your life, you should be transparent about what th
 
 ## Set Joint Goals
 
-Money is much easier to talk about when you frame it around your goals. Setting joint goals is even more important, so that you both know what you're working towards.
+Money is much easier to talk about when you frame it around your goals. It reminds you why you're sticking to a budget, which makes it more motivating, and sometimes easier. Setting joint goals is even more important, so that you both know what you're working towards. It also will allow you to act as a team when it comes to your money, because ... 
 
 ## Decide If/How to Combine Accounts
 
