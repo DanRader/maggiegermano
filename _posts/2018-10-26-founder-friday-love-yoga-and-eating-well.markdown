@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Love, Yoga, and Eating Well
 date: 2018-10-26 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 ---
