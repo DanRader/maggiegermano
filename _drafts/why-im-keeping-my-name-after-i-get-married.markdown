@@ -53,7 +53,7 @@ A piece of this puzzle that isn't always talked about is the literal cost of cha
 
 * **Bank accounts:** You'll have to show your marriage license and proof of your name change in order to update your name in your banking and other financial accounts. You'll want to do that soon if you've received any wedding gift checks in your married name.
 
-* **Email address:** This probably doesn't cost anything, but it may be annoying. If your email address includes your name at all, you'll probably want to change it to avoid any confusion. You will create a new email address, and then hopefully have your old email address forward any messages to your new one.
+* **Email address:** This probably doesn't cost anything, but it may be annoying. If your email address includes your name at all, you'll probably want to change it to avoid any confusion. You would create a new email address, and then hopefully have your old email address forward any messages to your new one so you don't miss any emails.
 
 * **All online accounts:** Another free step, but if you change your name, you'll probably want to change it on all your social media accounts, especially if you're well-known.
 
