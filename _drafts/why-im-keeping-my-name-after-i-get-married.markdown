@@ -65,6 +65,6 @@ A piece of this puzzle that isn't always talked about is the literal cost of cha
 
 If you want to change your name and don't want to deal with the hassle of all these changes yourself, there are actually companies out there that will do it for you for a fee, like [MissNowMrs](https://www.missnowmrs.com/). However! They just fill out the forms for you, they can't do the actual filing. If you hate filling out paperwork, it might be useful, but otherwise, there's still legwork that you need to do.
 
-Ultimately, it's up to the individual whether or not they want to change their name. And I'm trying to be less reactionary when I see my friends change their names on Facebook. However, I do hope that one day men and women change their names at an equal rate, rather than it being a given that women will do it. But until then,
+Ultimately, it's up to the individual whether or not they want to change their name. And I'm trying to be less reactionary when I see my friends change their names on Facebook. However, I do hope that one day men and women change their names at an equal rate, rather than it being a given that women will do it. But until then, 
 
 *How do you feel about the name change debate? What did you do in your own life? Share in the comments!*
