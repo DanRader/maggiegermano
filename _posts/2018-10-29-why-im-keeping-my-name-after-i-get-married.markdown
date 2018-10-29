@@ -22,7 +22,7 @@ I would love to say that I don't hold any judgment when women do change their na
 
 ## The History of a Woman Taking Her Husband's Name
 
-Women began taking their husbands' last name in England in the 9th century. This was because women were considered "one" with their husbands after marriage. That might sound romantic, but what it really meant was that women had no legal identity apart from their husband. (This actually applied to being given your father's name at birth, as well.) Being one with your husband meant that you couldn't own property, participate in business, and more. Everything you had automatically belonged to your husband after marriage.
+Women began taking their husbands' last name in England in the 9th century. This was because women were considered "one" with their husbands after marriage. That might sound romantic, but what it really meant was that women had no legal identity apart from their husband. (This actually applied to being given your father's name at birth, as well.) Being one with your husband meant that you couldn't own property, inherit money, participate in business, and more. Everything you had automatically belonged to your husband after marriage.
 
 It wasn't until the mid-1800s that women were able to own and inherit property in countries like the [United States](https://en.wikipedia.org/wiki/Married_Women%27s_Property_Acts_in_the_United_States) and the [United Kingdom](https://en.wikipedia.org/wiki/Married_Women%27s_Property_Act_1870). At that time, some women began to keep their maiden names, as they held more value and recognition, now that they could own property and participate in business.
 
