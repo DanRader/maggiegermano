@@ -16,11 +16,11 @@ One of the most popular questions I get from clients and readers is this: how sh
 
 ## Talk, Talk, Talk
 
-I hope you had the money talk before you got married, but if not, you must do it now. Money touches every area of our lives, so it's imperative to talk about it with our partners. Talk about how your parents dealt with money while you were growing up. Talk about any money mistakes you've made it the past. Talk about your money habits and if and when you go overboard with your spending.
+I hope you had the money talk before you got married, but if not, you must do it now. Money touches every area of our lives, so it's imperative to talk about it with our partners. Talk about how your parents dealt with money while you were growing up. Talk about what fears, habits, and beliefs that created in your life. Talk about any money mistakes you've made it the past. Talk about your money habits and if and when you go overboard with your spending. Once you do this, you can be open and honest in your approach to managing money together. 
 
 ## Get Transparent
 
-If you're going to be sharing your life, you should be transparent about what that life includes. That means getting really honest about
+If you're going to be sharing your life, you should be transparent about what that life includes. That means getting really honest about any debt that either of you owe, any big money mistakes you've made in the past, and more. You should both share 
 
 ## Set Joint Goals
 
