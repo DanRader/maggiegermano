@@ -36,6 +36,10 @@ I personally like to have some of my own money. I think it's important to at lea
 
 Who is going to be the one to pay the bills? Whose name is going to be on the accounts? Sometimes, there is an obvious person who is more financially inclined or organized. Or perhaps, one of you hates managing money less than the other.
 
+## Set Some Ground Rules
+
+This isn't a step to take in order to control your partner. But you should both be on the same page about what is acceptable or not. Is there a sum of money that is too large to make the purchase unilaterally? How do you want to approach each other to discuss a large purchase? How to do you want to make decisions about household income and expenses?
+
 ## Meet With a Financial Expert
 
 Dan and I recently met with a friend of mine who is a financial planner. Yes, I'm a financial coach but I'm not an investment expert, nor do I know much about things like life insurance. Now that we're getting married, I wanted to make sure we're on the right track financially. This is especially true since I'm not putting as much away for retirement this year, as I've taken a big pay cut by quitting my day job. I wanted to make sure I'd still be secure in the future while taking a break for a year or two. We got great advice for retirement savings, and learned a lot about life insurance. I feel a lot more confident and secure about our
