@@ -40,7 +40,7 @@ It wasn't until the mid-1800s that women were able to own and inherit property i
 
 I honestly don’t know what we’ll do with our kids’ names. We’ve been talking about that a lot lately, and haven’t come to a real agreement. In fact, it's been a point of contention, because we both have the same arguments for our kids having either of our last names. I do think it’s unfair that a woman is not often present in her children’s legal identity. We give birth, we are still considered the primary caregiver, we are just as much an influential parent as a father may be. Why can’t our children carry our names?
 
-I’m not keen on a hyphenated name (Germano-Rader or Rader-Germano). The idea of using our couple name (Radermano) seems perfect and adorable but also isn’t actually a name (but what’s in a name? Aren’t they all made up?). Dan has suggested that we use my last name as our kids’ middle names but that isn’t super appealing to me either. The conversation has been mildly contentious, as we both have similar arguments. For me, it's important to be *having* the conversation, rather than just accepting it as a given that our kids will have his name. So we'll see what we end up choosing.
+I’m not keen on a hyphenated name (Germano-Rader or Rader-Germano). The idea of using our couple name (Radermano) seems perfect and adorable but also isn’t actually a name (but what’s in a name? Aren’t they all made up?). Dan has suggested that we use my last name as our kids’ middle names but that isn’t super appealing to me either. For me, it's important to be *having* the conversation, rather than just accepting it as a given that our kids will have his name. So we'll see what we end up choosing.
 
 ## The Cost/Inconvenience of Changing Your Name
 
