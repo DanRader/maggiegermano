@@ -28,7 +28,7 @@ It wasn't until the mid-1800s that women were able to own and inherit property i
 
 ## What I Feel Like I’d Be Losing
 
-* **My identity:** I've been Maggie Germano for my entire life, and I love my name. I would be giving up a big part of myself if I gave it up for a new one.
+* **My identity:** I've been Maggie Germano for my entire life, and I love my name. I would be giving up a big part of myself if I gave it up for a new one. (Even one as good as "Rader".)
 
 * **My connection with my family:** This reason is slightly hypocritical because one of my arguments against changing my name is that everyone in a family doesn't have to have the same name to be considered a family. But I do identify strongly as a "Germano" and want to stay that way.
 
