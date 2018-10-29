@@ -16,11 +16,11 @@ One of the most popular questions I get from clients and readers is this: how sh
 
 ## Talk, Talk, Talk
 
-I hope you had the money talk before you got married, but if not, you must do it now. Money touches every area of our lives, so it's imperative to talk about it with our partners. Talk about how your parents dealt with money while you were growing up. Talk about any money mistakes you've made it the past. Talk about your money habits and if and when you go overboard with your spending.
+I hope you had the money talk before you got married, but if not, you must do it now. Money touches every area of our lives, so it's imperative to talk about it with our partners. Talk about how your parents dealt with money while you were growing up. Talk about what fears, habits, and beliefs that created in your life. Talk about any money mistakes you've made it the past. Talk about your money habits and if and when you go overboard with your spending. Once you do this, you can be open and honest in your approach to managing money together. 
 
 ## Get Transparent
 
-If you're going to be sharing your life, you should be transparent about what that life includes. That means getting really honest about
+If you're going to be sharing your life, you should be transparent about what that life includes. That means getting really honest about any debt that either of you owe, any big money mistakes you've made in the past, and more. You should both share 
 
 ## Set Joint Goals
 
@@ -35,6 +35,10 @@ I personally like to have some of my own money. I think it's important to at lea
 ## Assign the Money Point Person
 
 Who is going to be the one to pay the bills? Whose name is going to be on the accounts? Sometimes, there is an obvious person who is more financially inclined or organized. Or perhaps, one of you hates managing money less than the other.
+
+## Set Some Ground Rules
+
+This isn't a step to take in order to control your partner. But you should both be on the same page about what is acceptable or not. Is there a sum of money that is too large to make the purchase unilaterally? How do you want to approach each other to discuss a large purchase? How to do you want to make decisions about household income and expenses?
 
 ## Meet With a Financial Expert
 
