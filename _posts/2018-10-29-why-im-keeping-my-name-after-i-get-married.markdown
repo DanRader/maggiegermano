@@ -34,7 +34,7 @@ It wasn't until the mid-1800s that women were able to own and inherit property i
 
 * **My principles:** My main issue with the name change question is that men don't have to answer it. Women have to spend a lot of time and emotional energy thinking about the decision and talking about it with people who ask. Men just don't have that same burden. It's a given that they will have their name forever and their family will also bear that name. Women should have that same expectation. 
 
-* **My domain name and business recognition:** When I started my business, I decided to name it after myself. I didn't want to come up with a cutesy business name and then change it later when I grew out of it. I also knew I would never change my name, so my business name is evergreen. If I changed my name now, I would have to change my business name, all of my materials, and my domain name.
+* **My business name and recognition:** When I started my business, I decided to name it after myself. I didn't want to come up with a cutesy business name and then change it later when I grew out of it. I also knew I would never change my name, so my business name is evergreen. If I changed my name now, I would have to change my business name, all of my materials, and my domain name.
 
 ## But, What About the Kids?
 
