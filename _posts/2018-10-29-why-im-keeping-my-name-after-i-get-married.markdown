@@ -22,17 +22,17 @@ I would love to say that I don't hold any judgment when women do change their na
 
 ## The History of a Woman Taking Her Husband's Name
 
-Women began taking their husbands' last name in England in the 9th century. This was because women were considered "one" with their husbands after marriage. That might sound romantic, but what it really meant was that women had no legal identity apart from their husband. (This actually applied to being given your father's name at birth, as well.) Being one with your husband meant that you couldn't own property, participate in business, and more. Everything you had automatically belonged to your husband after marriage.
+Women began taking their husbands' last name in England in the 9th century. This was because women were considered "one" with their husbands after marriage. That might sound romantic, but what it really meant was that women had no legal identity apart from their husband. (This actually applied to being given your father's name at birth, as well.) Being one with your husband meant that you couldn't own property, inherit money, participate in business, and more. Everything you had automatically belonged to your husband after marriage.
 
 It wasn't until the mid-1800s that women were able to own and inherit property in countries like the [United States](https://en.wikipedia.org/wiki/Married_Women%27s_Property_Acts_in_the_United_States) and the [United Kingdom](https://en.wikipedia.org/wiki/Married_Women%27s_Property_Act_1870). At that time, some women began to keep their maiden names, as they held more value and recognition, now that they could own property and participate in business.
 
 ## What I Feel Like I’d Be Losing
 
-* **My identity:** I've been Maggie Germano for my entire life, and I love my name. I would be giving up a big part of myself if I gave it up for a new one.
+* **My identity:** I've been Maggie Germano for my entire life, and I love my name. I would be giving up a big part of myself if I gave it up for a new one. (Even one as good as "Rader".)
 
 * **My connection with my family:** This reason is slightly hypocritical because one of my arguments against changing my name is that everyone in a family doesn't have to have the same name to be considered a family. But I do identify strongly as a "Germano" and want to stay that way.
 
-* **My principles:** My main issue with the name change question is that men don't have to answer it. Women have to spend a lot of time and emotional energy thinking about the decision and talking about it with people who ask. Men just don't have that same burden. It's a given that they will have their name forever and their family will also bear that name. Women should have that same expectation. For me, it's a feminist decision to keep my own name after marriage.
+* **My principles:** My main issue with the name change question is that men don't have to answer it. Women have to spend a lot of time and emotional energy thinking about the decision and talking about it with people who ask. Men just don't have that same burden. It's a given that they will have their name forever and their family will also bear that name. Women should have that same expectation. 
 
 * **My domain name and business recognition:** When I started my business, I decided to name it after myself. I didn't want to come up with a cutesy business name and then change it later when I grew out of it. I also knew I would never change my name, so my business name is evergreen. If I changed my name now, I would have to change my business name, all of my materials, and my domain name.
 
