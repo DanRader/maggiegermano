@@ -42,7 +42,7 @@ I honestly don’t know what we’ll do with our kids’ names. We’ve been tal
 
 I’m not keen on a hyphenated name (Germano-Rader or Rader-Germano). The idea of using our couple name (Radermano) seems perfect and adorable but also isn’t actually a name (but what’s in a name? Aren’t they all made up?). Dan has suggested that we use my last name as our kids’ middle names but that isn’t super appealing to me either. For me, it's important to be *having* the conversation, rather than just accepting it as a given that our kids will have his name. So we'll see what we end up choosing.
 
-## The Cost/Inconvenience of Changing Your Name
+## The Cost and Inconvenience of Changing Your Name
 
 A piece of this puzzle that isn't always talked about is the literal cost of changing your name. There are a lot of documents to change and processes to go through to make that happen. Most of those things cost time and money, and women are the ones paying for it.
 
