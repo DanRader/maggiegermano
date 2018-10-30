@@ -3,6 +3,7 @@ title: Is Pre-Marital Counseling Worth Spending Money On?
 date: 2018-11-05 11:00:00 -05:00
 categories:
 - lifestyle
+- Budget
 image: "/uploads/hands-f06929.jpg"
 tweet: Pre-marital counseling is an investment. Is it worth it?
 posts:
