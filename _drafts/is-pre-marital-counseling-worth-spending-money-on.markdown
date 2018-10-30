@@ -40,6 +40,8 @@ Just like with most self-work, the work you do IN the session is not the only wo
 
 ## Don't End the Conversation There
 
-After pre-marital counseling is done, all of your problems are not miraculously solved. You have to continue communicating your needs and practicing effective communication. For us, pre-marital counseling actually brought up several things that we need to discuss more and work on. 
+After pre-marital counseling is done, all of your problems are not miraculously solved. You have to continue communicating your needs and practicing effective communication. For us, pre-marital counseling actually brought up several things that we need to discuss more and work on. I will be starting individual therapy for myself once I am on Dan's health insurance to work on some of my own issues, and we plan to eventually begin couple's therapy. There is a false assumption that if you're in couple's therapy that your relationship is in trouble. I think that most people wait until it's too late to start therapy, so it's always better to start early and have a third party help you sort through your struggles.
+
+Ultimately, it's up to you whether or not you think this investment is worthwhile. I personally think self-work is always worth the cost, especially if it improves your relationship and your satisfaction within that relationship. Good luck!
 
 *Are you planning on investing in pre-marital counseling? Have you done it in the past? Share your experiences in the comments!*
