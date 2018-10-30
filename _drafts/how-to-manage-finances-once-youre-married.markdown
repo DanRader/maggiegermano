@@ -46,4 +46,6 @@ Dan and I recently met with a friend of mine who is a financial planner. Yes, I'
 
 ## Have Regular Money Dates
 
-Just like you can't set and forget a budget, you can't set and forget joint financial goals. You have to check in and make sure things are still on track, and see if there are any tweaks that need to be made.
+Just like you can't set and forget a budget, you can't set and forget joint financial goals. You have to check in and make sure things are still on track, and see if there are any tweaks that need to be made. Set up a regular day and time that you will sit down with your partner and review your finances. Go over your banking and credit card statements, compare those to the budget that you set up. Is there anything that isn't working? Does anything need to be tweaked? Chances are, the answer is yes! 
+
+Be realistic when you schedule these dates. Don't plan on having the conversation on Sunday evening if you know you're always scrambling to prepare for the week and will likely skip the conversation. Perhaps you can pair the date with something fun, or give yourselves a reward after you have the conversation. Continuing to do this will keep you open and transparent about money, and will allow you to make changes when needed.
