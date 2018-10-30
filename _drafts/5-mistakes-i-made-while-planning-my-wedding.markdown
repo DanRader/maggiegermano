@@ -18,6 +18,8 @@ I highly recommend looking at multiple venues, even if you think you've found "t
 
 ## Not Always Listening to My Gut
 
+We spent more than double what I wanted to spend on our wedding. Yes, I had unrealistic (and nonexistent) expectations of how much weddings cost. Yes, I got a little carried away with things being beautiful. But I'm still a little regretful (and slightly ashamed) of how much we ended up spending on the wedding. 
+
 ## Inviting People I Didn't Want to Invite
 
 The guest list and RSVP process was a lot more stressful than I expected. There are a lot of politics involved.
