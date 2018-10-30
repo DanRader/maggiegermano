@@ -25,3 +25,7 @@ The guest list and RSVP process was a lot more stressful than I expected. There 
 Inviting people out of obligation made it so that I wasn't able to invite certain people I would have preferred to invite. It also brought up a lot of negative emotion and stress when RSVPs were due. Ultimately, a lot of those obligatory invitees declined the invite, which makes it even clearer that it wasn't necessary to extend the invite in the first place.
 
 It can be tough to navigate family politics, but it's important to feel good about who will be at your wedding. I feel even more strongly about this if you and your partner are paying for your wedding yourselves.
+
+## Not Asserting Myself with Our Vendors
+
+One of our vendors provided a day-of coordinator for our wedding. We didn't want to hire this vendor at all, because they were pushy and wanted to overcharge us for everything, but we were required to use them for a few things by our venue. We considered using them for the bare minimum, but when we found out they provide a coordinator if you do a slightly larger package, we decided to go for it. We figured that would be a whole lot easier than setting up the wedding ourselves, or delegating friends and family to be in charge of everything. 
