@@ -20,7 +20,7 @@ I highly recommend looking at multiple venues, even if you think you've found "t
 
 We spent more than double what I wanted to spend on our wedding. Yes, I had unrealistic (and nonexistent) expectations of how much weddings cost. Yes, I got a little carried away with things being beautiful. But I'm still a little regretful (and slightly ashamed) of how much we ended up spending on the wedding. Luckily, we aren't going into debt for it, but on principle, I wish we'd spent less.
 
-Anyway, what does my gut have to do with this? 
+Anyway, what does my gut have to do with this? There was spending that I didn't feel great about that I wish I had pushed more about. I loved our florist and how our flowers turned out, but we absolutely paid too much for flowers. Again, we spent more than double what I wanted to spend, but I gave in because I didn't want to DIY the flower arrangements.
 
 ## Inviting People I Didn't Want to Invite
 
