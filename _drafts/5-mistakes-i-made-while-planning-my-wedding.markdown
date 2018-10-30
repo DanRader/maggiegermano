@@ -6,10 +6,9 @@ categories:
 image: "/uploads/bride-9f0ba6.jpg"
 ---
 
-
 ## Only Looking at One Venue
 
-This is definitely the biggest mistake we made, in terms of money. I fell in love with our venue over a year before we even got engaged. We visited the space to do a wine tasting on a day off, and I immediately knew I wanted to get married there.
+This is definitely the biggest mistake we made, in terms of cost. I fell in love with our venue over a year before we even got engaged. We visited the space to do a wine tasting on a day off, and I immediately knew I wanted to get married there.
 
 Maybe we would have decided to get married there even after looking at other venues! It is a beautiful space that had a lot of what we were looking for. But at least with other estimates and options, we would know if we'd had more affordable venues to choose from.
 
