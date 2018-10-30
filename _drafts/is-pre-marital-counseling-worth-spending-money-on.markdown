@@ -20,11 +20,11 @@ A couple of months ago, we teamed up with a therapist for pre-marital counseling
 
 We struggled with finding a pre-marital therapist who takes insurance. In fact, I couldn't find one at all that was taking new clients. It was so frustrating! And I've heard my friends having the same problem, so you should prepare for that possibility and start planning accordingly.
 
-Even though we would have to pay out of pocket, it was important to me, so I was willing to make the investment. I allocated a portion of my monthly income one month to make it happen.
+Even though we would have to pay out of pocket, it was important to me, so I was willing to make the investment. I allocated a portion of my monthly business income one month to make it happen. Not everyone has that luxury, so figure out what you can afford. Do you need to find a therapist that accepts insurance so that you only have to pay for your co-pays? Do you have to delay for a few months while you save up to pay for it? Figure out what makes the most sense for you and your partner financially and go from there.
 
 ## Find a Therapist in that Budget
 
-Once you've figured out your budget, and whether or not your insurance will cover this endeavor, it's time to find a therapist. 
+Once you've figured out your budget, and whether or not your insurance will cover this endeavor, it's time to find a therapist. And it should be one that you like and trust.
 
 We used someone from the [Imago Center](https://imagocenterdc.com/) in DC, because they focus specifically on romantic relationships. Imago therapists ran the workshop we attended in January, and we enjoyed their approach. So we found an Imago therapist whose office was actually right across the street from our house! That made it a lot easier to have our 90-minute sessions in the morning so Dan didn't have to miss too much work (this is an important thing to consider!). 
 
