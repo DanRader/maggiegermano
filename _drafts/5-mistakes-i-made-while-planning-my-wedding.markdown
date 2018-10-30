@@ -22,11 +22,9 @@ We spent more than double what I wanted to spend on our wedding. Yes, I had unre
 
 ## Inviting People I Didn't Want to Invite
 
-The guest list and RSVP process was a lot more stressful than I expected. There are a lot of politics involved.
+The guest list and RSVP process was a lot more stressful than I expected. There are a lot of politics and emotions involved that I didn't anticipate. Inviting people out of obligation made it so that I wasn't able to invite certain people I would have preferred to invite. It also brought up a lot of negative emotion and stress when RSVPs were due. Ultimately, a lot of those obligatory invitees declined the invite, which makes it even clearer that it wasn't necessary to extend the invite in the first place. (Plus, many of them didn't RSVP at all, and I had to reach out to them.)
 
-Inviting people out of obligation made it so that I wasn't able to invite certain people I would have preferred to invite. It also brought up a lot of negative emotion and stress when RSVPs were due. Ultimately, a lot of those obligatory invitees declined the invite, which makes it even clearer that it wasn't necessary to extend the invite in the first place.
-
-It can be tough to navigate family politics, but it's important to feel good about who will be at your wedding. I feel even more strongly about this if you and your partner are paying for your wedding yourselves.
+It can be tough to navigate family politics in this area, but it's important to feel good about who will be at your wedding. I feel even more strongly about this if you and your partner are paying for your wedding yourselves.
 
 ## Not Asserting Myself with Our Vendors
 
