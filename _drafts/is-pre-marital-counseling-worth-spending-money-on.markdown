@@ -21,11 +21,11 @@ We couldn't find a pre-marital therapist that accepted insurance. Even though we
 
 ## Find a Therapist in that Budget
 
-We struggled with finding a pre-marital therapist who takes insurance. In fact, I couldn't find one at all that was taking new clients. It was so frustrating! 
+We struggled with finding a pre-marital therapist who takes insurance. In fact, I couldn't find one at all that was taking new clients. It was so frustrating!
 
 ## Schedule Your Sessions
 
-Our therapist said that four to five 90-minute sessions is the typical amount that her clients commit to. 
+Our therapist said that four to five 90-minute sessions is the typical amount that her clients commit to.
 
 ## Put in the Work
 
@@ -33,4 +33,6 @@ Just like with most self-work, the work you do IN the session is not the only wo
 
 ## Don't End the Conversation There
 
-After pre-marital counseling is done, all of your problems are not miraculously solved. You have to continue communicating your needs and practicing effective communication. 
+After pre-marital counseling is done, all of your problems are not miraculously solved. You have to continue communicating your needs and practicing effective communication. For us, pre-marital counseling actually brought up several things that we need to discuss more and work on. 
+
+*Are you planning on investing in pre-marital counseling? Have you done it in the past? Share your experiences in the comments!*
