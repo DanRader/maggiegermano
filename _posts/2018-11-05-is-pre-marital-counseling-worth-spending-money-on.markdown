@@ -1,6 +1,7 @@
 ---
 title: Is Pre-Marital Counseling Worth Spending Money On?
 date: 2018-11-05 11:00:00 -05:00
+published: false
 categories:
 - lifestyle
 - Budget
@@ -32,7 +33,7 @@ You can use online tools like [ZocDoc](https://www.zocdoc.com/) and [Psychology 
 
 ## Schedule Your Sessions
 
-Our therapist said that four to five 90-minute sessions is the typical amount that her clients commit to. We scheduled four sessions ahead of time to get them on our calendar and ensure that we would complete all of them. 
+Our therapist said that four to five 90-minute sessions is the typical amount that her clients commit to. We scheduled four sessions ahead of time to get them on our calendar and ensure that we would complete all of them. If you know that you or your partner struggle with following through on things like this, schedule them all up front so that you know you'll finish the process.
 
 ## Put in the Work
 
@@ -42,6 +43,6 @@ Just like with most self-work, the work you do IN the session is not the only wo
 
 After pre-marital counseling is done, all of your problems are not miraculously solved. You have to continue communicating your needs and practicing effective communication. For us, pre-marital counseling actually brought up several things that we need to discuss more and work on. I will be starting individual therapy for myself once I am on Dan's health insurance to work on some of my own issues, and we plan to eventually begin couple's therapy. There is a false assumption that if you're in couple's therapy that your relationship is in trouble. I think that most people wait until it's too late to start therapy, so it's always better to start early and have a third party help you sort through your struggles.
 
-Ultimately, it's up to you whether or not you think this investment is worthwhile. I personally think self-work is always worth the cost, especially if it improves your relationship and your satisfaction within that relationship. Good luck!
+Ultimately, it's up to you whether or not you think this investment is worthwhile. I personally think self-work is always worth the cost, especially if it improves your relationship and your satisfaction within that relationship. Do your research and see what makes the most sense for you. Good luck!
 
 *Are you planning on investing in pre-marital counseling? Have you done it in the past? Share your experiences in the comments!*
