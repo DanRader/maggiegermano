@@ -3,6 +3,7 @@ title: Is Pre-Marital Counseling Worth Spending Money On?
 date: 2018-11-05 11:00:00 -05:00
 categories:
 - lifestyle
+- Budget
 image: "/uploads/hands-f06929.jpg"
 tweet: Pre-marital counseling is an investment. Is it worth it?
 posts:
@@ -15,17 +16,19 @@ Dan and I are getting married this Saturday (!!!???). It's been a pretty long en
 
 A couple of months ago, we teamed up with a therapist for pre-marital counseling. It was important to me for us to prepare for marriage by going through this counseling. We had attended an 8-hour pre-marital workshop in January and enjoyed it, but I knew we'd benefit from more support.
 
-We couldn't find a pre-marital therapist that accepted insurance. Even though we would have to pay out of pocket, it was important to me, so I was willing to make the investment. I allocated a portion of my monthly income one month to make it happen.
-
 ## Figure Out Your Budget
 
-We struggled with finding a pre-marital therapist who takes insurance. In fact, I couldn't find one at all that was taking new clients. It was so frustrating! And I've heard my friends having the same problem, so you sho
+We struggled with finding a pre-marital therapist who takes insurance. In fact, I couldn't find one at all that was taking new clients. It was so frustrating! And I've heard my friends having the same problem, so you should prepare for that possibility and start planning accordingly.
+
+Even though we would have to pay out of pocket, it was important to me, so I was willing to make the investment. I allocated a portion of my monthly income one month to make it happen.
 
 ## Find a Therapist in that Budget
 
 Once you've figured out your budget, and whether or not your insurance will cover this endeavor, it's time to find a therapist. 
 
-We used someone from the Imago Center in DC, because they focus specifically on romantic relationships. Imago therapists ran the workshop we attended in January, and we enjoyed their approach. So we found an Imago therapist whose office was actually right across the street from our house! That made it a lot easier to have our 90-minute sessions in the morning so Dan didn't have to miss too much work (this is an important thing to consider!). 
+We used someone from the [Imago Center](https://imagocenterdc.com/) in DC, because they focus specifically on romantic relationships. Imago therapists ran the workshop we attended in January, and we enjoyed their approach. So we found an Imago therapist whose office was actually right across the street from our house! That made it a lot easier to have our 90-minute sessions in the morning so Dan didn't have to miss too much work (this is an important thing to consider!). 
+
+You can use online tools like [ZocDoc](https://www.zocdoc.com/) and [Psychology Today](https://www.psychologytoday.com/us) to find a therapist in your area. You can also filter for your insurance provider to see if you can find anyone who takes your insurance. You can also typically use your insurance provider's website to do a search.
 
 ## Schedule Your Sessions
 
