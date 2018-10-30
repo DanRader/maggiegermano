@@ -6,15 +6,15 @@ categories:
 image: "/uploads/bride-9f0ba6.jpg"
 ---
 
-It's been less than a month since I got married! In fact, we just got back from our honeymoon this past Friday. It's been a whirlwind and I have a lot to say about the whole process. 
+It's been less than a month since I got married! In fact, we just got back from our honeymoon this past Friday. It's been a whirlwind and I have a lot to say about the whole process. Before I got engaged, I heard a lot of positive stories about wedding planning. I now believe that everyone was lying. For me, wedding planning was awful. And I've now heard that from a bunch of my friends too! It's expensive, it's stressful, it's overwhelming, and it's all over after one day. 
 
 ## Only Looking at One Venue
 
 This is definitely the biggest mistake we made, in terms of cost. I fell in love with our venue over a year before we even got engaged. We visited the space to do a wine tasting on a day off, and I immediately knew I wanted to get married there. I even told Dan, "I know we haven't talked about marriage yet, but if you proposed to me right now, I'd say yes." So, once we did a tour of the space when we knew we'd be getting engaged, we decided to have our wedding there.
 
-Maybe we would have decided to get married there even after looking at other venues! It is a beautiful space that had a lot of what we were looking for. But at least with other estimates and options, we would know if we'd had more affordable venues to choose from. I would have also gotten a more realistic idea of what venues charge and what they provide. I could have compared the opportunities and limitations of each and made an informed decision. But we didn't do that, so every time we were frustrated with our venue, we wondered if we'd make a stupid mistake. 
+Maybe we would have decided to get married there even after looking at other venues! It is a beautiful space that had a lot of what we were looking for. But at least with other estimates and options, we would know if we'd had more affordable venues to choose from. I would have also gotten a more realistic idea of what venues charge and what they provide. I could have compared the opportunities and limitations of each and made an informed decision. But we didn't do that, so every time we were frustrated with our venue, we wondered if we'd make a stupid mistake.
 
-I highly recommend looking at multiple venues, even if you think you've found "the one". 
+I highly recommend looking at multiple venues, even if you think you've found "the one".
 
 ## Not Listening to My Gut
 
@@ -28,4 +28,4 @@ It can be tough to navigate family politics, but it's important to feel good abo
 
 ## Not Asserting Myself with Our Vendors
 
-One of our vendors provided a day-of coordinator for our wedding. We didn't want to hire this vendor at all, because they were pushy and wanted to overcharge us for everything, but we were required to use them for a few things by our venue. We considered using them for the bare minimum, but when we found out they provide a coordinator if you do a slightly larger package, we decided to go for it. We figured that would be a whole lot easier than setting up the wedding ourselves, or delegating friends and family to be in charge of everything. 
+One of our vendors provided a day-of coordinator for our wedding. We didn't want to hire this vendor at all, because they were pushy and wanted to overcharge us for everything, but we were required to use them for a few things by our venue. We considered using them for the bare minimum, but when we found out they provide a coordinator if you do a slightly larger package, we decided to go for it. We figured that would be a whole lot easier than setting up the wedding ourselves, or delegating friends and family to be in charge of everything.
