@@ -19,13 +19,17 @@ We couldn't find a pre-marital therapist that accepted insurance. Even though we
 
 ## Figure Out Your Budget
 
+We struggled with finding a pre-marital therapist who takes insurance. In fact, I couldn't find one at all that was taking new clients. It was so frustrating! And I've heard my friends having the same problem, so you sho
+
 ## Find a Therapist in that Budget
 
-We struggled with finding a pre-marital therapist who takes insurance. In fact, I couldn't find one at all that was taking new clients. It was so frustrating! 
+Once you've figured out your budget, and whether or not your insurance will cover this endeavor, it's time to find a therapist. 
+
+We used someone from the Imago Center in DC, because they focus specifically on romantic relationships. Imago therapists ran the workshop we attended in January, and we enjoyed their approach. So we found an Imago therapist whose office was actually right across the street from our house! That made it a lot easier to have our 90-minute sessions in the morning so Dan didn't have to miss too much work (this is an important thing to consider!). 
 
 ## Schedule Your Sessions
 
-Our therapist said that four to five 90-minute sessions is the typical amount that her clients commit to. 
+Our therapist said that four to five 90-minute sessions is the typical amount that her clients commit to.
 
 ## Put in the Work
 
@@ -33,4 +37,6 @@ Just like with most self-work, the work you do IN the session is not the only wo
 
 ## Don't End the Conversation There
 
-After pre-marital counseling is done, all of your problems are not miraculously solved. You have to continue communicating your needs and practicing effective communication. 
+After pre-marital counseling is done, all of your problems are not miraculously solved. You have to continue communicating your needs and practicing effective communication. For us, pre-marital counseling actually brought up several things that we need to discuss more and work on. 
+
+*Are you planning on investing in pre-marital counseling? Have you done it in the past? Share your experiences in the comments!*
