@@ -32,7 +32,7 @@ You can use online tools like [ZocDoc](https://www.zocdoc.com/) and [Psychology 
 
 ## Schedule Your Sessions
 
-Our therapist said that four to five 90-minute sessions is the typical amount that her clients commit to. We scheduled four sessions ahead of time to get them on our calendar and ensure that we would complete all of them. If you know that you or your partner struggle with following through on things like this, schedule them all up front so that you know 
+Our therapist said that four to five 90-minute sessions is the typical amount that her clients commit to. We scheduled four sessions ahead of time to get them on our calendar and ensure that we would complete all of them. If you know that you or your partner struggle with following through on things like this, schedule them all up front so that you know you'll finish the process.
 
 ## Put in the Work
 
