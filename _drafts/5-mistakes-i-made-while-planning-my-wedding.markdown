@@ -14,7 +14,7 @@ It's been less than a month since I got married! In fact, we just got back from 
 
 This is definitely the biggest mistake we made, in terms of cost. I fell in love with our venue over a year before we even got engaged. We visited the space to do a wine tasting on a day off, and I immediately knew I wanted to get married there. I even told Dan, "I know we haven't talked about marriage yet, but if you proposed to me right now, I'd say yes." So, once we did a tour of the space when we knew we'd be getting engaged, we decided to have our wedding there. We didn't even look anywhere else! 
 
-Maybe we would have decided to get married there even after looking at other venues! It is a beautiful space that had a lot of what we were looking for. But at least with other estimates and options, we would know if we'd had more affordable venues to choose from. I would have also gotten a more realistic idea of what venues charge and what they provide. I could have compared the opportunities and limitations of each and made an informed decision. But we didn't do that, so every time we were frustrated with our venue, we wondered if we'd make a stupid mistake.
+Maybe we would have decided to get married there even after looking at other venues! It is a beautiful space that had a lot of what we were looking for. But at least with other estimates and options, we would know if we'd had more affordable venues to choose from. I would have also gotten a more realistic idea of what venues charge and what they provide. I could have compared the opportunities and limitations of each and made an informed decision. But we didn't do that, so every time we were frustrated with our venue, we wondered if we'd made a stupid (and expensive) mistake.
 
 I highly recommend looking at multiple venues, even if you think you've found "the one".
 
@@ -22,9 +22,9 @@ I highly recommend looking at multiple venues, even if you think you've found "t
 
 We spent more than double what I wanted to spend on our wedding. Yes, I had unrealistic (and nonexistent) expectations of how much weddings cost. Yes, I got a little carried away with things being beautiful. But I'm still a little regretful (and slightly ashamed) of how much we ended up spending on the wedding. Luckily, we aren't going into debt for it, but on principle, I wish we'd spent less.
 
-Anyway, what does my gut have to do with this? There was spending that I didn't feel great about that I wish I had pushed more about. I loved our florist and how our flowers turned out, but we absolutely paid too much for flowers. Again, we spent more than double what I wanted to spend, but I gave in because I didn't want to DIY the flower arrangements.
+Anyway, what does my gut have to do with this? There was spending that I didn't feel great about that I wish I had pushed back on more than I did. For example, I loved our florist and how our flowers turned out, but we absolutely paid too much for flowers in general. We spent more than double what I wanted to spend, but I gave in because I didn't want to DIY the flower arrangements.
 
-If you feel strongly about something, 
+If you feel strongly about something, especially when it's expensive, speak up and stand strong. 
 
 ## Inviting People I Didn't Want to Invite
 
