@@ -40,4 +40,6 @@ It turns out, we were wrong. The day-of coordinator was pretty unreliable throug
 
 As a woman and a financial coach, I hear a lot of complaints about weddings. But I've actually heard them most from wedding guests and bridal party members. So I went into this process very aware of how frustrating it can be to be involved in a wedding. I didn't want my friends and family to feel resentful or irritated about my wedding. I didn't want anyone to spend too much money or have a difficult time getting to the wedding itself.
 
-Turns out, I was a little too worried about everyone else's feelings! That ended up making me resistant to asking for help when I needed it. It also led to spending money on things we maybe shouldn't have. 
+Turns out, I was a little too worried about everyone else's feelings! That ended up making me resistant to asking for help when I needed it. This made me feel isolated and frustrated myself. And then, when I finally did ask for help, my friends and family were more than happy to oblige! So I'd spent all that time feeling stressed out and alone for no reason. 
+
+So, you should ask for help during your wedding planning process! Ask your friend to help plan your bachelorette party (you're already planning a whole wedding, after all!), ask your family to help set up the venue on the day. Whatever you need, ask for help, and you may be surprised at how willing people are to help you. Just make sure you say thank you!
