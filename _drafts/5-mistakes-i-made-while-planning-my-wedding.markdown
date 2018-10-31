@@ -24,6 +24,8 @@ We spent more than double what I wanted to spend on our wedding. Yes, I had unre
 
 Anyway, what does my gut have to do with this? There was spending that I didn't feel great about that I wish I had pushed more about. I loved our florist and how our flowers turned out, but we absolutely paid too much for flowers. Again, we spent more than double what I wanted to spend, but I gave in because I didn't want to DIY the flower arrangements.
 
+If you feel strongly about something, 
+
 ## Inviting People I Didn't Want to Invite
 
 The guest list and RSVP process was a lot more stressful than I expected. There are a lot of politics and emotions involved that I didn't anticipate. Inviting people out of obligation made it so that I wasn't able to invite certain people I would have preferred to invite. It also brought up a lot of negative emotion and stress when RSVPs were due. Ultimately, a lot of those obligatory invitees declined the invite, which makes it even clearer that it wasn't necessary to extend the invite in the first place. (Plus, many of them didn't RSVP at all, and I had to reach out to them.)
