@@ -6,7 +6,7 @@ categories:
 image: "/uploads/bride-9f0ba6.jpg"
 ---
 
-It's been less than a month since I got married! In fact, we just got back from our honeymoon this past Friday. It's been a whirlwind and I have a lot to say about the whole process. Before I got engaged, I heard a lot of positive stories about wedding planning. I now believe that everyone was lying. For me, wedding planning was awful. And I've now heard that from a bunch of my friends too! It's expensive, it's stressful, it's overwhelming, and it's all over after one day. Throw in the fact that I'm a control freak and there's a lot of uncontrollable pieces in wedding planning, and you have a nightmare! But planning and having a wedding doesn't have to be awful, so I want you to learn from my mistakes. 
+It's been less than a month since I got married! In fact, we just got back from our honeymoon this past Friday. It's been a whirlwind and I have a lot to say about the whole process. Before I got engaged, I heard a lot of positive stories about wedding planning. I now believe that everyone was lying. For me, wedding planning was awful. And I've now heard that from a bunch of my friends too! It's expensive, it's stressful, it's overwhelming, and it's all over after one day. Throw in the fact that I'm a control freak and there's a lot of uncontrollable pieces involved in wedding planning, and you have my nightmare! But planning and having a wedding doesn't have to be awful for you, so I want you to learn from my mistakes. 
 
 > For me, wedding planning was awful.
 
