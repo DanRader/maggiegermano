@@ -8,6 +8,8 @@ image: "/uploads/bride-9f0ba6.jpg"
 
 It's been less than a month since I got married! In fact, we just got back from our honeymoon this past Friday. It's been a whirlwind and I have a lot to say about the whole process. Before I got engaged, I heard a lot of positive stories about wedding planning. I now believe that everyone was lying. For me, wedding planning was awful. And I've now heard that from a bunch of my friends too! It's expensive, it's stressful, it's overwhelming, and it's all over after one day. Throw in the fact that I'm a control freak and there's a lot of uncontrollable pieces in wedding planning, and you have a nightmare! But planning and having a wedding doesn't have to be awful, so I want you to learn from my mistakes. 
 
+> For me, wedding planning was awful.
+
 ## Only Looking at One Venue
 
 This is definitely the biggest mistake we made, in terms of cost. I fell in love with our venue over a year before we even got engaged. We visited the space to do a wine tasting on a day off, and I immediately knew I wanted to get married there. I even told Dan, "I know we haven't talked about marriage yet, but if you proposed to me right now, I'd say yes." So, once we did a tour of the space when we knew we'd be getting engaged, we decided to have our wedding there.
