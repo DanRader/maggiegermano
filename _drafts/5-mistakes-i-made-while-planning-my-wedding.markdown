@@ -43,3 +43,5 @@ As a woman and a financial coach, I hear a lot of complaints about weddings. But
 Turns out, I was a little too worried about everyone else's feelings! That ended up making me resistant to asking for help when I needed it. This made me feel isolated and frustrated myself. And then, when I finally did ask for help, my friends and family were more than happy to oblige! So I'd spent all that time feeling stressed out and alone for no reason. 
 
 So, you should ask for help during your wedding planning process! Ask your friend to help plan your bachelorette party (you're already planning a whole wedding, after all!), ask your family to help set up the venue on the day. Whatever you need, ask for help, and you may be surprised at how willing people are to help you. Just make sure you say thank you!
+
+*How did your wedding planning process go? Are there things you wish you could do over? Share in the comments!*
