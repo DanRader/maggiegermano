@@ -4,6 +4,10 @@ date: 2018-11-02 14:00:00 -04:00
 categories:
 - founder friday
 image: "/uploads/anete-lusina-609856-unsplash.jpg"
+posts:
+- Founder Friday | Love, Yoga, and Eating Well
+- Founder Friday | UCB, Bachelorette Parties, and Bossed Up
+- Founder Friday | Doctors, Los Angeles and Wild Cozy Truth
 ---
 
 Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
