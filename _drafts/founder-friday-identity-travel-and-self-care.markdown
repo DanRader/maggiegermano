@@ -32,9 +32,7 @@ This week, I wrote about the controversial topic of the name change after marria
 
 ## **What I’m Up To**
 
-* I was quoted in a [US News & World Report](https://wtop.com/news/2018/10/can-you-buy-a-money-order-with-a-credit-card/) piece that was published by WTOP. I talked about what it means to get a cash advance from your credit card.
-
-* x
+I was quoted in a [US News & World Report](https://wtop.com/news/2018/10/can-you-buy-a-money-order-with-a-credit-card/) piece that was published by WTOP. I talked about what it means to get a cash advance from your credit card.
 
 ## **What I’m Excited About**
 
