@@ -22,9 +22,15 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 ## **How I Spent Money This Week**
 
-* We're leaving for our honeymoon in just over a week, so I'm doing some last minute buying of things we will need. I bought travel sized bug spray and sunscreen, and a shoulder bag that can attach to my new Away bag.
+* I went to yoga with my friend Nina again this past Sunday. We got tea at Takoma Beverage Co first and then went to Yoga Heights. I could get used to this weekly routine.
 
-* I got a massage this morning! I've been pretty stressed lately, so I've noticed a ton of tension and pain in my jaw and shoulder. I decided to invest in self care by getting a massage from my favorite massage therapist (go see Layne at [Aura Spa](https://auraspa.net/)!). I don't regret it!
+* We're leaving for our honeymoon in just over a week, so I'm doing some last minute buying of things we will need. I bought travel sized bug spray and sunscreen, and a shoulder bag that can attach to my new Away bag. I paid for my Away bag and shoulder bag using my fun fund.
+
+* Dan realized this week that he doesn't have a nice belt to wear with his wedding suit. He also is considering wearing suspenders, so he bought one of each from Target. If he likes one more than the other, we'll probably return one.
+
+* I did a little last minute shopping to make sure I have good shoes for my honeymoon. My good sandals broke last summer so I went this whole summer without sandals that I liked. I didn't want to be uncomfortable while walking around in Thailand, so I bought some new strappy sandals. I always spend a little bit more on my shoes, because I want them to be comfortable and have plenty of arch support. I also bought some new Keds walking shoes since the ones I have are falling apart. I paid for these items using my fun fund.
+
+* I got a massage this morning! I've been pretty stressed lately, so I've noticed a ton of tension and pain in my jaw and shoulder. I decided to invest in self care by getting a massage from my favorite massage therapist (go see Layne at [Aura Spa](https://auraspa.net/)!). I don't regret it! This money will also come from my fun fund, which I'm going to have to start replenishing soon!
 
 ## **What I’m Writing**
 
