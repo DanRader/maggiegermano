@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Identity, Travel, and Self Care
 date: 2018-11-02 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/anete-lusina-609856-unsplash.jpg"
@@ -42,7 +43,7 @@ I was quoted in a [US News & World Report](https://wtop.com/news/2018/10/can-you
 
 ## **What I’m Excited About**
 
-* Our wedding officiant (and very dear friend) is coming into town this afternoon! Due to work, he can't come very early before the wedding, so he is visiting this weekend to go over the ceremony details and expectations for the weekend. We haven't seen him in a while, so we're excited!
+Our wedding officiant (and very dear friend) is coming into town this afternoon! Due to work, he can't come very early before the wedding, so he is visiting this weekend to go over the ceremony details and expectations for the weekend. We haven't seen him in a while, so we're excited!
 
 ## **Money Tip to Take Into the Weekend**
 
