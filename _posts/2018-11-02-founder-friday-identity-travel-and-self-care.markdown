@@ -18,7 +18,7 @@ Happy Friday! I hope you had a fantastic week. Here’s what I was up to!
 
 * Dan's paycheck came in this week.
 
-* No business income to speak of!
+* One of my clients paid their monthly fee for November. 
 
 ## **How I Spent Money This Week**
 
