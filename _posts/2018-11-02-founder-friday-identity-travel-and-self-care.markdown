@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Identity, Travel, and Self Care
 date: 2018-11-02 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 image: "/uploads/anete-lusina-609856-unsplash.jpg"
