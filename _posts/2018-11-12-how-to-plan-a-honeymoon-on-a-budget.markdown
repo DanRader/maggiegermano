@@ -1,7 +1,6 @@
 ---
 title: How to Plan a Honeymoon on a Budget
 date: 2018-11-12 11:00:00 -05:00
-published: false
 categories:
 - Budget
 - lifestyle
