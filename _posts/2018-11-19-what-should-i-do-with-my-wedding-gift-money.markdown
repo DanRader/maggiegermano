@@ -1,7 +1,6 @@
 ---
 title: What Should I Do With My Wedding Gift Money?
 date: 2018-11-19 11:00:00 -05:00
-published: false
 categories:
 - lifestyle
 - savings
