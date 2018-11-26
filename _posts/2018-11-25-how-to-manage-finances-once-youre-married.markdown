@@ -1,6 +1,6 @@
 ---
 title: How to Manage Finances Once You're Married
-date: 2018-11-22 11:00:00 -05:00
+date: 2018-11-25 11:00:00 -05:00
 categories:
 - Budget
 - lifestyle
