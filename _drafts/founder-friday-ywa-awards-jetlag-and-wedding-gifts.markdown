@@ -3,6 +3,7 @@ title: Founder Friday | YWA Awards, Jetlag, and Wedding Gifts
 date: 2018-12-07 14:00:00 -05:00
 categories:
 - founder friday
+image: "/uploads/susie-ho-744725-unsplash.jpg"
 posts:
 - Founder Friday | Identity, Travel, and Self Care
 - Founder Friday | Love, Yoga, and Eating Well
@@ -15,7 +16,7 @@ Happy Friday! I'm back from my honeymoon and ready to start reporting back about
 
 * We're back in the Airbnb game after taking November off while we were gone. We had one guest stay with us this week.
 
-* 
+* A few of my clients' monthly payments went through this week.
 
 ## **How I Spent Money This Week**
 
