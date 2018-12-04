@@ -3,6 +3,7 @@ title: Founder Friday | YWA Awards, Jetlag, and Wedding Gifts
 date: 2018-12-07 14:00:00 -05:00
 categories:
 - founder friday
+image: "/uploads/susie-ho-744725-unsplash.jpg"
 posts:
 - Founder Friday | Identity, Travel, and Self Care
 - Founder Friday | Love, Yoga, and Eating Well
@@ -15,7 +16,7 @@ Happy Friday! I'm back from my honeymoon and ready to start reporting back about
 
 * We're back in the Airbnb game after taking November off while we were gone. We had one guest stay with us this week.
 
-* 
+* A few of my clients' monthly payments went through this week.
 
 ## **How I Spent Money This Week**
 
@@ -33,11 +34,11 @@ This week, I got real about the [mistakes I made](https://www.maggiegermano.com/
 
 * Did you catch my latest [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2018/11/06/why-and-how-women-must-prepare-differently-for-the-future/) piece about how and why women need to plan for their futures differently?
 
-* x
+* This went live while I was in Thailand, but the episode of the live [Bossed Up podcast](https://bossedup.org/episode72/) taping in DC is up! A bunch of awesome ladies and I talked about women and wealth. 
 
 ## **What I’m Excited About**
 
-x
+I was nominated for the Entrepreneurship for Good award at WIN's YWA awards this week!
 
 ## **Money Tip to Take Into the Weekend**
 
