@@ -19,9 +19,9 @@ Happy Friday! I'm back from my honeymoon and ready to start reporting back about
 
 ## **How I Spent Money This Week**
 
-* x
+* After 3 weeks away, Dan and I were lacking in fresh food and produce. We went to Safeway and stocked up on healthy ingredients for multiple crockpot meals.
 
-* x
+* I went through a bit of a Christmas craze this past weekend. Dan and I bought a real Christmas tree from a Lutheran church down the street, bought a fake wreath and garland from Home Depot, and went a little overboard on cute stuff at Target. The living room looks so cozy now and most of what we bought are things we can reuse every year.
 
 ## **What I’m Writing**
 
@@ -30,6 +30,8 @@ This week, I got real about the [mistakes I made](https://www.maggiegermano.com/
 ## **What I’m Up To**
 
 * Did you catch my latest [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2018/11/06/why-and-how-women-must-prepare-differently-for-the-future/) piece about how and why women need to plan for their futures differently?
+
+* x
 
 ## **What I’m Excited About**
 
