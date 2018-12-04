@@ -9,3 +9,34 @@ posts:
 - Founder Friday | UCB, Bachelorette Parties, and Bossed Up
 ---
 
+Happy Friday! I'm back from my honeymoon and ready to start reporting back about my week again. Do you find these weekly reviews useful or interesting? Let me know in the comments!
+
+## How I Earned Money This Week
+
+* We're back in the Airbnb game after taking November off while we were gone. We had one guest stay with us this week.
+
+* 
+
+## **How I Spent Money This Week**
+
+* x
+
+* x
+
+## **What I’m Writing**
+
+This week, I got real about the [mistakes I made](https://www.maggiegermano.com/blog/5-mistakes-i-made-while-planning-my-wedding/) while planning my wedding. Check it out and learn from my mistakes so you don't do that same!
+
+## **What I’m Up To**
+
+* Did you catch my latest [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2018/11/06/why-and-how-women-must-prepare-differently-for-the-future/) piece about how and why women need to plan for their futures differently?
+
+## **What I’m Excited About**
+
+x
+
+## **Money Tip to Take Into the Weekend**
+
+x
+
+That’s all from me today! Have a fantastic weekend!
