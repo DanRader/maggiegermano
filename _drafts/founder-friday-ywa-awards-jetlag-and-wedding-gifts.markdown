@@ -38,7 +38,7 @@ This week, I got real about the [mistakes I made](https://www.maggiegermano.com/
 
 ## **What I’m Excited About**
 
-x
+I was nominated for the Entrepreneurship for Good award at WIN's YWA awards this week!
 
 ## **Money Tip to Take Into the Weekend**
 
