@@ -23,6 +23,8 @@ Happy Friday! I'm back from my honeymoon and ready to start reporting back about
 
 * I went through a bit of a Christmas craze this past weekend. Dan and I bought a real Christmas tree from a Lutheran church down the street, bought a fake wreath and garland from Home Depot, and went a little overboard on cute stuff at Target. The living room looks so cozy now and most of what we bought are things we can reuse every year.
 
+* 
+
 ## **What I’m Writing**
 
 This week, I got real about the [mistakes I made](https://www.maggiegermano.com/blog/5-mistakes-i-made-while-planning-my-wedding/) while planning my wedding. Check it out and learn from my mistakes so you don't do that same!
