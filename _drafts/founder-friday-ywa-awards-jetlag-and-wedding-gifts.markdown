@@ -26,6 +26,8 @@ Happy Friday! I'm back from my honeymoon and ready to start reporting back about
 
 * Hopefully this isn't TMI, but we also ordered some underwear from [Everlane](https://www.everlane.com/r/marygermano) this week. Both of us need an upgrade in this department, so we're trying out [Everlane](https://www.everlane.com/r/marygermano), since they are pretty good quality.
 
+* My dear, dear friend Liz is getting married tomorrow! Her wedding is black tie, so I am trying [Rent the Runway](https://rtr.app.link/e/DYZJuG2MqS) *(get $30 off your first order if you use my link!)* for the first time ever. I spent $50 to try two different dresses, which I think is a pretty good deal! They should arrive tonight, and I'm eager to see how they fit.
+
 ## **What I’m Writing**
 
 This week, I got real about the [mistakes I made](https://www.maggiegermano.com/blog/5-mistakes-i-made-while-planning-my-wedding/) while planning my wedding. Check it out and learn from my mistakes so you don't do that same!
@@ -42,6 +44,6 @@ I was nominated for the Entrepreneurship for Good award at WIN's YWA awards this
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![End the Wage Gap.png](/uploads/End%20the%20Wage%20Gap.png)
 
 That’s all from me today! Have a fantastic weekend!
