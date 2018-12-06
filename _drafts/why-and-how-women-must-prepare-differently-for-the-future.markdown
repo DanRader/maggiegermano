@@ -46,3 +46,5 @@ Plan for career interruptions early. Invest as much as possible from the beginni
 Get clear on the financial implications and trade-offs that would come along with taking time off of work to be a caretaker. How will it affect you in the long run? Can you afford to take time off, or should you look into outsourcing that care? Can you decrease the amount of time that you're working, rather than leaving the workforce entirely? It's important to ask yourselves these kinds of questions so that you are as prepared as possible.
 
 The moral of this report is that women's lives play out differently than men's, and that affects our financial wellness in big ways. We have to be aware of these differences and prepare for them. While we are trying to improve big things like the wage gap and investment gap, we must also take action in our own lives to ensure that we are taken care of.
+
+*This post was originally published on my **[Women@Forbes](https://www.forbes.com/sites/maggiegermano/2018/11/06/why-and-how-women-must-prepare-differently-for-the-future/)** column.*
