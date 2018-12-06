@@ -16,7 +16,7 @@ Happy Friday! I'm back from my honeymoon and ready to start reporting back about
 
 * We're back in the Airbnb game after taking November off while we were gone. We had one guest stay with us this week.
 
-* A few of my clients' monthly payments went through this week.
+* A couple of my clients' monthly payments went through this week.
 
 ## **How I Spent Money This Week**
 
