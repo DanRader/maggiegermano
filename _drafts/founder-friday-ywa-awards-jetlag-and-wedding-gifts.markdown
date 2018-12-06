@@ -24,7 +24,7 @@ Happy Friday! I'm back from my honeymoon and ready to start reporting back about
 
 * I went through a bit of a Christmas craze this past weekend. Dan and I bought a real Christmas tree from a Lutheran church down the street, bought a fake wreath and garland from Home Depot, and went a little overboard on cute stuff at Target. The living room looks so cozy now and most of what we bought are things we can reuse every year.
 
-* 
+* Hopefully this isn't TMI, but we also ordered some underwear from [Everlane](https://www.everlane.com/r/marygermano) this week. Both of us need an upgrade in this department, so we're trying out [Everlane](https://www.everlane.com/r/marygermano), since they are pretty good quality.
 
 ## **What I’m Writing**
 
@@ -34,7 +34,7 @@ This week, I got real about the [mistakes I made](https://www.maggiegermano.com/
 
 * Did you catch my latest [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2018/11/06/why-and-how-women-must-prepare-differently-for-the-future/) piece about how and why women need to plan for their futures differently?
 
-* This went live while I was in Thailand, but the episode of the live [Bossed Up podcast](https://bossedup.org/episode72/) taping in DC is up! A bunch of awesome ladies and I talked about women and wealth. 
+* This went live while I was in Thailand, but the episode of the live [Bossed Up podcast](https://bossedup.org/episode72/) taping in DC is up! A bunch of awesome ladies and I talked about women and wealth.
 
 ## **What I’m Excited About**
 
