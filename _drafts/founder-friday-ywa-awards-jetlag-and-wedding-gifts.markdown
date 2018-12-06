@@ -44,6 +44,6 @@ I was nominated for the Entrepreneurship for Good award at WIN's YWA awards this
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![End the Wage Gap.png](/uploads/End%20the%20Wage%20Gap.png)
 
 That’s all from me today! Have a fantastic weekend!
