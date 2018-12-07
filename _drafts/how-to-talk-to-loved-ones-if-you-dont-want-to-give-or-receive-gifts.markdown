@@ -14,4 +14,6 @@ One of my friends who wants to end gift-giving wants to be clutter-free and mini
 
 ## Be Consistent
 
+Whenever you set a new boundary, it's going to take people some time to get used to it. If you have a loved one who gives you a gift even anyway, thank them but take them aside later and remind them about your wishes. They might not think you really meant that you didn't want to receive gifts (who doesn't love gifts, right?), so be firm in your decision.
+
 ## Be Gracious
