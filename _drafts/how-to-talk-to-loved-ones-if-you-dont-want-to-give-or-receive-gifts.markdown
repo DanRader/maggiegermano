@@ -12,4 +12,6 @@ One of my friends who wants to end gift-giving wants to be clutter-free and mini
 
 ## Propose Experiences
 
-Be Gracious
+## Be Consistent
+
+## Be Gracious
