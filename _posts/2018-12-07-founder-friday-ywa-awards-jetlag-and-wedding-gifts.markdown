@@ -16,7 +16,7 @@ Happy Friday! I'm back from my honeymoon and ready to start reporting back about
 
 * We're back in the Airbnb game after taking November off while we were gone. We had one guest stay with us this week.
 
-* A few of my clients' monthly payments went through this week.
+* A couple of my clients' monthly payments went through this week.
 
 ## **How I Spent Money This Week**
 
@@ -28,6 +28,8 @@ Happy Friday! I'm back from my honeymoon and ready to start reporting back about
 
 * My dear, dear friend Liz is getting married tomorrow! Her wedding is black tie, so I am trying [Rent the Runway](https://rtr.app.link/e/DYZJuG2MqS) *(get $30 off your first order if you use my link!)* for the first time ever. I spent $50 to try two different dresses, which I think is a pretty good deal! They should arrive tonight, and I'm eager to see how they fit.
 
+* We spent a bunch of money today... but luckily we're spending wedding gift money on a few things we've been wanting to buy. They were bigger ticket items that we haven't wanted to splurge on before, but now we have a little cash to cover the cost. *(Curious how you should spend your wedding gift money? Check out [my post](https://www.maggiegermano.com/blog/what-should-i-do-with-my-wedding-gift-money/) on this very topic!)*
+
 ## **What I’m Writing**
 
 This week, I got real about the [mistakes I made](https://www.maggiegermano.com/blog/5-mistakes-i-made-while-planning-my-wedding/) while planning my wedding. Check it out and learn from my mistakes so you don't do that same!
@@ -38,9 +40,13 @@ This week, I got real about the [mistakes I made](https://www.maggiegermano.com/
 
 * This went live while I was in Thailand, but the episode of the live [Bossed Up podcast](https://bossedup.org/episode72/) taping in DC is up! A bunch of awesome ladies and I talked about women and wealth.
 
+![B75A8695.jpg](/uploads/B75A8695.jpg)
+
 ## **What I’m Excited About**
 
-I was nominated for the Entrepreneurship for Good award at WIN's YWA awards this week!
+I was a finalist for the Entrepreneurship for Good award at [WIN's](https://winonline.org/) [YWA awards](https://winonline.org/events/young-women-of-achievement-awards/2018-young-women-achievement-awards/) this week! Dallas Thompson, president and founder of [Bright Compass](https://www.thebrightcompass.com/), ultimately won the award, and it was so well deserved. I was honored to be nominated with the rest of these amazing women!
+
+![IMG_2132.jpg](/uploads/IMG_2132.jpg)
 
 ## **Money Tip to Take Into the Weekend**
 
