@@ -28,6 +28,8 @@ Happy Friday! I'm back from my honeymoon and ready to start reporting back about
 
 * My dear, dear friend Liz is getting married tomorrow! Her wedding is black tie, so I am trying [Rent the Runway](https://rtr.app.link/e/DYZJuG2MqS) *(get $30 off your first order if you use my link!)* for the first time ever. I spent $50 to try two different dresses, which I think is a pretty good deal! They should arrive tonight, and I'm eager to see how they fit.
 
+* We spent a bunch of money today... but luckily we're spending wedding gift money on a few things we've been wanting to buy. They were bigger ticket items that we haven't wanted to splurge on before, but now we have a little cash to cover the cost. *(Curious how you should spend your wedding gift money? Check out [my post](https://www.maggiegermano.com/blog/what-should-i-do-with-my-wedding-gift-money/) on this very topic!)*
+
 ## **What I’m Writing**
 
 This week, I got real about the [mistakes I made](https://www.maggiegermano.com/blog/5-mistakes-i-made-while-planning-my-wedding/) while planning my wedding. Check it out and learn from my mistakes so you don't do that same!
