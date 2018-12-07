@@ -38,9 +38,13 @@ This week, I got real about the [mistakes I made](https://www.maggiegermano.com/
 
 * This went live while I was in Thailand, but the episode of the live [Bossed Up podcast](https://bossedup.org/episode72/) taping in DC is up! A bunch of awesome ladies and I talked about women and wealth.
 
+![B75A8695.jpg](/uploads/B75A8695.jpg)
+
 ## **What I’m Excited About**
 
-I was nominated for the Entrepreneurship for Good award at WIN's YWA awards this week!
+I was a finalist for the Entrepreneurship for Good award at [WIN's](https://winonline.org/) [YWA awards](https://winonline.org/events/young-women-of-achievement-awards/2018-young-women-achievement-awards/) this week! Dallas Thompson, president and founder of [Bright Compass](https://www.thebrightcompass.com/), ultimately won the award, and it was so well deserved. I was honored to be nominated with the rest of these amazing women!
+
+![IMG_2132.jpg](/uploads/IMG_2132.jpg)
 
 ## **Money Tip to Take Into the Weekend**
 
