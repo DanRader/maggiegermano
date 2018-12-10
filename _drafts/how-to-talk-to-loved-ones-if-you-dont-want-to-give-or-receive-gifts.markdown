@@ -8,12 +8,14 @@ Last week, I saw a series of Instagram stories from [Melissa Hartwig](https://ww
 
 ## Frame It Around Your Needs
 
-One of my friends who wants to end gift-giving wants to be clutter-free and minimalist in her home. That desire doesn't mesh well with receiving physical gifts every year. 
+One of my friends who wants to end gift-giving wants to be clutter-free and minimalist in her home. That desire doesn't mesh well with receiving physical gifts every year.
 
 ## Propose Experiences
 
-## Be Consistent
+## Set Boundaries and Be Consistent
 
 Whenever you set a new boundary, it's going to take people some time to get used to it. If you have a loved one who gives you a gift even anyway, thank them but take them aside later and remind them about your wishes. They might not think you really meant that you didn't want to receive gifts (who doesn't love gifts, right?), so be firm in your decision.
 
 ## Be Gracious
+
+Melissa Hartwig mentioned this in her post, but sometimes there will be loved ones who just can't accept your gift-free lifestyle. If you've told them more than once that you don't want gifts, but they continue to give them, all you can do is be gracious. Say "thank you" and accept the gift. You have to pick your battles in life. If you don't want to have the items around your house, you can donate them or re-gift. 
