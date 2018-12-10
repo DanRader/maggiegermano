@@ -5,6 +5,11 @@ categories:
 - lifestyle
 - savings
 image: "/uploads/eberhard-grossgasteiger-255502-unsplash.jpg"
+tweet: Why And How Women Must Prepare Differently for the Future
+posts:
+- Why I Became a Financial Coach for Women
+- Why It's Important to Get Your Money Right (As a Woman)
+- It's Time to Prepare to Protect Your Reproductive Health
 ---
 
 As a financial coach, I choose to work specifically with women, because I know that women’s financial situations differ from men’s. I’m passionate about pay inequality, reproductive rights, domestic violence, sexual harassment, and the investment gap. I also know that women think about and use their money differently than men do. But how do all of these things affect women’s lives and futures for the long term?
