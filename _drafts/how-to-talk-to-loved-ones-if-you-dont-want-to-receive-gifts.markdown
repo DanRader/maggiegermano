@@ -10,7 +10,9 @@ Last week, I saw a series of Instagram stories from [Melissa Hartwig](https://ww
 
 One of my friends who wants to end gift-giving wants to be clutter-free and minimalist in her home. That desire doesn't mesh well with receiving physical gifts every year.
 
-## Propose Experiences
+## Propose Alternatives
+
+I've written before about coming up with alternative gifts that are more affordable or enjoyable. If you no longer want to receive 
 
 ## Set Boundaries and Be Consistent
 
@@ -18,4 +20,4 @@ Whenever you set a new boundary, it's going to take people some time to get used
 
 ## Be Gracious
 
-Melissa Hartwig mentioned this in her post, but sometimes there will be loved ones who just can't accept your gift-free lifestyle. If you've told them more than once that you don't want gifts, but they continue to give them, all you can do is be gracious. Say "thank you" and accept the gift. You have to pick your battles in life. If you don't want to have the items around your house, you can donate them or re-gift. 
+Melissa Hartwig mentioned this in her post, but sometimes there will be loved ones who just can't accept your gift-free lifestyle. If you've told them more than once that you don't want gifts, but they continue to give them, all you can do is be gracious. Say "thank you" and accept the gift. You have to pick your battles in life. If you don't want to have the items around your house, you can donate them or re-gift.
