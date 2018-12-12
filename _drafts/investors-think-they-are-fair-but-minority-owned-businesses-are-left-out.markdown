@@ -1,6 +1,6 @@
 ---
 title: Investors Think They Are Fair But Minority-Owned Businesses Are Left Out
-date: 2018-12-12 16:52:00 -05:00
+date: 2019-01-14 11:00:00 -05:00
 ---
 
 A new [report](https://www.morganstanley.com/ideas/trillion-dollar-blind-spot-infographic/) released by [Morgan Stanley](https://www.morganstanley.com/) found that the majority of investors and bank loan officers do not think there is a funding imbalance for women and minority-owned businesses (WMBEs) in the United States. Specifically, 80 percent of respondents believe that WMBEs get the amount of capital that they deserve to run and grow their businesses. However, this belief does not align with the reality of the investments being made. In fact, investments in WMBEs are 80 percent lower than the median investment in businesses overall. This means that investors have a large blind spot when it comes to how they are investing in these businesses. But why is that?
