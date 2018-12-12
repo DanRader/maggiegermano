@@ -14,4 +14,4 @@ ticket-price: "$10"
 
 The first Money Circle meetup in January is a special one! We're teaming up with Deri Freeman, a financial planner with Pruco Securities, LLC, to set financial goals for 2019.
 
-Setting specific, measurable goals is 
+Setting specific, measurable goals is the key to being more likely to achieve your goals. At this month's Money Circle, Maggie will teach you how to make goals that motivate you. 
