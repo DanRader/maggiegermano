@@ -12,4 +12,6 @@ button-text: Sign Me Up!
 ticket-price: "$10"
 ---
 
-The first Money Circle meetup in January is a special one! We're teaming up with Deri Freeman, a financial planner with Pruco Securities, LLC, to set financial goals for 2019. 
+The first Money Circle meetup in January is a special one! We're teaming up with Deri Freeman, a financial planner with Pruco Securities, LLC, to set financial goals for 2019.
+
+Setting specific, measurable goals is 
