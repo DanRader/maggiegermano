@@ -16,7 +16,7 @@ One of my friends who wants to end gift-giving wants to be clutter-free and mini
 
 ## Propose Alternatives
 
-I've written before about coming up with alternative gifts that are more affordable or enjoyable. If you no longer want to receive 
+I've written before about coming up with alternative gifts that are more affordable or enjoyable. If you no longer want to receive physical gifts, you can suggest other options. A great way to go about this is to spend quality time together instead. Just last week, I suggested to my sisters that we offer to spend time with our dad instead of buying him a gift. My dad buys himself anything he might want in the moment, so we are always scratching our heads when it's near the holidays. 
 
 ## Set Boundaries and Be Consistent
 
