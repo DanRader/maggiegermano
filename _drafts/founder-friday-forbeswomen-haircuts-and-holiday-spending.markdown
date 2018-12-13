@@ -1,6 +1,8 @@
 ---
 title: Founder Friday | ForbesWomen, Haircuts, and Holiday Spending
-date: 2018-12-13 13:18:00 -05:00
+date: 2018-12-14 14:00:00 -05:00
+categories:
+- founder friday
 ---
 
 Happy Friday! I’m back from my honeymoon and ready to start reporting back about my week again. Do you find these weekly reviews useful or interesting? Let me know in the comments!
