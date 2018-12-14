@@ -19,7 +19,7 @@ Happy Friday! I’m back from my honeymoon and ready to start reporting back abo
 
 * x
 
-* 
+* One of my favorite singers, [LP](http://iamlp.com/), is coming to DC in February! Tickets went on sale yesterday, so I got tickets for Dan and me. Her last show here sold out before I could buy tickets, so I made it a priority this time.
 
 * I hadn't gotten a haircut since July, so it was definitely time for one. I had grown my hair out a bit for the wedding, and was missing my short hair. So I went to [Bubbles Salon](http://www.bubblessalons.com/) near Union Station for a cut. I'm not super thrilled with how it turned out, so I might need a touch up after Christmas. Do you have a favorite hair stylist in DC or Maryland? I'm on the hunt for a new one that I can trust!
 
