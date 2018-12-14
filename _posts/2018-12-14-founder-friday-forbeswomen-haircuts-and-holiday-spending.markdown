@@ -36,15 +36,7 @@ My latest piece on [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2018
 
 ## **What I’m Up To**
 
-* The December [Money Circle](http://maggiegermano.com/moneycircle) meetup was this week! We got really worked up talking about the stresses and expectations around holiday gift-giving. Stay tuned for a special Money Circle in January!
-
-* x
-
-* 
-
-## **What I’m Excited About**
-
-x
+The December [Money Circle](http://maggiegermano.com/moneycircle) meetup was this week! We got really worked up talking about the stresses and expectations around holiday gift-giving. Stay tuned for a special Money Circle in January!
 
 ## **Money Tip to Take Into the Weekend**
 
