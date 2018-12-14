@@ -12,7 +12,7 @@ Last week, I saw a series of Instagram stories from [Melissa Hartwig](https://ww
 
 ## Frame It Around Your Needs
 
-This is true when have any kind of difficult conversation. It always helps to use "I" statements, and One of my friends who wants to end gift-giving wants to be clutter-free and minimalist in her home. That desire doesn't mesh well with receiving physical gifts every year.
+This is true when have any kind of difficult conversation. It always helps to use "I" statements, and frame the issue around what you personally need, not what is wrong with the other person. If you no longer want to receive physical gifts, tell your loved ones* why*. One of my friends who wants to end gift-giving wants to be clutter-free and minimalist in her home. That desire doesn't mesh well with receiving physical gifts every year. So she should explain to her loved ones 
 
 ## Propose Alternatives
 
