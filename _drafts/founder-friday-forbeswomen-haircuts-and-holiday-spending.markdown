@@ -5,7 +5,7 @@ categories:
 - founder friday
 ---
 
-Happy Friday! I’m back from my honeymoon and ready to start reporting back about my week again. Do you find these weekly reviews useful or interesting? Let me know in the comments!
+Happy Friday! I hope you've been staying warm now that's it's for real winter. Here's what I was up to this week. 
 
 ## How I Earned Money This Week
 
@@ -13,7 +13,7 @@ Happy Friday! I’m back from my honeymoon and ready to start reporting back abo
 
 * Money Circle was this week, and the Eventbrite payout is in process.
 
-* 
+* Dan's bi-weekly paycheck came in today.
 
 ## **How I Spent Money This Week**
 
@@ -31,7 +31,7 @@ My latest piece on [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2018
 
 ## **What I’m Up To**
 
-* The December Money Circle meetup was this week! We got really worked up talking about the stresses and expectations around holiday gift-giving.
+* The December [Money Circle](http://maggiegermano.com/moneycircle) meetup was this week! We got really worked up talking about the stresses and expectations around holiday gift-giving. Stay tuned for a special Money Circle in January!
 
 * x
 
