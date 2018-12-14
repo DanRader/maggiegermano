@@ -24,7 +24,7 @@ Just last week, I suggested to my sisters that we offer to spend time with our d
 
 ## Set Boundaries and Be Consistent
 
-Whenever you set a new boundary, it's going to take people some time to get used to it. If you have a loved one who gives you a gift even anyway, thank them but take them aside later and remind them about your wishes. They might not think you really meant that you didn't want to receive gifts (who doesn't love gifts, right?), so be firm in your decision.
+Whenever you set a new boundary, it's going to take people some time to get used to it. This is especially true when it's a boundary that seems strange to other people. If you have a loved one who gives you a gift even anyway, thank them but take them aside later and remind them about your wishes. They might not think you really meant that you didn't want to receive gifts (who doesn't love gifts, right?), so be firm in your decision.
 
 ## Be Gracious
 
