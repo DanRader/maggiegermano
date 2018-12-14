@@ -4,6 +4,10 @@ date: 2018-12-14 14:00:00 -05:00
 categories:
 - founder friday
 image: "/uploads/freestocks-org-487542-unsplash%20(1).jpg"
+posts:
+- Founder Friday | YWA Awards, Jetlag, and Wedding Gifts
+- Founder Friday | Identity, Travel, and Self Care
+- Founder Friday | Love, Yoga, and Eating Well
 ---
 
 Happy Friday! I hope you've been staying warm now that's it's for real winter. Here's what I was up to this week. 
