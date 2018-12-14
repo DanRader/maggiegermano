@@ -12,15 +12,19 @@ Last week, I saw a series of Instagram stories from [Melissa Hartwig](https://ww
 
 ## Frame It Around Your Needs
 
-This is true when have any kind of difficult conversation. It always helps to use "I" statements, and One of my friends who wants to end gift-giving wants to be clutter-free and minimalist in her home. That desire doesn't mesh well with receiving physical gifts every year.
+This is true when have any kind of difficult conversation. It always helps to use "I" statements, and frame the issue around what you personally need, not what is wrong with the other person. It helps the other person to be more receptive and less defensive to what you're saying. 
+
+If you no longer want to receive physical gifts, tell your loved ones* why *that is. (Although if it's because they are terrible gift-givers, maybe tell a small white lie to spare their feelings.) One of my friends who wants to end gift-giving wants to be clutter-free and minimalist in her home. That desire doesn't mesh well with receiving physical gifts every year. So she should explain to her loved ones that she's on a clutter-free journey and suggest alternatives to physical gifts. 
 
 ## Propose Alternatives
 
-I've written before about coming up with alternative gifts that are more affordable or enjoyable. If you no longer want to receive physical gifts, you can suggest other options. A great way to go about this is to spend quality time together instead. Just last week, I suggested to my sisters that we offer to spend time with our dad instead of buying him a gift. My dad buys himself anything he might want in the moment, so we are always scratching our heads when it's near the holidays.
+I've written before about coming up with [alternative](https://www.maggiegermano.com/blog/be-the-best-gift-giver) [gifts](https://www.maggiegermano.com/blog/stress-free-holidays) that are more affordable or enjoyable. If you no longer want to receive physical gifts, you can suggest other options, especially if a loved one still wants to give you something. A great way to go about this is to spend quality time together instead. This could be a meal or some kind of activity. 
+
+Just last week, I suggested to my sisters that we offer to spend time with our dad instead of buying him a Christmas gift. My dad buys himself anything he might want in the moment, so we are always scratching our heads when it's near the holidays. A friend of mine's mother gave her sister a gift of going out to lunch at least once a month for the entire year. I don't know about you, but quality time usually makes me feel better than a physical gift, anyway. 
 
 ## Set Boundaries and Be Consistent
 
-Whenever you set a new boundary, it's going to take people some time to get used to it. If you have a loved one who gives you a gift even anyway, thank them but take them aside later and remind them about your wishes. They might not think you really meant that you didn't want to receive gifts (who doesn't love gifts, right?), so be firm in your decision.
+Whenever you set a new boundary, it's going to take people some time to get used to it. This is especially true when it's a boundary that seems strange to other people. If you have a loved one who gives you a gift even anyway, thank them but take them aside later and remind them about your wishes. They might not think you really meant that you didn't want to receive gifts (who doesn't love gifts, right?), so be firm in your decision.
 
 ## Be Gracious
 
