@@ -18,7 +18,9 @@ If you no longer want to receive physical gifts, tell your loved ones* why *that
 
 ## Propose Alternatives
 
-I've written before about coming up with [alternative](https://www.maggiegermano.com/blog/be-the-best-gift-giver) [gifts](https://www.maggiegermano.com/blog/stress-free-holidays) that are more affordable or enjoyable. If you no longer want to receive physical gifts, you can suggest other options. A great way to go about this is to spend quality time together instead. Just last week, I suggested to my sisters that we offer to spend time with our dad instead of buying him a gift. My dad buys himself anything he might want in the moment, so we are always scratching our heads when it's near the holidays.
+I've written before about coming up with [alternative](https://www.maggiegermano.com/blog/be-the-best-gift-giver) [gifts](https://www.maggiegermano.com/blog/stress-free-holidays) that are more affordable or enjoyable. If you no longer want to receive physical gifts, you can suggest other options, especially if a loved one still wants to give you something. A great way to go about this is to spend quality time together instead. This could be a meal or some kind of activity. 
+
+Just last week, I suggested to my sisters that we offer to spend time with our dad instead of buying him a Christmas gift. My dad buys himself anything he might want in the moment, so we are always scratching our heads when it's near the holidays. A friend of mine's mother gave her sister a gift of going out to lunch at least once a month for the entire year. I don't know about you, but quality time usually makes me feel better than a physical gift, anyway. 
 
 ## Set Boundaries and Be Consistent
 
