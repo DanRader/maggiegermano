@@ -3,6 +3,7 @@ title: Founder Friday | ForbesWomen, Haircuts, and Holiday Spending
 date: 2018-12-14 14:00:00 -05:00
 categories:
 - founder friday
+image: "/uploads/freestocks-org-487542-unsplash%20(1).jpg"
 ---
 
 Happy Friday! I hope you've been staying warm now that's it's for real winter. Here's what I was up to this week. 
@@ -17,7 +18,7 @@ Happy Friday! I hope you've been staying warm now that's it's for real winter. H
 
 ## **How I Spent Money This Week**
 
-* x
+* I worked downtown a few times this week, in between meetings. I bought myself lunch at BiBap in Dupont Circle, and bought some hot chocolate at Emissary. 
 
 * One of my favorite singers, [LP](http://iamlp.com/), is coming to DC in February! Tickets went on sale yesterday, so I got tickets for Dan and me. Her last show here sold out before I could buy tickets, so I made it a priority this time.
 
