@@ -10,11 +10,13 @@ x
 
 * **I Took My Business Full-Time**
 
-x
+On January 1, 2018, I was officially a full-time business owner, having left my day job at the end of December. It was a terrifying leap, but one that I felt that I had to take. There have certainly been ups and downs throughout the year, but I don't regret the move. I've learned a lot about myself and my business, and I know that big changes are coming in 2019, too.
 
 * **I Got ICF Certified**
 
 Last year, I received my first coaching certification through [CoachDiversity Institute](https://coachdiversity.com/). This year, I took the next step of getting certified by the [International Coach Federation](https://coachfederation.org/), as they are viewed as the authority on coaching certification. I am now both a Certified Professional Diversity Coach and an Associate Certified Coach. 
+
+![Screen Shot 2018-12-17 at 11.38.17 AM.png](/uploads/Screen%20Shot%202018-12-17%20at%2011.38.17%20AM.png)
 
 * **I Ran an Airbnb Rental**
 
@@ -30,6 +32,10 @@ I may be a financial coach, but I'm not a certified financial planner, so I want
 
 * **I Got Married**
 
-You may have noticed, based on my wedding-heavy content, that I got married this year! 
+You may have noticed, based on my wedding-heavy content, that I got married this year! As you also may have noticed, I didn't love the planning process, so I'm glad to finally be married. 
 
 * **I Went to Thailand**
+
+Before my honeymoon, I had never actually traveled to Asia. I'd heard wonderful things about Thailand for years and always wanted to make the trip. Dan and I decided to take the leap and go to Thailand for nearly 3 weeks for our honeymoon. It was an amazing experience that was unlike any other vacation I've taken. 
+
+![2018-11-21 09.48.00.jpg](/uploads/2018-11-21%2009.48.00.jpg)
