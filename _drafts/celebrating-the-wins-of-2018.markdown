@@ -34,9 +34,15 @@ Last year, I received my first coaching certification through [CoachDiversity In
 
 When Dan and I were looking to buy a house last year, one of my big priorities was to find a house with a basement that we could rent out. I knew we could afford our mortgage ourselves, but I also wanted to have a potential extra income source. We got lucky and found a house with a finished basement and its own entrance. Since we finished fixing it up in February, we've been running it as an Airbnb rental. It's actually been really successful! We get guests from all over the world, either to visit the University of Maryland or DC. Next year, our county will be implementing some limitations to how often we can rent out the space during the year, but I'm still optimistic about the extra income it will bring.
 
+* **I Had My First Big Paid Speaking Gig**
+
+x
+
 * **My Business Won An Award**
 
 I won the Women Empowerment Entrepreneur of the Year Award from the DC Women's Business Center this year!
+
+![IMG_2372.jpg](/uploads/IMG_2372.jpg)
 
 * **I Hired a Financial Planner**
 
