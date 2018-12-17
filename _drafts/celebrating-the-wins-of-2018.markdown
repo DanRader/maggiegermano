@@ -25,6 +25,8 @@ Allow yourself to treat yourself for everything you accomplished in 2018. It can
 
 ## Set Goals for 2019
 
+Use your 2018 wins to inform your goals for 2019. Do you want to take things in a different direction? Do you want to build on your successes from this year? 
+
 ## My 2018 Wins:
 
 **I Took My Business Full-Time**
