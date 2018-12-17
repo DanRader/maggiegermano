@@ -52,6 +52,8 @@ I may be a financial coach, but I'm not a certified financial planner, so I want
 
 You may have noticed, based on my wedding-heavy content, that I got married this year! As you also may have noticed, I didn't love the planning process, so I'm glad to finally be married.
 
+![BarbaraOPhotography-M D-2.jpg](/uploads/BarbaraOPhotography-M%20D-2.jpg)
+
 * **I Went to Thailand**
 
 Before my honeymoon, I had never actually traveled to Asia. I'd heard wonderful things about Thailand for years and always wanted to make the trip. Dan and I decided to take the leap and go to Thailand for nearly 3 weeks for our honeymoon. It was an amazing experience that was unlike any other vacation I've taken. It forced me to get out of my comfort zone in many ways, whether it was the language, the food, or the transportation. I got to hang out with elephants
