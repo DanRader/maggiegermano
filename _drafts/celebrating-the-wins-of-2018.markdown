@@ -57,6 +57,10 @@ I won the Women Empowerment Entrepreneur of the Year Award from the [DC Women's 
 
 I may be a financial coach, but I'm not a certified financial planner, so I wanted to get a little extra help managing my money. Especially after this year, when I took a pay cut by quitting my job, I wanted to make sure Dan and I were staying on the right track financially. We hired my friend, Jessie Hill, to advise us on our retirement savings, and also to buy life insurance. You're better off locking in life insurance when you're young and healthy, so we wanted to get on top of that now.
 
+* **My Business Made a Profit**
+
+They say that most businesses don't make a profit within the first year. I've been running my business for almost 3 years, but this is the first year that it's full-time. 
+
 * **I Got Married**
 
 You may have noticed, based on my wedding-heavy content, that I got married this year! As you also may have noticed, I didn't love the planning process, so I'm glad to finally be married. The wedding itself was beautiful and it was wonderful to have most of the people we love all in one place.
