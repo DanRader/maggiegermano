@@ -38,6 +38,8 @@ When Dan and I were looking to buy a house last year, one of my big priorities w
 
 In June, I spoke on a financial literacy panel at the [NCCWSL](https://www.nccwsl.org/) at University of Maryland. It just so happened that the director of the Women's Leadership & Mentorship Program at Robert Morris University was in the audience. She liked what I had to say, so she brought me to Pittsburgh to speak at her program's orientation. It was my first well-paid 
 
+![IMG_2373.jpg](/uploads/IMG_2373.jpg)
+
 * **My Business Won An Award**
 
 I won the Women Empowerment Entrepreneur of the Year Award from the DC Women's Business Center this year!
