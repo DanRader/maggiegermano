@@ -10,7 +10,7 @@ x
 
 * **I Took My Business Full-Time**
 
-x
+On January 1, 2018, I was officially a full-time business owner, having left my day job at the end of December. It was a terrifying leap, but one that I felt that I had to take. There have certainly been ups and downs throughout the year, but I don't regret the move. 
 
 * **I Got ICF Certified**
 
