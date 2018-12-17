@@ -2,6 +2,8 @@
 title: How to Talk to Loved Ones If You Don't Want to Receive Gifts
 date: 2018-12-17 11:00:00 -05:00
 image: "/uploads/kari-shea-485935-unsplash.jpg"
+tweet: Trying to minimalize your home? Here's how to talk to your loved ones about
+  not giving you gifts.
 posts:
 - How to Plan Ahead for Holiday Spending
 - You Can Have Fun with Your Friends While Spending Less
@@ -24,8 +26,10 @@ Just last week, I suggested to my sisters that we offer to spend time with our d
 
 ## Set Boundaries and Be Consistent
 
-Whenever you set a new boundary, it's going to take people some time to get used to it. This is especially true when it's a boundary that seems strange to other people. If you have a loved one who gives you a gift even anyway, thank them but take them aside later and remind them about your wishes. They might not think you really meant that you didn't want to receive gifts (who doesn't love gifts, right?), so be firm in your decision.
+Whenever you set a new boundary, it's going to take people some time to get used to it. This is especially true when it's a boundary that seems strange to other people. (And in our Capitalist society, it is definitely viewed as strange to not want more stuff!) If you have a loved one who gives you a gift anyway, thank them but take them aside later and remind them about your wishes. They might not think you really meant that you didn't want to receive gifts (who doesn't love gifts, right?), so be firm in your reminder.
 
 ## Be Gracious
 
-Melissa Hartwig mentioned this in her post, but sometimes there will be loved ones who just can't accept your gift-free lifestyle. If you've told them more than once that you don't want gifts, but they continue to give them, all you can do is be gracious. Say "thank you" and accept the gift. You have to pick your battles in life. If you don't want to have the items around your house, you can donate them or re-gift.
+Melissa Hartwig mentioned this in her post, but sometimes there will be loved ones who just can't accept your gift-free lifestyle. If you've told them more than once that you don't want gifts, but they continue to give them, all you can do is be gracious. Say "thank you" and accept the gift. You have to pick your battles in life. If you don't want to have the items around your house, you can donate them or re-gift later.
+
+Good luck!
