@@ -16,6 +16,8 @@ Sit down and make a list of everything you accomplished this year. It can be as 
 
 ## Treat Yourself
 
+Allow yourself to treat yourself for everything you accomplished in 2018. It can be something very small, but do something nice for yourself. I think the "treat yourself" 
+
 ## Set Goals for 2019
 
 ## My 2018 Wins:
