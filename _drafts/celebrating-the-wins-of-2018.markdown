@@ -59,7 +59,7 @@ I may be a financial coach, but I'm not a certified financial planner, so I want
 
 * **My Business Made a Profit**
 
-They say that most businesses don't make a profit within the first year. I've been running my business for almost 3 years, but this is the first year that it's full-time. 
+They say that most businesses don't make a profit within the first year. I've been running my business for almost 3 years, but this is the first year that it's full-time. I certainly didn't make as much as I would like to (I want to replace my old salary and then some), but I made a profit, even after all of my expenses. I'll call that a win!
 
 * **I Got Married**
 
