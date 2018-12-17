@@ -10,7 +10,13 @@ It's almost the end of 2018! I honestly can't believe how quickly the year flew 
 
 How can you do that?
 
-Make a Long List
+## Make a Long List
+
+Sit down and make a list of everything you accomplished this year. It can be as big as running a marathon and as small as getting your annual physical. Anything that made you happy and moved you forward in life is considered a win. You might have to wrack your brain a little, 
+
+## Treat Yourself
+
+## Set Goals for 2019
 
 ## My 2018 Wins:
 
