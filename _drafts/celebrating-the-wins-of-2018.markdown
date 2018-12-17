@@ -4,6 +4,11 @@ date: 2018-12-24 11:00:00 -05:00
 categories:
 - lifestyle
 image: "/uploads/glenn-carstens-peters-190592-unsplash.jpg"
+tweet: It helps to reflect on and celebrate your wins for the past year.
+posts:
+- 3 Easy Financial Goals for 2017
+- Reflecting on 2017
+- Easy Financial Goals for 2018
 ---
 
 It's almost the end of 2018! I honestly can't believe how quickly the year flew by. Something I've been doing for the past couple of years is stopping to reflect on the past year so that I can celebrate my wins, big and small. It's important to acknowledge and celebrate our accomplishments, so that we don't forget about them. It's easy to focus on what we didn't achieve (and the New Years Resolutions we abandoned), but it's a little harder to call out what we *did* do. Taking the time to reflect like this might surprise you. You may have achieved more than you thought you did. Give yourself this chance to be proud of yourself so you're motivated to set new goals for 2019.
