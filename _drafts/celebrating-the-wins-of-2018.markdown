@@ -30,6 +30,6 @@ I may be a financial coach, but I'm not a certified financial planner, so I want
 
 * **I Got Married**
 
-You may have noticed, based on my wedding-heavy content, that I got married this year! 
+You may have noticed, based on my wedding-heavy content, that I got married this year! As you also may have noticed, I didn't love the planning process, so I'm glad to finally be married. 
 
 * **I Went to Thailand**
