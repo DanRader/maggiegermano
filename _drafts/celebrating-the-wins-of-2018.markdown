@@ -27,47 +27,47 @@ Allow yourself to treat yourself for everything you accomplished in 2018. It can
 
 ## My 2018 Wins:
 
-* **I Took My Business Full-Time**
+**I Took My Business Full-Time**
 
 On January 1, 2018, I was officially a full-time business owner, having left my day job at the end of December. It was a terrifying leap, but one that I felt that I had to take. There have certainly been ups and downs throughout the year, but I don't regret the move. I've learned a lot about myself and my business, and I know that big changes are coming in 2019, too.
 
-* **I Got ICF Certified**
+**I Got ICF Certified**
 
 Last year, I received my first coaching certification through [CoachDiversity Institute](https://coachdiversity.com/). This year, I took the next step of getting certified by the [International Coach Federation](https://coachfederation.org/), as they are viewed as the authority on coaching certification. I am now both a Certified Professional Diversity Coach and an Associate Certified Coach.
 
 ![Screen Shot 2018-12-17 at 11.38.17 AM.png](/uploads/Screen%20Shot%202018-12-17%20at%2011.38.17%20AM.png)
 
-* **I Ran an Airbnb Rental**
+**I Ran an Airbnb Rental**
 
 When Dan and I were looking to buy a house last year, one of my big priorities was to find a house with a basement that we could rent out. I knew we could afford our mortgage ourselves, but I also wanted to have a potential extra income source. We got lucky and found a house with a finished basement and its own entrance. Since we finished fixing it up in February, we've been running it as an Airbnb rental. It's actually been really successful! We get guests from all over the world, either to visit the University of Maryland or DC. Next year, our county will be implementing some limitations to how often we can rent out the space during the year, but I'm still optimistic about the extra income it will bring.
 
-* **I Had My First Big Paid Speaking Gig**
+**I Had My First Big Paid Speaking Gig**
 
 In June, I spoke on a financial literacy panel at the [NCCWSL](https://www.nccwsl.org/) at University of Maryland. It just so happened that the director of the Women's Leadership & Mentorship Program at [Robert Morris University](https://www.rmu.edu/) was in the audience. She liked what I had to say, so she brought me to Pittsburgh to speak at her program's orientation. It was my first well-paid 
 
 ![IMG_2373.jpg](/uploads/IMG_2373.jpg)
 
-* **My Business Won An Award**
+**My Business Won An Award**
 
 I won the Women Empowerment Entrepreneur of the Year Award from the [DC Women's Business Center](http://dcwbc.org/) this year! I nominated myself, but had no expectations of winning. It was a great surprise to be chosen for the award! I was also a finalist for the [Women's Information Network's](https://winonline.org/) Entrepreneurship for Good award in December.
 
 ![IMG_2372.jpg](/uploads/IMG_2372.jpg)
 
-* **I Hired a Financial Planner**
+**I Hired a Financial Planner**
 
 I may be a financial coach, but I'm not a certified financial planner, so I wanted to get a little extra help managing my money. Especially after this year, when I took a pay cut by quitting my job, I wanted to make sure Dan and I were staying on the right track financially. We hired my friend, Jessie Hill, to advise us on our retirement savings, and also to buy life insurance. You're better off locking in life insurance when you're young and healthy, so we wanted to get on top of that now.
 
-* **My Business Made a Profit**
+**My Business Made a Profit**
 
 They say that most businesses don't make a profit within the first year. I've been running my business for almost 3 years, but this is the first year that it's full-time. I certainly didn't make as much as I would like to (I want to replace my old salary and then some), but I made a profit, even after all of my expenses. I'll call that a win!
 
-* **I Got Married**
+**I Got Married**
 
 You may have noticed, based on my wedding-heavy content, that I got married this year! As you also may have noticed, I didn't love the planning process, so I'm glad to finally be married. The wedding itself was beautiful and it was wonderful to have most of the people we love all in one place.
 
 ![BarbaraOPhotography-M D-2.jpg](/uploads/BarbaraOPhotography-M%20D-2.jpg)
 
-* **I Went to Thailand**
+**I Went to Thailand**
 
 Before my honeymoon, I had never actually traveled to Asia. I'd heard wonderful things about Thailand for years and always wanted to make the trip. Dan and I decided to take the leap and go to Thailand for nearly 3 weeks for our honeymoon. It was an amazing experience that was unlike any other vacation I've taken. It forced me to get out of my comfort zone in many ways, whether it was the language, the food, or the transportation. I got to hang out with elephants
 
