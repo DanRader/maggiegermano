@@ -44,7 +44,7 @@ In June, I spoke on a financial literacy panel at the [NCCWSL](https://www.nccws
 
 * **My Business Won An Award**
 
-I won the Women Empowerment Entrepreneur of the Year Award from the [DC Women's Business Center](http://dcwbc.org/) this year! I was also a finalist for the [Women's Information Network's](https://winonline.org/) Entrepreneurship for Good award.
+I won the Women Empowerment Entrepreneur of the Year Award from the [DC Women's Business Center](http://dcwbc.org/) this year! I nominated myself, but had no expectations of winning. It was a great surprise to be chosen for the award! I was also a finalist for the [Women's Information Network's](https://winonline.org/) Entrepreneurship for Good award in December.
 
 ![IMG_2372.jpg](/uploads/IMG_2372.jpg)
 
