@@ -52,7 +52,7 @@ I may be a financial coach, but I'm not a certified financial planner, so I want
 
 * **I Got Married**
 
-You may have noticed, based on my wedding-heavy content, that I got married this year! As you also may have noticed, I didn't love the planning process, so I'm glad to finally be married.
+You may have noticed, based on my wedding-heavy content, that I got married this year! As you also may have noticed, I didn't love the planning process, so I'm glad to finally be married. The wedding itself was beautiful and it was wonderful to have most of the people we love all in one place.
 
 ![BarbaraOPhotography-M D-2.jpg](/uploads/BarbaraOPhotography-M%20D-2.jpg)
 
