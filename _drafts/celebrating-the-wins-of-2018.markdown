@@ -8,16 +8,28 @@ image: "/uploads/glenn-carstens-peters-190592-unsplash.jpg"
 
 x
 
-1. I Took My Business Full-Time
+* **I Took My Business Full-Time**
 
-2. I Got ICF Certified
+x
 
-3. I Ran an Airbnb Rental
+* **I Got ICF Certified**
 
-4. My Business Won An Award
+x
 
-5. I Hired a Financial Planner
+* **I Ran an Airbnb Rental**
 
-6. I Got Married
+x
 
-7. I Went to Thailand
+* **My Business Won An Award**
+
+I won the Women Empowerment Entrepreneur of the Year Award from the DC Women's Business Center this year! 
+
+* **I Hired a Financial Planner**
+
+I may be a financial coach, but I'm not a certified financial planner, so I wanted to get a little extra help managing my money. Especially after this year, when I took a pay cut by quitting my job, I wanted to make sure Dan and I were staying on the right track financially. We hired my friend, Jessie Hill, to advise us on our retirement savings, and also to buy life insurance. You're better off locking in life insurance when you're young and healthy, so we wanted to get on top of that now. 
+
+* **I Got Married**
+
+You may have noticed, based on my wedding-heavy content, that I got married this year! 
+
+* I Went to Thailand
