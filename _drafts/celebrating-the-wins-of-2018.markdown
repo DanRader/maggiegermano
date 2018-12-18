@@ -17,7 +17,7 @@ It's almost the end of 2018! I honestly can't believe how quickly the year flew 
 
 ## Make a Long List
 
-Sit down and make a list of everything you accomplished this year. It can be as big as running a marathon and as small as getting your annual physical. Anything that made you happy and moved you forward in life is considered a win. You might have to wrack your brain a little,
+Sit down and make a list of everything you accomplished this year. It can be something as big as running a marathon and something as small as getting your annual physical. Anything that made you happy and moved you forward in life is considered a win. You might have to wrack your brain a little, but it will feel good to go through this exercise. 
 
 ## Identify Where Things Fell Short
 
@@ -25,17 +25,19 @@ While it's imperative to celebrate your accomplishments, it's also important to 
 
 ## Treat Yourself
 
-Allow yourself to treat yourself for everything you accomplished in 2018. It can be something very small, but do something nice for yourself. I think the "treat yourself"
+Allow yourself to treat yourself for everything you accomplished in 2018. It can be something very small, but do something nice for yourself. I think the "treat yourself" movement has gotten slightly out of hand, but it's also good to reward yourself for good behavior and meeting goals. Make sure the treat still fits within your budget, though!
 
 ## Set Goals for 2019
 
-Use your 2018 wins to inform your goals for 2019. Do you want to take things in a different direction? Do you want to build on your successes from this year?
+Use your 2018 wins to inform your goals for 2019. Do you want to build on your successes from this year? Do you want to take things in a different direction? 
 
 ## What Will Keep You Motivated?
 
-Figure out what will keep you motivated as the year goes on. The New Year shine wears off fast!
+Figure out what will keep you motivated as the year goes on. The New Year shine wears off fast! Is it keeping your goals list printed and taped up on the wall where you can see it? It is setting a weekly check-in with yourself to see how you're doing? Is it designating an accountability buddy who will keep you on track? Decide what the best approach is for you so that you keep moving forward!
 
 ## My 2018 Wins:
+
+Since I want you to go through this exercise, I need to walk the walk! I filled out the worksheet myself, but here are the wins that really stand out. 
 
 **I Took My Business Full-Time**
 
