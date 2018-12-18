@@ -17,15 +17,17 @@ How can you do that?
 
 ## Make a Long List
 
-Sit down and make a list of everything you accomplished this year. It can be as big as running a marathon and as small as getting your annual physical. Anything that made you happy and moved you forward in life is considered a win. You might have to wrack your brain a little, 
+Sit down and make a list of everything you accomplished this year. It can be as big as running a marathon and as small as getting your annual physical. Anything that made you happy and moved you forward in life is considered a win. You might have to wrack your brain a little,
+
+## Identify Where Things Fell Short
 
 ## Treat Yourself
 
-Allow yourself to treat yourself for everything you accomplished in 2018. It can be something very small, but do something nice for yourself. I think the "treat yourself" 
+Allow yourself to treat yourself for everything you accomplished in 2018. It can be something very small, but do something nice for yourself. I think the "treat yourself"
 
 ## Set Goals for 2019
 
-Use your 2018 wins to inform your goals for 2019. Do you want to take things in a different direction? Do you want to build on your successes from this year? 
+Use your 2018 wins to inform your goals for 2019. Do you want to take things in a different direction? Do you want to build on your successes from this year?
 
 ## My 2018 Wins:
 
@@ -45,7 +47,7 @@ When Dan and I were looking to buy a house last year, one of my big priorities w
 
 **I Had My First Big Paid Speaking Gig**
 
-In June, I spoke on a financial literacy panel at the [NCCWSL](https://www.nccwsl.org/) at University of Maryland. It just so happened that the director of the Women's Leadership & Mentorship Program at [Robert Morris University](https://www.rmu.edu/) was in the audience. She liked what I had to say, so she brought me to Pittsburgh to speak at her program's orientation. It was my first well-paid 
+In June, I spoke on a financial literacy panel at the [NCCWSL](https://www.nccwsl.org/) at University of Maryland. It just so happened that the director of the Women's Leadership & Mentorship Program at [Robert Morris University](https://www.rmu.edu/) was in the audience. She liked what I had to say, so she brought me to Pittsburgh to speak at her program's orientation. It was my first well-paid
 
 ![IMG_2373.jpg](/uploads/IMG_2373.jpg)
 
