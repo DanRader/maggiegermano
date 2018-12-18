@@ -15,7 +15,7 @@ Happy Friday! I hope you’ve been staying warm now that’s it’s for real win
 
 ## **How I Spent Money This Week**
 
-* x
+* I haven't talked about home improvement spending in a while, but Dan and I are in the process are making a pretty big purchase. We're getting a new privacy fence! We want to get a dog in the new year, and the current fence in our backyard does not provide a safe, enclosed environment. Half of the current fence is falling down, creating gaps where a dog could get out. We're excited to get a new, good-looking fence installed, even though the expense is very big. Luckily we received a couple very generous wedding gifts, which we will be using to pay for most of the fence. The rest of the money will come from our Airbnb income over the course of the year.
 
 * Ever since Trader Joe's discontinued my favorite herbal tea (RIP TJ's ginger peach white tea), I have been searching for a new favorite tea to drink in the evenings. I found a ginger peach white tea from The Republic of Tea, so I bought some to try it out. Hopefully it's just as good! If you have a favorite (non-chamomile) evening tea, please share!
 
