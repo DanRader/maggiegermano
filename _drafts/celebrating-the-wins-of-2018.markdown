@@ -13,19 +13,23 @@ posts:
 
 It's almost the end of 2018! I honestly can't believe how quickly the year flew by. Something I've been doing for the past couple of years is stopping to reflect on the past year so that I can celebrate my wins, big and small. It's important to acknowledge and celebrate our accomplishments, so that we don't forget about them. It's easy to focus on what we didn't achieve (and the New Years Resolutions we abandoned), but it's a little harder to call out what we *did* do. Taking the time to reflect like this might surprise you. You may have achieved more than you thought you did. Give yourself this chance to be proud of yourself so you're motivated to set new goals for 2019.
 
-How can you do that?
+I've created a worksheet to help you do just that on your own!
 
 ## Make a Long List
 
-Sit down and make a list of everything you accomplished this year. It can be as big as running a marathon and as small as getting your annual physical. Anything that made you happy and moved you forward in life is considered a win. You might have to wrack your brain a little, 
+Sit down and make a list of everything you accomplished this year. It can be as big as running a marathon and as small as getting your annual physical. Anything that made you happy and moved you forward in life is considered a win. You might have to wrack your brain a little,
+
+## Identify Where Things Fell Short
+
+While it's imperative to celebrate your accomplishments, it's also important to learn from your mistakes or failings. Were there things you set out to do in 2018 that never happened? Why didn't they happen? Perhaps you need to set the same goal for 2018, or perhaps that goal isn't something you're really willing or able to meet. Getting clear on *why* you weren't able to achieve something is key to moving forward. 
 
 ## Treat Yourself
 
-Allow yourself to treat yourself for everything you accomplished in 2018. It can be something very small, but do something nice for yourself. I think the "treat yourself" 
+Allow yourself to treat yourself for everything you accomplished in 2018. It can be something very small, but do something nice for yourself. I think the "treat yourself"
 
 ## Set Goals for 2019
 
-Use your 2018 wins to inform your goals for 2019. Do you want to take things in a different direction? Do you want to build on your successes from this year? 
+Use your 2018 wins to inform your goals for 2019. Do you want to take things in a different direction? Do you want to build on your successes from this year?
 
 ## My 2018 Wins:
 
@@ -43,9 +47,13 @@ Last year, I received my first coaching certification through [CoachDiversity In
 
 When Dan and I were looking to buy a house last year, one of my big priorities was to find a house with a basement that we could rent out. I knew we could afford our mortgage ourselves, but I also wanted to have a potential extra income source. We got lucky and found a house with a finished basement and its own entrance. Since we finished fixing it up in February, we've been running it as an Airbnb rental. It's actually been really successful! We get guests from all over the world, either to visit the University of Maryland or DC. Next year, our county will be implementing some limitations to how often we can rent out the space during the year, but I'm still optimistic about the extra income it will bring.
 
+## I Went to the Dominican Republic with My Family
+
+I didn't have to actually do anything special for this to happen. My grandmother paid for our entire family to spend a week in the Dominican Republic at an all-inclusive resort. The only money Dan and I had to spend was on tipping all of the wonderful resort staff. But it was a great privilege to be able to spend a week relaxing with my immediate and extended family.
+
 **I Had My First Big Paid Speaking Gig**
 
-In June, I spoke on a financial literacy panel at the [NCCWSL](https://www.nccwsl.org/) at University of Maryland. It just so happened that the director of the Women's Leadership & Mentorship Program at [Robert Morris University](https://www.rmu.edu/) was in the audience. She liked what I had to say, so she brought me to Pittsburgh to speak at her program's orientation. It was my first well-paid 
+In June, I spoke on a financial literacy panel at the [NCCWSL](https://www.nccwsl.org/) at University of Maryland. It just so happened that the director of the Women's Leadership & Mentorship Program at [Robert Morris University](https://www.rmu.edu/) was in the audience. She liked what I had to say, so she brought me to Pittsburgh to speak at her program's orientation. It was my first well-paid
 
 ![IMG_2373.jpg](/uploads/IMG_2373.jpg)
 
