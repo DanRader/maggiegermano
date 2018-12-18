@@ -13,7 +13,7 @@ posts:
 
 It's almost the end of 2018! I honestly can't believe how quickly the year flew by. Something I've been doing for the past couple of years is stopping to reflect on the past year so that I can celebrate my wins, big and small. It's important to acknowledge and celebrate our accomplishments, so that we don't forget about them. It's easy to focus on what we didn't achieve (and the New Years Resolutions we abandoned), but it's a little harder to call out what we *did* do. Taking the time to reflect like this might surprise you. You may have achieved more than you thought you did. Give yourself this chance to be proud of yourself so you're motivated to set new goals for 2019.
 
-*I've created a [worksheet](https://www.dropbox.com/s/ztfsaq0rait942n/Celebrating2018_workbook.pdf?dl=0) to help you do just that on your own!*
+*I've created a [worksheet](https://www.dropbox.com/sh/4vud8qitquk70b9/AAACZHCByXFks_3DWvsDeWb_a?dl=0) to help you do just that on your own!*
 
 ## Make a Long List
 
@@ -87,4 +87,4 @@ Before my honeymoon, I had never actually traveled to Asia. I'd heard wonderful 
 
 ![2018-11-21 09.48.00.jpg](/uploads/2018-11-21%2009.48.00.jpg)
 
-*Don't forget to download my [worksheet](https://www.dropbox.com/s/ztfsaq0rait942n/Celebrating2018_workbook.pdf?dl=0) that will help you celebrate 2018 and plan for 2019!*
+*Don't forget to download my [worksheet](https://www.dropbox.com/sh/4vud8qitquk70b9/AAACZHCByXFks_3DWvsDeWb_a?dl=0) that will help you celebrate 2018 and plan for 2019!*
