@@ -13,7 +13,7 @@ posts:
 
 It's almost the end of 2018! I honestly can't believe how quickly the year flew by. Something I've been doing for the past couple of years is stopping to reflect on the past year so that I can celebrate my wins, big and small. It's important to acknowledge and celebrate our accomplishments, so that we don't forget about them. It's easy to focus on what we didn't achieve (and the New Years Resolutions we abandoned), but it's a little harder to call out what we *did* do. Taking the time to reflect like this might surprise you. You may have achieved more than you thought you did. Give yourself this chance to be proud of yourself so you're motivated to set new goals for 2019.
 
-I've created a worksheet to help you do just that on your own!
+*I've created a [worksheet](https://www.dropbox.com/s/ztfsaq0rait942n/Celebrating2018_workbook.pdf?dl=0) to help you do just that on your own!*
 
 ## Make a Long List
 
@@ -30,6 +30,10 @@ Allow yourself to treat yourself for everything you accomplished in 2018. It can
 ## Set Goals for 2019
 
 Use your 2018 wins to inform your goals for 2019. Do you want to take things in a different direction? Do you want to build on your successes from this year?
+
+## What Will Keep You Motivated?
+
+Figure out what will keep you motivated as the year goes on. The New Year shine wears off fast! 
 
 ## My 2018 Wins:
 
