@@ -21,7 +21,7 @@ Sit down and make a list of everything you accomplished this year. It can be as 
 
 ## Identify Where Things Fell Short
 
-While it's imperative to celebrate your accomplishments, it's also important to learn from your mistakes or failings. Were there things you set out to do in 2018 that never happened? Why didn't they happen? Perhaps you need to set the same goal for 2018, or perhaps that goal isn't something you're really willing or able to meet. Getting clear on *why* you weren't able to achieve something is key to moving forward. 
+While it's imperative to celebrate your accomplishments, it's also important to learn from your mistakes or failings. Were there things you set out to do in 2018 that never happened? Why didn't they happen? Perhaps you need to set the same goal for 2018, or perhaps that goal isn't something you're really willing or able to meet. Getting clear on *why* you weren't able to achieve something is key to moving forward.
 
 ## Treat Yourself
 
@@ -33,7 +33,7 @@ Use your 2018 wins to inform your goals for 2019. Do you want to take things in 
 
 ## What Will Keep You Motivated?
 
-Figure out what will keep you motivated as the year goes on. The New Year shine wears off fast! 
+Figure out what will keep you motivated as the year goes on. The New Year shine wears off fast!
 
 ## My 2018 Wins:
 
@@ -86,3 +86,5 @@ You may have noticed, based on my wedding-heavy content, that I got married this
 Before my honeymoon, I had never actually traveled to Asia. I'd heard wonderful things about Thailand for years and always wanted to make the trip. Dan and I decided to take the leap and go to Thailand for nearly 3 weeks for our honeymoon. It was an amazing experience that was unlike any other vacation I've taken. It forced me to get out of my comfort zone in many ways, whether it was the language, the food, or the transportation. I got to hang out with elephants
 
 ![2018-11-21 09.48.00.jpg](/uploads/2018-11-21%2009.48.00.jpg)
+
+*Don't forget to download my [worksheet](https://www.dropbox.com/s/ztfsaq0rait942n/Celebrating2018_workbook.pdf?dl=0) that will help you celebrate 2018 and plan for 2019!*
