@@ -1,11 +1,12 @@
 ---
 title: Founder Friday | Homemade Candles, Herbal Tea, and Speaking
 date: 2018-12-21 14:00:00 -05:00
+published: false
 categories:
 - founder friday
 ---
 
-Happy Friday! I hope you’ve been staying warm now that’s it’s for real winter. Here’s what I was up to this week.
+Happy Friday! Here’s what I was up to this week.
 
 ## **How I Earned Money This Week**
 
