@@ -11,7 +11,7 @@ Happy Friday! I hope you’ve been staying warm now that’s it’s for real win
 
 * We had two different Airbnb guests stay with us this week.
 
-* One of my new clients paid for her first month of coaching. 
+* One of my new clients paid for her first month of coaching.
 
 ## **How I Spent Money This Week**
 
@@ -23,11 +23,11 @@ Happy Friday! I hope you’ve been staying warm now that’s it’s for real win
 
 ## **What I’m Writing**
 
-x
+This week, I wrote about [how to talk to loved ones](https://www.maggiegermano.com/blog/how-to-talk-to-loved-ones-if-you-dont-want-to-receive-gifts/) if you no longer want to receive gifts at the holidays. It's not necessarily an easy conversation, but one that is important to have if you want to set that boundary.
 
 ## **What I’m Up To**
 
-* I've written before that I want to do more speaking engagements as part of my business. It's a great way to reach more people at a more accessible price point. This past Tuesday, I went to an Innovation Women event to learn more about getting speaking gigs, and also to have a video taken of me describing the work that I do. 
+* I've written before that I want to do more speaking engagements as part of my business. It's a great way to reach more people at a more accessible price point. This past Tuesday, I went to an Innovation Women event to learn more about getting speaking gigs, and also to have a video taken of me describing the work that I do.
 
 * x
 
