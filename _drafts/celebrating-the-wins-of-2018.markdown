@@ -31,6 +31,10 @@ Allow yourself to treat yourself for everything you accomplished in 2018. It can
 
 Use your 2018 wins to inform your goals for 2019. Do you want to take things in a different direction? Do you want to build on your successes from this year?
 
+## What Will Keep You Motivated?
+
+Figure out what will keep you motivated as the year goes on. The New Year shine wears off fast! 
+
 ## My 2018 Wins:
 
 **I Took My Business Full-Time**
