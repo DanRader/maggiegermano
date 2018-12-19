@@ -7,6 +7,8 @@ categories:
 - debt
 - Budget
 image: "/uploads/rawpixel-633847-unsplash.jpg"
+tweet: There's no one-size-fits-all approach, but these steps will help you get your
+  financial life together in 2019.
 posts:
 - How to Hygge on a Budget
 - Reflecting on 2017
