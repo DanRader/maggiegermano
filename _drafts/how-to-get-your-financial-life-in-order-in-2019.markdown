@@ -41,4 +41,6 @@ Once you've chosen the bank for your high-yield savings account and opened the a
 
 ## Increase (Or Begin) Your Retirement Contribution
 
-Saving for retirement is one of the most important things you can do for yourself. We can no longer rely on things like pensions to get us through our old-age. It's up to us, as individuals, to support ourselves. 
+Saving for retirement is one of the most important things you can do for yourself. We can no longer rely on things like pensions to get us through our old-age. It's up to us, as individuals, to support ourselves. So if you haven't already started saving for retirement, make that a priority in 2019. If your employer offers a retirement plan, enroll in it, and invest at least the percentage that your employer will match. If your employer doesn't offer a retirement plan, or if you are self-employed, open an IRA. You can contribute up to $6,000 to an IRA each calendar year. 
+
+If you have been saving for retirement, it's time to revisit your contribution. If you haven't increased the percentage that you're putting in, you should do that, especially if you've received a cost of living increase or raise. Even an increase of 1% will make a difference in the long run. A good rule of thumb is to increase your retirement contribution 1% each year, especially as your salary starts going up.
