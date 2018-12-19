@@ -7,6 +7,8 @@ categories:
 - debt
 - Budget
 image: "/uploads/rawpixel-633847-unsplash.jpg"
+tweet: There's no one-size-fits-all approach, but these steps will help you get your
+  financial life together in 2019.
 posts:
 - How to Hygge on a Budget
 - Reflecting on 2017
@@ -20,6 +22,8 @@ A few weeks ago, in the Money Circle group, someone mentioned that they want to 
 What is the number one financial goal you want to reach in 2019?
 
 ## Get Clear on Your Numbers
+
+This is essential if you ever want to be financially healthy. You have to know how much money you're actually working with. Sit down with a notebook or whip up an Excel spreadsheet, however you prefer to do it. Write out exactly how much money you earn each month, and then list out all of your bills. 
 
 ## Schedule Weekly Check-Ins
 
