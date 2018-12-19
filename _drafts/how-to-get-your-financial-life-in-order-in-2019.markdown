@@ -33,7 +33,7 @@ We all know there's at least one thing we don't really need to pay for anymore. 
 
 I'm a huge fan of high-yield savings accounts. These accounts provide an interest rate that actually means something. Unlike traditional brick and mortar banks, high-yield savings accounts have interest rates of about 2% right now! That's over 100% more than a regular bank can offer. If you want your liquid savings to grow in a meaningful way, you should open a high-yield savings account. This is especially important when it comes to your emergency savings account, because it will be a bigger amount of money that you (hopefully) don't have to touch for a while. Let your money work for you!
 
-I personally use Ally Bank for this type of account, but there are lots out there now, like: Synchrony, American Express, and Barclays. They all typically have similar interest rates and fees (or lake therof), but look into each of them and decide which one will be best for you.
+I personally use Ally Bank for this type of account, but there are lots out there now, like: Synchrony, American Express, and Barclays. They all typically have similar interest rates and fees (or lack thereof), but look into each of them and decide which one will be best for you.
 
 ## Automate Your Savings
 
@@ -44,3 +44,7 @@ Once you've chosen the bank for your high-yield savings account and opened the a
 Saving for retirement is one of the most important things you can do for yourself. We can no longer rely on things like pensions to get us through our old-age. It's up to us, as individuals, to support ourselves. So if you haven't already started saving for retirement, make that a priority in 2019. If your employer offers a retirement plan, enroll in it, and invest at least the percentage that your employer will match. If your employer doesn't offer a retirement plan, or if you are self-employed, open an IRA. You can contribute up to $6,000 to an IRA each calendar year. 
 
 If you have been saving for retirement, it's time to revisit your contribution. If you haven't increased the percentage that you're putting in, you should do that, especially if you've received a cost of living increase or raise. Even an increase of 1% will make a difference in the long run. A good rule of thumb is to increase your retirement contribution 1% each year, especially as your salary starts going up.
+
+--
+
+If you do even one or two of the items on this list, you'll be better off in 2019 than you were in 2018. It's okay if you can't do everything, because you have a limited amount of time and money. 
