@@ -21,7 +21,7 @@ What is the number one financial goal you want to reach in 2019?
 
 ## Get Clear on Your Numbers
 
-This is essential if you ever want to be financially healthy. You have to know how much money you're actually working with. Sit down with a notebook or whip up an Excel spreadsheet, however you prefer to do it. 
+This is essential if you ever want to be financially healthy. You have to know how much money you're actually working with. Sit down with a notebook or whip up an Excel spreadsheet, however you prefer to do it. Write out exactly how much money you earn each month, and then list out all of your bills. 
 
 ## Schedule Weekly Check-Ins
 
