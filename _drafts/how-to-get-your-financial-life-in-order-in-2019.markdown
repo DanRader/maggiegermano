@@ -13,22 +13,32 @@ posts:
 - Easy Financial Goals for 2018
 ---
 
-x
+A few weeks ago, in the Money Circle group, someone mentioned that they want to get their shit together in 2019. They asked what steps they should be taking in order to do that with their money. This is going to look different for everyone, depending on your situation, but there are certain steps that are always good to take. 
 
 ## Decide What You Want to Achieve
 
-What is the number one financial goal you want to reach in 2019? 
+What is the number one financial goal you want to reach in 2019?
 
 ## Get Clear on Your Numbers
 
 ## Schedule Weekly Check-Ins
 
-I call it a Money Minute, you can call it whatever you want. The most important thing is to do it. Schedule at least one time each week to check in with your money. It can literally be 10 minutes where you see how much you've spent that week and compare it to what's available to you for the month. It doesn't have to be terribly complicated or painful. In fact, the more you do it, the less painful and more helpful it will actually be. 
+I call it a Money Minute, you can call it whatever you want. The most important thing is to do it. Schedule at least one time each week to check in with your money. It can literally be 10 minutes where you see how much you've spent that week and compare it to what's available to you for the month. It doesn't have to be terribly complicated or painful. In fact, the more you do it, the less painful and more helpful it will actually be.
 
 ## Choose One Monthly Expense to Eliminate
 
+We all know there's at least one thing we don't really need to pay for anymore. It could be 
+
 ## Open a High-Yield Savings Account
+
+I'm a huge fan of high-yield savings accounts. These accounts provide an interest rate that actually means something. Unlike traditional brick and mortar banks, high-yield savings accounts have interest rates of about 2% right now! That's over 100% more than a regular bank can offer. If you want your liquid savings to grow in a meaningful way, you should open a high-yield savings account. This is especially important when it comes to your emergency savings account, because it will be a bigger amount of money that you (hopefully) don't have to touch for a while. Let your money work for you!
+
+I personally use Ally Bank for this type of account, but there are lots out there now, like: Synchrony, American Express, and Barclays. They all typically have similar interest rates and fees (or lake therof), but look into each of them and decide which one will be best for you.
 
 ## Automate Your Savings
 
+Once you've chosen the bank for your high-yield savings account and opened the account, it's time to set up automated savings! Automation is key when it comes to almost any financial decision. That's because it takes your emotions out of the equation and makes sure it gets done without you even having to think about it. This is especially true when it comes to saving. Because really, who *actually* saves the money that they have leftover at the end of the month? Figure out how much you can realistically afford to save each month, and set up direct deposit through work. It can be a tiny amount, or it can be bigger. The point is: automating will make sure that you actually do save, and you'll be proud of yourself in a few months when you see how much it's grown.
+
 ## Increase (Or Begin) Your Retirement Contribution
+
+Saving for retirement is one of the most important things you can do for yourself. We can no longer rely on things like pensions to get us through our old-age. It's up to us, as individuals, to support ourselves. 
