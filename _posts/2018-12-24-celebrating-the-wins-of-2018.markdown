@@ -1,6 +1,7 @@
 ---
 title: Celebrating the Wins of 2018
 date: 2018-12-24 11:00:00 -05:00
+published: false
 categories:
 - lifestyle
 image: "/uploads/glenn-carstens-peters-190592-unsplash.jpg"
@@ -17,7 +18,7 @@ It's almost the end of 2018! I honestly can't believe how quickly the year flew 
 
 ## Make a Long List
 
-Sit down and make a list of everything you accomplished this year. It can be something as big as running a marathon and something as small as getting your annual physical. Anything that made you happy and moved you forward in life is considered a win. You might have to wrack your brain a little, but it will feel good to go through this exercise. 
+Sit down and make a list of everything you accomplished this year. It can be something as big as running a marathon and something as small as getting your annual physical. Anything that made you happy and moved you forward in life is considered a win. You might have to wrack your brain a little, but it will feel good to go through this exercise.
 
 ## Identify Where Things Fell Short
 
@@ -29,7 +30,7 @@ Allow yourself to treat yourself for everything you accomplished in 2018. It can
 
 ## Set Goals for 2019
 
-Use your 2018 wins to inform your goals for 2019. Do you want to build on your successes from this year? Do you want to take things in a different direction? 
+Use your 2018 wins to inform your goals for 2019. Do you want to build on your successes from this year? Do you want to take things in a different direction?
 
 ## What Will Keep You Motivated?
 
@@ -37,7 +38,7 @@ Figure out what will keep you motivated as the year goes on. The New Year shine 
 
 ## My 2018 Wins:
 
-Since I want you to go through this exercise, I need to walk the walk! I filled out the worksheet myself, but here are the wins that really stand out. 
+Since I want you to go through this exercise, I need to walk the walk! I filled out the worksheet myself, but here are the wins that really stand out.
 
 **I Took My Business Full-Time**
 
@@ -53,13 +54,15 @@ Last year, I received my first coaching certification through [CoachDiversity In
 
 When Dan and I were looking to buy a house last year, one of my big priorities was to find a house with a basement that we could rent out. I knew we could afford our mortgage ourselves, but I also wanted to have a potential extra income source. We got lucky and found a house with a finished basement and its own entrance. Since we finished fixing it up in February, we've been running it as an Airbnb rental. It's actually been really successful! We get guests from all over the world, either to visit the University of Maryland or DC. Next year, our county will be implementing some limitations to how often we can rent out the space during the year, but I'm still optimistic about the extra income it will bring.
 
-## I Went to the Dominican Republic with My Family
+**I Went to the Dominican Republic with My Family**
 
 I didn't have to actually do anything special for this to happen. My grandmother paid for our entire family to spend a week in the Dominican Republic at an all-inclusive resort. The only money Dan and I had to spend was on tipping all of the wonderful resort staff. But it was a great privilege to be able to spend a week relaxing with my immediate and extended family.
 
+![2018-07-06 18.02.19.jpg](/uploads/2018-07-06%2018.02.19.jpg)
+
 **I Had My First Big Paid Speaking Gig**
 
-In June, I spoke on a financial literacy panel at the [NCCWSL](https://www.nccwsl.org/) at University of Maryland. It just so happened that the director of the Women's Leadership & Mentorship Program at [Robert Morris University](https://www.rmu.edu/) was in the audience. She liked what I had to say, so she brought me to Pittsburgh to speak at her program's orientation. It was my first well-paid
+In June, I spoke on a financial literacy panel at the [NCCWSL](https://www.nccwsl.org/) at University of Maryland. It just so happened that the director of the Women's Leadership & Mentorship Program at [Robert Morris University](https://www.rmu.edu/) was in the audience. She liked what I had to say, so she brought me to Pittsburgh to speak at her program's orientation. It was my first well-paid speaking gig, and they also covered travel costs! It inspired me to prioritize [speaking](https://www.maggiegermano.com/speaking/) as part of my business model, and I'm excited to see what 2019 brings.
 
 ![IMG_2373.jpg](/uploads/IMG_2373.jpg)
 
@@ -85,7 +88,7 @@ You may have noticed, based on my wedding-heavy content, that I got married this
 
 **I Went to Thailand**
 
-Before my honeymoon, I had never actually traveled to Asia. I'd heard wonderful things about Thailand for years and always wanted to make the trip. Dan and I decided to take the leap and go to Thailand for nearly 3 weeks for our honeymoon. It was an amazing experience that was unlike any other vacation I've taken. It forced me to get out of my comfort zone in many ways, whether it was the language, the food, or the transportation. I got to hang out with elephants
+Before my honeymoon, I had never actually traveled to Asia. I'd heard wonderful things about Thailand for years and always wanted to make the trip. Dan and I decided to take the leap and go to Thailand for nearly 3 weeks for our honeymoon. It was an amazing experience that was unlike any other vacation I've taken. It forced me to get out of my comfort zone in many ways, whether it was the language, the food, or the transportation.
 
 ![2018-11-21 09.48.00.jpg](/uploads/2018-11-21%2009.48.00.jpg)
 
