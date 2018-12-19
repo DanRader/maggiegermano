@@ -4,6 +4,7 @@ date: 2018-12-21 14:00:00 -05:00
 published: false
 categories:
 - founder friday
+image: "/uploads/arnold-leung-754011-unsplash.jpg"
 posts:
 - Founder Friday | ForbesWomen, Haircuts, and Holiday Spending
 - Founder Friday | YWA Awards, Jetlag, and Wedding Gifts
@@ -25,6 +26,8 @@ Happy Friday! Here’s what I was up to this week.
 * We bought a few last-minute holiday gifts this week, just in time for heading up to Syracuse tomorrow!
 
 * Ever since Trader Joe's discontinued my favorite herbal tea (RIP TJ's ginger peach white tea), I have been searching for a new favorite tea to drink in the evenings. I found a ginger peach white tea from [The Republic of Tea](https://www.republicoftea.com/), so I bought some to try it out. Hopefully it's just as good! If you have a favorite (non-chamomile) evening tea, please share!
+
+* We're deep in thank-you letter writing mode now that the wedding is over. I got sick of handwriting our return address, so I ordered personalized return labels this week.
 
 * Dan and I have decided to try our hand at making candles. We have so much beautiful pottery that Dan has made, and we want to turn some of it into candles. We ordered a starter kit this week and are going to give it a shot today!
 
