@@ -4,6 +4,10 @@ date: 2018-12-21 14:00:00 -05:00
 published: false
 categories:
 - founder friday
+posts:
+- Founder Friday | ForbesWomen, Haircuts, and Holiday Spending
+- Founder Friday | YWA Awards, Jetlag, and Wedding Gifts
+- Founder Friday | Identity, Travel, and Self Care
 ---
 
 Happy Friday! Here’s what I was up to this week.
@@ -22,7 +26,7 @@ Happy Friday! Here’s what I was up to this week.
 
 * Ever since Trader Joe's discontinued my favorite herbal tea (RIP TJ's ginger peach white tea), I have been searching for a new favorite tea to drink in the evenings. I found a ginger peach white tea from [The Republic of Tea](https://www.republicoftea.com/), so I bought some to try it out. Hopefully it's just as good! If you have a favorite (non-chamomile) evening tea, please share!
 
-* Dan and I have decided to try our hand at making candles. We ordered a starter kit this week and are going to give it a shot today!
+* Dan and I have decided to try our hand at making candles. We have so much beautiful pottery that Dan has made, and we want to turn some of it into candles. We ordered a starter kit this week and are going to give it a shot today!
 
 ## **What I’m Writing**
 
