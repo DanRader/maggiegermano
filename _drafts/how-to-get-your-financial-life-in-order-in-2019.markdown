@@ -21,6 +21,8 @@ What is the number one financial goal you want to reach in 2019?
 
 ## Get Clear on Your Numbers
 
+This is essential if you ever want to be financially healthy. You have to know how much money you're actually working with. Sit down with a notebook or whip up an Excel spreadsheet, however you prefer to do it. 
+
 ## Schedule Weekly Check-Ins
 
 I call it a Money Minute, you can call it whatever you want. The most important thing is to do it. Schedule at least one time each week to check in with your money. It can literally be 10 minutes where you see how much you've spent that week and compare it to what's available to you for the month. It doesn't have to be terribly complicated or painful. In fact, the more you do it, the less painful and more helpful it will actually be.
