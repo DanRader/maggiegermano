@@ -29,7 +29,7 @@ This is essential if you ever want to be financially healthy. You have to know h
 
 ## Schedule Weekly Check-Ins
 
-I call it a Money Minute, you can call it whatever you want. The most important thing is to do it. Schedule at least one time each week to check in with your money. It can literally be 10 minutes where you see how much you've spent that week and compare it to what's available to you for the month. It doesn't have to be terribly complicated or painful. In fact, the more you do it, the less painful and more helpful it will actually be.
+Setting a budget is great, but it's not very useful if you only look at it once a month or less. That's why you need to check in with your budget at least weekly. I call it a Money Minute, you can call it whatever you want. The most important thing is that you do it. Schedule at least one time each week to check in with your money. It can literally be 10 minutes where you see how much you've spent that week and compare it to what's available to you for the month. It doesn't have to be terribly complicated or painful. In fact, the more you do it, the less painful and more helpful it will actually be.
 
 ## Choose One Monthly Expense to Eliminate
 
@@ -44,6 +44,10 @@ I personally use [Ally Bank](http://ally.com) for this type of account, but ther
 ## Automate Your Savings
 
 Once you've chosen the bank for your high-yield savings account and opened the account, it's time to set up automated savings! Automation is key when it comes to almost any financial decision. That's because it takes your emotions out of the equation and makes sure it gets done without you even having to think about it. This is especially true when it comes to saving. Because really, who *actually* saves the money that they have leftover at the end of the month? Figure out how much you can realistically afford to save each month, and set up direct deposit through work. It can be a tiny amount, or it can be bigger. The point is: automating will make sure that you actually do save, and you'll be proud of yourself in a few months when you see how much it's grown.
+
+## Make a Plan to Eliminate Consumer Debt
+
+Consumer Debt is basically any debt accrued by shopping. This would not include a mortgage or student loans. Consumer debt is considered "bad" debt because of its high interest rates and low value of return. Conversely, something like student debt typically has low interest rates and the return is that you will (hopefully) succeed in your career as a result. 
 
 ## Increase (Or Begin) Your Retirement Contribution
 
