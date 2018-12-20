@@ -25,7 +25,7 @@ Do you want to create a budget that you'll actually stick to? Do you want to get
 
 ## Get Clear on Your Numbers
 
-This is essential if you ever want to be financially healthy. You have to know how much money you're actually working with. Sit down with a notebook or whip up an Excel spreadsheet, however you prefer to do it. Write out exactly how much money you earn each month, and then list out all of your bills.
+This is essential if you ever want to be financially healthy. You have to know how much money you're actually working with. Sit down with a notebook or whip up an Excel spreadsheet, however you prefer to do it. Write out exactly how much money you earn each month, and then list out all of your bills. Whatever is leftover should be used for your flex spending, savings, and additional debt payments. To learn more about how to get clear on your numbers to create your budget, [check out](https://www.maggiegermano.com/blog/how-to-use-one-budget-number-to-manage-your-money/) [my](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/) [past](https://www.maggiegermano.com/blog/how-to-budget-as-a-couple/) [posts](https://www.maggiegermano.com/blog/budgeting-101/). 
 
 ## Schedule Weekly Check-Ins
 
