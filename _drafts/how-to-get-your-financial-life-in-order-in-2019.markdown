@@ -45,6 +45,10 @@ I personally use [Ally Bank](http://ally.com) for this type of account, but ther
 
 Once you've chosen the bank for your high-yield savings account and opened the account, it's time to set up automated savings! Automation is key when it comes to almost any financial decision. That's because it takes your emotions out of the equation and makes sure it gets done without you even having to think about it. This is especially true when it comes to saving. Because really, who *actually* saves the money that they have leftover at the end of the month? Figure out how much you can realistically afford to save each month, and set up direct deposit through work. It can be a tiny amount, or it can be bigger. The point is: automating will make sure that you actually do save, and you'll be proud of yourself in a few months when you see how much it's grown.
 
+## Make a Plan to Eliminate Consumer Debt
+
+Consumer Debt is basically any debt accrued by shopping. This would not include a mortgage or student loans. Consumer debt is considered "bad" debt because of its high interest rates and low value of return. Conversely, something like student debt typically has low interest rates and the return is that you will (hopefully) succeed in your career as a result. 
+
 ## Increase (Or Begin) Your Retirement Contribution
 
 Saving for retirement is one of the most important things you can do for yourself. We can no longer rely on things like pensions to get us through our old-age. It's up to us, as individuals, to support ourselves. So if you haven't already started saving for retirement, make that a priority in 2019. If your employer offers a retirement plan, enroll in it, and invest at least the percentage that your employer will match. If your employer doesn't offer a retirement plan, or if you are self-employed, open an IRA. You can contribute up to $6,000 to an IRA each calendar year.
