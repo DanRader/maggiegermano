@@ -39,6 +39,8 @@ This week, I wrote about [how to talk to loved ones](https://www.maggiegermano.c
 
 * I've written before that I want to do more speaking engagements as part of my business. It's a great way to reach more people at a more accessible price point. This past Tuesday, I went to an [Innovation Women](https://innovationwomen.wordpress.com/) event to learn more about getting speaking gigs, and also to have a video taken of me describing the work that I do.
 
+* I'm in [NerdWallet](https://www.nerdwallet.com/blog/banking/your-easiest-new-years-resolution-make-your-money-work-harder/) talking about one of my favorite things: high-yield savings accounts!
+
 * We're heading up to Syracuse tomorrow afternoon for the holidays! We saw my family about a month ago for the wedding, but it was such a whirlwind that it didn't feel like we had enough quality time together. I'm looking forward to relaxing for a few days and hanging out with my niece and nephew (and also meeting the newborns of two of my best friends!).
 
 ![IMG_2397.JPG](/uploads/IMG_2397.JPG)\
