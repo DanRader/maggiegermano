@@ -15,7 +15,7 @@ posts:
 - Easy Financial Goals for 2018
 ---
 
-A few weeks ago, in the Money Circle group, someone mentioned that they want to get their shit together in 2019. They asked what steps they should be taking in order to do that with their money. This is going to look different for everyone, depending on your situation, but there are certain steps that are always good to take. 
+A few weeks ago, in the [Money Circle](https://www.facebook.com/groups/MoneyCircleGroup/) group, someone mentioned that they want to get their financial shit together in 2019. They asked what steps they should be taking in order to do that with their money. This is going to look different for everyone, depending on your situation, but there are certain steps that are always good to take. 
 
 ## Decide What You Want to Achieve
 
