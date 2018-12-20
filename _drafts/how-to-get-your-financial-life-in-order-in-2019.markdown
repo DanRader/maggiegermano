@@ -25,7 +25,7 @@ Do you want to create a budget that you'll actually stick to? Do you want to get
 
 ## Get Clear on Your Numbers
 
-This is essential if you ever want to be financially healthy. You have to know how much money you're actually working with. Sit down with a notebook or whip up an Excel spreadsheet, however you prefer to do it. Write out exactly how much money you earn each month, and then list out all of your bills. Whatever is leftover should be used for your flex spending, savings, and additional debt payments. To learn more about how to get clear on your numbers to create your budget, [check out](https://www.maggiegermano.com/blog/how-to-use-one-budget-number-to-manage-your-money/) [my](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/) [past](https://www.maggiegermano.com/blog/how-to-budget-as-a-couple/) [posts](https://www.maggiegermano.com/blog/budgeting-101/). 
+This is essential if you ever want to be financially healthy. You have to know how much money you're actually working with. Sit down with a notebook or whip up an Excel spreadsheet, however you prefer to do it. Write out exactly how much money you earn each month, and then list out all of your bills. Whatever is leftover should be used for your flex spending, savings, and additional debt payments. To learn more about how to get clear on your numbers to create your budget, [check out](https://www.maggiegermano.com/blog/how-to-use-one-budget-number-to-manage-your-money/) [my](https://www.maggiegermano.com/blog/how-to-create-a-budget-that-works-for-you/) [past](https://www.maggiegermano.com/blog/how-to-budget-as-a-couple/) [posts](https://www.maggiegermano.com/blog/budgeting-101/).
 
 ## Schedule Weekly Check-Ins
 
@@ -47,7 +47,7 @@ Once you've chosen the bank for your high-yield savings account and opened the a
 
 ## Make a Plan to Eliminate Consumer Debt
 
-Consumer Debt is basically any debt accrued by shopping. This would not include a mortgage or student loans. Consumer debt is considered "bad" debt because of its high interest rates and low value of return. Conversely, something like student debt typically has low interest rates and the return is that you will (hopefully) succeed in your career as a result. 
+Consumer Debt is basically any debt accrued by shopping. This would not include a mortgage or student loans. Consumer debt is considered ["bad"](https://www.maggiegermano.com/blog/the-difference-between-good-debt-and-bad-debt/) debt because of its high interest rates and low value of return. Conversely, something like student debt typically has low interest rates and the return is that you will (hopefully) succeed in your career as a result.
 
 ## Increase (Or Begin) Your Retirement Contribution
 
