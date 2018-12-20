@@ -29,7 +29,7 @@ This is essential if you ever want to be financially healthy. You have to know h
 
 ## Schedule Weekly Check-Ins
 
-I call it a Money Minute, you can call it whatever you want. The most important thing is to do it. Schedule at least one time each week to check in with your money. It can literally be 10 minutes where you see how much you've spent that week and compare it to what's available to you for the month. It doesn't have to be terribly complicated or painful. In fact, the more you do it, the less painful and more helpful it will actually be.
+Setting a budget is great, but it's not very useful if you only look at it once a month or less. That's why you need to check in with your budget at least weekly. I call it a Money Minute, you can call it whatever you want. The most important thing is that you do it. Schedule at least one time each week to check in with your money. It can literally be 10 minutes where you see how much you've spent that week and compare it to what's available to you for the month. It doesn't have to be terribly complicated or painful. In fact, the more you do it, the less painful and more helpful it will actually be.
 
 ## Choose One Monthly Expense to Eliminate
 
