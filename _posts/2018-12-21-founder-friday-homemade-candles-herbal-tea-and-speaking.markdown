@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Homemade Candles, Herbal Tea, and Speaking
 date: 2018-12-21 14:00:00 -05:00
-published: false
 categories:
 - founder friday
 image: "/uploads/arnold-leung-754011-unsplash.jpg"
