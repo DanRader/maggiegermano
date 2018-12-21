@@ -59,4 +59,6 @@ If you have been saving for retirement, it's time to revisit your contribution. 
 
 --
 
-If you do even one or two of the items on this list, you'll be better off in 2019 than you were in 2018. It's okay if you can't do everything, because you have a limited amount of time and money.
+If you do even one or two of the items on this list, you'll be better off in 2019 than you were in 2018. It's okay if you can't do everything, because you're a human and you have a limited amount of time and money. Be kind to yourself while you're putting new systems in place, but keep moving forward! 
+
+*Are there any items that you think you'll implement in 2019? Share in the comments!*
