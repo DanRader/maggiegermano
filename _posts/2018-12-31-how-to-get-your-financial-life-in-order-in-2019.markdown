@@ -1,6 +1,7 @@
 ---
 title: How to Get Your Financial Life in Order in 2019
 date: 2018-12-31 11:00:00 -05:00
+published: false
 categories:
 - lifestyle
 - Credit
@@ -49,7 +50,7 @@ Once you've chosen the bank for your high-yield savings account and opened the a
 
 Consumer debt is basically any debt accrued by spending money on things that don't gain value. This would not include a mortgage or student loans. Consumer debt is considered ["bad"](https://www.maggiegermano.com/blog/the-difference-between-good-debt-and-bad-debt/) debt because of its [high interest rates](https://www.maggiegermano.com/blog/how-does-credit-card-interest-work/) and low value of return. Conversely, something like student debt typically has low interest rates and the return is that you will (hopefully) succeed in your career as a result. Consumer debt can easily get out of control and the interest rates can make it grow faster than you can keep up with it. If you have debt like this, meaning credit cards or personal loans, you should prioritize paying it off. Of course, this kind of debt payoff can take a long time, so the important thing is to put a plan in place for getting it paid off. 
 
-Figure out exactly how much you owe. Gather all of the information and put it in a spreadsheet where you can see it in one place. Make sure you include the [interest rates](https://www.maggiegermano.com/blog/credit-card-interest-sucks) of each card. From there, decide if you want to take the snowball or avalanche method to paying down debt. You should also look into your [consolidation](https://www.maggiegermano.com/blog/what-are-your-options-for-debt-consolidation/) options.
+Figure out exactly how much you owe. Gather all of the information and put it in a spreadsheet where you can see it in one place. Make sure you include the [interest rates](https://www.maggiegermano.com/blog/credit-card-interest-sucks) of each card. From there, decide if you want to take the snowball or avalanche method to paying down debt. You should also look into your [consolidation](https://www.maggiegermano.com/blog/what-are-your-options-for-debt-consolidation/) options. Then figure out if you can afford to make larger or additional payments on your debt each month or throughout the year. Using a [debt calculator](https://www.creditkarma.com/calculators/debtrepayment) can help you get a good idea of how much you need to pay to get your debt paid off by a certain date. Good luck!
 
 ## Increase (Or Begin) Your Retirement Contribution
 
@@ -59,4 +60,6 @@ If you have been saving for retirement, it's time to revisit your contribution. 
 
 --
 
-If you do even one or two of the items on this list, you'll be better off in 2019 than you were in 2018. It's okay if you can't do everything, because you have a limited amount of time and money.
+If you do even one or two of the items on this list, you'll be better off in 2019 than you were in 2018. It's okay if you can't do everything, because you're a human and you have a limited amount of time and money. Be kind to yourself while you're putting new systems in place, but keep moving forward! 
+
+*Are there any items that you think you'll implement in 2019? Share in the comments!*
