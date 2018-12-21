@@ -92,4 +92,6 @@ Before my honeymoon, I had never actually traveled to Asia. I'd heard wonderful 
 
 ![2018-11-21 09.48.00.jpg](/uploads/2018-11-21%2009.48.00.jpg)
 
+*What are your wins from this year? What made you proudest? Share in the comments!*
+
 *Don't forget to download my [worksheet](https://www.dropbox.com/sh/4vud8qitquk70b9/AAACZHCByXFks_3DWvsDeWb_a?dl=0) that will help you celebrate 2018 and plan for 2019!*
