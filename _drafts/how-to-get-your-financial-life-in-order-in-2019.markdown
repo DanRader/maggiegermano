@@ -33,11 +33,11 @@ Setting a budget is great, but it's not very useful if you only look at it once 
 
 ## Choose One Monthly Expense to Eliminate
 
-We all know there's at least one thing we don't really need to pay for anymore. It could be
+We all know there's at least one thing we don't really need to pay for anymore. It could be a small subscription that you don't take full advantage of anymore, or it could be a bigger payment, like the gym membership you never actually use. Once you get clear on your numbers, you'll be able to identify one unnecessary recurring expense that you can get rid of. It might not account for a lot of money, but every little bit counts, especially over the course of a year.
 
 ## Open a High-Yield Savings Account
 
-I'm a huge fan of high-yield savings accounts. These accounts provide an interest rate that actually means something. Unlike traditional brick and mortar banks, high-yield savings accounts have interest rates of about 2% right now! That's over 100% more than a regular bank can offer. If you want your liquid savings to grow in a meaningful way, you should open a high-yield savings account. This is especially important when it comes to your emergency savings account, because it will be a bigger amount of money that you (hopefully) don't have to touch for a while. Let your money work for you!
+I'm a huge fan of high-yield savings accounts (check me out on [NerdWallet](https://www.nerdwallet.com/blog/banking/your-easiest-new-years-resolution-make-your-money-work-harder/)!). These accounts provide an interest rate that actually means something. Unlike traditional brick and mortar banks, high-yield savings accounts have interest rates of about 2% right now! That's over 100% more than a regular bank can offer. If you want your liquid savings to grow in a meaningful way, you should open a high-yield savings account. This is especially important when it comes to your emergency savings account, because it will be a bigger amount of money that you (hopefully) don't have to touch for a while. Let your money work for you!
 
 I personally use [Ally Bank](http://ally.com) for this type of account, but there are lots out there now, like: [Synchrony](https://www.synchronybank.com/banking/high-yield-savings/?UISCode=0000000), [American Express](https://www.americanexpress.com/personalsavings/home.html), and [Barclays](https://www.banking.barclaysus.com/online-savings.html). They all typically have similar interest rates and fees (or lack thereof), but look into each of them and decide which one will be best for you.
 
