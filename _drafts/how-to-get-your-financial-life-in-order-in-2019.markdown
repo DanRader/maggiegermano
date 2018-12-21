@@ -47,7 +47,7 @@ Once you've chosen the bank for your high-yield savings account and opened the a
 
 ## Make a Plan to Eliminate Consumer Debt
 
-Consumer debt is basically any debt accrued by shopping. This would not include a mortgage or student loans. Consumer debt is considered ["bad"](https://www.maggiegermano.com/blog/the-difference-between-good-debt-and-bad-debt/) debt because of its high interest rates and low value of return. Conversely, something like student debt typically has low interest rates and the return is that you will (hopefully) succeed in your career as a result.
+Consumer debt is basically any debt accrued by spending money on things that don't gain value. This would not include a mortgage or student loans. Consumer debt is considered ["bad"](https://www.maggiegermano.com/blog/the-difference-between-good-debt-and-bad-debt/) debt because of its high interest rates and low value of return. Conversely, something like student debt typically has low interest rates and the return is that you will (hopefully) succeed in your career as a result. Consumer debt can easily get out of control and the interest rates can make it grow faster than you can keep up with it. If you have debt like this, meaning credit cards or personal loans, you should prioritize paying it off. Of course, this kind of debt payoff can take a long time, so the important thing is to put a plan in place for getting it paid off. 
 
 ## Increase (Or Begin) Your Retirement Contribution
 
