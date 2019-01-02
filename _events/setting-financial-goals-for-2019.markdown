@@ -8,6 +8,7 @@ start-time: 6PM
 end-time: 7:30PM
 location: Cove Meet | 1730 Rhode Island Avenue NW, Suite 1215
 button-text: Sign Me Up!
+button-link: https://www.eventbrite.com/e/money-circle-financial-resolutions-that-last-tickets-54309667678
 ticket-price: "$10"
 ---
 
