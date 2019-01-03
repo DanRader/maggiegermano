@@ -1,6 +1,7 @@
 ---
 title: How To Complete a "Low-Spend" Month
 date: 2019-01-07 16:02:00 -05:00
+image: "/uploads/rawpixel-653765-unsplash.jpg"
 ---
 
 New year, new budget. Do you want to take control of your money this year? Start off strong by doing a low-spend January! I’m sure you’ve heard of Dry January, where you commit to not drinking any alcohol. Well, there are also “no-spend” months, but I prefer to call them “low-spend” months, because it’s impossible to spend NO money at all.
