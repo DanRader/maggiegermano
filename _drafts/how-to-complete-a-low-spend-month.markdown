@@ -1,10 +1,9 @@
 ---
 title: How To Complete a Low-Spend Month
 date: 2019-01-07 16:02:00 -05:00
-image: "/uploads/dollars-b942d4.jpg"
 ---
 
-New year, new budget. Do you want to take control of your money this year? Start off strong by doing a low-spend January! I’m sure you’ve heard of Dry January, where you commit to not drinking any alcohol for a whole month. Well, there are also “no-spend” months, but I prefer to call them “low-spend” months, because it’s impossible to spend NO money at all.
+New year, new budget. Do you want to take control of your money this year? Start off strong by doing a low-spend January! I’m sure you’ve heard of Dry January, where you commit to not drinking any alcohol. Well, there are also “no-spend” months, but I prefer to call them “low-spend” months, because it’s impossible to spend NO money at all.
 
 What does a low-spend month look like? You only spend money on the necessities: rent, utilities, transportation, subscriptions, loans, groceries, etc. Anything that is not essential or required, like going out to eat or going shopping, is not allowed.
 
