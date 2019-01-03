@@ -1,6 +1,8 @@
 ---
 title: Founder Friday | Therapy, Low-Spend January, and Resolutions
 date: 2019-01-03 16:38:00 -05:00
+categories:
+- founder friday
 ---
 
 Happy Friday! Here’s what I was up to this week.
