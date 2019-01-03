@@ -11,10 +11,14 @@ What is the point of this exercise? Not only will it help you spend much less th
 
 So how does it work?
 
-1\. Make a list of all the essentials that you must pay for\
-2\. Make a list of all the non-essentials that you will be giving up for the rest of the month\
-3\. Check in at least once a week to see how you’re doing \
-4\. At least once a week, write down how you’re feeling about the challenge, good and bad\
-5\. At the end of the challenge, make a list of what was easy to give up and what was hard
+## Make a list of all the essentials that you must pay for
+
+## Make a list of all the non-essentials that you will be giving up
+
+## Check in at least once a week to see how you’re doing
+
+## Write down how you’re feeling about the challenge
+
+## Make a list of what was easy to give up and what was hard
 
 At the end of this, you’ll have a good idea of what you can go without from now on! You’ll see that it’s actually possible to cut your spending if you put your mind to it.
