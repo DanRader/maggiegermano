@@ -19,20 +19,22 @@ Happy Friday! Here’s what I was up to this week.
 
 * Today, I had lunch with a friend, and fellow coach, [Heather D. Horton](https://www.heatherdhorton.com/). If you're looking for a grief coach, you should contact her!
 
-* I finally found a new therapist who takes my insurance, and I had my initial intake session with her. Now that I'm on Dan's health insurance, I can choose an in-network therapist who is convenient to me and pay the 20% co-pay. 
+* I finally found a new therapist who takes my insurance, and I had my initial intake session with her. Now that I'm on Dan's health insurance, I can choose an in-network therapist who is convenient to me and pay the 20% co-pay.
 
 ## What I’m Writing
 
-x
+This week, I wrote about which [steps you can take](https://www.maggiegermano.com/blog/how-to-get-your-financial-life-in-order-in-2019/) in 2019 to get your money life together. 
 
 ## What I’m Up To
 
-* I'm running a low-spend month for January among Money Circle members! 
+* The [January Money Circle meetup](https://www.eventbrite.com/e/money-circle-financial-resolutions-that-last-tickets-54309667678) is scheduled and ready for you! This month, we'll be joined by financial advisor Deri Freeman, and we will talk about how to set financial resolutions that will last, and identify
+
+* I'm running a low-spend month for January among Money Circle members! If you want to join us, make sure you're in the [Money Circle group](https://www.facebook.com/groups/MoneyCircleGroup), so you can see all my tips and ask for support if you need it!
 
 ![Year-end Discount! (1).png](/uploads/Year-end%20Discount!%20(1).png)
 
 ## Money Tip to Take Into the Weekend
 
-x
+![Schedule Weekly Check-Ins With Yourself..png](/uploads/Schedule%20Weekly%20Check-Ins%20With%20Yourself..png)
 
 That’s all from me today! Have a fantastic weekend!
