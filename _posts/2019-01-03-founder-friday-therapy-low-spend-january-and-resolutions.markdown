@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Therapy, Low-Spend January, and Resolutions
 date: 2019-01-03 16:38:00 -05:00
-published: false
 categories:
 - founder friday
 image: "/uploads/michael-longmire-689531-unsplash.jpg"
