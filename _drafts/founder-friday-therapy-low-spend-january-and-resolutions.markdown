@@ -11,8 +11,6 @@ Happy Friday! Here’s what I was up to this week.
 
 * We had two Airbnb guests stay with us this week.
 
-* x
-
 ## How I Spent Money This Week
 
 * We spent a hefty sum on groceries this week. Not only were we hosting a New Years Day brunch, but we stocked up on some healthy essentials to keep us on track this month.
@@ -23,7 +21,7 @@ Happy Friday! Here’s what I was up to this week.
 
 ## What I’m Writing
 
-This week, I wrote about which [steps you can take](https://www.maggiegermano.com/blog/how-to-get-your-financial-life-in-order-in-2019/) in 2019 to get your money life together. 
+This week, I wrote about which [steps you can take](https://www.maggiegermano.com/blog/how-to-get-your-financial-life-in-order-in-2019/) in 2019 to get your money life together. If you don't know where to start, this article is a good place to turn.
 
 ## What I’m Up To
 
