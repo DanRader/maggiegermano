@@ -28,6 +28,8 @@ Just like with budgeting and tracking your spending, it's important to check in 
 
 ## Write Down How You’re Feeling About the Challenge
 
+Cutting back on something and changing a habit is hard work. It takes time, and it doesn't always feel good. So you shouldn't expect this to be easy, and you should check in with yourself regularly. Keep track of how you're feeling as you go along. You can do this while you're tracking your spending. It can be just one line like, "this sucks" or "this is easier than I expected." It will be a cathartic way to check in with yourself 
+
 ## Make a List of What Was Easy to Give Up and What Was Hard
 
 At the end of this, you’ll have a good idea of what you can go without from now on! Make a list of the things that you actually didn't mind giving up, and cut back on those in your normal day-to-day. You’ll see that it’s actually possible to cut your spending if you put your mind to it.
