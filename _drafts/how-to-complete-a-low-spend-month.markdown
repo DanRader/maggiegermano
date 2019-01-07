@@ -32,6 +32,8 @@ Cutting back on something and changing a habit is hard work. It takes time, and 
 
 ## Make a List of What Was Easy to Give Up and What Was Hard
 
-At the end of this, you’ll have a good idea of what you can go without from now on! Make a list of the things that you actually didn't mind giving up, and cut back on those in your normal day-to-day. You’ll see that it’s actually possible to cut your spending if you put your mind to it.
+At the end of this, you’ll have a good idea of what you can go without from now on! Make a list of the things that you actually didn't mind giving up, and cut back on those in your normal day-to-day. You can decide if you can make room in your budget to pay down debt or build up savings, or put your money towards things that you really care about. 
 
 If you need moral support, join the [Money Circle Facebook group](https://www.facebook.com/groups/MoneyCircleGroup/)! We'll be sharing tips and stories all throughout January, and we're always here to help!
+
+*Have you done a no or low-spend month? Are you joining us this month? I want to hear your thoughts in the comments!*
