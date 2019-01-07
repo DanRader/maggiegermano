@@ -1,8 +1,11 @@
 ---
 title: Investors Think They Are Fair But Minority-Owned Businesses Are Left Out
 date: 2019-01-14 11:00:00 -05:00
+published: false
 categories:
 - Career
+image: "/uploads/rawpixel-678089-unsplash.jpg"
+tweet: 'Repost from #ForbesWomen: Investors Aren''t As Fair As They Think'
 posts:
 - Fight White Supremacy with Your Wallet and Your Voice
 - How to Start Your Own Business
