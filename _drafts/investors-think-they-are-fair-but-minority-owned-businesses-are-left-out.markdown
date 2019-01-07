@@ -27,15 +27,15 @@ The report found that investors think that WMBEs are twice as likely to perform 
 
 ## Why are these findings so important?
 
-I spoke to[Carla Harris](https://www.morganstanley.com/profiles/carla-harris-vice-chairman-of-wealth-management), Vice Chairman of Wealth Management and Senior Client Advisor at Morgan Stanley, about why the findings in this report are so important. Harris said this report provides a “real opportunity to illuminate investors’ perception of what is happening versus the reality.” Shedding light on this disparity can help trigger a change in this area. Change is necessary, because not only are women and minority-owned businesses not receiving capital at an equitable rate, but investors are also missing out on huge economic opportunities.
+I spoke to [Carla Harris](https://www.morganstanley.com/profiles/carla-harris-vice-chairman-of-wealth-management), Vice Chairman of Wealth Management and Senior Client Advisor at Morgan Stanley, about why the findings in this report are so important. Harris said this report provides a “real opportunity to illuminate investors’ perception of what is happening versus the reality.” Shedding light on this disparity can help trigger a change in this area. Change is necessary, because not only are women and minority-owned businesses not receiving capital at an equitable rate, but investors are also missing out on huge economic opportunities.
 
 According to the report, WMBEs could account for $6.8 trillion in gross receipts if they matched their percentage of the labor force and if business revenues were equal to traditional firms. This would represent nearly three times the current output of these companies, which means there is a missed opportunity of *$4.4 trillion*. “The marketplace has not been aware of the depth of opportunity,” says Harris, “because how could there be such a large economic opportunity that isn't being taken advantage of?”
 
 Clearly, there is a big gap between perception and reality, and this gap is hurting business-owners and our economy. So, how can investors and bank lenders do better? The study proposes seven ways that lenders can help even the playing field of entrepreneurship.
 
-1. **Set Targets, Not Quotas:** Rather than framing it around what they “must” do, investors should set goals for who they *want *to reach. Harris says that this should be intentional, and investors should do their own research about emerging industries, so they can find the right businesses to fund.
+1. **Set Targets, Not Quotas:** Rather than framing it around what they “must” do, investors should set goals for who they \*want \*to reach. Harris says that this should be intentional, and investors should do their own research about emerging industries, so they can find the right businesses to fund.
 
-2. **Hold Themselves Accountable for Measurable Outcomes:**Track statistics on how many diverse companies they see and how many diverse companies they invest in. They should share these statistics with their partners to hold themselves accountable to do better.
+2. **Hold Themselves Accountable for Measurable Outcomes:** Track statistics on how many diverse companies they see and how many diverse companies they invest in. They should share these statistics with their partners to hold themselves accountable to do better.
 
 3. **Expand Their Reach:** Investors can’t just wait for these businesses to come to them. They need to seek them out to reduce barriers. This could look like holding “pitch days” targeting multicultural or woman-owned businesses, attending related conferences, etc.
 
