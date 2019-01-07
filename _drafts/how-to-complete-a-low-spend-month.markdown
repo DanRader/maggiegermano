@@ -30,4 +30,4 @@ Just like with budgeting and tracking your spending, it's important to check in 
 
 At the end of this, you’ll have a good idea of what you can go without from now on! Make a list of the things that you actually didn't mind giving up, and cut back on those in your normal day-to-day. You’ll see that it’s actually possible to cut your spending if you put your mind to it.
 
-If you need moral support, join the [Money Circle Facebook group](https://www.facebook.com/groups/MoneyCircleGroup/)!
+If you need moral support, join the [Money Circle Facebook group](https://www.facebook.com/groups/MoneyCircleGroup/)! We'll be sharing tips and stories all throughout January, and we're always here to help!
