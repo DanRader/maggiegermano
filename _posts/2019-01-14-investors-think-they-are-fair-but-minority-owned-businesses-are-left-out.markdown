@@ -1,5 +1,5 @@
 ---
-title: Investors Think They Are Fair But Minority-Owned Businesses Are Left Out
+title: The Real Reason Minority-Owned Businesses Aren't Getting Funded
 date: 2019-01-14 11:00:00 -05:00
 published: false
 categories:
