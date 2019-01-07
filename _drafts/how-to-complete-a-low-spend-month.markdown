@@ -29,3 +29,5 @@ Just like with budgeting and tracking your spending, it's important to check in 
 ## Make a list of what was easy to give up and what was hard
 
 At the end of this, you’ll have a good idea of what you can go without from now on! Make a list of the things that you actually didn't mind giving up, and cut back on those in your normal day-to-day. You’ll see that it’s actually possible to cut your spending if you put your mind to it.
+
+If you need moral support, join the [Money Circle Facebook group](https://www.facebook.com/groups/MoneyCircleGroup/)!
