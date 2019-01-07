@@ -14,9 +14,15 @@ So how does it work?
 
 ## Make a list of all the essentials that you must pay for
 
+If you've already made a budget, you'll have this list ready. If not, this is also a great exercise to get you halfway to having a budget! List out all of the things that you *know* you have to pay for every month. This could be obvious things like rent, utilities, your student loan payment, etc. But it could also be co-pays for a prescription, metro fare, gas, groceries, and more. These should be things that you know you can't avoid paying for. It's helpful to have this list because you know you don't have to feel guilty for spending on these things while cutting back in other areas.
+
 ## Make a list of all the non-essentials that you will be giving up
 
+Get clear on the things that you know you want to give up or cut way back on during your low-spend month. This could be going out to eat, shopping, Uber, coffee, etc. It's especially helpful if it's something that you know you overspend on during a typical month. 
+
 ## Check in at least once a week to see how you’re doing
+
+Just like with budgeting and tracking your spending, it's important to check in regularly when you're challenging yourself to spend much less than usual. 
 
 ## Write down how you’re feeling about the challenge
 
