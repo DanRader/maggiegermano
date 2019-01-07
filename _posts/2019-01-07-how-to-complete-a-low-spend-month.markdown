@@ -1,7 +1,15 @@
 ---
 title: How To Complete a "Low-Spend" Month
 date: 2019-01-07 11:00:00 -05:00
+categories:
+- spending
+- lifestyle
 image: "/uploads/rawpixel-653765-unsplash.jpg"
+tweet: Cut back on spending by doing a "low-spend"month! Here's how.
+posts:
+- You Can Have Fun with Your Friends While Spending Less
+- How to Stop Trying to Keep Up with "the Joneses"
+- Why Spending Money On "Happy" Is Worth It
 ---
 
 New year, new budget. Do you want to take control of your money this year? Start off strong by doing a low-spend January! I’m sure you’ve heard of [Dry January](https://www.self.com/story/dry-january-health-benefits), where you commit to not drinking any alcohol for 30 days. Well, there are also “no-spend” months, but I prefer to call them “low-spend” months, because it’s impossible to spend NO money at all.
@@ -34,7 +42,7 @@ If you don't think checking in with yourself will be motivating enough, try to f
 
 ## Make a List of What Was Easy to Give Up and What Was Hard
 
-At the end of this, you’ll have a good idea of what you can go without from now on! Make a list of the things that you actually didn't mind giving up, and cut back on those in your normal day-to-day. You can decide if you can make room in your budget to pay down debt or build up savings, or put your money towards things that you really care about.
+At the end of this, you’ll have a good idea of what you can go without from now on! Make a list of the things that you actually didn't mind giving up, and cut back on those in your normal day-to-day. You can decide if you can now make room in your budget to pay down debt or build up savings, or put your money towards other things that you really care about.
 
 If you need moral support, join the [Money Circle Facebook group](https://www.facebook.com/groups/MoneyCircleGroup/)! We'll be sharing tips and stories all throughout January, and we're always here to help!
 
