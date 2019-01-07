@@ -24,11 +24,11 @@ Get clear on the things that you know you want to give up or cut way back on dur
 
 ## Check In At Least Once a Week to See How You’re Doing
 
-Just like with budgeting and tracking your spending, it's important to check in regularly when you're challenging yourself to spend much less than usual. 
+Just like with budgeting and tracking your spending, it's important to check in regularly when you're challenging yourself to spend much less than usual. Set time aside at least once a week to review your bank statements or receipts and see where your money is going. 
 
 ## Write Down How You’re Feeling About the Challenge
 
-Cutting back on something and changing a habit is hard work. It takes time, and it doesn't always feel good. So you shouldn't expect this to be easy, and you should check in with yourself regularly. Keep track of how you're feeling as you go along. You can do this while you're tracking your spending. It can be just one line like, "this sucks" or "this is easier than I expected." It will be a cathartic way to check in with yourself 
+Cutting back on something and changing a habit is hard work. It takes time, and it doesn't always feel good. So you shouldn't expect this to be easy, and you should check in with yourself regularly. Keep track of how you're feeling as you go along. You can do this while you're tracking your spending. It can be just one line like, "this sucks" or "this is easier than I expected." It will be a cathartic way to check in with yourself, give yourself a moment to complain, and then motivate yourself to keep going. It will also be a great way to look back later and see that you were able to get through it!
 
 ## Make a List of What Was Easy to Give Up and What Was Hard
 
