@@ -24,7 +24,7 @@ Get clear on the things that you know you want to give up or cut way back on dur
 
 ## Check In At Least Once a Week to See How You’re Doing
 
-Just like with budgeting and tracking your spending, it's important to check in regularly when you're challenging yourself to spend much less than usual. Set time aside at least once a week to review your bank statements or receipts and see where your money is going. 
+Just like with budgeting and tracking your spending, it's important to check in regularly when you're challenging yourself to spend much less than usual. Set time aside at least once a week to review your bank statements or receipts and see where your money is going. If you notice that you're having a hard time giving something up, think hard about it. Why is it hard to give up? Is it something that brings you joy, and therefore should be programmed into your basic budget? Or are there other things going on? 
 
 ## Write Down How You’re Feeling About the Challenge
 
