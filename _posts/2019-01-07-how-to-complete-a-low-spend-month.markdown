@@ -1,6 +1,6 @@
 ---
 title: How To Complete a "Low-Spend" Month
-date: 2019-01-07 11:00:00 -05:00
+date: 2019-01-07 09:00:00 -05:00
 categories:
 - spending
 - lifestyle
