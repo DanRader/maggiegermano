@@ -62,7 +62,7 @@ option-1-text: |-
 
   * Money Landscape Analysis
 
-  * **One** 90-minute session (via phone)
+  * **One** 90-minute phone or video session
 
   * Personalized recap and action guide after the session
 
