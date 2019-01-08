@@ -56,23 +56,25 @@ coaching-3:
   p3-text: As you pay down debt and reach other goals, you'll become more confident
     in your ability to make financial decisions.
 option-1-text: |-
-  ### One Time Session
+  ### Budget Deep-Dive Session
 
   Perfect for someone just looking to get pointed in the right direction or looking for answers to specific questions.
 
   * Money Landscape Analysis
 
-  * **One** 60-minute session (via phone)
+  * **One** 90-minute session (via phone)
 
   * Personalized recap and action guide after the session
+
+  * $300 per session
 option-2-text: |-
   ### Ongoing Monthly Coaching
 
-  For someone looking to make real, positive change to their current financial situation.
+  For someone looking to make real, positive changes to their current financial situation.
 
   * Money Landscape Analysis
 
-  * **Two** 60-minute phone sessions a month
+  * **One-Two** 60-minute phone sessions a month
 
   * Personalized recap and action guide after each session
 
