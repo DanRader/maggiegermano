@@ -3,15 +3,19 @@ title: Coaching
 position: 2
 is-menu: true
 content-bullets-text: |-
+  * Shame or anxiety about money
+
+  * Money avoidance
+
   * Credit card debt
+
+  * Overspending
 
   * Underearning
 
   * Sticking to a budget
 
   * Building up your savings
-
-  * Shame or confusion about money
 coaching-1:
   title: Assess Your Money Landscape
   p1-icon-image: "/uploads/coaching-stress.png"
