@@ -18,19 +18,21 @@ Happy Friday! Here’s what I was up to this week.
 
 ## **How I Spent Money This Week**
 
-* x
+* We used some of our wedding gift money to buy ourselves a robot vacuum! We're planning to get a dog within the next couple months, and I wanted to get ahead of the impending fur. 
 
 * x
 
 ## **What I’m Writing**
 
-c
+This week, I wrote about how you can [complete a low-spend month](https://www.maggiegermano.com/blog/how-to-complete-a-low-spend-month/) without suffering too much. 
 
 ## **What I’m Up To**
 
 * The [January Money Circle meetup](https://www.eventbrite.com/e/money-circle-financial-resolutions-that-last-tickets-54309667678) is scheduled and ready for you! This month, we’ll be joined by financial advisor Deri Freeman, and we will talk about how to set financial resolutions that will last, and identify which goals you want to start with. [Register here!](https://www.eventbrite.com/e/money-circle-financial-resolutions-that-last-tickets-54309667678)
 
 * I’m running a low-spend month for January among Money Circle members! If you want to join us, make sure you’re in the [Money Circle group](https://www.facebook.com/groups/MoneyCircleGroup), so you can see all my tips and ask for support if you need it!
+
+* Dan and I have officially kicked off our corgi search. Dan has always wanted a corgi and he's made me a believer, too. We've added our names to the waiting list for the [East Coast Corgi Rescue](https://www.eastcoastcorgirescue.org/), but we've been reaching out to local breeders, as well. (Don't worry, we're doing our due diligence to make sure that the breeders are reputable.) Since we will likely use a breeder to get our corgi, we've saved up quite a bit of money specifically for the purchase of the dog and for all the normal expenses that come along with owning a dog. 
 
 ## **Money Tip to Take Into the Weekend**
 
