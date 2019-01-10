@@ -20,7 +20,7 @@ Happy Friday! Here’s what I was up to this week.
 
 * We used some of our wedding gift money to buy ourselves a robot vacuum! We're planning to get a dog within the next couple months, and I wanted to get ahead of the impending fur. 
 
-* x
+* We had to stock up on a few household items, like sponges, plastic wrap, and aluminum foil, so I bought those things on Amazon.
 
 ## **What I’m Writing**
 
