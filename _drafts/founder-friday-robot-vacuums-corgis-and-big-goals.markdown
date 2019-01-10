@@ -32,7 +32,7 @@ This week, I wrote about how you can [complete a low-spend month](https://www.ma
 
 * I’m running a low-spend month for January among Money Circle members! If you want to join us, make sure you’re in the [Money Circle group](https://www.facebook.com/groups/MoneyCircleGroup), so you can see all my tips and ask for support if you need it!
 
-* Dan and I have officially kicked off our corgi search. Dan has always wanted a corgi and he's made me a believer, too. We've added our names to the waiting list for the [East Coast Corgi Rescue](https://www.eastcoastcorgirescue.org/), but we've been reaching out to local breeders, as well. (Don't worry, we're doing our due diligence to make sure that the breeders are reputable.) Since we will likely use a breeder to get our corgi, we've saved up quite a bit of money specifically for the purchase of the dog and for all the normal expenses that come along with owning a dog. 
+* Dan and I have officially kicked off our corgi search. Dan has always wanted a corgi and he's made me a believer, too. We've added our names to the waiting list for the [East Coast Corgi Rescue](https://www.eastcoastcorgirescue.org/), but we've been reaching out to local breeders, as well. (Don't worry, we're doing our due diligence to make sure that the breeders are reputable.) Since we will likely use a breeder to get our corgi, we've saved up quite a bit of money specifically for the purchase of the dog and for all the normal expenses that come along with owning a dog. I'd love to hear your tips for how to get ready for being a new pet owner!
 
 ## **Money Tip to Take Into the Weekend**
 
