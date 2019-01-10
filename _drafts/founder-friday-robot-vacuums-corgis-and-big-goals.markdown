@@ -36,4 +36,6 @@ This week, I wrote about how you can [complete a low-spend month](https://www.ma
 
 ## **Money Tip to Take Into the Weekend**
 
+![Here's to the fighters, the survivors, and the departed. (1).png](/uploads/Here's%20to%20the%20fighters,%20the%20survivors,%20and%20the%20departed.%20(1).png)
+
 That’s all from me today! Have a fantastic weekend!
