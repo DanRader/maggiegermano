@@ -1,12 +1,13 @@
 ---
 title: Founder Friday | Robot Vacuums, Corgis, and Big Goals
 date: 2019-01-11 14:00:00 -05:00
+published: false
 categories:
 - founder friday
 image: "/uploads/brianna-santellan-564976-unsplash.jpg"
 ---
 
-Happy Friday! Here’s what I was up to this week.
+Happy Friday! I hope you're staying warm out there. Here’s what I was up to this week.
 
 ## **How I Earned Money This Week**
 
