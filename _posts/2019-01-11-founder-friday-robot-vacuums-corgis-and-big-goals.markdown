@@ -1,6 +1,6 @@
 ---
 title: Founder Friday | Robot Vacuums, Corgis, and Big Goals
-date: 2019-01-11 14:00:00 -05:00
+date: 2019-01-11 10:00:00 -05:00
 categories:
 - founder friday
 image: "/uploads/brianna-santellan-564976-unsplash.jpg"
