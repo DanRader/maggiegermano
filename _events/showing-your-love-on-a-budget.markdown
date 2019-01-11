@@ -9,6 +9,7 @@ start-time: 6:30PM
 end-time: 8:30PM
 location: Private Residence in Eastern Market
 button-text: Sign Me Up!
+button-link: https://www.eventbrite.com/e/money-circle-showing-your-love-on-a-budget-tickets-54758999642
 ticket-price: "$20"
 ---
 
