@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Robot Vacuums, Corgis, and Big Goals
 date: 2019-01-11 14:00:00 -05:00
-published: false
 categories:
 - founder friday
 image: "/uploads/brianna-santellan-564976-unsplash.jpg"
@@ -19,13 +18,13 @@ Happy Friday! I hope you're staying warm out there. Here’s what I was up to th
 
 ## **How I Spent Money This Week**
 
-* We used some of our wedding gift money to buy ourselves a robot vacuum! We're planning to get a dog within the next couple months, and I wanted to get ahead of the impending fur. 
+* We used some of our wedding gift money to buy ourselves a robot vacuum! We're planning to get a dog within the next couple months, and I wanted to get ahead of the impending fur.
 
 * We had to stock up on a few household items, like sponges, plastic wrap, and aluminum foil, so I bought those things on Amazon.
 
 ## **What I’m Writing**
 
-This week, I wrote about how you can [complete a low-spend month](https://www.maggiegermano.com/blog/how-to-complete-a-low-spend-month/) without suffering too much. 
+This week, I wrote about how you can [complete a low-spend month](https://www.maggiegermano.com/blog/how-to-complete-a-low-spend-month/) without suffering too much.
 
 ## **What I’m Up To**
 
@@ -34,6 +33,8 @@ This week, I wrote about how you can [complete a low-spend month](https://www.ma
 * I’m running a low-spend month for January among Money Circle members! If you want to join us, make sure you’re in the [Money Circle group](https://www.facebook.com/groups/MoneyCircleGroup), so you can see all my tips and ask for support if you need it!
 
 * Dan and I have officially kicked off our corgi search. Dan has always wanted a corgi and he's made me a believer, too. We've added our names to the waiting list for the [East Coast Corgi Rescue](https://www.eastcoastcorgirescue.org/), but we've been reaching out to local breeders, as well. (Don't worry, we're doing our due diligence to make sure that the breeders are reputable.) Since we will likely use a breeder to get our corgi, we've saved up quite a bit of money specifically for the purchase of the dog and for all the normal expenses that come along with owning a dog. I'd love to hear your tips for how to get ready for being a new pet owner!
+
+* This year, I have big goals that will allow me to reach more of you at a level that is more affordable. I plan to launch my podcast and create online courses. I plan to do more speaking engagements and host more workshops. What kinds of topics and issues would you want to see me cover online and in person? Share in the comments or email me at [hello@maggiegermano.com](mailto:hello@maggiegermano.com)!
 
 ## **Money Tip to Take Into the Weekend**
 
