@@ -12,7 +12,11 @@ button-text: Sign Me Up!
 ticket-price: "$20"
 ---
 
-x
+Is one of your love languages giving gifts? Do you love to show people that you love them by buying them things that make you think of them? This is both a wonderful trait AND something that can get pretty expensive! In February, just in time for Valentine's Day, we'll be gathering to talk about how to show your love while still sticking to your budget.
+
+We'll learn alternative ways to show our love, we'll share ideas for low-cost gifts, and we'll talk about how to save up for gift-giving all year. Join us so you can show your love without feeling financial stress afterward! 
+
+FYI: There will be a cat in residence at this home, but she tends to keep to herself.
 
 --
 
