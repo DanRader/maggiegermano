@@ -20,9 +20,7 @@ Happy Friday! I hope you’re staying warm out there. Here’s what I was up to 
 
 ## **How I Spent Money This Week**
 
-* We used some of our wedding gift money to buy ourselves a robot vacuum! We’re planning to get a dog within the next couple months, and I wanted to get ahead of the impending fur.
-
-* We had to stock up on a few household items, like sponges, plastic wrap, and aluminum foil, so I bought those things on Amazon.
+* As you know, if you're in the DC area, we got a bunch of snow on Saturday and Sunday. Dan and I needed to replenish some of our groceries, but we didn't want to be on the road. I didn't think we could last a couple days without these items, so I fired up my Instacart account and had groceries delivered. Luckily, the delivery person arrived just as Dan was finishing shoveling our driveway and sidewalk. (Use [my Instacart link](https://inst.cr/t/2SPbdAMbW) for $10 off your first order!)
 
 ## **What I’m Writing**
 
