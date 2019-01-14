@@ -18,6 +18,8 @@ Why is that distinction important? According to Brené's research, shame is actu
 
 ## Make a List of Everything You've Done Well
 
+It's easier to focus on the things we've done wrong and forget about the things that we've done well. 
+
 ## Choose Small Things You Can Start Doing Now
 
 ## Work With a Professional
