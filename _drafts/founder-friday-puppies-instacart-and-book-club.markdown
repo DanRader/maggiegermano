@@ -12,9 +12,7 @@ Happy Friday! I hope you’re staying warm out there. Here’s what I was up to 
 
 ## **How I Earned Money This Week**
 
-* We had one Airbnb guest this week.
-
-* I had one former full-time client sign on as a retainer client.
+* We have one Airbnb guest this week, who is coming to the DC area for the Women's March.
 
 * I had two new clients pay their monthly fees.
 
