@@ -11,3 +11,11 @@ According to research professor, [Brené Brown](https://brenebrown.com/), there 
 > To simplify that for you: guilt is the feeling that we've *done* something bad and shame is feeling that *we* are bad. 
 
 Why is that distinction important? According to Brené's research, shame is actually not helpful at all. In fact, it can lead people to destructive and hurtful behavior. Contrarily, guilt can be a motivating emotion. It can encourage people to make more beneficial decisions and change their behavior for the better. 
+
+## Talk to Your Loved Ones About Money
+
+## Forgive Yourself for Your Past Decisions
+
+## Make a List of Everything You've Done Well
+
+## Choose Small Things You Can Start Doing Now
