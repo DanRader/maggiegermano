@@ -24,7 +24,7 @@ Happy Friday! I hope you’re staying warm out there. Here’s what I was up to 
 
 ## **What I’m Writing**
 
-ICYMI: I republished my ForbesWomen post about the divide between how often investors *think* they're investing in minority-owned businesses and how often they actually *do*.
+ICYMI: I [republished](https://www.maggiegermano.com/blog/investors-think-they-are-fair-but-minority-owned-businesses-are-left-out/) my [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2018/12/11/investors-think-they-are-fair-but-minority-owned-businesses-are-left-out/) post about the divide between how often investors *think* they're investing in minority-owned businesses and how often they actually *do*. (If you haven't already, ["follow" me](https://www.forbes.com/sites/maggiegermano/) on ForbesWomen so you always know when I publish a new post!)
 
 ## **What I’m Up To**
 
