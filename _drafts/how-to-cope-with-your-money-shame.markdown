@@ -6,11 +6,11 @@ categories:
 image: "/uploads/asdrubal-luna-485688-unsplash.jpg"
 ---
 
-According to research professor, [Brené Brown](https://brenebrown.com/), there is a big difference between shame and guilt. She says that "...guilt is adaptive and helpful – it’s holding something we’ve done or failed to do up against our values and feeling psychological discomfort." Shame, on the other hand, is "the intensely painful feeling or experience of believing that we are flawed and therefore unworthy of love and belonging – something we’ve experienced, done, or failed to do makes us unworthy of connection." To simplify that for you: guilt is the feeling that we've *done* something bad and shame is feeling that *we* are bad. 
+According to research professor, [Brené Brown](https://brenebrown.com/), there is a big difference between shame and guilt. She says that "...guilt is adaptive and helpful – it’s holding something we’ve done or failed to do up against our values and feeling psychological discomfort." Shame, on the other hand, is "the intensely painful feeling or experience of believing that we are flawed and therefore unworthy of love and belonging – something we’ve experienced, done, or failed to do makes us unworthy of connection." To simplify that for you: guilt is the feeling that we've *done* something bad and shame is feeling that *we* are bad.
 
-> To simplify that for you: guilt is the feeling that we've *done* something bad and shame is feeling that *we* are bad. 
+> To simplify that for you: guilt is the feeling that we've *done* something bad and shame is feeling that *we* are bad.
 
-Why is that distinction important? According to Brené's research, shame is actually not helpful at all. In fact, it can lead people to destructive and hurtful behavior. Contrarily, guilt can be a motivating emotion. It can encourage people to make more beneficial decisions and change their behavior for the better. 
+Why is that distinction important? According to Brené's research, shame is actually not helpful at all. In fact, it can lead people to destructive and hurtful behavior. Contrarily, guilt can be a motivating emotion. It can encourage people to make more beneficial decisions and change their behavior for the better.
 
 ## Talk to Your Loved Ones About Money
 
@@ -19,3 +19,9 @@ Why is that distinction important? According to Brené's research, shame is actu
 ## Make a List of Everything You've Done Well
 
 ## Choose Small Things You Can Start Doing Now
+
+## Work With a Professional
+
+Whether it's a therapist, a coach, or a financial planner, sometimes you have to hire a professional. If you've tried to do the things I mentioned above, and you still can't relinquish your money shame, you might need someone to help you. If there are deep, painful issues that you need to work through, a therapist is probably your best bet. If you want to focus on moving forward and implementing solutions, a coach might be best. If you just want someone who will tell you exactly what to do with your money, a financial planner will probably help you the most. 
+
+*If you want to talk to me about financial coaching, [schedule a free discovery call](https://maggiegermanofinancialcoaching.as.me/discovery) today!*
