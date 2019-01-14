@@ -1,7 +1,6 @@
 ---
 title: The Real Reason Minority-Owned Businesses Aren't Getting Funded
 date: 2019-01-14 11:00:00 -05:00
-published: false
 categories:
 - Career
 image: "/uploads/rawpixel-678089-unsplash.jpg"
@@ -52,4 +51,4 @@ Clearly, there is a big gap between perception and reality, and this gap is hurt
 
 If you are an entrepreneur looking for funding, Harris has advice for you, too. You should make yourself as visible as possible in the investment world. “The more they see you, the more they will be comfortable with you”, Harris says. Be aggressive and attend meet-and-greets and other events with investors. And if you do get in front of investors, take every opportunity to educate them while you're selling your idea. Make sure that you’re bringing the statistics about your market, and the problem that you’re trying to solve. Show them why you're the best person to invest in.
 
-*The full report and survey results can be viewed online [here](https://www.morganstanley.com/content/dam/msdotcom/mcil/growing-market-investors-are-missing.pdf). This piece was originally published on my column at [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2018/12/11/investors-think-they-are-fair-but-minority-owned-businesses-are-left-out/). *
+*The full report and survey results can be viewed online [here](https://www.morganstanley.com/content/dam/msdotcom/mcil/growing-market-investors-are-missing.pdf). This piece was originally published on my column at [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2018/12/11/investors-think-they-are-fair-but-minority-owned-businesses-are-left-out/).*
