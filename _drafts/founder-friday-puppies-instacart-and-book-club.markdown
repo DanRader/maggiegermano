@@ -20,7 +20,7 @@ Happy Friday! I hope you’re staying warm out there. Here’s what I was up to 
 
 * As you know, if you're in the DC area, we got a bunch of snow on Saturday and Sunday. Dan and I needed to replenish some of our groceries, but we didn't want to be on the road. I didn't think we could last a couple days without these items, so I fired up my Instacart account and had groceries delivered. Luckily, the delivery person arrived just as Dan was finishing shoveling our driveway and sidewalk. (Use [my Instacart link](https://inst.cr/t/2SPbdAMbW) for $10 off your first order!)
 
-* x
+* One of the amazing wedding gifts we received was free tickets to *Hamilton* on Broadway in New York City! A friend of Dan's family works for one of *Hamilton's* investors, so she was able to get us free tickets for an evening of our choosing. We're going to make a whole weekend of it, so we booked our hotel room near Central Park and our train to and from the city. We used Hotels.com points to discount the room, and we will likely use some of our Capital One Venture points to help pay for the Amtrak.  **Bonus:** [True Crime Obsessed](https://www.truecrimeobsessed.com/) is doing a live show that same weekend, so my sisters are meeting me in NYC and we're going to that show on Saturday night!
 
 ## What I’m Writing
 
