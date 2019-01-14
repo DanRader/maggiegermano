@@ -6,3 +6,6 @@ categories:
 image: "/uploads/asdrubal-luna-485688-unsplash.jpg"
 ---
 
+According to research professor, [Brené Brown](https://brenebrown.com/), there is a big difference between shame and guilt. She says that "...guilt is adaptive and helpful – it’s holding something we’ve done or failed to do up against our values and feeling psychological discomfort." Shame, on the other hand, is "the intensely painful feeling or experience of believing that we are flawed and therefore unworthy of love and belonging – something we’ve experienced, done, or failed to do makes us unworthy of connection." To simplify that for you: guilt is the feeling that we've *done* something bad and shame is feeling that *we* are bad. 
+
+> To simplify that for you: guilt is the feeling that we've *done* something bad and shame is feeling that *we* are bad. 
