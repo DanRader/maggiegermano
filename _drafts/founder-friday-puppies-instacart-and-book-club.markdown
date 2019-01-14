@@ -24,7 +24,7 @@ Happy Friday! I hope you’re staying warm out there. Here’s what I was up to 
 
 ## **What I’m Writing**
 
-x
+ICYMI: I republished my ForbesWomen post about the divide between how often investors *think* they're investing in minority-owned businesses and how often they actually *do*.
 
 ## **What I’m Up To**
 
