@@ -34,7 +34,7 @@ It's easier to focus on the things we've done wrong and forget about the things 
 
 ## Recognize That Your Mistakes Can Teach You How to Do Better
 
-If we never mess up, we can't learn how to do things better!
+If we never mess up, we can't learn how to do things better! 
 
 ## Choose Small Things You Can Start Doing Now
 
