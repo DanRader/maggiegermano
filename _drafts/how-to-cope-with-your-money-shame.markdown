@@ -43,3 +43,9 @@ If we never mess up, we can't learn how to do things better!
 Whether it's a therapist, a coach, or a financial planner, sometimes you have to hire a professional. If you've tried to do the things I mentioned above, and you still can't relinquish your money shame, you might need someone to help you. If there are deep, painful issues that you need to work through, a therapist is probably your best bet. If you want to focus on moving forward and implementing solutions, a coach might be best. If you just want someone who will tell you exactly what to do with your money, a financial planner will probably help you the most.
 
 *If you want to talk to me about financial coaching, [schedule a free discovery call](https://maggiegermanofinancialcoaching.as.me/discovery) today!*
+
+**More resources about Brené Brown and shame:**
+
+* www.brenebrown.com
+
+* 
