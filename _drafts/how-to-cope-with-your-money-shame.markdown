@@ -22,7 +22,11 @@ And what does this have to do with money? Well, shame comes up a lot when it com
 
 ## Talk to Your Loved Ones About Money
 
+The more we open up about something, the less isolated and ashamed we will feel. I guarantee that you know people who have made the same decisions or been in the same positions as you have. But you won't know that if you don't open up about where you are and where you've been. Feeling alone in our experiences means we will feel isolated and more likely to beat ourselves up. 
+
 ## Forgive Yourself for Your Past Decisions
+
+I've said it before and I'll say it again: you have to forgive yourself for the financial mistakes you've made in the past. It's normal to be frustrated and wish that you'd done something different, but it won't actually change what happened. 
 
 ## Make a List of Everything You've Done Well
 
