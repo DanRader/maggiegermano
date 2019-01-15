@@ -38,6 +38,8 @@ If we never mess up, we can't learn how to do things better!
 
 ## Choose Small Things You Can Start Doing Now
 
+Progress doesn't always have to mean making huge changes or reaching big goals. In fact, making progress often means making small, incremental changes that will lead you to a different circumstance. 
+
 ## Work With a Professional
 
 Whether it's a therapist, a coach, or a financial planner, sometimes you have to hire a professional. If you've tried to do the things I mentioned above, and you still can't relinquish your money shame, you might need someone to help you. If there are deep, painful issues that you need to work through, a therapist is probably your best bet. If you want to focus on moving forward and implementing solutions, a coach might be best. If you just want someone who will tell you exactly what to do with your money, a financial planner will probably help you the most.
