@@ -44,7 +44,7 @@ Whether it's a therapist, a coach, or a financial planner, sometimes you have to
 
 *If you want to talk to me about financial coaching, [schedule a free discovery call](https://maggiegermanofinancialcoaching.as.me/discovery) today!*
 
-More resources about Brene Brown and shame:
+**More resources about Brené Brown and shame:**
 
 * www.brenebrown.com
 
