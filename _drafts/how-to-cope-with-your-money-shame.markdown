@@ -26,6 +26,8 @@ The more we open up about something, the less isolated and ashamed we will feel.
 
 ## Forgive Yourself for Your Past Decisions
 
+I've said it before and I'll say it again: you have to forgive yourself for the financial mistakes you've made in the past. It's normal to be frustrated and wish that you'd done something different, but it won't actually change what happened. 
+
 ## Make a List of Everything You've Done Well
 
 It's easier to focus on the things we've done wrong and forget about the things that we've done well.
