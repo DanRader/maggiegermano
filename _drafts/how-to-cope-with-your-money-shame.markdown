@@ -52,4 +52,4 @@ Whether it's a therapist, a coach, or a financial planner, sometimes you have to
 
 * https://brenebrown.com/blog/2013/01/14/shame-v-guilt/ 
 
-* x
+* https://www.theatlantic.com/sexes/archive/2013/04/messages-of-shame-are-organized-around-gender/275322/ 
