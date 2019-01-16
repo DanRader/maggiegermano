@@ -30,13 +30,15 @@ The more we open up about something, the less isolated and ashamed we will feel.
 
 I've said it before and I'll say it again: you have to forgive yourself for the financial mistakes you've made in the past. It's normal to be frustrated and wish that you'd done something different, but it won't actually change what happened. Now, this is easier said than done. Forgiveness, especially self-forgiveness, isn't just a switch you can flip. 
 
-I recommend coming up with positive affirmations. Here are just a few I can think of:
+I recommend coming up with positive affirmations and repeating them to yourself daily. Here are just a few I can think of:
 
-* I am not defined by my past decisions
+* I am not defined by my past decisions.
 
-* I am capable of improving my financial life
+* I am capable of improving my financial life.
 
-* I deserve to be free of money shame
+* I deserve to be free of money shame.
+
+* 
 
 ## Make a List of Everything You've Done Well
 
