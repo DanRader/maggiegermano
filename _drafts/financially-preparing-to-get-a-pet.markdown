@@ -7,3 +7,14 @@ categories:
 image: "/uploads/krista-mangulsone-53122-unsplash.jpg"
 ---
 
+x
+
+## Make Sure You Can Afford One
+
+## Decide If You Want to Buy or Adopt
+
+## Save Up the First Year of Expenses
+
+## Fund an Emergency Savings Account
+
+## Decide If You Need Pet Insurance
