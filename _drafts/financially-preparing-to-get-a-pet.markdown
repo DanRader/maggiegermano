@@ -17,6 +17,8 @@ Your situation might be very different from ours, but there are still many quest
 
 ## Make Sure You Can Afford One
 
+Just like with having a child, adopting an animal might cost more money than you were expecting. Do your research and find out how much it usually costs both up front and annually to care for a pet. You should specify based on the type of pet you want to get. 
+
 ## Decide If You Want to Buy or Adopt
 
 ## Save Up the First Year of Expenses
