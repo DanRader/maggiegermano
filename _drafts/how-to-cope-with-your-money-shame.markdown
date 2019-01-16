@@ -20,6 +20,8 @@ Why is that distinction important? According to Brené's research, shame is actu
 
 And what does this have to do with money? Well, shame comes up a lot when it comes to money. In our society, we put a lot of value on financial standing, and we tend to blame ourselves if we aren't keeping up with our peers. When we shame ourselves for our past financial decision or our current financial situation, we can feel incapable of making any changes. If you want to move forward and get yourself into a better place, you have to learn how to cope with your shame in a way that means it will lessen over time. 
 
+How can you do that?
+
 ## Talk to Your Loved Ones About Money
 
 The more we open up about something, the less isolated and ashamed we will feel. I guarantee that you know people who have made the same decisions or been in the same positions as you have. But you won't know that if you don't open up about where you are and where you've been. Feeling alone in our experiences means we will feel isolated and more likely to beat ourselves up.
