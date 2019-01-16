@@ -54,7 +54,9 @@ Progress doesn't always have to mean making huge changes or reaching big goals. 
 
 ## Work With a Professional
 
-Whether it's a therapist, a coach, or a financial planner, sometimes you have to hire a professional. If you've tried to do the things I mentioned above, and you still can't relinquish your money shame, you might need someone to help you. If there are deep, painful issues that you need to work through, a therapist is probably your best bet. If you want to focus on moving forward and implementing solutions, a coach might be best. If you just want someone who will tell you exactly what to do with your money, a financial planner will probably help you the most.
+Whether it's a therapist, a coach, or a financial planner, sometimes you have to hire a professional. If you've tried to do the things I mentioned above, and you still can't relinquish your money shame, you might need to enlist someone to help you. If there are deep, painful issues that you need to work through, a therapist is probably your best bet. If you want to focus on moving forward and identifying and implementing solutions, a coach might be best. If you just want someone who will tell you exactly what to do with your money, a financial planner will probably be the most help.
+
+Good luck!
 
 *If you want to talk to me about financial coaching, [schedule a free discovery call](https://maggiegermanofinancialcoaching.as.me/discovery) today!*
 
