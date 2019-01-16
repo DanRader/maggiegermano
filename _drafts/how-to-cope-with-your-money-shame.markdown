@@ -18,7 +18,7 @@ According to research professor, [Brené Brown](https://brenebrown.com/), there 
 
 Why is that distinction important? According to Brené's research, shame is actually not helpful at all. In fact, it can lead people to destructive and hurtful behavior. Contrarily, guilt can be a motivating emotion. It can encourage people to make more beneficial decisions and change their behavior for the better. Understanding the distinction can change how to speak to our loved ones and influence the language we use when talking about ourselves. 
 
-And what does this have to do with money? Well, shame comes up a lot when it comes to money. In our society, we put a lot of value on financial standing, and we tend to blame ourselves if we aren't keeping up with our peers.
+And what does this have to do with money? Well, shame comes up a lot when it comes to money. In our society, we put a lot of value on financial standing, and we tend to blame ourselves if we aren't keeping up with our peers. When we shame ourselves for our past financial decision or our current financial situation, we can feel incapable of making any changes. If you want to move forward and get yourself into a better place, you have to learn how to cope with your shame in a way that means it will lessen over time. 
 
 ## Talk to Your Loved Ones About Money
 
