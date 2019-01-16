@@ -18,7 +18,9 @@ According to research professor, [Brené Brown](https://brenebrown.com/), there 
 
 Why is that distinction important? According to Brené's research, shame is actually not helpful at all. In fact, it can lead people to destructive and hurtful behavior. Contrarily, guilt can be a motivating emotion. It can encourage people to make more beneficial decisions and change their behavior for the better. Understanding the distinction can change how to speak to our loved ones and influence the language we use when talking about ourselves. 
 
-And what does this have to do with money? Well, shame comes up a lot when it comes to money. In our society, we put a lot of value on financial standing, and we tend to blame ourselves if we aren't keeping up with our peers.
+And what does this have to do with money? Well, shame comes up a lot when it comes to money. In our society, we put a lot of value on financial standing, and we tend to blame ourselves if we aren't keeping up with our peers. When we shame ourselves for our past financial decision or our current financial situation, we can feel incapable of making any changes. If you want to move forward and get yourself into a better place, you have to learn how to cope with your shame in a way that means it will lessen over time. 
+
+How can you do that?
 
 ## Talk to Your Loved Ones About Money
 
@@ -26,11 +28,19 @@ The more we open up about something, the less isolated and ashamed we will feel.
 
 ## Forgive Yourself for Your Past Decisions
 
-I've said it before and I'll say it again: you have to forgive yourself for the financial mistakes you've made in the past. It's normal to be frustrated and wish that you'd done something different, but it won't actually change what happened.
+I've said it before and I'll say it again: you have to forgive yourself for the financial mistakes you've made in the past. It's normal to be frustrated and wish that you'd done something different, but it won't actually change what happened. Now, this is easier said than done. Forgiveness, especially self-forgiveness, isn't just a switch you can flip. 
+
+I recommend coming up with positive affirmations:
+
+* I am not defined by my past decisions
+
+* I am capable of improving my financial life
+
+* I deserve to be free of money shame
 
 ## Make a List of Everything You've Done Well
 
-It's easier to focus on the things we've done wrong and forget about the things that we've done well.
+It's easier to focus on the things we've done wrong and forget about the things that we've done well. I know that I tend to agonize over my perceived shortcomings more often than I praise my successes. So I'm willing  to bet that you do the same. 
 
 ## Recognize That Your Mistakes Can Teach You How to Do Better
 
