@@ -42,7 +42,7 @@ I recommend coming up with positive affirmations and repeating them to yourself 
 
 ## Make a List of Everything You've Done Well
 
-It's easier to focus on the things we've done wrong and forget about the things that we've done well. I know that I tend to agonize over my perceived shortcomings more often than I praise my successes. So I'm willing  to bet that you do the same. 
+It's easier to focus on the things we've done wrong and forget about the things that we've done well. I know that I tend to agonize over my perceived shortcomings more often than I praise my successes. So I'm willing  to bet that you do the same. Sit down and make a list of all of the things that you've done well in your life. It doesn't just have to relate to money, it can be anything. However, an additional step can be to show how you can apply that action to a financial activity. If you're really good at finishing your tasks at work everyday, maybe you can add a financial task to your to-do list at work. 
 
 ## Recognize That Your Mistakes Can Teach You How to Do Better
 
