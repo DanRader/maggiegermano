@@ -14,13 +14,15 @@ Happy Friday! I hope you’re staying warm out there. Here’s what I was up to 
 
 * We have one Airbnb guest this week, who is coming to the DC area for the Women's March.
 
-* x
+* Three new monthly clients paid their initial fees this week!
 
 ## How I Spent Money This Week
 
 * As you know, if you're in the DC area, we got a bunch of snow on Saturday and Sunday. Dan and I needed to replenish some of our groceries, but we didn't want to be on the road. I didn't think we could last a couple days without these items, so I fired up my Instacart account and had groceries delivered. Luckily, the delivery person arrived just as Dan was finishing shoveling our driveway and sidewalk. (Use [my Instacart link](https://inst.cr/t/2SPbdAMbW) for $10 off your first order!)
 
 * One of the amazing wedding gifts we received was free tickets to *Hamilton* on Broadway in New York City! A friend of Dan's family works for one of *Hamilton's* investors, so she was able to get us free tickets for an evening of our choosing. We're going to make a whole weekend of it, so we booked our hotel room near Central Park and our train to and from the city. We used Hotels.com points to discount the room, and we will likely use some of our Capital One Venture points to help pay for the Amtrak.  **Bonus:** [True Crime Obsessed](https://www.truecrimeobsessed.com/) is doing a live show that same weekend, so my sisters are meeting me in NYC and we're going to that show on Saturday night!
+
+* If this past weekend taught me anything, it's that I've become pretty lax when it comes to the weather and I have shamed my snow belt roots. I didn't own any snow boots, which I was painfully reminded of while walking through the unshoveled sidewalks on Monday. I promptly came home and ordered new snow boots from Sorel, as well as some cute booties so I'm not only wearing slip-on shoes without socks. 
 
 ## What I’m Writing
 
@@ -36,13 +38,13 @@ ICYMI: I [republished](https://www.maggiegermano.com/blog/investors-think-they-a
 
 * I'm joining the Bossed Up Bootcamp in DC on January 26th! I'll be leading the salary negotiation training. Use my code to get 20% off your attendance to bootcamp!
 
-* I'm leading the Get Financially Savvy event at General Assembly again this year! Join me (for free!) on Wednesday, February 6th. 
+* I'm leading the Get Financially Savvy event at General Assembly again this year! Join me (for free!) on Wednesday, February 6th.
 
 ## What I'm Excited About
 
 * Dan and I are going to meet a puppy this weekend! There are several corgi mixes available at a local animal rescue, and one of them is so adorable that we reached out to their foster family. We're going to do a meet and greet with the puppy to see if we're a good fit. If all goes well, we may be able to "reserve" the puppy so that we can take him home at the adoption event in early February. Send good vibes and cross your fingers for us!
 
-* I'm joining a new book club! I was in a financial book club (lolz) a few years ago, but haven't joined a new one since that disbanded. A dear from of mine told me about her book club and I'm excited to join it. This year, I'm trying to be more intentional about being social with people I really like and enjoy being around, and I think this is a good start. 
+* I'm joining a new book club! I was in a financial book club (lolz) a few years ago, but haven't joined a new one since that disbanded. A dear from of mine told me about her book club and I'm excited to join it. This year, I'm trying to be more intentional about being social with people I really like and enjoy being around, and I think this is a good start.
 
 ## Money Tip to Take Into the Weekend
 
