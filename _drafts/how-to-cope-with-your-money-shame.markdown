@@ -24,23 +24,25 @@ How can you do that?
 
 ## Talk to Your Loved Ones About Money
 
-The more we open up about something, the less isolated and ashamed we will feel. I guarantee that you know people who have made the same decisions or been in the same positions as you have. But you won't know that if you don't open up about where you are and where you've been. Feeling alone in our experiences means we will feel isolated and more likely to beat ourselves up.
+The more we open up about something, the less isolated and ashamed we will feel. I guarantee that you know people who have made the same decisions or been in the same positions as you have. But you won't know that if you don't open up about where you are and where you've been. Feeling alone in our experiences means we will feel isolated and more likely to beat ourselves up. Opening up about our money struggles will help us find people who are going through the same things, and it will also help break the money taboo within our social circles. 
 
 ## Forgive Yourself for Your Past Decisions
 
 I've said it before and I'll say it again: you have to forgive yourself for the financial mistakes you've made in the past. It's normal to be frustrated and wish that you'd done something different, but it won't actually change what happened. Now, this is easier said than done. Forgiveness, especially self-forgiveness, isn't just a switch you can flip. 
 
-I recommend coming up with positive affirmations. Here are just a few I can think of:
+I recommend coming up with positive affirmations and repeating them to yourself daily. Here are just a few I can think of:
 
-* I am not defined by my past decisions
+* I am not defined by my past decisions.
 
-* I am capable of improving my financial life
+* I am capable of improving my financial life.
 
-* I deserve to be free of money shame
+* I deserve to be free of money shame.
+
+* 
 
 ## Make a List of Everything You've Done Well
 
-It's easier to focus on the things we've done wrong and forget about the things that we've done well. I know that I tend to agonize over my perceived shortcomings more often than I praise my successes. So I'm willing  to bet that you do the same. 
+It's easier to focus on the things we've done wrong and forget about the things that we've done well. I know that I tend to agonize over my perceived shortcomings more often than I praise my successes. So I'm willing  to bet that you do the same. Sit down and make a list of all of the things that you've done well in your life. It doesn't just have to relate to money, it can be anything. However, an additional step can be to show how you can apply that action to a financial activity. If you're really good at finishing your tasks at work everyday, maybe you can add a financial task to your to-do list at work. 
 
 ## Recognize That Your Mistakes Can Teach You How to Do Better
 
@@ -52,7 +54,9 @@ Progress doesn't always have to mean making huge changes or reaching big goals. 
 
 ## Work With a Professional
 
-Whether it's a therapist, a coach, or a financial planner, sometimes you have to hire a professional. If you've tried to do the things I mentioned above, and you still can't relinquish your money shame, you might need someone to help you. If there are deep, painful issues that you need to work through, a therapist is probably your best bet. If you want to focus on moving forward and implementing solutions, a coach might be best. If you just want someone who will tell you exactly what to do with your money, a financial planner will probably help you the most.
+Whether it's a therapist, a coach, or a financial planner, sometimes you have to hire a professional. If you've tried to do the things I mentioned above, and you still can't relinquish your money shame, you might need to enlist someone to help you. If there are deep, painful issues that you need to work through, a therapist is probably your best bet. If you want to focus on moving forward and identifying and implementing solutions, a coach might be best. If you just want someone who will tell you exactly what to do with your money, a financial planner will probably be the most help.
+
+Good luck!
 
 *If you want to talk to me about financial coaching, [schedule a free discovery call](https://maggiegermanofinancialcoaching.as.me/discovery) today!*
 
