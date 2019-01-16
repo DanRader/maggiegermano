@@ -24,7 +24,7 @@ How can you do that?
 
 ## Talk to Your Loved Ones About Money
 
-The more we open up about something, the less isolated and ashamed we will feel. I guarantee that you know people who have made the same decisions or been in the same positions as you have. But you won't know that if you don't open up about where you are and where you've been. Feeling alone in our experiences means we will feel isolated and more likely to beat ourselves up.
+The more we open up about something, the less isolated and ashamed we will feel. I guarantee that you know people who have made the same decisions or been in the same positions as you have. But you won't know that if you don't open up about where you are and where you've been. Feeling alone in our experiences means we will feel isolated and more likely to beat ourselves up. Opening up about our money struggles will help us find people who are going through the same things, and it will also help break the money taboo within our social circles. 
 
 ## Forgive Yourself for Your Past Decisions
 
