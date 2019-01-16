@@ -30,7 +30,7 @@ The more we open up about something, the less isolated and ashamed we will feel.
 
 I've said it before and I'll say it again: you have to forgive yourself for the financial mistakes you've made in the past. It's normal to be frustrated and wish that you'd done something different, but it won't actually change what happened. Now, this is easier said than done. Forgiveness, especially self-forgiveness, isn't just a switch you can flip. 
 
-I recommend coming up with positive affirmations:
+I recommend coming up with positive affirmations. Here are just a few I can think of:
 
 * I am not defined by my past decisions
 
@@ -44,7 +44,7 @@ It's easier to focus on the things we've done wrong and forget about the things 
 
 ## Recognize That Your Mistakes Can Teach You How to Do Better
 
-If we never mess up, we can't learn how to do things better!
+If we never mess up, we can't learn how to do things better! Of course, we often wish we never had to learn our lesson, especially when it comes to money, but using your mistakes as a guide will help you. If you look back at your past financial behavior, pick out the things that hurt you the most. How can you make sure that you don't repeat those behaviors in your life moving forward? Instead of punishing yourself for those mistakes, let them show you what you don't want to do now. 
 
 ## Choose Small Things You Can Start Doing Now
 
