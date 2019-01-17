@@ -21,6 +21,10 @@ Just like with having a child, adopting an animal might cost more money than you
 
 ## Decide If You Want to Buy or Adopt
 
+This is a contentious topic with a lot of people. For many, it is an ethical question. Why buy from a breeder when there are countless animals out there who need to be rescued and adopted? However, sometimes you know exactly what you want, and you won't necessarily be able to find that animal at a rescue. 
+
+There is also a huge difference in terms of affordability. When you choose an animal from a rescue, the fees are going to be lower, and usually the pet is already spayed or neutered and given its shots. When you buy from a breeder, the fees will likely be much higher, and won't always include neutering and shots. That means that on top of the fee, you will also have to pay to have these things done at your local veterinarian. 
+
 ## Save Up the First Year of Expenses
 
 ## Fund an Emergency Savings Account
@@ -29,4 +33,4 @@ Just like with having a child, adopting an animal might cost more money than you
 
 ## Don't Buy All the Cute Items That You See
 
-A few weeks ago, I told my husband that I was worried he'd want to buy every artsy dog accessory he saw. Well, not too long after that, he texted me say that I was right, and that Instagram was targeting him hard with their ads. When I shared that anecdote with friends, one of them warned me not to buy too much stuff for a puppy. She said "they will either destroy it or outgrow it". And this is an important thing to remember! It's easy to get carried away when you have a cute animal at home and want to spoil it with all the shiny things out there. 
+A few weeks ago, I told my husband that I was worried he'd want to buy every artsy dog accessory he saw. Well, not too long after that, he texted me say that I was right, and that Instagram was targeting him hard with their ads. When I shared that anecdote with friends, one of them warned me not to buy too much stuff for a puppy. She said "they will either destroy it or outgrow it". And this is an important thing to remember! It's easy to get carried away when you have a cute animal at home and want to spoil it with all the shiny things out there.
