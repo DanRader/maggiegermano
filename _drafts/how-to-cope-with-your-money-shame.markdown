@@ -54,7 +54,7 @@ If we never mess up, we can't learn how to do things better! Of course, we often
 
 ## Choose Small Things You Can Start Doing Now
 
-Progress doesn't always have to mean making huge changes or reaching big goals. In fact, making progress often means making small, incremental changes that will lead you to a different circumstance.
+Progress doesn't always have to mean making huge changes or reaching big goals. In fact, making progress often means making small, incremental changes that will lead you to a different circumstance. You can't expect yourself to be a completely new person overnight. You have to take small steps towards your bigger goals and be patient with yourself. 
 
 ## Work With a Professional
 
