@@ -40,7 +40,7 @@ I recommend coming up with positive affirmations and repeating them to yourself 
 
 * I deserve to be free of money shame.
 
-* 
+What are a few affirmations that you can repeat to yourself to help you move on from the past?
 
 ## Make a List of Everything You've Done Well
 
