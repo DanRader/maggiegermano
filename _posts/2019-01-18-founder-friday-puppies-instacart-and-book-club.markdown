@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Puppies, Instacart, and Book Club
 date: 2019-01-18 14:00:00 -05:00
+published: false
 image: "/uploads/thought-catalog-575829-unsplash.jpg"
 posts:
 - Founder Friday | Robot Vacuums, Corgis, and Big Goals
@@ -37,8 +38,6 @@ ICYMI: I [republished](https://www.maggiegermano.com/blog/investors-think-they-a
 * I’m running a low-spend month for January among Money Circle members! If you want to join us, make sure you’re in the [Money Circle group](https://www.facebook.com/groups/MoneyCircleGroup), so you can see all my tips and ask for support if you need it!
 
 * I'm joining the [Bossed Up Bootcamp](https://bossedup.org/bootcamp/) in DC on January 26th! I'll be leading the salary negotiation training. Use my code **TRAINER2019** to get 20% off your attendance to bootcamp!
-
-* I'm leading the Get Financially Savvy event at General Assembly again this year! Join me (for free!) on Wednesday, February 6th.
 
 ## What I'm Excited About
 
