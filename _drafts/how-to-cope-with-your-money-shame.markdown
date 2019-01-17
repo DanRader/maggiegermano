@@ -16,19 +16,21 @@ According to research professor, [Brené Brown](https://brenebrown.com/), there 
 
 > To simplify that for you: guilt is the feeling that we've *done* something bad and shame is feeling that *we* are bad.
 
-Why is that distinction important? According to Brené's research, shame is actually not helpful at all. In fact, it can lead people to destructive and hurtful behavior. Contrarily, guilt can be a motivating emotion. It can encourage people to make more beneficial decisions and change their behavior for the better. Understanding the distinction can change how to speak to our loved ones and influence the language we use when talking about ourselves. 
+Why is that distinction important? According to Brené's research, shame is actually not helpful at all. In fact, it can lead people to destructive and hurtful behavior. Contrarily, guilt can be a motivating emotion. It can encourage people to make more beneficial decisions and change their behavior for the better. Understanding the distinction can change how to speak to our loved ones and influence the language we use when talking about ourselves.
 
-And what does this have to do with money? Well, shame comes up a lot when it comes to money. In our society, we put a lot of value on financial standing, and we tend to blame ourselves if we aren't keeping up with our peers. When we shame ourselves for our past financial decision or our current financial situation, we can feel incapable of making any changes. If you want to move forward and get yourself into a better place, you have to learn how to cope with your shame in a way that means it will lessen over time. 
+And what does this have to do with money? Well, shame comes up a lot when it comes to money. In our society, we put a lot of value on financial standing, and we tend to blame ourselves if we aren't keeping up with our peers. When we shame ourselves for our past financial decision or our current financial situation, we can feel incapable of making any changes. If you want to move forward and get yourself into a better place, you have to learn how to cope with your shame in a way that means it will lessen over time.
 
 How can you do that?
 
 ## Talk to Your Loved Ones About Money
 
-The more we open up about something, the less isolated and ashamed we will feel. I guarantee that you know people who have made the same decisions or been in the same positions as you have. But you won't know that if you don't open up about where you are and where you've been. Feeling alone in our experiences means we will feel isolated and more likely to beat ourselves up. Opening up about our money struggles will help us find people who are going through the same things, and it will also help break the money taboo within our social circles. 
+The more we open up about something, the less isolated and ashamed we will feel. I guarantee that you know people who have made the same decisions or been in the same positions as you have. But you won't know that if you don't open up about where you are and where you've been. Feeling alone in our experiences means we will feel isolated and more likely to beat ourselves up. Opening up about our money struggles will help us find people who are going through the same things, and it will also help break the money taboo within our social circles.
+
+You can start this by just being honest when you can't necessarily afford to do something. Tell your friends that you're trying to pay down your credit card, so you're cutting back on dining out. Suggest more affordable socializing options. You might be surprised at how many people you know who are struggling with the same things.
 
 ## Forgive Yourself for Your Past Decisions
 
-I've said it before and I'll say it again: you have to forgive yourself for the financial mistakes you've made in the past. It's normal to be frustrated and wish that you'd done something different, but it won't actually change what happened. Now, this is easier said than done. Forgiveness, especially self-forgiveness, isn't just a switch you can flip. 
+I've said it before and I'll say it again: you have to forgive yourself for the financial mistakes you've made in the past. It's normal to be frustrated and wish that you'd done something different, but it won't actually change what happened. Now, this is easier said than done. Forgiveness, especially self-forgiveness, isn't just a switch you can flip.
 
 I recommend coming up with positive affirmations and repeating them to yourself daily. Here are just a few I can think of:
 
@@ -42,11 +44,11 @@ I recommend coming up with positive affirmations and repeating them to yourself 
 
 ## Make a List of Everything You've Done Well
 
-It's easier to focus on the things we've done wrong and forget about the things that we've done well. I know that I tend to agonize over my perceived shortcomings more often than I praise my successes. So I'm willing  to bet that you do the same. Sit down and make a list of all of the things that you've done well in your life. It doesn't just have to relate to money, it can be anything. However, an additional step can be to show how you can apply that action to a financial activity. If you're really good at finishing your tasks at work everyday, maybe you can add a financial task to your to-do list at work. 
+It's easier to focus on the things we've done wrong and forget about the things that we've done well. I know that I tend to agonize over my perceived shortcomings more often than I praise my successes. So I'm willing  to bet that you do the same. Sit down and make a list of all of the things that you've done well in your life. It doesn't just have to relate to money, it can be anything. However, an additional step can be to show how you can apply that action to a financial activity. If you're really good at finishing your tasks at work everyday, maybe you can add a financial task to your to-do list at work.
 
 ## Recognize That Your Mistakes Can Teach You How to Do Better
 
-If we never mess up, we can't learn how to do things better! Of course, we often wish we never had to learn our lesson, especially when it comes to money, but using your mistakes as a guide will help you. If you look back at your past financial behavior, pick out the things that hurt you the most. How can you make sure that you don't repeat those behaviors in your life moving forward? Instead of punishing yourself for those mistakes, let them show you what you don't want to do now. 
+If we never mess up, we can't learn how to do things better! Of course, we often wish we never had to learn our lesson, especially when it comes to money, but using your mistakes as a guide will help you. If you look back at your past financial behavior, pick out the things that hurt you the most. How can you make sure that you don't repeat those behaviors in your life moving forward? Instead of punishing yourself for those mistakes, let them show you what you don't want to do now.
 
 ## Choose Small Things You Can Start Doing Now
 
