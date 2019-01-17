@@ -1,6 +1,7 @@
 ---
 title: How to Cope with Your Money Shame
 date: 2019-01-21 11:00:00 -05:00
+published: false
 categories:
 - lifestyle
 image: "/uploads/asdrubal-luna-485688-unsplash.jpg"
@@ -54,7 +55,15 @@ If we never mess up, we can't learn how to do things better! Of course, we often
 
 ## Choose Small Things You Can Start Doing Now
 
-Progress doesn't always have to mean making huge changes or reaching big goals. In fact, making progress often means making small, incremental changes that will lead you to a different circumstance. You can't expect yourself to be a completely new person overnight. You have to take small steps towards your bigger goals and be patient with yourself. 
+Progress doesn't always have to mean making huge changes or reaching big goals. In fact, making progress often means making small, incremental changes that will lead you to a different circumstance. You can't expect yourself to be a completely new person overnight. You have to take small steps towards your bigger goals and be patient with yourself. What is one new thing you can start doing this week that will help to improve your financial situation?
+
+Here are some ideas:
+
+* Make a list of all of your monthly expenses, so that you know exactly how much needs to go out every month.
+
+* Sign up for a budget tracking platform like [Mint](www.mint.com), [YNAB](https://www.youneedabudget.com/), or [ClarityMoney](https://claritymoney.com/).
+
+* Take a money minute at least once a week, where you sit down to review your spending and compare it to your monthly budget.
 
 ## Work With a Professional
 
