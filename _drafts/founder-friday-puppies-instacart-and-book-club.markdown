@@ -12,9 +12,9 @@ Happy Friday! I hope you’re staying warm out there. Here’s what I was up to 
 
 ## How I Earned Money This Week
 
-* We have one Airbnb guest this week, who is coming to the DC area for the Women's March.
-
 * Three new monthly clients paid their initial fees this week!
+
+* Another monthly client paid her monthly fee.
 
 ## How I Spent Money This Week
 
@@ -22,7 +22,7 @@ Happy Friday! I hope you’re staying warm out there. Here’s what I was up to 
 
 * One of the amazing wedding gifts we received was free tickets to *Hamilton* on Broadway in New York City! A friend of Dan's family works for one of *Hamilton's* investors, so she was able to get us free tickets for an evening of our choosing. We're going to make a whole weekend of it, so we booked our hotel room near Central Park and our train to and from the city. We used Hotels.com points to discount the room, and we will likely use some of our Capital One Venture points to help pay for the Amtrak.  **Bonus:** [True Crime Obsessed](https://www.truecrimeobsessed.com/) is doing a live show that same weekend, so my sisters are meeting me in NYC and we're going to that show on Saturday night!
 
-* If this past weekend taught me anything, it's that I've become pretty lax when it comes to the weather and I have shamed my snow belt roots. I didn't own any snow boots, which I was painfully reminded of while walking through the unshoveled sidewalks on Monday. I promptly came home and ordered new snow boots from Sorel, as well as some cute booties so I'm not only wearing slip-on shoes without socks. 
+* If this past weekend taught me anything, it's that I've become pretty lax when it comes to the weather and I have shamed my snow belt roots. I didn't own any snow boots, which I was painfully reminded of while walking through the unshoveled sidewalks on Monday. I promptly came home and ordered new snow boots from Sorel, as well as some cute booties so I'm not only wearing slip-on shoes without socks.
 
 ## What I’m Writing
 
@@ -36,7 +36,7 @@ ICYMI: I [republished](https://www.maggiegermano.com/blog/investors-think-they-a
 
 * I’m running a low-spend month for January among Money Circle members! If you want to join us, make sure you’re in the [Money Circle group](https://www.facebook.com/groups/MoneyCircleGroup), so you can see all my tips and ask for support if you need it!
 
-* I'm joining the Bossed Up Bootcamp in DC on January 26th! I'll be leading the salary negotiation training. Use my code to get 20% off your attendance to bootcamp!
+* I'm joining the [Bossed Up Bootcamp](https://bossedup.org/bootcamp/) in DC on January 26th! I'll be leading the salary negotiation training. Use my code **TRAINER2019** to get 20% off your attendance to bootcamp!
 
 * I'm leading the Get Financially Savvy event at General Assembly again this year! Join me (for free!) on Wednesday, February 6th.
 
