@@ -26,7 +26,7 @@ How can you do that?
 
 The more we open up about something, the less isolated and ashamed we will feel. I guarantee that you know people who have made the same decisions or been in the same positions as you have. But you won't know that if you don't open up about where you are and where you've been. Feeling alone in our experiences means we will feel isolated and more likely to beat ourselves up. Opening up about our money struggles will help us find people who are going through the same things, and it will also help break the money taboo within our social circles.
 
-You can start this by just being honest when you can't necessarily afford to do something. Tell your friends that you're trying to pay down your credit card, so you're cutting back on dining out. Suggest more affordable socializing options. 
+You can start this by just being honest when you can't necessarily afford to do something. Tell your friends that you're trying to pay down your credit card, so you're cutting back on dining out. Suggest more affordable socializing options. You might be surprised at how many people you know who are struggling with the same things.
 
 ## Forgive Yourself for Your Past Decisions
 
