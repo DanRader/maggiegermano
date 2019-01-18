@@ -27,13 +27,15 @@ There is also a huge difference in terms of affordability. When you choose an an
 
 ## Save Up the First Year of Expenses
 
-Like I said above, we've seen that the first year of caring for a dog can cost upwards of $1,600. This can include adoption fees, neutering, veterinary visits, food, toys, treats, a crate, etc. Those things can add up very quickly. So it's important to plan ahead and save up that money before the time comes. You don't want to get your pet and then realize that it's going to break your budget to care for it each month. Take some time to save up the number you feel comfortable with before you adopt. 
+Like I said above, we've seen that the first year of caring for a dog can cost upwards of $1,600. This can include adoption fees, neutering, veterinary visits, food, toys, treats, a crate, etc. Those things can add up very quickly. So it's important to plan ahead and save up that money before the time comes. You don't want to get your pet and then realize that it's going to break your budget to care for it each month. Take some time to save up the number you feel comfortable with before you adopt.
 
 ## Fund an Emergency Savings Account
 
+You know I feel very strongly about you having an emergency savings account. 
+
 ## Build the Costs Into Your Monthly Budget
 
-Calculate how much you think you'll spend on food, treats, toys, and pet insurance (more on that below) each month. 
+Calculate how much you think you'll spend on food, treats, toys, and pet insurance (more on that below) each month.
 
 ## Decide If You Need Pet Insurance
 
