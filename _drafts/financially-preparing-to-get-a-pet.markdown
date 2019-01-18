@@ -40,7 +40,7 @@ You know I feel very strongly about you having an [emergency savings account](ht
 
 ## Build the Costs Into Your Monthly Budget
 
-Calculate how much you think you'll spend on food, treats, toys, and pet insurance (more on that below) each month. Set up those costs as a fixed expense in your monthly budget. You can either set up recurring food deliveries so that you know exactly how much you'll be spending on food every month. (Try a website like [Chewy](https://www.chewy.com/).) 
+Calculate how much you think you'll spend on food, treats, toys, and pet insurance (more on that below) each month. Set up those costs as a fixed expense in your monthly budget. You can either set up recurring food deliveries so that you know exactly how much you'll be spending on food every month. (Try a website like [Chewy](https://www.chewy.com/).) If you build these things into your monthly budget, you won't be surprised by them when they arise. 
 
 ## Decide If You Need Pet Insurance
 
