@@ -21,13 +21,19 @@ Just like with having a child, adopting an animal might cost (much) more money t
 
 ## Decide If You Want to Buy or Adopt
 
-This is a contentious topic with a lot of people. For many, it is an ethical question. Why buy from a breeder when there are countless animals out there who need to be rescued and adopted? However, sometimes you know exactly what you want, and you won't necessarily be able to find that animal at a rescue.
+This is a contentious topic with a lot of people. For many, it is an ethical question. Why buy from a breeder when there are countless animals out there who need to be rescued and adopted? Plus, it can be hard to tell if a breeder is on the up and up, or if they are operating a puppy mill. However, sometimes you know exactly what you want, and you won't necessarily be able to find that animal at a rescue.
 
-There is also a huge difference in terms of affordability. When you choose an animal from a rescue, the fees are going to be lower, and usually the pet is already spayed or neutered and given its shots. When you buy from a breeder, the fees will likely be much higher, and won't always include neutering and shots. That means that on top of the fee, you will also have to pay to have these things done at your local veterinarian.
+There is also a huge difference in terms of affordability. When you choose an animal from a rescue, the fees are going to be lower, and usually the pet is already spayed or neutered and given its necessary shots. When you buy from a breeder, the fees will likely be much higher, and won't always include neutering and shots. That means that on top of the fee, you will also have to pay to have these things done at your local veterinarian.
 
 ## Save Up the First Year of Expenses
 
+Like I said above, we've seen that the first year of caring for a dog can cost upwards of $1,600. This can include adoption fees, neutering, veterinary visits, food, toys, treats, a crate, etc. Those things can add up very quickly. So it's important to plan ahead and save up that money before the time comes. You don't want to get your pet and then realize that it's going to break your budget to care for it each month. Take some time to save up the number you feel comfortable with before you adopt. 
+
 ## Fund an Emergency Savings Account
+
+## Build the Costs Into Your Monthly Budget
+
+Calculate how much you think you'll spend on food, treats, toys, and pet insurance (more on that below) each month. 
 
 ## Decide If You Need Pet Insurance
 
