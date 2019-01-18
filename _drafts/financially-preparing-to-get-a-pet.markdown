@@ -5,6 +5,11 @@ categories:
 - lifestyle
 - budget
 image: "/uploads/krista-mangulsone-53122-unsplash.jpg"
+tweet: Thinking about adding a pet to your family? Make sure you are financially prepared!
+posts:
+- Budgeting for the Fun Stuff
+- Budgeting 101
+- How to Create a Budget that Works for You
 ---
 
 As you may have seen in past posts or on social media, my husband and I are in the process of getting a puppy! Dan has desperately wanted a dog for as long as I've known him. I came to the desire more gradually. I grew up with cats and wasn't around dogs very often, unless I was at one of my cousins' houses. I also had a few negative experiences with big dogs when I was younger (and very small), so I've always been a big hesitant when it comes to dogs. Dan wore me down over the years with his exuberance about corgis and now I want one too!
