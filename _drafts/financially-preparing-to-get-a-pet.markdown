@@ -40,7 +40,7 @@ You know I feel very strongly about you having an [emergency savings account](ht
 
 ## Build the Costs Into Your Monthly Budget
 
-Calculate how much you think you'll spend on food, treats, toys, and pet insurance (more on that below) each month.
+Calculate how much you think you'll spend on food, treats, toys, and pet insurance (more on that below) each month. 
 
 ## Decide If You Need Pet Insurance
 
