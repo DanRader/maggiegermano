@@ -27,15 +27,23 @@ There is also a huge difference in terms of affordability. When you choose an an
 
 ## Save Up the First Year of Expenses
 
-Like I said above, we've seen that the first year of caring for a dog can cost upwards of $1,600. This can include adoption fees, neutering, veterinary visits, food, toys, treats, a crate, etc. Those things can add up very quickly. So it's important to plan ahead and save up that money before the time comes. You don't want to get your pet and then realize that it's going to break your budget to care for it each month. Take some time to save up the number you feel comfortable with before you adopt. 
+Like I said above, we've seen that the first year of caring for a dog can cost upwards of $1,600. This can include adoption fees, neutering, veterinary visits, food, toys, treats, a crate, etc. Those things can add up very quickly. So it's important to plan ahead and save up that money before the time comes. You don't want to get your pet and then realize that it's going to break your budget to care for it each month. Take some time to save up the number you feel comfortable with before you adopt.
 
 ## Fund an Emergency Savings Account
 
+You know I feel very strongly about you having an emergency savings account. 
+
 ## Build the Costs Into Your Monthly Budget
 
-Calculate how much you think you'll spend on food, treats, toys, and pet insurance (more on that below) each month. 
+Calculate how much you think you'll spend on food, treats, toys, and pet insurance (more on that below) each month.
 
 ## Decide If You Need Pet Insurance
+
+Pet insurance is exactly what it sounds like. It's health insurance for your pet. One big difference between pet insurance and human health insurance is that it doesn't cover pre-existing conditions. That means that you'll want to get the coverage for your bet before they are even old enough to have pre-existing conditions. One friend of mine told me: "My dog had an upset tummy before insurance kicked in, and now every time he has an upset tummy vet visits aren’t covered." 
+
+So you'll want to decide early if pet insurance is something you'd like to have for your pet. Usually, pet insurance doesn't cover normal preventative pet visits, but it does cover illness, injury, and other issues that can cost a whole lot of money. You will pay a monthly premium in order to protect yourself from huge vet bills later on. It's just like any insurance: you're paying monthly for something that you hope you won't have to use. It can feel like a waste of money if you have a perfectly healthy animal, but your pet won't necessarily stay that way forever. 
+
+Do your research. Compare the prices and offerings of several different insurance companies. See what they cover and what they don't. See what the deductible is, see what the maximum coverage amount is. See what your out-of-pocket maximum is. There are all hugely important, so that you're fully aware of what you're signing up for and can make the decision that is right for you financially.
 
 ## Don't Buy All the Cute Items That You See
 
