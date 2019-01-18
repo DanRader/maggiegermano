@@ -40,7 +40,7 @@ You know I feel very strongly about you having an [emergency savings account](ht
 
 ## Build the Costs Into Your Monthly Budget
 
-Calculate how much you think you'll spend on food, treats, toys, and pet insurance (more on that below) each month. Set up those costs as a fixed expense in your monthly budget. You can either set up recurring food deliveries so that you know exactly how much you'll be spending on food every month. (Try a website like [Chewy](https://www.chewy.com/).) 
+Calculate how much you think you'll spend on food, treats, toys, and pet insurance (more on that below) each month. Set up those costs as a fixed expense in your monthly budget. You can either set up recurring food deliveries so that you know exactly how much you'll be spending on food every month. (Try a website like [Chewy](https://www.chewy.com/).) If you build these things into your monthly budget, you won't be surprised by them when they arise. 
 
 ## Decide If You Need Pet Insurance
 
@@ -52,4 +52,4 @@ Do your research. [Compare](https://www.petinsurancereview.com/dog-insurance) th
 
 ## Don't Buy All the Cute Items That You See
 
-A few weeks ago, I told my husband that I was worried he'd want to buy every artsy dog accessory he saw. Well, not too long after that, he texted me say that I was right, and that Instagram was targeting him hard with their ads. When I shared that anecdote with friends, one of them warned me not to buy too much stuff for a puppy. She said "they will either destroy it or outgrow it". And this is an important thing to remember! It's easy to get carried away when you have a cute animal at home and want to spoil it with all the shiny things out there.
+A few weeks ago, I told my husband that I was worried he'd want to buy every artsy dog accessory he saw. Well, not too long after that, he texted me say that I was right, and that Instagram was targeting him hard with their ads. When I shared that anecdote with friends, one of them warned me not to buy too much stuff for a puppy. She said "they will either destroy it or outgrow it". And this is an important thing to remember! It's easy to get carried away when you have a cute animal at home and want to spoil it with all the shiny things out there. So make a list of the things your animal actually *needs*, and then you can buy other things as you can afford them. 
