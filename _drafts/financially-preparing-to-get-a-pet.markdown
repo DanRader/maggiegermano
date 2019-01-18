@@ -43,7 +43,7 @@ Pet insurance is exactly what it sounds like. It's health insurance for your pet
 
 So you'll want to decide early if pet insurance is something you'd like to have for your pet. Usually, pet insurance doesn't cover normal preventative pet visits, but it does cover illness, injury, and other issues that can cost a whole lot of money. You will pay a monthly premium in order to protect yourself from huge vet bills later on. It's just like any insurance: you're paying monthly for something that you hope you won't have to use. It can feel like a waste of money if you have a perfectly healthy animal, but your pet won't necessarily stay that way forever. 
 
-Do your research. Compare the prices and offerings of several different insurance companies. See what they cover and what they don't. See what the deductible is, see what the maximum coverage amount is. See what your out-of-pocket maximum is. There are all hugely important, so that you're fully aware of what you're signing up for and can make the decision that is right for you financially.
+Do your research. [Compare](https://www.petinsurancereview.com/dog-insurance) the prices and offerings of several different insurance companies. See what they cover and what they don't. See what the deductible is, see what the maximum coverage amount is. See what your out-of-pocket maximum is. There are all hugely important, so that you're fully aware of what you're signing up for and can make the decision that is right for you financially.
 
 ## Don't Buy All the Cute Items That You See
 
