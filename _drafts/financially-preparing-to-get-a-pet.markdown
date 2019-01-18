@@ -36,7 +36,7 @@ Like I said above, we've seen that the first year of caring for a dog can cost u
 
 ## Fund an Emergency Savings Account
 
-You know I feel very strongly about you having an emergency savings account. 
+You know I feel very strongly about you having an [emergency savings account](https://www.maggiegermano.com/blog/you-need-an-emergency-fund). Just like you need to have an emergency fund for your own expenses, you'll want one for your pet's expenses. If you were to lose your job, would you be able to pay for your pet's food or insurance? If you had to pay the deductible for your pet's insurance (more on that below), would you be able to pay for that out of pocket? These are the things you should save up for just in case you find yourself without an income. Include potential pet expenses in your calculations for your emergency fund.
 
 ## Build the Costs Into Your Monthly Budget
 
