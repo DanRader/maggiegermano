@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Puppies, Instacart, and Book Club
 date: 2019-01-18 14:00:00 -05:00
-published: false
 image: "/uploads/thought-catalog-575829-unsplash.jpg"
 posts:
 - Founder Friday | Robot Vacuums, Corgis, and Big Goals
