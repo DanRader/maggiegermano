@@ -1,0 +1,44 @@
+---
+title: Founder Friday | Shame, Money Circle, and Salary Negotiation
+date: 2019-01-25 14:00:00 -05:00
+categories:
+- founder friday
+---
+
+Happy Friday! I hope you’re staying warm out there. Here’s what I was up to this week.
+
+## **How I Earned Money This Week**
+
+* x
+
+* x
+
+## **How I Spent Money This Week**
+
+* x
+
+* x
+
+## **What I’m Writing**
+
+This week's topic was a little heavy, but important to talk about: [money shame](https://www.maggiegermano.com/blog/how-to-cope-with-your-money-shame/). If you know you struggle with feeling ashamed about your financial situation, this post might be for you!
+
+## **What I’m Up To**
+
+* This past Tuesday was January's Money Circle meetup. We sold out (and even had a waiting list), which is always exciting. We set financial goals for 2019, and talked about how to make sure those goals are motivating so that we will actually stick to them. 
+
+* The [February Money Circle event](https://www.eventbrite.com/e/money-circle-showing-your-love-on-a-budget-tickets-54758999642) is scheduled and open for registration! If gift-giving is one of your love languages, this event is for you!
+
+* I’m joining the [Bossed Up Bootcamp](https://bossedup.org/bootcamp/) in DC this weekend! I’ll be leading the salary negotiation training. Use my code **TRAINER2019** to get 20% off your attendance to bootcamp!
+
+## **What I’m Excited About**
+
+* x
+
+* x
+
+## **Money Tip to Take Into the Weekend**
+
+![Enjoy the holiday!.png](/uploads/Enjoy%20the%20holiday!.png)
+
+That’s all from me today! Have a fantastic weekend!
