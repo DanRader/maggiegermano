@@ -5,11 +5,11 @@ categories:
 - founder friday
 ---
 
-Happy Friday! I hope you’re staying warm out there. Here’s what I was up to this week.
+Happy Friday! I hope you’re staying warm and dry out there. Here’s what I was up to this week.
 
 ## **How I Earned Money This Week**
 
-We haven't had any income this week! All my clients are paid up for the month, and Dan's paycheck comes in next week. We haven't had any Airbnb guests in the last couple of months, which I think is related to the shutdown.
+We haven't had any income this week! All my clients are paid up for the month, and Dan's paycheck comes in next week. We haven't had any Airbnb guests in the last couple of months, which I think is related to the shutdown. Luckily, we structure our bills and spending so that we don't have to rely on our Airbnb income. Anything we earn from that goes directly into savings or into a home improvement project. So, though it's frustrating that we aren't getting many guests right now, it's not harming us financially. 
 
 ## **How I Spent Money This Week**
 
