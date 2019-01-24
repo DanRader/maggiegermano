@@ -30,17 +30,17 @@ This week's topic was a little heavy, but important to talk about: [money shame]
 
 * This past Tuesday was January's Money Circle meetup. We sold out (and even had a waiting list), which is always exciting. We set financial goals for 2019, and talked about how to make sure those goals are motivating so that we will actually stick to them.
 
-* I'm participating in General Assembly's Get Money Savvy event again this year. 
-
 * The [February Money Circle event](https://www.eventbrite.com/e/money-circle-showing-your-love-on-a-budget-tickets-54758999642) is scheduled and open for registration! If gift-giving is one of your love languages, this event is for you!
 
 * I’m joining the [Bossed Up Bootcamp](https://bossedup.org/bootcamp/) in DC this weekend! I’ll be leading the salary negotiation training. If you haven't yet attended BUBC, you should learn more about it and ask me any questions you have!
 
+* I've got several events coming up in February and March! On February 6th, I'll be at [General Assembly](https://generalassemb.ly/education/money-matters-get-financially-savvy-in-2019/washington-dc/66002) again, talking about how to be financially savvy in 2019. On March 6th, I will be putting on a [values and money workshop](https://www.eventbrite.com/e/aligning-your-money-with-your-values-tickets-54778910195) at the [Lemon Collective](http://www.wearethelemoncollective.com/). On March 12th, I will be leading a [Making & Breaking the Budget workshop](https://www.eventbrite.com/e/making-breaking-the-budget-tickets-55047193638) at [Mindspace](https://www.mindspace.me/). I hope to see you at one or more of these events!
+
+![IMG_3513.JPG](/uploads/IMG_3513.JPG)
+
 ## **What I’m Excited About**
 
-* Dan and I met that foster puppy last Friday night! He was even more adorable in person and he had the sweetest, most loving personality. Unfortunately, everyone else thinks the same thing, so there are several other families we are competing against. We will find out in the next few days who the foster parent decides will be best for him, and hopefully we can take him home with us on February 2nd. Send good vibes!
-
-* x
+Dan and I met that foster puppy last Friday night! He was even more adorable in person and he had the sweetest, most loving personality. Unfortunately, everyone else thinks the same thing, so there are several other families we are competing against. We will find out in the next few days who the foster parent decides will be best for him, and hopefully we can take him home with us on February 2nd. Send good vibes!
 
 ## **Money Tip to Take Into the Weekend**
 
