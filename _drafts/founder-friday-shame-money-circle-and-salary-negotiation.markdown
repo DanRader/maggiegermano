@@ -4,6 +4,10 @@ date: 2019-01-25 14:00:00 -05:00
 categories:
 - founder friday
 image: "/uploads/rawpixel-711102-unsplash.jpg"
+posts:
+- Founder Friday | Puppies, Instacart, and Book Club
+- Founder Friday | Robot Vacuums, Corgis, and Big Goals
+- Founder Friday | Therapy, Low-Spend January, and Resolutions
 ---
 
 Happy Friday! I hope you’re staying warm and dry out there. Here’s what I was up to this week.
