@@ -15,7 +15,7 @@ We haven't had any income this week! All my clients are paid up for the month, a
 
 * We've spent quite a bit on groceries this week. We aren't going out to eat much, so I don't might going over our usual grocery budget. (Check out the [one number budget](https://www.maggiegermano.com/blog/how-to-use-one-budget-number-to-manage-your-money/) idea to learn more.) 
 
-* x
+* However, we did go to Whole Foods to have lunch from their hot bar on Sunday. We were trying a (failed) home renovation project, and our kitchen was out of commission. 
 
 ## **What I’m Writing**
 
