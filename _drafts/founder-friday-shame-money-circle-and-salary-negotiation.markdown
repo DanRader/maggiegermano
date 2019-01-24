@@ -22,6 +22,8 @@ We haven't had any income this week! All my clients are paid up for the month, a
 
 * However, we did go to Whole Foods to have lunch from their hot bar on Sunday. We were trying a (failed) home renovation project, and our kitchen was out of commission. 
 
+* On Tuesday, I got a haircut and bought a new brand of hair product. 
+
 ## **What I’m Writing**
 
 This week's topic was a little heavy, but important to talk about: [money shame](https://www.maggiegermano.com/blog/how-to-cope-with-your-money-shame/). If you know you struggle with feeling ashamed about your financial situation, this post might be for you!
