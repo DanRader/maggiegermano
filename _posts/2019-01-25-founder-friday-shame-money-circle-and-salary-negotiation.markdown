@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Shame, Money Circle, and Salary Negotiation
 date: 2019-01-25 14:00:00 -05:00
+published: false
 categories:
 - founder friday
 image: "/uploads/rawpixel-711102-unsplash.jpg"
