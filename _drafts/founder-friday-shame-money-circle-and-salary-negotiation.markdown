@@ -9,13 +9,11 @@ Happy Friday! I hope you’re staying warm out there. Here’s what I was up to 
 
 ## **How I Earned Money This Week**
 
-* x
-
-* x
+We haven't had any income this week! All my clients are paid up for the month, and Dan's paycheck comes in next week. We haven't had any Airbnb guests in the last couple of months, which I think is related to the shutdown.
 
 ## **How I Spent Money This Week**
 
-* x
+* We've spent quite a bit on groceries this week. We aren't going out to eat much, so I don't might going over our usual grocery budget. (Check out the [one number budget](https://www.maggiegermano.com/blog/how-to-use-one-budget-number-to-manage-your-money/) idea to learn more.) 
 
 * x
 
