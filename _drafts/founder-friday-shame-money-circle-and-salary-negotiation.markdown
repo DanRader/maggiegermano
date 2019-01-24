@@ -25,15 +25,17 @@ This week's topic was a little heavy, but important to talk about: [money shame]
 
 ## **What I’m Up To**
 
-* This past Tuesday was January's Money Circle meetup. We sold out (and even had a waiting list), which is always exciting. We set financial goals for 2019, and talked about how to make sure those goals are motivating so that we will actually stick to them. 
+* This past Tuesday was January's Money Circle meetup. We sold out (and even had a waiting list), which is always exciting. We set financial goals for 2019, and talked about how to make sure those goals are motivating so that we will actually stick to them.
+
+* I'm participating in General Assembly's Get Money Savvy event again this year. 
 
 * The [February Money Circle event](https://www.eventbrite.com/e/money-circle-showing-your-love-on-a-budget-tickets-54758999642) is scheduled and open for registration! If gift-giving is one of your love languages, this event is for you!
 
-* I’m joining the [Bossed Up Bootcamp](https://bossedup.org/bootcamp/) in DC this weekend! I’ll be leading the salary negotiation training. Use my code **TRAINER2019** to get 20% off your attendance to bootcamp!
+* I’m joining the [Bossed Up Bootcamp](https://bossedup.org/bootcamp/) in DC this weekend! I’ll be leading the salary negotiation training. If you haven't yet attended BUBC, you should learn more about it and ask me any questions you have!
 
 ## **What I’m Excited About**
 
-* x
+* Dan and I met that foster puppy last Friday night! He was even more adorable in person and he had the sweetest, most loving personality. Unfortunately, everyone else thinks the same thing, so there are several other families we are competing against. We will find out in the next few days who the foster parent decides will be best for him, and hopefully we can take him home with us on February 2nd. Send good vibes!
 
 * x
 
