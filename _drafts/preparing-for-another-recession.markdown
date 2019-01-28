@@ -6,7 +6,7 @@ image: "/uploads/rawpixel-660717-unsplash.jpg"
 
 If you've been paying attention to the news lately, or if you've been looking at your 401k in the past six months, you might be worried about our economy. Newscasters have been warning of an impending recession, the stock market has been dropping... my 401k lost more than $10,000 just over a couple months. It can be scary, especially if you're a millennial that graduated into one of the worst recessions we've ever seen.
 
-So even though we can't personally control the economy or prevent a recession, there are things we can do in our own lives. The steps below will protect you if we go into another recession 
+So even though we can't personally control the economy or prevent a recession, there are things we can do in our own lives. The steps below will protect you financially if we go into another recession. 
 
 ## Leave Your Money Alone
 
