@@ -20,7 +20,7 @@ If you're closer to retirement age, then you do want to be a little bit more car
 
 If I've learned anything from the recent government shutdown, it's that even gainfully employed Americans are woefully underprepared for emergency situations. Of course, individual employees should not be punished for the inability of our government to operate properly, but that is what happened. Many of the furloughed federal employees were unable to pay their bills or [buy groceries](https://www.thrillist.com/news/nation/government-shutdown-free-food-deals-furloughed-workers#) after missing two paychecks.
 
-I'm not beating up on federal employees, because [40% of Americans](https://money.cnn.com/2018/05/22/pf/emergency-expenses-household-finances/index.html) would be unable to cover a $400 emergency expense.
+I'm not beating up on federal employees, because [40% of Americans](https://money.cnn.com/2018/05/22/pf/emergency-expenses-household-finances/index.html) would be unable to cover a $400 emergency expense. That means that almost half of us wouldn't be able to support ourselves if the recession cost us to lose our job. This is why it's so important to build up an [emergency savings account](https://www.maggiegermano.com/blog/you-need-an-emergency-fund). Start small and save $400. From there, build up your account to make sure that you have at least enough to cover all of your expenses for three months. If you have children or if you are self-employed, you'll want to have more than that on hand. Having this account fully funded will not only give you peace of mind, but it will protect you and your family if something (like a recession) happens. 
 
 ## Talk to Your Boss
 
