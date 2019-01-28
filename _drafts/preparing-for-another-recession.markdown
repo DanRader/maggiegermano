@@ -26,6 +26,8 @@ Debt payments can often be some of our biggest monthly expenses. They are also p
 
 ## Make a Backup Plan
 
+If you work in a job or industry that can be impacted by an economic downturn, you might need a backup plan. 
+
 **More resources on a potential recession:**
 
 * https://www.forbes.com/sites/raulelizalde/2018/12/17/another-warning-that-a-2019-recession-is-coming/#680ca03ed8f3
