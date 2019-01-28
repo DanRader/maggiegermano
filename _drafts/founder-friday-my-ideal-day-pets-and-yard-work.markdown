@@ -12,7 +12,7 @@ Happy Friday! Here's what I was up to last night.
 
 ## How I Earned Money This Week
 
-x
+* Dan got paid his bi-weekly paycheck.
 
 ## How I Spent Money This Week
 
