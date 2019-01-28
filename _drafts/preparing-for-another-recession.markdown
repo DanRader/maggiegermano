@@ -6,6 +6,8 @@ image: "/uploads/rawpixel-660717-unsplash.jpg"
 
 If you've been paying attention to the news lately, or if you've been looking at your 401k in the past six months, you might be worried about our economy. Newscasters have been warning of an impending recession, the stock market has been dropping... my 401k lost more than $10,000 just over a couple months. It can be scary, especially if you're a millennial that graduated into one of the worst recessions we've ever seen.
 
+So even though we can't personally control the economy or prevent a recession, there are things we can do in our own lives. The steps below will protect you if we go into another recession 
+
 ## Leave Your Money Alone
 
 As I mentioned above, I lost over $10,000 from my 401k in the last quarter of 2018. Well, I shouldn't say "lost", because it will almost certainly recover over time. However, it sure didn't feel good to see my balance drop that much after I worked so hard to save so much money. It can feel tempting in those moments to pull your money out of the stock market and put it somewhere safe. But that's actually the worst thing you can do! The stock market is volatile. It goes up and down all the time. When you're investing for retirement or other long-term goals, you're in it for the long game. The most important thing to do is to leave your money alone and allow it to recover over time. That's what I did and my 401k has already gained more than half of the amount that was lost last year.
