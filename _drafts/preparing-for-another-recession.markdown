@@ -26,7 +26,7 @@ Debt payments can often be some of our biggest monthly expenses. They are also p
 
 ## Make a Backup Plan
 
-More resources on a potential recession:
+**More resources on a potential recession:**
 
 * https://www.forbes.com/sites/raulelizalde/2018/12/17/another-warning-that-a-2019-recession-is-coming/#680ca03ed8f3
 
