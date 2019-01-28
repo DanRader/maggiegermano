@@ -36,8 +36,6 @@ This week, I wrote about something a little more fun! I wrote about how to [fina
 
 * On March 12th, I will be leading a [Making & Breaking the Budget workshop](https://www.eventbrite.com/e/making-breaking-the-budget-tickets-55047193638) at [Mindspace](https://www.mindspace.me/).
 
-x
-
 ## What I’m Excited About
 
 * This Wednesday, I went to a [Creative Boost event](https://www.eventbrite.com/e/creative-boost-how-to-live-your-ideal-life-tickets-55007552069) about creating your ideal day. This is something I have struggled with since going full-time with my business. 
