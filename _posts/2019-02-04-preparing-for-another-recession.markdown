@@ -1,7 +1,14 @@
 ---
 title: Preparing for Another Recession
 date: 2019-02-04 11:00:00 -05:00
+published: false
 image: "/uploads/rawpixel-660717-unsplash.jpg"
+tweet: 'Worried that another recession is coming? Plan ahead for yourself where you
+  can. '
+posts:
+- Why You Need an Emergency Fund
+- How to Get Your Financial Life in Order in 2019
+- How to Use One Budget Number to Manage Your Money
 ---
 
 If you've been paying attention to the news lately, or if you've been looking at your 401k in the past six months, you might be worried about our economy. Newscasters have been warning of an impending recession, the stock market has been dropping... my 401k lost more than $10,000 just over a couple months. It can be scary, especially if you're a millennial that graduated into one of the worst recessions we've ever seen.
@@ -32,7 +39,7 @@ Debt payments can often be some of our biggest monthly expenses. They are also p
 
 ## Make a Backup Plan
 
-If you work in a job or industry that can be impacted by an economic downturn, you might need a backup plan. This backup plan could be your emergency savings account, or it could be an alternative income source. 
+If you work in a job or industry that can be impacted by an economic downturn, you might need a backup plan. This backup plan could be your emergency savings account, or it could be an alternative income source. What would you do to pay your bills if you got laid off or your business took a turn for the worst? 
 
 **More resources on a potential recession:**
 
