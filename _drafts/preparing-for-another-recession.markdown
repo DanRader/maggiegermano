@@ -32,7 +32,7 @@ Debt payments can often be some of our biggest monthly expenses. They are also p
 
 ## Make a Backup Plan
 
-If you work in a job or industry that can be impacted by an economic downturn, you might need a backup plan. 
+If you work in a job or industry that can be impacted by an economic downturn, you might need a backup plan. This backup plan could be your emergency savings account, or it could be an alternative income source. 
 
 **More resources on a potential recession:**
 
