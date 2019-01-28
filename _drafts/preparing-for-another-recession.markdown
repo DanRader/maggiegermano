@@ -8,6 +8,8 @@ If you've been paying attention to the news lately, or if you've been looking at
 
 ## Leave Your Money Alone
 
+As I mentioned above, I lost over $10,000 from my 401k in the last quarter of 2018. Well, I shouldn't say "lost", because it will almost certainly recover over time. However, it sure didn't feel good to see my balance drop that much after I worked so hard to save so much money. It can feel tempting in those moments to pull your money out of the stock market and put it somewhere safe. But that's actually the worst thing you can do! The stock market is volatile. It goes up and down all the time. When you're investing for retirement or other long-term goals, you're in it for the long game. The most important thing to do is to leave your money alone and allow it to recover over time. That's what I did and my 401k has already gained more than half of the amount that was lost last year. 
+
 ## Build Up Your Emergency Fund
 
 If I've learned anything from the recent government shutdown, it's that even gainfully employed Americans are woefully underprepared for emergency situations. Of course, individual employees should not be punished for the inability of our government to operate properly, but that is what happened. Many of the furloughed federal employees were unable to pay their bills or buy groceries after missing two paychecks. 
