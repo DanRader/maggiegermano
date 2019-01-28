@@ -12,7 +12,9 @@ Happy Friday! Here's what I was up to last night.
 
 ## How I Earned Money This Week
 
-x
+* Dan got paid his bi-weekly paycheck.
+
+* x
 
 ## How I Spent Money This Week
 
@@ -20,9 +22,11 @@ x
 
 * We also paid the deposit for a bunch of yard work we're getting done. We are replacing our back privacy fence but we need to get bamboo roots removed first. When we got an estimate done for the bamboo removal, we were also talked into having the whole yard regraded. The yard tends to flood when it rains and we want to prevent any future flooding in the house, so while the contractor is back there digging out the bamboo, he's going to repurpose the soil so that all water flows away from the house. At the same time, the contractor is going to cut down some dead trees, trim away some branches from the house, and tear down our very old garage. It's a huge job that is costing us a lot of money we weren't expecting to spend this year. But we want to do it all the right way, so it's important that we get it done before the fence is put in. From there, it will be much better looking and functional so that we can start gardening and spending more time in the back yard. 
 
+* x
+
 ## What I’m Writing
 
-This week’s topic was a little heavy, but important to talk about: **[money shame](https://www.maggiegermano.com/blog/how-to-cope-with-your-money-shame/)**. If you know you struggle with feeling ashamed about your financial situation, this post might be for you!
+This week, I wrote about something a little more fun! I wrote about how to [financially prepare to add a pet](https://www.maggiegermano.com/blog/financially-preparing-to-get-a-pet/) to your family, and why it's so important to do so. If this is something you want to do in the near future, you should check it out. 
 
 ## What I’m Up To
 
@@ -36,14 +40,12 @@ This week’s topic was a little heavy, but important to talk about: **[money sh
 
 * On March 12th, I will be leading a [Making & Breaking the Budget workshop](https://www.eventbrite.com/e/making-breaking-the-budget-tickets-55047193638) at [Mindspace](https://www.mindspace.me/).
 
-x
-
 ## What I’m Excited About
 
-* This Wednesday, I went to Creative Boost
+* This Wednesday, I went to a [Creative Boost event](https://www.eventbrite.com/e/creative-boost-how-to-live-your-ideal-life-tickets-55007552069) about creating your ideal day. This is something I have struggled with since going full-time with my business. 
 
 ## Money Tip to Take Into the Weekend
 
-x
+![Stay consistent.png](/uploads/Stay%20consistent.png)
 
 That’s all from me today! Have a fantastic weekend!
