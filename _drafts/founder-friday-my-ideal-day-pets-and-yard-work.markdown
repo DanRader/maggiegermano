@@ -14,11 +14,15 @@ Happy Friday! Here's what I was up to last night.
 
 * Dan got paid his bi-weekly paycheck.
 
+* x
+
 ## How I Spent Money This Week
 
 * On Sunday, Dan and I made a Costco run to restock a few items (and also to downgrade our membership and get $60 back). We spent a little bit more than planned, but we won't have to go again for a bunch of months. We also went to Aldi for the first time in years to get a few groceries at a lower price than elsewhere. 
 
 * We also paid the deposit for a bunch of yard work we're getting done. We are replacing our back privacy fence but we need to get bamboo roots removed first. When we got an estimate done for the bamboo removal, we were also talked into having the whole yard regraded. The yard tends to flood when it rains and we want to prevent any future flooding in the house, so while the contractor is back there digging out the bamboo, he's going to repurpose the soil so that all water flows away from the house. At the same time, the contractor is going to cut down some dead trees, trim away some branches from the house, and tear down our very old garage. It's a huge job that is costing us a lot of money we weren't expecting to spend this year. But we want to do it all the right way, so it's important that we get it done before the fence is put in. From there, it will be much better looking and functional so that we can start gardening and spending more time in the back yard. 
+
+* x
 
 ## What I’m Writing
 
