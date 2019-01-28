@@ -8,21 +8,21 @@ If you've been paying attention to the news lately, or if you've been looking at
 
 ## Leave Your Money Alone
 
-As I mentioned above, I lost over $10,000 from my 401k in the last quarter of 2018. Well, I shouldn't say "lost", because it will almost certainly recover over time. However, it sure didn't feel good to see my balance drop that much after I worked so hard to save so much money. It can feel tempting in those moments to pull your money out of the stock market and put it somewhere safe. But that's actually the worst thing you can do! The stock market is volatile. It goes up and down all the time. When you're investing for retirement or other long-term goals, you're in it for the long game. The most important thing to do is to leave your money alone and allow it to recover over time. That's what I did and my 401k has already gained more than half of the amount that was lost last year. 
+As I mentioned above, I lost over $10,000 from my 401k in the last quarter of 2018. Well, I shouldn't say "lost", because it will almost certainly recover over time. However, it sure didn't feel good to see my balance drop that much after I worked so hard to save so much money. It can feel tempting in those moments to pull your money out of the stock market and put it somewhere safe. But that's actually the worst thing you can do! The stock market is volatile. It goes up and down all the time. When you're investing for retirement or other long-term goals, you're in it for the long game. The most important thing to do is to leave your money alone and allow it to recover over time. That's what I did and my 401k has already gained more than half of the amount that was lost last year.
 
 ## Build Up Your Emergency Fund
 
-If I've learned anything from the recent government shutdown, it's that even gainfully employed Americans are woefully underprepared for emergency situations. Of course, individual employees should not be punished for the inability of our government to operate properly, but that is what happened. Many of the furloughed federal employees were unable to pay their bills or buy groceries after missing two paychecks. 
+If I've learned anything from the recent government shutdown, it's that even gainfully employed Americans are woefully underprepared for emergency situations. Of course, individual employees should not be punished for the inability of our government to operate properly, but that is what happened. Many of the furloughed federal employees were unable to pay their bills or buy groceries after missing two paychecks.
 
-I'm not beating up on federal employees, because [40% of Americans](https://money.cnn.com/2018/05/22/pf/emergency-expenses-household-finances/index.html) would be unable to cover a $400 emergency expense. 
+I'm not beating up on federal employees, because [40% of Americans](https://money.cnn.com/2018/05/22/pf/emergency-expenses-household-finances/index.html) would be unable to cover a $400 emergency expense.
 
 ## Talk to Your Boss
 
-In order to maintain your peace of mind, or figure out if you need to find a new job, it's important to know if your job is safe. If a recession is imminent, talk to your boss about the security of your position. 
+In order to maintain your peace of mind, or figure out if you need to find a new job, it's important to know if your job is safe. If a recession is imminent, talk to your boss about the security of your position.
 
-Make a Plan to Pay Down Debt
+## Make a Plan to Pay Down Debt
 
-Debt payments can often be some of our biggest monthly expenses. 
+Debt payments can often be some of our biggest monthly expenses. They are also probably the most frustrating thing to pay when you're struggling to pay your other bills and support yourself. 
 
 ## Make a Backup Plan
 
