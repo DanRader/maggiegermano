@@ -22,7 +22,7 @@ x
 
 ## What I’m Writing
 
-This week’s topic was a little heavy, but important to talk about: **[money shame](https://www.maggiegermano.com/blog/how-to-cope-with-your-money-shame/)**. If you know you struggle with feeling ashamed about your financial situation, this post might be for you!
+This week, I wrote about something a little more fun! I wrote about how to [financially prepare to add a pet](https://www.maggiegermano.com/blog/financially-preparing-to-get-a-pet/) to your family, and why it's so important to do so. If this is something you want to do in the near future, you should check it out. 
 
 ## What I’m Up To
 
