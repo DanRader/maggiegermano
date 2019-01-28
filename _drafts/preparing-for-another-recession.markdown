@@ -24,7 +24,7 @@ I'm not beating up on federal employees, because [40% of Americans](https://mone
 
 ## Talk to Your Boss
 
-In order to maintain your peace of mind, or figure out if you need to find a new job, it's important to know if your job is safe. If a recession is imminent, talk to your boss about the security of your position.
+In order to maintain your peace of mind, or figure out if you need to find a new job, it's important to know if your job is safe. If a recession is imminent, talk to your boss about the security of your position. This is especially true if your industry tends to be impacted negatively by an economic downturn. You'll want to know if you should start applying for other jobs if there will be cuts or layoffs. 
 
 ## Make a Plan to Pay Down Debt
 
@@ -32,7 +32,7 @@ Debt payments can often be some of our biggest monthly expenses. They are also p
 
 ## Make a Backup Plan
 
-If you work in a job or industry that can be impacted by an economic downturn, you might need a backup plan. 
+If you work in a job or industry that can be impacted by an economic downturn, you might need a backup plan. This backup plan could be your emergency savings account, or it could be an alternative income source. 
 
 **More resources on a potential recession:**
 
