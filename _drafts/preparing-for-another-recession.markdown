@@ -22,7 +22,7 @@ In order to maintain your peace of mind, or figure out if you need to find a new
 
 ## Make a Plan to Pay Down Debt
 
-Debt payments can often be some of our biggest monthly expenses. They are also probably the most frustrating thing to pay when you're struggling to pay your other bills and support yourself. 
+Debt payments can often be some of our biggest monthly expenses. They are also probably the most frustrating thing to pay when you're struggling to pay your other bills and support yourself. If you're worried about a future recession, now is a good time to make a plan to pay down your debt. Consumer debt, like credit cards, should take the top priority. This is especially true because typically, you can't request to defer your credit card payments if you lose your job or come under some other kind of financial hardship. This is different from student loans, which you can defer in those types of scenarios. 
 
 ## Make a Backup Plan
 
