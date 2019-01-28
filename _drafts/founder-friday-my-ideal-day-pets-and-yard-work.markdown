@@ -40,10 +40,10 @@ x
 
 ## What I’m Excited About
 
-* This Wednesday, I went to Creative Boost
+* This Wednesday, I went to a [Creative Boost event](https://www.eventbrite.com/e/creative-boost-how-to-live-your-ideal-life-tickets-55007552069) about creating your ideal day. This is something I have struggled with since going full-time with my business. 
 
 ## Money Tip to Take Into the Weekend
 
-x
+![Stay consistent.png](/uploads/Stay%20consistent.png)
 
 That’s all from me today! Have a fantastic weekend!
