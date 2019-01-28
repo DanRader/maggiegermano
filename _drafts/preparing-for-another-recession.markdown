@@ -10,6 +10,10 @@ If you've been paying attention to the news lately, or if you've been looking at
 
 ## Build Up Your Emergency Fund
 
+If I've learned anything from the recent government shutdown, it's that even gainfully employed Americans are woefully underprepared for emergency situations. Of course, individual employees should not be punished for the inability of our government to operate properly, but that is what happened. Many of the furloughed federal employees were unable to pay their bills or buy groceries after missing two paychecks. 
+
+I'm not beating up on federal employees, because [40% of Americans](https://money.cnn.com/2018/05/22/pf/emergency-expenses-household-finances/index.html) would be unable to cover a $400 emergency expense. 
+
 ## Talk to Your Boss
 
 ## Make a Backup Plan
