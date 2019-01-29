@@ -44,6 +44,8 @@ This week, I wrote about something a little more fun! I wrote about how to [fina
 
 * This Wednesday, I went to a [Creative Boost event](https://www.eventbrite.com/e/creative-boost-how-to-live-your-ideal-life-tickets-55007552069) about creating your ideal day. This is something I have struggled with since going full-time with my business.
 
+* x
+
 ## Money Tip to Take Into the Weekend
 
 ![Stay consistent.png](/uploads/Stay%20consistent.png)
