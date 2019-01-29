@@ -18,15 +18,15 @@ Happy Friday! Here's what I was up to last night.
 
 ## How I Spent Money This Week
 
-* On Sunday, Dan and I made a Costco run to restock a few items (and also to downgrade our membership and get $60 back). We spent a little bit more than planned, but we won't have to go again for a bunch of months. We also went to Aldi for the first time in years to get a few groceries at a lower price than elsewhere. 
+* On Sunday, Dan and I made a Costco run to restock a few items (and also to downgrade our membership and get $60 back). We spent a little bit more than planned, but we won't have to go again for a bunch of months. We also went to Aldi for the first time in years to get a few groceries at a lower price than elsewhere.
 
-* We also paid the deposit for a bunch of yard work we're getting done. We are replacing our back privacy fence but we need to get bamboo roots removed first. When we got an estimate done for the bamboo removal, we were also talked into having the whole yard regraded. The yard tends to flood when it rains and we want to prevent any future flooding in the house, so while the contractor is back there digging out the bamboo, he's going to repurpose the soil so that all water flows away from the house. At the same time, the contractor is going to cut down some dead trees, trim away some branches from the house, and tear down our very old garage. It's a huge job that is costing us a lot of money we weren't expecting to spend this year. But we want to do it all the right way, so it's important that we get it done before the fence is put in. From there, it will be much better looking and functional so that we can start gardening and spending more time in the back yard. 
+* We bought a new dresser for our bedroom. For the last year or so, we've been sharing the dresser that I used to use just for myself. Things are pretty cramped and it's making it so that we don't feel very organized. If all of our clothes are clean, they barely fit in the drawers. So we bought a new, bigger one that will look great in our bedroom. I'm excited to put it together!
 
-* x
+* We also paid the deposit for a bunch of yard work we're getting done. We are replacing our back privacy fence but we need to get bamboo roots removed first. When we got an estimate done for the bamboo removal, we were also talked into having the whole yard regraded. The yard tends to flood when it rains and we want to prevent any future flooding in the house, so while the contractor is back there digging out the bamboo, he's going to repurpose the soil so that all water flows away from the house. At the same time, the contractor is going to cut down some dead trees, trim away some branches from the house, and tear down our very old garage. It's a huge job that is costing us a lot of money we weren't expecting to spend this year. But we want to do it all the right way, so it's important that we get it done before the fence is put in. From there, it will be much better looking and functional so that we can start gardening and spending more time in the back yard.
 
 ## What I’m Writing
 
-This week, I wrote about something a little more fun! I wrote about how to [financially prepare to add a pet](https://www.maggiegermano.com/blog/financially-preparing-to-get-a-pet/) to your family, and why it's so important to do so. If this is something you want to do in the near future, you should check it out. 
+This week, I wrote about something a little more fun! I wrote about how to [financially prepare to add a pet](https://www.maggiegermano.com/blog/financially-preparing-to-get-a-pet/) to your family, and why it's so important to do so. If this is something you want to do in the near future, you should check it out.
 
 ## What I’m Up To
 
@@ -42,7 +42,7 @@ This week, I wrote about something a little more fun! I wrote about how to [fina
 
 ## What I’m Excited About
 
-* This Wednesday, I went to a [Creative Boost event](https://www.eventbrite.com/e/creative-boost-how-to-live-your-ideal-life-tickets-55007552069) about creating your ideal day. This is something I have struggled with since going full-time with my business. 
+* This Wednesday, I went to a [Creative Boost event](https://www.eventbrite.com/e/creative-boost-how-to-live-your-ideal-life-tickets-55007552069) about creating your ideal day. This is something I have struggled with since going full-time with my business.
 
 ## Money Tip to Take Into the Weekend
 
