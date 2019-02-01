@@ -1,6 +1,8 @@
 ---
 title: Founder Friday | My Ideal Day, Pets, and Yard Work
 date: 2019-02-01 14:00:00 -05:00
+categories:
+- founder friday
 image: "/uploads/randy-fath-720450-unsplash.jpg"
 posts:
 - Founder Friday | Shame, Money Circle, and Salary Negotiation
@@ -12,9 +14,7 @@ Happy Friday! Here's what I was up to last night.
 
 ## How I Earned Money This Week
 
-* Dan got paid his bi-weekly paycheck.
-
-* x
+Dan got paid his bi-weekly paycheck on Thursday.
 
 ## How I Spent Money This Week
 
@@ -42,9 +42,7 @@ This week, I wrote about something a little more fun! I wrote about how to [fina
 
 ## What I’m Excited About
 
-* This Wednesday, I went to a [Creative Boost event](https://www.eventbrite.com/e/creative-boost-how-to-live-your-ideal-life-tickets-55007552069) about creating your ideal day. This is something I have struggled with since going full-time with my business.
-
-* x
+This Wednesday, I went to a [Creative Boost event](https://www.eventbrite.com/e/creative-boost-how-to-live-your-ideal-life-tickets-55007552069) about creating your ideal day. This is something I have struggled with since going full-time with my business. I walked away with some great tips!
 
 ## Money Tip to Take Into the Weekend
 
