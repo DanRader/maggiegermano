@@ -12,3 +12,12 @@ posts:
 - What Survivors Wish You Knew About Financial Abuse
 ---
 
+Affirmative action/college admission
+
+Redlining
+
+Gerrymandering
+
+Welfare
+
+Prison industrial complex
