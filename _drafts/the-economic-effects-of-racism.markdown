@@ -21,3 +21,13 @@ Gerrymandering
 Welfare
 
 Prison industrial complex
+
+**More resources:**
+
+* https://www.urban.org/features/structural-racism-america
+
+* https://eand.co/the-economic-consequences-of-racism-3648789f0b0e
+
+* https://www.washingtonpost.com/news/get-there/wp/2017/08/17/the-economic-impact-of-racism/?utm_term=.b159de316c43
+
+* http://nymag.com/intelligencer/2017/09/the-american-economy-isnt-getting-any-less-racist.html 
