@@ -10,7 +10,7 @@ posts:
 - How To Become The Ultimate Gift-Giver (Without Going Broke)
 ---
 
-It's almost Valentine's Day! That means you're being inundated with ads from companies that sell diamonds, flowers, chocolates, and more. 
+It's almost Valentine's Day! That means you're being inundated with ads from companies that sell diamonds, flowers, chocolates, and more. It means you're probably feeling pressured or tempted to buy something for a loved one that you may or may not be able to afford. 
 
 ## Make a Meal
 
