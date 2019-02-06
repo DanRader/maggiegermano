@@ -35,3 +35,5 @@ Do you have favorite photos that you would love to see hanging up in your friend
 ## Have a Movie Night
 
 One of my dear friends and I keep saying we need to have a Jim Carrey movie night (we both have a childhood love for him and Ace Ventura). We want to make it a whole event, where we eat dinner together, make snacks, and watch or favorite Jim Carrey movies. 
+
+Happy Valentine's Day! I hope you're able to show someone that you love them!
