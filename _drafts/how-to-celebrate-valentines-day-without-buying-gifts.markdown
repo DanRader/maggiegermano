@@ -33,3 +33,5 @@ Spoiler alert, but this is my gift plan for many holidays and special occasions 
 Do you have favorite photos that you would love to see hanging up in your friends' homes? It's so affordable and easy to order prints these days. I use [Snapfish](http://www.snapfish.com), but there's also [Shutterfly](www.shutterfly.com) and the traditional places like Walgreens and CVS! 
 
 ## Have a Movie Night
+
+One of my dear friends and I keep saying we need to have a Jim Carrey movie night (we both have a childhood love for him and Ace Ventura). We want to make it a whole event, where we eat dinner together, make snacks, and watch or favorite Jim Carrey movies. 
