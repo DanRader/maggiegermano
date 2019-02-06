@@ -14,9 +14,17 @@ It's almost Valentine's Day! That means you're being inundated with ads from com
 
 ## Make a Meal
 
+One of my favorite things to do is have friends over to my house for a meal. It can be dinner or brunch, it doesn't really matter. The important part is that we're taking the time to be together. I actually enjoy this more than going to a restaurant for a meal, because we can whatever we want and drink as much as we want, and we don't have to worry about the bill being too high. 
+
+If you want to show your loved ones how much you care about them, but you don't have the budget for a fancy restaurant, make them a meal! If you want to make it even more special, find out what their favorite dishes are and surprise them with those. 
+
 ## Bake Cookies
 
+I don't know about you, but I love getting containers filled with tasty treats around the holidays. 
+
 ## Write a Card
+
+Even more than a thoughtful gift, I love receiving thoughtful, handwritten cards in the mail. I also love sending them. It's an opportunity to really be honest about how grateful you are to have someone in your life. 
 
 ## Frame a Photo
 
