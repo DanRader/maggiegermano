@@ -28,4 +28,8 @@ Even more than a thoughtful gift, I love receiving thoughtful, handwritten cards
 
 ## Frame a Photo
 
+Spoiler alert, but this is my gift plan for many holidays and special occasions in 2019. Since I got married in November, I have a ton of amazing photos of and with some of my very favorite people. Now that everything is digital, many of us forget to print out and hang photos around the house. I've printed out a bunch of my favorite wedding photos and I'll be framing and sending them to my loved ones throughout the year.
+
+Do you have favorite photos that you would love to see hanging up in your friends' homes? It's so affordable and easy to order prints these days. I use [Snapfish](http://www.snapfish.com), but there's also [Shutterfly](www.shutterfly.com) and the traditional places like Walgreens and CVS! 
+
 ## Have a Movie Night
