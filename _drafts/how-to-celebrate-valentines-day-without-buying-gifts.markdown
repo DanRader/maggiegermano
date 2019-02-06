@@ -10,7 +10,7 @@ posts:
 - How To Become The Ultimate Gift-Giver (Without Going Broke)
 ---
 
-It's almost Valentine's Day! That means you're being inundated with ads from companies that sell diamonds, flowers, chocolates, and more. It also means you're probably feeling pressured or tempted to buy something for a loved one that you may or may not be able to afford. Plus, as I wrote about at the holidays, maybe you or your loved ones don't really want to give or receive physical gifts. Well, I have some good news for you: you can celebrate Valentine's Day (and any other special day) without buying an expensive gifts. Here's how:
+It's almost Valentine's Day! That means you're being inundated with ads from companies that sell diamonds, flowers, chocolates, and more. It also means you're probably feeling pressured or tempted to buy something for a loved one that you may or may not be able to afford. Plus, as I wrote about at the holidays, maybe you or your loved ones don't really want to give or receive physical gifts. Well, I have some good news for you: you can celebrate Valentine's Day (and any other special day) without buying expensive gifts. Here's how:
 
 ## Make a Meal
 
