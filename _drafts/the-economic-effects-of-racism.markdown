@@ -12,6 +12,8 @@ posts:
 - What Survivors Wish You Knew About Financial Abuse
 ---
 
+February is Black History Month in the United States. 
+
 Affirmative action/college admission
 
 Redlining
@@ -30,4 +32,4 @@ Prison industrial complex
 
 * https://www.washingtonpost.com/news/get-there/wp/2017/08/17/the-economic-impact-of-racism/?utm_term=.b159de316c43
 
-* http://nymag.com/intelligencer/2017/09/the-american-economy-isnt-getting-any-less-racist.html 
+* http://nymag.com/intelligencer/2017/09/the-american-economy-isnt-getting-any-less-racist.html
