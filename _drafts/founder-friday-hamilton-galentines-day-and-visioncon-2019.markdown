@@ -10,3 +10,44 @@ posts:
 - Founder Friday | Puppies, Instacart, and Book Club
 ---
 
+Happy Friday! I hope you're staying dry and warm out there. Here’s what I was up to this past week.
+
+## **How I Earned Money This Week**
+
+* Three of my clients' monthly payments went through this week. 
+
+* Dan's bi-weekly paycheck came in today.
+
+* We had a slowdown with our Airbnb over the past month, but we luckily have guests this weekend! They are staying for two nights and hopefully things will pick up again.
+
+## **How I Spent Money This Week**
+
+* Groceries
+
+* x
+
+## **What I’m Writing**
+
+gifts
+
+## **What I’m Up To**
+
+* opp loans
+
+* vision con
+
+* lemon collective
+
+* mindspace
+
+* money circle
+
+## **What I’m Excited About**
+
+* Hamilton
+
+* 
+
+## **Money Tip to Take Into the Weekend**
+
+That’s all from me today! Have a fantastic weekend!
