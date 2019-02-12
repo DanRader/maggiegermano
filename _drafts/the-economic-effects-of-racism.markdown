@@ -12,17 +12,23 @@ posts:
 - What Survivors Wish You Knew About Financial Abuse
 ---
 
-February is Black History Month in the United States. 
+February is Black History Month in the United States. Of course, as a nation, we should be celebrating the history and contributions of Black Americans everyday. But unfortunately, people of color are still viewed as a minority interest group in our society, so we have to create specific dates to center them. 
 
-Affirmative action/college admission
+## College Admissions
 
-Redlining
+## Redlining
 
-Gerrymandering
+## Gerrymandering
 
-Welfare
+## Welfare
 
-Prison industrial complex
+## The Prison Industrial Complex
+
+## The Racial Wage Gap
+
+I've written a lot about the gender wage gap, but there is also a racial wage gap. And of course, half of people of color are also women, so there is a double wage gap for them. 
+
+## Racism in Medicine
 
 **More resources:**
 
