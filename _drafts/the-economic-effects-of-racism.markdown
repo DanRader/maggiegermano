@@ -38,6 +38,8 @@ I've written a lot about the gender wage gap, but there is also a racial wage ga
 
 ## Racism in Medicine
 
+Access to affordable, effective healthcare is a human right. 
+
 **More resources:**
 
 * https://www.urban.org/features/structural-racism-america
