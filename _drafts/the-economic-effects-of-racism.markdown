@@ -12,17 +12,23 @@ posts:
 - What Survivors Wish You Knew About Financial Abuse
 ---
 
-February is Black History Month in the United States. 
+February is Black History Month in the United States.
 
-Affirmative action/college admission
+## College Admissions
 
-Redlining
+## Redlining
 
-Gerrymandering
+## Gerrymandering
 
-Welfare
+## Welfare
 
-Prison industrial complex
+## The Prison Industrial Complex
+
+## The Racial Wage Gap
+
+## Racism in Medicine
+
+
 
 **More resources:**
 
