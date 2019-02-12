@@ -12,7 +12,7 @@ posts:
 - What Survivors Wish You Knew About Financial Abuse
 ---
 
-February is Black History Month in the United States.
+February is Black History Month in the United States. Of course, as a nation, we should be celebrating the history and contributions of Black Americans everyday. But unfortunately, people of color are still viewed as a minority interest group in our society, so we have to create specific dates to center them. 
 
 ## College Admissions
 
@@ -27,8 +27,6 @@ February is Black History Month in the United States.
 ## The Racial Wage Gap
 
 ## Racism in Medicine
-
-
 
 **More resources:**
 
