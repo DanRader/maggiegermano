@@ -26,6 +26,8 @@ February is Black History Month in the United States. Of course, as a nation, we
 
 ## The Racial Wage Gap
 
+I've written a lot about the gender wage gap, but there is also a racial wage gap. And of course, half of people of color are also women, so there is a double wage gap for them. 
+
 ## Racism in Medicine
 
 **More resources:**
