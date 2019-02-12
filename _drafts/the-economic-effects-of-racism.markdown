@@ -47,3 +47,7 @@ I've written a lot about the gender wage gap, but there is also a racial wage ga
 * https://www.washingtonpost.com/news/get-there/wp/2017/08/17/the-economic-impact-of-racism/?utm_term=.b159de316c43
 
 * http://nymag.com/intelligencer/2017/09/the-american-economy-isnt-getting-any-less-racist.html
+
+* https://www.thebalance.com/definition-of-redlining-1798618
+
+* https://www.washingtonpost.com/news/wonk/wp/2018/03/28/redlining-was-banned-50-years-ago-its-still-hurting-minorities-today/?noredirect=on&utm_term=.6e896abbbc99 
