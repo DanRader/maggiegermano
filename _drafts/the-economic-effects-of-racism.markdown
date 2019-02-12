@@ -18,6 +18,8 @@ Money touches every part of our lives. We need it in order to survive. We need i
 
 ## College Admissions
 
+I'm sure you've heard of affirmative action, which is the policy of promoting the education and employment of members of groups that have previously suffered from discrimination. 
+
 ## Redlining
 
 ## Gerrymandering
