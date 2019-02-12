@@ -12,7 +12,7 @@ posts:
 - What Survivors Wish You Knew About Financial Abuse
 ---
 
-February is Black History Month in the United States. Of course, as a nation, we should be celebrating the history and contributions of Black Americans everyday. But unfortunately, people of color are still viewed as a minority interest group in our society, so we have to create specific dates to center them. 
+February is [Black History Month](https://www.africanamericanhistorymonth.gov/) in the United States. Of course, as a nation, we should be celebrating the history and contributions of Black Americans everyday. But unfortunately, people of color are still viewed as a minority interest group in our society, so we have to create specific dates to center them. 
 
 In honor of this month, I want to focus on the long-lasting economic effects of racism. Money touches every part of our lives. We need it in order to survive. We need it in order to thrive. Whether or not we have it affects what we have access to. 
 
