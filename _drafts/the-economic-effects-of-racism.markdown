@@ -22,6 +22,10 @@ I'm sure you've heard of affirmative action, which is the policy of promoting th
 
 ## Redlining
 
+Have you ever wondered why poor neighborhoods are disproportionately black? 
+
+*(If you feel you have been a victim of redlining and want to file a Fair Housing Complaint, you can do so online for free at [portal.hud.gov](https://www.hud.gov/).)*
+
 ## Gerrymandering
 
 ## Welfare
