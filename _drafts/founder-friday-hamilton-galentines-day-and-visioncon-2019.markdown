@@ -14,7 +14,7 @@ Happy Friday! I hope you're staying dry and warm out there. Here’s what I was 
 
 ## **How I Earned Money This Week**
 
-* Three of my clients' monthly payments went through this week. 
+* Three of my clients' monthly payments went through this week.
 
 * Dan's bi-weekly paycheck came in today.
 
@@ -41,6 +41,8 @@ gifts
 * mindspace
 
 * money circle
+
+* medium
 
 ## **What I’m Excited About**
 
