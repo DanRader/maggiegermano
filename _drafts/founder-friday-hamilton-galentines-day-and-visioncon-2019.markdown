@@ -50,7 +50,7 @@ Happy Friday! I hope you're staying dry and warm out there. Here’s what I was 
 
 ## **What I’m Excited About**
 
-* Hamilton
+* This didn't technically happen this week but I have to write about it! Last Friday, Dan and I traveled up to NYC to go see Hamilton on Broadway! I've been obsessed with the soundtrack for years and had assumed I would never actually get to see it on stage. 
 
 * 
 
