@@ -40,15 +40,13 @@ Happy Friday! I hope you're staying dry and warm out there. Here’s what I was 
 
 * I was quoted in an [OppLoans](https://www.opploans.com/blog/should-income-matter-when-choosing-a-partner/?fbclid=IwAR36UL_VtjTe7cxZfhcGWoZU6C6Ll7AgFm6ZhaUQ__WxCfCKlp0DDlh14Mc) article about whether or not you should consider income when choosing a romantic partner.
 
-* vision con
+* Tomorrow, I'm on a panel at [VisionCon 2019](https://www.eventbrite.com/e/visioncon-2019-tickets-53412826201)! I'm excited to join a room full of amazing women who are ready to plan for their future.
 
-* lemon collective
+* On Wednesday, March 6th, I will be at the Lemon Collective leading a workshop on how to align your money with your values. 
 
 * mindspace
 
 * money circle
-
-* medium
 
 ## **What I’m Excited About**
 
