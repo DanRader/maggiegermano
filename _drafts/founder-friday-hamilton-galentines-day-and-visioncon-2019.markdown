@@ -18,37 +18,41 @@ Happy Friday! I hope you're staying dry and warm out there. Here’s what I was 
 
 * Dan's bi-weekly paycheck came in today.
 
-* We had a slowdown with our Airbnb over the past month, but we luckily have guests this weekend! They are staying for two nights and hopefully things will pick up again.
+* We had a slowdown with our Airbnb over the past month, but we luckily had guests during the week and more guests this weekend! We're hoping that's a sign that travel to the area will pick up again.
 
 ## **How I Spent Money This Week**
 
 * Groceries
 
-* x
+* Valentine's Day gifts
+
+* Money Circle snacks
 
 ## **What I’m Writing**
 
-gifts
+* An important topic to me is learning how to show your love without blowing your budget. This week, I wrote about [how to celebrate](https://www.maggiegermano.com/blog/how-to-celebrate-valentines-day-without-buying-gifts/) occasions like Valentine's Day without necessarily buying a gift. 
+
+* I also published a new ForbesWomen piece about the disconnect between those who believe they should have their end-of-life affairs in order and those who actually follow through with it. 
 
 ## **What I’m Up To**
 
-* opp loans
+* This week, I was featured as a "Female Disruptor" as part of a series on [Medium](https://medium.com/authority-magazine/female-disruptors-maggie-germano-is-highlighting-the-correlation-between-money-and-womens-rights-805be79cd0e5?fbclid=IwAR04Br83ilD1FZnfCjZQbB1jL9Dn0kutpPeGhfo9P6zuGplp7-aGQC401bE).
 
-* vision con
+* I was quoted in an [OppLoans](https://www.opploans.com/blog/should-income-matter-when-choosing-a-partner/?fbclid=IwAR36UL_VtjTe7cxZfhcGWoZU6C6Ll7AgFm6ZhaUQ__WxCfCKlp0DDlh14Mc) article about whether or not you should consider income when choosing a romantic partner.
 
-* lemon collective
+* Tomorrow, I'm on a panel at [VisionCon 2019](https://www.eventbrite.com/e/visioncon-2019-tickets-53412826201)! I'm excited to join a room full of amazing women who are ready to plan for their future.
+
+* On Wednesday, March 6th, I will be at the Lemon Collective leading a workshop on how to align your money with your values. 
 
 * mindspace
 
 * money circle
 
-* medium
-
 ## **What I’m Excited About**
 
-* Hamilton
+* This didn't technically happen this week but I have to write about it! Last Friday, Dan and I traveled up to NYC to go see Hamilton on Broadway! I've been obsessed with the soundtrack for years and had assumed I would never actually get to see it on stage. Luckily, a family friend of Dan's works for a Broadway producer and is able to get free tickets for almost any show. After she heard us play three different Hamilton songs at our wedding reception, she offered free tickets to us as our wedding gift. We were finally able to make it up to NYC last weekend to see the show. It was amazing and I cried the entire time.
 
-* 
+* A quote of mine is featured on the cover of the new [HerStry journal](http://herstryblg.com/marketplace/herstry-journal-coming-soon?fbclid=IwAR1FFkwA27hFZqMBOpf32UMT0oJbntBVR0GrgNCIMPCKlJPUqgJVIYF3pic)! I was interviewed by HerStry last year and one of my quotes from that piece was chosen for the cover. If you use my code MAGGIE, you can get 30% off of the journal!
 
 ## **Money Tip to Take Into the Weekend**
 
