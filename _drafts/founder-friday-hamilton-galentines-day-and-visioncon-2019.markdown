@@ -50,7 +50,7 @@ Happy Friday! I hope you're staying dry and warm out there. Here’s what I was 
 
 ## **What I’m Excited About**
 
-* This didn't technically happen this week but I have to write about it! Last Friday, Dan and I traveled up to NYC to go see Hamilton on Broadway! I've been obsessed with the soundtrack for years and had assumed I would never actually get to see it on stage. 
+* This didn't technically happen this week but I have to write about it! Last Friday, Dan and I traveled up to NYC to go see Hamilton on Broadway! I've been obsessed with the soundtrack for years and had assumed I would never actually get to see it on stage. Luckily, a family friend of Dan's works for a Broadway producer and is able to get free tickets for almost any show. After she heard us play three different Hamilton songs at our wedding reception, she offered free tickets to us as our wedding gift. We were finally able to make it up to NYC last weekend to see the show. It was amazing and I cried the entire time.
 
 * 
 
