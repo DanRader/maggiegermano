@@ -36,7 +36,9 @@ Happy Friday! I hope you're staying dry and warm out there. Here’s what I was 
 
 ## **What I’m Up To**
 
-* opp loans
+* This week, I was featured as a "Female Disruptor" as part of a series on [Medium](https://medium.com/authority-magazine/female-disruptors-maggie-germano-is-highlighting-the-correlation-between-money-and-womens-rights-805be79cd0e5?fbclid=IwAR04Br83ilD1FZnfCjZQbB1jL9Dn0kutpPeGhfo9P6zuGplp7-aGQC401bE).
+
+* I was quoted in an [OppLoans](https://www.opploans.com/blog/should-income-matter-when-choosing-a-partner/?fbclid=IwAR36UL_VtjTe7cxZfhcGWoZU6C6Ll7AgFm6ZhaUQ__WxCfCKlp0DDlh14Mc) article about whether or not you should consider income when choosing a romantic partner.
 
 * vision con
 
@@ -52,7 +54,7 @@ Happy Friday! I hope you're staying dry and warm out there. Here’s what I was 
 
 * This didn't technically happen this week but I have to write about it! Last Friday, Dan and I traveled up to NYC to go see Hamilton on Broadway! I've been obsessed with the soundtrack for years and had assumed I would never actually get to see it on stage. Luckily, a family friend of Dan's works for a Broadway producer and is able to get free tickets for almost any show. After she heard us play three different Hamilton songs at our wedding reception, she offered free tickets to us as our wedding gift. We were finally able to make it up to NYC last weekend to see the show. It was amazing and I cried the entire time.
 
-* 
+* A quote of mine is featured on the cover of the new [HerStry journal](http://herstryblg.com/marketplace/herstry-journal-coming-soon?fbclid=IwAR1FFkwA27hFZqMBOpf32UMT0oJbntBVR0GrgNCIMPCKlJPUqgJVIYF3pic)! I was interviewed by HerStry last year and one of my quotes from that piece was chosen for the cover. If you use my code MAGGIE, you can get 30% off of the journal!
 
 ## **Money Tip to Take Into the Weekend**
 
