@@ -18,17 +18,21 @@ Happy Friday! I hope you're staying dry and warm out there. Here’s what I was 
 
 * Dan's bi-weekly paycheck came in today.
 
-* We had a slowdown with our Airbnb over the past month, but we luckily have guests this weekend! They are staying for two nights and hopefully things will pick up again.
+* We had a slowdown with our Airbnb over the past month, but we luckily had guests during the week and more guests this weekend! We're hoping that's a sign that travel to the area will pick up again.
 
 ## **How I Spent Money This Week**
 
 * Groceries
 
-* x
+* Valentine's Day gifts
+
+* Money Circle snacks
 
 ## **What I’m Writing**
 
-gifts
+* An important topic to me is learning how to show your love without blowing your budget. This week, I wrote about [how to celebrate](https://www.maggiegermano.com/blog/how-to-celebrate-valentines-day-without-buying-gifts/) occasions like Valentine's Day without necessarily buying a gift. 
+
+* I also published a new ForbesWomen piece about the disconnect between those who believe they should have their end-of-life affairs in order and those who actually follow through with it. 
 
 ## **What I’m Up To**
 
