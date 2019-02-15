@@ -38,6 +38,8 @@ The Prison Industrial Complex is a term that [describes](http://criticalresistan
 
 I've written a lot about the gender wage gap, but there is also a racial wage gap. And of course, half of people of color are also women, so there is a double wage gap for them.
 
+*For more information on the racial and gender wage gaps, visit [AAUW](https://www.aauw.org/article/u-s-cities-reveal-a-wide-range-of-gender-and-racial-pay-gaps/), [Pew Research Center](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/), and [NWLC](https://nwlc.org/issue/race-gender-wage-gaps/). *
+
 ## Racism in Medicine
 
 Access to affordable, effective healthcare is a human right.
