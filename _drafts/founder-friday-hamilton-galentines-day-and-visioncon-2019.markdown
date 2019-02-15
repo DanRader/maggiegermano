@@ -22,11 +22,13 @@ Happy Friday! I hope you're staying dry and warm out there. Here’s what I was 
 
 ## **How I Spent Money This Week**
 
-* Groceries
+* We stocked up on groceries on Sunday and then Dan bought breakfast supplies for our Valentine's Day breakfast (challah, bacon, whipped cream, strawberries).
 
-* Valentine's Day gifts
+* I bought Dan two Valentine's Day gifts: a backscratcher and a wallet. 
 
-* Money Circle snacks
+* I had a long overdue coffee date with a friend on Wednesday, so I bought myself a cup of tea.
+
+* Tonight, Dan and I are going to a free happy hour thrown by his office, but we may go to [Mortified DC](http://getmortified.com/event/attend-mortified/) afterwards if there are still tickets. 
 
 ## **What I’m Writing**
 
@@ -42,11 +44,11 @@ Happy Friday! I hope you're staying dry and warm out there. Here’s what I was 
 
 * Tomorrow, I'm on a panel at [VisionCon 2019](https://www.eventbrite.com/e/visioncon-2019-tickets-53412826201)! I'm excited to join a room full of amazing women who are ready to plan for their future.
 
-* On Wednesday, March 6th, I will be at the Lemon Collective leading a workshop on how to align your money with your values. 
+* On Wednesday, March 6th, I will be at the [Lemon Collective](https://www.eventbrite.com/e/aligning-your-money-with-your-values-tickets-54778910195) leading a workshop on how to align your money with your values. 
 
-* mindspace
+* On Tuesday, March 12th, I will be at [Mindspace](https://www.eventbrite.com/e/making-breaking-the-budget-tickets-55047193638) leading a workshop called Making & Breaking the Budget. If you struggle with creating and sticking to a budget, this one is for you!
 
-* money circle
+* On Wednesday, March 27th, I'll be hosting Money Circle. We'll be joined by personal style coach, Allison Hamilton-Rohe, since our topic is: [How To Create a Powerful Personal Style On A Budget](https://www.eventbrite.com/e/money-circle-how-to-create-a-powerful-personal-style-on-a-budget-tickets-54939672038).
 
 ## **What I’m Excited About**
 
@@ -55,5 +57,7 @@ Happy Friday! I hope you're staying dry and warm out there. Here’s what I was 
 * A quote of mine is featured on the cover of the new [HerStry journal](http://herstryblg.com/marketplace/herstry-journal-coming-soon?fbclid=IwAR1FFkwA27hFZqMBOpf32UMT0oJbntBVR0GrgNCIMPCKlJPUqgJVIYF3pic)! I was interviewed by HerStry last year and one of my quotes from that piece was chosen for the cover. If you use my code MAGGIE, you can get 30% off of the journal!
 
 ## **Money Tip to Take Into the Weekend**
+
+![Loretta Young.png](/uploads/Loretta%20Young.png)
 
 That’s all from me today! Have a fantastic weekend!
