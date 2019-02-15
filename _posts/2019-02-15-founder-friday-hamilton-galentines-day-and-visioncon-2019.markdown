@@ -34,7 +34,7 @@ Happy Friday! I hope you're staying dry and warm out there. Here’s what I was 
 
 * An important topic to me is learning how to show your love without blowing your budget. This week, I wrote about [how to celebrate](https://www.maggiegermano.com/blog/how-to-celebrate-valentines-day-without-buying-gifts/) occasions like Valentine's Day without necessarily buying a gift. 
 
-* I also published a new [ForbesWomen](http://www.forbes.com/sites/maggiegermano/2019/02/14/despite-their-pr…dont-have-a-will/) piece about the disconnect between those who believe they should have their end-of-life affairs in order and those who actually follow through with it. 
+* I also published a new [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2019/02/15/despite-their-priorities-nearly-half-of-americans-over-55-still-dont-have-a-will/#4b65aede5238) piece about the disconnect between those who believe they should have their end-of-life affairs in order and those who actually follow through with it. 
 
 ## **What I’m Up To**
 
