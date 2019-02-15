@@ -12,33 +12,47 @@ posts:
 - What Survivors Wish You Knew About Financial Abuse
 ---
 
-February is [Black History Month](https://www.africanamericanhistorymonth.gov/) in the United States. Of course, as a nation, we should be celebrating the history and contributions of Black Americans everyday. But unfortunately, people of color are still viewed as a minority interest group in our society, so we have to create specific dates to center them. 
+February is [Black History Month](https://www.africanamericanhistorymonth.gov/) in the United States. Of course, as a nation, we should be celebrating the history and contributions of Black Americans everyday. But unfortunately, people of color are still viewed as a minority interest group in our society, so we have to create specific dates to center them.
 
-This week, I want to focus on the long-lasting economic effects of racism. Money touches every part of our lives. We need it in order to survive. We need it in order to thrive. Whether or not we have it affects what we have access to. It affects our health and the health of our families.  Similarly, racism affects every part of life. Below is just a few ways that money and racism intersect, and how that affects people throughout their lives. 
+This week, I want to focus on the long-lasting economic effects of racism. Money touches every part of our lives. We need it in order to survive. We need it in order to thrive. Whether or not we have it affects what we have access to. It affects our health and the health of our families.  Similarly, racism affects every part of life. Below is just a few ways that money and racism intersect, and how that affects people throughout their lives.
 
 ## College Admissions
 
-I'm sure you've heard of affirmative action, which is the policy of promoting the education and employment of members of groups that have previously suffered from discrimination. 
+I'm sure you've heard of affirmative action, which is the policy of promoting the education and employment of members of groups that have previously suffered from discrimination. A lot of the conversation around affirmative action makes it sound like it's a discriminatory process that favors people specifically for the color of their skin. The truth is, white people (and white men, especially) have always been favored due to the color of their skin. That is why white people hold more of the wealth, more positions of power, more seats in Congress, etc. Historically, racism has prevented people of color from being admitted to college, both explicitly, and because tuition is prohibitively expensive. 
 
 ## Redlining
 
-Have you ever wondered why poor neighborhoods are disproportionately black? 
+Have you ever wondered why poor neighborhoods are disproportionately black?
 
-*(If you feel you have been a victim of redlining and want to file a Fair Housing Complaint, you can do so online for free at [portal.hud.gov](https://www.hud.gov/).)*
+*If you feel you have been a victim of redlining and want to file a Fair Housing Complaint, you can do so online for free at [portal.hud.gov](https://www.hud.gov/).)*
 
 ## Gerrymandering
+
+Have you ever looked at a map of your voting district and the ones surrounding you and feel completely perplexed? You're not alone. Many districts around the United States 
+
+*For more information on gerrymandering, visit [FiveThirtyEight.](https://fivethirtyeight.com/tag/the-gerrymandering-project/)*
 
 ## Welfare
 
 ## The Prison Industrial Complex
 
+The Prison Industrial Complex is a term that [describes](http://criticalresistance.org/about/not-so-common-language/) "the overlapping interests of government and industry that use surveillance, policing and imprisonment as solutions to economic, social and political problems". 
+
 ## The Racial Wage Gap
 
-I've written a lot about the gender wage gap, but there is also a racial wage gap. And of course, half of people of color are also women, so there is a double wage gap for them. 
+I've written a lot about the gender wage gap, but there is also a racial wage gap. And of course, half of people of color are also women, so there is a double wage gap for them.
+
+*For more information on the racial and gender wage gaps, visit [AAUW](https://www.aauw.org/article/u-s-cities-reveal-a-wide-range-of-gender-and-racial-pay-gaps/), [Pew Research Center](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/), and [NWLC](https://nwlc.org/issue/race-gender-wage-gaps/). *
 
 ## Racism in Medicine
 
-Access to affordable, effective healthcare is a human right. 
+Access to affordable, effective healthcare is a human right.
+
+In Washington, DC, the maternal maternity rate for black women is four times as high as it is for white women. In the same city! It's gotten to crisis levels 
+
+If you live in DC, contact your councilperson today and urge them to vote for the [Certified Professional Midwife Act](https://twitter.us13.list-manage.com/track/click?u=599e1a5beef7a95f302010721&id=197c748929&e=22b115a14f), which has the support of reproductive justice advocates and birthworkers in the community, like the providers at [Mamatoto Village](https://www.mamatotovillage.org/), and will help bridge the gap in care for black women in maternal care deserts by establishing training and oversight of culturally competent professionals who can legally assist in births outside of a hospital setting.
+
+x
 
 **More resources:**
 
@@ -52,4 +66,4 @@ Access to affordable, effective healthcare is a human right.
 
 * https://www.thebalance.com/definition-of-redlining-1798618
 
-* https://www.washingtonpost.com/news/wonk/wp/2018/03/28/redlining-was-banned-50-years-ago-its-still-hurting-minorities-today/?noredirect=on&utm_term=.6e896abbbc99 
+* https://www.washingtonpost.com/news/wonk/wp/2018/03/28/redlining-was-banned-50-years-ago-its-still-hurting-minorities-today/?noredirect=on&utm_term=.6e896abbbc99
