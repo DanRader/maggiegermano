@@ -28,7 +28,9 @@ Have you ever wondered why poor neighborhoods are disproportionately black?
 
 ## Gerrymandering
 
-Have you ever looked at a map of your voting district and the ones surrounding you and feel completely perplexed? You're not alone. Many districts around the United States 
+Have you ever looked at a map of your voting district and the ones surrounding you and feel completely perplexed? You're not alone. Many districts around the United States are drawn in a way that makes no sense and often ends up disenfranchising the folks living in the districts. This practice is called gerrymandering, 
+
+How does gerrymandering have an economic effect? It continues the disenfranchisement of people of color by by weakening their vote. 
 
 *For more information on gerrymandering, visit [FiveThirtyEight.](https://fivethirtyeight.com/tag/the-gerrymandering-project/)*
 
