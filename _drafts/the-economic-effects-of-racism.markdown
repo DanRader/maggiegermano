@@ -50,6 +50,10 @@ Access to affordable, effective healthcare is a human right.
 
 In Washington, DC, the maternal maternity rate for black women is four times as high as it is for white women. In the same city! It's gotten to crisis levels 
 
+If you live in DC, contact your councilperson today and urge them to vote for the [Certified Professional Midwife Act](https://twitter.us13.list-manage.com/track/click?u=599e1a5beef7a95f302010721&id=197c748929&e=22b115a14f), which has the support of reproductive justice advocates and birthworkers in the community, like the providers at [Mamatoto Village](https://www.mamatotovillage.org/), and will help bridge the gap in care for black women in maternal care deserts by establishing training and oversight of culturally competent professionals who can legally assist in births outside of a hospital setting.
+
+x
+
 **More resources:**
 
 * https://www.urban.org/features/structural-racism-america
