@@ -30,7 +30,7 @@ Have you ever wondered why poor neighborhoods are disproportionately black?
 
 Have you ever looked at a map of your voting district and the ones surrounding you and feel completely perplexed? You're not alone. Many districts around the United States 
 
-For more information on gerrymandering, visit [FiveThirtyEight.](https://fivethirtyeight.com/tag/the-gerrymandering-project/)
+*For more information on gerrymandering, visit [FiveThirtyEight.](https://fivethirtyeight.com/tag/the-gerrymandering-project/)*
 
 ## Welfare
 
