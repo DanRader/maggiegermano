@@ -32,6 +32,8 @@ Have you ever wondered why poor neighborhoods are disproportionately black?
 
 ## The Prison Industrial Complex
 
+The Prison Industrial Complex is a term that [describes](http://criticalresistance.org/about/not-so-common-language/) "the overlapping interests of government and industry that use surveillance, policing and imprisonment as solutions to economic, social and political problems". 
+
 ## The Racial Wage Gap
 
 I've written a lot about the gender wage gap, but there is also a racial wage gap. And of course, half of people of color are also women, so there is a double wage gap for them.
