@@ -48,6 +48,8 @@ I've written a lot about the gender wage gap, but there is also a racial wage ga
 
 Access to affordable, effective healthcare is a human right.
 
+In Washington, DC, the maternal maternity rate for black women is four times as high as it is for white women. In the same city! It's gotten to crisis levels 
+
 **More resources:**
 
 * https://www.urban.org/features/structural-racism-america
