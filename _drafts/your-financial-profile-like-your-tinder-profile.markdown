@@ -1,5 +1,5 @@
 ---
-title: How to Care About Your Financial Profile As Much As Your Tinder Profile
+title: How to Treat Your Financial Profile Like Your Tinder Profile
 date: 2019-02-25 11:00:00 -05:00
 categories:
 - lifestyle
