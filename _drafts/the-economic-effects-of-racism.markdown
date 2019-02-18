@@ -18,7 +18,9 @@ This week, I want to focus on the long-lasting economic effects of racism. Money
 
 ## College Admissions
 
-I'm sure you've heard of affirmative action, which is the policy of promoting the education and employment of members of groups that have previously suffered from discrimination. A lot of the conversation around affirmative action makes it sound like it's a discriminatory process that favors people specifically for the color of their skin. The truth is, white people (and white men, especially) have always been favored due to the color of their skin. That is why white people hold more of the wealth, more positions of power, more seats in Congress, etc. Historically, racism has prevented people of color from being admitted to college, both explicitly, and because tuition is prohibitively expensive.
+I'm sure you've heard of affirmative action, which is the policy of promoting the education and employment of members of groups that have previously suffered from discrimination. A lot of the conversation around affirmative action makes it sound like it's a discriminatory process that favors people specifically for the color of their skin. The truth is, white people (and white men, especially) have always been favored due to the color of their skin. That is why white people hold more of the wealth, more positions of power, more seats in Congress, etc. 
+
+Historically, racism has prevented people of color from being admitted to college, both explicitly, and because tuition is prohibitively expensive. Additionally, even if someone is able to attend college, racism still has effects on campus. These issues prevent people of color from getting the education that they desire or require in order to enter the career field of their choice. This has a domino effect through communities and families as folks are not able to 
 
 ## Redlining
 
@@ -69,6 +71,8 @@ x
 * https://www.washingtonpost.com/news/get-there/wp/2017/08/17/the-economic-impact-of-racism/?utm_term=.b159de316c43
 
 * http://nymag.com/intelligencer/2017/09/the-american-economy-isnt-getting-any-less-racist.html
+
+* https://www.usatoday.com/story/college/2017/03/07/report-the-race-gap-in-higher-education-is-very-real/37428635/ 
 
 * https://www.thebalance.com/definition-of-redlining-1798618
 
