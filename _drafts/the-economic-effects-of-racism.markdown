@@ -56,7 +56,7 @@ Where does racism come into play here? There is a false belief that people of co
 
 * x
 
-Sources: USDA, [CBPP](https://www.cbpp.org/research/poverty-and-inequality/a-guide-to-statistics-on-historical-trends-in-income-inequality), Bureau of Labor Statistics, GAO, Census Bureau, [KKF](https://www.kff.org/medicaid/state-indicator/distribution-by-raceethnicity-4/?currentTimeframe=0&selectedDistributions=white--black--hispanic--other--total&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D),  
+*(Sources: USDA, [CBPP](https://www.cbpp.org/research/poverty-and-inequality/a-guide-to-statistics-on-historical-trends-in-income-inequality), Bureau of Labor Statistics, GAO, Census Bureau, [KKF](https://www.kff.org/medicaid/state-indicator/distribution-by-raceethnicity-4/?currentTimeframe=0&selectedDistributions=white--black--hispanic--other--total&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D),  )*
 
 As you can see, welfare helps many of us at any given time in our lives. 
 
