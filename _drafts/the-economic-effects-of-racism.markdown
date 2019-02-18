@@ -66,19 +66,29 @@ The Prison Industrial Complex is a term that [describes](http://criticalresistan
 
 ## The Racial Wage Gap
 
-I've written a lot about the gender wage gap, but there is also a racial wage gap. And of course, half of people of color are also women, so there is a double wage gap for them.
+I've written a lot about the gender wage gap, but there is also a racial wage gap. And of course, half of people of color are also women, so there is a double wage gap for them. 
+
+* Among full- and part-time workers in the United States, black people in 2015 earned 75 as much as white people in median hourly earnings.
+
+* Among women across all races and ethnicities, hourly earnings fall behind those of white men and men in their own racial or ethnic group. However, the hourly earnings of Asian and white women are higher than those of black and Hispanic women and also higher than those of black and Hispanic men.
+
+* On average, black women were paid 61 percent of what non-Hispanic white men were paid in 2017.
+
+* Latina women were paid 53 percent of what non-Hispanic white men were paid in 2017.
+
+Just with the gender wage gap, this means that people of color make less money over the course of their lifetime. This means they are saving less for retirement, have less money to invest in things like real estate, and have less money to put towards education. The wage gap reverberates throughout life and across generations. 
 
 *For more information on the racial and gender wage gaps, visit [AAUW](https://www.aauw.org/article/u-s-cities-reveal-a-wide-range-of-gender-and-racial-pay-gaps/), [Pew Research Center](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/), and [NWLC](https://nwlc.org/issue/race-gender-wage-gaps/).*
 
 ## Generational Wealth
 
-x
+Access to education, good healthcare, and fair wages affects us beyond our own lives. It affects the legacy we leave behind and the generations that come after us. 
 
 ## Racism in Medicine
 
-Access to affordable, effective healthcare is a human right.
+Access to affordable, effective healthcare is a human right. And I'll be blunt about it: racism causes people of color to receive worse care. When you're not likely to be treated well or taken seriously by the medical industry, you're less likely to seek out help. This leads to delayed diagnoses which can worsen the outcomes or 
 
-Another way this plays out is during pregnancy and childbirth. In Washington, DC, the maternal maternity rate for black women is four times as high as it is for white women. In the same city! It's gotten to crisis levels
+A specific way that this plays out is during pregnancy and childbirth. In Washington, DC, the maternal maternity rate for black women is four times as high as it is for white women. In the same city! It's gotten to crisis levels. 
 
 If you live in DC, contact your [councilperson](https://dccouncil.us/councilmembers/) today and urge them to vote for the [Certified Professional Midwife Act](https://twitter.us13.list-manage.com/track/click?u=599e1a5beef7a95f302010721&id=197c748929&e=22b115a14f), which has the support of reproductive justice advocates and birthworkers in the community, like the providers at [Mamatoto Village](https://www.mamatotovillage.org/), and will help bridge the gap in care for black women in maternal care deserts by establishing training and oversight of culturally competent professionals who can legally assist in births outside of a hospital setting.
 
