@@ -76,7 +76,7 @@ x
 
 ## Racism in Medicine
 
-Access to affordable, effective healthcare is a human right.
+Access to affordable, effective healthcare is a human right. And I'll be blunt about it: racism causes people of color to receive worse care. 
 
 Another way this plays out is during pregnancy and childbirth. In Washington, DC, the maternal maternity rate for black women is four times as high as it is for white women. In the same city! It's gotten to crisis levels
 
