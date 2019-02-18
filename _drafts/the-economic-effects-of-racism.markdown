@@ -66,7 +66,17 @@ The Prison Industrial Complex is a term that [describes](http://criticalresistan
 
 ## The Racial Wage Gap
 
-I've written a lot about the gender wage gap, but there is also a racial wage gap. And of course, half of people of color are also women, so there is a double wage gap for them.
+I've written a lot about the gender wage gap, but there is also a racial wage gap. And of course, half of people of color are also women, so there is a double wage gap for them. 
+
+* Among full- and part-time workers in the U.S., blacks in 2015 earned just 75% as much as whites in median hourly earnings.
+
+* Among women across all races and ethnicities, hourly earnings lag behind those of white men and men in their own racial or ethnic group. But the hourly earnings of Asian and white women ($18 and $17, respectively) are higher than those of black and Hispanic women ($13 and $12, respectively) – and also higher than those of black and Hispanic men.
+
+* x
+
+* x
+
+Just with the gender wage gap, this means that people of color make less money over the course of their lifetime. This means they are saving less for retirement, have less money to invest in things like real estate, and have less money to put towards education. The wage gap reverberates throughout life and across generations. 
 
 *For more information on the racial and gender wage gaps, visit [AAUW](https://www.aauw.org/article/u-s-cities-reveal-a-wide-range-of-gender-and-racial-pay-gaps/), [Pew Research Center](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/), and [NWLC](https://nwlc.org/issue/race-gender-wage-gaps/).*
 
