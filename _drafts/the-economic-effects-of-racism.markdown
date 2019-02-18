@@ -84,7 +84,19 @@ Just with the gender wage gap, this means that people of color make less money o
 
 ## Generational Wealth
 
-Access to education, good healthcare, and fair wages affects us beyond our own lives. It affects the legacy we leave behind and the generations that come after us. 
+Access to education, good healthcare, and fair wages affects us beyond our own lives. It affects the legacy we leave behind and the generations that come after us. Of course, for people of color in the United States, there are many hurdles that prevent them from having these things. This means that generational wealth is not a given as something that can be passed down.
+
+Here are some statistics:
+
+* [According to the New York Times](https://www.nytimes.com/interactive/2017/09/18/upshot/black-white-wealth-gap-perceptions.html), for every $100 in white family wealth, black families hold just $5.04.
+
+* [The Economic Policy Institute](https://www.epi.org/blog/the-racial-wealth-gap-how-african-americans-have-been-shortchanged-out-of-the-materials-to-build-wealth/) found that more than 25 percent of black households have zero or negative net worth, compared to less than 10 percent of white families without wealth.
+
+* The Institute for Policy Studies report *[The Road to Zero Wealth: How the Racial Divide is Hollowing Out the America’s Middle Class](https://prosperitynow.org/resources/road-zero-wealth)*[ ](https://prosperitynow.org/resources/road-zero-wealth) found that between 1983 and 2013, the wealth of the median black household declined 75 percent, and the median Latino household declined 50 percent. Meanwhile, wealth for the median white household increased by 14 percent.
+
+You can see how this would mean that people of color are starting off life with much less of an advantage than white people. 
+
+*For more information about the racial wealth gap, visit [IASP](http://heller.brandeis.edu/iasp/). *
 
 ## Racism in Medicine
 
@@ -94,7 +106,7 @@ A specific way that this plays out is during pregnancy and childbirth. In Washin
 
 If you live in DC, contact your [councilperson](https://dccouncil.us/councilmembers/) today and urge them to vote for the [Certified Professional Midwife Act](https://twitter.us13.list-manage.com/track/click?u=599e1a5beef7a95f302010721&id=197c748929&e=22b115a14f), which has the support of reproductive justice advocates and birthworkers in the community, like the providers at [Mamatoto Village](https://www.mamatotovillage.org/), and will help bridge the gap in care for black women in maternal care deserts by establishing training and oversight of culturally competent professionals who can legally assist in births outside of a hospital setting.
 
-x
+For more resources on the medical affects of racism, visit 
 
 **More resources:**
 
