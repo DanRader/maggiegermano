@@ -38,7 +38,7 @@ How does gerrymandering have an economic effect? It continues the disenfranchise
 
 ## Welfare
 
-Welfare is a government program which provides financial aid to individuals or groups who are unable to support themselves. These programs are funded by taxes and allow people to deal with financial stress during hard times. The six major welfare programs in the United States are [Temporary Assistance for Needy Families](https://www.acf.hhs.gov/ofa/programs/tanf/about), [Medicaid](https://www.medicaid.gov/), [Supplemental Nutrition Assistance Programs](https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program-snap) (SNAP), [Supplemental Security Income](https://www.ssa.gov/ssi/), [Earned Income Tax Credit](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit), and [Housing Assistance](https://www.hud.gov/topics/rental_assistance). These programs provide support for basic needs, like food, healthcare, and housing, and were created to be a safety net for folks who either fall under hard times or are physically or mentally unable to care for themselves.
+Welfare is a government program which provides financial aid to individuals or groups who are unable to support themselves. These programs are funded by taxes and allow people to deal with financial stress during hard times. The six major welfare programs in the United States are [Temporary Assistance for Needy Families](https://www.acf.hhs.gov/ofa/programs/tanf/about) (TANF), [Medicaid](https://www.medicaid.gov/), [Supplemental Nutrition Assistance Programs](https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program-snap) (SNAP), [Supplemental Security Income](https://www.ssa.gov/ssi/), [Earned Income Tax Credit](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit), and [Housing Assistance](https://www.hud.gov/topics/rental_assistance). These programs provide support for basic needs, like food, healthcare, and housing, and were created to be a safety net for folks who either fall under hard times or are physically or mentally unable to care for themselves.
 
 Where does racism come into play here? There is a false belief that people of color are the only ones using these programs. There is also a false belief that those people are taking advantage of the programs when they don't need them. Have you ever heard of the racist term "welfare queen"? Language like that perpetuates the belief that the people who need these programs are just lazy or are defrauding the system. That is obviously not the case! Welfare programs are based on a family's income. To qualify, their income must be below an income based on the federal poverty level. These beliefs make it so that lawmakers often feel justified in cutting funding for these incredibly important and necessary programs. 
 
@@ -55,6 +55,8 @@ Where does racism come into play here? There is a false belief that people of co
 * 43 percent of Medicaid recipients were white, 18 percent were African American and 30 percent were Hispanic in 2016.
 
 * x
+
+Sources: USDA, [CBPP](https://www.cbpp.org/research/poverty-and-inequality/a-guide-to-statistics-on-historical-trends-in-income-inequality), Bureau of Labor Statistics, GAO, Census Bureau, [KKF](https://www.kff.org/medicaid/state-indicator/distribution-by-raceethnicity-4/?currentTimeframe=0&selectedDistributions=white--black--hispanic--other--total&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D),  
 
 As you can see, welfare helps many of us at any given time in our lives. 
 
