@@ -62,7 +62,7 @@ Where does racism come into play here? There is a false belief that people of co
 
 *(Source: [Lexington Law](https://www.lexingtonlaw.com/blog/finance/welfare-statistics.html))*
 
-As you can see, welfare helps many of us at any given time in our lives. We need to strengthen and expand these programs, not weaken them. 
+As you can see, welfare helps many of us at any given time in our lives. We need to strengthen and expand these programs, not weaken them. It is these programs that helps people get back on their feet and raise healthy children. 
 
 ## The Prison Industrial Complex
 
