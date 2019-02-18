@@ -87,7 +87,7 @@ Between 1980 and 2015, the number of people incarcerated in America increased fr
 
 * A criminal record can reduce the likelihood of a callback or job offer by nearly 50 percent. The negative impact of a criminal record is twice as large for African American applicants.
 
-* x
+* African Americans and white people use drugs at similar rates, but the imprisonment rate of African Americans for drug charges is almost *six times* that of whites.
 
 *For more information about prison reform, check out the [Pew Charitable Trusts](https://www.pewtrusts.org/en/projects/public-safety-performance-project) and [Justice Policy Institute](http://www.justicepolicy.org/news/12006). *
 
