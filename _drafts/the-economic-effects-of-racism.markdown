@@ -68,11 +68,13 @@ The Prison Industrial Complex is a term that [describes](http://criticalresistan
 
 I've written a lot about the gender wage gap, but there is also a racial wage gap. And of course, half of people of color are also women, so there is a double wage gap for them. 
 
-* Among full- and part-time workers in the U.S., blacks in 2015 earned just 75% as much as whites in median hourly earnings.
+* Among full- and part-time workers in the United States, black people in 2015 earned 75 as much as white people in median hourly earnings.
 
-* Among women across all races and ethnicities, hourly earnings lag behind those of white men and men in their own racial or ethnic group. But the hourly earnings of Asian and white women ($18 and $17, respectively) are higher than those of black and Hispanic women ($13 and $12, respectively) – and also higher than those of black and Hispanic men.
+* Among women across all races and ethnicities, hourly earnings fall behind those of white men and men in their own racial or ethnic group. However, the hourly earnings of Asian and white women are higher than those of black and Hispanic women and also higher than those of black and Hispanic men.
 
-* x
+* On average, black women were paid 61 percent of what non-Hispanic white men were paid in 2017.
+
+* Latina women were paid 53 percent of what non-Hispanic white men were paid in 2017.
 
 * x
 
