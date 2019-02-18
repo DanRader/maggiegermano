@@ -12,9 +12,9 @@ posts:
 - What Survivors Wish You Knew About Financial Abuse
 ---
 
-*Disclaimer: I am a white lady. I am working to make myself as aware and informed as possible. This article is part of my effort to educate other while folks about racism and its effects. If I've gotten anything wrong or missed the mark here, please let me know. I want to do better. If there are any resources that would be helpful to add to this piece, please send them to me!*
+*Disclaimer: I am a white lady. I am working to make myself as aware and informed as possible. This article is part of my effort to educate other white folks about racism and its effects. If I've gotten anything wrong or missed the mark here, please let me know. I want to do better. If there are any resources that would be helpful to add to this piece, please send them to me!*
 
-February is [Black History Month](https://www.africanamericanhistorymonth.gov/) in the United States. Of course, as a nation, we should be celebrating the history and contributions of Black Americans everyday. But unfortunately, people of color are still viewed as a minority interest group in our society, so we have to create specific dates to center them.
+February is [Black History Month](https://www.africanamericanhistorymonth.gov/) in the United States. Of course, as a nation, we should be celebrating the history and contributions of Black Americans every day. But unfortunately, people of color are still viewed as a minority interest group in our society, so we have to create specific dates to center them.
 
 This week, I want to focus on the long-lasting economic effects of racism. Money touches every part of our lives. We need it in order to survive. We need it in order to thrive. Whether or not we have it affects what we have access to. It affects our health and the health of our families.  Similarly, racism affects every part of life. Below is just a few ways that money and racism intersect, and how that affects people throughout their lives.
 
@@ -54,7 +54,7 @@ Where does racism come into play here? There is a false belief that people of co
 
 *(Source: [Lexington Law](https://www.lexingtonlaw.com/blog/finance/welfare-statistics.html))*
 
-As you can see, welfare helps many of us at any given time in our lives. We need to strengthen and expand these programs, not weaken them. It is these programs that helps people get back on their feet and raise healthy children. 
+As you can see, welfare helps many of us at any given time in our lives. We need to strengthen and expand these programs, not weaken them. It is these programs that help people get back on their feet and raise healthy children. 
 
 ## The Prison Industrial Complex
 
@@ -68,8 +68,7 @@ Between 1980 and 2015, the number of people incarcerated in America increased fr
 
 * The imprisonment rate for African American women is twice that of white women.
 
-* Though African Americans and Latinos make up approximately 32 percent of the US\
-  population, they account for 56 percent of all incarcerated people in 2015.
+* Though African Americans and Latinos make up approximately 32 percent of the US population, they account for 56 percent of all incarcerated people in 2015.
 
 * A criminal record can reduce the likelihood of a callback or job offer by nearly 50 percent. The negative impact of a criminal record is twice as large for African American applicants.
 
@@ -77,7 +76,7 @@ Between 1980 and 2015, the number of people incarcerated in America increased fr
 
 *(Source: [NAACP](https://www.naacp.org/criminal-justice-fact-sheet/))*
 
-*For more information about prison reform, check out the [Pew Charitable Trusts](https://www.pewtrusts.org/en/projects/public-safety-performance-project) and [Justice Policy Institute](http://www.justicepolicy.org/news/12006). *
+*For more information about prison reform, check out the [Pew Charitable Trusts](https://www.pewtrusts.org/en/projects/public-safety-performance-project) and [Justice Policy Institute](http://www.justicepolicy.org/news/12006).*
 
 ## The Racial Wage Gap
 
