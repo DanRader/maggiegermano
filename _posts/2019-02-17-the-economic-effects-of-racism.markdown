@@ -24,7 +24,7 @@ I'm sure you've heard of affirmative action, which is the policy of promoting th
 
 Historically, racism has prevented people of color from being admitted to college, both explicitly, and because tuition is prohibitively expensive. Additionally, even if someone is able to attend college, racism still has effects on campus. These issues prevent people of color from getting the education that they desire or require in order to enter the career field of their choice. This has a domino effect through communities and families as folks are not able to build wealth. 
 
-*To learn more about affirmative action and how it helps communities of color, visit [IHEP](http://www.ihep.org/press/opinions-and-statements/economic-and-societal-advantages-affirmative-action). *
+*To learn more about affirmative action and how it helps communities of color, visit [IHEP](http://www.ihep.org/press/opinions-and-statements/economic-and-societal-advantages-affirmative-action).*
 
 ## Welfare
 
@@ -32,7 +32,7 @@ Welfare is a government program which provides financial aid to individuals or g
 
 Where does racism come into play here? There is a false belief that people of color are the only ones using these programs. There is also a false belief that those people are taking advantage of the programs when they don't need them. Have you ever heard of the racist term "welfare queen"? Language like that perpetuates the belief that the people who need these programs are just lazy or are defrauding the system. That is obviously not the case! Welfare programs are based on a family's income. To qualify, their income must be below an income based on the federal poverty level. These beliefs make it so that lawmakers often feel justified in cutting funding for these incredibly important and necessary programs. 
 
-**Here's the truth about welfare: **
+**Here's the truth about welfare:**
 
 * Government welfare programs are cited for the decline of the poverty rate from 25 percent in 1967 to 14 percent in 2016.
 
@@ -62,7 +62,7 @@ The Prison Industrial Complex is a term that [describes](http://criticalresistan
 
 Between 1980 and 2015, the number of people incarcerated in America increased from roughly 500,000 to over 2.2 million. That's HUGE. The United States accounts for 20 percent of the world's incarcerated population, while only making up 5 percent of the world's overall population. I'm not an expert on incarceration, but I'd say that's a problem, and I would be willing to guess that much of this is due to the privatization of prisons. 
 
-**How does this affect people of color? **
+**How does this affect people of color?**
 
 * Black Americans are incarcerated at more than five times the rate of whites. However, black people are not committing five times the amount of crimes. 
 
@@ -109,7 +109,7 @@ Here are some statistics:
 
 You can see how this would mean that people of color are starting off life with much less of an advantage than white people. 
 
-*For more information about the racial wealth gap, visit [IASP](http://heller.brandeis.edu/iasp/). *
+*For more information about the racial wealth gap, visit [IASP](http://heller.brandeis.edu/iasp/).*
 
 ## Racism in Medicine
 
