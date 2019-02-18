@@ -28,7 +28,7 @@ Historically, racism has prevented people of color from being admitted to colleg
 
 Have you ever wondered why poor neighborhoods are disproportionately black?
 
-*If you feel you have been a victim of redlining and want to file a Fair Housing Complaint, you can do so online for free at [portal.hud.gov](https://www.hud.gov/).)*
+*If you feel you have been a victim of redlining and want to file a Fair Housing Complaint, you can do so online for free at [portal.hud.gov](https://www.hud.gov/).*
 
 ## Gerrymandering
 
@@ -60,7 +60,7 @@ Where does racism come into play here? There is a false belief that people of co
 
 *(Sources: USDA, [CBPP](https://www.cbpp.org/research/poverty-and-inequality/a-guide-to-statistics-on-historical-trends-in-income-inequality), Bureau of Labor Statistics, GAO, Census Bureau, [KKF](https://www.kff.org/medicaid/state-indicator/distribution-by-raceethnicity-4/?currentTimeframe=0&selectedDistributions=white--black--hispanic--other--total&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D),  )*
 
-As you can see, welfare helps many of us at any given time in our lives. 
+As you can see, welfare helps many of us at any given time in our lives. We need to strengthen and expand these programs, not weaken them. 
 
 ## The Prison Industrial Complex
 
