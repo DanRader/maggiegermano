@@ -38,6 +38,8 @@ How does gerrymandering have an economic effect? It continues the disenfranchise
 
 ## Welfare
 
+Welfare is a government program which provides financial aid to individuals or groups who are unable to support themselves. These programs are funded by taxes and allow people to deal with financial stress during hard times. The six major welfare programs in the United States are [Temporary Assistance for Needy Families](https://www.acf.hhs.gov/ofa/programs/tanf/about), [Medicaid](https://www.medicaid.gov/), [Supplemental Nutrition Assistance Programs](https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program-snap) (SNAP), [Supplemental Security Income](https://www.ssa.gov/ssi/), [Earned Income Tax Credit](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit), and [Housing Assistance](https://www.hud.gov/topics/rental_assistance). These programs provide support for basic needs, like food, healthcare, housing, etc. 
+
 ## The Prison Industrial Complex
 
 The Prison Industrial Complex is a term that [describes](http://criticalresistance.org/about/not-so-common-language/) "the overlapping interests of government and industry that use surveillance, policing and imprisonment as solutions to economic, social and political problems".
