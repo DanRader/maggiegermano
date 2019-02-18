@@ -20,13 +20,15 @@ This week, I want to focus on the long-lasting economic effects of racism. Money
 
 I'm sure you've heard of affirmative action, which is the policy of promoting the education and employment of members of groups that have previously suffered from discrimination. A lot of the conversation around affirmative action makes it sound like it's a discriminatory process that favors people specifically for the color of their skin. The truth is, white people (and white men, especially) have always been favored due to the color of their skin. That is why white people hold more of the wealth, more positions of power, more seats in Congress, etc. 
 
-Historically, racism has prevented people of color from being admitted to college, both explicitly, and because tuition is prohibitively expensive. Additionally, even if someone is able to attend college, racism still has effects on campus. These issues prevent people of color from getting the education that they desire or require in order to enter the career field of their choice. This has a domino effect through communities and families as folks are not able to 
+Historically, racism has prevented people of color from being admitted to college, both explicitly, and because tuition is prohibitively expensive. Additionally, even if someone is able to attend college, racism still has effects on campus. These issues prevent people of color from getting the education that they desire or require in order to enter the career field of their choice. This has a domino effect through communities and families as folks are not able to build wealth. 
+
+*To learn more about affirmative action and how it helps communities of color, visit [IHEP](http://www.ihep.org/press/opinions-and-statements/economic-and-societal-advantages-affirmative-action). *
 
 ## Redlining
 
 Have you ever wondered why poor neighborhoods are disproportionately black?
 
-*If you feel you have been a victim of redlining and want to file a Fair Housing Complaint, you can do so online for free at [portal.hud.gov](https://www.hud.gov/).)*
+*If you feel you have been a victim of redlining and want to file a Fair Housing Complaint, you can do so online for free at [portal.hud.gov](https://www.hud.gov/).*
 
 ## Gerrymandering
 
@@ -58,7 +60,7 @@ Where does racism come into play here? There is a false belief that people of co
 
 *(Sources: USDA, [CBPP](https://www.cbpp.org/research/poverty-and-inequality/a-guide-to-statistics-on-historical-trends-in-income-inequality), Bureau of Labor Statistics, GAO, Census Bureau, [KKF](https://www.kff.org/medicaid/state-indicator/distribution-by-raceethnicity-4/?currentTimeframe=0&selectedDistributions=white--black--hispanic--other--total&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D),  )*
 
-As you can see, welfare helps many of us at any given time in our lives. 
+As you can see, welfare helps many of us at any given time in our lives. We need to strengthen and expand these programs, not weaken them. 
 
 ## The Prison Industrial Complex
 
