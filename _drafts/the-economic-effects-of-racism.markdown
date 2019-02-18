@@ -76,7 +76,18 @@ The Prison Industrial Complex is a term that [describes](http://criticalresistan
 
 Between 1980 and 2015, the number of people incarcerated in America increased from roughly 500,000 to over 2.2 million. That's HUGE. The United States accounts for 20 percent of the world's incarcerated population, while only making up 5 percent of the world's overall population. I'm not an expert on incarceration, but I'd say that's a problem, and I would be willing to guess that much of this is due to the privatization of prisons. 
 
-How does this affect people of color? 
+**How does this affect people of color? **
+
+* Black Americans are incarcerated at more than five times the rate of whites. However, black people are not committing five times the amount of crimes. 
+
+* The imprisonment rate for African American women is twice that of white women.
+
+* Though African Americans and Latinos make up approximately 32 percent of the US\
+  population, they account for 56 percent of all incarcerated people in 2015.
+
+* A criminal record can reduce the likelihood of a callback or job offer by nearly 50 percent. The negative impact of a criminal record is twice as large for African American applicants.
+
+* x
 
 *For more information about prison reform, check out the [Pew Charitable Trusts](https://www.pewtrusts.org/en/projects/public-safety-performance-project) and [Justice Policy Institute](http://www.justicepolicy.org/news/12006). *
 
