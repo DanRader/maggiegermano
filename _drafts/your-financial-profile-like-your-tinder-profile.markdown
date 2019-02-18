@@ -6,6 +6,8 @@ categories:
 image: "/uploads/rawpixel-1137673-unsplash.jpg"
 posts:
 - Why You Should Check Your Credit Report Regularly
+- Why Credit Card Interest Sucks and What You Could Be Spending It On Instead
+- The Difference Between Your Credit Score and Your Credit Report
 ---
 
 I got an email a couple months ago from Experian about their new "[Experian Financial Profile](https://www.experian.com/consumer-products/financial-profile.html)". 
