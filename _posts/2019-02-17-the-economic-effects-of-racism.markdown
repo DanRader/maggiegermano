@@ -26,14 +26,6 @@ Historically, racism has prevented people of color from being admitted to colleg
 
 *To learn more about affirmative action and how it helps communities of color, visit [IHEP](http://www.ihep.org/press/opinions-and-statements/economic-and-societal-advantages-affirmative-action). *
 
-## Redlining
-
-Redlining is an illegal practice that typically involving lenders that refuse to lend money or extend credit to borrowers in certain areas of town or when realtors won't show properties to certain types of people in certain neighborhoods. Those "red-lined" areas are typically occupied by people in poverty or people of color, or both.
-
-x
-
-*If you feel you have been a victim of redlining and want to file a Fair Housing Complaint, you can do so online for free at [portal.hud.gov](https://www.hud.gov/).*
-
 ## Welfare
 
 Welfare is a government program which provides financial aid to individuals or groups who are unable to support themselves. These programs are funded by taxes and allow people to deal with financial stress during hard times. The six major welfare programs in the United States are [Temporary Assistance for Needy Families](https://www.acf.hhs.gov/ofa/programs/tanf/about) (TANF), [Medicaid](https://www.medicaid.gov/), [Supplemental Nutrition Assistance Programs](https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program-snap) (SNAP), [Supplemental Security Income](https://www.ssa.gov/ssi/), [Earned Income Tax Credit](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit), and [Housing Assistance](https://www.hud.gov/topics/rental_assistance). These programs provide support for basic needs, like food, healthcare, and housing, and were created to be a safety net for folks who either fall under hard times or are physically or mentally unable to care for themselves.
