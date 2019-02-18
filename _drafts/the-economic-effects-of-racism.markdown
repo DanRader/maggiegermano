@@ -76,15 +76,13 @@ I've written a lot about the gender wage gap, but there is also a racial wage ga
 
 * Latina women were paid 53 percent of what non-Hispanic white men were paid in 2017.
 
-* x
-
 Just with the gender wage gap, this means that people of color make less money over the course of their lifetime. This means they are saving less for retirement, have less money to invest in things like real estate, and have less money to put towards education. The wage gap reverberates throughout life and across generations. 
 
 *For more information on the racial and gender wage gaps, visit [AAUW](https://www.aauw.org/article/u-s-cities-reveal-a-wide-range-of-gender-and-racial-pay-gaps/), [Pew Research Center](http://www.pewresearch.org/fact-tank/2016/07/01/racial-gender-wage-gaps-persist-in-u-s-despite-some-progress/), and [NWLC](https://nwlc.org/issue/race-gender-wage-gaps/).*
 
 ## Generational Wealth
 
-x
+Access to education, good healthcare, and fair wages affects us beyond our own lives. It affects the legacy we leave behind and the generations that come after us. 
 
 ## Racism in Medicine
 
