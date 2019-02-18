@@ -8,7 +8,7 @@ posts:
 - Why You Should Check Your Credit Report Regularly
 ---
 
-I got an email a couple months ago from Experian about their new "Experian Financial Profile". 
+I got an email a couple months ago from Experian about their new "Experian Financial Profile".
 
 ## Make Sure It Matters
 
@@ -17,5 +17,9 @@ I got an email a couple months ago from Experian about their new "Experian Finan
 Check credit score monthly, check credit report 3x a year
 
 ## Talk About It
+
+x
+
+## Realize That It Affects Who Will Engage with You
 
 x
