@@ -12,6 +12,8 @@ posts:
 - What Survivors Wish You Knew About Financial Abuse
 ---
 
+*(Disclaimer: I am a white lady. I am working to make myself as aware and informed as possible. This article is part of my effort to educate other while folks about racism and its effects. If I've gotten anything wrong or missed the mark here, please let me know. I want to do better.)*
+
 February is [Black History Month](https://www.africanamericanhistorymonth.gov/) in the United States. Of course, as a nation, we should be celebrating the history and contributions of Black Americans everyday. But unfortunately, people of color are still viewed as a minority interest group in our society, so we have to create specific dates to center them.
 
 This week, I want to focus on the long-lasting economic effects of racism. Money touches every part of our lives. We need it in order to survive. We need it in order to thrive. Whether or not we have it affects what we have access to. It affects our health and the health of our families.  Similarly, racism affects every part of life. Below is just a few ways that money and racism intersect, and how that affects people throughout their lives.
@@ -108,13 +110,13 @@ You can see how this would mean that people of color are starting off life with 
 
 ## Racism in Medicine
 
-Access to affordable, effective healthcare is a human right. And I'll be blunt about it: racism causes people of color to receive worse care. When you're not likely to be treated well or taken seriously by the medical industry, you're less likely to seek out help. This leads to delayed diagnoses which can worsen the outcomes or 
+Access to affordable, effective healthcare is a human right. And I'll be blunt about it: racism causes people of color to receive worse care. When you're not likely to be treated well or taken seriously by the medical industry, you're less likely to seek out help. This leads to delayed diagnoses which can worsen the outcomes.
 
 A specific way that this plays out is during pregnancy and childbirth. In Washington, DC, the maternal maternity rate for black women is four times as high as it is for white women. In the same city! It's gotten to crisis levels. 
 
 If you live in DC, contact your [councilperson](https://dccouncil.us/councilmembers/) today and urge them to vote for the [Certified Professional Midwife Act](https://twitter.us13.list-manage.com/track/click?u=599e1a5beef7a95f302010721&id=197c748929&e=22b115a14f), which has the support of reproductive justice advocates and birthworkers in the community, like the providers at [Mamatoto Village](https://www.mamatotovillage.org/), and will help bridge the gap in care for black women in maternal care deserts by establishing training and oversight of culturally competent professionals who can legally assist in births outside of a hospital setting.
 
-For more resources on the medical affects of racism, visit 
+*For more resources on the medical affects of racism, visit [The Commonwealth Fund](https://www.commonwealthfund.org/publications/newsletter-article/2018/sep/focus-reducing-racial-disparities-health-care-confronting).*
 
 **More resources:**
 
