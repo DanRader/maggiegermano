@@ -12,7 +12,7 @@ posts:
 - What Survivors Wish You Knew About Financial Abuse
 ---
 
-*(Disclaimer: I am a white lady. I am working to make myself as aware and informed as possible. This article is part of my effort to educate other while folks about racism and its effects. If I've gotten anything wrong or missed the mark here, please let me know. I want to do better.)*
+*Disclaimer: I am a white lady. I am working to make myself as aware and informed as possible. This article is part of my effort to educate other while folks about racism and its effects. If I've gotten anything wrong or missed the mark here, please let me know. I want to do better. If there are any resources that would be helpful to add to this piece, please send them to me!*
 
 February is [Black History Month](https://www.africanamericanhistorymonth.gov/) in the United States. Of course, as a nation, we should be celebrating the history and contributions of Black Americans everyday. But unfortunately, people of color are still viewed as a minority interest group in our society, so we have to create specific dates to center them.
 
@@ -66,8 +66,6 @@ Where does racism come into play here? There is a false belief that people of co
 
 * In 2017 12.3 percent of Americans lived in poverty.
 
-* x
-
 *(Source: [Lexington Law](https://www.lexingtonlaw.com/blog/finance/welfare-statistics.html))*
 
 As you can see, welfare helps many of us at any given time in our lives. We need to strengthen and expand these programs, not weaken them. It is these programs that helps people get back on their feet and raise healthy children. 
@@ -75,6 +73,23 @@ As you can see, welfare helps many of us at any given time in our lives. We need
 ## The Prison Industrial Complex
 
 The Prison Industrial Complex is a term that [describes](http://criticalresistance.org/about/not-so-common-language/) "the overlapping interests of government and industry that use surveillance, policing and imprisonment as solutions to economic, social and political problems".
+
+Between 1980 and 2015, the number of people incarcerated in America increased from roughly 500,000 to over 2.2 million. That's HUGE. The United States accounts for 20 percent of the world's incarcerated population, while only making up 5 percent of the world's overall population. I'm not an expert on incarceration, but I'd say that's a problem, and I would be willing to guess that much of this is due to the privatization of prisons. 
+
+**How does this affect people of color? **
+
+* Black Americans are incarcerated at more than five times the rate of whites. However, black people are not committing five times the amount of crimes. 
+
+* The imprisonment rate for African American women is twice that of white women.
+
+* Though African Americans and Latinos make up approximately 32 percent of the US\
+  population, they account for 56 percent of all incarcerated people in 2015.
+
+* A criminal record can reduce the likelihood of a callback or job offer by nearly 50 percent. The negative impact of a criminal record is twice as large for African American applicants.
+
+* African Americans and white people use drugs at similar rates, but the imprisonment rate of African Americans for drug charges is almost *six times* that of whites.
+
+*For more information about prison reform, check out the [Pew Charitable Trusts](https://www.pewtrusts.org/en/projects/public-safety-performance-project) and [Justice Policy Institute](http://www.justicepolicy.org/news/12006). *
 
 ## The Racial Wage Gap
 
