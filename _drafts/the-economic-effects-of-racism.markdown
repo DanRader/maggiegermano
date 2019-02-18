@@ -18,7 +18,9 @@ This week, I want to focus on the long-lasting economic effects of racism. Money
 
 ## College Admissions
 
-I'm sure you've heard of affirmative action, which is the policy of promoting the education and employment of members of groups that have previously suffered from discrimination. A lot of the conversation around affirmative action makes it sound like it's a discriminatory process that favors people specifically for the color of their skin. The truth is, white people (and white men, especially) have always been favored due to the color of their skin. That is why white people hold more of the wealth, more positions of power, more seats in Congress, etc. Historically, racism has prevented people of color from being admitted to college, both explicitly, and because tuition is prohibitively expensive.
+I'm sure you've heard of affirmative action, which is the policy of promoting the education and employment of members of groups that have previously suffered from discrimination. A lot of the conversation around affirmative action makes it sound like it's a discriminatory process that favors people specifically for the color of their skin. The truth is, white people (and white men, especially) have always been favored due to the color of their skin. That is why white people hold more of the wealth, more positions of power, more seats in Congress, etc. 
+
+Historically, racism has prevented people of color from being admitted to college, both explicitly, and because tuition is prohibitively expensive. Additionally, even if someone is able to attend college, racism still has effects on campus. These issues prevent people of color from getting the education that they desire or require in order to enter the career field of their choice. This has a domino effect through communities and families as folks are not able to 
 
 ## Redlining
 
@@ -35,6 +37,12 @@ How does gerrymandering have an economic effect? It continues the disenfranchise
 *For more information on gerrymandering, visit [FiveThirtyEight.](https://fivethirtyeight.com/tag/the-gerrymandering-project/)*
 
 ## Welfare
+
+Welfare is a government program which provides financial aid to individuals or groups who are unable to support themselves. These programs are funded by taxes and allow people to deal with financial stress during hard times. The six major welfare programs in the United States are [Temporary Assistance for Needy Families](https://www.acf.hhs.gov/ofa/programs/tanf/about), [Medicaid](https://www.medicaid.gov/), [Supplemental Nutrition Assistance Programs](https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program-snap) (SNAP), [Supplemental Security Income](https://www.ssa.gov/ssi/), [Earned Income Tax Credit](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit), and [Housing Assistance](https://www.hud.gov/topics/rental_assistance). These programs provide support for basic needs, like food, healthcare, and housing, and were created to be a safety net for folks who either fall under hard times or are physically or mentally unable to care for themselves.
+
+Where does racism come into play here? There is a false belief that people of color are the only ones using these programs. There is also a false belief that those people are taking advantage of the programs when they don't need them. Have you ever heard of the racist term "welfare queen"? Language like that perpetuates the belief that the people who need these programs are just lazy or manipulative. That is obviously not the case! Welfare programs are based on a family's income. To qualify, their income must be below an income based on the federal poverty level. These beliefs make it so that lawmakers often feel justified in cutting funding for these incredibly important and necessary programs. 
+
+x
 
 ## The Prison Industrial Complex
 
@@ -69,6 +77,8 @@ x
 * https://www.washingtonpost.com/news/get-there/wp/2017/08/17/the-economic-impact-of-racism/?utm_term=.b159de316c43
 
 * http://nymag.com/intelligencer/2017/09/the-american-economy-isnt-getting-any-less-racist.html
+
+* https://www.usatoday.com/story/college/2017/03/07/report-the-race-gap-in-higher-education-is-very-real/37428635/ 
 
 * https://www.thebalance.com/definition-of-redlining-1798618
 
