@@ -78,7 +78,7 @@ x
 
 Access to affordable, effective healthcare is a human right. And I'll be blunt about it: racism causes people of color to receive worse care. 
 
-Another way this plays out is during pregnancy and childbirth. In Washington, DC, the maternal maternity rate for black women is four times as high as it is for white women. In the same city! It's gotten to crisis levels
+A specific way that this plays out is during pregnancy and childbirth. In Washington, DC, the maternal maternity rate for black women is four times as high as it is for white women. In the same city! It's gotten to crisis levels. 
 
 If you live in DC, contact your [councilperson](https://dccouncil.us/councilmembers/) today and urge them to vote for the [Certified Professional Midwife Act](https://twitter.us13.list-manage.com/track/click?u=599e1a5beef7a95f302010721&id=197c748929&e=22b115a14f), which has the support of reproductive justice advocates and birthworkers in the community, like the providers at [Mamatoto Village](https://www.mamatotovillage.org/), and will help bridge the gap in care for black women in maternal care deserts by establishing training and oversight of culturally competent professionals who can legally assist in births outside of a hospital setting.
 
