@@ -58,6 +58,12 @@ Where does racism come into play here? There is a false belief that people of co
 
 * On average 39 percent of women receiving Aid to Families with Dependent Children benefits were also employed.
 
+* The average SNAP recipient in 2017 receives $126 a month in assistance which is about $1.40 per meal.
+
+* One in 10 white children lives below the poverty line.
+
+* In 2017 12.3 percent of Americans lived in poverty.
+
 * x
 
 *(Source: [Lexington Law](https://www.lexingtonlaw.com/blog/finance/welfare-statistics.html))*
