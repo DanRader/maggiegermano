@@ -12,7 +12,9 @@ I got an email a couple months ago from Experian about their new "[Experian Fina
 
 Yes, there is an actual financial profile being offered by Experian, but even if you don't sign up for that, you should still care about your financial story.
 
-## Make Sure It Matters
+## Make It a Priority
+
+x
 
 ## Pay Attention To It
 
