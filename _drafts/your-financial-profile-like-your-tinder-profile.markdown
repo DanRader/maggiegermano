@@ -8,7 +8,9 @@ posts:
 - Why You Should Check Your Credit Report Regularly
 ---
 
-I got an email a couple months ago from Experian about their new "Experian Financial Profile". Yes, there is an actual financial profile being offered by Experian, but even if you don't sign up for that, you should still care about your financial story. 
+I got an email a couple months ago from Experian about their new "[Experian Financial Profile](https://www.experian.com/consumer-products/financial-profile.html)". 
+
+Yes, there is an actual financial profile being offered by Experian, but even if you don't sign up for that, you should still care about your financial story.
 
 ## Make Sure It Matters
 
