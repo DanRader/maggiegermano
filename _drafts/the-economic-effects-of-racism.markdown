@@ -145,6 +145,8 @@ If you live in DC, contact your [councilperson](https://dccouncil.us/councilmemb
 
 * http://nymag.com/intelligencer/2017/09/the-american-economy-isnt-getting-any-less-racist.html
 
+* https://www.npr.org/2017/05/03/526655831/a-forgotten-history-of-how-the-u-s-government-segregated-america 
+
 * https://www.usatoday.com/story/college/2017/03/07/report-the-race-gap-in-higher-education-is-very-real/37428635/ 
 
 * https://www.thebalance.com/definition-of-redlining-1798618
