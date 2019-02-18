@@ -42,7 +42,7 @@ Welfare is a government program which provides financial aid to individuals or g
 
 Where does racism come into play here? There is a false belief that people of color are the only ones using these programs. There is also a false belief that those people are taking advantage of the programs when they don't need them. Have you ever heard of the racist term "welfare queen"? Language like that perpetuates the belief that the people who need these programs are just lazy or are defrauding the system. That is obviously not the case! Welfare programs are based on a family's income. To qualify, their income must be below an income based on the federal poverty level. These beliefs make it so that lawmakers often feel justified in cutting funding for these incredibly important and necessary programs. 
 
-Here's the truth about welfare: 
+**Here's the truth about welfare: **
 
 * Government welfare programs are cited for the decline of the poverty rate from 25 percent in 1967 to 14 percent in 2016.
 
