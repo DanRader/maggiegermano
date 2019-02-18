@@ -28,17 +28,11 @@ Historically, racism has prevented people of color from being admitted to colleg
 
 ## Redlining
 
-Have you ever wondered why poor neighborhoods are disproportionately black?
+Redlining is an illegal practice that typically involving lenders that refuse to lend money or extend credit to borrowers in certain areas of town or when realtors won't show properties to certain types of people in certain neighborhoods. Those "red-lined" areas are typically occupied by people in poverty or people of color, or both.
+
+x
 
 *If you feel you have been a victim of redlining and want to file a Fair Housing Complaint, you can do so online for free at [portal.hud.gov](https://www.hud.gov/).*
-
-## Gerrymandering
-
-Have you ever looked at a map of your voting district and the ones surrounding you and feel completely perplexed? You're not alone. Many districts around the United States are drawn in a way that makes no sense and often ends up disenfranchising the folks living in the districts. This practice is called gerrymandering,
-
-How does gerrymandering have an economic effect? It continues the disenfranchisement of people of color by by weakening their vote.
-
-*For more information on gerrymandering, visit [FiveThirtyEight.](https://fivethirtyeight.com/tag/the-gerrymandering-project/)*
 
 ## Welfare
 
