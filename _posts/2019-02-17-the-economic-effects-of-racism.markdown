@@ -26,20 +26,6 @@ Historically, racism has prevented people of color from being admitted to colleg
 
 *To learn more about affirmative action and how it helps communities of color, visit [IHEP](http://www.ihep.org/press/opinions-and-statements/economic-and-societal-advantages-affirmative-action). *
 
-## Redlining
-
-Have you ever wondered why poor neighborhoods are disproportionately black?
-
-*If you feel you have been a victim of redlining and want to file a Fair Housing Complaint, you can do so online for free at [portal.hud.gov](https://www.hud.gov/).*
-
-## Gerrymandering
-
-Have you ever looked at a map of your voting district and the ones surrounding you and feel completely perplexed? You're not alone. Many districts around the United States are drawn in a way that makes no sense and often ends up disenfranchising the folks living in the districts. This practice is called gerrymandering,
-
-How does gerrymandering have an economic effect? It continues the disenfranchisement of people of color by by weakening their vote.
-
-*For more information on gerrymandering, visit [FiveThirtyEight.](https://fivethirtyeight.com/tag/the-gerrymandering-project/)*
-
 ## Welfare
 
 Welfare is a government program which provides financial aid to individuals or groups who are unable to support themselves. These programs are funded by taxes and allow people to deal with financial stress during hard times. The six major welfare programs in the United States are [Temporary Assistance for Needy Families](https://www.acf.hhs.gov/ofa/programs/tanf/about) (TANF), [Medicaid](https://www.medicaid.gov/), [Supplemental Nutrition Assistance Programs](https://www.fns.usda.gov/snap/supplemental-nutrition-assistance-program-snap) (SNAP), [Supplemental Security Income](https://www.ssa.gov/ssi/), [Earned Income Tax Credit](https://www.irs.gov/credits-deductions/individuals/earned-income-tax-credit), and [Housing Assistance](https://www.hud.gov/topics/rental_assistance). These programs provide support for basic needs, like food, healthcare, and housing, and were created to be a safety net for folks who either fall under hard times or are physically or mentally unable to care for themselves.
@@ -88,6 +74,8 @@ Between 1980 and 2015, the number of people incarcerated in America increased fr
 * A criminal record can reduce the likelihood of a callback or job offer by nearly 50 percent. The negative impact of a criminal record is twice as large for African American applicants.
 
 * African Americans and white people use drugs at similar rates, but the imprisonment rate of African Americans for drug charges is almost *six times* that of whites.
+
+*(Source: [NAACP](https://www.naacp.org/criminal-justice-fact-sheet/))*
 
 *For more information about prison reform, check out the [Pew Charitable Trusts](https://www.pewtrusts.org/en/projects/public-safety-performance-project) and [Justice Policy Institute](http://www.justicepolicy.org/news/12006). *
 
@@ -142,6 +130,8 @@ If you live in DC, contact your [councilperson](https://dccouncil.us/councilmemb
 * https://www.washingtonpost.com/news/get-there/wp/2017/08/17/the-economic-impact-of-racism/?utm_term=.b159de316c43
 
 * http://nymag.com/intelligencer/2017/09/the-american-economy-isnt-getting-any-less-racist.html
+
+* https://www.npr.org/2017/05/03/526655831/a-forgotten-history-of-how-the-u-s-government-segregated-america 
 
 * https://www.usatoday.com/story/college/2017/03/07/report-the-race-gap-in-higher-education-is-very-real/37428635/ 
 
