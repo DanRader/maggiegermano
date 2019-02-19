@@ -1,5 +1,5 @@
 ---
-title: How to Treat Your Financial Profile Like Your Tinder Profile
+title: How and Why to Treat Your Financial Profile Like Your Tinder Profile
 date: 2019-02-25 11:00:00 -05:00
 categories:
 - lifestyle
@@ -26,6 +26,8 @@ Check credit score monthly, check credit report 3x a year
 
 x
 
-## Realize That It Affects Who Will Engage with You
+The why
+
+## It Affects Who Will Engage with You
 
 x
