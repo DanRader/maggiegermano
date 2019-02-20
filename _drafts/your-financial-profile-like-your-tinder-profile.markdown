@@ -34,7 +34,7 @@ Recognize that your financial standing matters for your own stability and securi
 
 **Pay Attention To It**
 
-x
+You need to pay attention to your financial profile in order to be able to fix it at all. You can't fix what you don't know is broken! 
 
 **Talk About It**
 
