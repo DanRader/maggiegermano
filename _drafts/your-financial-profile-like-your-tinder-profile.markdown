@@ -20,11 +20,15 @@ I mentioned that a large majority of people would have second thoughts about ent
 
 ## How Can You Curate It More Like Your Online Profiles?
 
-1. **Make It a Priority**
+**Make It a Priority**
 
-2. **Pay Attention To It**
+xx
 
-3. **Talk About It**
+**Pay Attention To It**
+
+x
+
+**Talk About It**
 
 Check credit score monthly, check credit report 3x a year
 
