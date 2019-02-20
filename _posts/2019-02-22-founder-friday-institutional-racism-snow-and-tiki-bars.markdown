@@ -1,8 +1,10 @@
 ---
 title: Founder Friday | Institutional Racism, Snow, and Tiki Bars
 date: 2019-02-22 14:00:00 -05:00
+published: false
 categories:
 - founder friday
+image: "/uploads/gianluca-riccio-668903-unsplash.jpg"
 posts:
 - Founder Friday | Hamilton, Galentine's Day, and VisionCon 2019
 - Founder Friday | My Ideal Day, Pets, and Yard Work
@@ -13,9 +15,9 @@ Happy Friday! I hope you’re staying dry and warm out there. Here’s what I wa
 
 ## **How I Earned Money This Week**
 
-* x
+* Two of my clients' monthly fees went through on Sunday.
 
-* x
+* We have had an Airbnb guest staying with us all week. 
 
 ## **How I Spent Money This Week**
 
@@ -41,12 +43,10 @@ This week, in honor of Black History Month, I wrote about how [systemic racism](
 
 ## **What I’m Excited About**
 
-* If you've been following along, you know that Dan and I have been trying to find a corgi puppy to add to our family. We had two rescues fall through so we've started reaching out to local breeders. This weekend, we're driving to Powhatan, VA to visit a breeder and meet her corgi puppies. She's the first person we've spoken to who has puppies available without a huge waitlist!
-
-* x
+If you've been following along, you know that Dan and I have been trying to find a corgi puppy to add to our family. We had two rescues fall through so we've started reaching out to local breeders. This weekend, we're driving to Powhatan, VA to visit a breeder and meet her corgi puppies. She's the first person we've spoken to who has puppies available without a huge waitlist!
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![Were you kind today_.png](/uploads/Were%20you%20kind%20today_.png)
 
 That’s all from me today! Have a fantastic weekend!
