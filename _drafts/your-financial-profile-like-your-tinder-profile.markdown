@@ -10,7 +10,9 @@ posts:
 - The Difference Between Your Credit Score and Your Credit Report
 ---
 
-Have you ever worried about what a potential romantic partner might think about your financial standing? Have financial issues ever caused issues between you and your romantic partner? If you answered "yes" to either of those questions, you're not alone! In fact, money is a leading cause of relationship strife, often being cited I got an email a couple months ago from Experian about their new "[Experian Financial Profile](https://www.experian.com/consumer-products/financial-profile.html)".
+Have you ever worried about what a potential romantic partner might think about your financial standing? Have financial issues ever caused issues between you and your romantic partner? If you answered "yes" to either of those questions, you're not alone! In fact, money is a leading cause of relationship strife, often being cited as a reason for divorce. Plus, according to findings by Finder.com, 72% of Americans said they would reconsider a romantic relationship because of the other person's debt. 
+
+I got an email a couple months ago from Experian about their new "[Experian Financial Profile](https://www.experian.com/consumer-products/financial-profile.html)".
 
 Yes, there is an actual financial profile being offered by Experian, but even if you don't sign up for that, you should still care about your financial story.
 
