@@ -22,7 +22,7 @@ I mentioned that a large majority of people would have second thoughts about ent
 
 2. **Interest rates:** If you do get approved for a loan, the interest rates on that loan will vary depending on your credit history and credit score. 
 
-3. Origination fees:
+3. **Origination fees:** x
 
 4. 
 
