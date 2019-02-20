@@ -19,7 +19,11 @@ Happy Friday! I hope you’re staying dry and warm out there. Here’s what I wa
 
 ## **How I Spent Money This Week**
 
-* Groceries
+* We're trying really hard to keep our spending down until the end of the month so that we stay within our budget. So we haven't spent much money this week.
+
+* On Sunday and Thursday, we bought some groceries for making meals at home. 
+
+* We did spend a bit chunk of money on plane tickets to Chicago to visit Dan's family for Passover in April. However, we'll be pulling that money from our travel fund to cover the cost.
 
 * We haven't spent this money yet, but Dan and I are going to [Tiki TNT](https://www.tikitnt.com/) at the Wharf tonight. We try to find tiki bars in the cities that we visit, so we have to finally check out one that is in our own city!
 
@@ -28,8 +32,6 @@ Happy Friday! I hope you’re staying dry and warm out there. Here’s what I wa
 This week, in honor of Black History Month, I wrote about how [systemic racism](https://www.maggiegermano.com/blog/the-economic-effects-of-racism/) has long-lasting economic effects. 
 
 ## **What I’m Up To**
-
-* x
 
 * On Wednesday, March 6th, I will be at the [Lemon Collective](https://www.eventbrite.com/e/aligning-your-money-with-your-values-tickets-54778910195) leading a workshop on how to align your money with your values.
 
