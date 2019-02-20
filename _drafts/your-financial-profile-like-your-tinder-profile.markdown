@@ -18,7 +18,13 @@ However, according to Experian's recent consumer survey, only 31 percent of peop
 
 I mentioned that a large majority of people would have second thoughts about entering into a relationship with someone who has debt. I don't necessarily agree with that sentiment, but it's something to consider if you're looking for a longterm relationship. However, there are other reasons why this should be important to you that go beyond romantic love.
 
-1. 
+1. **Credit worthiness:** Your financial history will determine whether or not a lender wants to front money to you. This applies to credit card companies, mortgage lenders, personal and student loan providers, car companies, and more. If your credit history looks bad, these lenders can decide not to give you a loan at all, which can limit what you're able to do with your future.
+
+2. **Interest rates:** If you do get approved for a loan, the interest rates on that loan will vary depending on your credit history and credit score. 
+
+3. Origination fees:
+
+4. 
 
 ## How Can You Curate It More Like Your Online Profiles?
 
