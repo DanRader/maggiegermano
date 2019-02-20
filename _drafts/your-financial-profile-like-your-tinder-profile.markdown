@@ -18,11 +18,13 @@ However, according to Experian's recent consumer survey, only 31 percent of peop
 
 I mentioned that a large majority of people would have second thoughts about entering into a relationship with someone who has debt. I don't necessarily agree with that sentiment, but it's something to consider if you're looking for a longterm relationship. However, there are other reasons why this should be important to you that go beyond romantic love.
 
+1. 
+
 ## How Can You Curate It More Like Your Online Profiles?
 
 **Make It a Priority**
 
-xx
+Recognize that your financial standing matters for your own stability and security. 
 
 **Pay Attention To It**
 
