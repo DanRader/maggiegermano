@@ -12,13 +12,7 @@ posts:
 
 Have you ever worried about what a potential romantic partner might think about your financial standing? Have financial issues ever caused issues between you and your romantic partner? If you answered "yes" to either of those questions, you're not alone! In fact, money is a leading cause of relationship strife, often being cited as a reason for divorce. Plus, according to findings by [Finder.com](https://www.finder.com/unacceptable-partner-debt), 72 percent of Americans said they would reconsider a romantic relationship because of the other person's debt. 
 
-However, according to Experian's recent consumer survey, only 31 percent of people believe that their financial profile will show them in a good light. 
-
-In contrast, more than half of Experian's respondents feel as though their social media and online dating profiles show them in a positive light. 
-
-I got an email a couple months ago from Experian about their new "[Experian Financial Profile](https://www.experian.com/consumer-products/financial-profile.html)".
-
-Yes, there is an actual financial profile being offered by Experian, but even if you don't sign up for that, you should still care about your financial story.
+However, according to Experian's recent consumer survey, only 31 percent of people believe that their financial profile will show them in a good light. Furthermore, 51 percent of people don't think they know enough about their own financial profile. In contrast, more than half of Experian's respondents feel as though their social media and online dating profiles show them in a positive light. This is in large part due to how highly curated online profiles are.
 
 ## Make It a Priority
 
@@ -37,3 +31,7 @@ The why
 ## It Affects Who Will Engage with You
 
 x
+
+I got an email a couple months ago from Experian about their new "[Experian Financial Profile](https://www.experian.com/consumer-products/financial-profile.html)".
+
+Yes, there is an actual financial profile being offered by Experian, but even if you don't sign up for that, you should still care about your financial story.
