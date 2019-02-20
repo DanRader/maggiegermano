@@ -14,6 +14,8 @@ Have you ever worried about what a potential romantic partner might think about 
 
 However, according to Experian's recent consumer survey, only 31 percent of people believe that their financial profile will show them in a good light. 
 
+In contrast, more than half of Experian's respondents feel as though their social media and online dating profiles show them in a positive light. 
+
 I got an email a couple months ago from Experian about their new "[Experian Financial Profile](https://www.experian.com/consumer-products/financial-profile.html)".
 
 Yes, there is an actual financial profile being offered by Experian, but even if you don't sign up for that, you should still care about your financial story.
