@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Institutional Racism, Snow, and Tiki Bars
 date: 2019-02-22 14:00:00 -05:00
+published: false
 categories:
 - founder friday
 image: "/uploads/gianluca-riccio-668903-unsplash.jpg"
@@ -14,9 +15,9 @@ Happy Friday! I hope you’re staying dry and warm out there. Here’s what I wa
 
 ## **How I Earned Money This Week**
 
-* x
+* Two of my clients' monthly fees went through on Sunday.
 
-* x
+* We have had an Airbnb guest staying with us all week. 
 
 ## **How I Spent Money This Week**
 
