@@ -25,7 +25,7 @@ Happy Friday! I hope you’re staying dry and warm out there. Here’s what I wa
 
 ## **What I’m Writing**
 
-x
+This week, in honor of Black History Month, I wrote about how [systemic racism](https://www.maggiegermano.com/blog/the-economic-effects-of-racism/) has long-lasting economic effects. 
 
 ## **What I’m Up To**
 
@@ -39,7 +39,7 @@ x
 
 ## **What I’m Excited About**
 
-* If you've been following along, you know that Dan and I have been trying to find a corgi puppy to add to our family. We had two rescues fall through so we've started reaching out to local breeders. This weekend, we're driving to Powhatan, VA to visit a breeder and meet her corgi puppies. She's the first person we've spoken to who has puppies available without a huge waitlist! 
+* If you've been following along, you know that Dan and I have been trying to find a corgi puppy to add to our family. We had two rescues fall through so we've started reaching out to local breeders. This weekend, we're driving to Powhatan, VA to visit a breeder and meet her corgi puppies. She's the first person we've spoken to who has puppies available without a huge waitlist!
 
 * x
 
