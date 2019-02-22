@@ -22,9 +22,11 @@ I mentioned that a large majority of people would have second thoughts about ent
 
 2. **Interest rates:** If you do get approved for a loan, the interest rates on that loan will vary depending on your credit history and credit score.
 
-3. **Origination fees:** x
+3. **Origination fees:** Sometimes, if you take out a loan, you're not just paying for the loan itself and interest. There is often an origination fee added on top of it. Your credit score and credit history can determine the rate of that fee, which can save or cost you hundreds or even thousands of dollars. 
 
-4. 
+4. **Employability:** I don't agree with this, but some employers pull your credit history when considering you as an employee. 
+
+5. **Getting an apartment:** More and more landlords and property managers are checking credit before they allow you to move into a new place. 
 
 ## How Can You Curate It More Like Your Online Profiles?
 
@@ -42,7 +44,9 @@ Finally, check your [credit report](https://www.maggiegermano.com/blog/the-diffe
 
 **Take Action**
 
-If you realize that your credit score is lower than you'd like it to be, or you have more debt than you thought, it's time to start doing something about it. 
+If you realize that your credit score is lower than you'd like it to be, or you have more debt than you thought, it's time to start doing something about it. Put a debt repayment into place, contact the credit bureau about a mistake on your credit report, or [hire a financial coach](https://www.maggiegermano.com/coaching/). 
+
+Do you feel more motivated to take care of your financial profile?
 
 --
 
