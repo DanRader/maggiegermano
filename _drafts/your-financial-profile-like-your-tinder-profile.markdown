@@ -44,7 +44,7 @@ Finally, check your [credit report](https://www.maggiegermano.com/blog/the-diffe
 
 **Take Action**
 
-If you realize that your credit score is lower than you'd like it to be, or you have more debt than you thought, it's time to start doing something about it. 
+If you realize that your credit score is lower than you'd like it to be, or you have more debt than you thought, it's time to start doing something about it. Put a debt repayment into place, 
 
 --
 
