@@ -46,4 +46,4 @@ If you realize that your credit score is lower than you'd like it to be, or you 
 
 --
 
-One way to get started on improving your financial circumstances is to sign up for Experian's new, free [Financial Profile](https://www.experian.com/consumer-products/financial-profile.html). With this, you can see the type of information that lenders see, understand your full financial picture, and know who’s looking at your information. Plus, checking this profile won't hurt your credit!
+*One way to get started on improving your financial circumstances is to sign up for Experian's new, free [Financial Profile](https://www.experian.com/consumer-products/financial-profile.html). With this, you can see the type of information that lenders see, understand your full financial picture, and know who’s looking at your information. Plus, checking this profile won't hurt your credit!*
