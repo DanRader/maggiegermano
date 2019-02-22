@@ -40,8 +40,4 @@ You need to pay attention to your financial profile in order to be able to fix i
 
 Check credit score monthly, check credit report 3x a year
 
-I got an email a couple months ago from Experian about their new "[Experian Financial Profile](https://www.experian.com/consumer-products/financial-profile.html)".
-
-One way to get started 
-
-Yes, there is an actual financial profile being offered by Experian, but even if you don't sign up for that, you should still care about your financial story.
+One way to get started on improving your financial circumstances is to sign up for Experian's new, free [Financial Profile](https://www.experian.com/consumer-products/financial-profile.html). 
