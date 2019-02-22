@@ -20,7 +20,7 @@ I mentioned that a large majority of people would have second thoughts about ent
 
 1. **Credit worthiness:** Your financial history will determine whether or not a lender wants to front money to you. This applies to credit card companies, mortgage lenders, personal and student loan providers, car companies, and more. If your credit history looks bad, these lenders can decide not to give you a loan at all, which can limit what you're able to do with your future.
 
-2. **Interest rates:** If you do get approved for a loan, the interest rates on that loan will vary depending on your credit history and credit score. 
+2. **Interest rates:** If you do get approved for a loan, the interest rates on that loan will vary depending on your credit history and credit score.
 
 3. **Origination fees:** x
 
@@ -30,16 +30,18 @@ I mentioned that a large majority of people would have second thoughts about ent
 
 **Make It a Priority**
 
-Recognize that your financial standing matters for your own stability and security. 
+Recognize that your financial standing matters for your own stability and security.
 
 **Pay Attention To It**
 
-You need to pay attention to your financial profile in order to be able to fix it at all. You can't fix what you don't know is broken! 
+You need to pay attention to your financial profile in order to be able to fix it at all. You can't fix what you don't know is broken!
 
 **Talk About It**
 
 Check credit score monthly, check credit report 3x a year
 
 I got an email a couple months ago from Experian about their new "[Experian Financial Profile](https://www.experian.com/consumer-products/financial-profile.html)".
+
+One way to get started 
 
 Yes, there is an actual financial profile being offered by Experian, but even if you don't sign up for that, you should still care about your financial story.
