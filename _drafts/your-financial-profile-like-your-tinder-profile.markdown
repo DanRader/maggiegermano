@@ -30,7 +30,7 @@ I mentioned that a large majority of people would have second thoughts about ent
 
 **Make It a Priority**
 
-Recognize that your financial standing matters for your own stability and security. It's not some 
+Recognize that your financial standing matters for your own stability and security. It's not something that you can continue to ignore, because it will affect you down the line. 
 
 **Pay Attention To It**
 
@@ -38,7 +38,7 @@ You need to pay attention to your financial profile in order to be able to fix i
 
 Next, you should be checking your credit score monthly. There are so many free options out there now, like [Credit Karma](http://www.creditkarma.com) or [Credit Sesam](http://www.creditsesame.com)e. Chances are, you bank or credit card company also offer your credit score for free. Your credit score indicates whether or not you are trustworthy to lenders. If you're planning on applying for a loan in the near future, you'll want to know what your [credit score](https://www.maggiegermano.com/blog/care-about-your-credit-score) is so that you can get to work to improve it, if necessary. And no, checking your credit score doesn't hurt it!
 
-Finally, check your credit report three times a year! All three credit bureaus are legally required to provide you with one free credit report each year. That means that you can get three credit reports each year (one from each bureau). I like to space them out and pull one every four months from a different bureau. Go to annualcreditreport.com to get your free credit report. This is important because your credit report is your actual financial history. It's what influences your credit score. All of the good and bad financial behavior in the past seven years will be listed on it. However, sometimes there are mistakes. Sometimes a bill that you actually paid will be erroneously sent to collections. Even more dire, sometimes someone will use your name to open fraudulent credit accounts. You wouldn't necessarily know these things if you weren't pulling your credit report regularly, which means that they could hurt you without you knowing. 
+Finally, check your [credit report](https://www.maggiegermano.com/blog/the-difference-between-your-credit-score-and-your-credit-report/) three times a year! All three credit bureaus are legally required to provide you with one free credit report each year. That means that you can get three credit reports each year (one from each bureau). I like to space them out and pull one every four months from a different bureau. Go to annualcreditreport.com to get your free credit report. This is important because your credit report is your actual financial history. It's what influences your credit score. All of the good and bad financial behavior in the past seven years will be listed on it. However, sometimes there are mistakes. Sometimes a bill that you actually paid will be erroneously sent to collections. Even more dire, sometimes someone will use your name to open fraudulent credit accounts. You wouldn't necessarily know these things if you weren't pulling your credit report regularly, which means that they could hurt you without you knowing. 
 
 **Take Action**
 
