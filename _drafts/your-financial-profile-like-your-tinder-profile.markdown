@@ -22,7 +22,7 @@ I mentioned that a large majority of people would have second thoughts about ent
 
 2. **Interest rates:** If you do get approved for a loan, the interest rates on that loan will vary depending on your credit history and credit score.
 
-3. **Origination fees:** Sometimes, if you take out a loan
+3. **Origination fees:** Sometimes, if you take out a loan, you're not just paying for the loan itself and interest. There is often an origination fee added on top of it. Your credit score and credit history can determine the rate of that fee, which can save or cost you hundreds or even thousands of dollars. 
 
 4. 
 
