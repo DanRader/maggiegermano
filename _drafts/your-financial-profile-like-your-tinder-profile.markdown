@@ -34,10 +34,12 @@ Recognize that your financial standing matters for your own stability and securi
 
 **Pay Attention To It**
 
-You need to pay attention to your financial profile in order to be able to fix it at all. You can't fix what you don't know is broken!
+You need to pay attention to your financial profile in order to be able to fix it at all. You can't fix what you don't know is broken! Your first step should be to pull all of your financial information into one place. That might mean opening a [Mint](www.mint.com) account, or it might mean just making a spreadsheet. Having all of that information in front of you will help you to understand exactly where you're starting from. It will help you understand what changes, if any, need to be made. 
+
+Next, you should be checking your credit score monthly. There are so many free options out there now, like [Credit Karma](http://www.creditkarma.com) or [Credit Sesam](http://www.creditsesame.com)e. Chances are, you bank or credit card company also offer your credit score for free. 
 
 **Talk About It**
 
 Check credit score monthly, check credit report 3x a year
 
-One way to get started on improving your financial circumstances is to sign up for Experian's new, free [Financial Profile](https://www.experian.com/consumer-products/financial-profile.html). 
+One way to get started on improving your financial circumstances is to sign up for Experian's new, free [Financial Profile](https://www.experian.com/consumer-products/financial-profile.html). With this, you can see the type of information that lenders see, understand your full financial picture, and know who’s looking at your information. Plus, checking this profile won't hurt your credit!
