@@ -30,7 +30,7 @@ I mentioned that a large majority of people would have second thoughts about ent
 
 **Make It a Priority**
 
-Recognize that your financial standing matters for your own stability and security. 
+Recognize that your financial standing matters for your own stability and security. It's not some 
 
 **Pay Attention To It**
 
