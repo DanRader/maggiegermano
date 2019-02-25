@@ -10,7 +10,7 @@ posts:
 - The Financial Impact of Sexual Harassment and Abuse
 ---
 
-x
+Happy Women's History Month! 
 
 ## Menstruation Products Cost Money
 
