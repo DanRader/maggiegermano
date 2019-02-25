@@ -21,3 +21,11 @@ x
 x
 
 ## Menstruation Causes Women to Miss Work
+
+x
+
+What Should We Do?
+
+* Make menstruation products available to all
+
+* 
