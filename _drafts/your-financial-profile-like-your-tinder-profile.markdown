@@ -26,7 +26,7 @@ I mentioned that a large majority of people would have second thoughts about ent
 
 4. **Employability:** I don't agree with this, but some employers pull your credit history when considering you as an employee. If you have a negative history, this might cause you to be denied for a job. I used to work with someone who got turned away when he was going from being a contractor to a full-time employee because of an old credit card bill he never paid. 
 
-5. **Getting an apartment:** More and more landlords and property managers are checking credit before they allow you to move into a new place. Having a good credit score and a positive credit history, 
+5. **Getting an apartment:** More and more landlords and property managers are checking credit before they allow you to move into a new place. Having a good credit score and a positive credit history, to lenders and people like landlords, means you're more trustworthy. So if you have negative marks on your credit report, they may turn you away. 
 
 ## How Can You Curate It More Like Your Online Profiles?
 
