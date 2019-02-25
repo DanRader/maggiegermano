@@ -10,3 +10,14 @@ posts:
 - The Financial Impact of Sexual Harassment and Abuse
 ---
 
+x
+
+## Menstruation Products Cost Money
+
+x
+
+## Menstruation Causes Girls to Miss School
+
+x
+
+## Menstruation Causes Women to Miss Work
