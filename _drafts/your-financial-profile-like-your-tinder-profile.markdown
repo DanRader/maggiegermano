@@ -20,13 +20,13 @@ I mentioned that a large majority of people would have second thoughts about ent
 
 1. **Credit worthiness:** Your financial history will determine whether or not a lender wants to front money to you. This applies to credit card companies, mortgage lenders, personal and student loan providers, car companies, and more. If your credit history looks bad, these lenders can decide not to give you a loan at all, which can limit what you're able to do with your future.
 
-2. **Interest rates:** If you do get approved for a loan, the interest rates on that loan will vary depending on your credit history and credit score.
+2. **Interest rates:** If you do get approved for a loan, the interest rates on that loan will vary depending on your credit history and credit score. Depending on the size of the loan, this could cost or save you thousands of dollars. The higher your credit score, the lower your interest rate.
 
 3. **Origination fees:** Sometimes, if you take out a loan, you're not just paying for the loan itself and interest. There is often an origination fee added on top of it. Your credit score and credit history can determine the rate of that fee, which can save or cost you hundreds or even thousands of dollars.
 
 4. **Employability:** I don't agree with this, but some employers pull your credit history when considering you as an employee. If you have a negative history, this might cause you to be denied for a job. I used to work with someone who got turned away when he was going from being a contractor to a full-time employee because of an old credit card bill he never paid. 
 
-5. **Getting an apartment:** More and more landlords and property managers are checking credit before they allow you to move into a new place.
+5. **Getting an apartment:** More and more landlords and property managers are checking credit before they allow you to move into a new place. Having a good credit score and a positive credit history, 
 
 ## How Can You Curate It More Like Your Online Profiles?
 
