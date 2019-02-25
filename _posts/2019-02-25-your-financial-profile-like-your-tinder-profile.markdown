@@ -4,6 +4,7 @@ date: 2019-02-25 11:00:00 -05:00
 categories:
 - lifestyle
 image: "/uploads/rawpixel-1137673-unsplash.jpg"
+tweet: 'Why you should care as much about your financial profile as your dating profile. '
 posts:
 - Why You Should Check Your Credit Report Regularly
 - Why Credit Card Interest Sucks and What You Could Be Spending It On Instead
@@ -32,7 +33,7 @@ I mentioned that a large majority of people would have second thoughts about ent
 
 **Make It a Priority**
 
-Recognize that your financial standing matters for your own stability and security. It's not something that you can continue to ignore, because it will affect you down the line.
+Recognize that your financial standing matters for your own stability and security. It's not about what you "should" or "shouldn't" do, it's about protecting yourself in the long term. It's not something that you can continue to ignore, because it will affect you down the line. It will determine what you're able to do and the opportunities that you have. So put it at the top of your priority list! 
 
 **Pay Attention To It**
 
@@ -44,7 +45,7 @@ Finally, check your [credit report](https://www.maggiegermano.com/blog/the-diffe
 
 **Take Action**
 
-If you realize that your credit score is lower than you'd like it to be, or you have more debt than you thought, it's time to start doing something about it. Put a debt repayment into place, contact the credit bureau about a mistake on your credit report, or [hire a financial coach](https://www.maggiegermano.com/coaching/).
+The most important thing to do is to do something. If you realize that your credit score is lower than you'd like it to be, or you have more debt than you thought, it's time to start doing something about it. It can feel overwhelming, so you should start with incremental goals. Put a debt repayment into place, contact the credit bureau about a mistake on your credit report, or [hire a financial coach](https://www.maggiegermano.com/coaching/). You have more control than you might think, and you can start improving your financial situation today. 
 
 Do you feel more motivated to take care of your financial profile?
 
