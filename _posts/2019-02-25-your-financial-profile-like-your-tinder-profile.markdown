@@ -4,6 +4,7 @@ date: 2019-02-25 11:00:00 -05:00
 categories:
 - lifestyle
 image: "/uploads/rawpixel-1137673-unsplash.jpg"
+tweet: 'Why you should care as much about your financial profile as your dating profile. '
 posts:
 - Why You Should Check Your Credit Report Regularly
 - Why Credit Card Interest Sucks and What You Could Be Spending It On Instead
@@ -32,7 +33,7 @@ I mentioned that a large majority of people would have second thoughts about ent
 
 **Make It a Priority**
 
-Recognize that your financial standing matters for your own stability and security. It's not something that you can continue to ignore, because it will affect you down the line.
+Recognize that your financial standing matters for your own stability and security. It's not about what you "should" or "shouldn't" do, it's about protecting yourself in the long term. It's not something that you can continue to ignore, because it will affect you down the line. It will determine what you're able to do and the opportunities that you have. So put it at the top of your priority list! 
 
 **Pay Attention To It**
 
