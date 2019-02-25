@@ -24,8 +24,12 @@ x
 
 x
 
+Those are the reasons that menstruation impacts women's financial well-being. However, it is also a basic human right to have access to the things that your body needs. And obviously, feminine hygiene products are something menstruating people need once a month for more than half their lives. 
+
 ## What Should We Do?
 
 * Make menstruation products available to all
+
+* 
 
 * 
