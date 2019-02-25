@@ -10,7 +10,7 @@ posts:
 - The Financial Impact of Sexual Harassment and Abuse
 ---
 
-Happy Women's History Month! 
+Happy Women's History Month! This month, my blog will focus on issues that specifically affect women and their financial future. This week, I'm talking about periods. If any guys are reading, I'm not sorry! Menstruation is a normal thing that affects most people with uteruses at some point in their lives. 
 
 ## Menstruation Products Cost Money
 
