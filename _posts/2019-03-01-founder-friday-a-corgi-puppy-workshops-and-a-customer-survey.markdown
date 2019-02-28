@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | A Corgi Puppy, Workshops, and a Customer Survey
 date: 2019-03-01 14:00:00 -05:00
+published: false
 categories:
 - founder friday
 image: "/uploads/brianna-santellan-628317-unsplash.jpg"
@@ -14,7 +15,11 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## **How I Earned Money This Week**
 
-* x
+* One of my retainer client's fees came through this week.
+
+* Dan's paycheck was deposited yesterday
+
+* We had an Airbnb guest staying with us all week and we have another family arriving today.
 
 ## **How I Spent Money This Week**
 
@@ -23,6 +28,8 @@ Happy Friday! Here’s what I was up to this past week.
 * Since we knew we would be bringing home a puppy this weekend, we had a lot of supplies to buy! We used Chewy to buy an exercise pen, potty pads, food, toys, shampoo, food bowls, a collar, leash, bed, and more. Luckily, we saved up for these expenses way ahead of time, so it's not hurting our wallet!
 
 * There are a few things around the house that we need to do to make it safe for a puppy. It turns out, most of my plants are poisonous to dogs! We bought a tiered shelf that will raise the plants higher than the puppy can reach.
+
+* Outside of puppy expenses, we have been on a spending freeze so that we don't go over budget for February. I'm excited to be starting a new month today!
 
 * Tomorrow, we will be paying the rest of what we owe for the puppy. 
 
@@ -43,6 +50,8 @@ This week, I wrote about why you should care about your [financial profile](http
 ## **What I’m Excited About**
 
 * Dan and I are finally getting a puppy this weekend! We drove down to Richmond last weekend to meet a corgi puppy and we loved him on sight. We are driving back down first thing tomorrow to pick him up and take him home with us. Follow me on [Instagram](https://www.instagram.com/maggiegermano/) to see how cute he is! I'll also take any advice or resources that you have on how to raise a puppy.
+
+* I want to hear from you! As I am continuing to create blog content and expanding my work into online courses, a podcast, and more workshops, I want to make sure I'm creating things that are useful to YOU. I've made a survey for my clients and readers to hear about what you most want to learn about. [Fill it out here](https://docs.google.com/forms/d/e/1FAIpQLSedjARbOmwC3_EomplCDDmNze_ZVLHwymIhqJbNcNqvM6gWVg/viewform?usp=sf_link)!
 
 ## **Money Tip to Take Into the Weekend**
 
