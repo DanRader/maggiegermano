@@ -28,6 +28,8 @@ This week, I wrote about why you should care about your [financial profile](http
 
 ## **What I’m Up To**
 
+* I was quoted in [KaurSpace](https://kaurspace.com/magazine/01/manifesting-money-jane-harkness?fbclid=IwAR3ldMM6uOzGYb-ncFq5yAxestiNw9XNxx1jZv5qIstTbFnExZ2o6YLpNOc) about money mindset, and why it's important.
+
 * On Wednesday, March 6th, I will be at the [Lemon Collective](https://www.eventbrite.com/e/aligning-your-money-with-your-values-tickets-54778910195) leading a workshop on how to align your money with your values.
 
 * On Tuesday, March 12th, I will be at [Mindspace](https://www.eventbrite.com/e/making-breaking-the-budget-tickets-55047193638) leading a workshop called Making & Breaking the Budget. If you struggle with creating and sticking to a budget, this one is for you!
@@ -36,7 +38,7 @@ This week, I wrote about why you should care about your [financial profile](http
 
 ## **What I’m Excited About**
 
-* Dan and I are finally getting a puppy this weekend! We drove down to Richmond last weekend to meet a corgi puppy and we loved him on sight. We are driving back down first thing tomorrow to pick him up and take him home with us. Follow me on [Instagram](https://www.instagram.com/maggiegermano/) to see how cute he is!
+* Dan and I are finally getting a puppy this weekend! We drove down to Richmond last weekend to meet a corgi puppy and we loved him on sight. We are driving back down first thing tomorrow to pick him up and take him home with us. Follow me on [Instagram](https://www.instagram.com/maggiegermano/) to see how cute he is! I'll also take any advice or resources that you have on how to raise a puppy.
 
 ## **Money Tip to Take Into the Weekend**
 
