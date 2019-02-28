@@ -14,7 +14,11 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## **How I Earned Money This Week**
 
-* x
+* One of my retainer client's fees came through this week.
+
+* Dan's paycheck was deposited yesterday
+
+* We had an Airbnb guest staying with us all week and we have another family arriving today.
 
 ## **How I Spent Money This Week**
 
@@ -23,6 +27,8 @@ Happy Friday! Here’s what I was up to this past week.
 * Since we knew we would be bringing home a puppy this weekend, we had a lot of supplies to buy! We used Chewy to buy an exercise pen, potty pads, food, toys, shampoo, food bowls, a collar, leash, bed, and more. Luckily, we saved up for these expenses way ahead of time, so it's not hurting our wallet!
 
 * There are a few things around the house that we need to do to make it safe for a puppy. It turns out, most of my plants are poisonous to dogs! We bought a tiered shelf that will raise the plants higher than the puppy can reach.
+
+* Outside of puppy expenses, we have been on a spending freeze so that we don't go over budget for February. I'm excited to be starting a new month today!
 
 * Tomorrow, we will be paying the rest of what we owe for the puppy. 
 
