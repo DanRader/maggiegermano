@@ -3,6 +3,7 @@ title: The Economics of Menstruation
 date: 2019-03-04 11:00:00 -05:00
 categories:
 - lifestyle
+- budget
 image: "/uploads/josefin-1234218-unsplash.jpg"
 posts:
 - Why And How Women Must Prepare Differently for the Future
