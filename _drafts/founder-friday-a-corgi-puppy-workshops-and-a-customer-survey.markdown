@@ -18,9 +18,13 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## **How I Spent Money This Week**
 
-* x
+* On Sunday, Dan and I drove to Richmond to meet our future puppy, and we bought some snacks at the gas station on the way home. We also put down a deposit on the puppy.
 
-* x
+* Since we knew we would be bringing home a puppy this weekend, we had a lot of supplies to buy! We used Chewy to buy an exercise pen, potty pads, food, toys, shampoo, food bowls, a collar, leash, bed, and more. Luckily, we saved up for these expenses way ahead of time, so it's not hurting our wallet!
+
+* There are a few things around the house that we need to do to make it safe for a puppy. It turns out, most of my plants are poisonous to dogs! We bought a tiered shelf that will raise the plants higher than the puppy can reach.
+
+* Tomorrow, we will be paying the rest of what we owe for the puppy. 
 
 ## **What I’m Writing**
 
