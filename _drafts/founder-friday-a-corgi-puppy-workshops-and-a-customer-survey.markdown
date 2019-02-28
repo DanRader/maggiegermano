@@ -23,7 +23,7 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## **What I’m Writing**
 
-This week, x
+This week, I wrote about why you should care about your [financial profile](https://www.maggiegermano.com/blog/your-financial-profile-like-your-tinder-profile/) (aka, your credit score, credit history, credit report, etc.). 
 
 ## **What I’m Up To**
 
@@ -35,7 +35,7 @@ This week, x
 
 ## **What I’m Excited About**
 
-x
+* Dan and I are finally getting a puppy this weekend! We drove down to Richmond last weekend to meet a corgi puppy and we loved him on sight. We are driving back down first thing tomorrow to pick him up and take him home with us. 
 
 ## **Money Tip to Take Into the Weekend**
 
