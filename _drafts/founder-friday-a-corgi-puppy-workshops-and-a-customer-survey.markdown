@@ -3,6 +3,7 @@ title: Founder Friday | A Corgi Puppy, Workshops, and a Customer Survey
 date: 2019-03-01 14:00:00 -05:00
 categories:
 - founder friday
+image: "/uploads/brianna-santellan-628317-unsplash.jpg"
 posts:
 - Founder Friday | Institutional Racism, Snow, and Tiki Bars
 - Founder Friday | Hamilton, Galentine's Day, and VisionCon 2019
@@ -39,6 +40,6 @@ This week, I wrote about why you should care about your [financial profile](http
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![Good Morning.png](/uploads/Good%20Morning.png)
 
 That’s all from me today! Have a fantastic weekend!
