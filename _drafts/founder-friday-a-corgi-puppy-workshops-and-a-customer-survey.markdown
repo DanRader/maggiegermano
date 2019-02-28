@@ -36,7 +36,7 @@ This week, I wrote about why you should care about your [financial profile](http
 
 ## **What I’m Excited About**
 
-* Dan and I are finally getting a puppy this weekend! We drove down to Richmond last weekend to meet a corgi puppy and we loved him on sight. We are driving back down first thing tomorrow to pick him up and take him home with us. 
+* Dan and I are finally getting a puppy this weekend! We drove down to Richmond last weekend to meet a corgi puppy and we loved him on sight. We are driving back down first thing tomorrow to pick him up and take him home with us. Follow me on [Instagram](https://www.instagram.com/maggiegermano/) to see how cute he is!
 
 ## **Money Tip to Take Into the Weekend**
 
