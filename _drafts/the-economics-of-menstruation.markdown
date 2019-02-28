@@ -11,7 +11,7 @@ posts:
 - The Financial Impact of Sexual Harassment and Abuse
 ---
 
-Happy Women's History Month! This month, my blog will focus on issues that specifically affect women and their financial futures. This particular week, I'm talking about periods. If any guys are reading, I'm not sorry! Menstruation is a normal (and essential) process that affects most people with uteruses at some point in their lives, oftentimes for up to 40 years! But just because menstruation is a naturally occurring process doesn't mean that it doesn't still result in financial trouble for women and girls. This piece will review those issues and then lay out some potential solutions. 
+Happy Women's History Month! This month, my blog will focus on issues that specifically affect women and their financial futures. This particular week, I'm talking about periods. If any guys are reading, I'm not sorry! Menstruation is a normal (and essential) process that affects most people with uteruses at some point in their lives, oftentimes for up to 40 years! But just because menstruation is a naturally occurring process doesn't mean that it doesn't still result in financial trouble for women and girls. This piece will review those issues and then lay out some potential solutions.
 
 ## Menstruation Products Cost Money
 
@@ -25,7 +25,7 @@ x
 
 x
 
-Those are the reasons that menstruation impacts women's financial well-being. However, it is also a basic human right to have access to the things that your body needs. And obviously, feminine hygiene products are something menstruating people need once a month for more than half their lives. 
+Those are the reasons that menstruation impacts women's financial well-being. However, it is also a basic human right to have access to the things that your body needs. And obviously, feminine hygiene products are something menstruating people need once a month for more than half their lives.
 
 ## What Should We Do?
 
@@ -33,4 +33,12 @@ Those are the reasons that menstruation impacts women's financial well-being. Ho
 
 * 
 
-* 
+* x
+
+## What Can You Do?
+
+* Donate products to local shelters, VA hospitals, prisons, and other organizations.
+
+* Donate money to organizations working to provide products and/or end the stigma
+
+* Check out the short film Period. End of Sentence. It's on Netflix and it won best documentary at the Oscars this year. It is about women in India fighting the stigma around periods.
