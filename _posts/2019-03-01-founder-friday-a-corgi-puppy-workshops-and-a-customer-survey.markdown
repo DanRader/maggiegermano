@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | A Corgi Puppy, Workshops, and a Customer Survey
 date: 2019-03-01 14:00:00 -05:00
-published: false
 categories:
 - founder friday
 image: "/uploads/brianna-santellan-628317-unsplash.jpg"
