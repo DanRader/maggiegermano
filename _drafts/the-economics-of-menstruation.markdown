@@ -23,9 +23,15 @@ the average woman spends about $120 per year on pads and tampons and an addition
 
 Around the world, only 12 percent of young people with periods have access to the products they need.
 
+Across the world, an estimated 100 million young people lack access to adequate menstrual products
+
 ## Menstruation Causes Girls to Miss School
 
 x
+
+In Africa, one in ten adolescent girls miss school during their period.
+
+In some countries, people are still isolated from their communities while on their periods.
 
 ## Menstruation Causes Women to Miss Work
 
