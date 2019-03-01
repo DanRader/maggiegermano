@@ -17,7 +17,11 @@ Happy Women's History Month! This month, my blog will focus on issues that speci
 
 x
 
-**the average woman spends about $120 per year on pads and tampons**and an additional $20 each year on over-the-counter medication to combat cramps and other period-related side effects. Women on average menstruate for 40 years (taking into account that some women have children), so each woman **spends approximately $5,600 on her period over her lifetime**.
+the average woman spends about $120 per year on pads and tampons and an additional $20 each year on over-the-counter medication to combat cramps and other period-related side effects. Women on average menstruate for 40 years (taking into account that some women have children), so each woman spends approximately $5,600 on her period over her lifetime.
+
+## Access Is Not Always a Given
+
+Around the world, only 12 percent of young people with periods have access to the products they need.
 
 ## Menstruation Causes Girls to Miss School
 
