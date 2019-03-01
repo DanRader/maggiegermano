@@ -33,6 +33,8 @@ In Africa, one in ten adolescent girls miss school during their period.
 
 In some countries, people are still isolated from their communities while on their periods.
 
+In India, [23 percent](https://www.dasra.org/assets/uploads/resources/Spot%20On%20-%20Improving%20Menstrual%20Management%20in%20India.pdf) of girls drop out school when they hit puberty due to their periods.
+
 ## Menstruation Causes Women to Miss Work
 
 x
