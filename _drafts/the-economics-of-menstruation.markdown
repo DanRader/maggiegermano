@@ -33,6 +33,8 @@ In Africa, one in ten adolescent girls miss school during their period.
 
 In some countries, people are still isolated from their communities while on their periods.
 
+In India, [23 percent](https://www.dasra.org/assets/uploads/resources/Spot%20On%20-%20Improving%20Menstrual%20Management%20in%20India.pdf) of girls drop out school when they hit puberty due to their periods.
+
 ## Menstruation Causes Women to Miss Work
 
 x
@@ -51,6 +53,6 @@ Those are the reasons that menstruation impacts women's financial well-being. Ho
 
 * Donate products to local shelters, VA hospitals, prisons, and other organizations.
 
-* Donate money to organizations working to provide products and/or end the stigma
+* Donate money to organizations working to provide products and/or end the stigma.
 
 * Check out the short film [Period. End of Sentence.](https://www.netflix.com/title/81074663) It's on Netflix and it won best documentary at the Oscars this year. It is about women in India fighting the stigma around periods.
