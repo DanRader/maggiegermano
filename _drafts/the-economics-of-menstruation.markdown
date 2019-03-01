@@ -53,6 +53,6 @@ Those are the reasons that menstruation impacts women's financial well-being. Ho
 
 * Donate products to local shelters, VA hospitals, prisons, and other organizations.
 
-* Donate money to organizations working to provide products and/or end the stigma
+* Donate money to organizations working to provide products and/or end the stigma.
 
 * Check out the short film [Period. End of Sentence.](https://www.netflix.com/title/81074663) It's on Netflix and it won best documentary at the Oscars this year. It is about women in India fighting the stigma around periods.
