@@ -17,6 +17,8 @@ Happy Women's History Month! This month, my blog will focus on issues that speci
 
 x
 
+**the average woman spends about $120 per year on pads and tampons**and an additional $20 each year on over-the-counter medication to combat cramps and other period-related side effects. Women on average menstruate for 40 years (taking into account that some women have children), so each woman **spends approximately $5,600 on her period over her lifetime**.
+
 ## Menstruation Causes Girls to Miss School
 
 x
@@ -41,4 +43,4 @@ Those are the reasons that menstruation impacts women's financial well-being. Ho
 
 * Donate money to organizations working to provide products and/or end the stigma
 
-* Check out the short film Period. End of Sentence. It's on Netflix and it won best documentary at the Oscars this year. It is about women in India fighting the stigma around periods.
+* Check out the short film [Period. End of Sentence.](https://www.netflix.com/title/81074663) It's on Netflix and it won best documentary at the Oscars this year. It is about women in India fighting the stigma around periods.
