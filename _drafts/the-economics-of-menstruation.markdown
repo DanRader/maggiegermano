@@ -11,7 +11,7 @@ posts:
 - The Financial Impact of Sexual Harassment and Abuse
 ---
 
-Happy Women's History Month! This month, my blog will focus on issues that specifically affect women and their financial futures. This particular week, I'm talking about periods. If any guys are reading, I'm not sorry! Menstruation is a normal (and essential) process that affects most people with uteruses at some point in their lives, oftentimes for up to 40 years! But just because menstruation is a naturally occurring process doesn't mean that it doesn't still result in financial trouble for women and girls. This piece will review those issues and then lay out some potential solutions.
+Happy Women's History Month! This month, my blog will focus on issues that specifically affect women and their financial futures. This particular week, I'm talking about periods. If any guys are reading, I'm not sorry! Menstruation is a normal (and essential) process that affects most people with uteruses at some point in their lives, oftentimes for up to 40 years! But just because menstruation is a naturally occurring process doesn't mean that it doesn't still result in financial trouble for women and girls. This piece will review those issues and then lay out some ways that you can help.
 
 ## Menstruation Products Cost Money
 
