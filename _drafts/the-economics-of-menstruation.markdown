@@ -19,6 +19,8 @@ As with most things, menstruation products (also called feminine hygiene product
 
 the average woman spends about $120 per year on pads and tampons and an additional $20 each year on over-the-counter medication to combat cramps and other period-related side effects. Women on average menstruate for 40 years (taking into account that some women have children), so each woman spends approximately $5,600 on her period over her lifetime.
 
+Many places, such as DC, Maryland,  have started exempting feminine hygiene products from sales tax. 
+
 ## Access Is Not Always a Given
 
 Around the world, only 12 percent of young people with periods have access to the products they need.
