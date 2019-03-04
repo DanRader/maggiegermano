@@ -39,7 +39,7 @@ In 2016, New York became the [first city to require free tampons and sanitary pa
 
 As I mentioned above, some products can cause infections that lead to serious conditions like toxic shock syndrome. In addition to that, a lot of menstrual products are filled with chemicals that we don't necessarily understand. Oftentimes, companies aren't even [required to disclose](https://www.nytimes.com/2017/05/24/well/live/period-activists-want-tampon-makers-to-disclose-ingredients.html) what they put into these products. And your pads and tampons? They don't always come naturally white, they are often bleached. I don't know about you, but I don't like the idea of putting bleach inside my body.
 
-Plus, lack of access to these products can lead to the reuse of products that shouldn't be reused. This is especially true for incarcerated and [homeless](https://www.bustle.com/articles/190092-this-is-how-homeless-women-cope-with-their-periods) women. Not having enough to get through the month means that women are forced to reuse products, making them unsanitary and unsafe. 
+Plus, lack of access to these products can lead to the reuse of products that shouldn't be reused. This is especially true for incarcerated and [homeless](https://www.bustle.com/articles/190092-this-is-how-homeless-women-cope-with-their-periods) women. Not having enough to get through the month means that women are forced to reuse products, making them unsanitary and unsafe. The economic effects of this are obvious, as medical attention would be necessary in the case of infection or disease. 
 
 ## Menstruation Causes Girls to Miss School
 
