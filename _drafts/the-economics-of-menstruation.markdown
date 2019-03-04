@@ -37,8 +37,6 @@ In [August 2017](https://www.huffingtonpost.com/entry/federal-prisons-pads-tampo
 
 x
 
-x
-
 ## Menstruation Causes Girls to Miss School
 
 x
