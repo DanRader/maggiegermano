@@ -55,11 +55,7 @@ Menstruation affects educational access across much of the globe: more than[20% 
 
 Interrupted or incomplete educations don’t only affect young girls, but it impacts entire communities. According to the [World Bank](http://siteresources.worldbank.org/EDUCATION/Resources/278200-1099079877269/547664-1099079934475/547667-1135281504040/Returns_Investment_Edu.pdf), a woman’s  future earnings grow with every extra year of education. Plus, when a girl receives education, she marries later, has fewer, healthier children and is less likely to experience sexual violence.
 
-## Menstruation Causes Women to Miss Work
-
-x
-
-Those are the reasons that menstruation impacts women's financial well-being. However, it is also a basic human right to have access to the things that your body needs. And obviously, feminine hygiene products are something menstruating people need once a month for more than half their lives.
+These are some of the reasons that menstruation impacts women's financial well-being. It is also a basic human right to have access to the things that your body needs. And obviously, feminine hygiene products are something menstruating people need once a month for more than half their lives.
 
 ## What Should We (As a Society) Do?
 
