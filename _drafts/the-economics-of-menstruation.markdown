@@ -39,7 +39,7 @@ In 2016, New York became the [first city to require free tampons and sanitary pa
 
 As I mentioned above, some products can cause infections that lead to serious conditions like toxic shock syndrome. In addition to that, a lot of menstrual products are filled with chemicals that we don't necessarily understand. Oftentimes, companies aren't even [required to disclose](https://www.nytimes.com/2017/05/24/well/live/period-activists-want-tampon-makers-to-disclose-ingredients.html) what they put into these products. And your pads and tampons? They don't always come naturally white, they are often bleached. I don't know about you, but I don't like the idea of putting bleach inside my body.
 
-Plus, lack of access to these products can lead to the reuse of products that shouldn't be reused. This is especially true for incarcerated and homeless women.
+Plus, lack of access to these products can lead to the reuse of products that shouldn't be reused. This is especially true for incarcerated and homeless women. Not having enough to get through the month means that women are forced to reuse products, making them unsanitary and unsafe. 
 
 ## Menstruation Causes Girls to Miss School
 
@@ -71,7 +71,7 @@ Those are the reasons that menstruation impacts women's financial well-being. Ho
 
 * Donate money to organizations working to provide products and/or end the stigma.
 
-* Check out the short film [Period. End of Sentence.](https://www.netflix.com/title/81074663) It's on Netflix and it won best documentary at the Oscars this year. It is about women in India fighting the stigma around periods.
+* Check out the short film [Period. End of Sentence.](https://www.netflix.com/title/81074663) It's on Netflix and it won best documentary at the Oscars this year. It follows women in India fighting the stigma around periods.
 
 **Organizations to Support:**
 
