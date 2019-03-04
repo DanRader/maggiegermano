@@ -39,7 +39,7 @@ In 2016, New York became the [first city to require free tampons and sanitary pa
 
 As I mentioned above, some products can cause infections that lead to serious conditions like toxic shock syndrome. In addition to that, a lot of menstrual products are filled with chemicals that we don't necessarily understand. Oftentimes, companies aren't even [required to disclose](https://www.nytimes.com/2017/05/24/well/live/period-activists-want-tampon-makers-to-disclose-ingredients.html) what they put into these products. And your pads and tampons? They don't always come naturally white, they are often bleached. I don't know about you, but I don't like the idea of putting bleach inside my body.
 
-Plus, lack of access to these products can lead to the reuse of products that shouldn't be reused. This is especially true for incarcerated and homeless women.
+Plus, lack of access to these products can lead to the reuse of products that shouldn't be reused. This is especially true for incarcerated and [homeless](https://www.bustle.com/articles/190092-this-is-how-homeless-women-cope-with-their-periods) women. Not having enough to get through the month means that women are forced to reuse products, making them unsanitary and unsafe. 
 
 ## Menstruation Causes Girls to Miss School
 
@@ -50,6 +50,10 @@ In Africa, one in ten adolescent girls miss school during their period.
 In some countries, people are still isolated from their communities while on their periods.
 
 In India, [23 percent](https://www.dasra.org/assets/uploads/resources/Spot%20On%20-%20Improving%20Menstrual%20Management%20in%20India.pdf) of girls drop out school when they hit puberty due to their periods.
+
+[95% of adolescent girls](http://unicef.org.np/uploads/files/389372788817342779-highlights-adap-final.pdf)surveyed in the mid and western regions practice some kind of restrictions during their periods, from staying home from school or temple to having to[sleep outside](http://mosaicscience.com/story/blood-speaks).
+
+Menstruation affects educational access across much of the globe: more than[20% of girls](http://www.unicef.org/wash/schools/files/WASH_in_Schools_Empowers_Girls_Education_Proceedings_of_Virtual_MHM_conference(2).pdf)in Sierra Leone miss school during their periods; in Nepal and Afghanistan 30% do. Almost a quarter of[Indian girls](http://timesofindia.indiatimes.com/india/70-cant-afford-sanitary-napkins-reveals-study/articleshow/7344998.cms)drop out of school when they start menstruating and the ones that remain miss on average five days a month.
 
 ## Menstruation Causes Women to Miss Work
 
@@ -71,7 +75,7 @@ Those are the reasons that menstruation impacts women's financial well-being. Ho
 
 * Donate money to organizations working to provide products and/or end the stigma.
 
-* Check out the short film [Period. End of Sentence.](https://www.netflix.com/title/81074663) It's on Netflix and it won best documentary at the Oscars this year. It is about women in India fighting the stigma around periods.
+* Check out the short film [Period. End of Sentence.](https://www.netflix.com/title/81074663) It's on Netflix and it won best documentary at the Oscars this year. It follows women in India fighting the stigma around periods.
 
 **Organizations to Support:**
 
