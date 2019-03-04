@@ -25,7 +25,7 @@ To add insult to injury, in some places, feminine hygiene products are taxed as 
 
 ## Access Is Not Always a Given
 
-Around the world, only 12 percent of young people with periods have access to the products they need. In India, over 80 percent of people don't have access. 
+Around the world, only 12 percent of young people with periods have access to the products they need.
 
 You may think that the United States is not one of the places where women do not have access to menstrual products. You'd be wrong! In fact, [50,000 homeless women](https://www.bustle.com/articles/190092-this-is-how-homeless-women-cope-with-their-periods) in the United States don't have proper access to menstrual hygiene. Incarcerated women don't have it much better. In 2015, the [Correctional Association of New York](https://www.correctionalassociation.org/) published a study about reproductive injustice for menstruators in New York state prisons. The results found that 54 percent of menstruators in prisons have insufficient period care supplies, and the access they do have don’t meet their needs.
 
@@ -41,21 +41,15 @@ Plus, lack of access to these products can lead to the reuse of products that sh
 
 ## Menstruation Causes Girls to Miss School
 
-The 
+Menstruation negatively affects educational access across much of the globe. Menstruation affects educational access across much of the globe: more than [20 percent of girls](http://www.unicef.org/wash/schools/files/WASH_in_Schools_Empowers_Girls_Education_Proceedings_of_Virtual_MHM_conference(2).pdf) in Sierra Leone miss school during their periods. In Nepal and Afghanistan, 30 percent  do. Almost 25 percent of [Indian girls](http://timesofindia.indiatimes.com/india/70-cant-afford-sanitary-napkins-reveals-study/articleshow/7344998.cms) drop out of school when they start menstruating and those who don't miss on average five days a month. In Africa, one in ten adolescent girls miss school during their period.
 
-In Africa, one in ten adolescent girls miss school during their period.
+Of course, it isn't menstruating alone that causes girls to miss school. It's the inability to access menstrual products. It's inadequate access to bathroom facilities at school. It's the ongoing taboo and shame that exists around menstruation. All of these things make it so that girls are not receiving the education that they deserve.
 
-In some countries, people are still isolated from their communities while on their periods.
+Interrupted or incomplete educations don’t only affect young girls themselves, but it impacts entire communities. According to the [World Bank](http://siteresources.worldbank.org/EDUCATION/Resources/278200-1099079877269/547664-1099079934475/547667-1135281504040/Returns_Investment_Edu.pdf), a woman’s  future earnings grow with every extra year of education. Plus, when a girl receives education, she marries later, has fewer, healthier children and is less likely to experience sexual violence. Adequate education improves individual lives, communities, and the world. 
 
-In India, [23 percent](https://www.dasra.org/assets/uploads/resources/Spot%20On%20-%20Improving%20Menstrual%20Management%20in%20India.pdf) of girls drop out school when they hit puberty due to their periods.
+--
 
-[95% of adolescent girls](http://unicef.org.np/uploads/files/389372788817342779-highlights-adap-final.pdf)surveyed in the mid and western regions practice some kind of restrictions during their periods, from staying home from school or temple to having to[sleep outside](http://mosaicscience.com/story/blood-speaks).
-
-Menstruation affects educational access across much of the globe: more than[20% of girls](http://www.unicef.org/wash/schools/files/WASH_in_Schools_Empowers_Girls_Education_Proceedings_of_Virtual_MHM_conference(2).pdf)in Sierra Leone miss school during their periods; in Nepal and Afghanistan 30% do. Almost a quarter of[Indian girls](http://timesofindia.indiatimes.com/india/70-cant-afford-sanitary-napkins-reveals-study/articleshow/7344998.cms)drop out of school when they start menstruating and the ones that remain miss on average five days a month.
-
-Interrupted or incomplete educations don’t only affect young girls, but it impacts entire communities. According to the [World Bank](http://siteresources.worldbank.org/EDUCATION/Resources/278200-1099079877269/547664-1099079934475/547667-1135281504040/Returns_Investment_Edu.pdf), a woman’s  future earnings grow with every extra year of education. Plus, when a girl receives education, she marries later, has fewer, healthier children and is less likely to experience sexual violence.
-
-These are some of the reasons that menstruation impacts women's financial well-being. It is also a basic human right to have access to the things that your body needs. And obviously, feminine hygiene products are something menstruating people need once a month for more than half their lives.
+These are just some of the reasons that menstruation impacts women's financial well-being. It is also a basic human right to have access to the things that your body needs. And obviously, feminine hygiene products are something menstruating people need once a month for more than half their lives.
 
 ## What Should We (As a Society) Do?
 
@@ -110,5 +104,3 @@ These are some of the reasons that menstruation impacts women's financial well-b
 * https://www.bustle.com/p/7-statistics-that-show-the-startling-reality-of-period-problems-around-the-world-64399
 
 * https://www.lunette.com/blogs/news/period-product-companies-that-monetise-your-shame
-
-* 
