@@ -15,9 +15,13 @@ Happy Women's History Month! This month, my blog will focus on issues that speci
 
 ## Menstruation Products Cost Money
 
-As with most things, menstruation products (also called feminine hygiene products), such as pads, tampons, and menstrual cups cost money. 
+As with most things, menstruation products (also called feminine hygiene products), such as pads, tampons, period panties, and menstrual cups cost money. Unfortunately, this means that a lot of people have a hard time affording or getting access to these necessary products. Low-income women, especially, are struck by this hardship. 
 
-the average woman spends about $120 per year on pads and tampons and an additional $20 each year on over-the-counter medication to combat cramps and other period-related side effects. Women on average menstruate for 40 years (taking into account that some women have children), so each woman spends approximately $5,600 on her period over her lifetime.
+According to [Groundswell](https://groundswell.org/women-spend-hundreds-of-extra-dollars-per-year-heres-one-easy-out/), "the average woman spends about $120 per year on pads and tampons and an additional $20 each year on over-the-counter medication to combat cramps and other period-related side effects. Women on average menstruate for 40 years (taking into account that some women have children), so each woman spends approximately $5,600 on her period over her lifetime." That's a lot of money that a lot of people don't have regular access to throughout their lives.
+
+Products such as menstrual cups ([Diva Cup](https://divacup.com/), [Mooncup](https://www.mooncup.co.uk/), [Lunette](https://store.lunette.com/), [MeLuna](https://meluna-usa.com/), and more) and period panties ([Thinx](https://www.shethinx.com), [Sustain](https://www.sustainnatural.com), and more) are reusable and they last longer, so even though they cost more upfront, they may save money over time. The menstrual cup can also be a safer alternative to tampons, as there isn't a risk for [toxic shock syndrome](https://www.mayoclinic.org/diseases-conditions/toxic-shock-syndrome/symptoms-causes/syc-20355384). 
+
+To add insult to injury, in some places, feminine hygiene products are taxed as "luxury items". This means that women are required to pay sales tax on these products, even though they are essential.  As you know, women are not able to control their periods, so they need tampons and pads to get through the day while they are menstruating. Luckily, after much activism and protest, several states have begun to exempt feminine hygiene products from taxation. As of November 2018, ten states had done so. 
 
 ## Access Is Not Always a Given
 
