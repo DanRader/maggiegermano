@@ -29,7 +29,7 @@ Around the world, only 12 percent of young people with periods have access to th
 
 Across the world, an estimated 100 million young people lack access to adequate menstrual products
 
-You may think that the United States is not one of the places where women do not have access to menstrual products. You'd be wrong! In fact, 
+You may think that the United States is not one of the places where women do not have access to menstrual products. You'd be wrong! In fact, in 2015, the [Correctional Association of New York](https://www.correctionalassociation.org/) published a study about reproductive injustice for menstruators in New York state prisons. The results found that 54 percent of menstruators in prisons have insufficient period care supplies, and the access they do have don’t meet their needs. 
 
 ## Menstruation Causes Girls to Miss School
 
