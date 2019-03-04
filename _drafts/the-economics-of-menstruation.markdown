@@ -11,7 +11,7 @@ posts:
 - The Financial Impact of Sexual Harassment and Abuse
 ---
 
-Happy Women's History Month! This month, my blog will focus on issues that specifically affect women and their financial futures. This particular week, I'm talking about periods. If any guys are reading, I'm not sorry! Menstruation is a normal (and essential) process that affects most people with uteruses at some point in their lives, oftentimes for up to 40 years! But just because menstruation is a naturally occurring process doesn't mean that it doesn't still result in financial trouble for women and girls. This piece will review those issues and then lay out some potential solutions.
+Happy Women's History Month! This month, my blog will focus on issues that specifically affect women and their financial futures. This particular week, I'm talking about periods. If any guys are reading, I'm not sorry! Menstruation is a normal (and essential) process that affects most people with uteruses at some point in their lives, oftentimes for up to 40 years! But just because menstruation is a naturally occurring process doesn't mean that it doesn't still result in financial trouble for women and girls. This piece will review those issues and then lay out some ways that you can help.
 
 ## Menstruation Products Cost Money
 
@@ -54,6 +54,8 @@ In India, [23 percent](https://www.dasra.org/assets/uploads/resources/Spot%20On%
 [95% of adolescent girls](http://unicef.org.np/uploads/files/389372788817342779-highlights-adap-final.pdf)surveyed in the mid and western regions practice some kind of restrictions during their periods, from staying home from school or temple to having to[sleep outside](http://mosaicscience.com/story/blood-speaks).
 
 Menstruation affects educational access across much of the globe: more than[20% of girls](http://www.unicef.org/wash/schools/files/WASH_in_Schools_Empowers_Girls_Education_Proceedings_of_Virtual_MHM_conference(2).pdf)in Sierra Leone miss school during their periods; in Nepal and Afghanistan 30% do. Almost a quarter of[Indian girls](http://timesofindia.indiatimes.com/india/70-cant-afford-sanitary-napkins-reveals-study/articleshow/7344998.cms)drop out of school when they start menstruating and the ones that remain miss on average five days a month.
+
+Interrupted or incomplete educations don’t only affect young girls, but it impacts entire communities. According to the [World Bank](http://siteresources.worldbank.org/EDUCATION/Resources/278200-1099079877269/547664-1099079934475/547667-1135281504040/Returns_Investment_Edu.pdf), a woman’s  future earnings grow with every extra year of education. Plus, when a girl receives education, she marries later, has fewer, healthier children and is less likely to experience sexual violence.
 
 ## Menstruation Causes Women to Miss Work
 
