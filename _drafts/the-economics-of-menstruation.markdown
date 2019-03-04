@@ -37,6 +37,12 @@ In 2016, New York became the [first city to require free tampons and sanitary pa
 
 x
 
+## Products Aren't Always Safe
+
+As I mentioned above, some products can cause infections that lead to serious conditions like toxic shock syndrome. In addition to that, a lot of menstrual products are filled with chemicals that we don't necessarily understand. And your pads and tampons? They don't always come naturally white, they are often bleached. I don't know about you, but I don't like the idea of putting bleach inside my body.
+
+Plus, lack of access to these products can lead to the reuse of products that shouldn't be reused. This is especially true for incarcerated and homeless women. 
+
 ## Menstruation Causes Girls to Miss School
 
 x
