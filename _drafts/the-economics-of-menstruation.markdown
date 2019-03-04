@@ -33,6 +33,10 @@ You may think that the United States is not one of the places where women do not
 
 In 2016, New York became the [first city to require free tampons and sanitary pads](https://www.today.com/health/free-tampons-some-nyc-public-schools-will-provide-feminine-hygiene-t80766) in correctional facilities, public schools, and homeless shelters.
 
+In [August 2017](https://www.huffingtonpost.com/entry/federal-prisons-pads-tampons_us_59930a82e4b09096429a16e0), women in federal prisons were [given](https://www.bop.gov/policy/om/001_2017.pdf) access to free tampons (regular and super size), pads (regular, maxi, and super size with wings), and pantyliners (regular). However, the majority of incarcerated women are actually housed in state and local prisons, so this rule does not apply to them. Some states are beginning to follow New York's lead by guaranteeing free feminine hygiene products to inmates. 
+
+x
+
 x
 
 ## Menstruation Causes Girls to Miss School
