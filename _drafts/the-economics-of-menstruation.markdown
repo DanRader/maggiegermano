@@ -31,11 +31,17 @@ Across the world, an estimated 100 million young people lack access to adequate 
 
 You may think that the United States is not one of the places where women do not have access to menstrual products. You'd be wrong! In fact, in 2015, the [Correctional Association of New York](https://www.correctionalassociation.org/) published a study about reproductive injustice for menstruators in New York state prisons. The results found that 54 percent of menstruators in prisons have insufficient period care supplies, and the access they do have don’t meet their needs.
 
-Why do incarcerated women need access to free menstrual products? Because if they are working in prison, they are often making less than a dollar a day, so it would take days or weeks to save up enough money to purchase these products for themselves. 
+Why do incarcerated women need access to free menstrual products? Because if they are working in prison, they are often making less than a dollar a day, so it would take days or weeks to save up enough money to purchase these products for themselves.
 
-In 2016, New York became the [first city to require free tampons and sanitary pads](https://www.today.com/health/free-tampons-some-nyc-public-schools-will-provide-feminine-hygiene-t80766) in correctional facilities, public schools, and homeless shelters. In [August 2017](https://www.huffingtonpost.com/entry/federal-prisons-pads-tampons_us_59930a82e4b09096429a16e0), women in federal prisons were [given](https://www.bop.gov/policy/om/001_2017.pdf) access to free tampons (regular and super size), pads (regular, maxi, and super size with wings), and pantyliners (regular). However, the majority of incarcerated women are actually housed in state and local prisons, so this rule does not apply to them. Some states are beginning to follow New York's lead by guaranteeing free feminine hygiene products to inmates. 
+In 2016, New York became the [first city to require free tampons and sanitary pads](https://www.today.com/health/free-tampons-some-nyc-public-schools-will-provide-feminine-hygiene-t80766) in correctional facilities, public schools, and homeless shelters. In [August 2017](https://www.huffingtonpost.com/entry/federal-prisons-pads-tampons_us_59930a82e4b09096429a16e0), women in federal prisons were [given](https://www.bop.gov/policy/om/001_2017.pdf) access to free tampons (regular and super size), pads (regular, maxi, and super size with wings), and pantyliners (regular). However, the majority of incarcerated women are actually housed in state and local prisons, so this rule does not apply to them. Some states are beginning to follow New York's lead by guaranteeing free feminine hygiene products to inmates.
 
 x
+
+## Products Aren't Always Safe
+
+As I mentioned above, some products can cause infections that lead to serious conditions like toxic shock syndrome. In addition to that, a lot of menstrual products are filled with chemicals that we don't necessarily understand. And your pads and tampons? They don't always come naturally white, they are often bleached. I don't know about you, but I don't like the idea of putting bleach inside my body.
+
+Plus, lack of access to these products can lead to the reuse of products that shouldn't be reused. This is especially true for incarcerated and homeless women. 
 
 ## Menstruation Causes Girls to Miss School
 
@@ -69,7 +75,7 @@ Those are the reasons that menstruation impacts women's financial well-being. Ho
 
 * Check out the short film [Period. End of Sentence.](https://www.netflix.com/title/81074663) It's on Netflix and it won best documentary at the Oscars this year. It is about women in India fighting the stigma around periods.
 
-## More Resources:
+**More Resources:**
 
 * https://www.dasra.org/assets/uploads/resources/Spot%20On%20-%20Improving%20Menstrual%20Management%20in%20India.pdf
 
