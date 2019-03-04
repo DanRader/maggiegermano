@@ -41,7 +41,7 @@ Plus, lack of access to these products can lead to the reuse of products that sh
 
 ## Menstruation Causes Girls to Miss School
 
-x
+The 
 
 In Africa, one in ten adolescent girls miss school during their period.
 
