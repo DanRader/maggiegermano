@@ -55,11 +55,11 @@ Those are the reasons that menstruation impacts women's financial well-being. Ho
 
 ## What Should We Do?
 
-* Make menstruation products available to all
+* Make menstruation products available to all, for free.
 
-* 
+* Create safer feminine hygiene products that can be easily sanitized and reused.
 
-* x
+* Help to break the taboo of menstruation.
 
 ## What Can You Do?
 
