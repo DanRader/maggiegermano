@@ -19,6 +19,8 @@ As with most things, menstruation products (also called feminine hygiene product
 
 According to [Groundswell](https://groundswell.org/women-spend-hundreds-of-extra-dollars-per-year-heres-one-easy-out/), "the average woman spends about $120 per year on pads and tampons and an additional $20 each year on over-the-counter medication to combat cramps and other period-related side effects. Women on average menstruate for 40 years (taking into account that some women have children), so each woman spends approximately $5,600 on her period over her lifetime." 
 
+To add insult to injury, in some places, feminine hygiene products are taxed as "luxury items" 
+
 Products such as menstrual cups and period panties are reusable and they last longer, so even though they cost more upfront, they may save money over time. The menstrual cup can also be a safer alternative to tampons, as there isn't a risk for [toxic shock syndrome](https://www.mayoclinic.org/diseases-conditions/toxic-shock-syndrome/symptoms-causes/syc-20355384). 
 
 Many places, such as DC, Maryland,  have started exempting feminine hygiene products from sales tax. 
