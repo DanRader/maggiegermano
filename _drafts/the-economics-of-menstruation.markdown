@@ -15,7 +15,7 @@ Happy Women's History Month! This month, my blog will focus on issues that speci
 
 ## Menstruation Products Cost Money
 
-As with most things, menstruation products (also called feminine hygiene products), such as pads, tampons, and menstrual cups cost money. 
+As with most things, menstruation products (also called feminine hygiene products), such as pads, tampons, and menstrual cups cost money. Unfortunately, 
 
 the average woman spends about $120 per year on pads and tampons and an additional $20 each year on over-the-counter medication to combat cramps and other period-related side effects. Women on average menstruate for 40 years (taking into account that some women have children), so each woman spends approximately $5,600 on her period over her lifetime.
 
