@@ -29,6 +29,8 @@ Around the world, only 12 percent of young people with periods have access to th
 
 Across the world, an estimated 100 million young people lack access to adequate menstrual products
 
+You may think that the United States is not one of the places where women do not have access to menstrual products. You'd be wrong! In fact, 
+
 ## Menstruation Causes Girls to Miss School
 
 x
