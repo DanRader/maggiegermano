@@ -55,6 +55,8 @@ In India, [23 percent](https://www.dasra.org/assets/uploads/resources/Spot%20On%
 
 Menstruation affects educational access across much of the globe: more than[20% of girls](http://www.unicef.org/wash/schools/files/WASH_in_Schools_Empowers_Girls_Education_Proceedings_of_Virtual_MHM_conference(2).pdf)in Sierra Leone miss school during their periods; in Nepal and Afghanistan 30% do. Almost a quarter of[Indian girls](http://timesofindia.indiatimes.com/india/70-cant-afford-sanitary-napkins-reveals-study/articleshow/7344998.cms)drop out of school when they start menstruating and the ones that remain miss on average five days a month.
 
+Interrupted or incomplete educations don’t only affect young girls, but it impacts entire communities. According to the [World Bank](http://siteresources.worldbank.org/EDUCATION/Resources/278200-1099079877269/547664-1099079934475/547667-1135281504040/Returns_Investment_Edu.pdf), a woman’s  future earnings grow with every extra year of education. Plus, when a girl receives education, she marries later, has fewer, healthier children and is less likely to experience sexual violence.
+
 ## Menstruation Causes Women to Miss Work
 
 x
