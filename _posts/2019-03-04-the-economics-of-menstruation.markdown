@@ -5,6 +5,7 @@ categories:
 - lifestyle
 - budget
 image: "/uploads/josefin-1234218-unsplash.jpg"
+tweet: Menstruation isn't just annoying, but it has financial impacts too.
 posts:
 - Why And How Women Must Prepare Differently for the Future
 - The Truth About the Wage Gap
