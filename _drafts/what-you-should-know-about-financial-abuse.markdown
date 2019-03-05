@@ -11,8 +11,8 @@ posts:
 - How Financial Security is a Feminist Act
 ---
 
-1 in 3 Women Have Experienced Domestic Abuse
+## 1 in 3 Women Have Experienced Domestic Abuse
 
-98% of Abuse Victims Have Experienced Financial Abuse
+## 98% of Abuse Victims Have Experienced Financial Abuse
 
-Financial Abuse Can Be Hard to Spot
+## Financial Abuse Can Be Hard to Spot
