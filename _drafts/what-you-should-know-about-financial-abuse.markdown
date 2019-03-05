@@ -13,6 +13,12 @@ posts:
 
 ## 1 in 3 Women Have Experienced Domestic Abuse
 
+x
+
 ## 98% of Abuse Victims Have Experienced Financial Abuse
 
+x
+
 ## Financial Abuse Can Be Hard to Spot
+
+x
