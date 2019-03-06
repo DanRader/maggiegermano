@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Pretty Much Just Puppy Stuff
 date: 2019-03-08 14:00:00 -05:00
+image: "/uploads/patrick-hendry-420072-unsplash.jpg"
 ---
 
 Happy Friday! Here’s what I was up to this past week.
@@ -16,6 +17,8 @@ Happy Friday! Here’s what I was up to this past week.
 * x
 
 * x
+
+![BC4AFB57-7BCC-489D-A7D2-8D97B92BFBB8.JPG](/uploads/BC4AFB57-7BCC-489D-A7D2-8D97B92BFBB8.JPG)
 
 ## **What I’m Writing**
 
