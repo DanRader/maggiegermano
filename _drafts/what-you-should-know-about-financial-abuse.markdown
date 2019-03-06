@@ -11,7 +11,7 @@ posts:
 - How Financial Security is a Feminist Act
 ---
 
-You've heard of physical abuse. You've heard of emotional abuse. You've heard of sexual abuse. But have you heard of financial abuse? Probably not. It's just one more way that abusers wield their power to disenfranchise their victims. Financial abuse is when money is used as a weapon. That can mean withholding money, stealing money, restricting the use of money, accruing debt in a partner's name without their knowledge, or sabotaging a partner's career. These behaviors make a victim dependent upon their abuser and make it difficult for them to leave the relationship. 
+You've heard of physical abuse. You've heard of emotional abuse. You've heard of sexual abuse. But have you heard of financial abuse? Probably not. It's just one more way that abusers wield their power to disenfranchise their victims. Financial abuse is when money is used as a weapon. That can mean withholding money, stealing money, restricting the use of money, accruing debt in a partner's name without their knowledge, or sabotaging a partner's career. These behaviors make a victim dependent upon their abuser and make it difficult for them to leave the relationship. Because of this, financial abuse is more common and more insidious than you might think.
 
 ## 1 in 3 Women Have Experienced Domestic Abuse
 
