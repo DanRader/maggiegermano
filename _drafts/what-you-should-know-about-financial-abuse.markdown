@@ -11,6 +11,8 @@ posts:
 - How Financial Security is a Feminist Act
 ---
 
+You've heard of physical abuse. You've heard of emotional abuse. You've heard of sexual abuse. But have you heard of financial abuse? Probably not. It's another way that abusers wield their power to disenfranchise their victims. 
+
 ## 1 in 3 Women Have Experienced Domestic Abuse
 
 x
