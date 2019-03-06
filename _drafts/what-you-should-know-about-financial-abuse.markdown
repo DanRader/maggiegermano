@@ -25,6 +25,10 @@ x
 
 Financial abuse isn't actually about money, it's about control.
 
+## Financial Abuse Can Ruin Futures
+
+x
+
 ## Financial Abuse Can Be Hard to Spot
 
 x
