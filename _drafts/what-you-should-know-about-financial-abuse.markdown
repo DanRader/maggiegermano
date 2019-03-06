@@ -13,6 +13,10 @@ posts:
 
 You've heard of physical abuse. You've heard of emotional abuse. You've heard of sexual abuse. But have you heard of financial abuse? Probably not. It's another way that abusers wield their power to disenfranchise their victims. 
 
+## It's Not About the Money
+
+Financial abuse isn't actually about money, it's about control. 
+
 ## 1 in 3 Women Have Experienced Domestic Abuse
 
 x
