@@ -26,13 +26,17 @@ This week, I wrote about the [financial impacts](https://www.maggiegermano.com/b
 
 ## **What I’m Up To**
 
+* Starting Monday, March 11th, I'll be part of a week-long video series called "Rewrite Your Money Story". [Sign up](https://rewriteyourmoneystory.com/#MaggieGermano) to tune in!
+
 * On Tuesday, March 12th, I will be at [Mindspace](https://www.eventbrite.com/e/making-breaking-the-budget-tickets-55047193638) leading a workshop called Making & Breaking the Budget. If you struggle with creating and sticking to a budget, this one is for you!
 
 * On Wednesday, March 27th, I’ll be hosting Money Circle. We’ll be joined by personal style coach, [Allison Hamilton-Rohe](https://dailyoutfit.com/), since our topic is: [How To Create a Powerful Personal Style On A Budget](https://www.eventbrite.com/e/money-circle-how-to-create-a-powerful-personal-style-on-a-budget-tickets-54939672038).
 
+* I want to hear from you! As I am continuing to create blog content and expanding my work into online courses, a podcast, and more workshops, I want to make sure I’m creating things that are useful to YOU. I’ve made a survey for my clients and readers to hear about what you most want to learn about. **[Fill it out here](https://docs.google.com/forms/d/e/1FAIpQLSedjARbOmwC3_EomplCDDmNze_ZVLHwymIhqJbNcNqvM6gWVg/viewform?usp=sf_link)**!
+
 ## **What I’m Excited About**
 
-* I want to hear from you! As I am continuing to create blog content and expanding my work into online courses, a podcast, and more workshops, I want to make sure I’m creating things that are useful to YOU. I’ve made a survey for my clients and readers to hear about what you most want to learn about. **[Fill it out here](https://docs.google.com/forms/d/e/1FAIpQLSedjARbOmwC3_EomplCDDmNze_ZVLHwymIhqJbNcNqvM6gWVg/viewform?usp=sf_link)**!
+* x
 
 * x
 
