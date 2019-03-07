@@ -12,8 +12,6 @@ Happy Friday! Here’s what I was up to this past week.
 
 * We had two Airbnb guests this week.
 
-* 
-
 ## **How I Spent Money This Week**
 
 * x
