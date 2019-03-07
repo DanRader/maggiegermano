@@ -14,11 +14,9 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## **How I Spent Money This Week**
 
-* x
-
 * As you probably saw last week, my husband and I got a puppy over the weekend! We've named him Bruno and he's adorable and sooo much work. We're quickly learning how easy it is to spend lots of money on a puppy. On Monday, we took him to his first wellness exam at the vet, which cost $99, including the price of one vaccine. 
 
-* We also signed Bruno up for pet insurance through Healthy Paws. We paid for his first month's premium.
+* We also signed Bruno up for pet insurance through [Healthy Paws](https://www.healthypawspetinsurance.com/). We paid for his first month's premium.
 
 * We went grocery shopping on Sunday and were charged for our Hungry Harvest box from last week. 
 
