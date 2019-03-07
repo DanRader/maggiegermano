@@ -7,6 +7,8 @@ image: "/uploads/patrick-hendry-420072-unsplash.jpg"
 
 Happy Friday! Here’s what I was up to this past week.
 
+![52A49079-9BFC-441D-A284-C37CFE9AF58C.JPG](/uploads/52A49079-9BFC-441D-A284-C37CFE9AF58C.JPG)
+
 ## **How I Earned Money This Week**
 
 * I held a workshop at the Lemon Collective this Wednesday. We had a great turnout!
@@ -39,7 +41,9 @@ This week, I wrote about the [financial impacts](https://www.maggiegermano.com/b
 
 * On Wednesday, March 27th, I’ll be hosting Money Circle. We’ll be joined by personal style coach, [Allison Hamilton-Rohe](https://dailyoutfit.com/), since our topic is: [How To Create a Powerful Personal Style On A Budget](https://www.eventbrite.com/e/money-circle-how-to-create-a-powerful-personal-style-on-a-budget-tickets-54939672038).
 
-* I want to hear from you! As I am continuing to create blog content and expanding my work into online courses, a podcast, and more workshops, I want to make sure I’m creating things that are useful to YOU. I’ve made a survey for my clients and readers to hear about what you most want to learn about. **[Fill it out here](https://docs.google.com/forms/d/e/1FAIpQLSedjARbOmwC3_EomplCDDmNze_ZVLHwymIhqJbNcNqvM6gWVg/viewform?usp=sf_link)**!
+* I want to hear from you! As I am continuing to create blog content and expanding my work into online courses, a podcast, and more workshops, I want to make sure I’m creating things that are useful to YOU. I’ve made a survey for my clients and readers to hear about what you most want to learn about. [Fill it out here](https://docs.google.com/forms/d/e/1FAIpQLSedjARbOmwC3_EomplCDDmNze_ZVLHwymIhqJbNcNqvM6gWVg/viewform?usp=sf_link)!
+
+![81800A94-1EAE-44B1-A46C-05F99D9C35AF.JPG](/uploads/81800A94-1EAE-44B1-A46C-05F99D9C35AF.JPG)
 
 ## **Money Tip to Take Into the Weekend**
 
