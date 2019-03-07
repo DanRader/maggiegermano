@@ -12,8 +12,6 @@ Happy Friday! Here’s what I was up to this past week.
 
 * We had two Airbnb guests this week.
 
-* 
-
 ## **How I Spent Money This Week**
 
 * x
@@ -22,7 +20,7 @@ Happy Friday! Here’s what I was up to this past week.
 
 * We also signed Bruno up for pet insurance through Healthy Paws. We paid for his first month's premium.
 
-* 
+* We went grocery shopping on Sunday and were charged for our Hungry Harvest box from last week. 
 
 * We paid the remaining balance for our new privacy fence. Luckily, we have that money already set aside in savings.
 
