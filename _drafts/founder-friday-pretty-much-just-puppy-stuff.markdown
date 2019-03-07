@@ -8,15 +8,23 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## **How I Earned Money This Week**
 
-* x
+* I held a workshop at the Lemon Collective this Wednesday. We had a great turnout!
 
-* x
+* We had two Airbnb guests this week.
+
+* 
 
 ## **How I Spent Money This Week**
 
 * x
 
-* x
+* As you probably saw last week, my husband and I got a puppy over the weekend! We've named him Bruno and he's adorable and sooo much work. We're quickly learning how easy it is to spend lots of money on a puppy. On Monday, we took him to his first wellness exam at the vet, which cost $99, including the price of one vaccine. 
+
+* We also signed Bruno up for pet insurance through Healthy Paws. We paid for his first month's premium.
+
+* 
+
+* We paid the remaining balance for our new privacy fence. Luckily, we have that money already set aside in savings.
 
 ![BC4AFB57-7BCC-489D-A7D2-8D97B92BFBB8.JPG](/uploads/BC4AFB57-7BCC-489D-A7D2-8D97B92BFBB8.JPG)
 
