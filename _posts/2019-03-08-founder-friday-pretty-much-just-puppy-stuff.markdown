@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Pretty Much Just Puppy Stuff
 date: 2019-03-08 14:00:00 -05:00
+published: false
 image: "/uploads/patrick-hendry-420072-unsplash.jpg"
 ---
 
@@ -14,13 +15,13 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## **How I Spent Money This Week**
 
-* x
-
 * As you probably saw last week, my husband and I got a puppy over the weekend! We've named him Bruno and he's adorable and sooo much work. We're quickly learning how easy it is to spend lots of money on a puppy. On Monday, we took him to his first wellness exam at the vet, which cost $99, including the price of one vaccine. 
 
-* We also signed Bruno up for pet insurance through Healthy Paws. We paid for his first month's premium.
+* We also signed Bruno up for pet insurance through [Healthy Paws](https://www.healthypawspetinsurance.com/). We paid for his first month's premium on Monday.
 
-* We went grocery shopping on Sunday and were charged for our Hungry Harvest box from last week. 
+* We bought Bruno a new leash because the one we had bought was too heavy and would distract him whenever it touched his back. We also ordered him a stuffed animal to cuddle and  play with while he's locked in his pen while I'm working. We ordered him 6 months worth of heartworm and tick/flea prevention medication. (Again, pets are expensive!)
+
+* We went grocery shopping on Sunday and were charged for our [Hungry Harvest](http://hharvest.net/m5didTk) box from last week. 
 
 * We paid the remaining balance for our new privacy fence. Luckily, we have that money already set aside in savings.
 
@@ -39,12 +40,6 @@ This week, I wrote about the [financial impacts](https://www.maggiegermano.com/b
 * On Wednesday, March 27th, I’ll be hosting Money Circle. We’ll be joined by personal style coach, [Allison Hamilton-Rohe](https://dailyoutfit.com/), since our topic is: [How To Create a Powerful Personal Style On A Budget](https://www.eventbrite.com/e/money-circle-how-to-create-a-powerful-personal-style-on-a-budget-tickets-54939672038).
 
 * I want to hear from you! As I am continuing to create blog content and expanding my work into online courses, a podcast, and more workshops, I want to make sure I’m creating things that are useful to YOU. I’ve made a survey for my clients and readers to hear about what you most want to learn about. **[Fill it out here](https://docs.google.com/forms/d/e/1FAIpQLSedjARbOmwC3_EomplCDDmNze_ZVLHwymIhqJbNcNqvM6gWVg/viewform?usp=sf_link)**!
-
-## **What I’m Excited About**
-
-* x
-
-* x
 
 ## **Money Tip to Take Into the Weekend**
 
