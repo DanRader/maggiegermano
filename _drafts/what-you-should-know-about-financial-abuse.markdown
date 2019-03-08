@@ -17,9 +17,9 @@ You've heard of physical abuse. You've heard of emotional abuse. You've heard of
 
 According to the [Guttmacher Institute](https://www.guttmacher.org/gpr/2016/07/understanding-intimate-partner-violence-sexual-and-reproductive-health-and-rights-issue?gclid=EAIaIQobChMI5N2Plbfz4AIVxV6GCh0EgQMQEAAYAyAAEgLGTvD_BwE), nearly half of all women in the United States have experienced psychological aggression by an intimate partner, a quarter of women have experiences physical violence, and almost 10 percent have been raped by an intimate partner. To make matters worse, one-third of women who are murdered in the United States are killed by a current or former male partner. These are sobering numbers. They show that a huge swath of our population has experienced domestic violence of some kind, and domestic violence often escalates to murder. 
 
-## 98% of Abuse Victims Have Experienced Financial Abuse
+## Most Abuse Victims Have Experienced Financial Abuse
 
-x
+So now we know that up to 50 percent of all women in the United States experience domestic abuse of some kind. But what does that have to do with financial abuse? Financial abuse actually occurs in up to 99 percent of all abusive relationships. 
 
 ## It's Not About the Money
 
