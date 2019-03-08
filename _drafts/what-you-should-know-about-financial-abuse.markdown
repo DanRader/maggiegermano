@@ -31,9 +31,7 @@ One of the reasons I decided to work with women on their money is because of how
 
 ## It Can Ruin Careers
 
-One of the ways that abusers maintain control over their victims is by sabotaging their jobs and careers. According to the [National Coalition Against Domestic Violence](https://ncadv.org/blog/posts/quick-guide-economic-and-financial-abuse) (NCADV), between 21 and 60 percent of victims of intimate partner violence lose their jobs due to reasons stemming from the abuse. 
-
-x
+One of the ways that abusers maintain control over their victims is by sabotaging their jobs and careers. According to the [National Coalition Against Domestic Violence](https://ncadv.org/blog/posts/quick-guide-economic-and-financial-abuse) (NCADV), between 21 and 60 percent of victims of intimate partner violence lose their jobs due to reasons stemming from the abuse. Abusers do this by preventing their victim from going to work, interfering with their work by making frequent phone calls or showing up at their office, or demanding that they quit. According to the CDC, victims of intimate partner violence "lose a total of 8 million days of paid work each year, the equivalent of 32,000 jobs."
 
 ## It Can Ruin Futures
 
