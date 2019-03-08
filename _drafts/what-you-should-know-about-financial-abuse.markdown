@@ -25,7 +25,7 @@ So now we know that up to 50 percent of all women in the United States experienc
 
 ## It's Not About the Money
 
-Financial abuse isn't actually about money, it's about control.
+Just like sexual abuse isn't about sex, financial abuse isn't actually about money. It's about control.
 
 ## It Can Ruin Careers
 
