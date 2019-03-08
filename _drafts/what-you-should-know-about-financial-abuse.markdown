@@ -27,7 +27,7 @@ Financial abuse isn't actually about money, it's about control.
 
 ## Financial Abuse Can Ruin Futures
 
-x
+According to the [National Coalition Against Domestic Violence](https://ncadv.org/blog/posts/quick-guide-economic-and-financial-abuse) (NCADV), between 21 and 60 percent of victims of intimate partner violence lose their jobs due to reasons stemming from the abuse. x
 
 ## Financial Abuse Can Be Hard to Spot
 
