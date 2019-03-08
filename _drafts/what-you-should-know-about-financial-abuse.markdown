@@ -25,7 +25,7 @@ So now we know that up to 50 percent of all women in the United States experienc
 
 ## It's Not About the Money
 
-Just like sexual abuse isn't about sex, financial abuse isn't actually about money. It's about control.
+Just like sexual abuse isn't about sex, financial abuse isn't actually about money. It's about control. Money is essential go getting through our everyday lives. If someone else is controlling that resource, then we would have to be completely dependent on them. If you were an abuse victim, but your abuser controlled all of your finances, you probably wouldn't be able to afford to leave them. 
 
 ## It Can Ruin Careers
 
@@ -42,3 +42,5 @@ To hear more personal stories about this sort of destruction, check out this [Bu
 ## It Can Be Hard to Spot
 
 As with a lot of abuse, financial abuse is not necessarily overt from the beginning. It can seem like your partner is just looking out for you. For example, there's a big difference between asking your partner what a big transaction on a credit card was for and badgering your partner about every spending transaction they make. 
+
+*To learn more about financial abuse, visit [Guttmacher Institute](https://www.guttmacher.org/gpr/2016/07/understanding-intimate-partner-violence-sexual-and-reproductive-health-and-rights-issue?gclid=EAIaIQobChMI5N2Plbfz4AIVxV6GCh0EgQMQEAAYAyAAEgLGTvD_BwE) and [NCADV](https://ncadv.org/blog/posts/quick-guide-economic-and-financial-abuse). To learn how to support victims of financial abuse, visit the [Purple Purse](https://www.purplepurse.com/). *
