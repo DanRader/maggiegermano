@@ -25,7 +25,9 @@ So now we know that up to 50 percent of all women in the United States experienc
 
 ## It's Not About the Money
 
-Just like sexual abuse isn't about sex, financial abuse isn't actually about money. It's about control. Money is essential go getting through our everyday lives. If someone else is controlling that resource, then we would have to be completely dependent on them. If you were an abuse victim, but your abuser controlled all of your finances, you probably wouldn't be able to afford to leave them. 
+Just like sexual abuse isn't about sex, financial abuse isn't actually about money. It's about control. Money is essential go getting through our everyday lives. If someone else is controlling that resource, then we would have to be completely dependent on them. If you were an abuse victim, but your abuser controlled all of your finances, you probably wouldn't be able to afford to leave them. This sort of abuse maintains control over the victim, especially if there are children involved. 
+
+One of the reasons I decided to work with women on their money is because of how access to financial resources determines whether or not a woman can leave an abusive relationship (or roommate, or job, etc). 
 
 ## It Can Ruin Careers
 
