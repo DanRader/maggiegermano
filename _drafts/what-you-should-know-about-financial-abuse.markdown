@@ -13,9 +13,9 @@ posts:
 
 You've heard of physical abuse. You've heard of emotional abuse. You've heard of sexual abuse. But have you heard of financial abuse? Probably not. It's just one more way that abusers wield their power to disenfranchise their victims. Financial abuse is when money is used as a weapon. That can mean withholding money, stealing money, restricting the use of money, accruing debt in a partner's name without their knowledge, or sabotaging a partner's career. These behaviors make a victim dependent upon their abuser and make it difficult for them to leave the relationship. Because of this, financial abuse is more common and more insidious than you might think.
 
-## 1 in 3 Women Have Experienced Domestic Abuse
+## Many Women Have Experienced Domestic Abuse
 
-x
+According to the [Guttmacher Institute](https://www.guttmacher.org/gpr/2016/07/understanding-intimate-partner-violence-sexual-and-reproductive-health-and-rights-issue?gclid=EAIaIQobChMI5N2Plbfz4AIVxV6GCh0EgQMQEAAYAyAAEgLGTvD_BwE), nearly half of all women in the United States have experienced psychological aggression by an intimate partner, a quarter of women have experiences physical violence, and almost 10 percent have been raped by an intimate partner. To make matters worse, one-third of women who are murdered in the United States are killed by a current or former male partner. These are sobering numbers. They show that a huge swath of our population has experienced domestic violence of some kind, and domestic violence often escalates to murder. 
 
 ## 98% of Abuse Victims Have Experienced Financial Abuse
 
