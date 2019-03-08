@@ -21,7 +21,7 @@ According to the [Guttmacher Institute](https://www.guttmacher.org/gpr/2016/07/u
 
 ## Most Abuse Victims Have Experienced Financial Abuse
 
-So now we know that up to 50 percent of all women in the United States experience domestic abuse of some kind. But what does that have to do with financial abuse? Financial abuse actually occurs in up to 99 percent of all abusive relationships.
+So now we know that up to 50 percent of all women in the United States experience domestic abuse of some kind. But what does that have to do with financial abuse? Well, the two are directly linked. Financial abuse actually occurs in up to 99 percent of all abusive relationships. 
 
 ## It's Not About the Money
 
@@ -32,6 +32,8 @@ One of the reasons I decided to work with women on their money is because of how
 ## It Can Ruin Careers
 
 One of the ways that abusers maintain control over their victims is by sabotaging their jobs and careers. According to the [National Coalition Against Domestic Violence](https://ncadv.org/blog/posts/quick-guide-economic-and-financial-abuse) (NCADV), between 21 and 60 percent of victims of intimate partner violence lose their jobs due to reasons stemming from the abuse. Abusers do this by preventing their victim from going to work, interfering with their work by making frequent phone calls or showing up at their office, or demanding that they quit. According to the CDC, victims of intimate partner violence "lose a total of 8 million days of paid work each year, the equivalent of 32,000 jobs."
+
+This abuse tactic prevents a victim from being able to earn their own money and have their own sense of independence. It isolates the victim and makes them even more dependent upon their abuser. 
 
 ## It Can Ruin Futures
 
