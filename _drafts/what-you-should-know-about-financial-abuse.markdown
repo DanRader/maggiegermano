@@ -31,7 +31,7 @@ One of the reasons I decided to work with women on their money is because of how
 
 ## It Can Ruin Careers
 
-According to the [National Coalition Against Domestic Violence](https://ncadv.org/blog/posts/quick-guide-economic-and-financial-abuse) (NCADV), between 21 and 60 percent of victims of intimate partner violence lose their jobs due to reasons stemming from the abuse.
+One of the ways that abusers maintain control over their victims is by sabotaging their jobs and careers. According to the [National Coalition Against Domestic Violence](https://ncadv.org/blog/posts/quick-guide-economic-and-financial-abuse) (NCADV), between 21 and 60 percent of victims of intimate partner violence lose their jobs due to reasons stemming from the abuse. 
 
 x
 
