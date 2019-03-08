@@ -35,10 +35,10 @@ x
 
 ## It Can Ruin Futures
 
-One of the common tactics of financial abuse is known as coerced debt. This can look like
+One of the common tactics of financial abuse is known as coerced debt. This can range from opening accounts in the victim's name to forcing the victim to sign financial documents. 
 
 To hear more personal stories about this sort of destruction, check out this [Buzzfeed](https://www.buzzfeednews.com/article/arianelange/coerced-debt-financial-abuse-fix-credit-score) feature. It took years for this one woman to clean up her credit report after her husband opened credit cards in her name and didn't pay them off. 
 
 ## It Can Be Hard to Spot
 
-x
+As with a lot of abuse, financial abuse is not necessarily overt from the beginning. It can seem like your partner is just looking out for you. For example, there's a big difference between asking your partner what a big transaction on a credit card was for and badgering your partner about every spending transaction they make. 
