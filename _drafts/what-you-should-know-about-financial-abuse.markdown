@@ -17,15 +17,15 @@ You've heard of physical abuse. You've heard of emotional abuse. You've heard of
 
 ## Many Women Have Experienced Domestic Abuse
 
-According to the [Guttmacher Institute](https://www.guttmacher.org/gpr/2016/07/understanding-intimate-partner-violence-sexual-and-reproductive-health-and-rights-issue?gclid=EAIaIQobChMI5N2Plbfz4AIVxV6GCh0EgQMQEAAYAyAAEgLGTvD_BwE), nearly half of all women in the United States have experienced psychological aggression by an intimate partner, a quarter of women have experienced physical violence, and almost 10 percent have been raped by an intimate partner. To make matters worse, one-third of women who are murdered in the United States are killed by a current or former male partner. These are sobering numbers. They show that a huge swath of our population has experienced domestic violence of some kind, and domestic violence often escalates to murder.
+According to the [Guttmacher Institute](https://www.guttmacher.org/gpr/2016/07/understanding-intimate-partner-violence-sexual-and-reproductive-health-and-rights-issue?gclid=EAIaIQobChMI5N2Plbfz4AIVxV6GCh0EgQMQEAAYAyAAEgLGTvD_BwE), nearly half of all women in the United States have experienced psychological aggression by an intimate partner, a quarter of women have experienced physical violence, and almost 10 percent have been raped by an intimate partner. To make matters worse, one-third of women who are murdered in the United States are killed by a current or former male partner. These are sobering numbers. They show that a huge swath of our population has experienced domestic violence of some kind, and domestic violence often escalates to murder. It touches more of us than we might realize. 
 
 ## Most Abuse Victims Have Experienced Financial Abuse
 
-So now we know that up to 50 percent of all women in the United States experience domestic abuse of some kind. But what does that have to do with financial abuse? Well, the two are directly linked. Financial abuse actually occurs in up to 99 percent of all abusive relationships.
+So now we know that up to 50 percent of all women in the United States experience domestic abuse of some kind. But what does that have to do with financial abuse? Well, the two are directly and deeply linked. Financial abuse actually occurs in up to *99 percent* of all abusive relationships. That means that in almost all abusive relationships, money is being used as a weapon to make a victim financially reliant on their partner, or financially unable to leave the relationship.
 
 ## It's Not About the Money
 
-Just like sexual abuse isn't about sex, financial abuse isn't actually about money. It's about control. Money is essential go getting through our everyday lives. If someone else is controlling that resource, then we would have to be completely dependent on them. If you were an abuse victim, but your abuser controlled all of your finances, you probably wouldn't be able to afford to leave them. This sort of abuse maintains control over the victim, especially if there are children involved.
+Just like sexual abuse isn't about sex, financial abuse isn't actually about money. It's about control. Money is essential to getting through our everyday lives. If someone else is controlling that resource, then we would have to be completely dependent on them. If you were an abuse victim, but your abuser controlled all of your finances, you probably wouldn't be able to afford to leave them. This sort of abuse maintains control over the victim, especially if there are children involved.
 
 One of the reasons I decided to work with women on their money is because of how access to financial resources determines whether or not a woman can leave an abusive relationship (or roommate, or job, etc).
 
