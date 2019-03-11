@@ -21,28 +21,28 @@ According to the [Guttmacher Institute](https://www.guttmacher.org/gpr/2016/07/u
 
 ## Most Abuse Victims Have Experienced Financial Abuse
 
-So now we know that up to 50 percent of all women in the United States experience domestic abuse of some kind. But what does that have to do with financial abuse? Well, the two are directly linked. Financial abuse actually occurs in up to 99 percent of all abusive relationships. 
+So now we know that up to 50 percent of all women in the United States experience domestic abuse of some kind. But what does that have to do with financial abuse? Well, the two are directly linked. Financial abuse actually occurs in up to 99 percent of all abusive relationships.
 
 ## It's Not About the Money
 
-Just like sexual abuse isn't about sex, financial abuse isn't actually about money. It's about control. Money is essential go getting through our everyday lives. If someone else is controlling that resource, then we would have to be completely dependent on them. If you were an abuse victim, but your abuser controlled all of your finances, you probably wouldn't be able to afford to leave them. This sort of abuse maintains control over the victim, especially if there are children involved. 
+Just like sexual abuse isn't about sex, financial abuse isn't actually about money. It's about control. Money is essential go getting through our everyday lives. If someone else is controlling that resource, then we would have to be completely dependent on them. If you were an abuse victim, but your abuser controlled all of your finances, you probably wouldn't be able to afford to leave them. This sort of abuse maintains control over the victim, especially if there are children involved.
 
-One of the reasons I decided to work with women on their money is because of how access to financial resources determines whether or not a woman can leave an abusive relationship (or roommate, or job, etc). 
+One of the reasons I decided to work with women on their money is because of how access to financial resources determines whether or not a woman can leave an abusive relationship (or roommate, or job, etc).
 
 ## It Can Ruin Careers
 
 One of the ways that abusers maintain control over their victims is by sabotaging their jobs and careers. According to the [National Coalition Against Domestic Violence](https://ncadv.org/blog/posts/quick-guide-economic-and-financial-abuse) (NCADV), between 21 and 60 percent of victims of intimate partner violence lose their jobs due to reasons stemming from the abuse. Abusers do this by preventing their victim from going to work, interfering with their work by making frequent phone calls or showing up at their office, or demanding that they quit. According to the CDC, victims of intimate partner violence "lose a total of 8 million days of paid work each year, the equivalent of 32,000 jobs."
 
-This abuse tactic prevents a victim from being able to earn their own money and have their own sense of independence. It isolates the victim and makes them even more dependent upon their abuser. 
+This abuse tactic prevents a victim from being able to earn their own money and have their own sense of independence. It isolates the victim and makes them even more dependent upon their abuser.
 
 ## It Can Ruin Futures
 
-One of the common tactics of financial abuse is known as coerced debt. This can range from opening accounts in the victim's name to forcing the victim to sign financial documents. 
+One of the common tactics of financial abuse is known as coerced debt. This can range from opening accounts in the victim's name to forcing the victim to sign financial documents.
 
-To hear more personal stories about this sort of destruction, check out this [Buzzfeed](https://www.buzzfeednews.com/article/arianelange/coerced-debt-financial-abuse-fix-credit-score) feature. It took years for this one woman to clean up her credit report after her husband opened credit cards in her name and didn't pay them off. 
+To hear more personal stories about this sort of destruction, check out this [Buzzfeed](https://www.buzzfeednews.com/article/arianelange/coerced-debt-financial-abuse-fix-credit-score) feature. It took years for this one woman to clean up her credit report after her husband opened credit cards in her name and didn't pay them off.
 
 ## It Can Be Hard to Spot
 
-As with a lot of abuse, financial abuse is not necessarily overt from the beginning. It can seem like your partner is just looking out for you. For example, there's a big difference between asking your partner what a big transaction on a credit card was for and badgering your partner about every spending transaction they make. 
+As with a lot of abuse, financial abuse is not necessarily overt from the beginning. It can seem like your partner is just looking out for you. For example, there's a big difference between asking your partner what a big transaction on a credit card was for and badgering your partner about every spending transaction they make.
 
-*To learn more about financial abuse, visit [Guttmacher Institute](https://www.guttmacher.org/gpr/2016/07/understanding-intimate-partner-violence-sexual-and-reproductive-health-and-rights-issue?gclid=EAIaIQobChMI5N2Plbfz4AIVxV6GCh0EgQMQEAAYAyAAEgLGTvD_BwE) and [NCADV](https://ncadv.org/blog/posts/quick-guide-economic-and-financial-abuse). To learn how to support victims of financial abuse, visit the [Purple Purse](https://www.purplepurse.com/). *
+*To learn more about financial abuse, visit [Guttmacher Institute](https://www.guttmacher.org/gpr/2016/07/understanding-intimate-partner-violence-sexual-and-reproductive-health-and-rights-issue?gclid=EAIaIQobChMI5N2Plbfz4AIVxV6GCh0EgQMQEAAYAyAAEgLGTvD_BwE) and [NCADV](https://ncadv.org/blog/posts/quick-guide-economic-and-financial-abuse). To learn how to support victims of financial abuse, visit the [Purple Purse](https://www.purplepurse.com/).*
