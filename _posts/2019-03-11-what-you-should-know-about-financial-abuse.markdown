@@ -27,8 +27,6 @@ So now we know that up to 50 percent of all women in the United States experienc
 
 Just like sexual abuse isn't about sex, financial abuse isn't actually about money. It's about control. Money is essential to getting through our everyday lives. If someone else is controlling that resource, then we would have to be completely dependent on them. If you were an abuse victim, but your abuser controlled all of your finances, you probably wouldn't be able to afford to leave them. This sort of abuse maintains control over the victim, especially if there are children involved.
 
-One of the reasons I decided to work with women on their money is because of how access to financial resources determines whether or not a woman can leave an abusive relationship (or roommate, or job, etc).
-
 ## It Can Ruin Careers
 
 One of the ways that abusers maintain control over their victims is by sabotaging their jobs and careers. According to the [National Coalition Against Domestic Violence](https://ncadv.org/blog/posts/quick-guide-economic-and-financial-abuse) (NCADV), between 21 and 60 percent of victims of intimate partner violence lose their jobs due to reasons stemming from the abuse. Abusers do this by preventing their victim from going to work, interfering with their work by making frequent phone calls or showing up at their office, or demanding that they quit. According to the CDC, victims of intimate partner violence "lose a total of 8 million days of paid work each year, the equivalent of 32,000 jobs."
