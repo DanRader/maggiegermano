@@ -21,7 +21,7 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## **How I Spent Money This Week**
 
-* x
+* We haven't spent the money yet, but I assume that will be happening soon. We got two free estimates done for getting a mouse situation taken care of in our house. A couple weeks ago, Dan and I started hearing some scratching noises from our pantry. It sounded like a mouse was trying to chew through the wall. We put out traps but didn't catch any mice. This week, I heard what sounded like mice scratching around in the ceiling. Not okay! I immediately contacted exterminators to see what our options are. 
 
 * x
 
