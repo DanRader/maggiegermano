@@ -6,6 +6,8 @@ published: false
 categories:
 - lifestyle
 image: "/uploads/katarzyna-grabowska-607316-unsplash.jpg"
+tweet: Despite Their Priorities, Nearly Half Of Americans Over 55 Still Don't Have
+  A Will
 posts:
 - What's the Difference Between Retirement Accounts?
 - Why And How Women Must Prepare Differently for the Future
