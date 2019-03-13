@@ -31,7 +31,7 @@ This week, I wrote about the darker side of personal finance, which is [financia
 
 ## **What I’m Up To**
 
-* Starting Monday, March 11th, I’ll be part of a week-long video series called “Rewrite Your Money Story”. [Sign up](https://rewriteyourmoneystory.com/#MaggieGermano) to tune in!
+* Starting Monday, March 18th, I’ll be part of a week-long video series called “Rewrite Your Money Story”. [Sign up](https://rewriteyourmoneystory.com/#MaggieGermano) to tune in!
 
 * On Wednesday, March 27th, I’ll be hosting Money Circle. We’ll be joined by personal style coach, [Allison Hamilton-Rohe](https://dailyoutfit.com/), since our topic is: [How To Create a Powerful Personal Style On A Budget](https://www.eventbrite.com/e/money-circle-how-to-create-a-powerful-personal-style-on-a-budget-tickets-54939672038).
 
