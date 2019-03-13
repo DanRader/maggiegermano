@@ -23,15 +23,15 @@ Happy Friday! Here’s what I was up to this past week.
 
 * We haven't spent the money yet, but I assume that will be happening soon. We got two free estimates done for getting a mouse situation taken care of in our house. A couple weeks ago, Dan and I started hearing some scratching noises from our pantry. It sounded like a mouse was trying to chew through the wall. We put out traps but didn't catch any mice. This week, I heard what sounded like mice scratching around in the ceiling. Not okay! I immediately contacted exterminators to see what our options are. Homeownership means there's always something going wrong, y'all!
 
-* My parents are in town this weekend to visit, meet [Bruno the corgi](https://www.instagram.com/bruno.the.corg/), and help us with some home improvement projects. In preparation for their arrival, we purchased a bathroom ventilation fan, which will go into our master bathroom.
+* My parents are in town this weekend to visit, meet [Bruno the corgi](https://www.instagram.com/bruno.the.corg/), and help us with some home improvement projects. In preparation for their arrival, we purchased a bathroom ventilation fan and a bi-fold door, which will both go into our master bathroom. I also order two cute [towel](https://www.etsy.com/transaction/1593783280) [hooks](https://www.etsy.com/transaction/1596595229). 
 
 ## **What I’m Writing**
 
-x
+This week, I wrote about the darker side of personal finance, which is [financial abuse](https://www.maggiegermano.com/blog/what-you-should-know-about-financial-abuse/).
 
 ## **What I’m Up To**
 
-* Starting Monday, March 11th, I’ll be part of a week-long video series called “Rewrite Your Money Story”. [Sign up](https://rewriteyourmoneystory.com/#MaggieGermano) to tune in!
+* Starting Monday, March 18th, I’ll be part of a week-long video series called “Rewrite Your Money Story”. [Sign up](https://rewriteyourmoneystory.com/#MaggieGermano) to tune in!
 
 * On Wednesday, March 27th, I’ll be hosting Money Circle. We’ll be joined by personal style coach, [Allison Hamilton-Rohe](https://dailyoutfit.com/), since our topic is: [How To Create a Powerful Personal Style On A Budget](https://www.eventbrite.com/e/money-circle-how-to-create-a-powerful-personal-style-on-a-budget-tickets-54939672038).
 
@@ -39,6 +39,6 @@ x
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![Money gives you the freedom to leave when you need to. (1).png](/uploads/Money%20gives%20you%20the%20freedom%20to%20leave%20when%20you%20need%20to.%20(1).png)
 
 That’s all from me today! Have a fantastic weekend!
