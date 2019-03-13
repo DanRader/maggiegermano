@@ -21,9 +21,9 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## **How I Spent Money This Week**
 
-* We haven't spent the money yet, but I assume that will be happening soon. We got two free estimates done for getting a mouse situation taken care of in our house. A couple weeks ago, Dan and I started hearing some scratching noises from our pantry. It sounded like a mouse was trying to chew through the wall. We put out traps but didn't catch any mice. This week, I heard what sounded like mice scratching around in the ceiling. Not okay! I immediately contacted exterminators to see what our options are. 
+* We haven't spent the money yet, but I assume that will be happening soon. We got two free estimates done for getting a mouse situation taken care of in our house. A couple weeks ago, Dan and I started hearing some scratching noises from our pantry. It sounded like a mouse was trying to chew through the wall. We put out traps but didn't catch any mice. This week, I heard what sounded like mice scratching around in the ceiling. Not okay! I immediately contacted exterminators to see what our options are. Homeownership means there's always something going wrong, y'all!
 
-* My parents are in town this weekend to visit, meet [Bruno the corgi](https://www.instagram.com/bruno.the.corg/), and help us with some home improvement projects. In preparation for their arrival, we purchased a bathroom ventilation fan, which will go into our master bathroom. 
+* My parents are in town this weekend to visit, meet [Bruno the corgi](https://www.instagram.com/bruno.the.corg/), and help us with some home improvement projects. In preparation for their arrival, we purchased a bathroom ventilation fan, which will go into our master bathroom.
 
 ## **What I’m Writing**
 
