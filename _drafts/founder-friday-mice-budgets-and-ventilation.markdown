@@ -27,7 +27,7 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## **What I’m Writing**
 
-x
+This week, I wrote about the darker side of personal finance, which is [financial abuse](https://www.maggiegermano.com/blog/what-you-should-know-about-financial-abuse/).
 
 ## **What I’m Up To**
 
