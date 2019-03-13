@@ -39,6 +39,6 @@ This week, I wrote about the darker side of personal finance, which is [financia
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![Money gives you the freedom to leave when you need to. (1).png](/uploads/Money%20gives%20you%20the%20freedom%20to%20leave%20when%20you%20need%20to.%20(1).png)
 
 That’s all from me today! Have a fantastic weekend!
