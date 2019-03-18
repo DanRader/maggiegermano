@@ -33,3 +33,11 @@ By embracing a new mindset and mastering slow, easy to manage habit change, Mega
 UpSwing believes that every individual has a unique definition of wellness and will stop at nothing to challenge and change the grind–crash–repeat culture of our professional and personal lives.
 
 Megan loves both outdoor and urban adventures. She lives with her husband and has called DC home for almost 8 years. To learn more, visit [upswinghealthcoaching.com](http://upswinghealthcoaching.com/) or follow her on [Instagram](https://www.instagram.com/upswing_hc/), [Facebook](https://www.facebook.com/upswinghc/), and [LinkedIn](https://www.linkedin.com/in/megan-sanchez-8475a924/).
+
+--
+
+Money Circle is a safe open space where women can ask questions, air their fears, brag about accomplishments, and be honest about any confusion they may have around money.
+
+Light snacks will be provided.
+
+Refunds: Money Circle is a limited seating event. If you have to cancel for any reason within 24 hours, your ticket is non-refundable. However, feel free to gift it or sell it to a friend! Just be sure to let me know of the exchange at [hello@maggiegermano.com](mailto:hello@maggiegermano.com).
