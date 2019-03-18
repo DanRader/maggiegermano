@@ -2,8 +2,8 @@
 title: Honoring Self Care & Keeping Your Pockets Full
 date: 2019-04-17 18:30:00 -04:00
 published: false
-image: "/uploads/Money%20Circle%20Photos%20(5)-a13300.png"
-og-image: "/uploads/jamie-street-94242-unsplash.jpg"
+image: "/uploads/jamie-street-94242-unsplash-b68381.jpg"
+og-image: "/uploads/Money%20Circle%20Photos%20(5)-f3904a.png"
 event-date: 2019-04-17 18:30:00 -04:00
 start-time: 6:30 PM
 end-time: 8:30 PM
