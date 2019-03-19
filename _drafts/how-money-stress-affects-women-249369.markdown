@@ -11,6 +11,14 @@ posts:
 - Why I Became a Financial Coach for Women
 ---
 
-Depression and Low Self Esteem
+Money is a tricky subject. It touches every single part of our lives, be it our relationships, our careers, our health, and more. But it also carries with it a taboo and a healthy dose of shame, which makes it harder to deal with.
 
-Relationship Troubles
+To make things worse, women are more worried about money than men are. In fact, 67 percent of women worry about covering their current financial expenses compared to 57 percent of men. It doesn't get much better when it comes to future planning. Eighty-one percent of women stress about planning for their future financial needs compared to 72 percent of men.
+
+Women have less household debt than their male counterparts, but only 42% reported being comfortable with their debt level compared to 56% of men.
+
+## Depression and Low Self Esteem
+
+## Insomnia
+
+## Relationship Troubles
