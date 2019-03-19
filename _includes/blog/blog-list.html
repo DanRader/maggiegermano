@@ -1,37 +1,76 @@
 
 <div class="blog-list-wrapper">
-<div class="container" data-page="{{ paginator.page }}" data-totalPages="{{ paginator.total_pages }}">
-
-
-
-  {% for post in paginator.posts %}
-
-  {% assign loopindex = forloop.index | modulo: 5 %}
-
-  {% if loopindex == 1 %}
-    <div class="row blog-list"> {% include blog/list-item.html %}
-  {% elsif loopindex == 2 %}
-    {% include blog/list-item.html %}
-  {% elsif loopindex == 3 %}
-    {% include blog/list-item.html %} </div>
-
-  {% elsif loopindex == 4 %}
-    <div class="row blog-list">{% include blog/list-item.html %}
-  {% elsif loopindex == 0 %}
-    {% include blog/list-item__highlight.html %} </div>
-  {% endif %}
-
-  {% if forloop.last == true %}
+    <div class="controls">
+        <button type="button" data-filter="all">All</button>
+        {% for site-cat in site.categories %}
+            {%- assign down-cat = site-cat.title | remove: ' ' | downcase -%}
+            <button class="control" type="button" data-filter=".{{down-cat}}" data-order="1">{{ site-cat.title }}</button>
+        {% endfor %}
     </div>
-  {% endif %}
+    <div class="container blog-container">
 
-{% endfor %}
+          {% for post in site.posts %}
 
-  <div id="pagination" class="center">
-    {% if paginator.next_page %}
-    <a class="page-next" href="{{ paginator.next_page_path }}"><button class="on-white--ghost" type="button" name="load more">Load More</button></a>
-    {% endif %}
-  </div>
+            <div class="list-item mix
+                {% for post_cat in post.categories %}
+                {%- assign category = post_cat | remove: ' ' | downcase -%}
+                    {{ category }}
+                {% endfor %}">
+                <a href="{{ post.url | prepend: site.baseurl }}">
+                 <section class="blog-list-item">
+                   <div class="blog-list-image cover" style="background-image: url('{{ post.image }}');">
+                   </div>
+                   <div class="blog-list-content">
+                     {% include home/list-cat-2.html %}
+                       <h3>{{ post.title }}</h3>
+                       <p>{{ post.excerpt | truncatewords:25 | strip_html }}</p>
+                       <div class="read-button">
+                           <i class="text-button fa fa-long-arrow-right" aria-hidden="true"></i>
+                           <p>Read Article</p>
+                       </div>
+                   </div>
+                 </section>
+                </a>
+              </div>
+          {% endfor %}
+    <!--
+          {% for post in paginator.posts %}
 
+          {% assign loopindex = forloop.index | modulo: 5 %}
+
+          {% if loopindex == 1 %}
+            <div class="row blog-list"> {% include blog/list-item.html %}
+          {% elsif loopindex == 2 %}
+            {% include blog/list-item.html %}
+          {% elsif loopindex == 3 %}
+            {% include blog/list-item.html %} </div>
+
+          {% elsif loopindex == 4 %}
+            <div class="row blog-list">{% include blog/list-item.html %}
+          {% elsif loopindex == 0 %}
+            {% include blog/list-item__highlight.html %} </div>
+          {% endif %}
+
+          {% if forloop.last == true %}
+            </div>
+          {% endif %}
+
+        {% endfor %} -->
+
+      <!-- <div id="pagination" class="center">
+        {% if paginator.next_page %}
+        <a class="page-next" href="{{ paginator.next_page_path }}"><button class="on-white--ghost" type="button" name="load more">Load More</button></a>
+        {% endif %}
+      </div> -->
+
+    </div>
 </div>
-</div>
+
+<script src="../js/mixitup.min.js"></script>
+<script type="text/javascript">
+
+        var containerEl = document.querySelector('.container');
+
+        var mixer = mixitup(containerEl);
+
+</script>
