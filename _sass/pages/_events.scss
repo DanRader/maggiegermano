@@ -67,6 +67,24 @@
     padding: 4% 5% !important;
     margin-top: -45px;
     border-radius: 6px;
+    & a {
+      text-decoration: none;
+      color: $maggie-green;
+      font-weight: 700;
+      transition: .3s;
+      &:hover {
+        color: $maggie-green-dark;
+      }
+    }
+    & ul {
+      margin-top: 10px;
+      margin-bottom: 15px;
+    }
+
+    & ul li {
+      color: $maggie-green;
+      list-style-type: disc;
+    }
 }
 
 .event-date{
