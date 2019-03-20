@@ -15,7 +15,7 @@ Happy Friday! Here’s what I was up to this past week.
 
 * One of my clients paid her monthly coaching fee.
 
-* x
+* We had two Airbnb clients this week. 
 
 * x
 
