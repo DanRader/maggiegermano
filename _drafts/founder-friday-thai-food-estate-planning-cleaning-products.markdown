@@ -29,7 +29,7 @@ This week, I republished my [ForbesWomen](https://www.maggiegermano.com/blog/des
 
 ## **What I’m Up To**
 
-* I was featured in FinanciElle this week!
+* I was featured in [FinanciElle](https://financielle.wordpress.com/2019/03/16/maggie-germano-founder-and-ceo-of-maggie-germano-financial-coaching/) this week!
 
 * On Wednesday, March 27th, I’ll be hosting Money Circle. We’ll be joined by personal style coach, [Allison Hamilton-Rohe](https://dailyoutfit.com/), since our topic is: [How To Create a Powerful Personal Style On A Budget](https://www.eventbrite.com/e/money-circle-how-to-create-a-powerful-personal-style-on-a-budget-tickets-54939672038).
 
@@ -38,5 +38,7 @@ This week, I republished my [ForbesWomen](https://www.maggiegermano.com/blog/des
 * I want to hear from you! As I am continuing to create blog content and expanding my work into online courses, a podcast, and more workshops, I want to make sure I’m creating things that are useful to YOU. I’ve made a survey for my clients and readers to hear about what you most want to learn about. [Fill it out here](https://docs.google.com/forms/d/e/1FAIpQLSedjARbOmwC3_EomplCDDmNze_ZVLHwymIhqJbNcNqvM6gWVg/viewform?usp=sf_link)!
 
 ## **Money Tip to Take Into the Weekend**
+
+![Prayer is the key of the morning and bolt of the evening..png](/uploads/Prayer%20is%20the%20key%20of%20the%20morning%20and%20bolt%20of%20the%20evening..png)
 
 That’s all from me today! Have a fantastic weekend!
