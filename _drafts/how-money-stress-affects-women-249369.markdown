@@ -11,7 +11,7 @@ posts:
 - Why I Became a Financial Coach for Women
 ---
 
-Money is a tricky subject. It touches every single part of our lives, be it our relationships, our careers, our health, and beyond. But it also carries with it a societal taboo and a healthy dose of shame, which makes it even harder to deal with. Combine these two facts and stress is inevitable. 
+Money is a tricky subject. It touches every single part of our lives, be it our relationships, our careers, our health, and beyond. This can put stress on us beyond just the literal money concerns. But it also carries with it a societal taboo and a healthy dose of shame, which makes it even harder to deal with. Combine these facts and stress is inevitable.
 
 More than half of all college graduates are women and women make up just under 50 percent of applicants to the top business schools. Yet by the time they graduate and enter the workforce, women are paid a median salary that’s 81 percent of what their male colleagues make, according to data from the US Department of Labor.
 
@@ -25,10 +25,20 @@ The data also revealed that women who live in a modern family structure are less
 
 x
 
+## Unhealthy Behaviors
+
+x
+
 ## Depression and Low Self Esteem
+
+x
 
 ## Insomnia
 
+x
+
 ## Relationship Troubles
+
+x
 
 Why is it important
