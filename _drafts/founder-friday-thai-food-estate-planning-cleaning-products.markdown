@@ -11,23 +11,23 @@ posts:
 
 Happy Friday! Here’s what I was up to this past week.
 
-**How I Earned Money This Week**
+## How I Earned Money This Week
 
 * x
 
 * x
 
-## **How I Spent Money This Week**
+## How I Spent Money This Week
 
 * x
 
 * x
 
-## **What I’m Writing**
+## What I’m Writing
 
 This week, I republished my [ForbesWomen](https://www.maggiegermano.com/blog/despite-their-priorities-nearly-half-of-americans-over-55-still-dont-have-a-will/) piece about why it's so important to get your estate planning documents in order.
 
-## **What I’m Up To**
+## What I’m Up To
 
 * I was featured in [FinanciElle](https://financielle.wordpress.com/2019/03/16/maggie-germano-founder-and-ceo-of-maggie-germano-financial-coaching/) this week!
 
@@ -37,7 +37,7 @@ This week, I republished my [ForbesWomen](https://www.maggiegermano.com/blog/des
 
 * I want to hear from you! As I am continuing to create blog content and expanding my work into online courses, a podcast, and more workshops, I want to make sure I’m creating things that are useful to YOU. I’ve made a survey for my clients and readers to hear about what you most want to learn about. [Fill it out here](https://docs.google.com/forms/d/e/1FAIpQLSedjARbOmwC3_EomplCDDmNze_ZVLHwymIhqJbNcNqvM6gWVg/viewform?usp=sf_link)!
 
-## **Money Tip to Take Into the Weekend**
+## Money Tip to Take Into the Weekend
 
 ![Prayer is the key of the morning and bolt of the evening..png](/uploads/Prayer%20is%20the%20key%20of%20the%20morning%20and%20bolt%20of%20the%20evening..png)
 
