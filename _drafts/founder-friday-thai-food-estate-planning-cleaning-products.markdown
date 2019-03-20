@@ -29,7 +29,7 @@ This week, I republished my [ForbesWomen](https://www.maggiegermano.com/blog/des
 
 ## **What I’m Up To**
 
-* I was featured in FinanciElle this week!
+* I was featured in [FinanciElle](https://financielle.wordpress.com/2019/03/16/maggie-germano-founder-and-ceo-of-maggie-germano-financial-coaching/) this week!
 
 * On Wednesday, March 27th, I’ll be hosting Money Circle. We’ll be joined by personal style coach, [Allison Hamilton-Rohe](https://dailyoutfit.com/), since our topic is: [How To Create a Powerful Personal Style On A Budget](https://www.eventbrite.com/e/money-circle-how-to-create-a-powerful-personal-style-on-a-budget-tickets-54939672038).
 
