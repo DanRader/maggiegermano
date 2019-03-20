@@ -15,13 +15,15 @@ Happy Friday! Here’s what I was up to this past week.
 
 * One of my clients paid her monthly coaching fee.
 
-* x
+* We had two Airbnb clients this week. 
 
 * x
 
 ## How I Spent Money This Week
 
 * I received a $100 Amazon gift card this week, so I decided to treat myself. I bought a couple books that I've been wanting, a puzzle, and a makeup organizer for the top of my dresser. I still have half of the gift card amount left, but I want to let it sit so I can decide what else I want to treat myself with. 
+
+* x
 
 * x
 
