@@ -1,5 +1,5 @@
 ---
-title: Founder Friday | Thai Food, Estate Planning, and
+title: Founder Friday | Thai Food, Estate Planning, and Cleaning Products
 date: 2019-03-22 11:00:00 -04:00
 categories:
 - founder friday
