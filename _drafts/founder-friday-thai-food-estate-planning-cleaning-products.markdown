@@ -25,6 +25,8 @@ Happy Friday! Here’s what I was up to this past week.
 
 * x
 
+* x
+
 ## What I’m Writing
 
 This week, I republished my [ForbesWomen](https://www.maggiegermano.com/blog/despite-their-priorities-nearly-half-of-americans-over-55-still-dont-have-a-will/) piece about why it's so important to get your estate planning documents in order.
