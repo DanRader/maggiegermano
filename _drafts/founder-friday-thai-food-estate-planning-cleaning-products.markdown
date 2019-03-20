@@ -39,4 +39,6 @@ This week, I republished my [ForbesWomen](https://www.maggiegermano.com/blog/des
 
 ## **Money Tip to Take Into the Weekend**
 
+![Prayer is the key of the morning and bolt of the evening..png](/uploads/Prayer%20is%20the%20key%20of%20the%20morning%20and%20bolt%20of%20the%20evening..png)
+
 That’s all from me today! Have a fantastic weekend!
