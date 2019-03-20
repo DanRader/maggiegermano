@@ -13,11 +13,9 @@ Happy Friday! Here’s what I was up to this past week.
 
 **How I Earned Money This Week**
 
-* Dan’s bi-weekly paycheck came through.
+* x
 
-* One of my new clients paid her monthly fee.
-
-* I led a budgeting workshop at **[Mindspace](https://www.mindspace.me/)** this week. The payment should be coming through from Eventbrite soon.
+* x
 
 ## **How I Spent Money This Week**
 
@@ -31,9 +29,11 @@ This week, I republished my [ForbesWomen](https://www.maggiegermano.com/blog/des
 
 ## **What I’m Up To**
 
+* I was featured in FinanciElle this week!
+
 * On Wednesday, March 27th, I’ll be hosting Money Circle. We’ll be joined by personal style coach, [Allison Hamilton-Rohe](https://dailyoutfit.com/), since our topic is: [How To Create a Powerful Personal Style On A Budget](https://www.eventbrite.com/e/money-circle-how-to-create-a-powerful-personal-style-on-a-budget-tickets-54939672038).
 
-* April  Money Circle
+* The [April Money Circle](https://www.eventbrite.com/e/money-circle-honoring-self-care-keeping-your-pockets-full-tickets-59004572264) meet up is ready for registration! We'll be joined by Megan Sanchez of Upswing Health Coaching to talk about prioritizing self care while on a budget. 
 
 * I want to hear from you! As I am continuing to create blog content and expanding my work into online courses, a podcast, and more workshops, I want to make sure I’m creating things that are useful to YOU. I’ve made a survey for my clients and readers to hear about what you most want to learn about. [Fill it out here](https://docs.google.com/forms/d/e/1FAIpQLSedjARbOmwC3_EomplCDDmNze_ZVLHwymIhqJbNcNqvM6gWVg/viewform?usp=sf_link)!
 
