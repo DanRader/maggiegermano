@@ -23,7 +23,7 @@ Women have less household debt than their male counterparts, but only 42% report
 
 The data also revealed that women who live in a modern family structure are less prepared for retirement, saving an average of only $165,200 compared to their male counterparts, who have an average $243,300 saved. And yet, the largest portion of modern family men and women expect to retire at the same age: between the ages of 65 and 69.
 
-x
+So what does all this stress lead to?
 
 ## Unhealthy Behaviors
 
@@ -41,4 +41,4 @@ x
 
 x
 
-Why is it important
+As you probably could guess, these problems can lead to more financial trouble! 
