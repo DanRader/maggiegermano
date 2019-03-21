@@ -23,7 +23,7 @@ Happy Friday! Here’s what I was up to this past week.
 
 * I received a $100 Amazon gift card this week, so I decided to treat myself. I bought a couple books that I've been wanting, a puzzle, and a makeup organizer for the top of my dresser. I still have half of the gift card amount left, but I want to let it sit so I can decide what else I want to treat myself with. 
 
-* Branch Basics, Lola wipes
+* We use [Branch Basics](http://branchbasics.refr.cc/marygermano) for our at-home cleaning products. It's non-toxic and saves lots of money and plastic. There is a large bottle of concentrate that you mix with different amounts of water for different types of cleaning solutions, including hand soap. We recently ran out of the concentrate after nearly a year, so I ordered another bottle this week. (Get $10 off your first order when you use [my link](http://branchbasics.refr.cc/marygermano)!)
 
 * x
 
