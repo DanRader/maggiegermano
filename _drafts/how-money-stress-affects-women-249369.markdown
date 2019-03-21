@@ -41,4 +41,4 @@ x
 
 x
 
-As you probably could guess, these problems can lead to more financial trouble! 
+As you probably could guess, these problems can lead to more financial trouble! It can become a vicious cycle: financial problems > stress > health and relationship troubles > negative coping behaviors > financial problems > repeat. 
