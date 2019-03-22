@@ -27,7 +27,7 @@ To make things worse, women are more worried about money than men are. According
 
 * Women have less household debt than their male counterparts, but only 42 percent reported being comfortable with their debt level compared to 56 percent of men.
 
-* Women are less prepared for retirement, saving an average of only $165,200 compared to their male counterparts, who have an average $243,300 saved. And yet, the largest portion of modern family men and women expect to retire at the same age: between the ages of 65 and 69.
+* Women are less prepared for retirement, saving an average of only $165,200 compared to their male counterparts, who have an average $243,300 saved. More than three-quarters of women stress about planning for their future financial needs compared to 72 percent of men.
 
 ## So what does all this stress lead to?
 
@@ -43,7 +43,7 @@ Money issues, but debt in particular, can impact your mental health and self est
 
 **Insomnia**
 
-x
+There's a reason the saying "losing sleep" exists. 
 
 **Illness**
 
@@ -51,6 +51,6 @@ Stress can cause or exacerbate many different illnesses.
 
 **Relationship Troubles**
 
-Money is one of the top causes of relationship discord. This can happen both in romantic and platonic relationships. 
+Money is one of the top causes of relationship discord. This can happen both in romantic and platonic relationships, depending on the situation.  
 
 As you probably could guess, these problems can lead to more financial trouble! It can become a vicious cycle: financial problems > stress > health and relationship troubles \+ negative coping behaviors > financial problems > repeat.
