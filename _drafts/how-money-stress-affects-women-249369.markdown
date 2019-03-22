@@ -33,7 +33,7 @@ Other unhealthy behaviors can be excess drinking, drug use, overeating, overspen
 
 ## Depression and Low Self Esteem
 
-x
+Money issues, but debt in particular, can impact your mental health and self esteem. 
 
 ## Insomnia
 
