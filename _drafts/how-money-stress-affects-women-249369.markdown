@@ -45,10 +45,10 @@ x
 
 **Illness**
 
-Stress can cause or exacerbate many different illnesses. 
+Stress can cause or exacerbate many different illnesses.
 
 **Relationship Troubles**
 
 x
 
-As you probably could guess, these problems can lead to more financial trouble! It can become a vicious cycle: financial problems > stress > health and relationship troubles > negative coping behaviors > financial problems > repeat.
+As you probably could guess, these problems can lead to more financial trouble! It can become a vicious cycle: financial problems > stress > health and relationship troubles \+ negative coping behaviors > financial problems > repeat.
