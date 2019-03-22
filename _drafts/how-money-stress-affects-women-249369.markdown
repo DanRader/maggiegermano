@@ -15,9 +15,9 @@ Money is a tricky subject. It touches every single part of our lives, be it our 
 
 To make things worse, women are more worried about money than men are. According to a study by [Allianz](http://www.allianzusa.com/lovefamilymoney/insights/financial-stress-affects-men-and-women-differently/), 67 percent of women worry about covering their current financial expenses compared to 57 percent of men. It doesn't get much better when it comes to future planning. Eighty-one percent of women stress about planning for their future financial needs compared to 72 percent of men.
 
-**Why is this?**
+## Why is this?
 
-* Roughly 75 percent of Americans don’t have any savings to fall back and many live paycheck to paycheck. 
+* Roughly 75 percent of Americans don’t have any savings to fall back and many live paycheck to paycheck.
 
 * More than half of all workers admit to feeling financially stressed, costing business an estimated $250 billion a year in lost productivity and absenteeism, according to one Mercer study.
 
@@ -27,24 +27,28 @@ To make things worse, women are more worried about money than men are. According
 
 * Women are less prepared for retirement, saving an average of only $165,200 compared to their male counterparts, who have an average $243,300 saved. And yet, the largest portion of modern family men and women expect to retire at the same age: between the ages of 65 and 69.
 
-*So what does all this stress lead to?*
+## So what does all this stress lead to?
 
-## Unhealthy Behaviors
+**Unhealthy Behaviors**
 
-We all have some unhealthy coping behaviors that we gravitate towards when we're overwhelmed by stress. For me, it's eating too much candy and watching lots of tv. In moderation, these things feel great, but with too much, I feel like crap and I regret it.  
+We all have some unhealthy coping behaviors that we gravitate towards when we're overwhelmed by stress. For me, it's eating too much candy and watching lots of tv. In moderation, these things feel great, but with too much, I feel like crap and I regret it.
 
-Other unhealthy behaviors can be excess drinking, drug use, overeating, overspending, and more. These behaviors can negatively impact our physical and mental health, which then makes us more stressed. 
+Other unhealthy behaviors can be excess drinking, drug use, overeating, overspending, and more. These behaviors can negatively impact our physical and mental health, which then makes us more stressed.
 
-## Depression and Low Self Esteem
+**Depression and Low Self Esteem**
 
-Money issues, but debt in particular, can impact your mental health and self esteem. 
+Money issues, but debt in particular, can impact your mental health and self esteem.
 
-## Insomnia
-
-x
-
-## Relationship Troubles
+**Insomnia**
 
 x
 
-As you probably could guess, these problems can lead to more financial trouble! It can become a vicious cycle: financial problems > stress > health and relationship troubles > negative coping behaviors > financial problems > repeat. 
+**Illness**
+
+Stress can cause or exacerbate many different illnesses. 
+
+**Relationship Troubles**
+
+x
+
+As you probably could guess, these problems can lead to more financial trouble! It can become a vicious cycle: financial problems > stress > health and relationship troubles > negative coping behaviors > financial problems > repeat.
