@@ -27,7 +27,9 @@ So what does all this stress lead to?
 
 ## Unhealthy Behaviors
 
-We all have some unhealthy coping behaviors that we gravitate towards. For me, it's eating too much candy and watching lots of tv. In moderation, these things feel great, but with too much, I feel like crap. 
+We all have some unhealthy coping behaviors that we gravitate towards when we're overwhelmed by stress. For me, it's eating too much candy and watching lots of tv. In moderation, these things feel great, but with too much, I feel like crap and I regret it.  
+
+Other unhealthy behaviors can be excess drinking, drug use, overeating, overspending, and more. These behaviors can negatively impact our physical and mental health, which then makes us more stressed. 
 
 ## Depression and Low Self Esteem
 
