@@ -43,7 +43,7 @@ Money issues, but debt in particular, can impact your mental health and self est
 
 **Insomnia**
 
-x
+There's a reason the saying "losing sleep" exists. 
 
 **Illness**
 
@@ -51,6 +51,6 @@ Stress can cause or exacerbate many different illnesses.
 
 **Relationship Troubles**
 
-Money is one of the top causes of relationship discord. This can happen both in romantic and platonic relationships. 
+Money is one of the top causes of relationship discord. This can happen both in romantic and platonic relationships, depending on the situation.  
 
 As you probably could guess, these problems can lead to more financial trouble! It can become a vicious cycle: financial problems > stress > health and relationship troubles \+ negative coping behaviors > financial problems > repeat.
