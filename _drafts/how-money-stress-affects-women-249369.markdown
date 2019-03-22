@@ -15,15 +15,17 @@ Money is a tricky subject. It touches every single part of our lives, be it our 
 
 To make things worse, women are more worried about money than men are. According to a study by [Allianz](http://www.allianzusa.com/lovefamilymoney/insights/financial-stress-affects-men-and-women-differently/), 67 percent of women worry about covering their current financial expenses compared to 57 percent of men. It doesn't get much better when it comes to future planning. Eighty-one percent of women stress about planning for their future financial needs compared to 72 percent of men.
 
-Why is this? Well...
+**Why is this?**
 
-* Roughly 75 percent of Americans don’t have any savings to fall back and many live paycheck to paycheck. More than half of all workers admit to feeling financially stressed, costing business an estimated $250 billion a year in lost productivity and absenteeism, according to one Mercer study.
+* Roughly 75 percent of Americans don’t have any savings to fall back and many live paycheck to paycheck. 
 
-* More than half of all college graduates are women and women make up just under 50 percent of applicants to the top business schools. Yet by the time they graduate and enter the workforce, women are paid a median salary that’s 81 percent of what their male colleagues make, according to data from the US Department of Labor.
+* More than half of all workers admit to feeling financially stressed, costing business an estimated $250 billion a year in lost productivity and absenteeism, according to one Mercer study.
 
-* Women have less household debt than their male counterparts, but only 42% reported being comfortable with their debt level compared to 56% of men.
+* More than half of all college graduates are women and women make up just under 50 percent of applicants to the top business schools. But by the time they graduate and enter the workforce, women are paid a median salary that’s 81 percent of what their male colleagues make, according to data from the U.S. Department of Labor.
 
-* The data also revealed that women who live in a modern family structure are less prepared for retirement, saving an average of only $165,200 compared to their male counterparts, who have an average $243,300 saved. And yet, the largest portion of modern family men and women expect to retire at the same age: between the ages of 65 and 69.
+* Women have less household debt than their male counterparts, but only 42 percent reported being comfortable with their debt level compared to 56 percent of men.
+
+* Women are less prepared for retirement, saving an average of only $165,200 compared to their male counterparts, who have an average $243,300 saved. And yet, the largest portion of modern family men and women expect to retire at the same age: between the ages of 65 and 69.
 
 So what does all this stress lead to?
 
