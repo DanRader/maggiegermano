@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Thai Food, Estate Planning, and Cleaning Products
 date: 2019-03-22 11:00:00 -04:00
-published: false
 categories:
 - founder friday
 posts:
@@ -16,19 +15,21 @@ Happy Friday! Here’s what I was up to this past week.
 
 * One of my clients paid her monthly coaching fee.
 
-* We had two Airbnb clients this week. 
+* We had two Airbnb clients this week.
 
 ## How I Spent Money This Week
 
 * On Sunday, Dan did our weekly grocery run and stocked up on our easy meal staples.
 
-* I received a $100 Amazon gift card this week, so I decided to treat myself. I bought a couple books that I've been wanting, a puzzle, and a makeup organizer for the top of my dresser. I still have half of the gift card amount left, but I want to let it sit so I can decide what else I want to treat myself with. 
+* I received a $100 Amazon gift card this week, so I decided to treat myself. I bought a couple books that I've been wanting, a puzzle, and a makeup organizer for the top of my dresser. I still have half of the gift card amount left, but I want to let it sit so I can decide what else I want to treat myself with.
 
 * We use [Branch Basics](http://branchbasics.refr.cc/marygermano) for our at-home cleaning products. It's non-toxic and saves lots of money and plastic. There is a large bottle of concentrate that you mix with different amounts of water for different types of cleaning solutions, including hand soap. We recently ran out of the concentrate after nearly a year, so I ordered another bottle this week. (Get $10 off your first order when you use [my link](http://branchbasics.refr.cc/marygermano)!)
 
-* I donated to a couple fundraisers for [Collective Action for Safe Spaces](https://www.collectiveactiondc.org/) and [Baltimore Abortion Fund](http://www.baltimoreabortionfund.org/). My donations were very modest, which means you can give to your favorite causes while you're on a budget. 
+* I donated to a couple fundraisers for [Collective Action for Safe Spaces](https://www.collectiveactiondc.org/) and [Baltimore Abortion Fund](http://www.baltimoreabortionfund.org/). My donations were very modest, which means you can give to your favorite causes while you're on a budget.
 
 * I put $20 on my metro card on Wednesday. One of the downsides of living outside of the city proper is that I spend a lot more on metro rides. Of course, I take the metro a lot less often, since I'm working from home, but when I do take the metro (and the bus), I spend about $11 a day. Luckily Dan is able to ride his bike to work whenever the weather is nice, so we're able to save on his commuting expense.
+
+* We haven't spent the money yet, but we will tomorrow morning. We're hosting a Thai night at our house where Dan will make several of the recipes that we learned to make while in Thailand. It's gonna be delicious!
 
 ## What I’m Writing
 
