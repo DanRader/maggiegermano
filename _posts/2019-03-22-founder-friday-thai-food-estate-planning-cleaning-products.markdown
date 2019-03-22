@@ -3,6 +3,7 @@ title: Founder Friday | Thai Food, Estate Planning, and Cleaning Products
 date: 2019-03-22 11:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/nick-karvounis-1336084-unsplash.jpg"
 posts:
 - Founder Friday | Mice, Budgets, and Ventilation
 - Founder Friday | Pretty Much Just Puppy Stuff
