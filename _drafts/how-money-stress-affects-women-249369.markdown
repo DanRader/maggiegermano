@@ -27,7 +27,7 @@ To make things worse, women are more worried about money than men are. According
 
 * Women have less household debt than their male counterparts, but only 42 percent reported being comfortable with their debt level compared to 56 percent of men.
 
-* Women are less prepared for retirement, saving an average of only $165,200 compared to their male counterparts, who have an average $243,300 saved. And yet, the largest portion of modern family men and women expect to retire at the same age: between the ages of 65 and 69.
+* Women are less prepared for retirement, saving an average of only $165,200 compared to their male counterparts, who have an average $243,300 saved. More than three-quarters of women stress about planning for their future financial needs compared to 72 percent of men.
 
 ## So what does all this stress lead to?
 
