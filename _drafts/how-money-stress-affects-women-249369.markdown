@@ -5,6 +5,7 @@ categories:
 - lifestyle
 - debt
 image: "/uploads/jeshoots-com-523925-unsplash.jpg"
+tweet: 'Women are more stress about #money. Here''s how it affects them.'
 posts:
 - How to Care for Your Mental Health on a Budget
 - How to Cope with Your Money Shame
