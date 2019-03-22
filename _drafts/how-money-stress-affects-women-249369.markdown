@@ -15,6 +15,8 @@ Money is a tricky subject. It touches every single part of our lives, be it our 
 
 To make things worse, women are more worried about money than men are. According to a study by [Allianz](http://www.allianzusa.com/lovefamilymoney/insights/financial-stress-affects-men-and-women-differently/), 67 percent of women worry about covering their current financial expenses compared to 57 percent of men. It doesn't get much better when it comes to future planning. Eighty-one percent of women stress about planning for their future financial needs compared to 72 percent of men.
 
+> To make things worse, women are more worried about money than men are.
+
 ## Why is this?
 
 * Roughly 75 percent of Americans don’t have any savings to fall back and many live paycheck to paycheck.
