@@ -37,7 +37,7 @@ Other unhealthy behaviors can be excess drinking, drug use, overeating, overspen
 
 **Depression and Low Self Esteem**
 
-Money issues, but debt in particular, can impact your mental health and self esteem.
+Money issues, but debt in particular, can impact your mental health and self esteem. Melanie Lockert, founder of [Dear Debt](http://deardebt.com/), has written about this a lot. 
 
 **Insomnia**
 
