@@ -19,7 +19,7 @@ To make things worse, women are more worried about money than men are. According
 
 * Roughly 75 percent of Americans don’t have any savings to fall back and many live paycheck to paycheck.
 
-* More than half of all workers admit to feeling financially stressed, costing business an estimated $250 billion a year in lost productivity and absenteeism, according to one Mercer study.
+* More than half of all workers admit to feeling financially stressed, costing business an estimated $250 billion a year in lost productivity and absenteeism, according to a [Mercer](https://www.mercer.com/newsroom/financial-stress-could-cost-us-employers-up-to-250-billion-in-lost-wages-annually-finds-new-mercer-survey.html) study.
 
 * More than half of all college graduates are women and women make up just under 50 percent of applicants to the top business schools. But by the time they graduate and enter the workforce, women are paid a median salary that’s 81 percent of what their male colleagues make, according to data from the U.S. Department of Labor.
 
