@@ -46,7 +46,9 @@ When people are stressed, we also tend to readily abandon the things that make u
 
 Money issues, but debt in particular, can impact your mental health and self esteem. Many of my clients are struggling with self worth and self esteem issues stemming from their financial problems. It's hard not to feel like a failure when you're in debt or have made poor financial decisions. These emotional issues can also exacerbate financial problems by leading to more overspending. 
 
-Melanie Lockert, founder of [Dear Debt](http://deardebt.com/), has written about this a lot.
+Melanie Lockert, founder of [Dear Debt](http://deardebt.com/), has written about this a lot. She started her blog to tell her story about paying off her own mountain of debt. After time, she realized that many people were finding her blog by Googling phrases like “I want to kill myself because of debt.” She realized that mental health and debt were linked and inspired her to spread mental health awareness through her work. 
+
+*If you're feeling overwhelmed and depressed due to your money situation, you're not alone. If you're struggling, please seek help through your doctor or by calling 1-800-273-8255. *
 
 **Insomnia**
 
