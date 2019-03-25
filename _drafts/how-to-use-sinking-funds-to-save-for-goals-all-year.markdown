@@ -6,3 +6,4 @@ categories:
 - budget
 ---
 
+Happy Financial Literacy Month! You know I'm trying to teach you about money all year long, but 
