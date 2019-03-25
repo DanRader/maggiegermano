@@ -40,6 +40,10 @@ We all have some unhealthy coping behaviors that we gravitate towards when we're
 
 Other unhealthy behaviors can be excess drinking, drug use, overeating, overspending, and more. These behaviors can negatively impact our physical and mental health, which then makes us more stressed.
 
+Lack of Self Care
+
+When people are stressed, we tend to abandon the things that make us feel better. This can be healthy eating, exercising, or getting enough rest. 
+
 **Depression and Low Self Esteem**
 
 Money issues, but debt in particular, can impact your mental health and self esteem. Melanie Lockert, founder of [Dear Debt](http://deardebt.com/), has written about this a lot. 
