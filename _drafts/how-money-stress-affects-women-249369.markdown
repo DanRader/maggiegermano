@@ -62,4 +62,8 @@ Stress can cause or exacerbate many different illnesses.
 
 Money problems and stress can lead to relationship problems. In fact, money is one of the top causes of relationship discord. This can happen both in romantic and platonic relationships, depending on the situation. According to a [2017 MagnifyMoney survey](https://www.magnifymoney.com/blog/featured/money-causes-21-percent-divorces925885150/), 21 percent of divorced respondents claimed that money was the cause for their divorce. And it's not just a problem among those who weren't making enough money. In those who earned over $100,000 a year, 33 percent of them said money was the cause of their divorce! (More money, more problems?) To make matters worse, divorce is an expensive thing to go through. Fifty-nine percent of respondents said that they went into debt *because* of their divorce. 
 
-As you probably could guess, these problems can lead to more financial trouble! It can become a vicious cycle: financial problems > stress > health and relationship troubles \+ negative coping behaviors > financial problems > repeat.
+--
+
+As you probably could guess, all of these consequences of stress can lead to more financial trouble! It can become a vicious cycle: financial problems > stress > health and relationship troubles \+ negative coping behaviors > financial problems > repeat.
+
+*How have you dealt with money stress in the past? Share in the comments!*
