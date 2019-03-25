@@ -52,7 +52,7 @@ Melanie Lockert, founder of [Dear Debt](http://deardebt.com/), has written about
 
 **Insomnia**
 
-There's a reason the saying "losing sleep" exists. When we are stressed out, we have more trouble sleeping. 
+There's a reason the saying "losing sleep" exists. When we are stressed out, we have more trouble sleeping. There's too much on our minds to slow down, calm down and get some rest. Lack of sleep makes us more stressed and can lead to illness. 
 
 **Illness**
 
@@ -73,6 +73,8 @@ Stress can cause or exacerbate many different illnesses. The human stress respon
 * Weight gain
 
 * Memory and concentration impairment
+
+Not only does illness negatively affect our lives, but it can cause added financial problems in the form of doctors bills and missing work. 
 
 **Relationship Troubles**
 
