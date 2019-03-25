@@ -56,7 +56,23 @@ There's a reason the saying "losing sleep" exists. When we are stressed out, we 
 
 **Illness**
 
-Stress can cause or exacerbate many different illnesses.
+Stress can cause or exacerbate many different illnesses. The human stress response causes excess [cortisol](https://www.mayoclinic.org/healthy-lifestyle/stress-management/in-depth/stress/art-20046037) to be released in our bodies. When that happens rarely, it's not a problem. In fact, it was designed as a way for us to react properly and keep ourselves alive. However, when stress is a constant, cortisol is being released nonstop. This can make you more susceptible to things like:
+
+* Anxiety
+
+* Depression
+
+* Digestive problems
+
+* Headaches
+
+* Heart disease
+
+* Sleep problems
+
+* Weight gain
+
+* Memory and concentration impairment
 
 **Relationship Troubles**
 
