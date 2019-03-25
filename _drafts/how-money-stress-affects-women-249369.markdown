@@ -58,6 +58,6 @@ Stress can cause or exacerbate many different illnesses.
 
 **Relationship Troubles**
 
-Money is one of the top causes of relationship discord. This can happen both in romantic and platonic relationships, depending on the situation.
+Money is one of the top causes of relationship discord. This can happen both in romantic and platonic relationships, depending on the situation. According to a [2017 MagnifyMoney survey](https://www.magnifymoney.com/blog/featured/money-causes-21-percent-divorces925885150/), 21 percent of divorced respondents claimed that money was the cause for their divorce. 
 
 As you probably could guess, these problems can lead to more financial trouble! It can become a vicious cycle: financial problems > stress > health and relationship troubles \+ negative coping behaviors > financial problems > repeat.
