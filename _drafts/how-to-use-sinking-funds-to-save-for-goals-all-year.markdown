@@ -10,4 +10,14 @@ Happy Financial Literacy Month! You know I'm trying to teach you about money all
 
 A sinking fund is a savings account that is built up over time by setting smaller amounts of money aside to build up to the larger amount. 
 
-Do the Math
+## Identify the Goal
+
+## Do the Math
+
+## Save Monthly
+
+## Automate Your Savings
+
+## Only Use It For That Goal
+
+## Start Over Again
