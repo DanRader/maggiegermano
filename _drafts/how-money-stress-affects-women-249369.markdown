@@ -50,7 +50,7 @@ Melanie Lockert, founder of [Dear Debt](http://deardebt.com/), has written about
 
 **Insomnia**
 
-There's a reason the saying "losing sleep" exists.
+There's a reason the saying "losing sleep" exists. When we are stressed out, we have more trouble sleeping. 
 
 **Illness**
 
