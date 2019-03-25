@@ -4,6 +4,7 @@ date: 2019-04-01 11:00:00 -04:00
 categories:
 - savings
 - budget
+image: "/uploads/michael-longmire-689531-unsplash-909865.jpg"
 ---
 
 Happy Financial Literacy Month! You know I'm trying to teach you about money all year long, but this month, money nerds like me go even harder on the advice. For my part, I will be writing about specific, concrete financial questions I've gotten from clients or followers in the past. This week, I'm writing about "sinking funds". To be honest, I'd never heard of that term until Money Circle this past January when an attendee asked about it. But even though I've never heard the term, I'm very familiar with the idea and I actually write and talk about it all the time. 
