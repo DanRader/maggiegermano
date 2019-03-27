@@ -42,6 +42,8 @@ Happy Friday! Here’s what I was up to this past week.
 
 * I'm going to Vermont this weekend! In fact, I'm definitely at the airport right now, getting ready to board my flight. It's for my friend's bachelorette party, and I can't wait to spend the weekend with a bunch of awesome ladies!
 
+* Dan, our puppy Bruno, and I are starting obedience training on Monday! Raising a puppy has been a lot harder than I ever expected, so I'm excited to get some support and guidance from experts! Plus, maybe this will help Bruno to stop biting us. 
+
 ## Money Tip to Take Into the Weekend
 
 ![Good Morning-854c13.png](/uploads/Good%20Morning-854c13.png)
