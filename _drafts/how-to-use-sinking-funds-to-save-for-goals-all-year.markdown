@@ -28,6 +28,8 @@ How much money do you have to save up to reach your goal? Do the necessary resea
 
 ## Save Monthly
 
+Once you have the full number for your goal (or multiple goals) break that number down by month. How much do you have to set aside each month 
+
 ## Automate Your Savings
 
 ## Only Use It For That Goal
