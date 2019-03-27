@@ -14,9 +14,13 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## How I Earned Money This Week
 
-* x
+* Our Airbnb has been pretty booked recently! We had guests all week and a new guest is arriving tomorrow.
 
-* x
+* Dan got his bi-weekly paycheck today.
+
+* A former ongoing coaching client signed up and paid to have me on retainer.
+
+* The March Money Circle gathering was this past Wednesday. I don't use [Money Circle](https://www.maggiegermano.com/moneycircle/) as a major source of income, but it is a way for me to break even on the event itself. *(Would you sign up to be a virtual Money Circle member if you could get video access to the events, along with other resources? Leave a comment or [email me](mailto:boss@maggiegermano.com) if you're interested!)*
 
 ## How I Spent Money This Week
 
@@ -30,7 +34,7 @@ Happy Friday! Here’s what I was up to this past week.
 
 * This week, on [my blog](https://www.maggiegermano.com/blog/how-money-stress-affects-women-249369/), I wrote about how money stress affects women. 
 
-* I wrote a [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2019/03/27/women-are-working-more-than-ever-but-they-still-take-on-most-household-responsibilities/#6253db9a52e9) piece for Women's History Month ... If you're not already following [my column](https://www.forbes.com/sites/maggiegermano), do it today so you never miss a piece!
+* I wrote a [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2019/03/27/women-are-working-more-than-ever-but-they-still-take-on-most-household-responsibilities/#6253db9a52e9) piece for Women's History Month about how women are still shouldering most household responsibilities in addition to work. If you're not already following [my column](https://www.forbes.com/sites/maggiegermano), do it today so you never miss a piece!
 
 ## What I’m Up To
 
@@ -41,6 +45,12 @@ Happy Friday! Here’s what I was up to this past week.
 ## What I'm Excited About
 
 * I'm going to Vermont this weekend! In fact, I'm definitely at the airport right now, getting ready to board my flight. It's for my friend's bachelorette party, and I can't wait to spend the weekend with a bunch of awesome ladies!
+
+* I'm signed up to attend [Statement](https://www.statementevent.co/), a gathering of women in money. I'm so excited to be part of a group of women who I am inspired by. If you'll be in NYC from May 2-5, let me know!
+
+* Dan, our puppy Bruno, and I are starting obedience training on Monday! Raising a puppy has been a lot harder than I ever expected, so I'm excited to get some support and guidance from experts! Plus, maybe this will help Bruno to stop biting us. 
+
+![IMG_5890.jpg](/uploads/IMG_5890.jpg)
 
 ## Money Tip to Take Into the Weekend
 
