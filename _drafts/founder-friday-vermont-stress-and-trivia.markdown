@@ -12,31 +12,37 @@ posts:
 
 Happy Friday! Here’s what I was up to this past week.
 
-## **How I Earned Money This Week**
+## How I Earned Money This Week
 
 * x
 
 * x
 
-## **How I Spent Money This Week**
+## How I Spent Money This Week
+
+* I had coffee with a dear friend on Wednesday so that we could catch up after a while. I also had lunch with a different friend on the same day for the same reason.
 
 * x
 
 * x
 
-* x
+## What I’m Writing
 
-## **What I’m Writing**
+* This week, on [my blog](https://www.maggiegermano.com/blog/how-money-stress-affects-women-249369/), I wrote about how money stress affects women. 
 
-Women and stress
+* I wrote a [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2019/03/27/women-are-working-more-than-ever-but-they-still-take-on-most-household-responsibilities/#6253db9a52e9) piece for Women's History Month ... If you're not already following [my column](https://www.forbes.com/sites/maggiegermano), do it today so you never miss a piece!
 
-## **What I’m Up To**
+## What I’m Up To
 
-* The [April Money Circle](https://www.eventbrite.com/e/money-circle-honoring-self-care-keeping-your-pockets-full-tickets-59004572264) meet up is ready for registration! We’ll be joined by Megan Sanchez of Upswing Health Coaching to talk about prioritizing self care while on a budget.
+* The [April Money Circle](https://www.eventbrite.com/e/money-circle-honoring-self-care-keeping-your-pockets-full-tickets-59004572264) meet up is ready for registration! We’ll be joined by Megan Sanchez of Upswing Health Coaching to talk about prioritizing self-care while on a budget.
 
 * I want to hear from you! As I am continuing to create blog content and expanding my work into online courses, a podcast, and more workshops, I want to make sure I’m creating things that are useful to YOU. I’ve made a survey for my clients and readers to hear about what you most want to learn about. [Fill it out here](https://docs.google.com/forms/d/e/1FAIpQLSedjARbOmwC3_EomplCDDmNze_ZVLHwymIhqJbNcNqvM6gWVg/viewform?usp=sf_link)!
 
-## **Money Tip to Take Into the Weekend**
+## What I'm Excited About
+
+* I'm going to Vermont this weekend! In fact, I'm definitely at the airport right now, getting ready to board my flight. It's for my friend's bachelorette party, and I can't wait to spend the weekend with a bunch of awesome ladies!
+
+## Money Tip to Take Into the Weekend
 
 ![Good Morning-854c13.png](/uploads/Good%20Morning-854c13.png)
 
