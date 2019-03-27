@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Vermont, Stress, and Trivia
 date: 2019-03-29 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/sam-burriss-260301-unsplash.jpg"
@@ -24,13 +25,13 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## How I Spent Money This Week
 
+* We spent money on our usual weekly grocery run. 
+
 * Dan and I attended the trivia night at the Hyattsville [Pizzeria Paradiso](https://www.eatyourpizza.com/) on Tuesday. We'd never been to it before, but neither of us had other plans, so we decided to make it our date night this week. Trivia was free, but we each got a pizza and a couple beers. 
 
 * I had coffee with a dear friend on Wednesday so that we could catch up after a while. I also had lunch with a different friend on the same day for the same reason.
 
-* x
-
-* x
+* I bought some snacks for my trip to Vermont tonight. I will also be spending some money on dinner and wine once I get there. 
 
 ## What I’m Writing
 
@@ -41,6 +42,8 @@ Happy Friday! Here’s what I was up to this past week.
 ## What I’m Up To
 
 * The [April Money Circle](https://www.eventbrite.com/e/money-circle-honoring-self-care-keeping-your-pockets-full-tickets-59004572264) meet up is ready for registration! We’ll be joined by Megan Sanchez of Upswing Health Coaching to talk about prioritizing self-care while on a budget.
+
+* My friend and real estate agent, [Liz Ho](https://www.rlahre.com/agent/liz-ho/), and I are hosting a buyer's salon in DC on Wednesday, April 24th. Keep your eyes peeled, because we'll be sharing the sign-up link soon!
 
 * I want to hear from you! As I am continuing to create blog content and expanding my work into online courses, a podcast, and more workshops, I want to make sure I’m creating things that are useful to YOU. I’ve made a survey for my clients and readers to hear about what you most want to learn about. [Fill it out here](https://docs.google.com/forms/d/e/1FAIpQLSedjARbOmwC3_EomplCDDmNze_ZVLHwymIhqJbNcNqvM6gWVg/viewform?usp=sf_link)!
 
