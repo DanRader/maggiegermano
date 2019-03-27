@@ -28,7 +28,7 @@ Happy Friday! Here’s what I was up to this past week.
 
 * I had coffee with a dear friend on Wednesday so that we could catch up after a while. I also had lunch with a different friend on the same day for the same reason.
 
-* x
+* I bought some snacks for my trip to Vermont tonight. 
 
 * x
 
