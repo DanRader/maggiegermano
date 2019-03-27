@@ -1,6 +1,7 @@
 ---
 title: How to Use "Sinking Funds" to Save for  Goals All Year
 date: 2019-04-01 11:00:00 -04:00
+published: false
 categories:
 - savings
 - budget
@@ -42,4 +43,6 @@ If automating saving is the most important thing to do, not touching your saving
 
 ## Start Over Again
 
-Once you've reached your goal and paid for that thing, the story isn't over! Presumably, an annual fee will come up again, Christmas will come again next year, and you'll want to travel again someday. That's why it's important to revisit your individual goals and continue (or adjust) your savings schedule. 
+Once you've reached your goal and paid for that thing, the story isn't over! Presumably, an annual fee will come up again, Christmas will come again next year, and you'll want to travel again someday. That's why it's important to revisit your individual goals and continue (or adjust) your savings schedule. Consider these monthly amounts a permanent line item in your budget, and you'll always have the money when a bill comes due or a trip arises.
+
+*What are the goals or bills that you're saving up for? Share in the comments!*
