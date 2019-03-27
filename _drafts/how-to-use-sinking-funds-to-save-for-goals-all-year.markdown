@@ -38,4 +38,6 @@ The best way to reach your financial goals is to automate the process so that yo
 
 ## Only Use It For That Goal
 
+If automating saving is the most important thing to do, not touching your savings until you absolutely need it is the second most important thing. Don't spend money that you're saving for one thing on something else! This is especially true when it comes to emergency savings, which is why it's helpful to separate that account from your checking account. However, that advice still applies to other goals you're saving for. This is also why separating your goals into different savings accounts is useful. You can even give your savings accounts different names if you're using an online bank. Use a clear, obvious nickname for each account and do not pull from your accounts until it's time to use the money for your goals!
+
 ## Start Over Again
