@@ -34,10 +34,12 @@ It helps me to create separate savings accounts for separate goals. I have one s
 
 ## Automate Your Savings
 
-The best way to reach your financial goals is to automate the process so that you don't have to think about it. It takes the human aspect out of it and prevents temptation to spend the money. 
+The best way to reach your financial goals is to automate the process so that you don't have to think about it. It takes the human aspect out of it and prevents temptation to spend the money. The best way to do this if you have a regular paycheck is to set up direct deposit. Most employers are able to deposit different amounts into different accounts for every paycheck. Ask your HR department how you can set this up and do it right away. If you don't have a regular paycheck, or if your employer doesn't do direct deposit, there are other ways you can do this. Some banks will automate the transfer for you. If that isn't an option, apps like [Digit](https://digit.co/) will move money into different accounts for you. 
 
 ## Only Use It For That Goal
 
 If automating saving is the most important thing to do, not touching your savings until you absolutely need it is the second most important thing. Don't spend money that you're saving for one thing on something else! This is especially true when it comes to emergency savings, which is why it's helpful to separate that account from your checking account. However, that advice still applies to other goals you're saving for. This is also why separating your goals into different savings accounts is useful. You can even give your savings accounts different names if you're using an online bank. Use a clear, obvious nickname for each account and do not pull from your accounts until it's time to use the money for your goals!
 
 ## Start Over Again
+
+Once you've reached your goal and paid for that thing, the story isn't over! Presumably, an annual fee will come up again, Christmas will come again next year, and you'll want to travel again someday. That's why it's important to revisit your individual goals and continue (or adjust) your savings schedule. 
