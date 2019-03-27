@@ -28,9 +28,9 @@ How much money do you have to save up to reach your goal? Do the necessary resea
 
 ## Save Monthly
 
-Once you have the full number for your goal (or multiple goals) break that number down by month. How much do you have to set aside each month to reach your goal by your deadline? The size the number will vary depending on the size of the goal and how soon you want to reach it. 
+Once you have the full number for your goal (or multiple goals) break that number down by month. How much do you have to set aside each month to reach your goal by your deadline? The size of the number will vary depending on the size of the goal and how soon you want to reach it. However, breaking the big number down into small, attainable chunks will make it a lot less scary and much more likely that you'll reach it!
 
-It helps me to create separate savings accounts for separate goals. I have one savings account for non-monthly expenses like car insurance, annual fees, etc. I have other savings accounts for things like gifts and travel. Having them separate helps me to track my progress while not overdrawing from one goal to pay for another. 
+It helps me to create separate savings accounts for separate goals. I have one savings account for non-monthly expenses like car insurance, annual fees, etc. I have other savings accounts for things like gifts and travel. Having them separate helps me to track my progress while not overdrawing from one goal to pay for another. Usually, online banks like [Ally](http://www.ally.com) won't charge you any extra fees for having multiple savings accounts. 
 
 ## Automate Your Savings
 
