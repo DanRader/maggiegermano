@@ -24,6 +24,8 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## How I Spent Money This Week
 
+* Dan and I attended the trivia night at the Hyattsville [Pizzeria Paradiso](https://www.eatyourpizza.com/) on Tuesday. We'd never been to it before, but neither of us had other plans, so we decided to make it our date night this week. Trivia was free, but we each got a pizza and a couple beers. 
+
 * I had coffee with a dear friend on Wednesday so that we could catch up after a while. I also had lunch with a different friend on the same day for the same reason.
 
 * x
