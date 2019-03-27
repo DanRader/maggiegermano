@@ -28,7 +28,13 @@ How much money do you have to save up to reach your goal? Do the necessary resea
 
 ## Save Monthly
 
+Once you have the full number for your goal (or multiple goals) break that number down by month. How much do you have to set aside each month to reach your goal by your deadline? The size the number will vary depending on the size of the goal and how soon you want to reach it. 
+
+It helps me to create separate savings accounts for separate goals. I have one savings account for non-monthly expenses like car insurance, annual fees, etc. I have other savings accounts for things like gifts and travel. Having them separate helps me to track my progress while not overdrawing from one goal to pay for another. 
+
 ## Automate Your Savings
+
+The best way to reach your financial goals is to automate the process so that you don't have to think about it. It takes the human aspect out of it and prevents temptation to spend the money. 
 
 ## Only Use It For That Goal
 
