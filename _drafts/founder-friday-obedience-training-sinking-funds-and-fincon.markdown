@@ -23,7 +23,7 @@ x
 
 ## What I’m Up To
 
-* My panel has been chosen for this year's [FinCon](https://finconexpo.com/) in Washington, DC! I'm excited to join Cait Howerton, Kelsa Dickey, Ericka Young, and Holly Morphew on the stage. 
+* My panel has been chosen for this year's [FinCon](https://finconexpo.com/) in Washington, DC! I'm excited to join [Cait Howerton](https://www.linkedin.com/in/caithowertonmba/), [Kelsa Dickey](https://fiscalfitnessphx.com/), [Ericka Young](https://www.tailormadebudgets.com/), and [Holly Morphew](https://www.financialimpact.com/) on the stage.
 
 * The [April Money Circle](https://www.eventbrite.com/e/money-circle-honoring-self-care-keeping-your-pockets-full-tickets-59004572264) meet up is ready for registration! We’ll be joined by Megan Sanchez of Upswing Health Coaching to talk about prioritizing self-care while on a budget.
 
