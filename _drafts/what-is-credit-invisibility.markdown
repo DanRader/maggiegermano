@@ -12,7 +12,7 @@ posts:
 - Why You Should Care About Your Credit Score
 ---
 
-You've probably heard of bad credit or good credit, credit scores and credit reports. But have you ever heard of the term "credit invisible"? Probably not! Credit invisibility is when a person has no credit history whatsoever. In 2015, the Consumer Finance Protection Bureau found that 26 million Americans are actually credit invisible.
+You've probably heard of bad credit or good credit, credit scores and credit reports. But have you ever heard of the term "credit invisible"? Probably not! Credit invisibility is when a person has no credit history whatsoever. This means that they have nothing in their history to say that they have good credit or bad credit. There's just no credit at all. In 2015, the [Consumer Finance Protection Bureau](https://www.consumerfinance.gov/about-us/blog/who-are-credit-invisible/) found that 26 million Americans are actually credit invisible.
 
 ## Why Does It Matter?
 
