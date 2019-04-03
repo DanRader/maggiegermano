@@ -14,8 +14,8 @@ posts:
 
 Have you ever heard of the term "credit invisible"? This is when a person has no credit history whatsoever. In 2015, the Consumer Finance Protection Bureau found that 26 million Americans are actually credit invisible. 
 
-Why Does It Matter?
+## Why Does It Matter?
 
 Your credit history and credit score determine what you will or won't be approved for. This can affect your ability to get a home loan, a car loan, a student loan, 
 
-How to Become Credit Visible
+## How to Become Credit Visible
