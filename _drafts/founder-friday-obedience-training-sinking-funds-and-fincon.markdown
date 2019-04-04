@@ -1,25 +1,36 @@
 ---
 title: Founder Friday | Obedience Training, Sinking Funds, and FinCon
 date: 2019-04-05 14:00:00 -04:00
+categories:
+- founder friday
+image: "/uploads/claudio-schwarz-purzlbaum-1266714-unsplash.jpg"
+posts:
+- Founder Friday | Vermont, Stress, and Trivia
+- Founder Friday | Thai Food, Estate Planning, and Cleaning Products
+- Founder Friday | Thai Food, Estate Planning, and Cleaning Products
 ---
 
 Happy Friday! Here’s what I was up to this past week.
 
 ## How I Earned Money This Week
 
-x
+* We've had Airbnb guests non-stop this week.
+
+* One new client paid for her first monthly fee.
+
+* 
 
 ## How I Spent Money This Week
 
-* x
+* Continuing the trend of spending too much money on our puppy, we made another Chewy order this week. We bought Bruno a rain coat, a new food bowl, chew sticks, and a few other things.
 
-* x
+* I ran out of my favorite tea and protein powder last week, so I added them to my subscribe and save option on Amazon this week.
+
+* We did our usual grocery run to Safeway on Monday. 
 
 ## What I’m Writing
 
-* This week, x
-
-* x
+* This week, I wrote about how to use ["sinking funds"](https://www.maggiegermano.com/blog/how-to-use-sinking-funds-to-save-for-goals-all-year/) to save for bigger goals all year round. 
 
 ## What I’m Up To
 
@@ -27,17 +38,15 @@ x
 
 * The [April Money Circle](https://www.eventbrite.com/e/money-circle-honoring-self-care-keeping-your-pockets-full-tickets-59004572264) meet up is ready for registration! We’ll be joined by Megan Sanchez of Upswing Health Coaching to talk about prioritizing self-care while on a budget.
 
-* My friend and real estate agent, [Liz Ho](https://www.rlahre.com/agent/liz-ho/), and I are hosting a buyer’s salon in DC on Wednesday, April 24th. Keep your eyes peeled, because we’ll be sharing the sign-up link soon!
+* My friend and real estate agent, [Liz Ho](https://www.rlahre.com/agent/liz-ho/), and I are hosting a buyer’s salon in DC on Wednesday, April 24th. [Join us for this free event!](https://www.eventbrite.com/e/what-does-it-financially-take-to-buy-a-home-a-buyers-salon-tickets-59796021510)
 
 * I want to hear from you! As I am continuing to create blog content and expanding my work into online courses, a podcast, and more workshops, I want to make sure I’m creating things that are useful to YOU. I’ve made a survey for my clients and readers to hear about what you most want to learn about. [Fill it out here](https://docs.google.com/forms/d/e/1FAIpQLSedjARbOmwC3_EomplCDDmNze_ZVLHwymIhqJbNcNqvM6gWVg/viewform?usp=sf_link)!
 
 ## What I’m Excited About
 
-* I’m going to Vermont this weekend! In fact, I’m definitely at the airport right now, getting ready to board my flight. It’s for my friend’s bachelorette party, and I can’t wait to spend the weekend with a bunch of awesome ladies!
+* x
 
-* I’m signed up to attend **[Statement](https://www.statementevent.co/)**, a gathering of women in money. I’m so excited to be part of a group of women who I am inspired by. If you’ll be in NYC from May 2-5, let me know!
-
-* Dan, our puppy Bruno, and I are starting obedience training on Monday! Raising a puppy has been a lot harder than I ever expected, so I’m excited to get some support and guidance from experts! Plus, maybe this will help Bruno to stop biting us.
+* x
 
 ## What I'm Reading
 
@@ -47,6 +56,6 @@ This week, I am finishing up *[The Care and Feeding of Ravenously Hungry Girls](
 
 ## Money Tip to Take Into the Weekend
 
-x
+![26.png](/uploads/26.png)
 
 That’s all from me today! Have a fantastic weekend!
