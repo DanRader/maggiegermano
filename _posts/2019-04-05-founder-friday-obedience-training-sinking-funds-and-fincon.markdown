@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Obedience Training, Sinking Funds, and FinCon
 date: 2019-04-05 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/claudio-schwarz-purzlbaum-1266714-unsplash.jpg"
@@ -27,6 +28,8 @@ Happy Friday! Here’s what I was up to this past week.
 * We did our usual grocery run to Safeway on Monday. 
 
 * I had a photoshoot for an upcoming event and then attended a [Freelancer's Union](https://www.freelancersunion.org/) event nearby on Wednesday. I took a Lyft to and from Eastern Market for these. 
+
+![IMG_9132.jpg](/uploads/IMG_9132.jpg)
 
 ## What I’m Writing
 
