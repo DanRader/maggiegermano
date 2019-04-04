@@ -30,7 +30,7 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## What I’m Writing
 
-* This week, I wrote about how to use ["sinking funds"](https://www.maggiegermano.com/blog/how-to-use-sinking-funds-to-save-for-goals-all-year/) to save for bigger goals all year round. 
+This week, I wrote about how to use ["sinking funds"](https://www.maggiegermano.com/blog/how-to-use-sinking-funds-to-save-for-goals-all-year/) to save for bigger goals all year round. 
 
 ## What I’m Up To
 
