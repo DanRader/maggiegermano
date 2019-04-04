@@ -44,9 +44,9 @@ This week, I wrote about how to use ["sinking funds"](https://www.maggiegermano.
 
 ## What I’m Excited About
 
-* x
+* It's finally spring in DC! I plan to spend as much time outside as possible this weekend. I'll also take advantage of the weather to do some outdoor home maintenance, like painting my front porch floor and putting new mulch in the front garden. 
 
-* x
+* Dan and I are going to test drive some cars at a Mazda dealership tomorrow morning. I've never bought a car before, but it's time to have a car that I can actually drive (Dan's car is a stick shift). I haven't driven in a while, so I'm a little nervous, but I'm also excited to test drive some cars so that we can narrow down our search. 
 
 ## What I'm Reading
 
