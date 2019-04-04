@@ -18,8 +18,6 @@ Happy Friday! Here’s what I was up to this past week.
 
 * One new client paid for her first monthly fee.
 
-* 
-
 ## How I Spent Money This Week
 
 * Continuing the trend of spending too much money on our puppy, we made another Chewy order this week. We bought Bruno a rain coat, a new food bowl, chew sticks, and a few other things.
@@ -27,6 +25,8 @@ Happy Friday! Here’s what I was up to this past week.
 * I ran out of my favorite tea and protein powder last week, so I added them to my subscribe and save option on Amazon this week.
 
 * We did our usual grocery run to Safeway on Monday. 
+
+* I had a photoshoot for an upcoming event and then attended a [Freelancer's Union](https://www.freelancersunion.org/) event nearby on Wednesday. I took a Lyft to and from Eastern Market for these. 
 
 ## What I’m Writing
 
