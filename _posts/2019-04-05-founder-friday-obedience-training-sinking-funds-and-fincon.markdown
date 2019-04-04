@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Obedience Training, Sinking Funds, and FinCon
 date: 2019-04-05 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/claudio-schwarz-purzlbaum-1266714-unsplash.jpg"
@@ -28,9 +29,11 @@ Happy Friday! Here’s what I was up to this past week.
 
 * I had a photoshoot for an upcoming event and then attended a [Freelancer's Union](https://www.freelancersunion.org/) event nearby on Wednesday. I took a Lyft to and from Eastern Market for these. 
 
+![IMG_9132.jpg](/uploads/IMG_9132.jpg)
+
 ## What I’m Writing
 
-* This week, I wrote about how to use ["sinking funds"](https://www.maggiegermano.com/blog/how-to-use-sinking-funds-to-save-for-goals-all-year/) to save for bigger goals all year round. 
+This week, I wrote about how to use ["sinking funds"](https://www.maggiegermano.com/blog/how-to-use-sinking-funds-to-save-for-goals-all-year/) to save for bigger goals all year round. 
 
 ## What I’m Up To
 
@@ -44,9 +47,9 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## What I’m Excited About
 
-* x
+* It's finally spring in DC! I plan to spend as much time outside as possible this weekend. I'll also take advantage of the weather to do some outdoor home maintenance, like painting my front porch floor and putting new mulch in the front garden. 
 
-* x
+* Dan and I are going to test drive some cars at a Mazda dealership tomorrow morning. I've never bought a car before, but it's time to have a car that I can actually drive (Dan's car is a stick shift). I haven't driven in a while, so I'm a little nervous, but I'm also excited to test drive some cars so that we can narrow down our search. 
 
 ## What I'm Reading
 
