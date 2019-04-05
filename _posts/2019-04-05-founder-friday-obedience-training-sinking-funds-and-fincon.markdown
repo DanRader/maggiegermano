@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Obedience Training, Sinking Funds, and FinCon
 date: 2019-04-05 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 image: "/uploads/claudio-schwarz-purzlbaum-1266714-unsplash.jpg"
