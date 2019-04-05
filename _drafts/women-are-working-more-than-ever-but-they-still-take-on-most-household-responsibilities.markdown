@@ -1,6 +1,7 @@
 ---
 title: Women Are Working More Than Ever, But They Still Take On Most Household Responsibilities
 date: 2019-04-05 09:34:00 -04:00
+image: "/uploads/charisse-kenion-704696-unsplash.jpg"
 ---
 
 Women’s History Month is almost at its end, but there is still time to celebrate how far women have come, while also pointing out areas where we can still do better as a society. Women have come a long way in terms of progress and equality, especially in the workplace.
@@ -35,7 +36,7 @@ Things are still pretty dire for many women, especially women of color and low-i
 
 1. **Get Your Partner on Board:** Women are taught (both overtly and subtly) that they are the ones who must handle familial duties, even if it is to their own detriment. Changing this shouldn't just be on women's shoulders. Women and men both need to fight back against these traditional gender roles. If you are a woman with a male partner, talk to them about how this imbalance affects you. Start creating a more egalitarian distribution of duties at home. It won't happen overnight, but continue the conversation every day and get your partner on board. Men: educate yourselves about this imbalance and why it matters, and start doing your part at home and at work.
 
-2. **Advocate for Affordable Childcare and Paid Family Leave:**The United States is the only industrialized country without a national paid leave policy for mothers, let alone for fathers. Plus, the cost of childcare is unrealistic for many working mothers of young children. Push your elected representatives to propose and support legislation that would result in paid family leave and affordable childcare. Additionally, support organizations, like [National Partnership for Women & Families](http://www.nationalpartnership.org/), that are working for these laws to be implemented. These laws would support and uplift families across the board.
+2. **Advocate for Affordable Childcare and Paid Family Leave:** The United States is the only industrialized country without a national paid leave policy for mothers, let alone for fathers. Plus, the cost of childcare is unrealistic for many working mothers of young children. Push your elected representatives to propose and support legislation that would result in paid family leave and affordable childcare. Additionally, support organizations, like [National Partnership for Women & Families](http://www.nationalpartnership.org/), that are working for these laws to be implemented. These laws would support and uplift families across the board.
 
 3. **Push for Change at Work:** Many companies have good intentions but have not made concrete changes that protect women at work. If you are a decisionmaker at work, act upon your values and push to implement. Treat equality as a business priority, since it should be one. Use this [McKinsey Report](https://www.mckinsey.com/featured-insights/gender-equality/women-in-the-workplace-2018) as guidance for which changes to make. Even if you aren't a decisionmaker, push your employer to make changes. Make it clear just how important this issue is to you and to other women everywhere.
 
