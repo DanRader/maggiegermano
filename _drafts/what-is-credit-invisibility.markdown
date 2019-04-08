@@ -41,3 +41,7 @@ Of course, you should make sure that you trust the person who is adding you as a
 * **Have Someone Co-Sign a Loan**
 
 If you need to get a loan but you have no credit, you can get someone to co-sign it for you. This tells the creditor that 
+
+* **Get Credit for the Rent You Pay**
+
+Unfortunately, 
