@@ -5,3 +5,16 @@ categories:
 - savings
 ---
 
+xx
+
+## Put Your Savings In a Separate Bank
+
+x
+
+## Automate Your Savings
+
+x
+
+## Nickname Your Savings Accounts
+
+x
