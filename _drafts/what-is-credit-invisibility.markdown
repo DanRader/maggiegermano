@@ -44,7 +44,7 @@ Of course, you should make sure that you trust the person who is adding you as a
 
 If you need to get a loan but you have no credit, you can get someone to co-sign it for you. This tells the creditor that even if you default on a loan, there is someone else who will be responsible for paying it. And really, creditors really just want to make sure that someone will pay them back. 
 
-Getting a co-signer can also give you 
+Getting a co-signer can also give you better rates on a loan. When the lender sees that there is someone with good credit also responsible for the loan, they are more willing to give lower interest rates. For example, my little sister is exploring refinancing her student loans. The person she spoke to at the bank suggested that my parents co-sign the consolidation loan so that she could get a lower interest rate. That's not the route she will probably take, but she was surprised that it was an option for her. 
 
 * **Get Credit for the Rent You Pay**
 
