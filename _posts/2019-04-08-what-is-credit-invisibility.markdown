@@ -36,7 +36,7 @@ Talk to your bank and see if they offer a secured credit card option!
 
 A very easy way to build or improve your credit is to be added as an authorized user on someone's credit card. This is when someone already has a credit card and they add you as an authorized user on it. In this scenario, you don't even have to have access to the card itself, just the history of that account. That card starts to be reported to credit bureaus under your name, so that you have the benefit of the (hopefully) positive credit history. 
 
-\(**Tip:** If you do get access to the card to spend on it, make sure you only spend what you are able to pay back. You don't want to hurt your relationship with the account holder if you are unable to pay off your portion of the credit card balance.)
+(**Tip:** If you do get access to the card to spend on it, make sure you only spend what you are able to pay back. You don't want to hurt your relationship with the account holder if you are unable to pay off your portion of the credit card balance.)
 
 Of course, you should make sure that you trust the person who is adding you as an authorized user. If you get added and then the account holder misses payments, your credit history will be harmed. You'll want to make sure that the main account holder will make their payments on time and keep their debt to credit ratio low. Otherwise, their negative credit history will become your negative credit history. 
 
@@ -46,7 +46,7 @@ If you need to get a loan but you have no credit, you can get someone to co-sign
 
 Getting a co-signer can also give you better rates on a loan. When the lender sees that there is someone with good credit also responsible for the loan, they are more willing to give lower interest rates. For example, my little sister is exploring refinancing her student loans. The person she spoke to at the bank suggested that my parents co-sign the consolidation loan so that she could get a lower interest rate. That's not the route she will probably take, but she was surprised that it was an option for her. 
 
-\(**Note: **This is a huge commitment for someone to make for you. You'll want to come to an agreement up front with the co-signer. It could even be a written agreement that you come back to later if anything goes wrong. You don't want to put your relationship with the co-signer, or their financial stability, at risk, so make sure that you are able to pay back the loan on your own.)
+(**Note:** This is a huge commitment for someone to make for you. You'll want to come to an agreement up front with the co-signer. It could even be a written agreement that you come back to later if anything goes wrong. You don't want to put your relationship with the co-signer, or their financial stability, at risk, so make sure that you are able to pay back the loan on your own.)
 
 * **Get Credit for the Rent You Pay**
 
