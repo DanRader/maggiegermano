@@ -44,4 +44,4 @@ If you need to get a loan but you have no credit, you can get someone to co-sign
 
 * **Get Credit for the Rent You Pay**
 
-Unfortunately, if you're being a responsible adult 
+Unfortunately, if you're being a responsible adult and paying your rent every month, the credit bureaus typically don't know that. However, you can sign up for rent-reporting services, such as [Rental Kharma](https://rentalkharma.com/) and [RentTrack](https://www.renttrack.com/), that take bills you're already paying and report them to the credit bureaus. 
