@@ -22,11 +22,11 @@ Your credit history and credit score determine what you will or won't be approve
 
 ## How to Become Credit Visible
 
-dafd
+Getting approved for credit is a lot like getting a job. You need experience in order to get hired, but you can't get experience without hired chosen first! But there are ways to prove yourself as a responsible cardholder even if you don't have the credit history that creditors prefer. 
 
 * **Get a Secured Credit Card**
 
-x
+When I first graduated from college, I had never had a credit card, but I knew that I wanted to get one. My parents recommended that I get a secured credit card through their credit union. 
 
 * **Get Added As An Authorized User**
 
