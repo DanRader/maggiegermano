@@ -36,7 +36,7 @@ Talk to your bank and see if they offer a secured credit card option!
 
 A very easy way to build or improve your credit is to be added as an authorized user on someone's credit card.
 
-Of course, you should make sure that you trust the person who is adding you as an authorized user. If you get added and then the account holder 
+Of course, you should make sure that you trust the person who is adding you as an authorized user. If you get added and then the account holder misses payments, your credit history will be harmed. You'll want to make sure that the main account holder will make their payments on time and keep their debt to credit ratio low. 
 
 * **Have Someone Co-Sign a Loan**
 
