@@ -12,7 +12,7 @@ posts:
 - How to Use "Sinking Funds" to Save for  Goals All Year
 ---
 
-xx
+An emergency fund is one of the most important financial 
 
 ## Put Your Savings In a Separate Bank
 
