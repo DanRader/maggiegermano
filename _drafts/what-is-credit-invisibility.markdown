@@ -46,8 +46,12 @@ If you need to get a loan but you have no credit, you can get someone to co-sign
 
 Getting a co-signer can also give you better rates on a loan. When the lender sees that there is someone with good credit also responsible for the loan, they are more willing to give lower interest rates. For example, my little sister is exploring refinancing her student loans. The person she spoke to at the bank suggested that my parents co-sign the consolidation loan so that she could get a lower interest rate. That's not the route she will probably take, but she was surprised that it was an option for her. 
 
+\(**Note: **This is a huge commitment for someone to make for you. You'll want to come to an agreement up front with the co-signer. It could even be a written agreement that you come back to later if anything goes wrong. You don't want to put your relationship with the co-signer, or their financial stability, at risk, so make sure that you are able to pay back the loan on your own.)
+
 * **Get Credit for the Rent You Pay**
 
-Unfortunately, if you're being a responsible adult and paying your rent every month, the credit bureaus don't always know it. However, you can sign up for rent-reporting services, such as [Rental Kharma](https://rentalkharma.com/) and [RentTrack](https://www.renttrack.com/), that take bills you're already paying and report them to the credit bureaus. This can show lenders and creditors that you have a history of responsibly paying your bills. 
+Unfortunately, if you're being a responsible adult and paying your rent every month, the credit bureaus don't always know it. However, you can sign up for rent-reporting services, such as [Rental Kharma](https://rentalkharma.com/) and [RentTrack](https://www.renttrack.com/), that take bills you're already paying and report them to the credit bureaus. This can show lenders and creditors that you have a history of responsibly paying your bills. It's a great way to show that what you're already doing matters and have it show up on your credit report. 
+
+Of course, there is a fee that is associated with these services. And unfortunately, not all credit bureaus take this into account. But if you want to start building credit, and are unable to do the above options, this is one route to take. 
 
 If you take one or more of these steps, you'll be on your way to credit visibility. Over time, you'll even have good credit. 
