@@ -44,4 +44,4 @@ If you need to get a loan but you have no credit, you can get someone to co-sign
 
 * **Get Credit for the Rent You Pay**
 
-Unfortunately, 
+Unfortunately, if you're being a responsible adult 
