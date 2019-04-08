@@ -54,4 +54,6 @@ Unfortunately, if you're being a responsible adult and paying your rent every mo
 
 Of course, there is a fee that is associated with these services. And unfortunately, not all credit bureaus take this into account. But if you want to start building credit, and are unable to do the above options, this is one route to take. 
 
-If you take one or more of these steps, you'll be on your way to credit visibility. Over time, you'll even have good credit. 
+If you take one or more of these steps, you'll be on your way to credit visibility. Over time, you'll even have good credit! 
+
+*Have you ever been credit invisible? How did that affect you? Share in the comments!*
