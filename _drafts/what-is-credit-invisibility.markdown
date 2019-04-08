@@ -18,7 +18,7 @@ You've probably heard of bad credit or good credit, credit scores and credit rep
 
 ## Why Does It Matter?
 
-Your credit history and credit score determine what you will or won't be approved for. This can affect your ability to get a home loan, a car loan, a student loan, a credit card, etc. 
+Your credit history and credit score determine what you will or won't be approved for. This can affect your ability to get a home loan, a car loan, a student loan, a credit card, etc. I can also influence whether or not someone can get a job or an apartment, since many employers and landlords now check people's credit before accepting them. All of these limitations can have a huge negative impact on people's lives. 
 
 ## How to Become Credit Visible
 
