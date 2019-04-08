@@ -40,8 +40,8 @@ Of course, you should make sure that you trust the person who is adding you as a
 
 * **Have Someone Co-Sign a Loan**
 
-If you need to get a loan but you have no credit, you can get someone to co-sign it for you. This tells the creditor that 
+If you need to get a loan but you have no credit, you can get someone to co-sign it for you. This tells the creditor that even if you default on a loan, there is someone else who will be responsible for paying it. 
 
 * **Get Credit for the Rent You Pay**
 
-Unfortunately, if you're being a responsible adult and paying your rent every month, the credit bureaus typically don't know that. However, you can sign up for rent-reporting services, such as [Rental Kharma](https://rentalkharma.com/) and [RentTrack](https://www.renttrack.com/), that take bills you're already paying and report them to the credit bureaus. 
+Unfortunately, if you're being a responsible adult and paying your rent every month, the credit bureaus don't always know it. However, you can sign up for rent-reporting services, such as [Rental Kharma](https://rentalkharma.com/) and [RentTrack](https://www.renttrack.com/), that take bills you're already paying and report them to the credit bureaus. This can show lenders and creditors that you have a history of responsibly paying your bills. 
