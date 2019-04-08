@@ -34,8 +34,6 @@ Talk to your bank and see if they offer a secured credit card option!
 
 * **Get Added As An Authorized User**
 
-x
-
 * **Have Someone Co-Sign a Loan**
 
 x
