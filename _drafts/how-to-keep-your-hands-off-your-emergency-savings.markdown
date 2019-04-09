@@ -18,7 +18,7 @@ However, it's one thing to build your emergency fund, and it's another thing to 
 
 ## Put Your Savings In a Separate Bank
 
-x
+It's always important to know and understand yourself and your habits, but it's especially true when it comes to money. If you know that you tend to transfer your savings into your checking when you're running low on money, you have to put some barriers into place. 
 
 ## Automate Your Savings
 
@@ -27,3 +27,5 @@ x
 ## Nickname Your Savings Accounts
 
 x
+
+Create Savings Accounts for Other Goals
