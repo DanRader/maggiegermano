@@ -30,7 +30,7 @@ The key to most things related to money is to automate. That's why auto pay exis
 
 ## Nickname Your Savings Accounts
 
-x
+Did you know that in most online banking platforms, you can rename your accounts?
 
 ## Create Savings Accounts for Other Goals
 
