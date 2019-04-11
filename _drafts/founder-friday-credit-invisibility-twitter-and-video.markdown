@@ -21,9 +21,9 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## **How I Spent Money This Week**
 
-* x
+* We took Bruno to another of his follow-up vet appointments, so that he could get more vaccinations. 
 
-* x
+* Dan and I both had a bunch of meetings on Wednesday morning and afternoon, so it was the first time one of us couldn't be home with Bruno without leaving him for more than four hours. We hired a dog walker through Rover for $20 and it went well!
 
 * x
 
