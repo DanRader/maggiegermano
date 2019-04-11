@@ -20,6 +20,8 @@ However, it's one thing to build your emergency fund, and it's another thing to 
 
 It's always important to know and understand yourself and your habits, but it's especially true when it comes to money. If you know that you tend to transfer your savings into your checking when you're running low on money, you have to put some barriers into place.
 
+I recommend using a high-yield online savings account for this. 
+
 ## Automate Your Savings
 
 x
@@ -30,4 +32,4 @@ x
 
 ## Create Savings Accounts for Other Goals
 
-It's easy to dip into your emergency savings if you're keeping it in the same account as savings for other things like travel or fun. It's important to separate your emergency savings from all of your other money. That way, you'll always know what it's there for and won't be tempted to dip into it if you're pulling out money for another reason. 
+It's easy to dip into your emergency savings if you're keeping it in the same account as savings for other things like travel or fun. It's important to separate your emergency savings from all of your other money. That way, you'll always know what it's there for and won't be tempted to dip into it if you're pulling out money for another reason.
