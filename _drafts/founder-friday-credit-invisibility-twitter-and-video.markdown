@@ -51,7 +51,7 @@ xx
 
 ## **What I’m Reading**
 
-x
+This week, I'm reading *[Sweet Little Lies](https://www.amazon.com/Sweet-Little-Lies-Caz-Frear/dp/0062823191)* by Caz Frear. It's definitely a lighter read than *[The Care and Feeding of Ravenously Hungry Girls](https://www.amazon.com/Care-Feeding-Ravenously-Hungry-Girls/dp/1984802437)*. Plus, it's part of a series, which I always enjoy. It's nice to dig into another British crime novel (I loved Tana French's *[In the Woods](https://www.amazon.com/Woods-Novel-Tana-French/dp/0143113496)* series too). 
 
 ## **Money Tip to Take Into the Weekend**
 
