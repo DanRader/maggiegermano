@@ -22,13 +22,15 @@ It's always important to know and understand yourself and your habits, but it's 
 
 I recommend using a high-yield online savings account for this. Not only will it be separate from your checking account, but you'll earn more money on it too! Most brick and mortar banks have less than a percentage in interest on savings accounts, but online banks are currently offering more than two percent interest! Depending on how much you have in your emergency fund, that can be a lot of money over the course of a year. 
 
+There are lots of online banks out there now, but check out [Ally](https://www.ally.com/), [Synchrony](https://www.synchronybank.com), [Barclays](https://www.banking.barclaysus.com/online-savings.html?gclid=CPjur5PRyOECFeKsswodJDsImg&refid=BBDGLPSOSS0L0113&ef_id=EAIaIQobChMI9uXDkNHI4QIVgh6GCh2U5wX9EAAYASABEgKTXPD_BwE:G:s&s_kwcid=AL!5187!3!311902234218!e!!g!!barclays), or [American Express](https://save.americanexpress.com/d/hysa/?utm_stlnk=HighYield_OpenAccount&utm_mcid=3575486&utm_source=google&utm_medium=cpc&utm_term=american%20express%20savings&utm_cmpid=1660828257&utm_adgid=65673407402&utm_tgtid=kwd-3904654054&utm_mt=e&utm_adid=319956731964&utm_dvc=c&utm_ntwk=g&utm_adpos=1t1&utm_plcmnt=&utm_locphysid=9007733&utm_locintid=&utm_feeditemid=57236815775&utm_devicemdl=&utm_plcmnttgt=&utm_programname=brand&gclid=EAIaIQobChMI3NbhmdHI4QIVFVqGCh22tAN5EAAYASABEgLONvD_BwE). 
+
 ## Automate Your Savings
 
-x
+The key to most things related to money is to automate. That's why auto pay exists! It takes forgetfulness out of the equation. It also takes human nature out of the equation. As humans, we love instant gratification, and spending money feels better immediately than saving money does. 
 
 ## Nickname Your Savings Accounts
 
-x
+Did you know that in most online banking platforms, you can rename your accounts?
 
 ## Create Savings Accounts for Other Goals
 
