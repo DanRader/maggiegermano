@@ -47,7 +47,7 @@ xx
 
 * Dan and I hired Meg Madden to do our taxes for us this year. It's the first year we're filing jointly, it's the first year where I have only self-employment income, and it's the first year that we have our Airbnb income. Plus, Dan had some freelance income in 2018. Needless to say, we felt a little out of our depth in doing our taxes ourselves, so we hired Meg. She got us all the deductions possible and instead of owing thousands of dollars, we're actually going to end up getting some money back! I'm feeling pretty amazing about that!
 
-* I think Dan and I are going to buy a new car! We tested out Mazdas and Subarus last weekend and fell in love with the Subaru Crosstrek. We've been wanting to buy a new car for a while now, and we finally feel like we're in a good financial position to do so (getting money back instead of owing taxes helped!). 
+* I think Dan and I are going to buy a new car! We tested out Mazdas and Subarus last weekend and fell in love with the Subaru Crosstrek. We've been wanting to buy a new car for a while now, and we finally feel like we're in a good financial position to do so (getting money back instead of owing taxes helped!). I'm nervous because I've never actually owned a car, but it'll be nice to have a car in the driveway that I can actually drive (unlike Dan's manual Kia Spectra). 
 
 ## **What I’m Reading**
 
