@@ -29,7 +29,7 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## **What I’m Writing**
 
-xx
+This week, I wrote about [credit invisibility](https://www.maggiegermano.com/blog/what-is-credit-invisibility/), which is when you have no credit history whatsoever. If you think that might be you, check it out to see what you can do about it!
 
 ## **What I’m Up To**
 
