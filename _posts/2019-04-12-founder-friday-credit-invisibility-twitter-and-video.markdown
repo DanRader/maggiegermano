@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Credit Invisibility, Twitter, and Video
 date: 2019-04-12 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 posts:
@@ -21,15 +22,19 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## **How I Spent Money This Week**
 
-* We took Bruno to another of his follow-up vet appointments, so that he could get more vaccinations. 
+* On Monday, Dan took Bruno to another of his follow-up vet appointments, so that he could get more vaccinations. One more visit and he's done until January! 
+
+* I bought a couple storage bags for our comforter and winter clothes. I usually just toss them in the closet but I want to be more organized moving forward.
+
+* On Tuesday, we didn't want to do much cooking, so we walked over to Whole Foods and bought a rotisserie chicken and made some pasta to go with it. We also bought some fruit and vegetables for later in the week.
 
 * Dan and I both had a bunch of meetings on Wednesday morning and afternoon, so it was the first time one of us couldn't be home with Bruno without leaving him for more than four hours. We hired a dog walker through Rover for $20 and it went well!
 
-* x
+* On Wednesday night, Dan and I went to [Streetcar 82](https://www.streetcar82brewing.com/) down the street to have a beer and talk about cars. We brought Bruno along and had a beer while we mapped out our questions and concerns. 
 
 ## **What I’m Writing**
 
-xx
+This week, I wrote about [credit invisibility](https://www.maggiegermano.com/blog/what-is-credit-invisibility/), which is when you have no credit history whatsoever. If you think that might be you, check it out to see what you can do about it!
 
 ## **What I’m Up To**
 
