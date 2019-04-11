@@ -20,7 +20,7 @@ However, it's one thing to build your emergency fund, and it's another thing to 
 
 It's always important to know and understand yourself and your habits, but it's especially true when it comes to money. If you know that you tend to transfer your savings into your checking when you're running low on money, you have to put some barriers into place.
 
-I recommend using a high-yield online savings account for this. 
+I recommend using a high-yield online savings account for this. Not only will it be separate from your checking account, but you'll earn more money on it too! Most brick and mortar banks have less than a percentage in interest on savings accounts, but online banks are currently offering more than two percent interest! Depending on how much you have in your emergency fund, that can be a lot of money over the course of a year. 
 
 ## Automate Your Savings
 
