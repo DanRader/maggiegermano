@@ -33,7 +33,7 @@ xx
 
 ## **What I’m Up To**
 
-* Twitter chat
+* On Monday, I was one of the "panelists" for [Ambitionista's](https://twitter.com/ambitionista) Twitter chat! We talked all about taxes. I'd never been part of a Twitter chat before, and I had a lot of fun!
 
 * The [April Money Circle](https://www.eventbrite.com/e/money-circle-honoring-self-care-keeping-your-pockets-full-tickets-59004572264) meet up is ready for registration! We’ll be joined by Megan Sanchez of Upswing Health Coaching to talk about prioritizing self-care while on a budget.
 
@@ -51,7 +51,7 @@ xx
 
 ## **What I’m Reading**
 
-x
+This week, I'm reading *[Sweet Little Lies](https://www.amazon.com/Sweet-Little-Lies-Caz-Frear/dp/0062823191)* by Caz Frear. It's definitely a lighter read than *[The Care and Feeding of Ravenously Hungry Girls](https://www.amazon.com/Care-Feeding-Ravenously-Hungry-Girls/dp/1984802437)*. Plus, it's part of a series, which I always enjoy. It's nice to dig into another British crime novel (I loved Tana French's *[In the Woods](https://www.amazon.com/Woods-Novel-Tana-French/dp/0143113496)* series too). 
 
 ## **Money Tip to Take Into the Weekend**
 
