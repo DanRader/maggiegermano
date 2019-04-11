@@ -33,7 +33,7 @@ xx
 
 ## **What I’m Up To**
 
-* Twitter chat
+* On Monday, I was one of the "panelists" for [Ambitionista's](https://twitter.com/ambitionista) Twitter chat! We talked all about taxes. I'd never been part of a Twitter chat before, and I had a lot of fun!
 
 * The [April Money Circle](https://www.eventbrite.com/e/money-circle-honoring-self-care-keeping-your-pockets-full-tickets-59004572264) meet up is ready for registration! We’ll be joined by Megan Sanchez of Upswing Health Coaching to talk about prioritizing self-care while on a budget.
 
