@@ -1,6 +1,7 @@
 ---
 title: How to Keep Your Hands Off Your Emergency Savings
 date: 2019-04-15 14:00:00 -04:00
+published: false
 categories:
 - savings
 image: "/uploads/ben-white-199953-unsplash.jpg"
@@ -37,3 +38,5 @@ Nicknaming your savings accounts can also remind you what they're for if you're 
 ## Create Savings Accounts for Other Goals
 
 It's easy to dip into your emergency savings if you're keeping it in the same account as savings for other things like travel or fun. It's important to separate your emergency savings from all of your other money. That way, you'll always know what it's there for and won't be tempted to dip into it if you're pulling out money for another reason.
+
+Have you built up your emergency savings yet? 
