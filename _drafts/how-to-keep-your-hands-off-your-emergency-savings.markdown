@@ -30,7 +30,7 @@ The key to most things related to money is to automate. That's why auto pay exis
 
 ## Nickname Your Savings Accounts
 
-Did you know that in most online banking platforms, you can rename your accounts?
+Did you know that in most online banking platforms, you can rename your accounts? My current savings accounts (both individual and joint) are named thusly: Emergency Fund, Fun Spending, Annual Expenses, Home Improvement, Dog Savings, Travel Savings, and Airbnb Taxes. I like to keep my savings goals separate so that I can easily track them. 
 
 ## Create Savings Accounts for Other Goals
 
