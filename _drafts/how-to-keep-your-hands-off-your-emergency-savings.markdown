@@ -26,7 +26,7 @@ There are lots of online banks out there now, but check out [Ally](https://www.a
 
 ## Automate Your Savings
 
-The key to most things related to money is to automate. That's why auto pay exists! It takes forgetfulness out of the equation. It also takes human nature out of the equation. As humans, we love instant gratification, and spending money feels better immediately than saving money does. 
+The key to most things related to money is to automate. That's why auto pay exists! It takes forgetfulness out of the equation. It also takes human nature out of the equation. As humans, we love instant gratification, and spending money feels better immediately than saving money does. If the money moves automatically from your paycheck into your savings account, you won't be able to spend it before saving it. Set up direct deposit with your employer, or have your bank move the money for you whenever a check hits your account. 
 
 ## Nickname Your Savings Accounts
 
