@@ -30,7 +30,9 @@ The key to most things related to money is to automate. That's why auto pay exis
 
 ## Nickname Your Savings Accounts
 
-Did you know that in most online banking platforms, you can rename your accounts? My current savings accounts (both individual and joint) are named thusly: Emergency Fund, Fun Spending, Annual Expenses, Home Improvement, Dog Savings, Travel Savings, and Airbnb Taxes. I like to keep my savings goals separate so that I can easily track them. 
+Did you know that in most online banking platforms, you can rename your accounts? My current savings accounts (both individual and joint) are named thusly: Emergency Fund, Fun Spending, Annual Expenses, Home Improvement, Dog Savings, Travel Savings, and Airbnb Taxes. Yes, I may have more savings accounts than you would like to have, and that's okay! I just like to keep all my savings goals separate so that I can easily track them. It also makes me feel more prepared and comfortable to see that I'm saving for all of the things that are important to me.
+
+Nicknaming your savings accounts can also remind you what they're for if you're tempted to withdraw from them. If you name your emergency fund your "freedom fund" or "fuck off fund", maybe you'll be less likely to spend the money on non-emergencies. 
 
 ## Create Savings Accounts for Other Goals
 
