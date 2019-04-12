@@ -3,6 +3,7 @@ title: Founder Friday | Credit Invisibility, Twitter, and Video
 date: 2019-04-12 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/jakob-owens-246119-unsplash.jpg"
 posts:
 - Founder Friday | Obedience Training, Sinking Funds, and FinCon
 - Founder Friday | Vermont, Stress, and Trivia
