@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Credit Invisibility, Twitter, and Video
 date: 2019-04-12 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 posts:
@@ -18,11 +17,11 @@ Happy Friday! Here’s what I was up to this past week.
 
 * One of my retainer client's monthly payments went through on Monday.
 
-* A one-time session client paid for her session this week. 
+* A one-time session client paid for her session this week.
 
 ## **How I Spent Money This Week**
 
-* On Monday, Dan took Bruno to another of his follow-up vet appointments, so that he could get more vaccinations. One more visit and he's done until January! 
+* On Monday, Dan took Bruno to another of his follow-up vet appointments, so that he could get more vaccinations. One more visit and he's done until January!
 
 * I bought a couple storage bags for our comforter and winter clothes. I usually just toss them in the closet but I want to be more organized moving forward.
 
@@ -30,7 +29,9 @@ Happy Friday! Here’s what I was up to this past week.
 
 * Dan and I both had a bunch of meetings on Wednesday morning and afternoon, so it was the first time one of us couldn't be home with Bruno without leaving him for more than four hours. We hired a dog walker through Rover for $20 and it went well!
 
-* On Wednesday night, Dan and I went to [Streetcar 82](https://www.streetcar82brewing.com/) down the street to have a beer and talk about cars. We brought Bruno along and had a beer while we mapped out our questions and concerns. 
+* On Wednesday night, Dan and I went to [Streetcar 82](https://www.streetcar82brewing.com/) down the street to have a beer and talk about cars. We brought Bruno along and had a beer while we mapped out our questions and concerns.
+
+![IMG_6403.jpg](/uploads/IMG_6403.jpg)
 
 ## **What I’m Writing**
 
@@ -48,15 +49,15 @@ This week, I wrote about [credit invisibility](https://www.maggiegermano.com/blo
 
 ## **What I’m Excited About**
 
-* A couple weeks ago, [Izabelle Azevedo](https://www.itsmissizabelle.com/) contacted me on Instagram asking if I wanted to be part of her new venture, [Red Skirt Media](https://www.redskirtmedia.com/). It's a media company that aims to help women's entrepreneurs use video in order to stand out in the crowd. Izabelle and I met up on Wednesday for our first video session in downtown DC. Next week, she'll be coming to my house to do more video. I can't wait to see how it all turns out! If you're interested in using video to expand your brand, contact her! 
+* A couple weeks ago, [Izabelle Azevedo](https://www.itsmissizabelle.com/) contacted me on Instagram asking if I wanted to be part of her new venture, [Red Skirt Media](https://www.redskirtmedia.com/). It's a media company that aims to help women's entrepreneurs use video in order to stand out in the crowd. Izabelle and I met up on Wednesday for our first video session in downtown DC. Next week, she'll be coming to my house to do more video. I can't wait to see how it all turns out! If you're interested in using video to expand your brand, contact her!
 
-* Dan and I hired Meg Madden to do our taxes for us this year. It's the first year we're filing jointly, it's the first year where I have only self-employment income, and it's the first year that we have our Airbnb income. Plus, Dan had some freelance income in 2018. Needless to say, we felt a little out of our depth in doing our taxes ourselves, so we hired Meg. She got us all the deductions possible and instead of owing thousands of dollars, we're actually going to end up getting some money back! I'm feeling pretty amazing about that!
+* Dan and I hired [Meg Madden](https://www.linkedin.com/in/megmaddendc/) to do our taxes for us this year. It's the first year we're filing jointly, it's the first year where I have only self-employment income, and it's the first year that we have our Airbnb income. Plus, Dan had some freelance income in 2018. Needless to say, we felt a little out of our depth in doing our taxes ourselves, so we hired Meg. She got us all the deductions possible and instead of owing thousands of dollars, we're actually going to end up getting some money back! I'm feeling pretty amazing about that!
 
-* I think Dan and I are going to buy a new car! We tested out Mazdas and Subarus last weekend and fell in love with the Subaru Crosstrek. We've been wanting to buy a new car for a while now, and we finally feel like we're in a good financial position to do so (getting money back instead of owing taxes helped!). I'm nervous because I've never actually owned a car, but it'll be nice to have a car in the driveway that I can actually drive (unlike Dan's manual Kia Spectra). 
+* I think Dan and I are going to buy a new car! We tested out Mazdas and Subarus last weekend and fell in love with the Subaru Crosstrek. We've been wanting to buy a new car for a while now, and we finally feel like we're in a good financial position to do so (getting money back instead of owing taxes helped!). I'm nervous because I've never actually owned a car, but it'll be nice to have a car in the driveway that I can actually drive (unlike Dan's manual Kia Spectra).
 
 ## **What I’m Reading**
 
-This week, I'm reading *[Sweet Little Lies](https://www.amazon.com/Sweet-Little-Lies-Caz-Frear/dp/0062823191)* by Caz Frear. It's definitely a lighter read than *[The Care and Feeding of Ravenously Hungry Girls](https://www.amazon.com/Care-Feeding-Ravenously-Hungry-Girls/dp/1984802437)*. Plus, it's part of a series, which I always enjoy. It's nice to dig into another British crime novel (I loved Tana French's *[In the Woods](https://www.amazon.com/Woods-Novel-Tana-French/dp/0143113496)* series too). 
+This week, I'm reading *[Sweet Little Lies](https://www.amazon.com/Sweet-Little-Lies-Caz-Frear/dp/0062823191)* by Caz Frear. It's definitely a lighter read than *[The Care and Feeding of Ravenously Hungry Girls](https://www.amazon.com/Care-Feeding-Ravenously-Hungry-Girls/dp/1984802437)*. Plus, it's part of a series, which I always enjoy. It's nice to dig into another British crime novel (I loved Tana French's *[In the Woods](https://www.amazon.com/Woods-Novel-Tana-French/dp/0143113496)* series too).
 
 ## **Money Tip to Take Into the Weekend**
 
