@@ -1,6 +1,8 @@
 ---
 title: Founder Friday | Subaru, Health, and Easter
-date: 2019-04-15 09:49:00 -04:00
+date: 2019-04-19 14:00:00 -04:00
+categories:
+- founder friday
 image: "/uploads/skyla-design-1414576-unsplash.jpg"
 ---
 
@@ -20,19 +22,23 @@ Happy Friday! Here’s what I was up to this past week.
 
 * We hired someone to do our taxes this year, and we owed Maryland a large sum of money. I paid the bill through Maryland's online tax portal. Luckily, we'd saved enough to cover the amount. Plus, we got a Federal refund, so we actually saved too much money for taxes!
 
+* Dan put a bunch of work travel spending on our joint credit card. Luckily, we'll get reimbursed by the end of the month. Plus, we're able to collect the points!
+
+* x
+
 ## **What I’m Writing**
 
 Emergency savings
 
 ## **What I’m Up To**
 
-* My friend and real estate agent, **[Liz Ho](https://www.rlahre.com/agent/liz-ho/)**, and I are hosting a buyer’s salon in DC on Wednesday, April 24th. **[Join us for this free event!](https://www.eventbrite.com/e/what-does-it-financially-take-to-buy-a-home-a-buyers-salon-tickets-59796021510)**
+* My friend and real estate agent, [Liz Ho](https://www.rlahre.com/agent/liz-ho/), and I are hosting a buyer’s salon in DC on Wednesday, April 24th. [Join us for this free event!](https://www.eventbrite.com/e/what-does-it-financially-take-to-buy-a-home-a-buyers-salon-tickets-59796021510)
 
 * May Money Circle
 
 ## **What I’m Excited About**
 
-* x
+* Dan and I are heading up to Syracuse tonight! This Sunday is Easter and we always spend Easter with my family. It will be Bruno's first road trip since we brought him home, and the first time he gets to meet my niece and nephew!
 
 * x
 
