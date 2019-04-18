@@ -12,3 +12,8 @@ posts:
 - What Do I Do If I Get Sued By a Creditor?
 ---
 
+Defaulting on a loan means that you've missed payments so long 
+
+There are consequences to defaulting on your loans.
+
+If you want to avoid ever defaulting on a loan, there are a few things you can do:
