@@ -28,7 +28,7 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## **What I’m Writing**
 
-Emergency savings
+I've written before about how to save up for emergencies, but this month, I wrote about how to [keep your own hands off](https://www.maggiegermano.com/blog/how-to-keep-your-hands-off-your-emergency-savings/) your emergency fund. 
 
 ## **What I’m Up To**
 
