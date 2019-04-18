@@ -18,7 +18,7 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## **How I Spent Money This Week**
 
-* Well, Dan and I bought a car! 
+* Well, Dan and I bought a car! We went back to Subaru on Saturday to see what cars that actually had in stock and we ended up making a decision that day. After a bunch of haggling, we decided to trade in Dan's 12-year-old Kia Spectra and drive home a new Subaru Crosstrek! I'm excited to have a car that I can actually drive, though I'm going to have to practice a lot before I feel comfortable driving on my own. We actually paid for the car in cash, so that was a huge purchase for us. It was stressful to write a check that big, but I'm glad we won't have a car payment!
 
 * We hired someone to do our taxes this year, and we owed Maryland a large sum of money. I paid the bill through Maryland's online tax portal. Luckily, we'd saved enough to cover the amount. Plus, we got a Federal refund, so we actually saved too much money for taxes!
 
