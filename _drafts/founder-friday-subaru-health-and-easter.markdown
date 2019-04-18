@@ -10,11 +10,11 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## **How I Earned Money This Week**
 
-* x
+* A new client paid for her first month of coaching.
 
-* x
+* Dan's bi-weekly paycheck came through.
 
-* x
+* We had one Airbnb guest earlier this week.
 
 ## **How I Spent Money This Week**
 
@@ -24,11 +24,11 @@ Happy Friday! Here’s what I was up to this past week.
 
 * Dan put a bunch of work travel spending on our joint credit card. Luckily, we'll get reimbursed by the end of the month. Plus, we're able to collect the points!
 
-* x
+* The April Money Circle meetup on balancing health and budget was this week! We had a wonderful time with Megan Sanchez of [Upswing Health Coaching](https://upswinghealthcoaching.com/). Before the event, I bought snacks and wine from Trader Joe's.
 
 ## **What I’m Writing**
 
-Emergency savings
+I've written before about how to save up for emergencies, but this month, I wrote about how to [keep your own hands off](https://www.maggiegermano.com/blog/how-to-keep-your-hands-off-your-emergency-savings/) your emergency fund. 
 
 ## **What I’m Up To**
 
@@ -50,6 +50,6 @@ I’m still reading ***[Sweet Little Lies](https://www.amazon.com/Sweet-Little-L
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![6.png](/uploads/6.png)
 
 That’s all from me today! Have a fantastic weekend!
