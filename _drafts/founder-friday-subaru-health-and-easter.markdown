@@ -50,6 +50,4 @@ I’m still reading ***[Sweet Little Lies](https://www.amazon.com/Sweet-Little-L
 
 ## **Money Tip to Take Into the Weekend**
 
-x
-
 That’s all from me today! Have a fantastic weekend!
