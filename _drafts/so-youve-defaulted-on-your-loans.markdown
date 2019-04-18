@@ -14,6 +14,6 @@ posts:
 
 Defaulting on a loan means that you've missed payments so long 
 
-There are consequences to defaulting on your loans.
+There are serious, long-lasting consequences to defaulting on your loans.
 
 If you want to avoid ever defaulting on a loan, there are a few things you can do:
