@@ -4,6 +4,10 @@ date: 2019-04-19 14:00:00 -04:00
 categories:
 - founder friday
 image: "/uploads/skyla-design-1414576-unsplash.jpg"
+posts:
+- Founder Friday | Credit Invisibility, Twitter, and Video
+- Founder Friday | Obedience Training, Sinking Funds, and FinCon
+- Founder Friday | Vermont, Stress, and Trivia
 ---
 
 Happy Friday! Here’s what I was up to this past week.
