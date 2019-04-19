@@ -28,21 +28,17 @@ Happy Friday! Here’s what I was up to this past week.
 
 ## **What I’m Writing**
 
-I've written before about how to save up for emergencies, but this month, I wrote about how to [keep your own hands off](https://www.maggiegermano.com/blog/how-to-keep-your-hands-off-your-emergency-savings/) your emergency fund. 
+I've written before about how to save up for emergencies, but this month, I wrote about how to [keep your own hands off](https://www.maggiegermano.com/blog/how-to-keep-your-hands-off-your-emergency-savings/) your emergency fund.
 
 ## **What I’m Up To**
 
 * My friend and real estate agent, [Liz Ho](https://www.rlahre.com/agent/liz-ho/), and I are hosting a buyer’s salon in DC on Wednesday, April 24th. [Join us for this free event!](https://www.eventbrite.com/e/what-does-it-financially-take-to-buy-a-home-a-buyers-salon-tickets-59796021510)
 
-* May Money Circle
+* I was quoted in [OppLoans](https://www.opploans.com/blog/financial-basics-how-to-use-credit-responsibly/) about how to use credit responsibly.
 
 ## **What I’m Excited About**
 
-* Dan and I are heading up to Syracuse tonight! This Sunday is Easter and we always spend Easter with my family. It will be Bruno's first road trip since we brought him home, and the first time he gets to meet my niece and nephew!
-
-* x
-
-* x
+Dan and I are heading up to Syracuse tonight! This Sunday is Easter and we always spend Easter with my family. It will be Bruno's first road trip since we brought him home, and the first time he gets to meet my niece and nephew!
 
 ## **What I’m Reading**
 
