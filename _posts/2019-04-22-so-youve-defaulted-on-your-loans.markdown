@@ -1,6 +1,7 @@
 ---
 title: So You've Defaulted On Your Loans
 date: 2019-04-22 11:00:00 -04:00
+published: false
 categories:
 - debt
 - credit
@@ -30,19 +31,25 @@ Car loans are similar to mortgages, since they are also "secured loans". In this
 
 ## Personal Loan
 
+A personal loan is considered "unsecured", because there is usually no collateral put down in exchange. That means that the bank can't physically take anything from you if you don't make your payments. However, the lender can penalize you through late fees and increased interest rates. They can also send your unpaid debt to collections and/or sue you for the balance. This means that you're at risk of paying more money than you would have owed in the first place, and your credit history will take a hit. 
+
 ## Credit Cards
 
 When you default on paying your credit card, the consequences might not feel as immediately serious. The bank will charge late fees and after missing 60-days worth of payments, your APR will increase. This will in turn increase the amount of money that you owe every month. At that point, your missed or late payments will be reported to the credit bureau, which will negatively impact your credit score. Some credit card companies will send your debt to a debt collector, which will also be reported to the credit bureaus. You can even be sued by your creditor and taken to court. 
 
-The moral of the story is that you should try as hard as possible not to default on any of your debt payments. The extra penalties, fees, and stress, will be worse than the original payments that you owed. However, if you've already defaulted on a loan, there are things you can do to improve your credit for the future.
+The moral of the story is that you should try as hard as possible not to default on any of your debt payments. The extra penalties, fees, and stress will be worse than the original payments that you owed. However, if you've already defaulted on a loan, there are things you can do to improve your credit for the future.
 
-* Contact your debtors to either settle to pay less than you owe and/or set up a payment plan
+* Contact your debtors to either settle to pay less than you owe and/or set up a payment plan to pay your balance
 
-* Make all of your debt payments on time
+* Ask for your paid collections debts to be removed from your credit report
+
+* Continue to work on paying down the debt that you still owe (both in default and not)
+
+* Keep an eye on your credit report and dispute any errors listed
 
 * Only take out debt that you're certain you can pay back
 
-* Ask for your paid collections debts to be removed from your credit report
+* Make all of your debt payments on time
 
 * Apply for a secured credit card through your bank
 
