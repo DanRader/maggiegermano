@@ -1,6 +1,7 @@
 ---
 title: So You've Defaulted On Your Loans
 date: 2019-04-22 11:00:00 -04:00
+published: false
 categories:
 - debt
 - credit
@@ -52,4 +53,4 @@ The moral of the story is that you should try as hard as possible not to default
 
 * Apply for a secured credit card through your bank
 
-*To learn more about improving your credit, check out this piece about [credit invisibility](https://www.maggiegermano.com/blog/what-is-credit-invisibility/). *
+*To learn more about improving your credit, check out this piece about [credit invisibility](https://www.maggiegermano.com/blog/what-is-credit-invisibility/).*
