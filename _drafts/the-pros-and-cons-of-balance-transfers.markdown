@@ -15,7 +15,7 @@ I've written [in the past](https://www.maggiegermano.com/blog/what-are-your-opti
 
 **Pros:**
 
-* No interest
+* **No Interest Fees: **The whole point of doing a balance transfer is to take advantage of low or no-interest offers. That means that for a certain period of time, you can pay down your debt without paying any interest on it. This saves a lot of money and can make it easier and more manageable to pay off your debt. 
 
 * More time to pay off your debt
 
