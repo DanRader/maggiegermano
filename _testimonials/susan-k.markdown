@@ -1,7 +1,7 @@
 ---
 title: Susan K. from NY
 date: 2016-12-20 12:21:00 -05:00
-position: 5
+position: 4
 image: "/uploads/SusanK.jpg"
 ---
 
