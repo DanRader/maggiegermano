@@ -21,7 +21,7 @@ I've written [in the past](https://www.maggiegermano.com/blog/what-are-your-opti
 
 **Cons:**
 
-* Origination fee
+* **Origination Fees: **Credit card companies aren't just giving you a zero-interest offer out of the goodness of their hearts. You do have to pay a fee in order to make the balance transfer. This fee can typically range between 3 and 5 percent of the balance being transferred. Depending on the amount of debt you have, that can add up to a lot of extra money for you to pay back. Do the math to see if the interest you'd be otherwise paying will be more than the origination fee so that it's worth your while. 
 
 * Time limit
 
