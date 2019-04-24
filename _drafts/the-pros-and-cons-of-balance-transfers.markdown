@@ -13,6 +13,8 @@ posts:
 
 I've written [in the past](https://www.maggiegermano.com/blog/what-are-your-options-for-debt-consolidation/) about using a balance transfer in order to consolidate your debt or lower your interest rates. It is a method that I often hear about from my friends and clients. Basically, you transfer the balance of one credit card to another credit card. This is usually done to take advantage of low or no interest offers. Sounds like a great deal, right? It can be! But it's important to know both the pros *and* cons of this approach before you dive in. 
 
+Why might someone want to do a balance transfer? Well, most people do it in order to take advantage of low or no interest fees while they pay down their debt. There are many credit cards out there that allow you to do this. 
+
 **Pros:**
 
 * **No Interest Fees: **The whole point of doing a balance transfer is to take advantage of low or no-interest offers. That means that for a certain period of time, you can pay down your debt without paying any interest on it. This saves a lot of money and can make it easier and more manageable to pay off your debt. 
