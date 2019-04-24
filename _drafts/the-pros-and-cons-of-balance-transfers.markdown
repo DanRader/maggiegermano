@@ -32,3 +32,5 @@ Why might someone want to do a balance transfer? Well, most people do it in orde
 * **More Credit:** A danger of balance transfers is that you'll continue to use the credit card after you've paid off your debt. That risks building up the debt again. If you know that you struggle with spending and debt, it might be better to consolidate with a personal loan and cut up your credit cards. Of course, if you do the balance transfer and then cut up the card itself, you'll prevent yourself from using it. 
 
 * **Impact on Credit Score:** Opening and closing credit accounts can hurt your credit. Whenever there is an inquiry into your credit, that can ding your credit score. 
+
+It's clear that there are good things and bad things about doing a balance transfer. This is true for almost any financial decision you can make. The key is to weigh the pros and cons and decide what makes the most sense for you and your financial situation. Good luck!
