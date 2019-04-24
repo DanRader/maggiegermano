@@ -17,7 +17,7 @@ Why might someone want to do a balance transfer? Well, most people do it in orde
 
 **Pros:**
 
-* **Low or No Interest Fees: **The whole point of doing a balance transfer is to take advantage of low or no-interest offers. That means that for a certain period of time, you can pay down your debt without paying any (or little) interest on it. This saves a lot of money and can make it easier and more manageable to pay off your debt. 
+* **Low or No Interest Fees:** The whole point of doing a balance transfer is to take advantage of low or no-interest offers. That means that for a certain period of time, you can pay down your debt without paying any (or little) interest on it. This saves a lot of money and can make it easier and more manageable to pay off your debt. 
 
 * **More Time:** Most introductory offers last from about 12 to 18 months. That means that you get up to a year and a half to pay down your debt without paying interest on it. 
 
@@ -25,7 +25,7 @@ Why might someone want to do a balance transfer? Well, most people do it in orde
 
 **Cons:**
 
-* **Origination Fees: **Credit card companies aren't just giving you a zero-interest offer out of the goodness of their hearts. You do have to pay a fee in order to make the balance transfer. This fee can typically range between 3 and 5 percent of the balance being transferred. Depending on the amount of debt you have, that can add up to a lot of extra money for you to pay back. Do the math to see if the interest you'd be otherwise paying will be more than the origination fee so that it's worth your while. 
+* **Origination Fees:** Credit card companies aren't just giving you a zero-interest offer out of the goodness of their hearts. You do have to pay a fee in order to make the balance transfer. This fee can typically range between 3 and 5 percent of the balance being transferred. Depending on the amount of debt you have, that can add up to a lot of extra money for you to pay back. Do the math to see if the interest you'd be otherwise paying will be more than the origination fee so that it's worth your while. 
 
 * **Time Limit:** Just as it's a good thing to have up to 18 months to pay off your credit card debt, this is still a time limit. If you have a lot of debt, you might not be able to pay it all off that quickly. After the introductory period, the interest rates will go up to normal rates, which can be as high as 25 percent. If you haven't paid off all your debt by then, you'll be paying interest on it again. Or, you have to do another balance transfer, which can be time consuming and expensive. 
 
