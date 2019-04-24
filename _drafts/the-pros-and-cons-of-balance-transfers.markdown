@@ -17,9 +17,9 @@ Why might someone want to do a balance transfer? Well, most people do it in orde
 
 **Pros:**
 
-* **No Interest Fees: **The whole point of doing a balance transfer is to take advantage of low or no-interest offers. That means that for a certain period of time, you can pay down your debt without paying any interest on it. This saves a lot of money and can make it easier and more manageable to pay off your debt. 
+* **Low or No Interest Fees: **The whole point of doing a balance transfer is to take advantage of low or no-interest offers. That means that for a certain period of time, you can pay down your debt without paying any (or little) interest on it. This saves a lot of money and can make it easier and more manageable to pay off your debt. 
 
-* **More Time:** Most introductory offers last from about 12 to 18 months. That means that you get up to a year and a half to pay down your debt without 
+* **More Time:** Most introductory offers last from about 12 to 18 months. That means that you get up to a year and a half to pay down your debt without paying interest on it. 
 
 **Cons:**
 
