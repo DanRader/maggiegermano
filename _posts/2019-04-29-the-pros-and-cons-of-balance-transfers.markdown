@@ -1,9 +1,9 @@
 ---
 title: The Pros and Cons of Balance Transfers
 date: 2019-04-29 11:00:00 -04:00
-published: false
 categories:
 - Credit
+- debt
 image: "/uploads/rawpixel-783423-unsplash.jpg"
 tweet: Should you really apply for that balance transfer card?
 posts:
