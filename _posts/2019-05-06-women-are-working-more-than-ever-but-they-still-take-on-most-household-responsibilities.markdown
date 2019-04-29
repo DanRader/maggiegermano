@@ -9,7 +9,7 @@ image: "/uploads/charisse-kenion-704696-unsplash.jpg"
 
 *This piece was originally published in March on my [Forbes Women](https://www.forbes.com/sites/maggiegermano/2019/03/27/women-are-working-more-than-ever-but-they-still-take-on-most-household-responsibilities/#fb77a352e9eb) column.*
 
-Women’s History Month is almost at its end, but there is still time to celebrate how far women have come, while also pointing out areas where we can still do better as a society. Women have come a long way in terms of progress and equality, especially in the workplace.
+Women’s History Month has ended, but there is still time to celebrate how far women have come, while also pointing out areas where we can still do better as a society. Women have come a long way in terms of progress and equality, especially in the workplace.
 
 * The wage gap between men and women has fallen over the past several decades.
 
