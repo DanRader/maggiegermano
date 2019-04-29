@@ -1,11 +1,12 @@
 ---
 title: How to Improve Your Credit Score
-date: 2019-04-25 10:29:00 -04:00
-published: false
+date: 2019-05-21 18:30:00 -04:00
 image: "/uploads/debby-hudson-557764-unsplash-4d29c6.jpg"
 og-image: "/uploads/Money%20Circle%20Photos%20(6)-15c52f.png"
+event-date: 2019-05-21 18:30:00 -04:00
 start-time: 6:30PM
 end-time: 8:30PM
+location: Private Residence in Eastern Market
 button-text: Sign Me Up!
 button-link: https://www.eventbrite.com/e/money-circle-how-to-improve-your-credit-score-tickets-60438017738
 ticket-price: "$20"
