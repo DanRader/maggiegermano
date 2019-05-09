@@ -11,4 +11,4 @@ posts:
 - What Are My Options for Student Loan Consolidation?
 ---
 
-May is Mental Health Awareness Month. It's the one month out of the year when we try to bring awareness to mental health and all of its causes and effects. According to a survey done by [Student Loan Planner](https://www.studentloanplanner.com/mental-health-awareness-survey/), 20 percent of 
+May is Mental Health Awareness Month. It's the one month out of the year when we try to bring awareness to mental health and all of its causes and effects. According to a survey done by [Student Loan Planner](https://www.studentloanplanner.com/mental-health-awareness-survey/), 20 percent of high student loan borrowers have considered suicide. 
