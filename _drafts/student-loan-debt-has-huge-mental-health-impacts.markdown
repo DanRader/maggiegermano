@@ -5,6 +5,7 @@ categories:
 - lifestyle
 - debt
 image: "/uploads/timothy-l-brock-1128491-unsplash.jpg"
+tweet: Student Loan Debt Has Huge Mental Health Impacts
 posts:
 - How to Care for Your Mental Health on a Budget
 - 5 Ways to Practice Self Care While on a Budget
