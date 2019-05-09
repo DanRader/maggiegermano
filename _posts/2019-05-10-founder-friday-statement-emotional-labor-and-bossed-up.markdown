@@ -1,8 +1,14 @@
 ---
 title: Founder Friday | Statement, Emotional Labor, and Bossed Up
 date: 2019-05-10 14:00:00 -04:00
+published: false
 categories:
 - founder friday
+image: "/uploads/the-climate-reality-project-349094-unsplash.jpg"
+posts:
+- Founder Friday | Subaru, Health, and Easter
+- Founder Friday | Credit Invisibility, Twitter, and Video
+- Founder Friday | Obedience Training, Sinking Funds, and FinCon
 ---
 
 I'm back! I was traveling for the last several Fridays, so I took a break from my Founder Friday posts. But I'm back until the end of June! Here’s what I was up to this past week.
@@ -11,13 +17,13 @@ I'm back! I was traveling for the last several Fridays, so I took a break from m
 
 * We had our first Airbnb guest in almost a month! I don't know what it was about mid-April to mid-May but our Airbnb was very slow. We had a guest arrive on Wednesday and other one is coming today.
 
-* x
+* I'm not sure if this qualifies as earning money, but we received a grant check in the mail today. We found out when getting our fence built that there's a grant program in our town that supports residents improving things on their property like fences or sheds. We applied for the grant and got $1,000 back for what we spent on the fence! Even better, we can apply for that grant every fiscal year, so we will apply for it again when we get a new shed.
 
 ## **How I Spent Money This Week**
 
 * On Sunday, I took the Amtrak back from New York City and went right downtown to join a birthday brunch for my friend Nina. It was an all you can eat brunch, which I certainly took advantage of.
 
-* After brunch, Dan picked me up from the metro and we bought some groceries for the week. 
+* After brunch, Dan picked me up from the metro and we bought some groceries for the week.
 
 * All winter and all spring, I complained about not having proper footwear for the weather. I tried ordering these really cute limited edition LL Bean boots, but they would always be sold out when I decided to pull the trigger. After a wet weekend in New York City last weekend, I decided I needed to finally just get some waterproof boots. I bought a cute navy blue pair from Sperry's and I hope they are comfortable!
 
@@ -27,7 +33,7 @@ I'm back! I was traveling for the last several Fridays, so I took a break from m
 
 ## **What I’m Writing**
 
-This week, I re-published a [ForbesWomen](https://www.maggiegermano.com/blog/women-are-working-more-than-ever-but-they-still-take-on-most-household-responsibilities/) piece I wrote for Women's History Month. It's all about how women still take on the bulk of domestic and emotional labor, even though many of us are also working. 
+This week, I re-published a [ForbesWomen](https://www.maggiegermano.com/blog/women-are-working-more-than-ever-but-they-still-take-on-most-household-responsibilities/) piece I wrote for Women's History Month. It's all about how women still take on the bulk of domestic and emotional labor, even though many of us are also working.
 
 ## **What I’m Up To**
 
