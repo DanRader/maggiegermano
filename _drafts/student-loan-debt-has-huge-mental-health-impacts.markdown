@@ -18,4 +18,4 @@ May is Mental Health Awareness Month. It's the one month out of the year when we
 
 According to a survey done by [Student Loan Planner](https://www.studentloanplanner.com/mental-health-awareness-survey/), 20 percent of high student loan borrowers have considered suicide.
 
-The moral of this article is that it's normal and common to feel bad about your financial situation, especially when a lot of debt is involved. But it's important to remember that your debt, or your past mistakes, don't define you. You have inherent worth outside of this. Reach out and get help when you need it.
+The moral of this article is that it's normal and common to feel bad about your financial situation, especially when a lot of debt is involved. But it's important to remember that your debt, and your past mistakes, don't define you. You have inherent worth outside of these things. Reach out and get help when you need it. Talk to a friend for family member, find a therapist, hire a coach, or call a hotline. 
