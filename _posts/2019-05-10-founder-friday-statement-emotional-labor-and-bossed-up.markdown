@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Statement, Emotional Labor, and Bossed Up
 date: 2019-05-10 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 image: "/uploads/the-climate-reality-project-349094-unsplash.jpg"
