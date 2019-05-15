@@ -14,9 +14,17 @@ I remember while I was growing up, I only really heard about bankruptcy when it 
 
 ## What Is Bankruptcy?
 
-Bankruptcy is a legal process for an individual, family, or corporation that finds themselves unable to pay off their debts.
+Bankruptcy is a legal process for an individual, family, or corporation that finds themselves unable to pay off their debts. In this scenario, the person or entity can have some or all of their debt erased.
+
+There are two different kinds of bankruptcy for individuals: Chapter 7 and Chapter 13 (Chapter 11 is only for businesses). 
 
 ## What Is the Process for Filing?
+
+x
+
+## What Are the Limitations of Filing?
+
+Not everyone can file for bankruptcy. There are limitations in place. You may not file if you obtained a discharge in a Chapter 7 case within the past eight years, or in a Chapter 13 case within the past six years. You may not file if a previous bankruptcy case (Chapter 7 or 13) was dismissed within the past 180 days because you violated a court order, you were determined to have engaged in fraudulent conduct, or you requested dismissal after a creditor requested relief from the automatic stay.
 
 x
 
