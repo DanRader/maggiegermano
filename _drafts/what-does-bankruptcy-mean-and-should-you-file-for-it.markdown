@@ -20,7 +20,19 @@ There are two different kinds of bankruptcy for individuals: Chapter 7 and Chapt
 
 ## What Is the Process for Filing?
 
-x
+The Chapter 7 bankruptcy process typically takes from four to six months to complete.
+
+1. **Find a Good Attorney**
+
+2. **Conduct a Bankruptcy Counseling Session**
+
+3. **File for Bankruptcy With the Court**
+
+4. **Liquidation or Repayment**
+
+5. **Complete a Debtor Education Course**
+
+6. **Debt Discharge**
 
 ## What Are the Limitations of Filing?
 
