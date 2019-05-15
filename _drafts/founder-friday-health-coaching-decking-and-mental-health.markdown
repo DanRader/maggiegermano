@@ -10,7 +10,7 @@ posts:
 - Founder Friday | Credit Invisibility, Twitter, and Video
 ---
 
-I’m back! I was traveling for the last several Fridays, so I took a break from my Founder Friday posts. But I’m back until the end of June! Here’s what I was up to this past week.
+Happy Friday, y'all!  Here's what I was up to this week.
 
 ## How I Earned Money This Week
 
