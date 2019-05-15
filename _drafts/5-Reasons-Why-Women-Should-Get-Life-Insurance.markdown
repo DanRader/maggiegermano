@@ -6,5 +6,9 @@ categories:
 - lifestyle
 - debt
 image: "/uploads/mayron-oliveira-1224441-unsplash.jpg"
+posts:
+- Why And How Women Must Prepare Differently for the Future
+- The Cost of Raising Kids and How that Affects Women
+- Why Health Insurance is Worth Paying For
 ---
 
