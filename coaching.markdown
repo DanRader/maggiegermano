@@ -64,27 +64,20 @@ option-1-text: |-
 
   Perfect for someone just looking to get pointed in the right direction or looking for answers to specific questions.
 
-  * Money Landscape Analysis
+  * Money landscape analysis to identify your starting point
 
-  * **One** 90-minute phone or video session
+  * **One** 90-minute phone session
 
-  * Personalized recap and action guide after the session
+  * Personalized recap and action guide after the session to provide a clear way forward
 
   * $300 per session
-option-2-text: |-
-  ### Ongoing Monthly Coaching
-
-  For someone looking to make real, positive changes to their current financial situation.
-
-  * Money Landscape Analysis
-
-  * **One **or** Two** 60-minute phone sessions a month
-
-  * Personalized recap and action guide after each session
-
-  * **Unlimited** email support
-
-  * Free attendance to monthly [Money Circle](http://maggiegermano.com/moneycircle) gatherings
+option-2-text: "### Ongoing Monthly Coaching\n\nFor someone looking to make real,
+  positive changes to their current financial situation.\n\n* Money landscape analysis
+  to identify your starting point\n\n* **One **or** two** 60-minute phone sessions
+  a month \n\n* Personalized recap and action guide after each session to provide
+  a clear way forward\n\n* **Unlimited** email support so that you're never alone\n\n*
+  Free membership to monthly [Money Circle](http://maggiegermano.com/moneycircle)
+  gatherings "
 layout: coaching
 ---
 
