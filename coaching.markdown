@@ -78,7 +78,7 @@ option-2-text: |-
 
   * Money Landscape Analysis
 
-  * **One-Two** 60-minute phone sessions a month
+  * **One **or** Two** 60-minute phone sessions a month
 
   * Personalized recap and action guide after each session
 
