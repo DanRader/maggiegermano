@@ -26,7 +26,7 @@ Happy Friday, y'all!  Here's what I was up to this week.
 
 ## What I’m Writing
 
-xx
+May is Mental Health Awareness Month. This week, on the blog, I wrote about how [mental health is affected by student loan debt](https://www.maggiegermano.com/blog/student-loan-debt-has-huge-mental-health-impacts/). 
 
 ## What I’m Up To
 
@@ -36,7 +36,7 @@ xx
 
 ## What I’m Excited About
 
-* xx
+* I just signed up for 12 weeks of health coaching with Megan Sanchez of [Upswing Health Coaching](https://upswinghealthcoaching.com/)! Megan was the expert at our April Money Circle meetup and I liked her so much that I decided to hire her myself! I'm excited to get started and take back control of my health. 
 
 * xx
 
