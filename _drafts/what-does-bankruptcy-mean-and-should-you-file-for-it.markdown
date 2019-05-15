@@ -19,3 +19,7 @@ I remember while I was growing up, I only really heard about bankruptcy when it 
 ## What Are the Consequences of Filing?
 
 ## When You Should File
+
+## What Are Your Other Options?
+
+For many, bankruptcy is not the right option. And it isn't always necessary to do. There are other avenues you can take to get control over your debt and manage your payments more successfully. 
