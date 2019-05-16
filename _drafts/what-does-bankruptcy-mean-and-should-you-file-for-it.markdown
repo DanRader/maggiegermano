@@ -62,15 +62,15 @@ Of course, the obvious benefit of filing for bankruptcy is having some or all of
 
 As with most big financial decisions, you must weigh both the pros and cons. After doing that, you have to see if the benefits of a decision are worth the negative consequences of it. And the answer to that question will be different for everyone. But here's what you need to know about the negatives of filing for bankruptcy:
 
-* **Loss of property:** x
+* **Loss of property:** If you file for Chapter 7, your assets will be liquidated to pay back your debt. 
 
-* **Damaged relationships:** x
+* **Damaged relationships:** If a family member or other loved one is a co-signer on any of the debt that you are trying to wipe, they might still be responsible for paying it back. If you are filing for bankruptcy and they aren't, the responsibility could go to them. This could hurt your loved one's financial situation, and damage your relationship with them in the process.
 
 * **Damaged credit: **Bankruptcies are considered negative information on your credit report, and can affect how future lenders view you. This may prompt creditors to deny you for credit or offer you higher interest rates and less favorable terms. Depending on the type of bankruptcy you file, the mark can appear on your credit report for up to a decade.
 
 ## When Should You File?
 
-x
+Filing for bankruptcy is not a decision you should make lightly. And it's not an easy solution to get out of a bad situation. However, like I said in the intro, sometimes bankruptcy is the right option. 
 
 ## What Are Your Other Options?
 
