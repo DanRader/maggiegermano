@@ -22,7 +22,7 @@ There are two different kinds of bankruptcy for individuals: Chapter 7 and Chapt
 
 The Chapter 7 bankruptcy process typically takes from four to six months to complete once it begins.
 
-1. **Find a Good Attorney: **You should find an attorney to help you through this process. Make sure they are experienced in bankrupties and familiar with bankruptcy law. Your state bar association should have directories with bankruptcy attorney information.  There are also online directories, such as the National Association of Consumer Bankruptcy Attorneys and the American Board of Certification, where you can find a qualified attorney.
+1. **Find a Good Attorney: **You should find an attorney to help you through this process. Make sure they are experienced in bankruptcies and familiar with bankruptcy law. Your state bar association should have directories with bankruptcy attorney information.  There are also online directories, such as the National Association of Consumer Bankruptcy Attorneys and the American Board of Certification, where you can find a qualified attorney.
 
 2. **Conduct a Bankruptcy Counseling Session: **There are two mandatory [credit counseling sessions ](https://www.greenpath.com/counseling/bankruptcy-counseling/)that must be completed with a counseling agency that has been approved by the U.S. Justice Department. The first round of counseling happens before you file bankruptcy paperwork with the courts. During that session, the counselor will review your budget and look at the pros and cons of bankruptcy, as well as alternatives to bankruptcy.
 
