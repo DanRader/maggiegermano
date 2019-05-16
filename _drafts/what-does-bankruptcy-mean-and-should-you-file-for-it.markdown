@@ -60,7 +60,13 @@ Of course, the obvious benefit of filing for bankruptcy is having some or all of
 
 ## What Are the Consequences of Filing?
 
-x
+As with most big financial decisions, you must weigh both the pros and cons. After doing that, you have to see if the benefits of a decision are worth the negative consequences of it. And the answer to that question will be different for everyone. But here's what you need to know about the negatives of filing for bankruptcy:
+
+* **Loss of property:** x
+
+* **Damaged relationships:** x
+
+* **Damaged credit: **Bankruptcies are considered negative information on your credit report, and can affect how future lenders view you. This may prompt creditors to deny you for credit or offer you higher interest rates and less favorable terms. Depending on the type of bankruptcy you file, the mark can appear on your credit report for up to a decade.
 
 ## When Should You File?
 
