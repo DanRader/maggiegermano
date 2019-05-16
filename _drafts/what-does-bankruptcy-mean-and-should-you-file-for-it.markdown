@@ -28,11 +28,11 @@ The Chapter 7 bankruptcy process typically takes from four to six months to comp
 
 3. **File for Bankruptcy With the Court: **After completing counseling, you officially file with the court.  At this point, the bankruptcy appears on your credit report and creditors must stop making attempts to collect on your debt. This is because bankruptcy invokes an “automatic stay,” which stops all legal activities from taking place the moment the bankruptcy is filed.
 
-4. **Liquidation or Repayment:**
+4. **Liquidation or Repayment: **Depending on which type of bankruptcy you file, the next step may involve liquidating any assets of value to repay your creditors (Chapter 7) or repaying a portion of your debt (Chapter 13). If you file a Chapter 7 and have no assets of large value, it is called a “No Asset Case,” and the courts will not sell your property. If you have [secured debts ](https://www.greenpath.com/secured-or-unsecured-loans/)that you wish to keep, like a house or car, you will need to keep making payments on those debts. It's important to tell your attorney about any secured debts that you would like to keep after bankruptcy.
 
-5. **Complete a Debtor Education Course:** This is a government-required education course. You must complete this before your debts will be wiped.
+5. **Complete a Debtor Education Course:** This is the second round of required credit counseling sessions. You must complete this before discharge.
 
-6. **Debt Discharge:**
+6. **Debt Discharge: **At the end of this process, eligible debts will be discharged. This means that they will be wiped out and you will have no obligation to pay the creditors included in the bankruptcy.
 
 ## What Are the Limitations of Filing?
 
