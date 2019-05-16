@@ -38,11 +38,25 @@ The Chapter 7 bankruptcy process typically takes from four to six months to comp
 
 Not everyone can file for bankruptcy. There are limitations in place. You may not file if you obtained a discharge in a Chapter 7 case within the past eight years, or in a Chapter 13 case within the past six years. You may not file if a previous bankruptcy case (Chapter 7 or 13) was dismissed within the past 180 days because you violated a court order, you were determined to have engaged in fraudulent conduct, or you requested dismissal after a creditor requested relief from the automatic stay.
 
-x
+There are also several types of debt that will not be erased if you file bankruptcy:
+
+* Most student loan debt
+
+* Court-ordered alimony.
+
+* Court-ordered child support
+
+* Reaffirmed debt
+
+* A federal tax lien for taxes owed to the U.S. government
+
+* Government fines or penalties
+
+* Court fines and penalties
 
 ## What Are the Benefits of Filing?
 
-x
+Of course, the obvious benefit of filing for bankruptcy is having some or all of your debts erased. This would allow you to start from scratch, financially speaking, and hopefully make better decisions moving forward.
 
 ## What Are the Consequences of Filing?
 
