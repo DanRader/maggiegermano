@@ -42,9 +42,15 @@ x
 
 ## What Are the Benefits of Filing?
 
+x
+
 ## What Are the Consequences of Filing?
 
+x
+
 ## When Should You File?
+
+x
 
 ## What Are Your Other Options?
 
