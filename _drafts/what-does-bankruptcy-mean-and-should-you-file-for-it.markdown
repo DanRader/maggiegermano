@@ -89,4 +89,12 @@ For many, bankruptcy is not the right option. And it isn't always necessary to d
 
 **Talk to a Credit Counselor**
 
+This is an option that I've recommended to clients in the past. Working with a credit counselor allows you to go on a payment plan for your debt. 
+
+**Get a Second or Part-Time Job**
+
+x
+
+**Negotiate with Lenders**
+
 x
