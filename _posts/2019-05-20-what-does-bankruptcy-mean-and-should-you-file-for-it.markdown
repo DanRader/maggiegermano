@@ -1,6 +1,7 @@
 ---
 title: What Does Bankruptcy Mean and Should You File For It?
 date: 2019-05-20 11:00:00 -04:00
+published: false
 categories:
 - debt
 image: "/uploads/melinda-gimpel-687600-unsplash%20(1).jpg"
@@ -91,7 +92,9 @@ For many, bankruptcy is not the right option. And it isn't always necessary to d
 
 **Talk to a Credit Counselor**
 
-This is an option that I've recommended to clients in the past. Working with a [credit counselor](https://www.consumerfinance.gov/ask-cfpb/what-is-credit-counseling-en-1451/) allows you to create a plan to pay down your debt and move forward. Credit counselors can sit down with you to look at your entire financial situation, create a budget, and even help you come up with a [debt management](https://www.creditcards.com/credit-card-news/help/9-things-about-debt-management-plans-6000.php) plan that helps you repay your debts. A debt management plan is when you and your creditors make an agreement 
+This is an option that I've recommended to clients in the past. Working with a [credit counselor](https://www.consumerfinance.gov/ask-cfpb/what-is-credit-counseling-en-1451/) allows you to create a plan to pay down your debt and move forward. Credit counselors can sit down with you to look at your entire financial situation, create a budget, and even help you come up with a [debt management](https://www.creditcards.com/credit-card-news/help/9-things-about-debt-management-plans-6000.php) plan that helps you repay your debts. A debt management plan is when you and your creditors make an agreement for you to pay down your debts. 
+
+*It's important here to look for a nonprofit credit counseling organization that belongs to either the [National Foundation for Credit Counseling ](http://nfcc.org/)(NFCC) or the [Financial Counseling Association of America ](http://fcaa.org/)(FCAA).*
 
 **Get a Second or Part-Time Job**
 
@@ -99,8 +102,10 @@ Of course, this suggestion isn't easy and it won't be possible for everyone, but
 
 **Negotiate with Lenders**
 
-Did you know that we have more power as customers than we think we do? In a Capitalist society, businesses need their customers in order to survive. That's why we can [vote with our dollars](https://www.maggiegermano.com/blog/Voting_with_Your_Dollar_on_a_Budget/). It's true, then, that we can try to negotiate with our lenders when it comes to paying back debt. In fact, last week, someone in the Money Circle group said that they tried to set up a payment plan with their doctor for a big bill and the doctor's office forgave the whole amount!
+Did you know that we have more power as customers than we think we do? In a Capitalist society, businesses need their customers in order to survive. That's why we can [vote with our dollars](https://www.maggiegermano.com/blog/Voting_with_Your_Dollar_on_a_Budget/). It's true, then, that we can try to negotiate with our lenders when it comes to paying back debt. In fact, last week, someone in the [Money Circle](https://www.facebook.com/groups/MoneyCircleGroup/) group said that they tried to set up a payment plan with their doctor for a big bill and the doctor's office forgave the whole amount!
 
 It's certainly not a given that your debts would be reduced or forgiven, but it doesn't hurt to ask. Reach out to your lender and tell them about your current financial struggles. After for a reduced amount to pay or a repayment plan that you can afford. The worst they can say is "no" and you'll just still be in the same situation you're already in. In the best case scenario, they will reduce or forgive your debt and you'll be better off!
 
-x
+-
+
+If you're in a situation where you think that bankruptcy is right for you, it's important to remember that you're not a failure. Go talk to a lawyer and see if this is the right decision. Ask for help so that you can get your life back on track.
