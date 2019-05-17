@@ -87,7 +87,7 @@ Bankruptcy might be right for you if:
 
 ## What Are Your Other Options?
 
-For many, bankruptcy is not the right option. And it isn't always necessary to do. There are other avenues you can take to get control over your debt and manage your payments more successfully.
+For many, bankruptcy is not the right option. And it isn't always necessary to do. There are other avenues you can take to get control over your debt and manage your payments more successfully. This is especially true if your financial troubles are temporary and you can see a way out in the future. 
 
 **Talk to a Credit Counselor**
 
