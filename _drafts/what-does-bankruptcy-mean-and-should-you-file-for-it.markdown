@@ -79,7 +79,7 @@ Bankruptcy might be right for you if:
 
 * **You're being sued by creditors:** If creditors are taking legal action against you for debts you haven't repaid, you're in a bad situation. Of course, if you're being sued for debts you can afford to pay back, you shouldn't file for bankruptcy; you should pay back the debt or settle with the creditor. But if you're being sued for debts you couldn't possibly pay back, bankruptcy might be a good option for you.
 
-* **You're at risk of foreclosure:** x
+* **You're at risk of foreclosure:** If your other debts are making it so that you're unable to pay your mortgage and you're at risk of foreclosure, bankruptcy could be an option for you. You can request to keep your secured loans, like your mortgage, if you can afford to make the payments once your other debt is wiped out.
 
 * **You’re using loans to pay your bills: **If you're relying on things like [payday loans](https://www.maggiegermano.com/blog/the-difference-between-good-debt-and-bad-debt/) just to get by everyday, you clearly are in a bad financial situation. Taking out loans to pay for your everyday expenses is a bad practice that will only keep you in a cycle of debt and overwhelm. 
 
