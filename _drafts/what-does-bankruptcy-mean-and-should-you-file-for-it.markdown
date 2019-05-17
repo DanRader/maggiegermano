@@ -4,6 +4,7 @@ date: 2019-05-20 11:00:00 -04:00
 categories:
 - debt
 image: "/uploads/melinda-gimpel-687600-unsplash%20(1).jpg"
+tweet: Might bankruptcy be the right option for you?
 posts:
 - What Are Your Options for Debt Consolidation?
 - Student Loan Debt Has Huge Mental Health Impacts
@@ -76,9 +77,9 @@ Filing for bankruptcy is not a decision you should make lightly. And it's not an
 
 Bankruptcy might be right for you if:
 
-* x
+* **You're being sued by creditors:** If creditors are taking legal action against you for debts you haven't repaid, you're in a bad situation. Of course, if you're being sued for debts you can afford to pay back, you shouldn't file for bankruptcy; you should pay back the debt or settle with the creditor. But if you're being sued for debts you couldn't possibly pay back, bankruptcy might be a good option for you.
 
-* **You’re using loans to pay your bills**
+* **You’re using loans to pay your bills: If you're relying on things like payday loans just to **
 
 * **You’re liquidating your retirement assets: **Liquidating your retirement accounts should be the absolute last thing that you do to get ahead. As Social Security becomes less reliable, saving for retirement is really the only way we can ensure that we'll be supported in our old age. 
 
