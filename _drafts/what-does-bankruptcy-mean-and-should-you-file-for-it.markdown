@@ -36,9 +36,9 @@ If you make "too much" money, meaning you have a consistent income and have anyt
 
 ## What Are the Limitations of Filing?
 
-Not everyone can file for bankruptcy. There are limitations in place. You may not file if you obtained a discharge in a Chapter 7 case within the past eight years, or in a Chapter 13 case within the past six years. You may not file if a previous bankruptcy case was dismissed within the past 180 days because you violated a court order, you were determined to have engaged in fraudulent conduct, or you requested dismissal after a creditor requested relief from the automatic stay.
+Not everyone can file for bankruptcy. There are certain limitations in place. For example, you may not file if you obtained a discharge in a Chapter 7 case within the past eight years, or in a Chapter 13 case within the past six years. You may not file if a previous bankruptcy case was dismissed within the past 180 days because you violated a court order, you were determined to have engaged in fraudulent conduct, or you requested dismissal after a creditor requested relief from the automatic stay. There are also income and debt limitations.
 
-There are also several types of debt that will not be erased if you file bankruptcy:
+There are several types of debt that will not be erased if you file bankruptcy:
 
 * Most student loan debt
 
