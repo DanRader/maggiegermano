@@ -1,6 +1,7 @@
 ---
 title: What Does Bankruptcy Mean and Should You File For It?
 date: 2019-05-20 11:00:00 -04:00
+published: false
 categories:
 - debt
 image: "/uploads/melinda-gimpel-687600-unsplash%20(1).jpg"
@@ -79,26 +80,32 @@ Bankruptcy might be right for you if:
 
 * **You're being sued by creditors:** If creditors are taking legal action against you for debts you haven't repaid, you're in a bad situation. Of course, if you're being sued for debts you can afford to pay back, you shouldn't file for bankruptcy; you should pay back the debt or settle with the creditor. But if you're being sued for debts you couldn't possibly pay back, bankruptcy might be a good option for you.
 
+* **You're at risk of foreclosure:** If your other debts are making it so that you're unable to pay your mortgage and you're at risk of foreclosure, bankruptcy could be an option for you. You can request to keep your secured loans, like your mortgage, if you can afford to make the payments once your other debt is wiped out.
+
 * **You’re using loans to pay your bills: **If you're relying on things like [payday loans](https://www.maggiegermano.com/blog/the-difference-between-good-debt-and-bad-debt/) just to get by everyday, you clearly are in a bad financial situation. Taking out loans to pay for your everyday expenses is a bad practice that will only keep you in a cycle of debt and overwhelm. 
 
 * **You’re liquidating your retirement assets: **Liquidating your retirement accounts should be the absolute last thing that you do to get ahead. As Social Security becomes less reliable, saving for retirement is really the only way we can ensure that we'll be supported in our old age. If pulling from your retirement accounts is the only way you can think to afford your life or pay back your debts, it might be time to look into bankruptcy.
 
 ## What Are Your Other Options?
 
-For many, bankruptcy is not the right option. And it isn't always necessary to do. There are other avenues you can take to get control over your debt and manage your payments more successfully.
+For many, bankruptcy is not the right option. And it isn't always necessary to do. There are other avenues you can take to get control over your debt and manage your payments more successfully. This is especially true if your financial troubles are temporary and you can see a way out in the future. 
 
 **Talk to a Credit Counselor**
 
-This is an option that I've recommended to clients in the past. Working with a credit counselor allows you to go on a payment plan for your debt. 
+This is an option that I've recommended to clients in the past. Working with a [credit counselor](https://www.consumerfinance.gov/ask-cfpb/what-is-credit-counseling-en-1451/) allows you to create a plan to pay down your debt and move forward. Credit counselors can sit down with you to look at your entire financial situation, create a budget, and even help you come up with a [debt management](https://www.creditcards.com/credit-card-news/help/9-things-about-debt-management-plans-6000.php) plan that helps you repay your debts. A debt management plan is when you and your creditors make an agreement for you to pay down your debts. 
+
+*It's important here to look for a nonprofit credit counseling organization that belongs to either the [National Foundation for Credit Counseling ](http://nfcc.org/)(NFCC) or the [Financial Counseling Association of America ](http://fcaa.org/)(FCAA).*
 
 **Get a Second or Part-Time Job**
 
-Of course, this suggestion isn't easy and it won't be possible for everyone, but sometimes the solution is to bring in more income. 
+Of course, this suggestion isn't easy and it won't be possible for everyone, but sometimes the solution is to bring in more income. I've had plenty of clients who have cut every expense that they possibly could, and they could still barely break even. In that case, the only way forward is to bring in more income. It's the same when your debt is overwhelming you and you're struggling to make a dent on it. If asking for a raise at work isn't an option, look into getting a side job. If you do this, make sure you're putting that income solely towards your debt payments. If you start spending the money somewhere else, you'll still be stuck where you are. 
 
 **Negotiate with Lenders**
 
-Did you know that we have more power as customers than we think we do? In a Capitalist society, businesses need their customers in order to survive. That's why we can [vote with our dollars](https://www.maggiegermano.com/blog/Voting_with_Your_Dollar_on_a_Budget/). It's true, then, that we can try to negotiate with our lenders when it comes to paying back debt. In fact, last week, someone in the Money Circle group said that they tried to set up a payment plan with their doctor for a big bill and the doctor's office forgave the whole amount!
+Did you know that we have more power as customers than we think we do? In a Capitalist society, businesses need their customers in order to survive. That's why we can [vote with our dollars](https://www.maggiegermano.com/blog/Voting_with_Your_Dollar_on_a_Budget/). It's true, then, that we can try to negotiate with our lenders when it comes to paying back debt. In fact, last week, someone in the [Money Circle](https://www.facebook.com/groups/MoneyCircleGroup/) group said that they tried to set up a payment plan with their doctor for a big bill and the doctor's office forgave the whole amount!
 
 It's certainly not a given that your debts would be reduced or forgiven, but it doesn't hurt to ask. Reach out to your lender and tell them about your current financial struggles. After for a reduced amount to pay or a repayment plan that you can afford. The worst they can say is "no" and you'll just still be in the same situation you're already in. In the best case scenario, they will reduce or forgive your debt and you'll be better off!
 
-x
+-
+
+If you're in a situation where you think that bankruptcy is right for you, it's important to remember that you're not a failure. Go talk to a lawyer and see if this is the right decision. Ask for help so that you can get your life back on track.
