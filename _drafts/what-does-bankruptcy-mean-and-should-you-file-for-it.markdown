@@ -58,13 +58,13 @@ So if you have any of these debts, you cannot get rid of them through bankruptcy
 
 ## What Are the Benefits of Filing?
 
-Of course, the obvious benefit of filing for bankruptcy is having some or all of your debts erased. This would allow you to start from scratch, financially speaking, and hopefully make better decisions moving forward.
+Of course, the obvious benefit of filing for bankruptcy is having some or all of your debts erased. This would allow you to start from scratch, financially speaking, and hopefully make better decisions moving forward. It can also be helpful to have a clear way forward, even if you are required to pay back your debts through Chapter 13. 
 
 ## What Are the Consequences of Filing?
 
 As with most big financial decisions, you must weigh both the pros and cons. After doing that, you have to see if the benefits of a decision are worth the negative consequences of it. And the answer to that question will be different for everyone. But here's what you need to know about the negatives of filing for bankruptcy:
 
-* **Loss of property:** If you file for Chapter 7, your assets will be liquidated to pay back your debt.
+* **Loss of property:** If you file for Chapter 7, your assets will be liquidated to pay back your debt. If you cannot afford to continue paying on secured debts like a house or a car, those would be sold to pay back the debt. 
 
 * **Damaged relationships:** If a family member or other loved one is a co-signer on any of the debt that you are trying to wipe, they might still be responsible for paying it back. If you are filing for bankruptcy and they aren't, the responsibility could go to them. This could hurt your loved one's financial situation, and damage your relationship with them in the process.
 
