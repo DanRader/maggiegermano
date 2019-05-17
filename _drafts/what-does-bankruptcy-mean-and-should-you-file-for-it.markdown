@@ -89,4 +89,16 @@ For many, bankruptcy is not the right option. And it isn't always necessary to d
 
 **Talk to a Credit Counselor**
 
+This is an option that I've recommended to clients in the past. Working with a credit counselor allows you to go on a payment plan for your debt. 
+
+**Get a Second or Part-Time Job**
+
+Of course, this suggestion isn't easy and it won't be possible for everyone, but sometimes the solution is to bring in more income. 
+
+**Negotiate with Lenders**
+
+Did you know that we have more power as customers than we think we do? In a Capitalist society, businesses need their customers in order to survive. That's why we can [vote with our dollars](https://www.maggiegermano.com/blog/Voting_with_Your_Dollar_on_a_Budget/). It's true, then, that we can try to negotiate with our lenders when it comes to paying back debt. In fact, last week, someone in the Money Circle group said that they tried to set up a payment plan with their doctor for a big bill and the doctor's office forgave the whole amount!
+
+It's certainly not a given that your debts would be reduced or forgiven, but it doesn't hurt to ask. Reach out to your lender and tell them about your current financial struggles. After for a reduced amount to pay or a repayment plan that you can afford. The worst they can say is "no" and you'll just still be in the same situation you're already in. In the best case scenario, they will reduce or forgive your debt and you'll be better off!
+
 x
