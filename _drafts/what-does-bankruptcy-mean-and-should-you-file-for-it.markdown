@@ -91,7 +91,7 @@ For many, bankruptcy is not the right option. And it isn't always necessary to d
 
 **Talk to a Credit Counselor**
 
-This is an option that I've recommended to clients in the past. Working with a credit counselor allows you to go on a payment plan for your debt. 
+This is an option that I've recommended to clients in the past. Working with a [credit counselor](https://www.consumerfinance.gov/ask-cfpb/what-is-credit-counseling-en-1451/) allows you to create a plan to pay down your debt and move forward. Credit counselors can sit down with you to look at your entire financial situation, create a budget, and even help you come up with a debt management plan that helps you repay your debts. 
 
 **Get a Second or Part-Time Job**
 
