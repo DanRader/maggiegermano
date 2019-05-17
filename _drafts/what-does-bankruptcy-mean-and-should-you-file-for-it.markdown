@@ -16,9 +16,9 @@ I remember while I was growing up, I only really heard about bankruptcy when it 
 
 Bankruptcy is a legal process for an individual, family, or corporation that finds themselves unable to pay off their debts. In this scenario, the person or entity can have some or all of their debt erased.
 
-There are two different kinds of bankruptcy for individuals: Chapter 7 and Chapter 13 (Chapter 11 is only for businesses). Chapter 7 is the simplest approach, also known as liquidation bankruptcy, that wipes out most of your unsecured debts such as credit cards and medical bills without a repayment plan. In 2016, 63 percent of bankruptcies were Chapter 7. To qualify, you must meet income requirements. 
+There are two different kinds of bankruptcy for individuals: Chapter 7 and Chapter 13 (Chapter 11 is only for businesses). Chapter 7 is the simplest approach, also known as liquidation bankruptcy, that wipes out most of your unsecured debts such as credit cards and medical bills without a repayment plan. In 2016, 63 percent of bankruptcies were Chapter 7. To qualify, you must meet income requirements that show that you literally don't have enough money to pay back your debts. 
 
-If you make "too much" money, you have to file under Chapter 13 bankruptcy. Chapter 13 is designed for debtors with regular income who have enough left over each month to pay back at least part of their debts through a repayment plan. Many people choose to file for [Chapter 13 bankruptcy ](https://www.nolo.com/legal-encyclopedia/chapter-13-bankruptcy)because it offers benefits such as catching up on missed mortgage payments.
+If you make "too much" money, meaning you have a consistent income and have anything leftover after paying your required monthly costs, you have to file under Chapter 13. This is an option for people who are struggling to pay back their debts and are being harassed by creditors, not those who don't have the income to make any payments. Many people choose to file for Chapter 13 because it offers benefits such as catching up on missed mortgage payments and removing liens .
 
 ## What Is the Process for Filing?
 
