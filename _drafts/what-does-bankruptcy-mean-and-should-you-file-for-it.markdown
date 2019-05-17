@@ -72,6 +72,14 @@ As with most big financial decisions, you must weigh both the pros and cons. Aft
 
 Filing for bankruptcy is not a decision you should make lightly. And it's not an easy solution to get out of a bad situation. However, like I said in the intro, sometimes bankruptcy is the right option. 
 
+Bankruptcy might be right for you if:
+
+* x
+
+* **You’re using loans to pay your bills**
+
+* **You’re liquidating your retirement assets**
+
 ## What Are Your Other Options?
 
 For many, bankruptcy is not the right option. And it isn't always necessary to do. There are other avenues you can take to get control over your debt and manage your payments more successfully.
