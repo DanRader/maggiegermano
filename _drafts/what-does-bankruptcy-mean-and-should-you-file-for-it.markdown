@@ -10,13 +10,15 @@ posts:
 - What's the Difference Between "Good" Debt and "Bad" Debt?
 ---
 
-I remember while I was growing up, I only really heard about bankruptcy when it came to celebrities like MC Hammer or big businesses like General Motors. I also thought that bankruptcy was something that you could never come back from and was a big admission of defeat and failure. People talked about it like the people who file were stupid and should be ridiculed. But as I've gotten older, as with most things, I've realized that it's more complicated and nuanced than that. Sometimes bankruptcy is the best choice for some people.
+I remember while I was growing up, I only really heard about bankruptcy when it came to celebrities like MC Hammer or big businesses like General Motors. I also thought that bankruptcy was something that you could never come back from and was a big admission of defeat and failure. People talked about it like the people who file were stupid and should be ridiculed. But as I've gotten older, as with most things, I've realized that it's more complicated and nuanced than that. Sometimes bankruptcy can be the best choice for some people.
 
 ## What Is Bankruptcy?
 
 Bankruptcy is a legal process for an individual, family, or corporation that finds themselves unable to pay off their debts. In this scenario, the person or entity can have some or all of their debt erased.
 
-There are two different kinds of bankruptcy for individuals: Chapter 7 and Chapter 13 (Chapter 11 is only for businesses).
+There are two different kinds of bankruptcy for individuals: Chapter 7 and Chapter 13 (Chapter 11 is only for businesses). Chapter 7 is the simplest approach, also known as liquidation bankruptcy, that wipes out most of your unsecured debts such as credit cards and medical bills without a repayment plan. In 2016, 63 percent of bankruptcies were Chapter 7. To qualify, you must meet income requirements. 
+
+If you make "too much" money, you have to file under Chapter 13 bankruptcy. Chapter 13 is designed for debtors with regular income who have enough left over each month to pay back at least part of their debts through a repayment plan. Many people choose to file for [Chapter 13 bankruptcy ](https://www.nolo.com/legal-encyclopedia/chapter-13-bankruptcy)because it offers benefits such as catching up on missed mortgage payments.
 
 ## What Is the Process for Filing?
 
