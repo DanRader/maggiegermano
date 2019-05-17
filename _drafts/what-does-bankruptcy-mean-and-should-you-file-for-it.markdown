@@ -93,7 +93,7 @@ This is an option that I've recommended to clients in the past. Working with a c
 
 **Get a Second or Part-Time Job**
 
-x
+Of course, this suggestion isn't easy and it won't be possible for everyone, but sometimes the solution is to bring in more income. 
 
 **Negotiate with Lenders**
 
