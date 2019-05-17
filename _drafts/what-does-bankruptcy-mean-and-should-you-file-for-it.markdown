@@ -95,7 +95,7 @@ This is an option that I've recommended to clients in the past. Working with a c
 
 **Get a Second or Part-Time Job**
 
-Of course, this suggestion isn't easy and it won't be possible for everyone, but sometimes the solution is to bring in more income. 
+Of course, this suggestion isn't easy and it won't be possible for everyone, but sometimes the solution is to bring in more income. I've had plenty of clients who have cut every expense that they possibly could, and they could still barely break even. In that case, the only way forward is to bring in more income. It's the same when your debt is overwhelming you and you're struggling to make a dent on it. If asking for a raise at work isn't an option, look into getting a side job. If you do this, make sure you're putting that income solely towards your debt payments. If you start spending the money somewhere else, you'll still be stuck where you are. 
 
 **Negotiate with Lenders**
 
