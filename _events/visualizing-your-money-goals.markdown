@@ -7,6 +7,7 @@ og-image: "/uploads/Money%20Circle%20Photos%20(1).png"
 event-date: 2019-06-19 18:30:00 -04:00
 start-time: 6:30 PM
 end-time: 8:30 PM
+location: Private Eastern Market Residence (Provided upon RSVP)
 button-text: Sign Me Up!
 ticket-price: "$20"
 ---
