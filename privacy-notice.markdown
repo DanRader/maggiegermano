@@ -7,7 +7,7 @@ layout: privacy
 
 All data and information provided on this site is strictly the author’s opinion and does not constitute any financial, legal or other type of advice. Maggie Germano Financial Coaching makes no representations as to accuracy, completeness, suitability, or validity of any information on this site and will not be liable for any errors, omissions, or delays in this information or any losses or damages arising from its display or use. We also do not make any personal investments on behalf of our readers; neither do we provide specific investment advice.
 
-# Privacy Notice 
+# Privacy Notice
  
 Your privacy is important to Maggie Germano Financial Coaching.
 
