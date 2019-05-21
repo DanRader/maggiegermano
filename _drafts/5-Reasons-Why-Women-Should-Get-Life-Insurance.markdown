@@ -26,4 +26,4 @@ One of the most important differences between whole and term life insurance is t
 
 My husband and I decided for now to have term life insurance. It's more affordable for our current financial situation, and it's possible to switch to whole life insurance without penalty. Of course, the premiums will go up, but we don't have to get another health exam or anything like that. We haven't decided yet if we actually will switch to whole life insurance, but it's an appealing option that would give us access to more funds later in life.
 
-How about you? Do you have life insurance?
+*How about you? Do you have life insurance?*
