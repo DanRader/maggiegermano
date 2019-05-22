@@ -71,13 +71,20 @@ option-1-text: |-
   * Personalized recap and action guide after the session to provide a clear way forward
 
   * $300 per session
-option-2-text: "### Ongoing Monthly Coaching\n\nFor someone looking to make real,
-  positive changes to their current financial situation.\n\n* Money landscape analysis
-  to identify your starting point\n\n* **One **or** two** 60-minute phone sessions
-  a month \n\n* Personalized recap and action guide after each session to provide
-  a clear way forward\n\n* **Unlimited** email support so that you're never alone\n\n*
-  Free membership to monthly [Money Circle](http://maggiegermano.com/moneycircle)
-  gatherings "
+option-2-text: |-
+  ### Ongoing Monthly Coaching
+
+  For someone looking to make real, positive changes to their current financial situation.
+
+  * Money landscape analysis to identify your starting point
+
+  * **One or two** 60-minute phone sessions a month
+
+  * Personalized recap and action guide after each session to provide a clear way forward
+
+  * **Unlimited** email support so that you're never alone
+
+  * Free membership to monthly [Money Circle](http://maggiegermano.com/moneycircle) gatherings
 layout: coaching
 ---
 
