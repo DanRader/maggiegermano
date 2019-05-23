@@ -36,7 +36,7 @@ This week, I wrote about [bankruptcy](https://www.maggiegermano.com/blog/what-do
 
 * The [June Money Circle meetup](https://www.eventbrite.com/e/money-circle-visualizing-your-money-goals-tickets-62153044429) is up and available for registration! At this event, we'll be visualizing our money goals so that they're more motivating and easier to track. See you there?
 
-* x
+* I've been hinting at starting a podcast for a while now. But in order to make sure the podcast is interesting and helpful for YOU, I want to make sure I'm answering your questions. [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSf75z5itnYO-XOLStoqY5FXwuf8YI37ye5OD21Wv7tBGAqIVQ/viewform?usp=sf_link) to submit any and all money questions that you have! 
 
 ## **What I’m Excited About**
 
