@@ -22,7 +22,7 @@ We've had Airbnb guests all week this week and another guest arrives tonight. Ma
 
 * My bestie Lexy is getting married this September, so I ordered my bridesmaid dress for her wedding. 
 
-* My dear friend Nina is getting married next weekend, so I ordered a dress from Rent the Runway. 
+* My dear friend Nina is getting married next weekend, so I ordered a dress from Rent the Runway. I also bought a gift from her registry.
 
 * My sisters, two cousins, and I are going on a girls beach trip in a couple weeks, so I paid my little sister back for the Airbnb.
 
