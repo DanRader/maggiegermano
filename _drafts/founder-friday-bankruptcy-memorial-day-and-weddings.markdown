@@ -3,6 +3,11 @@ title: Founder Friday | Bankruptcy, Memorial Day, and Weddings
 date: 2019-05-24 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/nathan-dumlao-576657-unsplash.jpg"
+posts:
+- Founder Friday | Health Coaching, Decking, and Mental Health
+- Founder Friday | Statement, Emotional Labor, and Bossed Up
+- Founder Friday | Subaru, Health, and Easter
 ---
 
 Happy Friday, y’all! I hope you're getting ready for a nice, long weekend. Here’s what I was up to this week.
@@ -17,15 +22,19 @@ Happy Friday, y’all! I hope you're getting ready for a nice, long weekend. Her
 
 * x
 
+* My bestie Lexy is getting married this September, so I ordered my bridesmaid dress for her wedding. 
+
+* My dear friend Nina is getting married next weekend, so I ordered a dress from Rent the Runway. 
+
 * x
 
 ## **What I’m Writing**
 
-This week, I wrote about [bankruptcy](https://www.maggiegermano.com/blog/what-does-bankruptcy-mean-and-should-you-file-for-it/) on my blog. I talked about what it involves, when you might want to consider it, and what the consequences can be. 
+This week, I wrote about [bankruptcy](https://www.maggiegermano.com/blog/what-does-bankruptcy-mean-and-should-you-file-for-it/) on my blog. I talked about what it involves, when you might want to consider it, and what the consequences can be.
 
 ## **What I’m Up To**
 
-* x
+* The June Money Circle meetup is up and available for registration!
 
 * x
 
