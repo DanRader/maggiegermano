@@ -14,7 +14,7 @@ Happy Friday, y’all! I hope you're getting ready for a nice, long weekend. Her
 
 ## **How I Earned Money This Week**
 
-* x
+* We've had Airbnb guests all week this week and another guest arrives tonight.
 
 * x
 
