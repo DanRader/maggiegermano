@@ -40,9 +40,9 @@ This week, I wrote about [bankruptcy](https://www.maggiegermano.com/blog/what-do
 
 ## **What I’m Excited About**
 
-* Virginia Beach
+* I'm excited for a long weekend! I've been traveling or doing home improvements over the last month or so of weekends, so I'm looking forward to Memorial Day weekend. Dan and I are going to go on a long bike ride on Friday and then will relax in the evening. On Saturday, we're going to visit a couple friends down in Virginia Beach. We haven't seen them in a while, so it'll be great. Plus, beach time!
 
-* Denizen's
+* Something we've been really looking forward to is the opening of the new [Denizen's](https://denizensbrewingco.com/) brewery location in Riverdale Park. It's finally opening tomorrow, May 25th and we can't wait to check it out on Monday!
 
 ## **What I’m Reading**
 
