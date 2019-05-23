@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Bankruptcy, Memorial Day, and Weddings
 date: 2019-05-24 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/nathan-dumlao-576657-unsplash.jpg"
@@ -17,6 +18,8 @@ Happy Friday, y’all! I hope you're getting ready for a nice, long weekend. Her
 We've had Airbnb guests all week this week and another guest arrives tonight. May has been really busy, luckily!
 
 ## **How I Spent Money This Week**
+
+* We've done a few small grocery runs throughout the week.
 
 * For the past year or so, our pantry  has been intensely disorganized. I finally bought a few baskets for the shelves so that we can organize our snacks so they aren't just thrown all over the place.
 
