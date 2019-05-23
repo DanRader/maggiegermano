@@ -14,13 +14,11 @@ Happy Friday, y’all! I hope you're getting ready for a nice, long weekend. Her
 
 ## **How I Earned Money This Week**
 
-* We've had Airbnb guests all week this week and another guest arrives tonight.
-
-* x
+We've had Airbnb guests all week this week and another guest arrives tonight.
 
 ## **How I Spent Money This Week**
 
-* x
+* For the past year or so, our pantry  has been intensely disorganized. I finally bought a few baskets for the shelves so that we can organize our snacks 
 
 * My bestie Lexy is getting married this September, so I ordered my bridesmaid dress for her wedding. 
 
