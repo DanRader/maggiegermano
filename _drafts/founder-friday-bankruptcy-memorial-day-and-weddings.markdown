@@ -34,7 +34,7 @@ This week, I wrote about [bankruptcy](https://www.maggiegermano.com/blog/what-do
 
 ## **What I’m Up To**
 
-* The June Money Circle meetup is up and available for registration!
+* The [June Money Circle meetup](https://www.eventbrite.com/e/money-circle-visualizing-your-money-goals-tickets-62153044429) is up and available for registration! At this event, we'll be visualizing our money goals so that they're more motivating and easier to track. See you there?
 
 * x
 
