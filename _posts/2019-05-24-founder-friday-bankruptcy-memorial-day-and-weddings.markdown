@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Bankruptcy, Memorial Day, and Weddings
 date: 2019-05-24 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/nathan-dumlao-576657-unsplash.jpg"
@@ -14,17 +15,21 @@ Happy Friday, y’all! I hope you're getting ready for a nice, long weekend. Her
 
 ## **How I Earned Money This Week**
 
-We've had Airbnb guests all week this week and another guest arrives tonight.
+We've had Airbnb guests all week this week and another guest arrives tonight. May has been really busy, luckily!
 
 ## **How I Spent Money This Week**
 
-* For the past year or so, our pantry  has been intensely disorganized. I finally bought a few baskets for the shelves so that we can organize our snacks 
+* We've done a few small grocery runs throughout the week.
+
+* For the past year or so, our pantry  has been intensely disorganized. I finally bought a few baskets for the shelves so that we can organize our snacks so they aren't just thrown all over the place.
 
 * My bestie Lexy is getting married this September, so I ordered my bridesmaid dress for her wedding. 
 
-* My dear friend Nina is getting married next weekend, so I ordered a dress from Rent the Runway. 
+* My dear friend Nina is getting married next weekend, so I ordered a dress from Rent the Runway. I also bought a gift from her registry.
 
-* x
+* My sisters, two cousins, and I are going on a girls beach trip in a couple weeks, so I paid my little sister back for the Airbnb.
+
+* The toilet flusher in our Airbnb broke off the other day, so we had to buy a new one to replace it. Luckily, Dan could figure out how to do it himself, so we didn't have to hire anyone to help.
 
 ## **What I’m Writing**
 
