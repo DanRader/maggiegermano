@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Bankruptcy, Memorial Day, and Weddings
 date: 2019-05-24 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 image: "/uploads/nathan-dumlao-576657-unsplash.jpg"
