@@ -20,9 +20,9 @@ Life insurance is just like many other types of insurance. You get it in order t
 
 ## You'll Take Care of Your Loved Ones
 
-Have you ever heard stories about someone's parent dying and their family being left with not only their grief, but debt as well? It happens a lot and it can add a large financial burden to the people left behind. 
+Have you ever heard stories about someone's parent dying and their family being left with not only their grief, but debt as well? It happens a lot and it can add a large financial burden to the people left behind. This can be due to financial responsibilities like paying a mortgage or 
 
-Plus, life insurance can be a great way to leave a legacy to your family after you're gone. This is especially true if there isn't much other inheritance for you to leave. In this way, you're able to set your family up for financial security in the future, and hopefully will allow them to do the same for their children. 
+Plus, life insurance can be a great way to leave a legacy to your family after you're gone. This is especially true if there isn't much other inheritance for you to leave behind. In this way, you're able to set your family up for financial security in the future, and hopefully will allow them to do the same for their children. For example, when my aunt passed away suddenly, she was able to leave behind enough money to take care of my uncle's living expenses and pay for my cousins to go to college. Not having to worry about how to get by meant that they didn't have that added stress on top of their immense grief. 
 
 ## You'll Plan for Your Future
 
