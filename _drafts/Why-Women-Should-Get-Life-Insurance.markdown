@@ -12,7 +12,7 @@ posts:
 - Why Health Insurance is Worth Paying For
 ---
 
-In the last several months, I've thought a lot about estate planning and life insurance. I wrote on my [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2019/02/15/despite-their-priorities-nearly-half-of-americans-over-55-still-dont-have-a-will/) column about why it's so important to have a will. My husband and I bought our own life insurance. I found out how expensive funerals are in the United States. Basically, I've been thinking a lot about death. Perhaps that sounds morbid, but it's something that literally all of us have to face eventually. Pretending it won't happen won't help us or prevent us from dying someday. Plus, doing proper estate planning and buying life insurance has specific benefits:
+In the last several months, I've thought a lot about estate planning and life insurance. I wrote on my [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2019/02/15/despite-their-priorities-nearly-half-of-americans-over-55-still-dont-have-a-will/) column about why it's so important to have a will. My husband and I bought our own life insurance. I found out [how expensive funerals are](https://www.finder.com/most-expensive-cities-to-die) in the United States. Basically, I've been thinking a lot about death. Perhaps that sounds morbid, but it's something that literally all of us have to face eventually. Pretending it won't happen won't help us or prevent us from dying someday. In fact, avoiding the topic can make us feel more anxious and might even leave our families in a bad position if and when we die. Doing proper estate planning and buying life insurance has specific benefits to us and others:
 
 ## You'll Have Peace of Mind
 
