@@ -11,3 +11,20 @@ posts:
 - How to Talk to Your Friends about Money
 ---
 
+x
+
+Splitwise
+
+x
+
+SettleUp
+
+x
+
+Plates
+
+x
+
+Venmo
+
+x
