@@ -11,7 +11,7 @@ posts:
 - How to Talk to Your Friends about Money
 ---
 
-x
+One thing that I hear about a lot from clients (and have experienced myself) 
 
 ## Splitwise
 
