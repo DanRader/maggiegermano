@@ -11,7 +11,7 @@ posts:
 - How to Talk to Your Friends about Money
 ---
 
-One thing that I hear about a lot from clients (and have experienced myself) 
+One thing that I hear about a lot from clients (and have experienced myself) is how difficult it can be to stay on budget when they go out to eat with friends. Obviously, it's much easier to split a check evenly, rather than calculating how much each person owes. However, many people are ordering less food or less expensive food in order to be social while sticking to their budget. Luckily, there are lots of apps out there that can make dining out, traveling, and living with other people much less complicated, financially. Here are some of my favorites:
 
 ## Splitwise
 
