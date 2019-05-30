@@ -44,6 +44,6 @@ I read all of *[Bird Box](https://www.goodreads.com/book/show/18498558-bird-box)
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![I need you like a heart needs a beat..png](/uploads/I%20need%20you%20like%20a%20heart%20needs%20a%20beat..png)
 
 That’s all from me today! Have a fantastic weekend!
