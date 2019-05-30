@@ -22,7 +22,9 @@ Happy Friday, y’all!
 
 ## **How I Spent Money This Week**
 
-* x
+* We were in Virginia Beach visiting friends over the weekend. We mostly ate at their house, but after they treated us to pizza on Saturday, we bought a bunch of groceries for a cookout on Sunday. We also got some snacks and gas for the drive home. 
+
+* Dan made a pretty substantial grocery run on Monday that left us with almost more food than we could eat this week. 
 
 * x
 
