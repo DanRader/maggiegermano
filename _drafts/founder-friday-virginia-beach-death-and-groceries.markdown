@@ -4,6 +4,10 @@ date: 2019-05-31 14:00:00 -04:00
 categories:
 - founder friday
 image: "/uploads/khachik-simonian-269941-unsplash.jpg"
+posts:
+- Founder Friday | Bankruptcy, Memorial Day, and Weddings
+- Founder Friday | Health Coaching, Decking, and Mental Health
+- Founder Friday | Statement, Emotional Labor, and Bossed Up
 ---
 
 Happy Friday, y’all!
@@ -40,10 +44,10 @@ This week, I wrote about [life insurance](https://www.maggiegermano.com/blog/Why
 
 ## **What I’m Reading**
 
-I read all of *[Bird Box](https://www.goodreads.com/book/show/18498558-bird-box)* by Josh Malerman this week. It was even scarier than the movie and I ended up having apocalyptic dreams every night.
+I read all of *[Bird Box](https://www.goodreads.com/book/show/18498558-bird-box)* by Josh Malerman this week. It was even scarier than the movie and I ended up having apocalyptic dreams every night. I also started *[The Interestings](https://www.goodreads.com/book/show/15815333-the-interestings)* by Meg Wolitzer and am still working my way through *[Ghosts in the Schoolyard](https://www.goodreads.com/book/show/38923643-ghosts-in-the-schoolyard?from_search=true)* by Eve L. Ewing.
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![I need you like a heart needs a beat..png](/uploads/I%20need%20you%20like%20a%20heart%20needs%20a%20beat..png)
 
 That’s all from me today! Have a fantastic weekend!
