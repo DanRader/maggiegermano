@@ -40,7 +40,7 @@ This week, I wrote about [life insurance](https://www.maggiegermano.com/blog/Why
 
 ## **What I’m Excited About**
 
-* My friend Nina is getting married tomorrow! I can't wait to celebrate her and her fiance and dance the night away.
+* My friend Nina is getting married tomorrow! I can't wait to celebrate her and her fiancé and dance the night away.
 
 * I'm going to Cape May next week! My sisters, two cousins, and I are taking a girls trip to the beach for the first time. It'll be so nice to relax and have quality time with my fam. 
 
