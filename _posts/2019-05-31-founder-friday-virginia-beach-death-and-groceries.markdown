@@ -24,9 +24,11 @@ Happy Friday, y’all!
 
 * We were in Virginia Beach visiting friends over the weekend. We mostly ate at their house, but after they treated us to pizza on Saturday, we bought a bunch of groceries for a cookout on Sunday. We also got some snacks and gas for the drive home. 
 
-* Dan made a pretty substantial grocery run on Monday that left us with almost more food than we could eat this week. 
+* Dan made a pretty substantial grocery run on Monday that left us with almost more food than we could eat this week. I've also stopped by the store a couple times this week for small items. 
 
-* x
+* I went to yoga this morning with my friend Nina, who is getting married tomorrow! I paid for a drop-in class at [Yoga Heights](https://yogaheightsdc.com/) and then got us some coffee and tea afterwards. 
+
+* I stopped today to buy a card for the wedding tomorrow and picked up some Father's Day cards as well. I always forget to get cards and gifts in time, so I decided to get ahead this time.
 
 ## **What I’m Writing**
 
