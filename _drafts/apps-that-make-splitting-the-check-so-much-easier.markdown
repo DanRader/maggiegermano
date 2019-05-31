@@ -15,7 +15,7 @@ One thing that I hear about a lot from clients (and have experienced myself) is 
 
 ## Splitwise
 
-I had heard a lot about [Splitwise](https://www.splitwise.com/) from clients who use it with romantic partners or roommates, but I hadn't used it myself until this past March. I was up in Vermont for my friend Nina's bachelorette party and we were all perusing a cute wine and cheese shop. One of the other women suggested that she just pay for all of the wine and cheese (which added up to over $200) and then we could pay her back through Splitwise. 
+I had heard a lot about [Splitwise](https://www.splitwise.com/) from clients who use it with romantic partners or roommates, but I hadn't used it myself until this past March. I was up in Vermont for my friend Nina's bachelorette party and we were all perusing a cute wine and cheese shop. One of the other women suggested that she just pay for all of the wine and cheese (which added up to over $200) and then we could pay her back through Splitwise.
 
 ## SettleUp
 
@@ -23,7 +23,7 @@ x
 
 ## Plates
 
-x
+[Plates](http://plates.splitwise.com/) is another app that I hadn't heard of until recently. A big group of friends went out for brunch for a birthday celebration
 
 ## Tab
 

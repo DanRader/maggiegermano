@@ -4,6 +4,10 @@ date: 2019-05-31 14:00:00 -04:00
 categories:
 - founder friday
 image: "/uploads/khachik-simonian-269941-unsplash.jpg"
+posts:
+- Founder Friday | Bankruptcy, Memorial Day, and Weddings
+- Founder Friday | Health Coaching, Decking, and Mental Health
+- Founder Friday | Statement, Emotional Labor, and Bossed Up
 ---
 
 Happy Friday, y’all!
@@ -18,9 +22,13 @@ Happy Friday, y’all!
 
 ## **How I Spent Money This Week**
 
-* x
+* We were in Virginia Beach visiting friends over the weekend. We mostly ate at their house, but after they treated us to pizza on Saturday, we bought a bunch of groceries for a cookout on Sunday. We also got some snacks and gas for the drive home. 
 
-* x
+* Dan made a pretty substantial grocery run on Monday that left us with almost more food than we could eat this week. I've also stopped by the store a couple times this week for small items. 
+
+* I went to yoga this morning with my friend Nina, who is getting married tomorrow! I paid for a drop-in class at [Yoga Heights](https://yogaheightsdc.com/) and then got us some coffee and tea afterwards. 
+
+* I stopped today to buy a card for the wedding tomorrow and picked up some Father's Day cards as well. I always forget to get cards and gifts in time, so I decided to get ahead this time.
 
 ## **What I’m Writing**
 
@@ -34,13 +42,13 @@ This week, I wrote about [life insurance](https://www.maggiegermano.com/blog/Why
 
 ## **What I’m Excited About**
 
-* My friend Nina is getting married tomorrow! I can't wait to celebrate her and her fiance and dance the night away.
+* My friend Nina is getting married tomorrow! I can't wait to celebrate her and her fiancé and dance the night away.
 
 * I'm going to Cape May next week! My sisters, two cousins, and I are taking a girls trip to the beach for the first time. It'll be so nice to relax and have quality time with my fam. 
 
 ## **What I’m Reading**
 
-I read all of *[Bird Box](https://www.goodreads.com/book/show/18498558-bird-box)* by Josh Malerman this week. It was even scarier than the movie and I ended up having apocalyptic dreams every night.
+I read all of *[Bird Box](https://www.goodreads.com/book/show/18498558-bird-box)* by Josh Malerman this week. It was even scarier than the movie and I ended up having apocalyptic dreams every night. I also started *[The Interestings](https://www.goodreads.com/book/show/15815333-the-interestings)* by Meg Wolitzer and am still working my way through *[Ghosts in the Schoolyard](https://www.goodreads.com/book/show/38923643-ghosts-in-the-schoolyard?from_search=true)* by Eve L. Ewing.
 
 ## **Money Tip to Take Into the Weekend**
 
