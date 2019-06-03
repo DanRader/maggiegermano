@@ -5,6 +5,7 @@ categories:
 - spending
 - lifestyle
 image: "/uploads/jay-wennington-2065-unsplash.jpg"
+tweet: 'Use these apps and splitting the check will be less awkward and complicated. '
 posts:
 - You Can Have Fun with Your Friends While Spending Less
 - How to Stop Trying to Keep Up with "the Joneses"
