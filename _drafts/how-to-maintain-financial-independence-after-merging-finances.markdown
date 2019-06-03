@@ -11,3 +11,15 @@ posts:
 ---
 
 x
+
+## Keep Your Own Checking Account
+
+x
+
+## Keep Your Own Emergency Savings
+
+x
+
+## Have Regular Money Check-Ins
+
+x
