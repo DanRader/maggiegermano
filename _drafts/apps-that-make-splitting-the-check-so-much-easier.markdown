@@ -32,6 +32,6 @@ Speaking of settling up, [SettleUp](https://settleup.io/) is another app that's 
 
 ## Venmo
 
-[Venmo](https://venmo.com/) is a cash sharing app, not an app that splits your check or other expenses. But it's a really easy way to pay someone back for something! Plus, it often connects to the apps listed above and is the way you actually make the payment.
+[Venmo](https://venmo.com/) is a popular cash sharing app, not an app that splits your check or other expenses. But it's a really easy way to pay someone back for something! Plus, it often connects to the apps listed above and is the way you actually make the payment in the end.
 
-The next time you're going out to dinner or on a trip with friends make sure you have at least one of these apps on your phone.
+The next time you're going out to dinner or on a trip with friends make sure you have at least one of these apps on your phone. It'll make things much less complicated!
