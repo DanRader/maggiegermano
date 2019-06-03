@@ -24,7 +24,7 @@ Speaking of settling up, [SettleUp](https://settleup.io/) is another app that's 
 
 ## Plates
 
-[Plates](http://plates.splitwise.com/) is another app that I hadn't heard of until recently. A big group of friends went out for brunch for a birthday celebration and we all ordered differently priced dishes. 
+[Plates](http://plates.splitwise.com/) is actually a subsidiary of Splitwise, and it's another app that I hadn't heard of until recently. A big group of friends went out for brunch for a birthday celebration and we all ordered differently priced dishes. 
 
 ## Tab
 
