@@ -20,7 +20,7 @@ I had heard a lot about [Splitwise](https://www.splitwise.com/) from clients who
 
 ## SettleUp
 
-x
+[SettleUp](https://settleup.io/) is a lot like Splitwise. 
 
 ## Plates
 
