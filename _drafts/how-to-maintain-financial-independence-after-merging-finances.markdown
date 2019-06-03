@@ -23,3 +23,7 @@ x
 ## Have Regular Money Check-Ins
 
 x
+
+## Set Ground Rules
+
+x
