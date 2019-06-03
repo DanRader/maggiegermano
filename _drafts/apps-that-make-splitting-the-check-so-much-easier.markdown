@@ -20,7 +20,7 @@ I had heard a lot about [Splitwise](https://www.splitwise.com/) from clients who
 
 ## SettleUp
 
-x
+[SettleUp](https://settleup.io/) is a lot like Splitwise. 
 
 ## Plates
 
@@ -28,7 +28,7 @@ x
 
 ## Tab
 
-x
+[Tab](https://www.tabapp.co/) is specifically an app that helps you split the check at a restaurant. You simply upload a photo of the receipt and assign 
 
 ## Venmo
 
