@@ -5,5 +5,7 @@ categories:
 - lifestyle
 - budget
 image: "/uploads/justin-follis-450674-unsplash.jpg"
+posts:
+- How to Manage Finances Once You're Married
 ---
 
