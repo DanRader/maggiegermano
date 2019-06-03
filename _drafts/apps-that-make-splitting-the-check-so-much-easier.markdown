@@ -24,7 +24,7 @@ Speaking of settling up, [SettleUp](https://settleup.io/) is another app that's 
 
 ## Plates
 
-[Plates](http://plates.splitwise.com/) is actually a subsidiary of Splitwise, and it's another app that I hadn't heard of until recently. A big group of friends went out for brunch for a birthday celebration and we all ordered differently priced dishes. Instead of flipping over the receipt and writing who owed what on the back, we decided to use the Plates app, which one person had on their phone. You can split it between up to 10 people, and even assign seats to them on the app. 
+[Plates](http://plates.splitwise.com/) is actually a subsidiary of Splitwise, and it's another app that I hadn't heard of until recently. A big group of friends went out for brunch for a birthday celebration and we all ordered differently priced dishes. Instead of flipping over the receipt and writing who owed what on the back, we decided to use the Plates app, which one person had on their phone. You can split it between up to 10 people, and even assign seats to them on the app, which makes it easier to remember who ordered what. The best part of the app is that it assigns tax and tip based on how much the person actually paid for their order.  
 
 ## Tab
 
