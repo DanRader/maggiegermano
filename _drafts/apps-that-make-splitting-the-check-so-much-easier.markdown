@@ -24,7 +24,7 @@ I had heard a lot about [Splitwise](https://www.splitwise.com/) from clients who
 
 ## Plates
 
-[Plates](http://plates.splitwise.com/) is another app that I hadn't heard of until recently. A big group of friends went out for brunch for a birthday celebration
+[Plates](http://plates.splitwise.com/) is another app that I hadn't heard of until recently. A big group of friends went out for brunch for a birthday celebration and we all ordered differently priced dishes. 
 
 ## Tab
 
