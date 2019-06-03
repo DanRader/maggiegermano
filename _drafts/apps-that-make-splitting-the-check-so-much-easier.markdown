@@ -33,3 +33,5 @@ I had heard a lot about [Splitwise](https://www.splitwise.com/) from clients who
 ## Venmo
 
 [Venmo](https://venmo.com/) is a cash sharing app, not an app that splits your check or other expenses. But it's a really easy way to pay someone back for something! Plus, it often connects to the apps listed above and is the way you actually make the payment.
+
+The next time you're going out to dinner or on a trip with friends make sure you have at least one of these apps on your phone.
