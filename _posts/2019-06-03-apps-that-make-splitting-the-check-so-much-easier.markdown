@@ -20,7 +20,7 @@ I had heard a lot about [Splitwise](https://www.splitwise.com/) from clients who
 
 ## SettleUp
 
-Speaking of settling up, [SettleUp](https://settleup.io/) is another app that's a lot like Splitwise. 
+Speaking of settling up, [SettleUp](https://settleup.io/) is another app that's a lot like Splitwise. All of the expenses are uploaded and synced so that every person in the group can see them. By the end of the event or trip, everyone's expenses are uploaded and you can see who owes who to whom. 
 
 ## Plates
 
