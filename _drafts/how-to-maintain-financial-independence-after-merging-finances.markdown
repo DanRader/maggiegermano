@@ -5,7 +5,9 @@ categories:
 - lifestyle
 - budget
 image: "/uploads/justin-follis-450674-unsplash.jpg"
+tweet: 'Merging finances doesn''t mean you have to give up your independence. '
 posts:
 - How to Manage Finances Once You're Married
 ---
 
+x
