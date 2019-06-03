@@ -16,15 +16,15 @@ One thing that I hear about a lot from clients (and have experienced myself) is 
 
 ## Splitwise
 
-I had heard a lot about [Splitwise](https://www.splitwise.com/) from clients who use it with romantic partners or roommates, but I hadn't used it myself until this past March. I was up in Vermont for my friend Nina's bachelorette party and we were all perusing a cute wine and cheese shop. One of the other women suggested that she just pay for all of the wine and cheese (which added up to over $200) and then we could pay her back through Splitwise.
+I had heard a lot about [Splitwise](https://www.splitwise.com/) from clients who use it with romantic partners or roommates, but I hadn't used it myself until this past March. I was up in Vermont for my friend Nina's bachelorette party and we were all perusing a cute wine and cheese shop. One of the other women suggested that she just pay for all of the wine and cheese (which added up to over $200) and then we could pay her back through Splitwise. Basically, you can create a group or event in the app and invite people to be part of it. Every individual can input how much they've spent and decide who owes them what. It was amazing how easy it made the bachelorette weekend. No one had to worry who was spending how much on what, because we were all able to settle up at the end. 
 
 ## SettleUp
 
-[SettleUp](https://settleup.io/) is a lot like Splitwise. 
+Speaking of settling up, [SettleUp](https://settleup.io/) is another app that's a lot like Splitwise. 
 
 ## Plates
 
-[Plates](http://plates.splitwise.com/) is another app that I hadn't heard of until recently. A big group of friends went out for brunch for a birthday celebration
+[Plates](http://plates.splitwise.com/) is another app that I hadn't heard of until recently. A big group of friends went out for brunch for a birthday celebration and we all ordered differently priced dishes. 
 
 ## Tab
 
@@ -33,3 +33,5 @@ I had heard a lot about [Splitwise](https://www.splitwise.com/) from clients who
 ## Venmo
 
 [Venmo](https://venmo.com/) is a cash sharing app, not an app that splits your check or other expenses. But it's a really easy way to pay someone back for something! Plus, it often connects to the apps listed above and is the way you actually make the payment.
+
+The next time you're going out to dinner or on a trip with friends make sure you have at least one of these apps on your phone.
