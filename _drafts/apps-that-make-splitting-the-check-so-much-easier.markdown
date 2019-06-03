@@ -24,14 +24,14 @@ Speaking of settling up, [SettleUp](https://settleup.io/) is another app that's 
 
 ## Plates
 
-[Plates](http://plates.splitwise.com/) is another app that I hadn't heard of until recently. A big group of friends went out for brunch for a birthday celebration and we all ordered differently priced dishes. 
+[Plates](http://plates.splitwise.com/) is actually a subsidiary of Splitwise, and it's another app that I hadn't heard of until recently. A big group of friends went out for brunch for a birthday celebration and we all ordered differently priced dishes. Instead of flipping over the receipt and writing who owed what on the back, we decided to use the Plates app, which one person had on their phone. You can split it between up to 10 people, and even assign seats to them on the app, which makes it easier to remember who ordered what. The best part of the app is that it assigns tax and tip based on how much the person actually paid for their order.  
 
 ## Tab
 
-[Tab](https://www.tabapp.co/) is specifically an app that helps you split the check at a restaurant. You simply upload a photo of the receipt and assign 
+[Tab](https://www.tabapp.co/) is specifically an app that helps you split the check at a restaurant. You simply upload a photo of the receipt and assign specific orders to each person. This app also calculates the tax and tip for everyone, which makes that math much easier. 
 
 ## Venmo
 
-[Venmo](https://venmo.com/) is a cash sharing app, not an app that splits your check or other expenses. But it's a really easy way to pay someone back for something! Plus, it often connects to the apps listed above and is the way you actually make the payment.
+[Venmo](https://venmo.com/) is a popular cash sharing app, not an app that splits your check or other expenses. But it's a really easy way to pay someone back for something! Plus, it often connects to the apps listed above and is the way you actually make the payment in the end.
 
-The next time you're going out to dinner or on a trip with friends make sure you have at least one of these apps on your phone.
+The next time you're going out to dinner or on a trip with friends make sure you have at least one of these apps on your phone. It'll make things much less complicated!
