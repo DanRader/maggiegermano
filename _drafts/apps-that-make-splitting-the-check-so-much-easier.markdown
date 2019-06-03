@@ -28,7 +28,7 @@ Speaking of settling up, [SettleUp](https://settleup.io/) is another app that's 
 
 ## Tab
 
-[Tab](https://www.tabapp.co/) is specifically an app that helps you split the check at a restaurant. You simply upload a photo of the receipt and assign 
+[Tab](https://www.tabapp.co/) is specifically an app that helps you split the check at a restaurant. You simply upload a photo of the receipt and assign specific orders to each person. This app also calculates the tax and tip for everyone, which makes that math much easier. 
 
 ## Venmo
 
