@@ -22,17 +22,21 @@ How you decide to approach this will depend on your situation, but there are sev
 
 ## Keep Your Own Checking Account
 
-Even though Dan and I primarily use our joint checking account for paying for things, we each maintain our own, separate checking accounts. We can do whatever we want with that money without having to answer to each other and it lets us feel a semblance of independence.
+Just because you are opening a joint account doesn't mean that you have to close your own checking account. It's okay to maintain your own account for your own personal spending purposes.
+
+Even though Dan and I primarily use our joint checking account for paying for things, we each maintain our own, separate checking accounts. We can do whatever we want with that money without having to answer to each other and it lets us feel a sense of independence. In fact, a small portion of Dan's paychecks go into his checking account so that he's free to go out for drinks or buy lunch without it impacting our overall joint budget. 
 
 ## Keep Your Own Emergency Savings
 
-Emergency savings isn't just protection for when you lose your job, get injured, or your car breaks down. It's also there for you if your relationship breaks down and you need to find a new place to live ASAP. Of course, you hope the worst won't happen, but 50 percent of marriages do end in divorce, so it's not unrealistic that it might happen someday.
+Emergency savings isn't just protection for when you lose your job, get injured, or your car breaks down. It's also there for you if your relationship breaks down and you need to find a new place to live ASAP. Of course, you hope the worst won't happen, but 50 percent of marriages do end in divorce, so it's not unrealistic that it might happen someday. That's just one reason why it's so important to keep your own emergency savings.
 
-Dan and I each have our own emergency funds, and neither of us have access to the other's. Recently, we used some excess savings money to purchase a new car, and then we split up what was left so that we would each have the same amount in our savings. Of course, we can use this money together if something were to happen to our home or health, but it's also there for each of us if something were to go wrong between us.
+Dan and I each have our own emergency funds, and neither of us has access to the other's. Recently, we used some excess savings money to purchase a new car, and then we split up what was left so that we would each have the same amount in our savings. Of course, we can use this money together if something were to happen to our home or health, but it's also there for each of us if something were to go wrong between us.
+
+Having this money set aside for yourself can give you extra peace of mind.
 
 ## Set Ground Rules
 
-As adults, we don't necessarily have to check in with our partner for every little expense. In fact, if your partner requires you to get permission or explain yourself whenever you spend money, you might be experiencing [financial abuse](https://www.maggiegermano.com/blog/what-you-should-know-about-financial-abuse/). However, when you're sharing your life and your money with someone else, it's important to have transparency and ground rules.
+As adults, we don't necessarily have to check in with our partner for every little expense. In fact, if your partner requires you to get permission or explain yourself whenever you spend money, you might be experiencing [financial abuse](https://www.maggiegermano.com/blog/what-you-should-know-about-financial-abuse/). However, when you're sharing your life and your money with someone else, it's important to have transparency and ground rules. 
 
 ## Assign a Point Person
 
