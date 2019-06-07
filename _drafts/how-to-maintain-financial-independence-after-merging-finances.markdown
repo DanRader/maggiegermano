@@ -18,6 +18,8 @@ Before I bought a house with my now-husband, I felt very strongly about keeping 
 
 However, once we bought a house, and especially once I quit my job and took my business full-time, things got more financially complicated. We were relying on Dan's salary to pay our bills, so it wasn't as simple as me paying all the bills and then Dan transferring over what he owed me. In fact, it was impossible for us to do that. And just because Dan was now the main breadwinner didn't mean that he wanted to take over managing our finances. So the solution was to open a joint checking account and have most of Dan's paychecks deposit into it. That way, I could manage all the bills and track our budget using the income we were actually using.
 
+How you decide to approach this will depend on your situation, but there are several ways that you can maintain your independence while merging finances with your partner:
+
 ## Keep Your Own Checking Account
 
 Even though Dan and I primarily use our joint checking account for paying for things, we each maintain our own, separate checking accounts. We can do whatever we want with that money without having to answer to each other and it lets us feel a semblance of independence.
