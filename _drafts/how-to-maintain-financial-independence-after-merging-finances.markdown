@@ -50,4 +50,6 @@ In my household, I manage all of it. I created the budget based on our income an
 
 Just because you've assigned a point person and set up ground rules doesn't mean that you can set it and forget it. Money and relationships need constant maintenance. Set a regular time to sit down together and check in on your money. This could be weekly or monthly, whatever works better for your situation. However, it's important that you don't take longer than a month to check in.
 
+Dan and I added this task to our weekly "family meeting" where we check in to review what's going on in the coming week, talk about what our meals will be, and discuss how things are going between us. It's taken a lot of emotional pressure off of me to review how our budget is going with Dan during these meetings. You get bonus points if you add something pleasurable to these check-ins, like a good meal or a tasty treat. 
+
 These check-ins are not only important for making sure you're staying on budget, but they are important for your relationship as well. It's a time to make sure that everyone is feeling happy and comfortable with the set-up. It's also a time to have difficult conversations about anything that might need to change.
