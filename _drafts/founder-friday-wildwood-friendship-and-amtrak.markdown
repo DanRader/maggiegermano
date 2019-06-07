@@ -38,9 +38,11 @@ Happy Friday, everyone! Here's what I was up to (while mostly on vacation) this 
 
 ## **What I’m Writing**
 
-x
+This week, I wrote about [how to split the check ](https://www.maggiegermano.com/blog/apps-that-make-splitting-the-check-so-much-easier/)or bills more easily when you're living with, out with, or traveling with others. 
 
 ## **What I’m Up To**
+
+* I'm speaking on a panel at Women at the Wheel, a Prudential Financial Wellness Census Event on Monday, June 10th. [Farnoosh Torabi](http://farnoosh.tv/) will be on the same panel with me, so I'm super excited for the event!
 
 * The [June Money Circle meetup](https://www.eventbrite.com/e/money-circle-visualizing-your-money-goals-tickets-62153044429) is up and available for registration! At this event, we’ll be visualizing our money goals so that they’re more motivating and easier to track. See you there?
 
