@@ -14,9 +14,13 @@ Happy Friday, everyone! Here's what I was up to (while mostly on vacation) this 
 
 ## **How I Earned Money This Week**
 
-* x
+* One of my ongoing client's monthly fee went through on Monday
 
-* x
+* A new client paid her monthly fee.
+
+* We had two different Airbnb guests stay with us. 
+
+* An affiliate payout for Podia was transferred to my Paypal account.
 
 ## **How I Spent Money This Week**
 
@@ -50,7 +54,7 @@ x
 
 ## **What I’m Reading**
 
-x
+I read the entirety of *[Big Little Lies](https://www.goodreads.com/book/show/19486412-big-little-lies)* by Liane Moriarty while at the beach this week. It was just as riveting as the HBO show, even though it ended differently. Now I can't wait to watch the second season! After finishing that book, I started *[The Power](https://www.goodreads.com/book/show/29751398-the-power?from_search=true)* by Naomi Alderman. It's fascinating so far. 
 
 ## **Money Tip to Take Into the Weekend**
 
