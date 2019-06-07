@@ -1,6 +1,7 @@
 ---
 title: How to Maintain Financial Independence After Merging Finances
 date: 2019-06-10 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 - budget
@@ -55,3 +56,7 @@ Just because you've assigned a point person and set up ground rules doesn't mean
 Dan and I added this task to our weekly "family meeting" where we check in to review what's going on in the coming week, talk about what our meals will be, and discuss how things are going between us. It's taken a lot of emotional pressure off of me to review how our budget is going with Dan during these meetings. You get bonus points if you add something pleasurable to these check-ins, like a good meal or a tasty treat. 
 
 These check-ins are not only important for making sure you're staying on budget, but they are important for your relationship as well. It's a time to make sure that everyone is feeling happy and comfortable with the set-up. It's also a time to have difficult conversations about anything that might need to change.
+
+--
+
+Good luck with your merging of finances! I hope this guide has helped you. Remember, there's no one-size-fits-all approach to this. It all depends on what matters the most to you and your partner. If you've already done this and have advice, please share in the comments!
