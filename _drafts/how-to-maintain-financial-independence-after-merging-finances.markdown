@@ -8,6 +8,8 @@ image: "/uploads/justin-follis-450674-unsplash.jpg"
 tweet: 'Merging finances doesn''t mean you have to give up your independence. '
 posts:
 - How to Manage Finances Once You're Married
+- How to Budget as a Couple
+- What You Should Know About Financial Abuse
 ---
 
 One question I'm asked pretty often is this: how should I merge finances with my partner? And there isn't a simple, one-size-fits-all answer to this. How and why you merge finances will depend on you, your partner, and your circumstances. But one thing I do know is that most women I speak to want to maintain a semblance of independence even if they do merge finances. 
