@@ -10,7 +10,7 @@ posts:
 - How to Manage Finances Once You're Married
 ---
 
-x
+One question I'm asked pretty often is this: how should I merge finances with my partner? And there isn't a simple, one-size-fits-all answer to this. How and why you merge finances will depend on you, your partner, and your circumstances. But one thing I do know is that most women I speak to want to maintain a semblance of independence even if they do merge finances. 
 
 Before I bought a house with my now-husband, I felt very strongly about keeping our finances separate. I thought that in order to be independent, I couldn't combine anything. Yes, we already had a shared credit card for things like groceries or dining, but that didn't really count, because he was just an authorized user on my account. However, once we bought a house, and especially once I quit my job and took my business full-time, things got more financially complicated. We were relying on Dan's salary to pay our bills, so it wasn't as simple as me paying all the bills and then Dan transferring what he owed me to my account. In fact, it was impossible for us to do that. And just because Dan was now the main breadwinner didn't mean that he wanted to take over managing our finances. So the solution was to open a joint checking account and have most of Dan's paychecks deposit into it and have all of our bills get pulled from it.
 
@@ -30,10 +30,10 @@ As adults, we don't necessarily have to check in with our partner for every litt
 
 ## Assign a Point Person
 
-Chances are, there isn't someone within your relationship who loooves to manage the finances. I personally might be somewhat of a rarity. But that doesn't mean that no one in the household can take this responsibility. Someone needs to be a point person for your budget and your bills. 
+Chances are, there isn't someone within your relationship who loooves to manage the finances. I personally might be somewhat of a rarity. But that doesn't mean that no one in the household can take this responsibility. Someone needs to be a point person for your budget and your bills.
 
 ## Have Regular Money Check-Ins
 
 Just because you've assigned a point person and set up ground rules doesn't mean that you can set it and forget it. Money and relationships need constant maintenance. Set a regular time to sit down together and check in on your money. This could be weekly or monthly, whatever works better for your situation. However, it's important that you don't take longer than a month to check in.
 
-These check-ins are not only important for making sure you're staying on budget, but they are important for your relationship as well. It's a time to make sure that everyone is feeling happy and comfortable with the set-up. It's also a time to have difficult conversations about anything that might need to change. 
+These check-ins are not only important for making sure you're staying on budget, but they are important for your relationship as well. It's a time to make sure that everyone is feeling happy and comfortable with the set-up. It's also a time to have difficult conversations about anything that might need to change.
