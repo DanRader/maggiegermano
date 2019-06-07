@@ -48,12 +48,6 @@ This week, I wrote about [how to split the check ](https://www.maggiegermano.com
 
 * I’ve been hinting at starting a podcast for a while now. But in order to make sure the podcast is interesting and helpful for YOU, I want to make sure I’m answering your questions. [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSf75z5itnYO-XOLStoqY5FXwuf8YI37ye5OD21Wv7tBGAqIVQ/viewform?usp=sf_link) to submit any and all money questions that you have!
 
-## **What I’m Excited About**
-
-* x
-
-* x
-
 ## **What I’m Reading**
 
 I read the entirety of *[Big Little Lies](https://www.goodreads.com/book/show/19486412-big-little-lies)* by Liane Moriarty while at the beach this week. It was just as riveting as the HBO show, even though it ended differently. Now I can't wait to watch the second season! After finishing that book, I started *[The Power](https://www.goodreads.com/book/show/29751398-the-power?from_search=true)* by Naomi Alderman. It's fascinating so far. 
