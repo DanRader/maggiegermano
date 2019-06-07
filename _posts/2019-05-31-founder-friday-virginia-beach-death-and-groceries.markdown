@@ -16,17 +16,17 @@ Happy Friday, y’all!
 
 * Lots of money coming in this week! One of my retainer clients paid their monthly fee, two of my ongoing coaching clients paid their fees, and a new client paid for her first month of coaching!
 
-* We also have had Airbnb guests all week. May has been a very busy month for our rental. 
+* We also have had Airbnb guests all week. May has been a very busy month for our rental.
 
-* Dan's bi-weekly paycheck came in today. 
+* Dan's bi-weekly paycheck came in today.
 
 ## **How I Spent Money This Week**
 
-* We were in Virginia Beach visiting friends over the weekend. We mostly ate at their house, but after they treated us to pizza on Saturday, we bought a bunch of groceries for a cookout on Sunday. We also got some snacks and gas for the drive home. 
+* We were in Virginia Beach visiting friends over the weekend. We mostly ate at their house, but after they treated us to pizza on Saturday, we bought a bunch of groceries for a cookout on Sunday. We also got some snacks and gas for the drive home.
 
-* Dan made a pretty substantial grocery run on Monday that left us with almost more food than we could eat this week. I've also stopped by the store a couple times this week for small items. 
+* Dan made a pretty substantial grocery run on Monday that left us with almost more food than we could eat this week. I've also stopped by the store a couple times this week for small items.
 
-* I went to yoga this morning with my friend Nina, who is getting married tomorrow! I paid for a drop-in class at [Yoga Heights](https://yogaheightsdc.com/) and then got us some coffee and tea afterwards. 
+* I went to yoga this morning with my friend Nina, who is getting married tomorrow! I paid for a drop-in class at [Yoga Heights](https://yogaheightsdc.com/) and then got us some coffee and tea afterwards.
 
 * I stopped today to buy a card for the wedding tomorrow and picked up some Father's Day cards as well. I always forget to get cards and gifts in time, so I decided to get ahead this time.
 
@@ -44,7 +44,7 @@ This week, I wrote about [life insurance](https://www.maggiegermano.com/blog/Why
 
 * My friend Nina is getting married tomorrow! I can't wait to celebrate her and her fiancé and dance the night away.
 
-* I'm going to Cape May next week! My sisters, two cousins, and I are taking a girls trip to the beach for the first time. It'll be so nice to relax and have quality time with my fam. 
+* I'm going to Cape May next week! My sisters, two cousins, and I are taking a girls trip to the beach for the first time. It'll be so nice to relax and have quality time with my fam.
 
 ## **What I’m Reading**
 
@@ -52,6 +52,6 @@ I read all of *[Bird Box](https://www.goodreads.com/book/show/18498558-bird-box)
 
 ## **Money Tip to Take Into the Weekend**
 
-![I need you like a heart needs a beat..png](/uploads/I%20need%20you%20like%20a%20heart%20needs%20a%20beat..png)
+![I need you like a heart needs a beat.png](/uploads/I%20need%20you%20like%20a%20heart%20needs%20a%20beat.png)
 
 That’s all from me today! Have a fantastic weekend!
