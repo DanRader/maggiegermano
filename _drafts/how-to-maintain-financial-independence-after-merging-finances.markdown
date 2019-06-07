@@ -30,4 +30,4 @@ x
 
 ## Set Ground Rules
 
-x
+As adults, we don't necessarily have to check in with our partner for every little expense. In fact, if your partner requires you to get permission or explain yourself whenever you spend money, you might be experiencing [financial abuse](https://www.maggiegermano.com/blog/what-you-should-know-about-financial-abuse/). However, when you're sharing your life and your money with someone else, it's important to have transparency and ground rules. 
