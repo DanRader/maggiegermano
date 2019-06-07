@@ -44,9 +44,7 @@ Sit down before you merge your finances and outline some ground rules. Perhaps i
 
 Chances are, there isn't someone within your relationship who loooves to manage the finances. I personally might be somewhat of a rarity in that case. But that doesn't mean that no one in the household can take this responsibility. Someone needs to be a point person for your budget and your bills, or else things will go into disarray. 
 
-In my household, I manage all of it. I created the budget based on our income and needs, I make sure the bills get paid, and I move money around when necessary. 
-
-If there isn't one of you who wants to manage everything, split things up! Assign certain financial tasks to each other. Make sure that aligns with each of your strengths, so that things don't get forgotten or avoided. 
+In my household, I manage all of it. I created the budget based on our income and needs, I make sure the bills get paid, and I move money around when necessary. That won't necessarily work with everyone, because it might be too much for one person. If there isn't one of you who wants to manage everything, split things up! Assign certain financial tasks to each other. Make sure that aligns with each of your strengths, so that things don't get forgotten or avoided. 
 
 ## Have Regular Money Check-Ins
 
