@@ -3,13 +3,14 @@ title: Founder Friday | Wildwood, Friendship, and Amtrak
 date: 2019-06-07 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/shawn-henry-518382-unsplash.jpg"
 posts:
 - Founder Friday | Virginia Beach, Death, and Groceries
 - Founder Friday | Bankruptcy, Memorial Day, and Weddings
 - Founder Friday | Health Coaching, Decking, and Mental Health
 ---
 
-Happy Friday, everyone! Here's what I was up to (while mostly on vacation) this week. 
+Happy Friday, everyone! Here's what I was up to (while mostly on vacation) this week.
 
 ## **How I Earned Money This Week**
 
@@ -23,7 +24,7 @@ Happy Friday, everyone! Here's what I was up to (while mostly on vacation) this 
 
 * x
 
-* Here's some proof that no matter how particular you are with your money, you can still screw up and get charged fees! 
+* Here's some proof that no matter how particular you are with your money, you can still screw up and get charged fees! Our car insurance company charged the balance of our new car insurance premium this week, which was a month later than the actual due date. I had no idea that was happening, so there wasn't enough money in our checking account to cover it. I had just paid all of our other bills, so we usually don't keep much in the account between the end of the month and Dan's paycheck on the 15th. We got charged $25 for overdrafting, which I still need to call and ask them to waive. We'll see what happens. 
 
 ## **What I’m Writing**
 
