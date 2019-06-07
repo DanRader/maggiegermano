@@ -44,6 +44,10 @@ Sit down before you merge your finances and outline some ground rules. Perhaps i
 
 Chances are, there isn't someone within your relationship who loooves to manage the finances. I personally might be somewhat of a rarity in that case. But that doesn't mean that no one in the household can take this responsibility. Someone needs to be a point person for your budget and your bills, or else things will go into disarray. 
 
+In my household, I manage all of it. I created the budget based on our income and needs, I make sure the bills get paid, and 
+
+If there isn't one of you who wants to manage everything, split things up! Assign certain financial tasks to each other. Make sure that aligns with each of your strengths, so that things don't get forgotten or avoided. 
+
 ## Have Regular Money Check-Ins
 
 Just because you've assigned a point person and set up ground rules doesn't mean that you can set it and forget it. Money and relationships need constant maintenance. Set a regular time to sit down together and check in on your money. This could be weekly or monthly, whatever works better for your situation. However, it's important that you don't take longer than a month to check in.
