@@ -14,9 +14,13 @@ Happy Friday, everyone! Here's what I was up to (while mostly on vacation) this 
 
 ## **How I Earned Money This Week**
 
-* x
+* One of my ongoing client's monthly fee went through on Monday
 
-* x
+* A new client paid her monthly fee.
+
+* We had two different Airbnb guests stay with us. 
+
+* An affiliate payout for Podia was transferred to my Paypal account.
 
 ## **How I Spent Money This Week**
 
@@ -34,9 +38,11 @@ Happy Friday, everyone! Here's what I was up to (while mostly on vacation) this 
 
 ## **What I’m Writing**
 
-x
+This week, I wrote about [how to split the check ](https://www.maggiegermano.com/blog/apps-that-make-splitting-the-check-so-much-easier/)or bills more easily when you're living with, out with, or traveling with others. 
 
 ## **What I’m Up To**
+
+* I'm speaking on a panel at Women at the Wheel, a Prudential Financial Wellness Census Event on Monday, June 10th. [Farnoosh Torabi](http://farnoosh.tv/) will be on the same panel with me, so I'm super excited for the event!
 
 * The [June Money Circle meetup](https://www.eventbrite.com/e/money-circle-visualizing-your-money-goals-tickets-62153044429) is up and available for registration! At this event, we’ll be visualizing our money goals so that they’re more motivating and easier to track. See you there?
 
@@ -50,10 +56,10 @@ x
 
 ## **What I’m Reading**
 
-x
+I read the entirety of *[Big Little Lies](https://www.goodreads.com/book/show/19486412-big-little-lies)* by Liane Moriarty while at the beach this week. It was just as riveting as the HBO show, even though it ended differently. Now I can't wait to watch the second season! After finishing that book, I started *[The Power](https://www.goodreads.com/book/show/29751398-the-power?from_search=true)* by Naomi Alderman. It's fascinating so far. 
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![Be honest with your friends about your money needs..png](/uploads/Be%20honest%20with%20your%20friends%20about%20your%20money%20needs..png)
 
 That’s all from me today! Have a fantastic weekend!
