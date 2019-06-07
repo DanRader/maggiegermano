@@ -58,6 +58,6 @@ I read the entirety of *[Big Little Lies](https://www.goodreads.com/book/show/19
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![Be honest with your friends about your money needs..png](/uploads/Be%20honest%20with%20your%20friends%20about%20your%20money%20needs..png)
 
 That’s all from me today! Have a fantastic weekend!
