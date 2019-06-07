@@ -42,7 +42,7 @@ Sit down before you merge your finances and outline some ground rules. Perhaps i
 
 ## Assign a Point Person
 
-Chances are, there isn't someone within your relationship who loooves to manage the finances. I personally might be somewhat of a rarity. But that doesn't mean that no one in the household can take this responsibility. Someone needs to be a point person for your budget and your bills.
+Chances are, there isn't someone within your relationship who loooves to manage the finances. I personally might be somewhat of a rarity in that case. But that doesn't mean that no one in the household can take this responsibility. Someone needs to be a point person for your budget and your bills, or else things will go into disarray. 
 
 ## Have Regular Money Check-Ins
 
