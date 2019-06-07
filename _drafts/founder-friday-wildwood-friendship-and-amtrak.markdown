@@ -30,6 +30,8 @@ Happy Friday, everyone! Here's what I was up to (while mostly on vacation) this 
 
 * Here's some proof that no matter how particular you are with your money, you can still screw up and get charged fees! Our car insurance company charged the balance of our new car insurance premium this week, which was a month later than the actual due date. I had no idea that was happening, so there wasn't enough money in our checking account to cover it. I had just paid all of our other bills, so we usually don't keep much in the account between the end of the month and Dan's paycheck on the 15th. We got charged $25 for overdrafting, which I still need to call and ask them to waive. We'll see what happens. 
 
+![IMG_7890.JPG](/uploads/IMG_7890.JPG)
+
 ## **What I’m Writing**
 
 x
