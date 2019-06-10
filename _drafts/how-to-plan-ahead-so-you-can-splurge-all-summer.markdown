@@ -13,14 +13,14 @@ posts:
 
 xx
 
-Maintain a Fun Fund
+## Maintain a Fun Fund
 
 xx
 
-Prioritize Activities
+## Prioritize Activities
 
 xx
 
-Say No
+## Say No
 
 xx
