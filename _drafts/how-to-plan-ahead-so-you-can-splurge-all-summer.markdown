@@ -5,6 +5,7 @@ categories:
 - lifestyle
 - budget
 - savings
+image: "/uploads/raphael-biscaldi-297829-unsplash.jpg"
 posts:
 - Budgeting for the Fun Stuff
 - You Can Have Fun with Your Friends While Spending Less
