@@ -1,7 +1,6 @@
 ---
 title: How to Maintain Financial Independence After Merging Finances
 date: 2019-06-10 11:00:00 -04:00
-published: false
 categories:
 - lifestyle
 - budget
