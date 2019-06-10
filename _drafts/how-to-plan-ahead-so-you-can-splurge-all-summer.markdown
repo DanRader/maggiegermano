@@ -5,5 +5,8 @@ categories:
 - lifestyle
 - budget
 - savings
+posts:
+- Budgeting for the Fun Stuff
+- You Can Have Fun with Your Friends While Spending Less
 ---
 
