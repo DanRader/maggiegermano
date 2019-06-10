@@ -11,3 +11,16 @@ posts:
 - You Can Have Fun with Your Friends While Spending Less
 ---
 
+xx
+
+Maintain a Fun Fund
+
+xx
+
+Prioritize Activities
+
+xx
+
+Say No
+
+xx
