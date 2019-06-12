@@ -15,6 +15,8 @@ It's mid-June, which means that we're in full swing for summertime! Although sum
 
 It often seems like you either have to be a hermit during the summer to stay on budget or just blow the whole thing and go off track for months. But I don't think it has to be an either/or situation. There are ways to plan ahead in the winter and spring so that you're financially ready for summer. Do these things so you can feel like you're "splurging" all summer!
 
+> It often seems like you either have to be a hermit during the summer to stay on budget or just blow the whole thing and go off track for months. 
+
 ## Maintain a Fun Fund
 
 xx
