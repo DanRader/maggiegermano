@@ -19,7 +19,7 @@ It often seems like you either have to be a hermit during the summer to stay on 
 
 ## Maintain a Fun Fund
 
-xx
+I'm a huge proponent of the fun fund. Basically, this is a savings account that is created and funded just for fun things for you. This could be anything, but some examples are: shopping, traveling, getting your nails done, going to a bottomless brunch, etc. I most often use my fun fund for buying new clothes or taking a weekend trip. It's really great to just always know that I have money set aside for these things as they pop up. Of course, you have to continue funding this fund in order to maintain it, or else you'll just deplete it over time. Assign a monthly amount that you want to deposit into this account year-round. As long as you're not withdrawing constantly all year, you'll have plenty of money to use once summer comes. Of course, if you get to summer and don't have as much money saved as you'd like, you should increase your monthly savings amount for the next year. 
 
 ## Prioritize Activities
 
