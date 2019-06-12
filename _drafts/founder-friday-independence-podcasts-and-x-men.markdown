@@ -48,6 +48,8 @@ x
 
 * This week, I discovered a podcast called [By The Book](https://www.stitcher.com/podcast/stitcher/by-the-book) with [Jolenta Greenberg](http://www.jolentagreenberg.com/) and [Kristen Meinzer](https://www.kristenmeinzer.com/). For each episode, they read a different self help book and life by the teachings for two weeks and then report back. It's really enlightening and also very funny. I recommend it!
 
+* Our 5-month-old puppy, Bruno, graduated from obedience training this week! He had to pass several different exercises that he learned over 10 weeks, and he did! Granted, he came in 4th place out of six puppies, but hey, he still passed! There's still a lot of work to be done, but he at least knows how to sit and stay now!
+
 ## What I’m Reading
 
 I'm still reading  ***[The Power](https://www.goodreads.com/book/show/29751398-the-power?from_search=true)*** by Naomi Alderman, but I also just started *[Red, White, and Royal Blue](https://www.goodreads.com/book/show/41150487-red-white-royal-blue)* by Casey McQuiston since it's the June pick for my book club. It's fun so far and I can't wait to dig in more.
