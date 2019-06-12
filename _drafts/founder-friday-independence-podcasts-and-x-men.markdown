@@ -15,7 +15,7 @@ Happy Friday, everyone! Here’s what I was up to this week.
 
 * On Monday, I spoke on a panel at the Women at the Wheel event put on by Prudential. It was a paid event.
 
-* Two of my ongoing clients paid for their monthly fee.
+* Three of my ongoing clients paid for their monthly fee.
 
 * A new client paid for their one-time coaching session. 
 
