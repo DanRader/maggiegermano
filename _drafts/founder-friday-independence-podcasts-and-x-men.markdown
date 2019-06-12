@@ -3,6 +3,7 @@ title: Founder Friday | Independence, Podcasts, and X-Men
 date: 2019-06-14 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/felix-mooneeram-222805-unsplash.jpg"
 posts:
 - Founder Friday | Wildwood, Friendship, and Amtrak
 - Founder Friday | Virginia Beach, Death, and Groceries
