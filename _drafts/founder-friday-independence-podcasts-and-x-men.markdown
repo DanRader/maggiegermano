@@ -13,9 +13,15 @@ Happy Friday, everyone! Here’s what I was up to this week.
 
 ## How I Earned Money This Week
 
-* x
+* On Monday, I spoke on a panel at the Women at the Wheel event put on by Prudential. It was a paid event.
 
-* x
+* Two of my ongoing clients paid for their monthly fee.
+
+* A new client paid for their one-time coaching session. 
+
+* We had an Airbnb guest stay with us this entire week.
+
+* Dan's bi-weekly paycheck came in today. 
 
 ## How I Spent Money This Week
 
