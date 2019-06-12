@@ -3,6 +3,7 @@ title: Founder Friday | Independence, Podcasts, and X-Men
 date: 2019-06-14 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/felix-mooneeram-222805-unsplash.jpg"
 posts:
 - Founder Friday | Wildwood, Friendship, and Amtrak
 - Founder Friday | Virginia Beach, Death, and Groceries
@@ -15,7 +16,7 @@ Happy Friday, everyone! Here’s what I was up to this week.
 
 * On Monday, I spoke on a panel at the Women at the Wheel event put on by Prudential. It was a paid event.
 
-* Two of my ongoing clients paid for their monthly fee.
+* Three of my ongoing clients paid for their monthly fee.
 
 * A new client paid for their one-time coaching session. 
 
@@ -29,11 +30,11 @@ Happy Friday, everyone! Here’s what I was up to this week.
 
 * Since Dan and I discovered that our movie theater sells $6 tickets on Tuesdays, we have been trying to go to the movies on Tuesday evenings when we don't have other commitments. This week, we went to see X-Men: Dark Phoenix. I adore the X-Men franchise and was excited to see Sophie Turner as the lead in this film. Unfortunately, the movie was pretty bad, and I wouldn't really recommend it. 
 
-* x
+* Father's Day is this coming Sunday, so my sisters and I went in on a gift for our dad. 
 
 ## What I’m Writing
 
-x
+Money and relationships are very tricky things to manage. When you combine the two, it can get even harder. This week, I wrote about how to [maintain your independence](https://www.maggiegermano.com/blog/how-to-maintain-financial-independence-after-merging-finances/) even while you merge finances with a partner.
 
 ## What I’m Up To
 
@@ -46,6 +47,10 @@ x
 ## What I'm Excited About
 
 * This week, I discovered a podcast called [By The Book](https://www.stitcher.com/podcast/stitcher/by-the-book) with [Jolenta Greenberg](http://www.jolentagreenberg.com/) and [Kristen Meinzer](https://www.kristenmeinzer.com/). For each episode, they read a different self help book and life by the teachings for two weeks and then report back. It's really enlightening and also very funny. I recommend it!
+
+* Our 5-month-old puppy, Bruno, graduated from obedience training this week! He had to pass several different exercises that he learned over 10 weeks, and he did! Granted, he came in 4th place out of six puppies, but hey, he still passed! There's still a lot of work to be done, but he at least knows how to sit and stay now!
+
+![IMG_8047.jpg](/uploads/IMG_8047.jpg)
 
 ## What I’m Reading
 
