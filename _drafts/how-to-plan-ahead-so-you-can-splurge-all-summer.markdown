@@ -25,6 +25,10 @@ I'm a huge proponent of the fun fund. Basically, this is a savings account that 
 
 xx
 
+## Cut Back In Other Areas
+
+If you want to live it up this summer and do the things you love the most, you might have to cut back in other areas. Identify the things that you don't value and see how you can lower or eliminate your spending on them. For example, a former client of mine realized that she was spending literally thousands of dollars on Uber and Starbucks. Those are not services and products that she deeply values, and that money could be going to other priorities, like travel and getting out of debt. What are the things that you're spending on that aren't moving you towards the things you love? How can you cut back?
+
 ## Say No
 
 xx
