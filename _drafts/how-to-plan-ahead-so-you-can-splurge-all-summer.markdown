@@ -19,11 +19,15 @@ It often seems like you either have to be a hermit during the summer to stay on 
 
 ## Maintain a Fun Fund
 
-xx
+I'm a huge proponent of the fun fund. Basically, this is a savings account that is created and funded just for fun things for you. This could be anything, but some examples are: shopping, traveling, getting your nails done, going to a bottomless brunch, etc. I most often use my fun fund for buying new clothes or taking a weekend trip. It's really great to just always know that I have money set aside for these things as they pop up. Of course, you have to continue funding this fund in order to maintain it, or else you'll just deplete it over time. Assign a monthly amount that you want to deposit into this account year-round. As long as you're not withdrawing constantly all year, you'll have plenty of money to use once summer comes. Of course, if you get to summer and don't have as much money saved as you'd like, you should increase your monthly savings amount for the next year. 
 
 ## Prioritize Activities
 
 xx
+
+## Cut Back In Other Areas
+
+If you want to live it up this summer and do the things you love the most, you might have to cut back in other areas. Identify the things that you don't value and see how you can lower or eliminate your spending on them. For example, a former client of mine realized that she was spending literally thousands of dollars on Uber and Starbucks. Those are not services and products that she deeply values, and that money could be going to other priorities, like travel and getting out of debt. What are the things that you're spending on that aren't moving you towards the things you love? How can you cut back?
 
 ## Say No
 
