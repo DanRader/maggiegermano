@@ -32,7 +32,11 @@ Happy Friday, everyone! Here’s what I was up to this week.
 
 * Father's Day is this coming Sunday, so my sisters and I went in on a gift for our dad.
 
+* My little sister's birthday was on Wednesday, so Dan and I bought her a gift from her Etsy wishlist. 
+
 * I met with my health coach in Petworth this Wednesday. I decided to drive, since it's a lot more direct than the metro right now. I paid about $4 for metered parking.
+
+* Since we got a corgi, we've been pretty tuned into the corgi meetups in the DC and Maryland area. We haven't been to one yet, but we bought a ticket for Bruno to attend a corgi pool party at the end of July. I can't wait to go and I will be sharing lots of pictures on [my](https://www.instagram.com/maggiegermano/) and [Bruno's](https://www.instagram.com/bruno.the.corg/) Instagram!
 
 ## What I’m Writing
 
