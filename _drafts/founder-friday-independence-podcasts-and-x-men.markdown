@@ -18,19 +18,21 @@ Happy Friday, everyone! Here’s what I was up to this week.
 
 * Three of my ongoing clients paid for their monthly fee.
 
-* A new client paid for their one-time coaching session. 
+* A new client paid for their one-time coaching session.
 
 * We had an Airbnb guest stay with us this entire week.
 
-* Dan's bi-weekly paycheck came in today. 
+* Dan's bi-weekly paycheck came in today.
 
 ## How I Spent Money This Week
 
 * x
 
-* Since Dan and I discovered that our movie theater sells $6 tickets on Tuesdays, we have been trying to go to the movies on Tuesday evenings when we don't have other commitments. This week, we went to see X-Men: Dark Phoenix. I adore the X-Men franchise and was excited to see Sophie Turner as the lead in this film. Unfortunately, the movie was pretty bad, and I wouldn't really recommend it. 
+* Since Dan and I discovered that our movie theater sells $6 tickets on Tuesdays, we have been trying to go to the movies on Tuesday evenings when we don't have other commitments. This week, we went to see X-Men: Dark Phoenix. I adore the X-Men franchise and was excited to see Sophie Turner as the lead in this film. Unfortunately, the movie was pretty bad, and I wouldn't really recommend it.
 
-* Father's Day is this coming Sunday, so my sisters and I went in on a gift for our dad. 
+* Father's Day is this coming Sunday, so my sisters and I went in on a gift for our dad.
+
+* I met with my health coach in Petworth this Wednesday. I decided to drive, since it's a lot more direct than the metro right now. I paid about $4 for metered parking.
 
 ## What I’m Writing
 
