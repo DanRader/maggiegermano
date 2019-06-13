@@ -40,9 +40,7 @@ Money and relationships are very tricky things to manage. When you combine the t
 
 ## What I’m Up To
 
-* x
-
-* The [June Money Circle meetup](https://www.eventbrite.com/e/money-circle-visualizing-your-money-goals-tickets-62153044429) is up and available for registration! At this event, we’ll be visualizing our money goals so that they’re more motivating and easier to track. See you there?
+* The [June Money Circle meetup](https://www.eventbrite.com/e/money-circle-visualizing-your-money-goals-tickets-62153044429) is next Wednesday, June 19th! At this event, we’ll be visualizing our money goals so that they’re more motivating and easier to track. See you there?
 
 * I’ve been hinting at starting a podcast for a while now. But in order to make sure the podcast is interesting and helpful for YOU, I want to make sure I’m answering your questions. [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSf75z5itnYO-XOLStoqY5FXwuf8YI37ye5OD21Wv7tBGAqIVQ/viewform?usp=sf_link) to submit any and all money questions that you have!
 
@@ -60,6 +58,6 @@ I'm still reading  ***[The Power](https://www.goodreads.com/book/show/29751398-t
 
 ## Money Tip to Take Into the Weekend
 
-x
+![There's no one right way to manage finances in a relationship. It's up to you and your partner.png](/uploads/There's%20no%20one%20right%20way%20to%20manage%20finances%20in%20a%20relationship.%20It's%20up%20to%20you%20and%20your%20partner.png)
 
 That’s all from me today! Have a fantastic weekend!
