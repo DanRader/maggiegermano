@@ -6,9 +6,11 @@ categories:
 - budget
 - savings
 image: "/uploads/raphael-biscaldi-297829-unsplash.jpg"
+tweet: Planning ahead can make sure you can have fun all summer.
 posts:
 - Budgeting for the Fun Stuff
 - You Can Have Fun with Your Friends While Spending Less
+- How to Stop Trying to Keep Up with "the Joneses"
 ---
 
 It's mid-June, which means that we're in full swing for summertime! Although summer is never as fun as it was when we were in school and had the summers off, it's still a time that encourages us to spend more time with friends and more time outside. It's also a time of year that inspires us to spend more money, since we're being more social and often traveling more.
