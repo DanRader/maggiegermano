@@ -1,6 +1,7 @@
 ---
 title: How to Plan Ahead So You Can “Splurge” All Summer
 date: 2019-06-17 14:00:00 -04:00
+published: false
 categories:
 - lifestyle
 - budget
@@ -23,7 +24,7 @@ I'm a huge proponent of the fun fund. Basically, this is a savings account that 
 
 ## Prioritize Activities
 
-Get clear on what the most important activities are going to be for you. Is it making sure you can get in on those weekend trips out of town? Or is it going to be jazz in the garden every Friday night? If you decide which things are must-haves, you can more easily say "no" to the things that aren't as exciting or impactful to you. 
+Get clear on what the most important activities are going to be for you. Is it making sure you can get in on those weekend trips out of town? Or is it going to be jazz in the garden every Friday night? As the summer is getting started, identify those things that you want to make sure you can always do (or plan ahead for a big weekend trip). If you decide which things are must-haves, you can more easily say "no" to the things that aren't as exciting or impactful to you.
 
 ## Be Creative
 
