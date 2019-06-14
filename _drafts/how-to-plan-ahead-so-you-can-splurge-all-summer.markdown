@@ -6,11 +6,9 @@ categories:
 - budget
 - savings
 image: "/uploads/raphael-biscaldi-297829-unsplash.jpg"
-tweet: Planning ahead can make sure you can have fun all summer.
 posts:
 - Budgeting for the Fun Stuff
 - You Can Have Fun with Your Friends While Spending Less
-- How to Stop Trying to Keep Up with "the Joneses"
 ---
 
 It's mid-June, which means that we're in full swing for summertime! Although summer is never as fun as it was when we were in school and had the summers off, it's still a time that encourages us to spend more time with friends and more time outside. It's also a time of year that inspires us to spend more money, since we're being more social and often traveling more.
@@ -25,16 +23,14 @@ I'm a huge proponent of the fun fund. Basically, this is a savings account that 
 
 ## Prioritize Activities
 
-xx
+Get clear on what the most important activities are going to be for you. Is it making sure you can get in on those weekend trips out of town? Or is it going to be jazz in the garden every Friday night? If you decide which things are must-haves, you can more easily say "no" to the things that aren't as exciting or impactful to you. 
 
 ## Be Creative
 
-Having fun during the summer doesn't just have to look like going out for drinks on a rooftop bar or going on a weekend trip to the beach. You can have a great time doing things that are more cost effective. Throw a tiki-themed happy hour on your own patio or in your apartment. Host a potluck where everyone brings their favorite summer dish. It takes a little more effort to be creative and come up with new ideas, but it can be even more fun when you aren't spending more than you can afford. 
+Having fun during the summer doesn't just have to look like going out for drinks on a rooftop bar or going on a weekend trip to the beach. You can have a great time doing things that are more cost effective. Throw a tiki-themed happy hour on your own patio or in your apartment. Host a potluck where everyone brings their favorite summer dish. It takes a little more effort to be creative and come up with new ideas, but it can be even more fun when you aren't spending more than you can afford.
 
 ## Cut Back In Other Areas
 
 If you want to live it up this summer and do the things you love the most, you might have to cut back in other areas. Identify the things that you don't value and see how you can lower or eliminate your spending on them. For example, a former client of mine realized that she was spending literally thousands of dollars on Uber and Starbucks. Those are not services and products that she deeply values, and that money could be going to other priorities, like travel and getting out of debt. What are the things that you're spending on that aren't moving you towards the things you love? How can you cut back?
 
-## Say No
-
-xx
+Have a fantastic summer! And share your summer budgeting hacks in the comments below!
