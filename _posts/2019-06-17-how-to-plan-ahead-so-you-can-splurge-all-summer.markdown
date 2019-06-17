@@ -1,12 +1,12 @@
 ---
 title: How to Plan Ahead So You Can “Splurge” All Summer
-date: 2019-06-17 14:00:00 -04:00
-published: false
+date: 2019-06-17 11:00:00 -04:00
 categories:
 - lifestyle
 - budget
 - savings
 image: "/uploads/raphael-biscaldi-297829-unsplash.jpg"
+tweet: Planning ahead can help you to have fun all summer.
 posts:
 - Budgeting for the Fun Stuff
 - You Can Have Fun with Your Friends While Spending Less
