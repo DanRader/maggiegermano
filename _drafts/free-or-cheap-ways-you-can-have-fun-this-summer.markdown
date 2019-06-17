@@ -9,38 +9,38 @@ image: "/uploads/hannah-morgan-95342-unsplash.jpg"
 
 xx
 
-Public Pool
+## Public Pool
 
 xx
 
-Picnic
+## Picnic
 
 xx
 
-Museum
+## Museum
 
 xx
 
-Live Music
+## Live Music
 
 xx
 
-Hiking
+## Hiking
 
 xx
 
-Movie Night
+## Movie Night
 
 xx
 
-Patio Time
+## Patio Time
 
 xx
 
-Local Carnival
+## Local Carnival
 
 xx
 
-State Fair
+## State Fair
 
 xx
