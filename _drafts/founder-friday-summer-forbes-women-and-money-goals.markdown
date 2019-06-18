@@ -29,7 +29,9 @@ Happy Friday, everyone! Here’s what I was up to this week.
 
 ## **What I’m Writing**
 
-x
+* This week on the blog, I wrote about how to plan ahead so that you can splurge all summer.
+
+* I also published a new [Forbes Women](https://www.forbes.com/sites/maggiegermano/2019/06/17/despite-having-less-support-women-outpace-men-in-financial-independence/#6a2061369462) piece! I talked about how women are excelling in financial independence, regardless of all the hurdles in our way.
 
 ## **What I’m Up To**
 
@@ -49,6 +51,6 @@ xx
 
 ## **Money Tip to Take Into the Weekend**
 
-xx
+![A life without love is like a year without summer.png](/uploads/A%20life%20without%20love%20is%20like%20a%20year%20without%20summer.png)
 
 That’s all from me today! Have a fantastic weekend!
