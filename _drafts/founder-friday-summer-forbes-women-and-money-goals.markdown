@@ -35,7 +35,9 @@ Happy Friday, everyone! Here’s what I was up to this week.
 
 ## **What I’m Up To**
 
-* ForbesWomen
+* Lean In DC
+
+* x
 
 * I’ve been hinting at starting a podcast for a while now. But in order to make sure the podcast is interesting and helpful for YOU, I want to make sure I’m answering your questions. [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSf75z5itnYO-XOLStoqY5FXwuf8YI37ye5OD21Wv7tBGAqIVQ/viewform?usp=sf_link) to submit any and all money questions that you have!
 
