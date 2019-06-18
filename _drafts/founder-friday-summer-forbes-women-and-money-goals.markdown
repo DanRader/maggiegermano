@@ -29,11 +29,15 @@ Happy Friday, everyone! Here’s what I was up to this week.
 
 ## **What I’m Writing**
 
-x
+* This week on the blog, I wrote about how to plan ahead so that you can splurge all summer.
+
+* I also published a new [Forbes Women](https://www.forbes.com/sites/maggiegermano/2019/06/17/despite-having-less-support-women-outpace-men-in-financial-independence/#6a2061369462) piece! I talked about how women are excelling in financial independence, regardless of all the hurdles in our way.
 
 ## **What I’m Up To**
 
-* ForbesWomen
+* Lean In DC
+
+* x
 
 * I’ve been hinting at starting a podcast for a while now. But in order to make sure the podcast is interesting and helpful for YOU, I want to make sure I’m answering your questions. [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSf75z5itnYO-XOLStoqY5FXwuf8YI37ye5OD21Wv7tBGAqIVQ/viewform?usp=sf_link) to submit any and all money questions that you have!
 
@@ -49,6 +53,6 @@ xx
 
 ## **Money Tip to Take Into the Weekend**
 
-xx
+![A life without love is like a year without summer.png](/uploads/A%20life%20without%20love%20is%20like%20a%20year%20without%20summer.png)
 
 That’s all from me today! Have a fantastic weekend!
