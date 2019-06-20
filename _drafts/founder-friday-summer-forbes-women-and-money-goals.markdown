@@ -13,9 +13,9 @@ Happy Friday, everyone! Here’s what I was up to this week.
 
 ## How I Earned Money This Week
 
-* xx
+* Two of my ongoing coaching clients paid their monthly fee.
 
-* xx
+* 
 
 * xx
 
@@ -24,6 +24,8 @@ Happy Friday, everyone! Here’s what I was up to this week.
 * xx
 
 * I was downtown for 12 hours on Wednesday for the DC Small Business Fair and then Money Circle, so we put Bruno into doggy daycare. It costs $36 a day, so we can't do it super often, but it's a relief to have somewhere to keep him when we're both busy all day. Plus, he was so excited to go there that he ran away from me as soon as we walked in the door. Bonus: he was so exhausted that he basically slept through Thursday.
+
+* This month's Money Circle gathering was about visualizing our goals, so in addition to the usual snacks, I had to buy some arts and crafts materials. Luckily, Walgreens has a shockingly good craft selection.
 
 * xx
 
