@@ -19,7 +19,9 @@ Happy Friday, everyone! Here’s what I was up to this week.
 
 ## **How I Spent Money This Week**
 
-* xx
+* On Monday, I met my friend Nina for tea and catch-up now that she's back from her honeymoon. I paid for metered parking and bought a cup of tea at Takoma Beverage Co. 
+
+* I went downtown for an in-person client session on Tuesday. We were meeting near Union Station, which is easier to drive to than use the metro from my house. I paid for parking.
 
 * I was downtown for 12 hours on Wednesday for the DC Small Business Fair and then Money Circle, so we put Bruno into doggy daycare. It costs $36 a day, so we can't do it super often, but it's a relief to have somewhere to keep him when we're both busy all day. Plus, he was so excited to go there that he ran away from me as soon as we walked in the door. Bonus: he was so exhausted that he basically slept through Thursday.
 
@@ -35,7 +37,7 @@ Happy Friday, everyone! Here’s what I was up to this week.
 
 ## **What I’m Up To**
 
-* Lean In DC
+* Next Thursday, June 27th, I'll be one of the experts at an event put on by Lean In DC. 
 
 * The July Money Circle is up! We're revisiting the idea of how to improve your credit score. You'll learn about what impacts your credit score and then what steps you need to take to improve it over time. Register today!
 
