@@ -13,19 +13,21 @@ Happy Friday, everyone! Here’s what I was up to this week.
 
 ## How I Earned Money This Week
 
-* xx
+* Two of my ongoing coaching clients paid their monthly fee.
 
-* xx
-
-* xx
+* There was a family staying in our Airbnb for the entire week.
 
 ## **How I Spent Money This Week**
 
-* xx
+* On Monday, I met my friend Nina for tea and catch-up now that she's back from her honeymoon. I paid for metered parking and bought a cup of tea at Takoma Beverage Co. 
+
+* I went downtown for an in-person client session on Tuesday. We were meeting near Union Station, which is easier to drive to than use the metro from my house. I paid for parking.
 
 * I was downtown for 12 hours on Wednesday for the DC Small Business Fair and then Money Circle, so we put Bruno into doggy daycare. It costs $36 a day, so we can't do it super often, but it's a relief to have somewhere to keep him when we're both busy all day. Plus, he was so excited to go there that he ran away from me as soon as we walked in the door. Bonus: he was so exhausted that he basically slept through Thursday.
 
-* xx
+* This month's Money Circle gathering was about visualizing our goals, so in addition to the usual snacks, I had to buy some arts and crafts materials. Luckily, Walgreens has a shockingly good craft selection.
+
+* This morning, I had breakfast with a friend at Call Your Mother. 
 
 ## **What I’m Writing**
 
@@ -35,9 +37,9 @@ Happy Friday, everyone! Here’s what I was up to this week.
 
 ## **What I’m Up To**
 
-* Lean In DC
+* Next Thursday, June 27th, I'll be one of the experts at a prosperity event put on by Lean In DC. [Sign up and join us for free!](https://www.eventbrite.com/e/lean-in-dc-presents-passport-to-prosperity-women-and-personal-finance-tickets-62186393176?fbclid=IwAR2vOVaXEtUtZ4yU9d6g3xXxlzXDGAMC14gekfF3wE9ProznQis-U7wPtEs)
 
-* The July Money Circle is up! We're revisiting the idea of how to improve your credit score. You'll learn about what impacts your credit score and then what steps you need to take to improve it over time. Register today!
+* The [July Money Circle](https://www.eventbrite.com/e/money-circle-improving-your-credit-score-tickets-63873388023) is up! We're revisiting the idea of how to improve your credit score. You'll learn about what impacts your credit score and then what steps you need to take to improve it over time. Register today!
 
 * I’ve been hinting at starting a podcast for a while now. But in order to make sure the podcast is interesting and helpful for YOU, I want to make sure I’m answering your questions. [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSf75z5itnYO-XOLStoqY5FXwuf8YI37ye5OD21Wv7tBGAqIVQ/viewform?usp=sf_link) to submit any and all money questions that you have!
 
