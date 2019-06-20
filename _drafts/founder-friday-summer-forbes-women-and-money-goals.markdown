@@ -15,9 +15,7 @@ Happy Friday, everyone! Here’s what I was up to this week.
 
 * Two of my ongoing coaching clients paid their monthly fee.
 
-* 
-
-* xx
+* There was a family staying in our Airbnb for the entire week.
 
 ## **How I Spent Money This Week**
 
