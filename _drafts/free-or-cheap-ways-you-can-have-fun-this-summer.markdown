@@ -5,6 +5,10 @@ categories:
 - lifestyle
 - budget
 image: "/uploads/hannah-morgan-95342-unsplash.jpg"
+posts:
+- How to Plan Ahead So You Can “Splurge” All Summer
+- How to Use "Sinking Funds" to Save for  Goals All Year
+- Budgeting for the Fun Stuff
 ---
 
 As I wrote last week, it's important to plan ahead all year in order to have fun during the summer. That's true of any time you'll be spending more money than usual. But it's also true that you can find ways to have fun that don't cost much or any money at all. The key is to get creative and do some extra research. Going out to eat or drink is not the only way to have fun and be social. Here are just a few inexpensive ideas that I have enjoyed myself.
