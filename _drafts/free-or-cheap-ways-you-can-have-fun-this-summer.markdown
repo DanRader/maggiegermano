@@ -41,7 +41,7 @@ xx
 
 ## Patio Time
 
-xx
+A couple weekends ago, I went to a birthday party up on the rooftop of an apartment building. 
 
 ## Local Carnival
 
