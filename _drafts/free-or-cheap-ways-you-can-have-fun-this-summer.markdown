@@ -19,7 +19,7 @@ In many places, if you're a resident of the city, you can visit public pools for
 
 ## Picnic
 
-Instead of eating at a restaurant, pack a meal and go on a picnic! Regardless of where you live, there is probably a park nearby where you can lay out a blanket 
+Instead of eating at a restaurant, pack a meal and go on a picnic! Regardless of where you live, there is probably a park nearby where you can lay out a blanket and enjoy your meal. 
 
 ## Museum
 
