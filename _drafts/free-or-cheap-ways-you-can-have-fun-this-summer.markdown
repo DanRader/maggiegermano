@@ -19,17 +19,17 @@ In many places, if you're a resident of the city, you can visit public pools for
 
 ## Picnic
 
-xx
+Instead of eating at a restaurant, pack a meal and go on a picnic! Regardless of where you live, there is probably a park nearby where you can lay out a blanket 
 
 ## Museum
 
 We are spoiled by free museums in Washington, DC. I'm still not used to paying to get into museums when I travel to other cities. But regardless, museums are a great way to stay entertained all day without having to spend too much money.
 
-Even if the museum is free, an easy way to blow your budget is by getting a meal inside the museum. The cafes can be very pricey (and not always very high quality), so plan to either bring a sandwich and some snacks, or get lunch afterwards. 
+Even if the museum is free, an easy way to blow your budget is by getting a meal inside the museum. The cafes can be very pricey (and not always very high quality), so plan to either bring a sandwich and some snacks, or get lunch afterwards.
 
 ## Live Music
 
-Going to concerts can be really expensive, especially if it's a popular artist. 
+Going to concerts can be really expensive, especially if it's a popular artist.
 
 ## Hiking
 
