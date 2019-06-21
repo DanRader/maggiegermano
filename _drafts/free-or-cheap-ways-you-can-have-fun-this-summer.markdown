@@ -29,7 +29,7 @@ Keep in mind that even if a museum is free, an easy way to blow your budget is b
 
 ## Live Music
 
-Going to concerts can be really expensive, especially if it's a popular artist. This is one of those things that I don't mind spending money on, particularly if it's my favorite artist. However, there are ways to enjoy live music without spending a pretty penny. See what kind of summer events are going on in your neighborhood. For example, in my neighborhood, there is a free concert series every Friday night until September. 
+Going to concerts can be really expensive, especially if it's a popular artist. This is one of those things that I don't mind spending money on, particularly if it's my favorite artist. However, there are ways to enjoy live music without spending a pretty penny. See what kind of summer events are going on in your neighborhood. For example, in my neighborhood, there is a free concert series every Friday night until September. Look at your town's website or any blogs that represent your area. You might get lucky and find a free concert series in your town too!
 
 ## Hiking
 
