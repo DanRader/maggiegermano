@@ -23,9 +23,9 @@ Instead of eating at a restaurant, pack a meal and go on a picnic! Regardless of
 
 ## Museum
 
-We are spoiled by free museums in Washington, DC. I'm still not used to paying to get into museums when I travel to other cities. But regardless, museums are a great way to stay entertained all day without having to spend too much money.
+We are spoiled by free museums in Washington, DC. I'm still not used to paying to get into museums when I travel to other cities. But regardless, museums are a great way to stay entertained all day without having to spend too much money. If you're in DC, you should definitely take more advantage of the Smithsonian system. Even if you've lived here for a decade (like I have), I'm sure there are plenty of museums you haven't yet seen. If you don't live in DC, see what your city has to offer! Some places, like the Chicago Institute of Art, can be pricey to get into, but you never know what other affordable options are in your city.
 
-Even if the museum is free, an easy way to blow your budget is by getting a meal inside the museum. The cafes can be very pricey (and not always very high quality), so plan to either bring a sandwich and some snacks, or get lunch afterwards.
+Keep in mind that even if a museum is free, an easy way to blow your budget is by getting a meal inside the museum. The cafes can be very pricey (and not always very high quality), so plan to either bring a sandwich and some snacks, or get lunch afterwards.
 
 ## Live Music
 
