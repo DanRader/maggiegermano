@@ -15,7 +15,7 @@ As I wrote last week, it's important to plan ahead all year in order to have fun
 
 ## Public Pool
 
-In many places, if you're a resident of the city, you can visit public pools for free. In DC, you just have to show your DC ID or a recent utility statement. When I lived in DC proper, I loved going to the public pool on summer weekends. When I lived in Eckington, my local pool was XX. The best part was that the area hadn't gotten super popular yet, so that pool was rarely crowded. When I lived over near U Street, my local pool was near Howard University. That pool was VERY crowded. The key was to get there before it opened and get in line so that you could actually get a chair by the pool. Going to the pool is a great way to stay local and still get some pool time. To make it even more fun, invite your friends! But make sure to put on sunscreen.
+In many places, if you're a resident of the city, you can visit public pools for free. In DC, you just have to show your DC ID or a recent utility statement. When I lived in DC proper, I loved going to the public pool on summer weekends. When I lived in Eckington, my local pool was at Harry Thomas Recreation Center. The best part was that the area hadn't gotten super popular yet, so that pool was rarely crowded. When I lived over near U Street, my local pool was near Howard University. That pool was VERY crowded. The key was to get there before it opened and get in line so that you could actually get a chair by the pool. Going to the pool is a great way to stay local and still get some pool time. To make it even more fun, invite your friends! But make sure to put on sunscreen.
 
 ## Picnic
 
