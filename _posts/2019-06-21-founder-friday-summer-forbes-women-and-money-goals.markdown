@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Summer, Forbes Women, and Money Goals
 date: 2019-06-21 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 image: "/uploads/sean-o-406693-unsplash-63fc6d.jpg"
@@ -21,7 +20,7 @@ Happy Friday, everyone! Here’s what I was up to this week.
 
 ## **How I Spent Money This Week**
 
-* On Monday, I met my friend Nina for tea and catch-up now that she's back from her honeymoon. I paid for metered parking and bought a cup of tea at Takoma Beverage Co. 
+* On Monday, I met my friend Nina for tea and catch-up now that she's back from her honeymoon. I paid for metered parking and bought a cup of tea at Takoma Beverage Co.
 
 * I went downtown for an in-person client session on Tuesday. We were meeting near Union Station, which is easier to drive to than use the metro from my house. I paid for parking.
 
@@ -29,7 +28,7 @@ Happy Friday, everyone! Here’s what I was up to this week.
 
 * This month's Money Circle gathering was about visualizing our goals, so in addition to the usual snacks, I had to buy some arts and crafts materials. Luckily, Walgreens has a shockingly good craft selection.
 
-* This morning, I had breakfast with a friend at Call Your Mother. 
+* This morning, I had breakfast with a friend at Call Your Mother and lunch with another friend.
 
 ## **What I’m Writing**
 
@@ -53,7 +52,7 @@ Happy Friday, everyone! Here’s what I was up to this week.
 
 ## **What I’m Reading**
 
-I'm whole heartedly reading *[Red, White, and Royal Blue](https://www.goodreads.com/book/show/41150487-red-white-royal-blue)* by Casey McQuiston. Once I finish it (likely tonight or tomorrow before book club!), I will return to *[The Power](https://www.goodreads.com/book/show/29751398-the-power)* by Naomi Alderman. 
+I'm whole heartedly reading *[Red, White, and Royal Blue](https://www.goodreads.com/book/show/41150487-red-white-royal-blue)* by Casey McQuiston. Once I finish it (likely tonight or tomorrow before book club!), I will return to *[The Power](https://www.goodreads.com/book/show/29751398-the-power)* by Naomi Alderman.
 
 ## **Money Tip to Take Into the Weekend**
 
