@@ -29,7 +29,7 @@ Even if the museum is free, an easy way to blow your budget is by getting a meal
 
 ## Live Music
 
-xx
+Going to concerts can be really expensive, especially if it's a popular artist. 
 
 ## Hiking
 
