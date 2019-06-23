@@ -50,3 +50,7 @@ xx
 ## Discount Nights
 
 My husband and I recently found out that our local Regal movie theater sells $6 movie tickets on Tuesday nights. It's only that price if you're a rewards member, but the rewards program is free! We found this out by total accident, but now we try to plan our moviegoing excursions to be on Tuesday evenings. That saves us a TON of money and then we feel more comfortable getting a snack if we want it. Do some research and find out when places near you offer discounted prices. It won't happen everywhere, but you might be surprised what you find!
+
+Now go out there and have fun this summer!
+
+*Do you have any other affordable, fun ideas? Share in the comments below!*
