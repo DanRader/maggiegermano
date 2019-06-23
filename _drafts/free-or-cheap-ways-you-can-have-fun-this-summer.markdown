@@ -43,9 +43,9 @@ xx
 
 A couple weekends ago, I went to a birthday party up on the rooftop of an apartment building. 
 
-## Local Carnival
+## Local Carnival or Festival
 
-xx
+A couple weekends ago, my town threw a "Pre-Centennial" festival downtown. The centennial for the town is next year, but they decided to throw a party this year too. There was live music, face painting, 
 
 ## Discount Nights
 
