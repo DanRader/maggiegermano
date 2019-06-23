@@ -15,25 +15,25 @@ As I wrote last week, it's important to plan ahead all year in order to have fun
 
 ## Public Pool
 
-In many places, if you're a resident of the city, you can visit public pools for free. In DC, you just have to show your DC ID or a recent utility statement. When I lived in DC proper, I loved going to the public pool on summer weekends. When I lived in Eckington, my local pool was XX. The best part was that the area hadn't gotten super popular yet, so that pool was rarely crowded. When I lived over near U Street, my local pool was near Howard University. That pool was VERY crowded. The key was to get there before it opened and get in line so that you could actually get a chair by the pool. Going to the pool is a great way to stay local and still get some pool time. To make it even more fun, invite your friends! But make sure to put on sunscreen.
+In many places, if you're a resident of the city, you can visit public pools for free. In DC, you just have to show your DC ID or a recent utility statement. When I lived in DC proper, I loved going to the public pool on summer weekends. When I lived in Eckington, my local pool was at Harry Thomas Recreation Center. The best part was that the area hadn't gotten super popular yet, so that pool was rarely crowded. When I lived over near U Street, my local pool was near Howard University. That pool was VERY crowded. The key was to get there before it opened and get in line so that you could actually get a chair by the pool. Going to the pool is a great way to stay local and still get some pool time. To make it even more fun, invite your friends! But make sure to put on sunscreen.
 
 ## Picnic
 
-xx
+Instead of eating at a restaurant, pack a meal and go on a picnic! Regardless of where you live, there is probably a park nearby where you can lay out a blanket and enjoy your meal. The benefits of this are that you can bring your favorite foods and also get some sunshine. 
 
 ## Museum
 
-We are spoiled by free museums in Washington, DC. I'm still not used to paying to get into museums when I travel to other cities. But regardless, museums are a great way to stay entertained all day without having to spend too much money.
+We are spoiled by free museums in Washington, DC. I'm still not used to paying to get into museums when I travel to other cities. But regardless, museums are a great way to stay entertained all day without having to spend too much money. If you're in DC, you should definitely take more advantage of the Smithsonian system. Even if you've lived here for a decade (like I have), I'm sure there are plenty of museums you haven't yet seen. If you don't live in DC, see what your city has to offer! Some places, like the Chicago Institute of Art, can be pricey to get into, but you never know what other affordable options are in your city.
 
-Even if the museum is free, an easy way to blow your budget is by getting a meal inside the museum. The cafes can be very pricey (and not always very high quality), so plan to either bring a sandwich and some snacks, or get lunch afterwards. 
+Keep in mind that even if a museum is free, an easy way to blow your budget is by getting a meal inside the museum. The cafes can be very pricey (and not always very high quality), so plan to either bring a sandwich and some snacks, or get lunch afterwards.
 
 ## Live Music
 
-Going to concerts can be really expensive, especially if it's a popular artist. 
+Going to concerts can be really expensive, especially if it's a popular artist. This is one of those things that I don't mind spending money on, particularly if it's my favorite artist. However, there are ways to enjoy live music without spending a pretty penny. See what kind of summer events are going on in your neighborhood. For example, in my neighborhood, there is a free concert series every Friday night until September. Look at your town's website or any blogs that represent your area. You might get lucky and find a free concert series in your town too!
 
 ## Hiking
 
-xx
+This is one thing that I need to do way more often. And it's not very accessible if you don't have a car. But hiking is a great way to enjoy the summer weather for free! If you live in the DC area, there are tons of hiking opportunities to explore. 
 
 ## Movie Night
 
@@ -41,7 +41,7 @@ xx
 
 ## Patio Time
 
-xx
+A couple weekends ago, I went to a birthday party up on the rooftop of an apartment building. 
 
 ## Local Carnival
 
@@ -50,3 +50,7 @@ xx
 ## Discount Nights
 
 My husband and I recently found out that our local Regal movie theater sells $6 movie tickets on Tuesday nights. It's only that price if you're a rewards member, but the rewards program is free! We found this out by total accident, but now we try to plan our moviegoing excursions to be on Tuesday evenings. That saves us a TON of money and then we feel more comfortable getting a snack if we want it. Do some research and find out when places near you offer discounted prices. It won't happen everywhere, but you might be surprised what you find!
+
+Now go out there and have fun this summer!
+
+*Do you have any other affordable, fun ideas? Share in the comments below!*
