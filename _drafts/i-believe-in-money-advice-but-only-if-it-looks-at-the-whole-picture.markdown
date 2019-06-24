@@ -12,6 +12,8 @@ posts:
 
 Recently, there have been several different articles written that criticize the personal finance industry.
 
+A lot of the other folks I know in the personal finance space are doing things the right way, but for those who aren't, here's what I recommend: 
+
 ## Be Honest About Your Own Privilege
 
 I don't think privilege is inherently bad. You aren't automatically a bad person if you were born into wealth or other privileged circumstances. The important thing is how you use your privilege for good. It's also imperative that you
