@@ -24,6 +24,8 @@ xx
 
 # Take Intersectionality Into Account
 
+Every individual's financial situation is going to be at least somewhat dependent upon the intersectionality of their gender, race, sexual orientation, gender identity, religion, etc. The American Constitution might say that all men are created equal, but we are certainly not all treated that way. If you are white, straight, male, educated, and/or upper class, your circumstances are going to be MUCH different than someone who is a person of color 
+
 ## Don't Promise The World
 
 Recently, Suze Orman said that buying coffee everyday is like throwing millions of dollars down the drain. I think that's the type of outrageous comment that turns a lot of young people off of financial advice.
