@@ -35,7 +35,7 @@ Going to concerts can be really expensive, especially if it's a popular artist. 
 
 ## Hiking
 
-This is one thing that I need to do way more often. And it's not very accessible if you don't have a car. But hiking is a great way to enjoy the summer weather for free! If you live in the DC area, there are tons of hiking opportunities to explore.
+This is one thing that I need to do way more often. And it's not very accessible if you don't have a car. But hiking is a great way to enjoy the summer weather for free! If you live in the DC area, there are tons of hiking opportunities to explore. Plus, if you don't have a car, there are lots of short-term car rental companies around now that you can use if you're just going somewhere for a few hours.
 
 ## Bike Ride
 
