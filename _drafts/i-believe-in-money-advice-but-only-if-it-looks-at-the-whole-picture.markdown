@@ -48,9 +48,9 @@ Like it or not, individual choices and actions are not going to change the syste
 
 * **Universal health care.** The Affordable Care Act made our healthcare system better than it was, but it didn't finish the job. 
 
-* Paid family leave.
+* **Paid family leave.** x
 
-* Universal child care. x
+* **Universal childcare.** Paying for childcare is still painful or impossible for many people and families. There are plenty of people out there who drop out of the workforce and collect welfare because all of their income would go to childcare anyway. 
 
 * **A living wage.** The minimum wage in the United States is pitiful. It's not enough for most people to live off of. And it's certainly not enough for people to live off of *and* save money for their futures. Mandating a living wage will lift countless people out of poverty. It will improve physical and mental health. It will help families. It will help communities. It's imperative for 
 
