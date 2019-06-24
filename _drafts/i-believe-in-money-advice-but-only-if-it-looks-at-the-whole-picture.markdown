@@ -7,4 +7,17 @@ posts:
 - 5 Signs You Might Need a Money Coach
 ---
 
-Recently, there have been several different articles written that criticize the personal finance industry. 
+Recently, there have been several different articles written that criticize the personal finance industry.
+
+## Be Honest About Your Own Privilege
+
+I don't think privilege is inherently bad. You aren't automatically a bad person if you were born into wealth or other privileged circumstances. The important thing is how you use your privilege for good. It's also imperative that you 
+
+## Don't Oversimplify
+
+xx
+
+# Take Intersectionality Into Account
+
+xx
+
