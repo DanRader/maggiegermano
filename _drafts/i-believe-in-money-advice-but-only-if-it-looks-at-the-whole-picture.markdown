@@ -28,7 +28,7 @@ That's a lot of information about my life, but it shows that I certainly had a l
 
 ## Don't Oversimplify
 
-I'm not a fan of one-size-fits-all financial advice, because everyone is different.
+Recently, Suze Orman said that buying coffee everyday is like "peeing $1 million down the drain". I think that's the type of outrageous comment that turns a lot of young people off of financial advice. First of all, I doubt anyone is buying $1 million worth of coffee in their lifetime. Additionally, coffee is not the reason that young people are struggling. Neither is avocado toast. 
 
 ## Don't Tell People To Give Up Joy
 
@@ -40,7 +40,7 @@ Every individual's financial situation is going to be at least somewhat dependen
 
 ## Don't Promise The World
 
-Recently, Suze Orman said that buying coffee everyday is like "peeing $1 million down the drain". I think that's the type of outrageous comment that turns a lot of young people off of financial advice. First of all, I doubt anyone is buying $1 million worth of coffee in their lifetime.
+x
 
 ## Fight For Systemic Change
 
