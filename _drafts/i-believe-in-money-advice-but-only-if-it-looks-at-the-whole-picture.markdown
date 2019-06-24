@@ -46,13 +46,13 @@ x
 
 Like it or not, individual choices and actions are not going to change the system as a whole. Of course, our behaviors can change our own lives to an extent and encourage our loved ones to do the same, but we will still be affected by systemic problems. In order to make real, lasting change in our country's quality of life, we need to change our systems. As a financial coach, and as a human, I speak out for the necessary changes that must take place. I encourage others to do the same. Just a few examples of the changes that need to be made are:
 
-* Universal health care.
+* **Universal health care.** The Affordable Care Act made our healthcare system better than it was, but it didn't finish the job. 
 
 * Paid family leave.
 
-* Universal child care.
+* Universal child care. x
 
-* A living wage.
+* **A living wage.** The minimum wage in the United States is pitiful. It's not enough for most people to live off of. And it's certainly not enough for people to live off of *and* save money for their futures. Mandating a living wage will lift countless people out of poverty. It will improve physical and mental health. It will help families. It will help communities. It's imperative for 
 
 * x
 
