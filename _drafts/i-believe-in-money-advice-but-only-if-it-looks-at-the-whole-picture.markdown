@@ -56,4 +56,4 @@ Like it or not, individual choices and actions are not going to change the syste
 
 * x
 
-To all the readers out there, don't completely give up on personal finance advice. Find the people out there who include the full picture when they talk about money.
+To all the readers out there, don't completely give up on personal finance advice. Find the people out there who include the full picture when they talk about money. Every individual expert is not going to be right for all people. Find the ones who speak to and respect your experience.
