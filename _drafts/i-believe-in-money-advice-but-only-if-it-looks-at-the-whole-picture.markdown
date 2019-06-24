@@ -34,7 +34,7 @@ Every individual's financial situation is going to be at least somewhat dependen
 
 ## Don't Promise The World
 
-Recently, Suze Orman said that buying coffee everyday is like throwing millions of dollars down the drain. I think that's the type of outrageous comment that turns a lot of young people off of financial advice.
+Recently, Suze Orman said that buying coffee everyday is like "peeing $1 million down the drain". I think that's the type of outrageous comment that turns a lot of young people off of financial advice. First of all, I doubt anyone is buying $1 million worth of coffee in their lifetime. 
 
 ## Fight For Systemic Change
 
