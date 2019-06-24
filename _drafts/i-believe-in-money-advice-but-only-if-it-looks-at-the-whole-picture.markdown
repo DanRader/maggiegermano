@@ -7,3 +7,4 @@ posts:
 - 5 Signs You Might Need a Money Coach
 ---
 
+Recently, there have been several different articles written that criticize the personal finance industry. 
