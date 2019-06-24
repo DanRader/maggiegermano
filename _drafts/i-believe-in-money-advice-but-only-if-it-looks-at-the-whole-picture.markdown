@@ -11,7 +11,7 @@ Recently, there have been several different articles written that criticize the 
 
 ## Be Honest About Your Own Privilege
 
-I don't think privilege is inherently bad. You aren't automatically a bad person if you were born into wealth or other privileged circumstances. The important thing is how you use your privilege for good. It's also imperative that you 
+I don't think privilege is inherently bad. You aren't automatically a bad person if you were born into wealth or other privileged circumstances. The important thing is how you use your privilege for good. It's also imperative that you
 
 ## Don't Oversimplify
 
@@ -21,3 +21,6 @@ xx
 
 xx
 
+## Don't Promise The World
+
+Recently, Suze Orman said that buying coffee everyday is like throwing millions of dollars down the drain. I think that's the type of outrageous comment that turns a lot of young people off of financial advice. 
