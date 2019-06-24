@@ -1,6 +1,6 @@
 ---
 title: 10 Free or Cheap Ways You Can Have Fun This Summer
-date: 2019-06-24 00:00:00 -04:00
+date: 2019-06-24 11:00:00 -04:00
 categories:
 - lifestyle
 - budget
@@ -51,7 +51,7 @@ A couple weekends ago, I went to a birthday party up on the rooftop of an apartm
 
 ## Local Carnival or Festival
 
-A couple weekends ago, my town threw a "Pre-Centennial" festival downtown. The centennial for the town is next year, but they decided to throw a party this year too. There was live music, face painting,
+A couple weekends ago, my town threw a "Pre-Centennial" festival downtown. The centennial for the town is next year, but they decided to throw a party this year too. There was live music, face painting, food trucks, and local vendors. The festival itself was free, so we only had to pay for food and drinks from the food trucks and vendors. Of course, that can end up costing a lot, but if you eat ahead of time, you don't have to worry about that. Find out what kinds of fun festivals or carnivals your town or city puts on!
 
 ## Discount Nights
 
