@@ -48,4 +48,6 @@ Like it or not, individual choices and actions are not going to change the syste
 
 * A living wage.
 
-* 
+* x
+
+To all the readers out there, don't completely give up on personal finance advice. Find the people out there who include the full picture when they talk about money. 
