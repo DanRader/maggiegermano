@@ -5,6 +5,8 @@ categories:
 - lifestyle
 - budget
 image: "/uploads/hannah-morgan-95342-unsplash.jpg"
+tweet: Having fun this summer doesn't have to break the bank. Here are some affordable
+  ideas!
 posts:
 - How to Plan Ahead So You Can “Splurge” All Summer
 - How to Use "Sinking Funds" to Save for  Goals All Year
