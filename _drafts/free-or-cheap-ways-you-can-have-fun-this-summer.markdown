@@ -21,7 +21,7 @@ In many places, if you're a resident of the city, you can visit public pools for
 
 ## Picnic
 
-Instead of eating at a restaurant, pack a meal and go on a picnic! Regardless of where you live, there is probably a park nearby where you can lay out a blanket and enjoy your meal. The benefits of this are that you can bring your favorite foods and also get some sunshine. 
+Instead of eating at a restaurant, pack a meal and go on a picnic! Regardless of where you live, there is probably a park nearby where you can lay out a blanket and enjoy your meal. The benefits of this are that you can bring your favorite foods and also get some sunshine.
 
 ## Museum
 
@@ -35,19 +35,23 @@ Going to concerts can be really expensive, especially if it's a popular artist. 
 
 ## Hiking
 
-This is one thing that I need to do way more often. And it's not very accessible if you don't have a car. But hiking is a great way to enjoy the summer weather for free! If you live in the DC area, there are tons of hiking opportunities to explore. 
+This is one thing that I need to do way more often. And it's not very accessible if you don't have a car. But hiking is a great way to enjoy the summer weather for free! If you live in the DC area, there are tons of hiking opportunities to explore.
+
+## Bike Ride
+
+My husband bought me a bicycle last summer so that we could finally do one of his favorite activities together.
 
 ## Movie Night
 
-xx
+There are a couple approaches to this idea. Either find local movie nights where a movie is played outside and you can watch from the comfort of a blanket on the grass. There are several different options for this in the DC area, but look around in your town to see if there is a summer film series. Alternatively, you can have friends over and host a movie night at your home. There are endless movies on Netflix, Hulu, Amazon Prime, and HBO. You don't even have to rent one! Make some popcorn and brownies and snuggle in for the movie. 
 
 ## Patio Time
 
-A couple weekends ago, I went to a birthday party up on the rooftop of an apartment building. 
+A couple weekends ago, I went to a birthday party up on the rooftop of an apartment building.
 
 ## Local Carnival or Festival
 
-A couple weekends ago, my town threw a "Pre-Centennial" festival downtown. The centennial for the town is next year, but they decided to throw a party this year too. There was live music, face painting, 
+A couple weekends ago, my town threw a "Pre-Centennial" festival downtown. The centennial for the town is next year, but they decided to throw a party this year too. There was live music, face painting,
 
 ## Discount Nights
 
