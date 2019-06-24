@@ -12,9 +12,9 @@ posts:
 
 Recently, there have been [several](https://www.gq.com/story/suze-orman-personal-finance?fbclid=IwAR05723xbP5C46rs-WMK_1KpQvJjT-WpWYWtFwz6uSqmpW6qRyIfYGsE-Yo) [different](https://www.vice.com/en_us/article/ev3dde/most-money-advice-is-worthless) [articles](https://www.fastcompany.com/90343899/sallie-krawcheck-saving-money-latte-advice) written that criticize the personal finance industry. And for good reason! A lot of the traditional and prevailing financial advice is steeped in privilege and often glosses over the systemic problems that keep people in poverty. This type of blindness can make people feel, at best, overlooked, and at worst, completely dismissed.
 
-As a financial coach myself, I'm obviously biased in thinking that personal finance advice is important and helpful. I know that most Americans are not given the financial literacy that they need to properly manage their money day-to-day and plan for their futures. I'm passionate about helping women get the tools to take control of their finances. However, I know that it's often not that simple. Many people do the best they can and are held back by other obstacles. 
+As a financial coach myself, I'm obviously biased in thinking that personal finance advice is important and helpful for many. I know that most Americans are not given the financial literacy that they need to properly manage their money day-to-day and plan for their futures. I'm passionate about helping women get the tools to take control of their finances. However, I also know that it's often not that simple. Many people do the best they can and are held back by other obstacles. That's why it's so important to look at the big picture when talking about money and giving financial advice. 
 
-A lot of the other folks I know in the personal finance space are doing things the right way, but for those who aren't, here's what I recommend:
+A lot of the other folks I know in the personal finance space are doing things the right way, but for those who aren't, here's what I recommend and what I try to do within my own business:
 
 ## Be Honest About Your Own Privilege
 
@@ -26,7 +26,7 @@ I'm not a fan of one-size-fits-all financial advice, because everyone is differe
 
 ## Don't Tell People To Give Up Joy
 
-One of the easiest ways to make people tune out is to tell them to sacrifice everything that they love. 
+One of the easiest ways to make people tune out is to tell them to sacrifice everything that they love.
 
 # Take Intersectionality Into Account
 
@@ -34,7 +34,7 @@ Every individual's financial situation is going to be at least somewhat dependen
 
 ## Don't Promise The World
 
-Recently, Suze Orman said that buying coffee everyday is like "peeing $1 million down the drain". I think that's the type of outrageous comment that turns a lot of young people off of financial advice. First of all, I doubt anyone is buying $1 million worth of coffee in their lifetime. 
+Recently, Suze Orman said that buying coffee everyday is like "peeing $1 million down the drain". I think that's the type of outrageous comment that turns a lot of young people off of financial advice. First of all, I doubt anyone is buying $1 million worth of coffee in their lifetime.
 
 ## Fight For Systemic Change
 
@@ -50,4 +50,4 @@ Like it or not, individual choices and actions are not going to change the syste
 
 * x
 
-To all the readers out there, don't completely give up on personal finance advice. Find the people out there who include the full picture when they talk about money. 
+To all the readers out there, don't completely give up on personal finance advice. Find the people out there who include the full picture when they talk about money.
