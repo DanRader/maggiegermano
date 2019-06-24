@@ -39,7 +39,7 @@ This is one thing that I need to do way more often. And it's not very accessible
 
 ## Bike Ride
 
-My husband bought me a bicycle last summer so that we could finally do one of his favorite activities together.
+My husband bought me a bicycle last summer so that we could finally do one of his favorite activities together. The bike was a little pricey, so I definitely wouldn't recommend that as a budget-friendly idea (unless, of course, you save up for it over time!). However, if you already own a bike, or if you live near a bike rental (like Capital Bikeshare or Citi Bike), it's easy and affordable to go on a bike ride. If you don't like riding on busy streets, find a local trail or park. If you're in the DC area, there are tons of bike trails all over. If you don't want to travel too far, go to Rock Creek Park!
 
 ## Movie Night
 
