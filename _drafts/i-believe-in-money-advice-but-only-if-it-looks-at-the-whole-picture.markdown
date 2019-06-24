@@ -10,7 +10,7 @@ posts:
 - Fight White Supremacy with Your Wallet and Your Voice
 ---
 
-Recently, there have been [several](https://www.gq.com/story/suze-orman-personal-finance?fbclid=IwAR05723xbP5C46rs-WMK_1KpQvJjT-WpWYWtFwz6uSqmpW6qRyIfYGsE-Yo) [different](https://www.vice.com/en_us/article/ev3dde/most-money-advice-is-worthless) [articles](https://www.fastcompany.com/90343899/sallie-krawcheck-saving-money-latte-advice) written that criticize the personal finance industry. And for good reason! A lot of the traditional and prevailing financial advice is steeped in privilege and often 
+Recently, there have been [several](https://www.gq.com/story/suze-orman-personal-finance?fbclid=IwAR05723xbP5C46rs-WMK_1KpQvJjT-WpWYWtFwz6uSqmpW6qRyIfYGsE-Yo) [different](https://www.vice.com/en_us/article/ev3dde/most-money-advice-is-worthless) [articles](https://www.fastcompany.com/90343899/sallie-krawcheck-saving-money-latte-advice) written that criticize the personal finance industry. And for good reason! A lot of the traditional and prevailing financial advice is steeped in privilege and often glosses over the systemic problems that keep people in poverty. 
 
 A lot of the other folks I know in the personal finance space are doing things the right way, but for those who aren't, here's what I recommend:
 
