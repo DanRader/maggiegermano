@@ -47,7 +47,7 @@ There are a couple approaches to this idea. Either find local movie nights where
 
 ## Patio Time
 
-A couple weekends ago, I went to a birthday party up on the rooftop of an apartment building. The provided lots of delicious snacks and drinks, so I know that they probably spent quite a bit on that shindig. However, you can host a potluck on your patio, porch, or rooftop to save money while still having fun. 
+A couple weekends ago, I went to a birthday party up on the rooftop of an apartment building. It was a beautiful night to be outside, and the view of the Washington Monument was beautiful. The hosts provided lots of delicious snacks and drinks, so I know that they probably spent quite a bit on that shindig. However, you can host a potluck on your patio, porch, or rooftop to save money while still having fun. 
 
 ## Local Carnival or Festival
 
