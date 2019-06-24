@@ -10,9 +10,9 @@ posts:
 - Fight White Supremacy with Your Wallet and Your Voice
 ---
 
-Recently, there have been several different articles written that criticize the personal finance industry.
+Recently, there have been [several](https://www.gq.com/story/suze-orman-personal-finance?fbclid=IwAR05723xbP5C46rs-WMK_1KpQvJjT-WpWYWtFwz6uSqmpW6qRyIfYGsE-Yo) [different](https://www.vice.com/en_us/article/ev3dde/most-money-advice-is-worthless) articles written that criticize the personal finance industry.
 
-A lot of the other folks I know in the personal finance space are doing things the right way, but for those who aren't, here's what I recommend: 
+A lot of the other folks I know in the personal finance space are doing things the right way, but for those who aren't, here's what I recommend:
 
 ## Be Honest About Your Own Privilege
 
@@ -24,8 +24,10 @@ xx
 
 # Take Intersectionality Into Account
 
-xx
-
 ## Don't Promise The World
 
-Recently, Suze Orman said that buying coffee everyday is like throwing millions of dollars down the drain. I think that's the type of outrageous comment that turns a lot of young people off of financial advice. 
+Recently, Suze Orman said that buying coffee everyday is like throwing millions of dollars down the drain. I think that's the type of outrageous comment that turns a lot of young people off of financial advice.
+
+## Fight For Systemic Change
+
+x
