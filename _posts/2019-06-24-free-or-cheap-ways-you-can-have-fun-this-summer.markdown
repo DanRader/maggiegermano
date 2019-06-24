@@ -1,10 +1,12 @@
 ---
 title: 10 Free or Cheap Ways You Can Have Fun This Summer
-date: 2019-06-24 00:00:00 -04:00
+date: 2019-06-24 11:00:00 -04:00
 categories:
 - lifestyle
 - budget
 image: "/uploads/hannah-morgan-95342-unsplash.jpg"
+tweet: Having fun this summer doesn't have to break the bank. Here are some affordable
+  ideas!
 posts:
 - How to Plan Ahead So You Can “Splurge” All Summer
 - How to Use "Sinking Funds" to Save for  Goals All Year
@@ -19,7 +21,7 @@ In many places, if you're a resident of the city, you can visit public pools for
 
 ## Picnic
 
-Instead of eating at a restaurant, pack a meal and go on a picnic! Regardless of where you live, there is probably a park nearby where you can lay out a blanket and enjoy your meal. The benefits of this are that you can bring your favorite foods and also get some sunshine. 
+Instead of eating at a restaurant, pack a meal and go on a picnic! Regardless of where you live, there is probably a park nearby where you can lay out a blanket and enjoy your meal. The benefits of this are that you can bring your favorite foods and also get some sunshine.
 
 ## Museum
 
@@ -33,19 +35,23 @@ Going to concerts can be really expensive, especially if it's a popular artist. 
 
 ## Hiking
 
-This is one thing that I need to do way more often. And it's not very accessible if you don't have a car. But hiking is a great way to enjoy the summer weather for free! If you live in the DC area, there are tons of hiking opportunities to explore. 
+This is one thing that I need to do way more often. And it's not very accessible if you don't have a car. But hiking is a great way to enjoy the summer weather for free! If you live in the DC area, there are tons of hiking opportunities to explore. Plus, if you don't have a car, there are lots of short-term car rental companies around now that you can use if you're just going somewhere for a few hours.
+
+## Bike Ride
+
+My husband bought me a bicycle last summer so that we could finally do one of his favorite activities together. The bike was a little pricey, so I definitely wouldn't recommend that as a budget-friendly idea (unless, of course, you save up for it over time!). However, if you already own a bike, or if you live near a bike rental (like Capital Bikeshare or Citi Bike), it's easy and affordable to go on a bike ride. If you don't like riding on busy streets, find a local trail or park. If you're in the DC area, there are tons of bike trails all over. If you don't want to travel too far, go to Rock Creek Park!
 
 ## Movie Night
 
-xx
+There are a couple approaches to this idea. Either find local movie nights where a movie is played outside and you can watch from the comfort of a blanket on the grass. There are several different options for this in the DC area, but look around in your town to see if there is a summer film series. Alternatively, you can have friends over and host a movie night at your home. There are endless movies on Netflix, Hulu, Amazon Prime, and HBO. You don't even have to rent one! Make some popcorn and brownies and snuggle in for the movie. 
 
 ## Patio Time
 
-A couple weekends ago, I went to a birthday party up on the rooftop of an apartment building. 
+A couple weekends ago, I went to a birthday party up on the rooftop of an apartment building. It was a beautiful night to be outside, and the view of the Washington Monument was beautiful. The hosts provided lots of delicious snacks and drinks, so I know that they probably spent quite a bit on that shindig. However, you can host a potluck on your patio, porch, or rooftop to save money while still having fun. 
 
-## Local Carnival
+## Local Carnival or Festival
 
-xx
+A couple weekends ago, my town threw a "Pre-Centennial" festival downtown. The centennial for the town is next year, but they decided to throw a party this year too. There was live music, face painting, food trucks, and local vendors. The festival itself was free, so we only had to pay for food and drinks from the food trucks and vendors. Of course, that can end up costing a lot, but if you eat ahead of time, you don't have to worry about that. Find out what kinds of fun festivals or carnivals your town or city puts on!
 
 ## Discount Nights
 
