@@ -15,6 +15,8 @@ posts:
 
 As I wrote last week, it's important to plan ahead all year in order to have fun during the summer. That's true of any time you'll be spending more money than usual. But it's also true that you can find ways to have fun that don't cost much or any money at all. The key is to get creative and do some extra research. Going out to eat or drink is not the only way to have fun and be social. Here are just a few inexpensive ideas that I have enjoyed myself.
 
+> But it's also true that you can find ways to have fun that don't cost much or any money at all.
+
 ## Public Pool
 
 In many places, if you're a resident of the city, you can visit public pools for free. In DC, you just have to show your DC ID or a recent utility statement. When I lived in DC proper, I loved going to the public pool on summer weekends. When I lived in Eckington, my local pool was at Harry Thomas Recreation Center. The best part was that the area hadn't gotten super popular yet, so that pool was rarely crowded. When I lived over near U Street, my local pool was near Howard University. That pool was VERY crowded. The key was to get there before it opened and get in line so that you could actually get a chair by the pool. Going to the pool is a great way to stay local and still get some pool time. To make it even more fun, invite your friends! But make sure to put on sunscreen.
@@ -43,11 +45,11 @@ My husband bought me a bicycle last summer so that we could finally do one of hi
 
 ## Movie Night
 
-There are a couple approaches to this idea. Either find local movie nights where a movie is played outside and you can watch from the comfort of a blanket on the grass. There are several different options for this in the DC area, but look around in your town to see if there is a summer film series. Alternatively, you can have friends over and host a movie night at your home. There are endless movies on Netflix, Hulu, Amazon Prime, and HBO. You don't even have to rent one! Make some popcorn and brownies and snuggle in for the movie. 
+There are a couple approaches to this idea. Either find local movie nights where a movie is played outside and you can watch from the comfort of a blanket on the grass. There are several different options for this in the DC area, but look around in your town to see if there is a summer film series. Alternatively, you can have friends over and host a movie night at your home. There are endless movies on Netflix, Hulu, Amazon Prime, and HBO. You don't even have to rent one! Make some popcorn and brownies and snuggle in for the movie.
 
 ## Patio Time
 
-A couple weekends ago, I went to a birthday party up on the rooftop of an apartment building. It was a beautiful night to be outside, and the view of the Washington Monument was beautiful. The hosts provided lots of delicious snacks and drinks, so I know that they probably spent quite a bit on that shindig. However, you can host a potluck on your patio, porch, or rooftop to save money while still having fun. 
+A couple weekends ago, I went to a birthday party up on the rooftop of an apartment building. It was a beautiful night to be outside, and the view of the Washington Monument was beautiful. The hosts provided lots of delicious snacks and drinks, so I know that they probably spent quite a bit on that shindig. However, you can host a potluck on your patio, porch, or rooftop to save money while still having fun.
 
 ## Local Carnival or Festival
 
