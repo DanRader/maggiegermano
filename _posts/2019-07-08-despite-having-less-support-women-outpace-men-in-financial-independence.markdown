@@ -1,9 +1,15 @@
 ---
 title: Despite Having Less Support, Women Outpace Men In Financial Independence
 date: 2019-07-08 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 image: "/uploads/omar-lopez-T6zu4jFhVwg-unsplash.jpg"
+tweet: Despite Having Less Support, Women Outpace Men In Financial Independence
+posts:
+- Women Are Working More Than Ever, But They Still Take On Most Household Responsibilities
+- How Money Stress Affects Women
+- Why I Became a Financial Coach for Women
 ---
 
 In April, Merrill Lynch and Age Wave teamed up again and released the report, "[Early Adulthood: The Pursuit of Financial Independence](https://www.ml.com/early-adulthood-age-wave.html)." The findings show fascinating insights into the financial lives of millennials as they grow into early adulthood. Although the report did not specifically focus on women as a group, it did pick up on some interesting findings about millennial women. Specifically, women are outpacing men in financial independence, even with all of the hurdles they have to jump.
