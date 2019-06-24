@@ -28,7 +28,7 @@ That's a lot of information about my life, but it shows that I certainly had a l
 
 ## Don't Oversimplify
 
-I'm not a fan of one-size-fits-all financial advice, because everyone is different.
+Recently, Suze Orman said that buying coffee everyday is like "peeing $1 million down the drain". I think that's the type of outrageous comment that turns a lot of young people off of financial advice. First of all, I doubt anyone is buying $1 million worth of coffee in their lifetime. Additionally, coffee is not the reason that young people are struggling. Neither is avocado toast. These are just a few things that I think have more of an impact on financial security: graduating into the worst recession ever, staggering student loan debt, rising cost of living, and stagnating wages. But these are issues that are not dependent upon the action of the individual, so it's not as sexy or controversial to point them out. 
 
 ## Don't Tell People To Give Up Joy
 
@@ -40,7 +40,7 @@ Every individual's financial situation is going to be at least somewhat dependen
 
 ## Don't Promise The World
 
-Recently, Suze Orman said that buying coffee everyday is like "peeing $1 million down the drain". I think that's the type of outrageous comment that turns a lot of young people off of financial advice. First of all, I doubt anyone is buying $1 million worth of coffee in their lifetime.
+x
 
 ## Fight For Systemic Change
 
@@ -56,4 +56,4 @@ Like it or not, individual choices and actions are not going to change the syste
 
 * x
 
-To all the readers out there, don't completely give up on personal finance advice. Find the people out there who include the full picture when they talk about money.
+To all the readers out there, don't completely give up on personal finance advice. Find the people out there who include the full picture when they talk about money. Every individual expert is not going to be right for all people. Find the ones who speak to and respect your experience.
