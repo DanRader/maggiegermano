@@ -18,7 +18,13 @@ A lot of the other folks I know in the personal finance space are doing things t
 
 ## Be Honest About Your Own Privilege
 
-I don't think privilege is inherently bad. You aren't automatically a bad person if you were born into wealth or other privileged circumstances. The important thing is how you use your privilege for good. It's also imperative that you
+I don't think privilege is inherently bad. You aren't automatically a bad person if you were born into wealth or other privileged circumstances. The important thing is how you use your privilege for good. It's also imperative that you are honest with yourself and with others about your privilege and how that has influenced your personal circumstances.
+
+For example, I was born into a white, middle-class family and both of my parents had college educations. My dad didn't make a ton of money while I was growing up, but he made enough so that my mom could be a stay-at-home mom for much of my childhood. Since my parents were around a lot of the time, I had the support that I needed to thrive and do well in school. I was able to apply for and attend a state college. My parents didn't have the money to put me through school themselves, but I took out loans for half of my education and my parents took out loans for the other half. My parents were able to pay back their half of my loan debt, while I paid back my half. I had a home to return to after I graduated college and tried to figure out what I wanted to do with my life. When I moved to DC, I had to work two jobs to make enough money to live in the city, but I always knew that I could rely on  my parents if I really needed to. In fact, my dad drove me down to DC and bought me a bed for my shared studio apartment. 
+
+Fast forward 10 years and I still live in the DC area. I own a home (which I was able to buy due to an injury settlement) and run my own business. I'm able to run my business full-time because my husband (who was also born into a white, educated, middle-class family) has a great job that pays enough to support our life together. 
+
+That's a lot of information about my life, but it shows that I certainly had a leg up from the beginning of my life. Things weren't perfect, but I was given opportunities that many other people would not have had. Admitting these things doesn't diminish my accomplishments or downplay the skills that I have. It just shows that I'm aware of how a lot of my circumstances are due to luck. If I pretended like none of this was true, I would not be honest with my readers or clients. Don't glass over your privilege, because it can make your followers and customers feel like they are failing when they can't seem to catch up to where you are. 
 
 ## Don't Oversimplify
 
