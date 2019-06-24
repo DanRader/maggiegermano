@@ -10,9 +10,9 @@ posts:
 - Fight White Supremacy with Your Wallet and Your Voice
 ---
 
-Recently, there have been [several](https://www.gq.com/story/suze-orman-personal-finance?fbclid=IwAR05723xbP5C46rs-WMK_1KpQvJjT-WpWYWtFwz6uSqmpW6qRyIfYGsE-Yo) [different](https://www.vice.com/en_us/article/ev3dde/most-money-advice-is-worthless) [articles](https://www.fastcompany.com/90343899/sallie-krawcheck-saving-money-latte-advice) written that criticize the personal finance industry. And for good reason! A lot of the traditional and prevailing financial advice is steeped in privilege and often glosses over the systemic problems that keep people in poverty. 
+Recently, there have been [several](https://www.gq.com/story/suze-orman-personal-finance?fbclid=IwAR05723xbP5C46rs-WMK_1KpQvJjT-WpWYWtFwz6uSqmpW6qRyIfYGsE-Yo) [different](https://www.vice.com/en_us/article/ev3dde/most-money-advice-is-worthless) [articles](https://www.fastcompany.com/90343899/sallie-krawcheck-saving-money-latte-advice) written that criticize the personal finance industry. And for good reason! A lot of the traditional and prevailing financial advice is steeped in privilege and often glosses over the systemic problems that keep people in poverty.
 
-As a financial coach myself, I'm obviously biased in thinking that personal finance advice is important and helpful. I know that most Americans are not given the financial literacy that they need to properly manage their money day-to-day and plan for their futures. 
+As a financial coach myself, I'm obviously biased in thinking that personal finance advice is important and helpful. I know that most Americans are not given the financial literacy that they need to properly manage their money day-to-day and plan for their futures.
 
 A lot of the other folks I know in the personal finance space are doing things the right way, but for those who aren't, here's what I recommend:
 
@@ -22,11 +22,15 @@ I don't think privilege is inherently bad. You aren't automatically a bad person
 
 ## Don't Oversimplify
 
-xx
+I'm not a fan of one-size-fits-all financial advice, because everyone is different.
+
+## Don't Tell People To Give Up Joy
+
+One of the easiest ways to make people tune out is to tell them to sacrifice everything that they love. 
 
 # Take Intersectionality Into Account
 
-Every individual's financial situation is going to be at least somewhat dependent upon the intersectionality of their gender, race, sexual orientation, gender identity, religion, etc. The American Constitution might say that all men are created equal, but we are certainly not all treated that way. If you are white, straight, male, educated, and/or upper class, your circumstances are going to be MUCH different than someone who is a person of color 
+Every individual's financial situation is going to be at least somewhat dependent upon the intersectionality of their gender, race, sexual orientation, gender identity, religion, etc. The American Constitution might say that all men are created equal, but we are certainly not all treated that way. If you are white, straight, male, educated, and/or upper class, your circumstances are going to be MUCH different than someone who is a person of color
 
 ## Don't Promise The World
 
