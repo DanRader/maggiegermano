@@ -40,7 +40,9 @@ Of course, as always, there are definitely people out there who want to use the 
 
 # Take Intersectionality Into Account
 
-Every individual's financial situation is going to be at least somewhat dependent upon the intersectionality of their gender, race, sexual orientation, gender identity, religion, etc. The American Constitution might say that all men are created equal, but we are certainly not all treated that way. If you are white, straight, male, educated, and/or upper class, your circumstances are going to be MUCH different than someone who is a person of color
+Every individual's financial situation is going to be at least somewhat dependent upon the intersectionality of their gender, race, sexual orientation, gender identity, religion, etc. The American Constitution might say that all *men* are created equal, but we are certainly not all treated that way. If you are white, straight, male, educated, and/or upper class, your circumstances are going to be MUCH different than someone who is a person of color, or a woman, or queer, or an immigrant, or all of the above! 
+
+This is why I don't believe in one-size-fits-all solutions. Everyone's situation is different, sometimes people are coming from complete opposites of the money spectrum. It's important to take all of these intersectionalities into account when you're talking about money and giving advice. 
 
 ## Don't Promise The World
 
