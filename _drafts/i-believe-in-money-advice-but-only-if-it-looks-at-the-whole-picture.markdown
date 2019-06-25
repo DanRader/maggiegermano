@@ -52,7 +52,7 @@ There are a lot of "get rich quick" schemes out there. Anyone who promises to co
 
 Like it or not, individual choices and actions are not going to change the system as a whole. Of course, our behaviors can change our own lives to an extent and encourage our loved ones to do the same, but we will still be affected by systemic problems. In order to make real, lasting change in our country's quality of life, we need to change our systems. As a financial coach, and as a human, I speak out for the necessary changes that must take place. I encourage others to do the same. Just a few examples of the changes that need to be made are:
 
-* **Universal health care.** The Affordable Care Act made our healthcare system better than it was, but it didn't finish the job. 
+* **Universal healthcare.** The [Affordable Care Act](https://www.healthcare.gov/glossary/affordable-care-act/) certainly made our healthcare system better than it was, but it didn't finish the job. There are still many people out there who aren't getting the healthcare that they need because they can't afford it. This is especially true for those who don't have employer-sponsored health insurance. Plus, Congress is still trying to gut the ACA in many ways, so we can't even rely on what we have. [Universal healthcare](https://www.who.int/health_financing/universal_coverage_definition/en/) would make sure that everyone in the United States gets the healthcare that they need, regardless of their employment status. Until we have this, many people in the United States will still be at physical, mental, and financial risk. 
 
 * **Paid family leave.** x
 
