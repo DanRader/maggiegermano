@@ -44,7 +44,7 @@ Every individual's financial situation is going to be at least somewhat dependen
 
 ## Don't Promise The World
 
-x
+There are a lot of "get rich quick" schemes out there. Anyone who promises to completely change your circumstances over night is lying to you. 
 
 ## Fight For Systemic Change
 
