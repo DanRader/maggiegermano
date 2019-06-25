@@ -34,17 +34,19 @@ Of course, there are lots of people who are spending more money than they can af
 
 ## Don't Tell People To Give Up Joy
 
-One of the easiest ways to make people tune out is to tell them to sacrifice everything that they love. There are lots of blogs out there written by people on a journey to get out of debt who decide to forego all non-essential spending. Many of them also work many jobs in order to make as much money as possible and get out of debt as quickly as possible. And I get it! Debt sucks and it makes sense to want to get out of it as fast as you can. Many of my clients are struggling with debt and our work often centers around a debt payoff strategy. 
+One of the easiest ways to make people tune out is to tell them to sacrifice everything that they love. There are lots of blogs out there written by people on a journey to get out of debt who decide to forego all non-essential spending. Many of them also work many jobs in order to make as much money as possible and get out of debt as quickly as possible. And I get it! Debt sucks and it makes sense to want to get out of it as fast as you can. Many of my clients are struggling with debt and our work often centers around a debt payoff strategy. But restricting everything outside of the essentials is a recipe for disaster for many people. Just like restricting food makes people more likely to binge, restricting all joyful spending makes people more likely to overspend as compensation. It's more realistic to build the things you love most into your monthly budget so that you don't feel completely depleted. 
 
 Of course, as always, there are definitely people out there who want to use the deprivation strategy and become debt-free quickly. I salute those people! Each person's situation and values are going to be different. I don't begrudge them their own approach, but it's certainly not feasible for most people. 
 
 # Take Intersectionality Into Account
 
-Every individual's financial situation is going to be at least somewhat dependent upon the intersectionality of their gender, race, sexual orientation, gender identity, religion, etc. The American Constitution might say that all men are created equal, but we are certainly not all treated that way. If you are white, straight, male, educated, and/or upper class, your circumstances are going to be MUCH different than someone who is a person of color
+Every individual's financial situation is going to be at least somewhat dependent upon the intersectionality of their gender, race, sexual orientation, gender identity, religion, etc. The American Constitution might say that all *men* are created equal, but we are certainly not all treated that way. If you are white, straight, male, educated, and/or upper class, your circumstances are going to be MUCH different than someone who is a person of color, or a woman, or queer, or an immigrant, or all of the above! 
+
+This is why I don't believe in one-size-fits-all solutions. Everyone's situation is different, sometimes people are coming from complete opposites of the money spectrum. It's important to take all of these intersectionalities into account when you're talking about money and giving advice. Of course, this can feel very uncomfortable when it's a man or a white person giving the advice (which it very often is). But it's important to educate yourself on these issues and how they affect different people. You'll be a better person and a better expert for it.
 
 ## Don't Promise The World
 
-x
+There are a lot of "get rich quick" schemes out there. Anyone who promises to completely change your circumstances over night is lying to you. 
 
 ## Fight For Systemic Change
 
@@ -63,3 +65,5 @@ Like it or not, individual choices and actions are not going to change the syste
 To all the readers out there, don't completely give up on personal finance advice. Find the people out there who include the full picture when they talk about money. Every individual expert is not going to be right for all people. Find the ones who speak to and respect your experience. 
 
 And even though I was mostly talking to other financial experts in this piece, it's important that we all, as individuals, get more honest about money. If your parents paid for your college tuition, that's something to be grateful for, not embarrassed of. But that certainly gives you a leg up over your friend who has student loans to pay back. If your parents gifted you the down payment for your home, that's amazing and generous! But that gives you a hell of an advantage over someone who has to save up for that purchase. The more honest we are, the less alone, ashamed, and isolated we will feel. And it'll show our friends (and us) that they aren't failures, they're just coming from different circumstances.
+
+*What else bothers you about the personal finance industry? Share in the comments!*
