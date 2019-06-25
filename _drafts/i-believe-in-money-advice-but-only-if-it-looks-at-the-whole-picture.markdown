@@ -65,3 +65,5 @@ Like it or not, individual choices and actions are not going to change the syste
 To all the readers out there, don't completely give up on personal finance advice. Find the people out there who include the full picture when they talk about money. Every individual expert is not going to be right for all people. Find the ones who speak to and respect your experience. 
 
 And even though I was mostly talking to other financial experts in this piece, it's important that we all, as individuals, get more honest about money. If your parents paid for your college tuition, that's something to be grateful for, not embarrassed of. But that certainly gives you a leg up over your friend who has student loans to pay back. If your parents gifted you the down payment for your home, that's amazing and generous! But that gives you a hell of an advantage over someone who has to save up for that purchase. The more honest we are, the less alone, ashamed, and isolated we will feel. And it'll show our friends (and us) that they aren't failures, they're just coming from different circumstances.
+
+*What else bothers you about the personal finance industry? Share in the comments!*
