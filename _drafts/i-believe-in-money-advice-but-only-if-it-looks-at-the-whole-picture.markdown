@@ -30,11 +30,13 @@ That's a lot of information about my life, but it shows that I certainly had a l
 
 Recently, [Suze Orman said](https://www.cnbc.com/2019/03/28/suze-orman-spending-money-on-coffee-is-like-throwing-1-million-down-the-drain.html) that buying coffee everyday is like "peeing $1 million down the drain". I think that's the type of outrageous comment that turns a lot of young people off of financial advice. First of all, I doubt anyone is buying $1 million worth of coffee in their lifetime. Additionally, coffee is not the reason that young people are struggling. Neither is avocado toast. These are just a few things that I think have more of an impact on financial security: graduating into the worst recession ever, staggering student loan debt, rising cost of living, and stagnating wages. But these are issues that are not dependent upon the action of the individual, so it's not as sexy or controversial to point them out. 
 
-Of course, there are lots of people who are spending more money than they can afford without realizing it. And some of that money might go towards coffee (or avocado toast). 
+Of course, there are lots of people who are spending more money than they can afford without realizing it. And some of that money might go towards coffee (or avocado toast). It is important to live within your means if you want to have financial stability eventually, but shaming and blaming people isn't the way to make that happen. 
 
 ## Don't Tell People To Give Up Joy
 
-One of the easiest ways to make people tune out is to tell them to sacrifice everything that they love.
+One of the easiest ways to make people tune out is to tell them to sacrifice everything that they love. There are lots of blogs out there written by people on a journey to get out of debt who decide to forego all non-essential spending. Many of them also work many jobs in order to make as much money as possible and get out of debt as quickly as possible. And I get it! Debt sucks and it makes sense to want to get out of it as fast as you can. Many of my clients are struggling with debt and our work often centers around a debt payoff strategy. 
+
+Of course, as always, there are definitely people out there who want to use the deprivation strategy and become debt-free quickly. I salute those people! Each person's situation and values are going to be different. I don't begrudge them their own approach, but it's certainly not feasible for most people. 
 
 # Take Intersectionality Into Account
 
