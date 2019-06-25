@@ -60,7 +60,7 @@ Like it or not, individual choices and actions are not going to change the syste
 
 * **A living wage.** The minimum wage ($7.25/hour federally) in the United States is pitiful. It's not enough for most people to live off of. And it's certainly not enough for people to live off of *and* save money for their futures. Mandating a [living wage](https://www.nytimes.com/2019/06/05/smarter-living/what-a-living-wage-actually-means.html) will lift countless people out of poverty. It will improve physical and mental health. It will help families. It will help communities. It's imperative for the federal government to implement a living wage as housing, medical, and education costs continue to rise.
 
-* **Free higher education.** This topic has been coming up more and more now that the 2020 presidential election is in full swing. Student loan debt has reached crisis levels and is preventing many young people from being able to support themselves. 
+* **Free higher education.** This topic has been coming up more and more now that the 2020 presidential election is in full swing. Student loan debt has reached crisis levels and is preventing many young people from being able to support themselves. If we can't make higher education free, we at least need to control and lower costs, since they have increased by 
 
 To all the readers out there, don't completely give up on personal finance advice. Find the people out there who include the full picture when they talk about money. Every individual expert is not going to be right for all people. Find the ones who speak to and respect your experience. 
 
