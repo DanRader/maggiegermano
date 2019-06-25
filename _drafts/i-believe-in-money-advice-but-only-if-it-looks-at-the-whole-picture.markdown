@@ -24,7 +24,7 @@ For example, I was born into a white, middle-class family and both of my parents
 
 Fast forward 10 years and I still live in the DC area. I own a home (which I was able to buy due to an injury settlement) and I run my own business. I'm able to run my business full-time while it grows because my husband (who was also born into a white, educated, middle-class family) has a great job that pays enough to support our life together. 
 
-That's a lot of information about my life, but it shows that I certainly had a leg up from the beginning of my life. Things weren't perfect, but I was given opportunities that many other people would not have had. Admitting these things doesn't diminish my accomplishments or downplay the skills that I have. It just shows that I'm aware of how a lot of my circumstances are due to luck. If I pretended like none of this was true, I would not be honest with my readers or clients. Don't glass over your privilege, because it can make your followers and customers feel like they are failing when they can't seem to catch up to where you are. 
+That's a lot of information about my life, but it shows that I certainly had a leg up from the beginning. Things weren't perfect, but I was given opportunities that many other people would not have had. Admitting these things doesn't diminish my accomplishments or downplay the skills that I have. It just shows that I'm aware of how a lot of my circumstances are due to luck. If I pretended like none of this was true, I would not be honest with my readers or clients. Don't gloss over your privilege, because it can make your followers and customers feel like they are failing when they can't seem to catch up to where you are. 
 
 ## Don't Oversimplify
 
