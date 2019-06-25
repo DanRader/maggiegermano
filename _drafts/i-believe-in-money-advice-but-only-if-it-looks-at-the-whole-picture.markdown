@@ -22,9 +22,9 @@ I don't think privilege is inherently bad. You aren't automatically a bad person
 
 For example, I was born into a white, middle-class family and both of my parents had college educations. My dad didn't make a ton of money while I was growing up, but he made enough so that my mom could be a stay-at-home mom for much of my childhood. Since my parents were around a lot of the time, I had the support that I needed to thrive and do well in school. I was able to apply for and attend a state college. My parents didn't have the money to put me through school themselves, but I took out loans for half of my education and my parents took out loans for the other half. My parents were able to pay back their half of my loan debt, while I paid back my half. I had a home to return to after I graduated college and tried to figure out what I wanted to do with my life. When I moved to DC, I had to work two jobs to make enough money to live in the city, but I always knew that I could rely on  my parents if I really needed to. In fact, my dad drove me down to DC and bought me a bed for my shared studio apartment. 
 
-Fast forward 10 years and I still live in the DC area. I own a home (which I was able to buy due to an injury settlement) and run my own business. I'm able to run my business full-time because my husband (who was also born into a white, educated, middle-class family) has a great job that pays enough to support our life together. 
+Fast forward 10 years and I still live in the DC area. I own a home (which I was able to buy due to an injury settlement) and I run my own business. I'm able to run my business full-time while it grows because my husband (who was also born into a white, educated, middle-class family) has a great job that pays enough to support our life together. 
 
-That's a lot of information about my life, but it shows that I certainly had a leg up from the beginning of my life. Things weren't perfect, but I was given opportunities that many other people would not have had. Admitting these things doesn't diminish my accomplishments or downplay the skills that I have. It just shows that I'm aware of how a lot of my circumstances are due to luck. If I pretended like none of this was true, I would not be honest with my readers or clients. Don't glass over your privilege, because it can make your followers and customers feel like they are failing when they can't seem to catch up to where you are. 
+That's a lot of information about my life, but it shows that I certainly had a leg up from the beginning. Things weren't perfect, but I was given opportunities that many other people would not have had. Admitting these things doesn't diminish my accomplishments or downplay the skills that I have. It just shows that I'm aware of how a lot of my circumstances are due to luck. If I pretended like none of this was true, I would not be honest with my readers or clients. Don't gloss over your privilege, because it can make your followers and customers feel like they are failing when they can't seem to catch up to where you are. 
 
 ## Don't Oversimplify
 
@@ -46,7 +46,7 @@ This is why I don't believe in one-size-fits-all solutions. Everyone's situation
 
 ## Don't Promise The World
 
-There are a lot of "get rich quick" schemes out there. Anyone who promises to completely change your circumstances over night is lying to you. 
+There are a lot of "get rich quick" schemes out there. Anyone who promises to completely change your circumstances over night is lying to you. Any kind of big change takes time and dedication to achieve. 
 
 ## Fight For Systemic Change
 
@@ -54,13 +54,13 @@ Like it or not, individual choices and actions are not going to change the syste
 
 * **Universal healthcare.** The [Affordable Care Act](https://www.healthcare.gov/glossary/affordable-care-act/) certainly made our healthcare system better than it was, but it didn't finish the job. There are still many people out there who aren't getting the healthcare that they need because they can't afford it. This is especially true for those who don't have employer-sponsored health insurance. Plus, Congress is still trying to gut the ACA in many ways, so we can't even rely on what we have. [Universal healthcare](https://www.who.int/health_financing/universal_coverage_definition/en/) would make sure that everyone in the United States gets the healthcare that they need, regardless of their employment status. Until we have this, many people in the United States will still be at physical, mental, and financial risk. 
 
-* **Paid family leave.** x
+* **Paid family leave.** The United States is the only country in the developed world that doesn't at least have have paid maternity leave. That means that your employer has no legal obligation to let you take paid time off after giving birth to or adopting a child. If mothers aren't able to get this benefit, fathers certainly don't. And don't even hope to get paid leave to care of a sick or aging family member! The lack of paid family leave means that people have to go back to work sooner than they want to or that they leave the workforce entirely while they care for their child or other loved one. This hurts people and families emotionally, physically, and financially. 
 
-* **Universal childcare.** Paying for childcare is still painful or impossible for many people and families. There are plenty of people out there who drop out of the workforce and collect welfare because all of their income would go to childcare anyway. 
+* **Universal childcare.** Paying for childcare is still painful or impossible for many people and families. There are plenty of people out there who drop out of the workforce and collect welfare because all of their income would go to childcare anyway. Many women in particular opt to stay home to care for their children over paying for childcare. The cost of childcare is only continuing to climb and becoming more unattainable. 
 
-* **A living wage.** The minimum wage in the United States is pitiful. It's not enough for most people to live off of. And it's certainly not enough for people to live off of *and* save money for their futures. Mandating a living wage will lift countless people out of poverty. It will improve physical and mental health. It will help families. It will help communities. It's imperative for 
+* **A living wage.** The minimum wage ($7.25/hour federally) in the United States is pitiful. It's not enough for most people to live off of. And it's certainly not enough for people to live off of *and* save money for their futures. Mandating a [living wage](https://www.nytimes.com/2019/06/05/smarter-living/what-a-living-wage-actually-means.html) will lift countless people out of poverty. It will improve physical and mental health. It will help families. It will help communities. It's imperative for the federal government to implement a living wage as housing, medical, and education costs continue to rise.
 
-* x
+* **Free higher education.** This topic has been coming up more and more now that the 2020 presidential election is in full swing. Student loan debt has reached crisis levels and is preventing many young people from being able to support themselves. 
 
 To all the readers out there, don't completely give up on personal finance advice. Find the people out there who include the full picture when they talk about money. Every individual expert is not going to be right for all people. Find the ones who speak to and respect your experience. 
 
