@@ -30,7 +30,7 @@ That's a lot of information about my life, but it shows that I certainly had a l
 
 Recently, [Suze Orman said](https://www.cnbc.com/2019/03/28/suze-orman-spending-money-on-coffee-is-like-throwing-1-million-down-the-drain.html) that buying coffee everyday is like "peeing $1 million down the drain". I think that's the type of outrageous comment that turns a lot of young people off of financial advice. First of all, I doubt anyone is buying $1 million worth of coffee in their lifetime. Additionally, coffee is not the reason that young people are struggling. Neither is avocado toast. These are just a few things that I think have more of an impact on financial security: graduating into the worst recession ever, staggering student loan debt, rising cost of living, and stagnating wages. But these are issues that are not dependent upon the action of the individual, so it's not as sexy or controversial to point them out. 
 
-Of course, there are lots of people who are spending more money than they can afford without realizing it. And some of that money might go towards coffee (or avocado toast). 
+Of course, there are lots of people who are spending more money than they can afford without realizing it. And some of that money might go towards coffee (or avocado toast). It is important to live within your means if you want to have financial stability eventually, but shaming and blaming people isn't the way to make that happen. 
 
 ## Don't Tell People To Give Up Joy
 
