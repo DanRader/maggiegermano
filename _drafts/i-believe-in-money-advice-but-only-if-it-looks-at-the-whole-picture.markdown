@@ -46,7 +46,7 @@ This is why I don't believe in one-size-fits-all solutions. Everyone's situation
 
 ## Don't Promise The World
 
-There are a lot of "get rich quick" schemes out there. Anyone who promises to completely change your circumstances over night is lying to you. 
+There are a lot of "get rich quick" schemes out there. Anyone who promises to completely change your circumstances over night is lying to you. Any kind of big change takes time and dedication to achieve. 
 
 ## Fight For Systemic Change
 
