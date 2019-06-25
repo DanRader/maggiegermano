@@ -34,7 +34,7 @@ Of course, there are lots of people who are spending more money than they can af
 
 ## Don't Tell People To Give Up Joy
 
-One of the easiest ways to make people tune out is to tell them to sacrifice everything that they love. There are lots of blogs out there that 
+One of the easiest ways to make people tune out is to tell them to sacrifice everything that they love. There are lots of blogs out there written by people on a journey to get out of debt who decide to forego all non-essential spending. Many of them also work many jobs in order to make as much money as possible and get out of debt as quickly as possible. And I get it! Debt sucks and it makes sense to want to get out of it as fast as you can. Many of my clients are struggling with debt and our work often centers around a debt payoff strategy. 
 
 # Take Intersectionality Into Account
 
