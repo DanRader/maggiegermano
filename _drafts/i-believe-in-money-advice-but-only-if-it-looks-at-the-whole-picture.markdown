@@ -34,7 +34,7 @@ Of course, there are lots of people who are spending more money than they can af
 
 ## Don't Tell People To Give Up Joy
 
-One of the easiest ways to make people tune out is to tell them to sacrifice everything that they love.
+One of the easiest ways to make people tune out is to tell them to sacrifice everything that they love. There are lots of blogs out there that 
 
 # Take Intersectionality Into Account
 
