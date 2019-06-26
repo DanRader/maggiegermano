@@ -1,6 +1,12 @@
 ---
 title: I Believe In Money Advice, But Only If It Looks At The Whole Picture
 date: 2019-07-01 11:00:00 -04:00
+published: false
+categories:
+- lifestyle
+- debt
+- savings
+- career
 image: "/uploads/frame-harirak-563191-unsplash.jpg"
 tweet: I believe in the personal finance industry... but only if we look at the whole
   picture.
@@ -46,7 +52,7 @@ This is why I don't believe in one-size-fits-all solutions. Everyone's situation
 
 ## Don't Promise The World
 
-There are a lot of "get rich quick" schemes out there. Anyone who promises to completely change your circumstances over night is lying to you. Any kind of big change takes time and dedication to achieve. 
+There are a lot of "get rich quick" schemes out there. They are not going to work. Anyone who promises to completely change your circumstances over night is lying to you. Any kind of big change takes time and dedication to achieve. Experts need to make it clear how difficult and frustrating this change can be, while still showing that it's possible for people. For individuals, you should celebrate the small wins when you reach them. Waiting until the big end goal to celebrate will make you feel demoralized and pessimistic. So celebrate the interim goals and pat yourself on the back when you do the things you set out to do. 
 
 ## Fight For Systemic Change
 
