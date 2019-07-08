@@ -12,3 +12,20 @@ posts:
 - How to Stay in Control of Your Wedding Spending
 ---
 
+A few weeks ago, I was interviewed by a Washington Post reporter about wedding loans (my feedback wasn't included in the final piece). 
+
+xx
+
+So what can you do instead?
+
+## Delay Your Wedding
+
+xx
+
+## Save The Cash
+
+xx
+
+## Change Your Plans
+
+xx
