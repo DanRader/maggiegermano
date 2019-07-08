@@ -12,3 +12,4 @@ posts:
 - How to Stay in Control of Your Wedding Spending
 ---
 
+A few weeks ago, I was interviewed by a Washington Post reporter about wedding loans (my feedback wasn't included in the final piece). 
