@@ -11,9 +11,9 @@ Happy Friday, everyone! I'm back to business after traveling for over a week. He
 
 * I had a paid speaking engagement at Axios this Wednesday.
 
-* Dan and I had several Airbnb guests. 
+* Dan and I had several Airbnb guests.
 
-* Two of my clients' monthly payments went through. 
+* Two of my clients' monthly payments went through.
 
 ## **How I Spent Money This Week**
 
@@ -21,7 +21,9 @@ Happy Friday, everyone! I'm back to business after traveling for over a week. He
 
 * Whole Foods
 
-* Bruno : Daycare and neutering 
+* saliva test
+
+* Bruno : Daycare and neutering
 
 * x
 
