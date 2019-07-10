@@ -3,6 +3,7 @@ title: Founder Friday | Bermuda, Health, and Pet Costs
 date: 2019-07-12 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/jenny-marvin-uAK1T9LhzBM-unsplash.jpg"
 posts:
 - Founder Friday | Summer, Forbes Women, and Money Goals
 - Founder Friday | Independence, Podcasts, and X-Men
