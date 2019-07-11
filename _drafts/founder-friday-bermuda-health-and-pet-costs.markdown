@@ -48,12 +48,6 @@ Happy Friday, everyone! I'm back to business after traveling for over a week. He
 
 * I’ve been hinting at starting a podcast for a while now. But in order to make sure the podcast is interesting and helpful for YOU, I want to make sure I’m answering your questions. [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSf75z5itnYO-XOLStoqY5FXwuf8YI37ye5OD21Wv7tBGAqIVQ/viewform?usp=sf_link) to submit any and all money questions that you have!
 
-## **What I’m Excited About**
-
-* x
-
-* x
-
 ## **What I’m Reading**
 
 While I was on vacation last week, I read the entirety of *[The Bride Test](https://www.goodreads.com/book/show/39338454-the-bride-test)* by Helen Hoang. This week, I finished reading *[Thick: And Other Essays](https://www.goodreads.com/book/show/40365093-thick?ac=1&from_search=true)* by Tressie McMillan Cottom. I'm still working my way through *[The Power](https://www.goodreads.com/book/show/29751398-the-power?from_search=true)* by Naomi Alderman, but I plan to finish it this weekend. 
