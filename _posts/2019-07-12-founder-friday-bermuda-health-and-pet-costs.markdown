@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Bermuda, Health, and Pet Costs
 date: 2019-07-12 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/jenny-marvin-uAK1T9LhzBM-unsplash.jpg"
@@ -54,6 +55,6 @@ While I was on vacation last week, I read the entirety of *[The Bride Test](http
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![You're probably doing better than you think you are..png](/uploads/You're%20probably%20doing%20better%20than%20you%20think%20you%20are..png)
 
 That’s all from me today! Have a fantastic weekend!
