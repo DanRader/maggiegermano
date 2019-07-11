@@ -24,13 +24,13 @@ Happy Friday, everyone! I'm back to business after traveling for over a week. He
 
 * On Sunday, Dan and I returned from our week-long cruise to Bermuda on Norwegian Cruise Line. My grandmother paid for the majority of the trip, which was amazing, but we were charged service fees everyday, so we had a $200 bill by the time we got back. 
 
-* 
+* On Sunday night, we were too tired to go shopping and make dinner, so we ordered Chinese food from our favorite place, [King Kong Restaurant](https://www.kingkongadelphi.com/). We still have some cash left over from wedding gifts, which we've been using to treat ourselves to takeout once in a while. 
 
-* Whole Foods
+* On Monday evening, Dan and I did our weekly grocery run at Whole Foods. We had to stock up on a few things after being gone for a week, so we spent a little over $100.
 
 * saliva test
 
-* Bruno got neutered this morning! 
+* Bruno got neutered this morning! The procedure cost just over $300. We also had Bruno in daycare one day this week, which cost $36. (That puppy is expensive!)
 
 * x
 
