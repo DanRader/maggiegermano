@@ -22,21 +22,23 @@ Happy Friday, everyone! I'm back to business after traveling for over a week. He
 
 ## **How I Spent Money This Week**
 
-* Norwegian Cruise Line
+* On Sunday, Dan and I returned from our week-long cruise to Bermuda on Norwegian Cruise Line. My grandmother paid for the majority of the trip, which was amazing, but we were charged service fees everyday, so we had a $200 bill by the time we got back. 
+
+* 
 
 * Whole Foods
 
 * saliva test
 
-* Bruno : Daycare and neutering
+* Bruno got neutered this morning! 
 
 * x
 
 ## **What I’m Writing**
 
-* ForbesWomen
+* This week, [on my blog](https://www.maggiegermano.com/blog/despite-having-less-support-women-outpace-men-in-financial-independence/), I republished a past [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2019/06/17/despite-having-less-support-women-outpace-men-in-financial-independence/#2a34e1ec9462) piece. The piece is about 
 
-* Daily Outfit
+* Last week, I had a guest post on the [Daily Outfit](https://dailyoutfit.com/how-to-keep-impulse-spending-at-bay/) blog. I wrote about how to resist impulse spending. 
 
 ## **What I’m Up To**
 
@@ -52,7 +54,7 @@ Happy Friday, everyone! I'm back to business after traveling for over a week. He
 
 ## **What I’m Reading**
 
-Bride Test, Thick, The Power
+While I was on vacation last week, I read the entirety of *[The Bride Test](https://www.goodreads.com/book/show/39338454-the-bride-test)* by Helen Hoang. This week, I finished reading *[Thick: And Other Essays](https://www.goodreads.com/book/show/40365093-thick?ac=1&from_search=true)* by Tressie McMillan Cottom. I'm still working my way through *[The Power](https://www.goodreads.com/book/show/29751398-the-power?from_search=true)* by Naomi Alderman, but I plan to finish it this weekend. 
 
 ## **Money Tip to Take Into the Weekend**
 
