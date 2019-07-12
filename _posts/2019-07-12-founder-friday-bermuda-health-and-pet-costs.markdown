@@ -14,7 +14,7 @@ Happy Friday, everyone! I'm back to business after traveling for over a week. He
 
 ## **How I Earned Money This Week**
 
-* I had a paid speaking engagement at Axios this Wednesday.
+* I had a paid speaking engagement at [Axios](https://www.axios.com/) this Wednesday.
 
 * Dan and I had several Airbnb guests.
 
