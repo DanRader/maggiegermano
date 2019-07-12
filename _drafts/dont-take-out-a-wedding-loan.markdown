@@ -12,7 +12,7 @@ posts:
 - How to Stay in Control of Your Wedding Spending
 ---
 
-A few weeks ago, I was interviewed by a *Washington Post *reporter about wedding loans. My feedback wasn't included in the [final piece](https://www.washingtonpost.com/business/2019/06/19/married-debt-couples-are-taking-out-loans-pay-their-weddings/?noredirect=on&utm_term=.2e57f929ec82), but the topic and the piece got me thinking. If you've been following my blog for a while, you know that I go married last year. I spent over a year planning my wedding and thinking and writing a whole lot about weddings. I am aware of how expensive weddings can be and how stressful that is. But I also feel very strongly that going into debt for your wedding is not a good idea. 
+A few weeks ago, I was interviewed by a *Washington Post* reporter about wedding loans. My feedback wasn't included in the [final piece](https://www.washingtonpost.com/business/2019/06/19/married-debt-couples-are-taking-out-loans-pay-their-weddings/?noredirect=on&utm_term=.2e57f929ec82), but the topic and the piece got me thinking. If you've been following my blog for a while, you know that I go married last year. I spent over a year planning my wedding and thinking and writing a whole lot about weddings. I am aware of how expensive weddings can be and how stressful that is. But I also feel very strongly that going into debt for your wedding is not a good idea.
 
 xx
 
@@ -20,9 +20,19 @@ Starting your married life with debt can prevent you from reaching other goals, 
 
 ## Going on a Honeymoon
 
+After Dan and I got married, we spent nearly 3 weeks in Thailand on our honeymoon.
+
 ## Buying a Home
 
+The average wedding in the United States costs upwards of $30,000. That could be a 10% downpayment on a $300,000
+
 ## Paying Off Other Debt
+
+x
+
+## Having a Happy Marriage
+
+Money trouble is one of the top reasons for marital discord and divorce. It's important to start your marriage on good financial footing.
 
 So what can you do instead?
 
@@ -35,5 +45,3 @@ xx
 xx
 
 ## Change Your Plans
-
-xx
