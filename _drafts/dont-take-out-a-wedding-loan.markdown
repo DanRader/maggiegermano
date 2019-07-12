@@ -42,6 +42,6 @@ xx
 
 ## Save The Cash
 
-xx
+Save up for your wedding and pay for it in cash. 
 
 ## Change Your Plans
