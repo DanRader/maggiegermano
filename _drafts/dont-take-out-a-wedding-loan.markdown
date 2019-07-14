@@ -20,7 +20,7 @@ Starting your married life with debt can prevent you from reaching other goals, 
 
 ## Going on a Honeymoon
 
-After Dan and I got married, we spent nearly 3 weeks in Thailand on our honeymoon.
+After Dan and I got married, we spent nearly 3 weeks in Thailand on our honeymoon. The cost ended up being just shy of $5,000, including all flights, lodging, activities, food, and shopping. It was a once-in-a-lifetime experience that I'm so grateful that we could experience. 
 
 ## Buying a Home
 
@@ -38,10 +38,10 @@ So what can you do instead?
 
 ## Delay Your Wedding
 
-If it's going to take you more than a year or so to save up to pay for your wedding, it might make sense to delay it until you've had time to afford it. This might give you time to pay off debt or save up money or earn more income in order to make your circumstances easier. 
+If it's going to take you more than a year or so to save up to pay for your wedding, it might make sense to delay it until you've had time to afford it. This might give you time to pay off debt or save up money or earn more income in order to make your circumstances easier.
 
 ## Save The Cash
 
-Save up for your wedding and pay for it in cash. You can do this by automating a certain amount of savings every month or you can put any windfalls (like tax refunds, gifts, or bonuses) into an account designated for your wedding. Or, like Dan and I did, you can do both of those things. 
+Save up for your wedding and pay for it in cash. You can do this by automating a certain amount of savings every month or you can put any windfalls (like tax refunds, gifts, or bonuses) into an account designated for your wedding. Or, like Dan and I did, you can do both of those things.
 
 ## Change Your Plans
