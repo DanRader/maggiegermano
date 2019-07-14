@@ -47,3 +47,7 @@ If it's going to take you more than a year or so to save up to pay for your wedd
 Save up for your wedding and pay for it in cash. You can do this by automating a certain amount of savings every month or you can put any windfalls (like tax refunds, gifts, or bonuses) into an account designated for your wedding. Or, like Dan and I did, you can do both of those things.
 
 ## Change Your Plans
+
+Trust me when I say that I completely understand the desire to throw an awesome party for your wedding. I did that for my own wedding, even though I had major reservations with the cost. Part of me actually wishes that I'd wanted to either elope or have a courthouse wedding so that we could have saved a ton of money for other things. I know people who spent just a couple thousand of dollars on a small wedding and they don't seem to regret it at all.
+
+If you know there's no way you can have an expensive wedding without going into debt, it might be a good idea to explore your other options. 
