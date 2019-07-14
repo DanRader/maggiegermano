@@ -12,9 +12,9 @@ posts:
 - How to Stay in Control of Your Wedding Spending
 ---
 
-A few weeks ago, I was interviewed by a *Washington Post* reporter about wedding loans. My feedback wasn't included in the [final piece](https://www.washingtonpost.com/business/2019/06/19/married-debt-couples-are-taking-out-loans-pay-their-weddings/?noredirect=on&utm_term=.2e57f929ec82), but the topic and the article got me thinking. If you've been following my blog for a while, you know that I go married last year. I spent over a year planning my wedding and thinking and writing a whole lot about weddings. I am aware of how expensive weddings can be and how stressful that is. But I also feel very strongly that going into debt for your wedding is not a good idea.
+A few weeks ago, I was interviewed by a *Washington Post* reporter about wedding loans. My feedback wasn't included in the [final piece](https://www.washingtonpost.com/business/2019/06/19/married-debt-couples-are-taking-out-loans-pay-their-weddings/?noredirect=on&utm_term=.2e57f929ec82), but the topic and the article got me thinking. If you've been following my blog for a while, you know that I got married last year. I spent over a year planning my wedding and thinking and writing a whole lot about it. I am aware of how expensive weddings can be and how stressful that is. But I also feel very strongly that going into debt for your wedding is not a good idea.
 
-xx
+Most of the time, when couples go into debt for their weddings, they're putting it on credit cards or taking out personal loans to cover the costs. More recently, though, companies are marketing what they are calling "wedding loans". These loans are basically the same exact thing as a personal loan: an unsecured loan that you pay off over a period of time. 
 
 Starting your married life with debt can prevent you from reaching other goals, like:
 
