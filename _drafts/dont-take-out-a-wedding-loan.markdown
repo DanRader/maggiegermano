@@ -12,7 +12,7 @@ posts:
 - How to Stay in Control of Your Wedding Spending
 ---
 
-A few weeks ago, I was interviewed by a *Washington Post* reporter about wedding loans. My feedback wasn't included in the [final piece](https://www.washingtonpost.com/business/2019/06/19/married-debt-couples-are-taking-out-loans-pay-their-weddings/?noredirect=on&utm_term=.2e57f929ec82), but the topic and the piece got me thinking. If you've been following my blog for a while, you know that I go married last year. I spent over a year planning my wedding and thinking and writing a whole lot about weddings. I am aware of how expensive weddings can be and how stressful that is. But I also feel very strongly that going into debt for your wedding is not a good idea.
+A few weeks ago, I was interviewed by a *Washington Post* reporter about wedding loans. My feedback wasn't included in the [final piece](https://www.washingtonpost.com/business/2019/06/19/married-debt-couples-are-taking-out-loans-pay-their-weddings/?noredirect=on&utm_term=.2e57f929ec82), but the topic and the article got me thinking. If you've been following my blog for a while, you know that I go married last year. I spent over a year planning my wedding and thinking and writing a whole lot about weddings. I am aware of how expensive weddings can be and how stressful that is. But I also feel very strongly that going into debt for your wedding is not a good idea.
 
 xx
 
@@ -20,7 +20,7 @@ Starting your married life with debt can prevent you from reaching other goals, 
 
 ## Going on a Honeymoon
 
-After Dan and I got married, we spent nearly 3 weeks in Thailand on our honeymoon.
+After Dan and I got married, we spent nearly 3 weeks in Thailand on our honeymoon. The cost ended up being just shy of $5,000, including all flights, lodging, activities, food, and shopping. It was a once-in-a-lifetime experience that I'm so grateful that we could experience. 
 
 ## Buying a Home
 
@@ -38,10 +38,10 @@ So what can you do instead?
 
 ## Delay Your Wedding
 
-If it's going to take you more than a year or so to save up to pay for your wedding, it might make sense to delay it until you've had time to afford it. This might give you time to pay off debt or save up money or earn more income in order to make your circumstances easier. 
+If it's going to take you more than a year or so to save up to pay for your wedding, it might make sense to delay it until you've had time to afford it. This might give you time to pay off debt or save up money or earn more income in order to make your circumstances easier.
 
 ## Save The Cash
 
-Save up for your wedding and pay for it in cash. You can do this by automating a certain amount of savings every month or you can put any windfalls (like tax refunds, gifts, or bonuses) into an account designated for your wedding. Or, like Dan and I did, you can do both of those things. 
+Save up for your wedding and pay for it in cash. You can do this by automating a certain amount of savings every month or you can put any windfalls (like tax refunds, gifts, or bonuses) into an account designated for your wedding. Or, like Dan and I did, you can do both of those things.
 
 ## Change Your Plans
