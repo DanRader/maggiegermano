@@ -18,7 +18,7 @@ Most of the time, when couples go into debt for their weddings, they're putting 
 
 ## Going on a Honeymoon
 
-After Dan and I got married, we spent nearly 3 weeks in Thailand on our honeymoon. The cost ended up being just shy of $5,000, including all flights, lodging, activities, food, and shopping. It was a once-in-a-lifetime experience that I'm so grateful that we could experience.
+After Dan and I got married, we spent nearly 3 weeks in Thailand on our honeymoon. The cost ended up being just shy of $5,000, including all flights, lodging, activities, food, and shopping. It was a once-in-a-lifetime experience that I'm so grateful that we could experience. We prioritized saving for our honeymoon while we were saving for our wedding so that we could leave right after we got married. If we'd had to worry about paying off wedding debt, we might have had to delay our trip or gone somewhere closer or less expensive. 
 
 ## Buying a Home
 
