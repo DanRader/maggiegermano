@@ -42,7 +42,7 @@ If it's going to take you more than a year or so to save up to pay for your wedd
 
 ## Save The Cash
 
-Save up for your wedding and pay for it in cash. You can do this by automating a certain amount of savings every month or you can put any windfalls (like tax refunds, gifts, or bonuses) into an account designated for your wedding. Or, like Dan and I did, you can do both of those things.
+In my opinion, the best approach is to save up for your wedding and pay for it in cash. Of course, you'd need to do this over a longer period of time and potentially make other sacrifices in order to make it work. But it's possible! You make this easier by automating a certain amount of savings every month or you can put any windfalls (like tax refunds, gifts, or bonuses) into an account designated for your wedding. Or, like Dan and I did, you can do both! Get clear on the amount that you want to save by when and map out how much you'd have to save every month to get there.
 
 ## Change Your Plans
 
