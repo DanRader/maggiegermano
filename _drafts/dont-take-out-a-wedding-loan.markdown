@@ -34,7 +34,7 @@ It's not just student loan debt that affects people, though. Many Americans also
 
 Money trouble is one of the top reasons for marital discord and divorce. It's important to start your marriage on good financial footing.
 
-So what can you do instead?
+So, if you don't want to go into debt for your wedding, what can you do instead?
 
 ## Delay Your Wedding
 
