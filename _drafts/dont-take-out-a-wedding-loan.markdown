@@ -18,17 +18,17 @@ Most of the time, when couples go into debt for their weddings, they're putting 
 
 ## Going on a Honeymoon
 
-After Dan and I got married, we spent nearly 3 weeks in Thailand on our honeymoon. The cost ended up being just shy of $5,000, including all flights, lodging, activities, food, and shopping. It was a once-in-a-lifetime experience that I'm so grateful that we could experience.
+After Dan and I got married, we spent nearly 3 weeks in Thailand on our honeymoon. The cost ended up being just shy of $5,000, including all flights, lodging, activities, food, and shopping. It was a once-in-a-lifetime experience that I'm so grateful that we could experience. We prioritized saving for our honeymoon while we were saving for our wedding so that we could leave right after we got married. If we'd had to worry about paying off wedding debt, we might have had to delay our trip or gone somewhere closer or less expensive. 
 
 ## Buying a Home
 
-The average wedding in the United States costs upwards of $30,000. That could be a 10% downpayment on a $300,000 house. If you're spending the first couple years of marriage paying off your wedding (which very well may have cost the same amount as your down payment), you may not be able to prioritize saving up for a down payment on a home.
+The average wedding in the United States costs upwards of $30,000. That could also be a 10% downpayment on a $300,000 house. If you're spending the first couple years of marriage paying off your wedding, you may not be able to prioritize saving up for a down payment on a home. Many young people are already putting off buying a home because they have student loans to pay back. Adding another hefty debt to the equation could mean you are unable to buy a home for many years. 
 
 ## Paying Off Other Debt
 
-In the United States, 45 million people are paying back [student loan debt](https://studentloanhero.com/student-loan-debt-statistics/). The average debt owed is just under $30,000, but many people, especially those who went to grad school, owe much more than that.
+In the United States, 45 million people are currently paying back [student loan debt](https://studentloanhero.com/student-loan-debt-statistics/). The average debt owed is just under $30,000, but many people, especially those who went to grad school, owe much more than that. 
 
-It's not just student loan debt that affects people, though.
+It's not just student loan debt that affects people, though. Many Americans also own credit card debt. Credit card debt often comes with high interest rates and hefty fees
 
 ## Having a Happy Marriage
 
