@@ -22,7 +22,7 @@ After Dan and I got married, we spent nearly 3 weeks in Thailand on our honeymoo
 
 ## Buying a Home
 
-The average wedding in the United States costs upwards of $30,000. That could be a 10% downpayment on a $300,000 house. If you're spending the first couple years of marriage paying off your wedding (which very well may have cost the same amount as your down payment), you may not be able to prioritize saving up for a down payment on a home.
+The average wedding in the United States costs upwards of $30,000. That could also be a 10% downpayment on a $300,000 house. If you're spending the first couple years of marriage paying off your wedding (which very well may have cost the same amount as your down payment), you may not be able to prioritize saving up for a down payment on a home.
 
 ## Paying Off Other Debt
 
