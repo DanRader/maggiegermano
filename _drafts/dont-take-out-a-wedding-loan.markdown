@@ -28,7 +28,9 @@ The average wedding in the United States costs upwards of $30,000. That could be
 
 ## Paying Off Other Debt
 
-x
+In the United States, 45 million people are paying back student loan debt. The average debt owed is just under $30,000, but many people, especially those who went to grad school, owe much more than that. 
+
+It's not just student loan debt that affects people, though. 
 
 ## Having a Happy Marriage
 
