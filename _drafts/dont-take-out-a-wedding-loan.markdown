@@ -50,4 +50,4 @@ Save up for your wedding and pay for it in cash. You can do this by automating a
 
 Trust me when I say that I completely understand the desire to throw an awesome party for your wedding. I did that for my own wedding, even though I had major reservations with the cost. Part of me actually wishes that I'd wanted to either elope or have a courthouse wedding so that we could have saved a ton of money for other things. I know people who spent just a couple thousand of dollars on a small wedding and they don't seem to regret it at all.
 
-If you know there's no way you can have an expensive wedding without going into debt, it might be a good idea to explore your other options. 
+If you know there's no way you can have an expensive wedding without going into debt, it might be a good idea to explore your other options. You could have a court house ceremony followed by a dinner celebration, you could have a small 
