@@ -28,13 +28,11 @@ The average wedding in the United States costs upwards of $30,000. That could al
 
 ## Paying Off Other Debt
 
-In the United States, 45 million people are currently paying back [student loan debt](https://studentloanhero.com/student-loan-debt-statistics/). The average debt owed is just under $30,000, but many people, especially those who went to grad school, owe much more than that. It can be difficult to pay these loans off even if you don't have any other debt. But if you add an expensive wedding loan on top of it, it could be hard to prioritize paying it off. 
-
-It's not just student loan debt that affects people, though. Many Americans also own credit card debt. Credit card debt often comes with high interest rates and hefty fees, which can snowball into more debt than people ever anticipated. 
+In the United States, 45 million people are currently paying back [student loan debt](https://studentloanhero.com/student-loan-debt-statistics/). The average debt owed is just under $30,000, but many people, especially those who went to grad school, owe much more than that. It can be difficult to pay these loans off even if you don't have any other debt. Plus, it's not just student loan debt that affects people. Many Americans also own credit card debt. Credit card debt often comes with high interest rates and hefty fees, which can snowball into more debt than people ever anticipated. And if you add an expensive wedding loan on top of it, it could be hard (or even impossible) to prioritize paying it off. 
 
 ## Having a Happy Marriage
 
-Marriage can be difficult no matter what. That's what happens when you're building a life with another person. That's why it's so important to start your marriage on good financial footing. It's even more important because money trouble is one of the top reasons for marital discord and divorce. 
+Marriage can be difficult no matter what. That's what happens when you're building a life with another person. That's why it's so important to start your marriage on good financial footing. It's even more important because money trouble is one of the top reasons for marital discord and divorce. Adding more debt right when you're entering your marriage is a potential recipe for disaster.
 
 *So, if you don't want to go into debt for your wedding, what can you do instead?*
 
