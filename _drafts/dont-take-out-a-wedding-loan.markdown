@@ -20,21 +20,23 @@ Most of the time, when couples go into debt for their weddings, they're putting 
 
 After Dan and I got married, we spent nearly 3 weeks in Thailand on our honeymoon. The cost ended up being just shy of $5,000, including all flights, lodging, activities, food, and shopping. It was a once-in-a-lifetime experience that I'm so grateful that we could experience. We prioritized saving for our honeymoon while we were saving for our wedding so that we could leave right after we got married. If we'd had to worry about paying off wedding debt, we might have had to delay our trip or gone somewhere closer or less expensive. 
 
+Of course, if you're saving up cash to pay for your wedding, it may be impossible to go on a honeymoon right away. If you do have to delay your honeymoon, at least you wouldn't have to delay it for the entire time that you're paying back your wedding debt. 
+
 ## Buying a Home
 
-The average wedding in the United States costs upwards of $30,000. That could also be a 10% downpayment on a $300,000 house. If you're spending the first couple years of marriage paying off your wedding, you may not be able to prioritize saving up for a down payment on a home. Many young people are already putting off buying a home because they have student loans to pay back. Adding another hefty debt to the equation could mean you are unable to buy a home for many years. 
+The average wedding in the United States costs upwards of $30,000. That could also be a 10% downpayment on a $300,000 house. If you're spending the first couple years of marriage paying off your wedding, you may not be able to prioritize saving up for a down payment on a home. Many young people are already putting off buying a home because they have student loans to pay back. Adding another hefty debt to the equation could mean you are unable to buy a home for many more years than you'd planned. 
 
 ## Paying Off Other Debt
 
-In the United States, 45 million people are currently paying back [student loan debt](https://studentloanhero.com/student-loan-debt-statistics/). The average debt owed is just under $30,000, but many people, especially those who went to grad school, owe much more than that. 
+In the United States, 45 million people are currently paying back [student loan debt](https://studentloanhero.com/student-loan-debt-statistics/). The average debt owed is just under $30,000, but many people, especially those who went to grad school, owe much more than that. It can be difficult to pay these loans off even if you don't have any other debt. But if you add an expensive wedding loan on top of it, it could be hard to prioritize paying it off. 
 
-It's not just student loan debt that affects people, though. Many Americans also own credit card debt. Credit card debt often comes with high interest rates and hefty fees
+It's not just student loan debt that affects people, though. Many Americans also own credit card debt. Credit card debt often comes with high interest rates and hefty fees, which can snowball into more debt than people ever anticipated. 
 
 ## Having a Happy Marriage
 
-Money trouble is one of the top reasons for marital discord and divorce. It's important to start your marriage on good financial footing.
+Marriage can be difficult no matter what. That's what happens when you're building a life with another person. That's why it's so important to start your marriage on good financial footing. It's even more important because money trouble is one of the top reasons for marital discord and divorce. 
 
-So, if you don't want to go into debt for your wedding, what can you do instead?
+*So, if you don't want to go into debt for your wedding, what can you do instead?*
 
 ## Delay Your Wedding
 
