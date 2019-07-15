@@ -20,9 +20,11 @@ Most of the time, when couples go into debt for their weddings, they're putting 
 
 After Dan and I got married, we spent nearly 3 weeks in Thailand on our honeymoon. The cost ended up being just shy of $5,000, including all flights, lodging, activities, food, and shopping. It was a once-in-a-lifetime experience that I'm so grateful that we could experience. We prioritized saving for our honeymoon while we were saving for our wedding so that we could leave right after we got married. If we'd had to worry about paying off wedding debt, we might have had to delay our trip or gone somewhere closer or less expensive. 
 
+Of course, if you're saving up cash to pay for your wedding, it may be impossible to go on a honeymoon right away. If you do have to delay your honeymoon, at least you wouldn't have to delay it for the entire time that you're paying back your wedding debt. 
+
 ## Buying a Home
 
-The average wedding in the United States costs upwards of $30,000. That could also be a 10% downpayment on a $300,000 house. If you're spending the first couple years of marriage paying off your wedding, you may not be able to prioritize saving up for a down payment on a home. Many young people are already putting off buying a home because they have student loans to pay back. Adding another hefty debt to the equation could mean you are unable to buy a home for many years. 
+The average wedding in the United States costs upwards of $30,000. That could also be a 10% downpayment on a $300,000 house. If you're spending the first couple years of marriage paying off your wedding, you may not be able to prioritize saving up for a down payment on a home. Many young people are already putting off buying a home because they have student loans to pay back. Adding another hefty debt to the equation could mean you are unable to buy a home for many more years than you'd planned. 
 
 ## Paying Off Other Debt
 
