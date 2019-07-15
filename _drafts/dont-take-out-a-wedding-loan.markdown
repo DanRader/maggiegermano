@@ -40,7 +40,7 @@ Marriage can be difficult no matter what. That's what happens when you're buildi
 
 ## Delay Your Wedding
 
-If it's going to take you more than a year or so to save up to pay for your wedding, it might make sense to delay it until you've had time to afford it. This might give you time to pay off debt or save up money or earn more income in order to make your circumstances easier.
+If it's going to take you more than a year or so to save up to pay for your wedding, it might make sense to delay it until you've had time to afford it out right. I know one person who got married to her husband and had a small, intimate celebration right away and then a big traditional wedding several months later. If you don't want to wait to get married but you need to wait to have the party, that might be an alternative option for you! This gives you time to pay off debt or save up money or earn more income in order to make your circumstances easier. 
 
 ## Save The Cash
 
