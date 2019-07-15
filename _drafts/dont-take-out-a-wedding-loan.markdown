@@ -34,9 +34,9 @@ It's not just student loan debt that affects people, though. Many Americans also
 
 ## Having a Happy Marriage
 
-Money trouble is one of the top reasons for marital discord and divorce. It's important to start your marriage on good financial footing.
+Marriage can be difficult no matter what. That's what happens when you're building a life with another person. That's why it's so important to start your marriage on good financial footing. It's even more important because money trouble is one of the top reasons for marital discord and divorce. 
 
-So, if you don't want to go into debt for your wedding, what can you do instead?
+*So, if you don't want to go into debt for your wedding, what can you do instead?*
 
 ## Delay Your Wedding
 
