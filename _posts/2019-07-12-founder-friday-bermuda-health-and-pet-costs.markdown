@@ -56,6 +56,6 @@ While I was on vacation last week, I read the entirety of *[The Bride Test](http
 
 ## **Money Tip to Take Into the Weekend**
 
-![You're probably doing better than you think you are..png](/uploads/You're%20probably%20doing%20better%20than%20you%20think%20you%20are..png)
+![You're probably doing better than you think you are.png](/uploads/You're%20probably%20doing%20better%20than%20you%20think%20you%20are.png)
 
 That’s all from me today! Have a fantastic weekend!
