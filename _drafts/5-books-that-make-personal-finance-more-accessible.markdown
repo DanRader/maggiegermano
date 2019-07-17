@@ -4,7 +4,7 @@ date: 2019-07-22 11:00:00 -04:00
 image: "/uploads/the-bialons-MVCu1JIYuoM-unsplash.jpg"
 ---
 
-x
+Did you know that I wasn't born with all of the financial literacy that I have now? Shocking, I know. No, I had to learn the things that I know. Yes, my personality means that I tend to be more organized with my money and more focused on my financial goals. But I still had to find resources that were interesting to me and easy to understand. 
 
 ## [Smart Women Finish Rich](https://www.goodreads.com/book/show/25645.Smart_Women_Finish_Rich) by David Bach
 
