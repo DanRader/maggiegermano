@@ -28,13 +28,15 @@ Happy Friday, everyone! I’m back to business after traveling for over a week. 
 
 * Dan did our weekly grocery run at Whole Foods.
 
+* I had a follow-up appointment at my new functional medicine doctor in downtown DC on Monday. They don't take insurance, so I wrote them a check for the appointment.
+
 * Since I've been working from home, I wear a lot of very comfortable clothes. My sweatpants have gotten pretty worn down (and have some holes from Bruno's puppy teeth), so I ordered a new pair from [Pact](http://fbuy.me/nlgoJ). I also ordered two tank tops while I was there.
 
-* Flex
+* I don't think I've written about this before but I'm a big supporter of menstrual cups. They are a convenient, sustainable, healthy way to manage your period every month. After having my period on the cruise a few weeks ago, I decided I wanted to try out a new menstrual cup. I decided to buy a new one from [Flex](https://flexcup.com/). Flex usually sells disposable menstrual discs, but they just released a menstrual cup that has a ring at the bottom, which makes it much easier to remove. I wouldn't say I'm excited to try it during my next period, but I'm looking forward to the added convenience!
 
-* x
+* This week, my doctor told me that I should consider cutting back on gluten. Somehow, I'm not devastated by this revelation. I'm feeling motivated to find other healthy options. My first stop, obviously, was finding gluten-free sweets. I ordered a 5 pack of mug cakes from my friend [Alli Owen's](http://alliowen.com/) company, [Primal Noms](https://primalnoms.com/). 
 
-* x
+* This morning, I had breakfast at Whole Foods with my friend [Alyssa Best](http://alyssabest.com/), who is a career coach in the DC area. 
 
 ## **What I’m Writing**
 
@@ -50,7 +52,7 @@ This week, I wrote about [wedding loans](https://www.maggiegermano.com/blog/dont
 
 ## What I'm Excited About
 
-* Daily Outfit coaching
+* I chatted this week with my friend Allison Hamilton-Rohe of [Daily Outfit](https://dailyoutfit.com/) about her [style coaching program](https://dailyoutfit.thinkific.com/courses/signature-style-journey-master-class-fall-2019). I've never loved shopping for clothes, but it's become much harder for me to find clothes that I am happy with and feel good in. I'm considering joining her group coaching program, which begins in September. If you're interesting in signing up, use the code **special20 **to get 20% off!
 
 ## **What I’m Reading**
 
