@@ -36,7 +36,7 @@ Happy Friday, everyone! I’m back to business after traveling for over a week. 
 
 ## **What I’m Writing**
 
-* x
+This week, I wrote about [wedding loans](https://www.maggiegermano.com/blog/dont-take-out-a-wedding-loan/) and why I don't believe anyone should go into debt for their wedding day.
 
 ## **What I’m Up To**
 
@@ -52,8 +52,10 @@ Happy Friday, everyone! I’m back to business after traveling for over a week. 
 
 ## **What I’m Reading**
 
-I finally finished The Power
+I finally finished *[The Power](https://www.goodreads.com/book/show/29751398-the-power?ac=1&from_search=true)* by Naomi Alderman. I loved the plot, but for some reason, I found it hard to get through the whole book. Now, I'm moving on to nonfiction and I'm reading *[Doing Harm](https://www.goodreads.com/book/show/30653955-doing-harm)* by Maya Dusenbery. I'm only a few pages in and I'm already furious. 
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![is like a ye.png](/uploads/is%20like%20a%20ye.png)
+
+That's all from me this week. Have a great weekend!
