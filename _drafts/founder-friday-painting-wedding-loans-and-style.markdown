@@ -14,11 +14,13 @@ Happy Friday, everyone! I’m back to business after traveling for over a week. 
 
 ## **How I Earned Money This Week**
 
-* x
+* One of my retainer clients paid her monthly fee.
 
-* x
+* One of my ongoing clients paid her monthly fee.
 
-* x
+* A new client paid for a one-time coaching session.
+
+* We've had an Airbnb client staying in our basement since Sunday.
 
 ## **How I Spent Money This Week**
 
