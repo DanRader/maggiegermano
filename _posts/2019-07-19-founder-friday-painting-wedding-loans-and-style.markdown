@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Painting, Wedding Loans, and Style
 date: 2019-07-19 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/artem-beliaikin-pJPGCvLblGk-unsplash.jpg"
@@ -52,7 +53,7 @@ This week, I wrote about [wedding loans](https://www.maggiegermano.com/blog/dont
 
 ## What I'm Excited About
 
-* I chatted this week with my friend Allison Hamilton-Rohe of [Daily Outfit](https://dailyoutfit.com/) about her [style coaching program](https://dailyoutfit.thinkific.com/courses/signature-style-journey-master-class-fall-2019). I've never loved shopping for clothes, but it's become much harder for me to find clothes that I am happy with and feel good in. I'm considering joining her group coaching program, which begins in September. If you're interesting in signing up, use the code **special20 **to get 20% off!
+I chatted this week with my friend Allison Hamilton-Rohe of [Daily Outfit](https://dailyoutfit.com/) about her [style coaching program](https://dailyoutfit.thinkific.com/courses/signature-style-journey-master-class-fall-2019). I've never loved shopping for clothes, but it's become much harder for me to find clothes that I am happy with and feel good in. I'm considering joining her group coaching program, which begins in September. If you're interesting in signing up, use the code **special20 **to get 20% off!
 
 ## **What I’m Reading**
 
