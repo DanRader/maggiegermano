@@ -32,7 +32,7 @@ Happy Friday, everyone! I’m back to business after traveling for over a week. 
 
 * Flex
 
-* x
+* This week, my doctor told me that I should consider cutting back on gluten. Somehow, I'm not devastated by this revelation. I'm feeling motivated to find other healthy options. My first stop, obviously, was finding gluten-free sweets. I ordered a 5 pack of mug cakes from my friend [Alli Owen's](http://alliowen.com/) company, [Primal Noms](https://primalnoms.com/). 
 
 * x
 
