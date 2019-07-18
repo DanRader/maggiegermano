@@ -3,6 +3,7 @@ title: Founder Friday | Painting, Wedding Loans, and Style
 date: 2019-07-19 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/artem-beliaikin-pJPGCvLblGk-unsplash.jpg"
 posts:
 - Founder Friday | Bermuda, Health, and Pet Costs
 - Founder Friday | Summer, Forbes Women, and Money Goals
