@@ -16,11 +16,11 @@ Did you know that I wasn't born with all of the financial literacy that I have n
 
 ## [Smart Women Finish Rich](https://www.goodreads.com/book/show/25645.Smart_Women_Finish_Rich) by David Bach
 
-If you know me or if you've been following my blog for a while, you're probably very surprised to see that my first book recommendation was written by a middle-aged white man. However, this book was the very first personal finance book I ever read! It was gifted to me when I completed my internship at the National Wildlife Federation. I was only 22 years old and the information in this book woke up my passion for learning about money. 
+If you know me or if you've been following my blog for a while, you're probably very surprised to see that my first book recommendation was written by a middle-aged white man. However, this book was the very first personal finance book I ever read! It was gifted to me when I completed my internship at the National Wildlife Federation. I was only 22 years old and the information in this book woke up my passion for learning about money.
 
 ## [Financially Fearless](https://www.goodreads.com/book/show/17737028-financially-fearless?ac=1&from_search=true) by Alexa Von Tobel
 
-x
+This is the second personal finance book that I remember being really affected by. I even attended a book tour event for it in DC! 
 
 ## [Broke Millennial](https://www.goodreads.com/book/show/32335700-broke-millennial?ac=1&from_search=true) by Erin Lowry
 
