@@ -24,11 +24,11 @@ Happy Friday, everyone! I’m back to business after traveling for over a week. 
 
 ## **How I Spent Money This Week**
 
-* Paint
+* This past weekend, Dan and I knocked down a bunch of shelves in our master bathroom, which meant that the walls needed to be patched and repainted. We decided to repaint the whole bathroom while we were at it. So we bought paint and some painting supplies on Sunday.
 
-* Whole Foods
+* Dan did our weekly grocery run at Whole Foods.
 
-* Pact
+* Since I've been working from home, I wear a lot of very comfortable clothes. My sweatpants have gotten pretty worn down (and have some holes from Bruno's puppy teeth), so I ordered a new pair from [Pact](http://fbuy.me/nlgoJ). I also ordered two tank tops while I was there.
 
 * Flex
 
