@@ -20,7 +20,7 @@ If you know me or if you've been following my blog for a while, you're probably 
 
 ## [Financially Fearless](https://www.goodreads.com/book/show/17737028-financially-fearless?ac=1&from_search=true) by Alexa Von Tobel
 
-This is the second personal finance book that I remember being really affected by. I even attended a book tour event for it in DC! 
+This is the second personal finance book that I remember being really affected by. I even attended a book tour event for it in DC!
 
 ## [Broke Millennial](https://www.goodreads.com/book/show/32335700-broke-millennial?ac=1&from_search=true) by Erin Lowry
 
@@ -31,5 +31,9 @@ x
 x
 
 ## [Get Money](https://www.goodreads.com/book/show/35604725-get-money?from_search=true) by Kristin Wong
+
+x
+
+## [Clever Girl Finance](https://www.goodreads.com/book/show/43119516-clever-girl-finance) by Bola Sokunbi
 
 x
