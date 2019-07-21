@@ -16,11 +16,15 @@ Did you know that I wasn't born with all of the financial literacy that I have n
 
 ## [Smart Women Finish Rich](https://www.goodreads.com/book/show/25645.Smart_Women_Finish_Rich) by David Bach
 
-If you know me or if you've been following my blog for a while, you're probably very surprised to see that my first book recommendation was written by a middle-aged white man. However, this book was the very first personal finance book I ever read! It was gifted to me when I completed my internship at the National Wildlife Federation. I was only 22 years old and the information in this book woke up my passion for learning about money.
+If you know me or if you've been following my blog for a while, you're probably very surprised to see that my first book recommendation was written by a middle-aged white man. However, this book was the very first personal finance book I ever read! It was gifted to me when I completed my internship at the National Wildlife Federation. I was only 22 years old and the information in this book woke up my passion for learning about money. I'd always been fairly careful with my money, but this book showed me how important it really is to be smart with my money and also gave me the tools to do so. I haven't re-read it since then, so I'm not sure how well it's aged, but I do recommend it as a good place to start.
+
+David Bach has written many other books in addition to this one. Another good one to read is *[Smart Couples Finish Rich](https://www.goodreads.com/book/show/6301.Smart_Couples_Finish_Rich)*.
 
 ## [Financially Fearless](https://www.goodreads.com/book/show/17737028-financially-fearless?ac=1&from_search=true) by Alexa Von Tobel
 
-This is the second personal finance book that I remember being really affected by. I even attended a book tour event for it in DC!
+This is the second personal finance book that I remember being really affected by. I even attended a book tour event for it in DC! Alexa Von Tobel founded Learnvest, which used to be my favorite budgeting platform and personal finance blog. This book is easy to read, straight forward, and digestible. 
+
+I haven't read it yet, but Alexa just released a new book called *[Financially Forward](https://www.goodreads.com/book/show/42601024-financially-forward)*.
 
 ## [Broke Millennial](https://www.goodreads.com/book/show/32335700-broke-millennial?ac=1&from_search=true) by Erin Lowry
 
@@ -28,11 +32,7 @@ x
 
 ## [The Financial Feminist Handbook](https://www.goodreads.com/book/show/41073145-the-feminist-financial-handbook?ac=1&from_search=true) by Brynne Conroy
 
-x
-
-## [Get Money](https://www.goodreads.com/book/show/35604725-get-money?from_search=true) by Kristin Wong
-
-x
+Any book with the words "financial feminist" in the title is going to catch my eye. 
 
 ## [Clever Girl Finance](https://www.goodreads.com/book/show/43119516-clever-girl-finance) by Bola Sokunbi
 
