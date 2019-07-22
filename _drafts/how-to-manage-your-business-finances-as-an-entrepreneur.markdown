@@ -5,5 +5,11 @@ categories:
 - Career
 - lifestyle
 image: "/uploads/brooke-cagle-g1Kr4Ozfoac-unsplash.jpg"
+tweet: So you've started a business. Make sure you're taking the right financial steps
+  to keep your business healthy.
+posts:
+- Why I Quit My Job to Be a Full-Time Financial Coach
+- The Real Reason Minority-Owned Businesses Aren't Getting Funded
+- How to Start Your Own Business
 ---
 
