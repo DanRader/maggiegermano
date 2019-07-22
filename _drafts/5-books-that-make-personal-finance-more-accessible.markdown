@@ -42,7 +42,7 @@ x
 
 There is so much personal finance goodness out there, so if you can't get enough after reading these five books, here are a few more to check out:
 
-* Get Money by Kristin Wong
+* *[Get Money](https://www.goodreads.com/book/show/35604725-get-money?ac=1&from_search=true)* by Kristin Wong
 
 * Money: A Love Story by Kate Northrup
 
