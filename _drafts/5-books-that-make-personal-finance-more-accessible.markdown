@@ -49,3 +49,5 @@ There is so much personal finance goodness out there, so if you can't get enough
 * *[Sacred Success](https://www.goodreads.com/book/show/20702642-sacred-success?ac=1&from_search=true)* by Barbara Stanny
 
 * *[The Financial Diet](https://www.goodreads.com/en/book/show/32927009)* by Chelsea Fagan
+
+Happy reading!
