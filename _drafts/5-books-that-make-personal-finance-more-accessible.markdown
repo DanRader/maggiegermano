@@ -22,9 +22,9 @@ David Bach has written many other books in addition to this one. Another good on
 
 ## [Financially Fearless](https://www.goodreads.com/book/show/17737028-financially-fearless?ac=1&from_search=true) by Alexa Von Tobel
 
-This is the second personal finance book that I remember being really affected by. I even attended a book tour event for it in DC! Alexa Von Tobel founded Learnvest, which used to be my favorite budgeting platform and personal finance blog (it now seems to be defunct after Northwest Mutual bought it). This book is easy to read, straight forward, and digestible. It gives you all the financial information that you need to 
+This is the second personal finance book that I remember being really affected by. I even attended a book tour event for it in DC! Alexa Von Tobel founded Learnvest, which used to be my favorite budgeting platform and personal finance blog (it now seems to be defunct after Northwest Mutual bought it). This book is easy to read, straight forward, and digestible. It gives you all the financial information that you need to get your money right, plus it gives clear action steps that you can take to move forward. 
 
-I haven't read it yet, but Alexa just released a new book called *[Financially Forward](https://www.goodreads.com/book/show/42601024-financially-forward)*.
+I haven't read it yet, but Alexa also just released a new book called *[Financially Forward](https://www.goodreads.com/book/show/42601024-financially-forward)*.
 
 ## [Broke Millennial](https://www.goodreads.com/book/show/32335700-broke-millennial?ac=1&from_search=true) by Erin Lowry
 
