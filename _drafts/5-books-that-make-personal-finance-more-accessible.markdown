@@ -28,7 +28,7 @@ I haven't read it yet, but Alexa also just released a new book called *[Financia
 
 ## [Broke Millennial](https://www.goodreads.com/book/show/32335700-broke-millennial?ac=1&from_search=true) by Erin Lowry
 
-Erin Lowry, aka "Broke Millennial", specifically targets millennials when she writes and speaks about personal finance issues. 
+Erin Lowry, aka "[Broke Millennial](https://brokemillennial.com/)", specifically targets millennials when she writes and speaks about personal finance issues. 
 
 If you love this book and want to expand your financial knowledge to investing, check out Erin's newest book *[Broke Millennial Takes On Investing](https://www.goodreads.com/book/show/41108699-broke-millennial-takes-on-investing)*.
 
@@ -38,7 +38,7 @@ Any book with the words "financial feminist" in the title is going to catch my e
 
 ## [Clever Girl Finance](https://www.goodreads.com/book/show/43119516-clever-girl-finance) by Bola Sokunbi
 
-I've been following Bola and Clever Girl Finance since I got into the money game nearly four years ago. 
+I've been following Bola and Clever Girl Finance since I got into the money game nearly four years ago. I was even a guest on [her podcast](https://www.clevergirlfinance.com/podcast-episodes/podcast-episode-52-lets-talk-about-financially-sound-wedding-planning-with-guest-maggie-germano/) last year! 
 
 There is so much personal finance goodness out there, so if you can't get enough after reading these five books, here are a few more to check out:
 
