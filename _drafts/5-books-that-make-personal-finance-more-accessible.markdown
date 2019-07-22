@@ -12,7 +12,7 @@ posts:
 - Budgeting 101
 ---
 
-Did you know that I wasn't born with all of the financial literacy that I have now? Shocking, I know. No, really, I actually had to learn the things that I know. Financial literacy is not something that is innate. Yes, my personality means that I tend to be more organized with my money and more focused on my financial goals. But I still had to find resources that were interesting to me and easy to understand. That's the important part - you have to find the personal finance advice that speaks to you and makes you feel like you can achieve your goals. For example, if you're underpaid and living paycheck to paycheck, Suze Orman may not be the one to read. But you're in luck! Below are five books that I think make personal finance more accessible to everyone.
+Did you know that I wasn't born with all of the financial literacy that I have now? Shocking, I know. No, really, I actually had to learn the things that I know. Financial literacy is not something that is innate. Yes, my personality means that I tend to be more organized with my money and more focused on my financial goals. But I still had to find resources that were interesting to me and easy to understand. That's the important part - you have to find the personal finance advice that speaks to you and makes you feel like you can achieve your goals. For example, if you're underpaid and living paycheck to paycheck, Suze Orman may not be the one to read. But you're in luck! Below are five books that I think make personal finance more accessible and interesting to everyone.
 
 ## [Smart Women Finish Rich](https://www.goodreads.com/book/show/25645.Smart_Women_Finish_Rich) by David Bach
 
@@ -22,9 +22,9 @@ David Bach has written many other books in addition to this one. Another good on
 
 ## [Financially Fearless](https://www.goodreads.com/book/show/17737028-financially-fearless?ac=1&from_search=true) by Alexa Von Tobel
 
-This is the second personal finance book that I remember being really affected by. I even attended a book tour event for it in DC! Alexa Von Tobel founded Learnvest, which used to be my favorite budgeting platform and personal finance blog. This book is easy to read, straight forward, and digestible. 
+This is the second personal finance book that I remember being really affected by. I even attended a book tour event for it in DC! Alexa Von Tobel founded Learnvest, which used to be my favorite budgeting platform and personal finance blog (it now seems to be defunct after Northwest Mutual bought it). This book is easy to read, straight forward, and digestible. It gives you all the financial information that you need to get your money right, plus it gives clear action steps that you can take to move forward. 
 
-I haven't read it yet, but Alexa just released a new book called *[Financially Forward](https://www.goodreads.com/book/show/42601024-financially-forward)*.
+I haven't read it yet, but Alexa also just released a new book called *[Financially Forward](https://www.goodreads.com/book/show/42601024-financially-forward)*.
 
 ## [Broke Millennial](https://www.goodreads.com/book/show/32335700-broke-millennial?ac=1&from_search=true) by Erin Lowry
 
