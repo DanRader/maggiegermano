@@ -13,7 +13,7 @@ posts:
 - How to Start Your Own Business
 ---
 
-x
+When I first started my business, I had no idea what I was doing. All I knew was that I wanted to help women get their money right. 
 
 ## Register Your Business
 
