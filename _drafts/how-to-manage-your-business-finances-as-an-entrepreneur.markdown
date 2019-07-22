@@ -13,3 +13,28 @@ posts:
 - How to Start Your Own Business
 ---
 
+x
+
+## Register Your Business
+
+x
+
+## Open a Business Bank Account
+
+x
+
+## Track Your Income and Expenses
+
+x
+
+## Save for Taxes All Year
+
+x
+
+## Pay Quarterly Taxes
+
+x
+
+## Save for Emergencies
+
+Emergency funds are not just for your personal life. Your business needs one too. This is especially true if you have overhead like payroll. You want to make sure you'll be able to pay your bills and your employees if you go through a slow month or lose a big client. 
