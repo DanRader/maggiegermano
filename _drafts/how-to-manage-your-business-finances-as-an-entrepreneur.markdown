@@ -13,7 +13,7 @@ posts:
 - How to Start Your Own Business
 ---
 
-x
+When I first started my business, I had no idea what I was doing. All I knew was that I wanted to help women get their money right. But there's so much more to a business than just the mission that you're hoping to fulfill. There's also the financial side of business. And I don't just mean bringing in money, I mean structuring and managing the money that is coming in and going out. 
 
 ## Register Your Business
 
