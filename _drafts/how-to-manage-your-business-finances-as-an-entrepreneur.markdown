@@ -21,7 +21,7 @@ x
 
 ## Open a Business Bank Account
 
-x
+Even if you're the only person working for your business, it's important to keep your business finances and personal finances separate. 
 
 ## Track Your Income and Expenses
 
@@ -37,4 +37,4 @@ x
 
 ## Save for Emergencies
 
-Emergency funds are not just for your personal life. Your business needs one too. This is especially true if you have overhead like payroll. You want to make sure you'll be able to pay your bills and your employees if you go through a slow month or lose a big client. 
+Emergency funds are not just for your personal life. Your business needs one too. This is especially true if you have overhead like payroll. You want to make sure you'll be able to pay your bills and your employees if you go through a slow month or lose a big client.
