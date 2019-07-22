@@ -36,11 +36,13 @@ If you love this book and want to expand your financial knowledge to investing, 
 
 Any book with the words "financial feminist" in the title is going to catch my eye. Add someone as great as Brynne Conroy and you have a winner. I met Brynne at FinCon a few years ago and we bonded over our shared passion for women's empowerment and financial literacy. I was so excited to find out earlier this year that she was publishing her first book. In this book, Brynne dives into the financial issues that disproportionately affect women in our society. But you won't walk away feeling hopeless because she gives you actionable steps to achieve financial success in your own life. 
 
-If you want to hear more from Brynne, check out her blog at [Femme Frugality](https://femmefrugality.com/). 
+If you want to hear more from Brynne, check out her blog at [Femme Frugality](https://femmefrugality.com/)! 
 
 ## [Clever Girl Finance](https://www.goodreads.com/book/show/43119516-clever-girl-finance) by Bola Sokunbi
 
-I've been following Bola and Clever Girl Finance since I got into the money game nearly four years ago. I was even a guest on [her podcast](https://www.clevergirlfinance.com/podcast-episodes/podcast-episode-52-lets-talk-about-financially-sound-wedding-planning-with-guest-maggie-germano/) last year! One of the great things about Bola and her work is that she helps readers identify their own financial needs and challenges, which is important for finding the right way forward. In her very first book, she goes deeper into how women's lives and struggles are unique and how we need more 
+I've been following Bola and Clever Girl Finance since I got into the money game nearly four years ago. I was even a guest on [her podcast](https://www.clevergirlfinance.com/podcast-episodes/podcast-episode-52-lets-talk-about-financially-sound-wedding-planning-with-guest-maggie-germano/) last year! One of the great things about Bola and her work is that she helps readers identify their own financial needs and challenges, which is important for finding the right way forward. In her very first book, she goes deeper into how women's lives and struggles are unique and how we need more specific advice and guidance.
+
+If you want to learn more from Bola, check out [Clever Girl Finance](https://www.clevergirlfinance.com/)!
 
 There is so much personal finance goodness out there, so if you can't get enough after reading these five books, here are a few more to check out:
 
