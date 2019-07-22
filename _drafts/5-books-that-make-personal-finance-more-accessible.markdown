@@ -47,3 +47,5 @@ There is so much personal finance goodness out there, so if you can't get enough
 * *[Money: A Love Story](https://www.goodreads.com/book/show/17165012-money-a-love-story)* by Kate Northrup
 
 * *[Sacred Success](https://www.goodreads.com/book/show/20702642-sacred-success?ac=1&from_search=true)* by Barbara Stanny
+
+* Ask for More by 
