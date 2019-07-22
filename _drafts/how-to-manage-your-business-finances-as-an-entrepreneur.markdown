@@ -13,7 +13,7 @@ posts:
 - How to Start Your Own Business
 ---
 
-When I first started my business, I had no idea what I was doing. All I knew was that I wanted to help women get their money right. But there's so much more to a business than just the mission that you're hoping to fulfill. There's also the financial side of business. And I don't just mean bringing in money, I also mean systematizing and managing the money that is coming in and going out. This is imperative if you want to create and build a business that will last. 
+When I first started my business, I had no idea what I was doing. All I knew was that I wanted to help women get their money right. But there's so much more to a business than just the mission that you're hoping to fulfill. There's also the financial side of business. And I don't just mean bringing in money, I also mean systematizing and managing the money that is coming in and going out. This is imperative if you want to create and build a business that will last. But don't expect yourself to just know how to manage your business finances. You have to learn. Follow the steps below and you'll be in good shape.
 
 ## Register Your Business
 
@@ -38,3 +38,7 @@ x
 ## Save for Emergencies
 
 Emergency funds are not just for your personal life. Your business needs one too. This is especially true if you have overhead like payroll. You want to make sure you'll be able to pay your bills and your employees if you go through a slow month or lose a big client.
+
+Hire a Tax Accountant
+
+x
