@@ -44,6 +44,6 @@ There is so much personal finance goodness out there, so if you can't get enough
 
 * *[Get Money](https://www.goodreads.com/book/show/35604725-get-money?ac=1&from_search=true)* by Kristin Wong
 
-* Money: A Love Story by Kate Northrup
+* *[Money: A Love Story](https://www.goodreads.com/book/show/17165012-money-a-love-story)* by Kate Northrup
 
-* Sacred Success by Barbara 
+* *[Sacred Success](https://www.goodreads.com/book/show/20702642-sacred-success?ac=1&from_search=true)* by Barbara Stanny
