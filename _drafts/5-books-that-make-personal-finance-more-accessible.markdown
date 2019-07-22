@@ -28,17 +28,17 @@ I haven't read it yet, but Alexa also just released a new book called *[Financia
 
 ## [Broke Millennial](https://www.goodreads.com/book/show/32335700-broke-millennial?ac=1&from_search=true) by Erin Lowry
 
-x
+Erin Lowry, aka "[Broke Millennial](https://brokemillennial.com/)", specifically targets millennials when she writes and speaks about personal finance issues. 
 
 If you love this book and want to expand your financial knowledge to investing, check out Erin's newest book *[Broke Millennial Takes On Investing](https://www.goodreads.com/book/show/41108699-broke-millennial-takes-on-investing)*.
 
 ## [The Financial Feminist Handbook](https://www.goodreads.com/book/show/41073145-the-feminist-financial-handbook?ac=1&from_search=true) by Brynne Conroy
 
-Any book with the words "financial feminist" in the title is going to catch my eye. Add someone as great as Brynne Conroy and you have a winner. I met Brynne at FinCon a few years ago and we bonded over our shared passion for women's empowerment and financial literacy. 
+Any book with the words "financial feminist" in the title is going to catch my eye. Add someone as great as Brynne Conroy and you have a winner. I met Brynne at FinCon a few years ago and we bonded over our shared passion for women's empowerment and financial literacy. I was so excited to find out earlier this year that she was publishing her first book. 
 
 ## [Clever Girl Finance](https://www.goodreads.com/book/show/43119516-clever-girl-finance) by Bola Sokunbi
 
-I've been following Bola and Clever Girl Finance since I got into the money game nearly four years ago. 
+I've been following Bola and Clever Girl Finance since I got into the money game nearly four years ago. I was even a guest on [her podcast](https://www.clevergirlfinance.com/podcast-episodes/podcast-episode-52-lets-talk-about-financially-sound-wedding-planning-with-guest-maggie-germano/) last year! 
 
 There is so much personal finance goodness out there, so if you can't get enough after reading these five books, here are a few more to check out:
 
@@ -47,3 +47,7 @@ There is so much personal finance goodness out there, so if you can't get enough
 * *[Money: A Love Story](https://www.goodreads.com/book/show/17165012-money-a-love-story)* by Kate Northrup
 
 * *[Sacred Success](https://www.goodreads.com/book/show/20702642-sacred-success?ac=1&from_search=true)* by Barbara Stanny
+
+* *[The Financial Diet](https://www.goodreads.com/en/book/show/32927009)* by Chelsea Fagan
+
+Happy reading!
