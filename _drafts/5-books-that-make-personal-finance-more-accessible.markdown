@@ -28,7 +28,7 @@ I haven't read it yet, but Alexa also just released a new book called *[Financia
 
 ## [Broke Millennial](https://www.goodreads.com/book/show/32335700-broke-millennial?ac=1&from_search=true) by Erin Lowry
 
-Erin Lowry, aka "[Broke Millennial](https://brokemillennial.com/)", specifically targets millennials when she writes and speaks about personal finance issues. 
+Erin Lowry, aka "[Broke Millennial](https://brokemillennial.com/)", specifically targets millennials when she writes and speaks about personal finance issues. If you're looking for a book that is honest and real, this is a great place to start. Erin shows you how to go from broke to 
 
 If you love this book and want to expand your financial knowledge to investing, check out Erin's newest book *[Broke Millennial Takes On Investing](https://www.goodreads.com/book/show/41108699-broke-millennial-takes-on-investing)*.
 
