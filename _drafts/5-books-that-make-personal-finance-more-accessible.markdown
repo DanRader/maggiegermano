@@ -34,7 +34,7 @@ If you love this book and want to expand your financial knowledge to investing, 
 
 ## [The Financial Feminist Handbook](https://www.goodreads.com/book/show/41073145-the-feminist-financial-handbook?ac=1&from_search=true) by Brynne Conroy
 
-Any book with the words "financial feminist" in the title is going to catch my eye. 
+Any book with the words "financial feminist" in the title is going to catch my eye. Add someone as great as Brynne Conroy and you have a winner. I met Brynne at FinCon a few years ago and we bonded over our shared passion for women's empowerment and financial literacy. 
 
 ## [Clever Girl Finance](https://www.goodreads.com/book/show/43119516-clever-girl-finance) by Bola Sokunbi
 
