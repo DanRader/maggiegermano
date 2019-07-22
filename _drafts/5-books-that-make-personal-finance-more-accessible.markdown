@@ -38,7 +38,7 @@ Any book with the words "financial feminist" in the title is going to catch my e
 
 ## [Clever Girl Finance](https://www.goodreads.com/book/show/43119516-clever-girl-finance) by Bola Sokunbi
 
-x
+I've been following Bola and Clever Girl Finance since I got into the money game nearly four years ago. 
 
 There is so much personal finance goodness out there, so if you can't get enough after reading these five books, here are a few more to check out:
 
