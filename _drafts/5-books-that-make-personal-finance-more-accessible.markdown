@@ -40,7 +40,7 @@ If you want to hear more from Brynne, check out her blog at [Femme Frugality](ht
 
 ## [Clever Girl Finance](https://www.goodreads.com/book/show/43119516-clever-girl-finance) by Bola Sokunbi
 
-I've been following Bola and Clever Girl Finance since I got into the money game nearly four years ago. I was even a guest on [her podcast](https://www.clevergirlfinance.com/podcast-episodes/podcast-episode-52-lets-talk-about-financially-sound-wedding-planning-with-guest-maggie-germano/) last year! 
+I've been following Bola and Clever Girl Finance since I got into the money game nearly four years ago. I was even a guest on [her podcast](https://www.clevergirlfinance.com/podcast-episodes/podcast-episode-52-lets-talk-about-financially-sound-wedding-planning-with-guest-maggie-germano/) last year! One of the great things about Bola and her work is that she helps readers identify their own financial needs and challenges, which is important for finding the right way forward. In her very first book, she goes deeper into how women's lives and struggles are unique and how we need more 
 
 There is so much personal finance goodness out there, so if you can't get enough after reading these five books, here are a few more to check out:
 
