@@ -39,6 +39,6 @@ x
 
 Emergency funds are not just for your personal life. Your business needs one too. This is especially true if you have overhead like payroll. You want to make sure you'll be able to pay your bills and your employees if you go through a slow month or lose a big client.
 
-Hire a Tax Accountant
+## Hire a Tax Accountant
 
 x
