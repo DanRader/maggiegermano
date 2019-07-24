@@ -23,15 +23,17 @@ x
 
 Even if you're the only person working for your business, it's important to keep your business finances and personal finances separate.
 
+One of the best decisions I ever made as a brand new business owner was to open up a business bank account. This made it so much easier to track my income and business expenses so that I was very clear on how much I would have to pay in taxes later.
+
+Save yourself a lot of headaches and open up a separate account as soon as you start doing business. There are big banks that offer business banking, like Capital One (which also have savings and credit card options), but there are also startups that don’t have fees, like Azlo (just checking). Depending on what you need, you can choose what’s right for you.
+
 ## Track Your Income and Expenses
 
-x
+Especially when you’re new, you don’t need to hire a full-time accountant. There are so many accounting platforms out there these days that are reasonably priced and easy to use. Wave is free, while platforms like FreshBooks and Quicken Self-Employed have a small monthly fee.
+
+Subscribing to one of these platforms will allow you to see your business income and expenses all in one place. You can even link it to your bank account and/or credit card so that it can update automatically, which will save you time and stress.
 
 ## Save for Taxes All Year
-
-x
-
-## Pay Quarterly Taxes
 
 When you are self-employed, you don’t have a payroll department taking taxes out of your paycheck for you. This is a not-so-fun task that you have to do yourself.
 
@@ -40,6 +42,10 @@ My advice would be to automatically set 30% of your income aside as soon as you 
 You will also need to pay estimated quarterly taxes as a freelancer, so it’s important to have that money on hand.
 
 If you know that you won’t remember to take this step, or if it’s just not something you want to handle yourself, there are companies out there that will do it for you. For example, you can set up an account with Painless 1099 and they will automatically set tax money aside whenever you get paid.
+
+## Pay Quarterly Taxes
+
+x
 
 ## Save for Emergencies
 
