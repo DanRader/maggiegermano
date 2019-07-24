@@ -51,6 +51,12 @@ x
 
 Emergency funds are not just for your personal life. Your business needs one too. This is especially true if you have overhead like payroll. You want to make sure you'll be able to pay your bills and your employees if you go through a slow month or lose a big client.
 
+Having emergency savings is not just applicable in your personal life. Your business needs an emergency fund too!
+
+Get clear on what your overhead costs are and make sure you have a few months worth of those costs saved up at all times. Freelancing and small business income can be unpredictable and you don’t want to get caught short on cash.
+
+Set up an emergency fund to ensure that you can always pay your business bills, even if you have a lean month.
+
 ## Hire a Tax Accountant
 
 As your tax situation gets more complicated, the time may come that you should hire a tax expert to file your taxes for you.
