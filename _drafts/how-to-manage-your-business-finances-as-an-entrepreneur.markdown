@@ -33,7 +33,13 @@ x
 
 ## Pay Quarterly Taxes
 
-x
+When you are self-employed, you don’t have a payroll department taking taxes out of your paycheck for you. This is a not-so-fun task that you have to do yourself.
+
+My advice would be to automatically set 30% of your income aside as soon as you get it. Set up a savings account that you nickname “taxes” and don’t touch it for anything else.
+
+You will also need to pay estimated quarterly taxes as a freelancer, so it’s important to have that money on hand.
+
+If you know that you won’t remember to take this step, or if it’s just not something you want to handle yourself, there are companies out there that will do it for you. For example, you can set up an account with Painless 1099 and they will automatically set tax money aside whenever you get paid.
 
 ## Save for Emergencies
 
@@ -41,4 +47,12 @@ Emergency funds are not just for your personal life. Your business needs one too
 
 ## Hire a Tax Accountant
 
-x
+As your tax situation gets more complicated, the time may come that you should hire a tax expert to file your taxes for you.
+
+Yes, this costs money, but it might actually save you money in the long run. An expert knows exactly what you need to include when preparing your tax returns, and can get you as many write-offs as possible. Plus, you can write off the cost of filing your taxes, as it counts as a business expense!
+
+My life changed a lot in 2018. I went full-time with my business, I owned a home, I got married, and I ran an Airbnb out of my basement. I didn’t feel confident that I would be able to prepare my taxes as well as an expert, so I hired one.
+
+It’s an excellent investment in peace of mind.
+
+xx
