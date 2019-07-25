@@ -17,6 +17,10 @@ Happy Friday, everyone! Here’s what I was up to.
 
 ## **How I Spent Money This Week**
 
+* On Sunday, after book club, my friend and I caught up over lunch. I wasn't super hungry, so I just got a side of sweet potato fries.
+
+* Dan and I had a pretty expensive grocery haul at Whole Foods on Sunday afternoon. But we've been really sticking to a meal structure for the past few weeks, so we never need to buy more food after doing the big run on Sunday.
+
 * I swear to god, the pet expenses never stop! Bruno got neutered two weeks ago, so we had his post-op appointment on Monday. They also wanted to do a blood test and fecal test on him to rule out some things, so the appointment was extra expensive. Luckily, everything came back normal and Bruno doesn't have to wear his cone anymore!
 
 * x
