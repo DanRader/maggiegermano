@@ -3,6 +3,11 @@ title: Founder Friday | Money Satisfaction, Pool Parties, and Financial Advice
 date: 2019-07-26 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/shiangling--xuT3I69J0M-unsplash.jpg"
+posts:
+- Founder Friday | Painting, Wedding Loans, and Style
+- Founder Friday | Bermuda, Health, and Pet Costs
+- Founder Friday | Summer, Forbes Women, and Money Goals
 ---
 
 Happy Friday, everyone! Here’s what I was up to.
