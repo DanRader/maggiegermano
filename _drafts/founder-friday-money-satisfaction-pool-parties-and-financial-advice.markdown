@@ -23,7 +23,7 @@ Happy Friday, everyone! Here’s what I was up to.
 
 * I swear to god, the pet expenses never stop! Bruno got neutered two weeks ago, so we had his post-op appointment on Monday. They also wanted to do a blood test and fecal test on him to rule out some things, so the appointment was extra expensive. Luckily, everything came back normal and Bruno doesn't have to wear his cone anymore!
 
-* Money Circle was on Wednesday night, so I stopped and bought the usual snacks from Trader Joe's. I also paid for street parking. I don't love paying for parking, but I usually end up taking a Lyft home from Money Circle, so I'm actually saving money!
+* [Money Circle](https://www.maggiegermano.com/moneycircle/) was on Wednesday night, so I stopped and bought the usual snacks from Trader Joe's. I also paid for street parking. I don't love paying for parking, but I usually end up taking a Lyft home from Money Circle, so I'm actually saving money!
 
 ![IMG_9135.jpg](/uploads/IMG_9135.jpg)
 
