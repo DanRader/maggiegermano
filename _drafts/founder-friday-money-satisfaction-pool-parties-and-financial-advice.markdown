@@ -13,11 +13,15 @@ Happy Friday, everyone! Here’s what I was up to.
 
 * We've had one Airbnb guest staying with us all week. 
 
+* The fees for this week's Money Circle meetup are on the way.
+
 ## **How I Spent Money This Week**
 
-* x
+* I swear to god, the pet expenses never stop! Bruno got neutered two weeks ago, so we had his post-op appointment on Monday. They also wanted to do a blood test and fecal test on him to rule out some things, so the appointment was extra expensive. Luckily, everything came back normal and Bruno doesn't have to wear his cone anymore!
 
 * x
+
+![IMG_9135.jpg](/uploads/IMG_9135.jpg)
 
 ## **What I’m Writing**
 
@@ -33,11 +37,11 @@ This week, I wrote about the [five personal finance books](https://www.maggieger
 
 ## **What I’m Excited About**
 
-xx
+Guys. Dan and I are taking Bruno to a corgi pool party tomorrow! Follow [me](http://www.instagram.com/maggiegermano) and [Bruno](http://www.instagram.com/bruno.the.corg) on Instagram to stay up to date with pictures of all the corgis swimming. 
 
 ## **What I’m Reading**
 
-xx
+I'm currently reading *[The Husband's Secret](https://www.goodreads.com/book/show/17802724-the-husband-s-secret)* by Liane Moriarty. After speeding through Big Little Lies, I wanted more. If you're keeping track, I said last week that I started *[Doing Harm](https://www.goodreads.com/book/show/30653955-doing-harm?from_search=true)* by Maya Dusenbery. I'm having a hard time focusing on nonfiction this summer, so that's on the back burner for now. 
 
 ## **Money Tip to Take Into the Weekend**
 
