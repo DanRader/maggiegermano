@@ -9,9 +9,9 @@ Happy Friday, everyone! Here’s what I was up to.
 
 ## **How I Earned Money This Week**
 
-* x
+* One of my retainer clients paid her monthly fee.
 
-* x
+* We've had one Airbnb guest staying with us all week. 
 
 ## **How I Spent Money This Week**
 
