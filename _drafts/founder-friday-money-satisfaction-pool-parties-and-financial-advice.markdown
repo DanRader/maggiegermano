@@ -9,19 +9,27 @@ Happy Friday, everyone! Here’s what I was up to.
 
 ## **How I Earned Money This Week**
 
-* x
+* One of my retainer clients paid her monthly fee.
 
-* x
+* We've had one Airbnb guest staying with us all week. 
+
+* The fees for this week's Money Circle meetup are on the way.
 
 ## **How I Spent Money This Week**
 
-* x
+* On Sunday, after book club, my friend and I caught up over lunch. I wasn't super hungry, so I just got a side of sweet potato fries.
 
-* x
+* Dan and I had a pretty expensive grocery haul at Whole Foods on Sunday afternoon. But we've been really sticking to a meal structure for the past few weeks, so we never need to buy more food after doing the big run on Sunday.
+
+* I swear to god, the pet expenses never stop! Bruno got neutered two weeks ago, so we had his post-op appointment on Monday. They also wanted to do a blood test and fecal test on him to rule out some things, so the appointment was extra expensive. Luckily, everything came back normal and Bruno doesn't have to wear his cone anymore!
+
+* [Money Circle](https://www.maggiegermano.com/moneycircle/) was on Wednesday night, so I stopped and bought the usual snacks from Trader Joe's. I also paid for street parking. I don't love paying for parking, but I usually end up taking a Lyft home from Money Circle, so I'm actually saving money!
+
+![IMG_9135.jpg](/uploads/IMG_9135.jpg)
 
 ## **What I’m Writing**
 
-xx
+This week, I wrote about the [five personal finance books](https://www.maggiegermano.com/blog/5-books-that-make-personal-finance-more-accessible/) that I find to be most accessible and helpful for women. 
 
 ## **What I’m Up To**
 
@@ -33,11 +41,11 @@ xx
 
 ## **What I’m Excited About**
 
-xx
+Guys. Dan and I are taking Bruno to a corgi pool party tomorrow! Follow [me](http://www.instagram.com/maggiegermano) and [Bruno](http://www.instagram.com/bruno.the.corg) on Instagram to stay up to date with pictures of all the corgis swimming. 
 
 ## **What I’m Reading**
 
-xx
+I'm currently reading *[The Husband's Secret](https://www.goodreads.com/book/show/17802724-the-husband-s-secret)* by Liane Moriarty. After speeding through Big Little Lies, I wanted more. If you're keeping track, I said last week that I started *[Doing Harm](https://www.goodreads.com/book/show/30653955-doing-harm?from_search=true)* by Maya Dusenbery. I'm having a hard time focusing on nonfiction this summer, so that's on the back burner for now. 
 
 ## **Money Tip to Take Into the Weekend**
 
