@@ -21,7 +21,7 @@ Happy Friday, everyone! Here’s what I was up to.
 
 ## **What I’m Writing**
 
-xx
+This week, I wrote about the [five personal finance books](https://www.maggiegermano.com/blog/5-books-that-make-personal-finance-more-accessible/) that I find to be most accessible and helpful for women. 
 
 ## **What I’m Up To**
 
