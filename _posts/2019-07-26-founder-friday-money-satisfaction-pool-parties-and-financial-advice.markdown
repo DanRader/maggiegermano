@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Money Satisfaction, Pool Parties, and Financial Advice
 date: 2019-07-26 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/shiangling--xuT3I69J0M-unsplash.jpg"
@@ -54,6 +55,6 @@ I'm currently reading *[The Husband's Secret](https://www.goodreads.com/book/sho
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![You are my sunshine..png](/uploads/You%20are%20my%20sunshine..png)
 
 That’s all from me this week. Have a great weekend!
