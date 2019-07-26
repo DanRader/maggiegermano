@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Money Satisfaction, Pool Parties, and Financial Advice
 date: 2019-07-26 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 image: "/uploads/shiangling--xuT3I69J0M-unsplash.jpg"
