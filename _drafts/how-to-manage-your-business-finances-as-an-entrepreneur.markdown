@@ -35,7 +35,7 @@ Subscribing to one of these platforms will allow you to see your business income
 
 ## **Don't Overspend**
 
-When you first get started with your business, it's easy to get carried away with branded items and exciting opportunities.
+When you first get started with your business, it's easy to get carried away with branded items and exciting opportunities. It also feels easy to spend money when you know you can write off the expenses on your taxes. But the truth is, the more money you're spending on your business, the less money there is for you to take home and pay yourself. Of course, you should invest in the things that will help improve and grow your business, but try to keep yourself in check. Make sure you can actually afford the things you're going to spend money on and make sure they will be worth the expense.
 
 ## **Save for Taxes All Year**
 
