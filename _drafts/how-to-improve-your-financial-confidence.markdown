@@ -10,13 +10,13 @@ Nearly four years ago, when I was just realizing that I wanted to pursue the fin
 
 x
 
-**Why Financial Confidence Matters**
+## Why Financial Confidence Matters
 
 x
 
 * x
 
-**How to Build Your Money Confidence**
+## How to Build Your Money Confidence
 
 x
 
