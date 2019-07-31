@@ -39,7 +39,7 @@ Just because you don't currently feel confident about your money management skil
 
 **Forgive Yourself for Past Mistakes**
 
-* You can't change the past
+* You can't change the past: No matter how much you try to punish yourself for your past mistakes they still won't go away. Dwelling on them only causes you to suffer and keeps you stuck in the past.
 
 * Your past doesn't define you
 
