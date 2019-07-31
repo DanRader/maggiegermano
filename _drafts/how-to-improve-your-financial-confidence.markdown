@@ -59,3 +59,11 @@ x
 * Delete tempting apps
 
 * Leave your cards at home
+
+**Automate, Automate, Automate**
+
+* Put your bills on autopay
+
+* Direct deposit your savings
+
+* Create a spending account
