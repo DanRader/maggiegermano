@@ -12,9 +12,25 @@ x
 
 ## Why Financial Confidence Matters
 
-x
+Your relationship with money will impact how you behave with your money. That means that the more confident you feel about managing your money, the better you'll do so. Here are some things I know for sure:
 
-* x
+* Emotions play a much bigger role in money than you might think.
+
+* Our family history impacts how we behave with money.
+
+* The way we think about money determines how we will act with our money.
+
+* Sometimes, we’re the ones holding ourselves back.
+
+* If you don’t think you can do it, you won’t try to do it.
+
+* If you think you’ll always be “bad” with money, you’ll keep making the same bad decisions.
+
+* Many of us don’t ask for what we want because we don’t believe we deserve it.
+
+* Many of us get stuck in the cycle of debt because we don’t think we deserve better.
+
+* We feel isolated from others because we think we are alone in our financial struggles.
 
 ## How to Build Your Money Confidence
 
