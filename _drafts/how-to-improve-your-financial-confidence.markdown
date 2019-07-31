@@ -83,7 +83,7 @@ Just because you don't currently feel confident about your money management skil
 
 * Learn how to pay the bills. 
 
-* x
+* Fund your own savings account
 
 **Talk About Money**
 
