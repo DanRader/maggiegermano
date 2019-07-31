@@ -71,11 +71,11 @@ Just because you don't currently feel confident about your money management skil
 
 **Celebrate Your Wins, Big and Small**
 
-* Set interim milestones: x
+* **Set interim milestones:** x
 
-* Track your progress: x
+* **Track your progress:** x
 
-* Treat yourself: x
+* **Treat yourself:** x
 
 **Stay in the Know**
 
