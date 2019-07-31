@@ -35,15 +35,15 @@ Your relationship with money will impact how you behave with your money. That me
 
 ## How to Build Your Money Confidence
 
-Just because you don't currently feel confident about your money management skills doesn't mean you can't change that. I'm a big believer
+Just because you don't currently feel confident about your money management skills doesn't mean you can't change that. I'm a big believer in changing your mindset in order to make long lasting changes in your life. It's a process that doesn't happen over  night, but it has to be deliberate and consistent. Below are some simple ways and some not-so-easy ways to improve your financial confidence:
 
 **Forgive Yourself for Past Mistakes**
 
-* **You can't change the past:** No matter how much you try to punish yourself for your past mistakes they still won't go away. Dwelling on them only causes you to suffer and keeps you stuck in the past.
+* **You can't change the past.** No matter how much you try to punish yourself for your past mistakes they still won't go away. Dwelling on them only causes you to suffer and keeps you stuck in the past. Accept that you won't be able to change the past so that you can leave it behind and move forward.
 
-* **Your past doesn't define you:** x
+* **Your past doesn't define you.** We all make mistakes. But those mistakes don't have to repeat themselves or stay with us forever. If you've made bad financial decisions in the past, it doesn't mean that you'll always be bad with money. You're allowed to grow and change. 
 
-* **Focus on future actions:** x
+* **Focus on future actions. **The more you focus on the future instead of the past, the more you'll actually be able to take action to move yourself forward. Instead of wondering what you could have done differently in the past, focus on what you can do differently in the future.
 
 **Get to Know Your Numbers**
 
