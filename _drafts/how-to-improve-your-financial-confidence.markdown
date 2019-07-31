@@ -39,27 +39,27 @@ Just because you don't currently feel confident about your money management skil
 
 **Forgive Yourself for Past Mistakes**
 
-* You can't change the past: No matter how much you try to punish yourself for your past mistakes they still won't go away. Dwelling on them only causes you to suffer and keeps you stuck in the past.
+* **You can't change the past:** No matter how much you try to punish yourself for your past mistakes they still won't go away. Dwelling on them only causes you to suffer and keeps you stuck in the past.
 
-* Your past doesn't define you
+* **Your past doesn't define you:** x
 
-* Focus on future actions
+* **Focus on future actions:** x
 
 **Get to Know Your Numbers**
 
-* Look at all your accounts
+* **Look at all your accounts:** x
 
-* Understand your income
+* **Understand your income:** x
 
-* Get clear on your expenses
+* **Get clear on your expenses:** x
 
 **Find the Easy Solutions**
 
-* Cancel unused subscriptions
+* **Cancel unused subscriptions:** x
 
-* Delete tempting apps
+* **Delete tempting apps:** x
 
-* Leave your cards at home
+* **Leave your cards at home:** x
 
 **Automate, Automate, Automate**
 
