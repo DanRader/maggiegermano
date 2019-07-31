@@ -63,32 +63,32 @@ Just because you don't currently feel confident about your money management skil
 
 **Automate, Automate, Automate**
 
-* Put your bills on autopay
+* **Put your bills on autopay:** x
 
-* Direct deposit your savings
+* **Direct deposit your savings:** x
 
-* Create a spending account
+* **Create a spending account:** x
 
 **Celebrate Your Wins, Big and Small**
 
-* Set interim milestones
+* Set interim milestones: x
 
-* Track your progress
+* Track your progress: x
 
-* Treat yourself
+* Treat yourself: x
 
 **Stay in the Know**
 
-* Know where your money is.
+* **Know where your money is:** x
 
-* Learn how to pay the bills. 
+* **Learn how to pay the bills:** x
 
-* Fund your own savings account
+* **Fund your own savings account:** x
 
 **Talk About Money**
 
-* Be honest
+* **Be honest:** x
 
-* Tell your friends your goals
+* **Tell your friends your goals:** x
 
-* Use goal-oriented language
+* **Use goal-oriented language:** x
