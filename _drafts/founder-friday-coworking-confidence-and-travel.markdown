@@ -7,9 +7,9 @@ Happy Friday, everyone! Here’s what I was up to.
 
 ## How I Earned Money This Week
 
-* x
+* I got paid for an upcoming speaking engagement.
 
-* x
+* Dan got his bi-weekly paycheck on Wednesday
 
 ## **How I Spent Money This Week**
 
