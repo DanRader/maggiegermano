@@ -35,7 +35,7 @@ Your relationship with money will impact how you behave with your money. That me
 
 ## How to Build Your Money Confidence
 
-Just because you don't currently 
+Just because you don't currently feel confident about your money management skills doesn't mean you can't change that. I'm a big believer
 
 **Forgive Yourself for Past Mistakes**
 
