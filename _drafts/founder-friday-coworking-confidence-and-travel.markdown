@@ -5,7 +5,7 @@ date: 2019-08-02 14:00:00 -04:00
 
 Happy Friday, everyone! Here’s what I was up to.
 
-**How I Earned Money This Week**
+## How I Earned Money This Week
 
 * x
 
