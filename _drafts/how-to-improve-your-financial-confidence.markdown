@@ -47,27 +47,27 @@ Just because you don't currently feel confident about your money management skil
 
 **Get to Know Your Numbers**
 
-* **Look at all your accounts:** x
+* **Look at all your accounts.** x
 
-* **Understand your income:** x
+* **Understand your income.** x
 
-* **Get clear on your expenses:** x
+* **Get clear on your expenses.** x
 
 **Find the Easy Solutions**
 
-* **Cancel unused subscriptions:** x
+* **Cancel unused subscriptions.** x
 
-* **Delete tempting apps:** x
+* **Delete tempting apps.** x
 
-* **Leave your cards at home:** x
+* **Leave your cards at home.** x
 
 **Automate, Automate, Automate**
 
-* **Put your bills on autopay:** x
+* **Put your bills on autopay.** x
 
-* **Direct deposit your savings:** x
+* **Direct deposit your savings.** x
 
-* **Create a spending account:** x
+* **Create a spending account.** x
 
 **Celebrate Your Wins, Big and Small**
 
