@@ -35,7 +35,7 @@ Your relationship with money will impact how you behave with your money. That me
 
 ## How to Build Your Money Confidence
 
-x
+Just because you don't currently 
 
 **Forgive Yourself for Past Mistakes**
 
