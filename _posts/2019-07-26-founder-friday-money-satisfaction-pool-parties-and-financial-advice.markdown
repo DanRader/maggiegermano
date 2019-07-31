@@ -16,7 +16,7 @@ Happy Friday, everyone! Here’s what I was up to.
 
 * One of my retainer clients paid her monthly fee.
 
-* We've had one Airbnb guest staying with us all week. 
+* We've had one Airbnb guest staying with us all week.
 
 * The fees for this week's Money Circle meetup are on the way.
 
@@ -34,26 +34,26 @@ Happy Friday, everyone! Here’s what I was up to.
 
 ## **What I’m Writing**
 
-This week, I wrote about the [five personal finance books](https://www.maggiegermano.com/blog/5-books-that-make-personal-finance-more-accessible/) that I find to be most accessible and helpful for women. 
+This week, I wrote about the [five personal finance books](https://www.maggiegermano.com/blog/5-books-that-make-personal-finance-more-accessible/) that I find to be most accessible and helpful for women.
 
 ## **What I’m Up To**
 
 * The [August Money Circle](https://www.eventbrite.com/e/money-circle-dealing-with-money-shame-tickets-66476917249) meetup is scheduled and ready for you! In August, we'll be talking about money shame, how others feel the same way, and how to improve our relationship with our money. [See you there!](https://www.eventbrite.com/e/money-circle-dealing-with-money-shame-tickets-66476917249)
 
-* On Sunday, I was quoted in *[The Atlantic](https://www.theatlantic.com/family/archive/2019/07/who-feels-rich/594439/)* about money satisfaction and who feels good about their financial circumstances. 
+* On Sunday, I was quoted in *[The Atlantic](https://www.theatlantic.com/family/archive/2019/07/who-feels-rich/594439/)* about money satisfaction and who feels good about their financial circumstances.
 
 * I’ve been hinting at starting a podcast for a while now. But in order to make sure the podcast is interesting and helpful for YOU, I want to make sure I’m answering your questions. [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSf75z5itnYO-XOLStoqY5FXwuf8YI37ye5OD21Wv7tBGAqIVQ/viewform?usp=sf_link) to submit any and all money questions that you have!
 
 ## **What I’m Excited About**
 
-Guys. Dan and I are taking Bruno to a corgi pool party tomorrow! Follow [me](http://www.instagram.com/maggiegermano) and [Bruno](http://www.instagram.com/bruno.the.corg) on Instagram to stay up to date with pictures of all the corgis swimming. 
+Guys. Dan and I are taking Bruno to a corgi pool party tomorrow! Follow [me](http://www.instagram.com/maggiegermano) and [Bruno](http://www.instagram.com/bruno.the.corg) on Instagram to stay up to date with pictures of all the corgis swimming.
 
 ## **What I’m Reading**
 
-I'm currently reading *[The Husband's Secret](https://www.goodreads.com/book/show/17802724-the-husband-s-secret)* by Liane Moriarty. After speeding through Big Little Lies, I wanted more. If you're keeping track, I said last week that I started *[Doing Harm](https://www.goodreads.com/book/show/30653955-doing-harm?from_search=true)* by Maya Dusenbery. I'm having a hard time focusing on nonfiction this summer, so that's on the back burner for now. 
+I'm currently reading *[The Husband's Secret](https://www.goodreads.com/book/show/17802724-the-husband-s-secret)* by Liane Moriarty. After speeding through Big Little Lies, I wanted more. If you're keeping track, I said last week that I started *[Doing Harm](https://www.goodreads.com/book/show/30653955-doing-harm?from_search=true)* by Maya Dusenbery. I'm having a hard time focusing on nonfiction this summer, so that's on the back burner for now.
 
 ## **Money Tip to Take Into the Weekend**
 
-![You are my sunshine..png](/uploads/You%20are%20my%20sunshine..png)
+![You are my sunshine-5e4095.png](/uploads/You%20are%20my%20sunshine-5e4095.png)
 
 That’s all from me this week. Have a great weekend!
