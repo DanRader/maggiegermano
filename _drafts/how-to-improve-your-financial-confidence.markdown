@@ -81,9 +81,9 @@ x
 
 **Stay in the Know**
 
-* x
+* Know where your money is.
 
-* x
+* Learn how to pay the bills. 
 
 * x
 
