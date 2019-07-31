@@ -36,4 +36,26 @@ Your relationship with money will impact how you behave with your money. That me
 
 x
 
-* x
+**Forgive Yourself for Past Mistakes**
+
+* You can't change the past
+
+* Your past doesn't define you
+
+* Focus on future actions
+
+**Get to Know Your Numbers**
+
+* Look at all your accounts
+
+* Understand your income
+
+* Get clear on your expenses
+
+**Find the Easy Solutions**
+
+* Cancel unused subscriptions
+
+* Delete tempting apps
+
+* Leave your cards at home
