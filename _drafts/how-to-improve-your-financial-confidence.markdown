@@ -67,3 +67,27 @@ x
 * Direct deposit your savings
 
 * Create a spending account
+
+**Celebrate Your Wins, Big and Small**
+
+* Set interim milestones
+
+* Track your progress
+
+* Treat yourself
+
+**Stay in the Know**
+
+* x
+
+* x
+
+* x
+
+**Talk About Money**
+
+* x
+
+* x
+
+* x
