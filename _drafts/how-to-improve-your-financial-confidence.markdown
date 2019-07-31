@@ -86,8 +86,8 @@ x
 
 **Talk About Money**
 
-* x
+* Be honest
 
-* x
+* Tell your friends your goals
 
-* x
+* Use goal-oriented language
