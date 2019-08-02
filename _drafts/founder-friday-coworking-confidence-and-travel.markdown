@@ -47,6 +47,6 @@ I'm currently reading *[Maybe You Should Talk to Someone: A Therapist, Her Thera
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![May your days be as brigh as the flowers of May.png](/uploads/May%20your%20days%20be%20as%20brigh%20as%20the%20flowers%20of%20May.png)
 
 That’s all from me this week. Have a great weekend!
