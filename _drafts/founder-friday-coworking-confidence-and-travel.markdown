@@ -39,14 +39,16 @@ Happy Friday, everyone! Here’s what I was up to.
 
 ## **What I’m Excited About**
 
-x
+* x
+
+* Dan and I are doing a lot of travel planning right now. We're heading to Maine for my birthday later in August, we're hoping to go to Peru for our anniversary, and we're extending a work trip of Dan's to Japan. It's a little overwhelming (and expensive), but these are big opportunities that I don't want to miss. If you've been to any of those places, let me know if you have any must-see recommendations!
 
 ## **What I’m Reading**
 
-I'm currently reading *[Maybe You Should Talk to Someone: A Therapist, Her Therapist, and Our Lives Revealed](https://www.goodreads.com/book/show/37570546-maybe-you-should-talk-to-someone)* by Lori Gottlieb. 
+I'm currently reading *[Maybe You Should Talk to Someone: A Therapist, Her Therapist, and Our Lives Revealed](https://www.goodreads.com/book/show/37570546-maybe-you-should-talk-to-someone)* by Lori Gottlieb. I got sucked into Lori's advice column [Dear Therapist](https://www.theatlantic.com/category/dear-therapist/) a while back, so I was excited when her book became available via [Libby](https://meet.libbyapp.com/). 
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![May your days be as brigh as the flowers of May.png](/uploads/May%20your%20days%20be%20as%20brigh%20as%20the%20flowers%20of%20May.png)
 
 That’s all from me this week. Have a great weekend!
