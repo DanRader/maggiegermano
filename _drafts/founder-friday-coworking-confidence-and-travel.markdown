@@ -19,15 +19,17 @@ Happy Friday, everyone! Here’s what I was up to.
 
 ## **How I Spent Money This Week**
 
-* x
+* On Sunday, we went on our weekly grocery run at Whole Foods. We also stopped by Safeway to pick up one thing that was too expensive at Whole Foods. 
 
-* x
+* On Wednesday,  I had drinks with a friend. In fact, I still need to Venmo her the cost of my drinks!
+
+* Since yesterday was August 1st, that means that my monthly budget has reset. So I bought a couple things that we've been needing around the house but that didn't fit into our July budget.
 
 ## **What I’m Writing**
 
-* x
+* This week, [on my blog](https://www.maggiegermano.com/blog/how-to-manage-your-business-finances-as-an-entrepreneur/), I wrote about how business owners can take care of their business finances from the very beginning.
 
-* x
+* Over on my [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2019/07/29/how-women-can-improve-their-financial-optimism-despite-growing-anxieties/) column, I wrote about how women's anxiety about money is increasing as they take more control over their finances. 
 
 ## **What I’m Up To**
 
