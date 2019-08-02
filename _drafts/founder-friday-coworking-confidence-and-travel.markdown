@@ -43,7 +43,7 @@ x
 
 ## **What I’m Reading**
 
-x
+I'm currently reading *[Maybe You Should Talk to Someone: A Therapist, Her Therapist, and Our Lives Revealed](https://www.goodreads.com/book/show/37570546-maybe-you-should-talk-to-someone)* by Lori Gottlieb. 
 
 ## **Money Tip to Take Into the Weekend**
 
