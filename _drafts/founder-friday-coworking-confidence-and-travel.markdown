@@ -9,7 +9,13 @@ Happy Friday, everyone! Here’s what I was up to.
 
 * I got paid for an upcoming speaking engagement.
 
-* Dan got his bi-weekly paycheck on Wednesday
+* I finally received the check for a speaking engagement I did in June.
+
+* Dan got his bi-weekly paycheck on Wednesday.
+
+* One of my retainer clients paid her monthly fee.
+
+* One of my ongoing clients paid her monthly fee.
 
 ## **How I Spent Money This Week**
 
