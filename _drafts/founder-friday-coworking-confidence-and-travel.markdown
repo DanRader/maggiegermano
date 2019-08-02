@@ -43,7 +43,7 @@ x
 
 ## **What I’m Reading**
 
-I'm currently reading *[Maybe You Should Talk to Someone: A Therapist, Her Therapist, and Our Lives Revealed](https://www.goodreads.com/book/show/37570546-maybe-you-should-talk-to-someone)* by Lori Gottlieb. 
+I'm currently reading *[Maybe You Should Talk to Someone: A Therapist, Her Therapist, and Our Lives Revealed](https://www.goodreads.com/book/show/37570546-maybe-you-should-talk-to-someone)* by Lori Gottlieb. I got sucked into Lori's advice column [Dear Therapist](https://www.theatlantic.com/category/dear-therapist/) a while back, so I was excited when her book became available via [Libby](https://meet.libbyapp.com/). 
 
 ## **Money Tip to Take Into the Weekend**
 
