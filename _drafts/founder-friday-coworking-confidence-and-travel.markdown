@@ -39,7 +39,9 @@ Happy Friday, everyone! Here’s what I was up to.
 
 ## **What I’m Excited About**
 
-x
+* x
+
+* Dan and I are doing a lot of travel planning right now. We're heading to Maine for my birthday later in August, we're hoping to go to Peru for our anniversary, and we're extending a work trip of Dan's to Japan. It's a little overwhelming (and expensive), but these are big opportunities that I don't want to miss. If you've been to any of those places, let me know if you have any must-see recommendations!
 
 ## **What I’m Reading**
 
