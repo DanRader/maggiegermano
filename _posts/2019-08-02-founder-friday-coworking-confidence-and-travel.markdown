@@ -1,6 +1,13 @@
 ---
 title: Founder Friday | Coworking, Confidence, and Travel
 date: 2019-08-02 14:00:00 -04:00
+categories:
+- founder friday
+image: "/uploads/jeremiah-berman-9dmycbFE7mQ-unsplash.jpg"
+posts:
+- Founder Friday | Money Satisfaction, Pool Parties, and Financial Advice
+- Founder Friday | Painting, Wedding Loans, and Style
+- Founder Friday | Bermuda, Health, and Pet Costs
 ---
 
 Happy Friday, everyone! Here’s what I was up to.
@@ -29,7 +36,7 @@ Happy Friday, everyone! Here’s what I was up to.
 
 * This week, [on my blog](https://www.maggiegermano.com/blog/how-to-manage-your-business-finances-as-an-entrepreneur/), I wrote about how business owners can take care of their business finances from the very beginning.
 
-* Over on my [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2019/07/29/how-women-can-improve-their-financial-optimism-despite-growing-anxieties/) column, I wrote about how women's anxiety about money is increasing as they take more control over their finances. 
+* Over on my [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2019/07/29/how-women-can-improve-their-financial-optimism-despite-growing-anxieties/) column, I wrote about how women's anxiety and lack of confidence about money is increasing as they take more control over their finances. 
 
 ## **What I’m Up To**
 
@@ -39,7 +46,7 @@ Happy Friday, everyone! Here’s what I was up to.
 
 ## **What I’m Excited About**
 
-* x
+* One of the great things about working for yourself is that you can typically decide where you're working on any given day. I'm usually working by myself at home while Bruno tries to get me to play with him. This past Wednesday, I coworked with a group of friends at one of their house's. 
 
 * Dan and I are doing a lot of travel planning right now. We're heading to Maine for my birthday later in August, we're hoping to go to Peru for our anniversary, and we're extending a work trip of Dan's to Japan. It's a little overwhelming (and expensive), but these are big opportunities that I don't want to miss. If you've been to any of those places, let me know if you have any must-see recommendations!
 
