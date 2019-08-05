@@ -73,9 +73,9 @@ Just because you don't currently feel confident about your money management skil
 
 * **Set interim milestones:** When you are trying to reach big goals, like paying off a debt or hitting a big savings number, the goals can feel daunting. Thinking only about the big number can decrease your motivation. That's why it's important to set smaller, interim milestones so that you can notice and celebrate when you've hit them. Allowing yourself to celebrate your wins, no matter how small, more often, will keep you motivated and feeling better about your progress.
 
-* **Track your progress:** Creating a way to track your progress as you are working towards a goal will not only keep your mind on the goal at hand, but it will also motivate you to keep going. 
+* **Track your progress:** Creating a way to track your progress as you are working towards a goal will not only keep your mind on the goal at hand, but it will also motivate you to keep going. This can be a digital or physical reminder; it depends on what will be the most useful to you. 
 
-* **Treat yourself:** x
+* **Treat yourself:** Even though I think the "treat yourself" mentality makes people spend more than they can afford sometimes, I do think it's important to rewards yourself for reaching your goals. Choose a small reward to gift to yourself whenever you reach a milestone along the way to your big goals. 
 
 **Stay in the Know**
 
