@@ -103,9 +103,9 @@ This is especially important for women who aren't the ones who are managing the 
 
 I'm a huge proponent of talking about more money more often. The more we talk about it, the less taboo it will become and the less alone we will all feel. And there are still ways to do this even if talking about money makes you feel uncomfortable. 
 
-* **Be honest:** Instead of 
+* **Be honest:** If you can't afford to go out with your friends, be honest with them about your reasons. Tell them that you're on a strict budget and you need to be mindful of how you're spending your money. They might be inspired by you and want to join in on your money saving lifestyle! Or they might just suggest something cheaper to do.
 
-* **Tell your friends your goals:** x
+* **Tell your friends your goals:** I've had a client in the past who though that she was the only one out of her friends who was in credit card debt. The truth was I was also coaching one of her friends who was also in credit card debt! You never know what other people are going through if you don't talk about it. So be honest about what your goals are. Tell them if you're paying off debt or if you're saving up for something. You might inspire them or gain a new accountability partner.
 
 * **Use goal-oriented language:** Instead of saying things like "I can't, I'm broke" when your friends ask you to hang out, using more positive language will be more useful. Say something like "I already reached my dining quota for the week, but I'd love to have you over for dinner instead!" or "I'm cutting back on spending so that I can take a big trip this summer, but I'd love to have you over to watch a movie!" Not only are you being honest about your goals, but you're using more positive language. This will help your mentality and that of your friends. 
 
