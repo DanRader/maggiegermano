@@ -67,9 +67,9 @@ Automation is key when it comes to taking the right financial steps. Automation 
 
 * **Put your bills on autopay.** This is especially important if you know that you are forgetful. Set up autopay on all of your bills so that you never miss one. This will protect you from late fees and other penalties
 
-* **Direct deposit your savings.** The easiest way to save money is to set up direct deposit. This is vital when it comes to retirement savings, but it is also helpful for your other savings goals. Set it up so that your employer is directly depositing a certain amount from your paycheck into a savings account. 
+* **Direct deposit your savings.** The easiest way to save money is to set up direct deposit. This is vital when it comes to retirement savings, but it is also helpful for your other savings goals. Set it up so that your employer is directly depositing a certain amount from your paycheck into a savings account. You'd be surprised how quickly this will add up!
 
-* **Create a spending account.** x
+* **Create a spending account.** A great way to make sure you aren't overspending is to create a checking account that is purely for your flex spending. 
 
 **Celebrate Your Wins, Big and Small**
 
