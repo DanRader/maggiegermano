@@ -55,9 +55,9 @@ Just because you don't currently feel confident about your money management skil
 
 **Find the Easy Solutions**
 
-* **Cancel unused subscriptions.** x
+* **Cancel unused subscriptions.** Subscriptions don't always cost very much alone, but they can certainly add up over time. If you have subscriptions or memberships that you are not using or don't use very often, consider canceling them. This will save you lots of money over time. If you need help figuring out what you're subscribed to, sign up for [ClarityMoney](https://www.marcus.com/us/en/clarity-money). Not only is it a budgeting app, but it will point out what your recurring costs are and help you to cancel subscriptions you aren't using.
 
-* **Delete tempting apps.** x
+* **Delete tempting apps.** The internet is a great thing, but it also has made it way too easy for us to spend money. If you know that you tend to spend more than you can afford because it's so easy, remove the temptation. Delete your most-used apps, like Amazon Prime or Sephora. If you force yourself to get on your laptop and log in so that you can spend money, you might second guess your purchase. Related, remove your credit card information from your online shops. If you have to type in your card every time you want to buy something, you might buy less!
 
 * **Leave your cards at home.** x
 
