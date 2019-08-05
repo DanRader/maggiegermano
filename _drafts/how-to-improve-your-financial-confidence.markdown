@@ -71,7 +71,7 @@ Just because you don't currently feel confident about your money management skil
 
 **Celebrate Your Wins, Big and Small**
 
-* **Set interim milestones:** x
+* **Set interim milestones:** When you are trying to reach big goals, like paying off a debt or hitting a big savings number, the goals can feel daunting. Thinking only about the big number can decrease your motivation. That's why it's important to set smaller, interim milestones so that you can notice and celebrate when you've hit them. Allowing yourself to celebrate your wins, no matter how small, more often, will keep you motivated and feeling better about your progress.
 
 * **Track your progress:** x
 
