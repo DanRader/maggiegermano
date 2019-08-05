@@ -55,6 +55,8 @@ Just because you don't currently feel confident about your money management skil
 
 **Find the Easy Solutions**
 
+Not all financial decisions need to be difficult. Your money mindset can improve just from taking small, easy steps. Finding those small solutions will help encourage you to keep taking more steps.
+
 * **Cancel unused subscriptions.** Subscriptions don't always cost very much alone, but they can certainly add up over time. If you have subscriptions or memberships that you are not using or don't use very often, consider canceling them. This will save you lots of money over time. If you need help figuring out what you're subscribed to, sign up for [ClarityMoney](https://www.marcus.com/us/en/clarity-money). Not only is it a budgeting app, but it will point out what your recurring costs are and help you to cancel subscriptions you aren't using.
 
 * **Delete tempting apps.** The internet is a great thing, but it also has made it way too easy for us to spend money. If you know that you tend to spend more than you can afford because it's so easy, remove the temptation. Delete your most-used apps, like Amazon Prime or Sephora. If you force yourself to get on your laptop and log in so that you can spend money, you might second guess your purchase. Related, remove your credit card information from your online shops. If you have to type in your card every time you want to buy something, you might buy less!
@@ -63,13 +65,17 @@ Just because you don't currently feel confident about your money management skil
 
 **Automate, Automate, Automate**
 
-* **Put your bills on autopay.** x
+Automation is key when it comes to taking the right financial steps. Automation takes the human aspect out of money. It makes it so that you don't forget to do things and it makes it so that you don't decide to spend your money instead of saving it. Automating your finances will make you confident that the right things are happening.
 
-* **Direct deposit your savings.** x
+* **Put your bills on autopay.** This is especially important if you know that you are forgetful. Set up autopay on all of your bills so that you never miss one. This will protect you from late fees and other penalties
 
-* **Create a spending account.** x
+* **Direct deposit your savings.** The easiest way to save money is to set up direct deposit. This is vital when it comes to retirement savings, but it is also helpful for your other savings goals. Set it up so that your employer is directly depositing a certain amount from your paycheck into a savings account. You'd be surprised how quickly this will add up!
+
+* **Create a spending account.** A great way to make sure you aren't overspending is to create a checking account that is purely for your flex spending. This means you'd have two checking accounts: one for bills and one for spending. You would calculate exactly how much needs to go into your bills account every month so that you always have enough to cover the necessities. And then the rest (that isn't going into savings) would go into a spending account. This protects you from overdrafting your bills account and it will also always be clear exactly how much you have left to spend for the month. 
 
 **Celebrate Your Wins, Big and Small**
+
+If you're like me, you tend to ignore the small wins and only focus on the big ones. But the problem with that is that big wins don't always come along everyday. And our small wins are just important, and celebrating them will make us feel better about ourselves and motivate us to keep going.
 
 * **Set interim milestones:** When you are trying to reach big goals, like paying off a debt or hitting a big savings number, the goals can feel daunting. Thinking only about the big number can decrease your motivation. That's why it's important to set smaller, interim milestones so that you can notice and celebrate when you've hit them. Allowing yourself to celebrate your wins, no matter how small, more often, will keep you motivated and feeling better about your progress.
 
@@ -78,6 +84,8 @@ Just because you don't currently feel confident about your money management skil
 * **Treat yourself:** Even though I think the "treat yourself" mentality makes people spend more than they can afford sometimes, I do think it's important to rewards yourself for reaching your goals. Choose a small reward to gift to yourself whenever you reach a milestone along the way to your big goals. This will allow you to add a fun element to the long road towards financial health.
 
 **Stay in the Know**
+
+This is especially important for women who aren't the ones who are managing the household finances. It's totally fine to take a step back, but you should not completely wash your hands of things. You need to stay in the know so that you're confident you could manage things on your own if need be. 
 
 * **Know where your money is:** Even if you're not the one managing the money in your household, you should still understand your financials. You never know if you might end up needing to take over someday. Make sure that you know where all of the money is, including the passwords for the accounts. 
 
@@ -88,6 +96,8 @@ Just because you don't currently feel confident about your money management skil
 **Pro tip:** Use the [In Case of Emergency Binder](https://transactions.sendowl.com/stores/10098/128668) from [Smart Money Mamas](https://smartmoneymamas.com/) to keep an organized file of all of the important stuff: financials, healthcare, passwords, etc. 
 
 **Talk About Money**
+
+I'm a huge proponent of talking about more money more often. The more we talk about it, the less taboo it will become and the less alone we will all feel. And there are still ways to do this even if talking about money makes you feel uncomfortable. 
 
 * **Be honest:** Instead of 
 
