@@ -39,6 +39,8 @@ Just because you don't currently feel confident about your money management skil
 
 **Forgive Yourself for Past Mistakes**
 
+One of the biggest reasons many of us feel like crap about our money is because of past mistakes we've made. Maybe it's getting into debt or blowing our savings. But here's the thing: we all make mistakes. That doesn't mean we have to suffer for them forever. In fact, the sooner you forgive yourself, the sooner you can move forward.
+
 * **You can't change the past.** No matter how much you try to punish yourself for your past mistakes they still won't go away. Dwelling on them only causes you to suffer and keeps you stuck in the past. Accept that you won't be able to change the past so that you can leave it behind and move forward.
 
 * **Your past doesn't define you.** We all make mistakes. But those mistakes don't have to repeat themselves or stay with us forever. If you've made bad financial decisions in the past, it doesn't mean that you'll always be bad with money. You're allowed to grow and change.
@@ -47,7 +49,7 @@ Just because you don't currently feel confident about your money management skil
 
 **Get to Know Your Numbers**
 
-Knowledge is power. I've heard time and again from my clients that just filling in the budget spreadsheet I've sent them makes them feel more in control. 
+Knowledge is power. And that is just as true when it comes to your money. I've heard time and again from my clients that just filling in the budget spreadsheet I've sent them makes them feel more in control. So quit avoiding your numbers and get to know them.
 
 * **Look at all your accounts.** You have to know where you're starting from in order to move forward and make changes. So a good place to start is to look at all of your financial accounts to understand how much money you have and how much you owe. Signing up for a platform like Mint will help you keep all of these organized in one place.
 
