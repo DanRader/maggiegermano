@@ -79,11 +79,13 @@ Just because you don't currently feel confident about your money management skil
 
 **Stay in the Know**
 
-* **Know where your money is:** x
+* **Know where your money is:** Even if you're not the one managing the money in your household, you should still understand your financials. You never know if you might end up needing to take over someday. Make sure that you know where all of the money is, including the passwords for the accounts. 
 
-* **Learn how to pay the bills:** x
+* **Learn how to pay the bills:** Again, even if you aren't managing the money at home, you should still learn how to pay the bills. If something were to happen to your partner, you'd still have to pay your rent. Having this knowledge will give you peace of mind and confidence that you'll be able to handle things if you need to. 
 
-* **Fund your own savings account:** x
+* **Fund your own savings account:** Even if you're married, I'm a big believer in having at least some of your own money. You really never know if something might happen and you will need that money to move or support yourself. Having your own savings tucked away will give you the confidence and certainty that you'll be protected if things go south with your partner. (**Note:** I don't condone hiding money from your partner, unless you're in an abusive situation. Saving up your own money shouldn't be a secret if you're in a safe, supportive relationship.)
+
+**Pro tip:** Use the [In Case of Emergency Binder](https://transactions.sendowl.com/stores/10098/128668) from [Smart Money Mamas](https://smartmoneymamas.com/) to keep an organized file of all of the important stuff: financials, healthcare, passwords, etc. 
 
 **Talk About Money**
 
