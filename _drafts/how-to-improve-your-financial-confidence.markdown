@@ -59,7 +59,7 @@ Just because you don't currently feel confident about your money management skil
 
 * **Delete tempting apps.** The internet is a great thing, but it also has made it way too easy for us to spend money. If you know that you tend to spend more than you can afford because it's so easy, remove the temptation. Delete your most-used apps, like Amazon Prime or Sephora. If you force yourself to get on your laptop and log in so that you can spend money, you might second guess your purchase. Related, remove your credit card information from your online shops. If you have to type in your card every time you want to buy something, you might buy less!
 
-* **Leave your cards at home.** This one can be tough for many people, but sometimes you just need to remove the ability to spend money. If you're just going to work and coming back home, leave your credit cards or debit cards at home. If you don't have them with you, you can't buy lunch instead of eating your leftovers. You can't stop at Target on your way home instead of just going home and making dinner. 
+* **Leave your cards at home.** This one can be tough for many people, but sometimes you just need to remove the ability to spend money. If you're just going to work and coming back home, leave your credit cards or debit cards at home. If you don't have them with you, you can't buy lunch instead of eating your leftovers. You can't stop at Target on your way home instead of just going home and making dinner. It's amazing how much money you can save when you're not able to actually spend it!
 
 **Automate, Automate, Automate**
 
