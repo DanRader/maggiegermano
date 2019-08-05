@@ -69,7 +69,7 @@ Automation is key when it comes to taking the right financial steps. Automation 
 
 * **Direct deposit your savings.** The easiest way to save money is to set up direct deposit. This is vital when it comes to retirement savings, but it is also helpful for your other savings goals. Set it up so that your employer is directly depositing a certain amount from your paycheck into a savings account. You'd be surprised how quickly this will add up!
 
-* **Create a spending account.** A great way to make sure you aren't overspending is to create a checking account that is purely for your flex spending. 
+* **Create a spending account.** A great way to make sure you aren't overspending is to create a checking account that is purely for your flex spending. This means you'd have two checking accounts: one for bills and one for spending. You would calculate exactly how much needs to go into your bills account every month so that you always have enough to cover the necessities. And then the rest (that isn't going into savings) would go into a spending account. This protects you from overdrafting your bills account and it will also always be clear exactly how much you have left to spend for the month. 
 
 **Celebrate Your Wins, Big and Small**
 
