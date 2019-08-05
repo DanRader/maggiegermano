@@ -47,11 +47,11 @@ Just because you don't currently feel confident about your money management skil
 
 **Get to Know Your Numbers**
 
-* **Look at all your accounts.** x
+* **Look at all your accounts.** You have to know where you're starting from in order to move forward and make changes. So a good place to start is to look at all of your financial accounts to understand how much money you have and how much you owe. Signing up for a platform like Mint will help you keep all of these organized in one place.
 
-* **Understand your income.** x
+* **Understand your income.** If you know how much money is coming in every week, you'll be more in control of how you're spending it. Look at your paychecks and figure out what your monthly pay is. If you have inconsistent income, or if you're paid hourly, figure out your average monthly income. 
 
-* **Get clear on your expenses.** x
+* **Get clear on your expenses.** Look at how much money is going out every month. The first step is understanding your fixed expenses, which are the things you always have to pay no matter what (rent, student loans, utilities, etc). That is your baseline spending number. From there, figure out how much you're spending on everything else (food, transportation, entertainment). Mint will help you with this task as well. From there, you'll have more control over whether or not you need to cut back on your spending to fit within your income.
 
 **Find the Easy Solutions**
 
@@ -87,8 +87,10 @@ Just because you don't currently feel confident about your money management skil
 
 **Talk About Money**
 
-* **Be honest:** x
+* **Be honest:** Instead of 
 
 * **Tell your friends your goals:** x
 
-* **Use goal-oriented language:** x
+* **Use goal-oriented language:** Instead of saying things like "I can't, I'm broke" when your friends ask you to hang out, using more positive language will be more useful. Say something like "I already reached my dining quota for the week, but I'd love to have you over for dinner instead!" or "I'm cutting back on spending so that I can take a big trip this summer, but I'd love to have you over to watch a movie!" Not only are you being honest about your goals, but you're using more positive language. This will help your mentality and that of your friends. 
+
+The moral of this article is that knowledge is power. The more you understand about your own finances, the more in control you will feel. That control will then lead to confidence. You don't have to become a completely different person in order to feel more confident about your money, you just have to start implementing small changes over time. 
