@@ -97,6 +97,8 @@ This is especially important for women who aren't the ones who are managing the 
 
 **Talk About Money**
 
+I'm a huge proponent of talking about more money more often. The more we talk about it, the less taboo it will become and the less alone we will all feel. And there are still ways to do this even if talking about money makes you feel uncomfortable. 
+
 * **Be honest:** Instead of 
 
 * **Tell your friends your goals:** x
