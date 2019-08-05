@@ -63,9 +63,11 @@ Just because you don't currently feel confident about your money management skil
 
 **Automate, Automate, Automate**
 
-* **Put your bills on autopay.** x
+Automation is key when it comes to taking the right financial steps. Automation takes the human aspect out of money. It makes it so that you don't forget to do things and it makes it so that you don't decide to spend your money instead of saving it. Automating your finances will make you confident that the right things are happening.
 
-* **Direct deposit your savings.** x
+* **Put your bills on autopay.** This is especially important if you know that you are forgetful. Set up autopay on all of your bills so that you never miss one. This will protect you from late fees and other penalties
+
+* **Direct deposit your savings.** The easiest way to save money is to set up direct deposit. This is vital when it comes to retirement savings, but it is also helpful for your other savings goals. Set it up so that your employer is directly depositing a certain amount from your paycheck into a savings account. 
 
 * **Create a spending account.** x
 
