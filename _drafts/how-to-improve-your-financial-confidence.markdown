@@ -79,11 +79,13 @@ Just because you don't currently feel confident about your money management skil
 
 **Stay in the Know**
 
-* **Know where your money is:** x
+* **Know where your money is:** Even if you're not the one managing the money in your household, you should still understand your financials. You never know if you might end up needing to take over someday. Make sure that you know where all of the money is, including the passwords for the accounts. 
 
 * **Learn how to pay the bills:** x
 
 * **Fund your own savings account:** x
+
+**Pro tip:** Use the [In Case of Emergency Binder](https://transactions.sendowl.com/stores/10098/128668) from [Smart Money Mamas](https://smartmoneymamas.com/) to keep an organized file of all of the important stuff: financials, healthcare, passwords, etc. 
 
 **Talk About Money**
 
