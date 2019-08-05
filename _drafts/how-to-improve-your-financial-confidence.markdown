@@ -81,9 +81,9 @@ Just because you don't currently feel confident about your money management skil
 
 * **Know where your money is:** Even if you're not the one managing the money in your household, you should still understand your financials. You never know if you might end up needing to take over someday. Make sure that you know where all of the money is, including the passwords for the accounts. 
 
-* **Learn how to pay the bills:** x
+* **Learn how to pay the bills:** Again, even if you aren't managing the money at home, you should still learn how to pay the bills. If something were to happen to your partner, you'd still have to pay your rent. Having this knowledge will give you peace of mind and confidence that you'll be able to handle things if you need to. 
 
-* **Fund your own savings account:** x
+* **Fund your own savings account:** 
 
 **Pro tip:** Use the [In Case of Emergency Binder](https://transactions.sendowl.com/stores/10098/128668) from [Smart Money Mamas](https://smartmoneymamas.com/) to keep an organized file of all of the important stuff: financials, healthcare, passwords, etc. 
 
