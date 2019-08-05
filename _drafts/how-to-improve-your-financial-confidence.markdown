@@ -47,6 +47,8 @@ Just because you don't currently feel confident about your money management skil
 
 **Get to Know Your Numbers**
 
+Knowledge is power. I've heard time and again from my clients that just filling in the budget spreadsheet I've sent them makes them feel more in control. 
+
 * **Look at all your accounts.** You have to know where you're starting from in order to move forward and make changes. So a good place to start is to look at all of your financial accounts to understand how much money you have and how much you owe. Signing up for a platform like Mint will help you keep all of these organized in one place.
 
 * **Understand your income.** If you know how much money is coming in every week, you'll be more in control of how you're spending it. Look at your paychecks and figure out what your monthly pay is. If you have inconsistent income, or if you're paid hourly, figure out your average monthly income. 
