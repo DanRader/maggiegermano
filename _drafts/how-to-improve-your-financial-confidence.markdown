@@ -75,7 +75,7 @@ Just because you don't currently feel confident about your money management skil
 
 * **Track your progress:** Creating a way to track your progress as you are working towards a goal will not only keep your mind on the goal at hand, but it will also motivate you to keep going. This can be a digital or physical reminder; it depends on what will be the most useful to you. 
 
-* **Treat yourself:** Even though I think the "treat yourself" mentality makes people spend more than they can afford sometimes, I do think it's important to rewards yourself for reaching your goals. Choose a small reward to gift to yourself whenever you reach a milestone along the way to your big goals. 
+* **Treat yourself:** Even though I think the "treat yourself" mentality makes people spend more than they can afford sometimes, I do think it's important to rewards yourself for reaching your goals. Choose a small reward to gift to yourself whenever you reach a milestone along the way to your big goals. This will allow you to add a fun element to the long road towards financial health.
 
 **Stay in the Know**
 
