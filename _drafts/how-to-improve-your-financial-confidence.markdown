@@ -55,11 +55,11 @@ Just because you don't currently feel confident about your money management skil
 
 **Find the Easy Solutions**
 
-* **Cancel unused subscriptions.** x
+* **Cancel unused subscriptions.** Subscriptions don't always cost very much alone, but they can certainly add up over time. If you have subscriptions or memberships that you are not using or don't use very often, consider canceling them. This will save you lots of money over time. If you need help figuring out what you're subscribed to, sign up for [ClarityMoney](https://www.marcus.com/us/en/clarity-money). Not only is it a budgeting app, but it will point out what your recurring costs are and help you to cancel subscriptions you aren't using.
 
-* **Delete tempting apps.** x
+* **Delete tempting apps.** The internet is a great thing, but it also has made it way too easy for us to spend money. If you know that you tend to spend more than you can afford because it's so easy, remove the temptation. Delete your most-used apps, like Amazon Prime or Sephora. If you force yourself to get on your laptop and log in so that you can spend money, you might second guess your purchase. Related, remove your credit card information from your online shops. If you have to type in your card every time you want to buy something, you might buy less!
 
-* **Leave your cards at home.** x
+* **Leave your cards at home.** This one can be tough for many people, but sometimes you just need to remove the ability to spend money. If you're just going to work and coming back home, leave your credit cards or debit cards at home. If you don't have them with you, you can't buy lunch instead of eating your leftovers. You can't stop at Target on your way home instead of just going home and making dinner. It's amazing how much money you can save when you're not able to actually spend it!
 
 **Automate, Automate, Automate**
 
@@ -71,11 +71,11 @@ Just because you don't currently feel confident about your money management skil
 
 **Celebrate Your Wins, Big and Small**
 
-* **Set interim milestones:** x
+* **Set interim milestones:** When you are trying to reach big goals, like paying off a debt or hitting a big savings number, the goals can feel daunting. Thinking only about the big number can decrease your motivation. That's why it's important to set smaller, interim milestones so that you can notice and celebrate when you've hit them. Allowing yourself to celebrate your wins, no matter how small, more often, will keep you motivated and feeling better about your progress.
 
-* **Track your progress:** x
+* **Track your progress:** Creating a way to track your progress as you are working towards a goal will not only keep your mind on the goal at hand, but it will also motivate you to keep going. This can be a digital or physical reminder; it depends on what will be the most useful to you. 
 
-* **Treat yourself:** x
+* **Treat yourself:** Even though I think the "treat yourself" mentality makes people spend more than they can afford sometimes, I do think it's important to rewards yourself for reaching your goals. Choose a small reward to gift to yourself whenever you reach a milestone along the way to your big goals. This will allow you to add a fun element to the long road towards financial health.
 
 **Stay in the Know**
 
