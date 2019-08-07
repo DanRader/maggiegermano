@@ -6,4 +6,4 @@ categories:
 image: "/uploads/robin-worrall-FPt10LXK0cg-unsplash.jpg"
 ---
 
-Have you ever heard the saying "comparison is the thief of joy"? I've found it to be incredibly true in my own life. If you compare yourself or your circumstances to others, you'll never be happy. It will always seem like someone else is more beautiful, more successful, more popular, and richer than you are. 
+Have you ever heard the saying "comparison is the thief of joy"? I've found it to be incredibly true in my own life. The idea is that if you always compare yourself or your circumstances to others, you'll never be happy. It will always seem like someone else is more beautiful, more successful, more popular, and more wealthy than you are. 
