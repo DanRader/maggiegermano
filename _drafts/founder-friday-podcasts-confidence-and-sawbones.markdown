@@ -3,6 +3,11 @@ title: Founder Friday | Podcasts, Confidence, and Sawbones
 date: 2019-08-09 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/matt-botsford-OKLqGsCT8qs-unsplash.jpg"
+posts:
+- Founder Friday | Coworking, Confidence, and Travel
+- Founder Friday | Money Satisfaction, Pool Parties, and Financial Advice
+- Founder Friday | Painting, Wedding Loans, and Style
 ---
 
 Happy Friday, everyone! Here’s what I was up to.
