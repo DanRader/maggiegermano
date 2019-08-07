@@ -37,7 +37,7 @@ x
 
 ## **What I’m Reading**
 
-x
+I finished Lori Gottlieb's book on Sunday and started the [Sawbones book](https://www.goodreads.com/en/book/show/38749668) on Monday night. I love the Sawbones podcast, so I've been enjoying the book so far. 
 
 ## **Money Tip to Take Into the Weekend**
 
