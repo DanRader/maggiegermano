@@ -15,9 +15,9 @@ Happy Friday, everyone! Here’s what I was up to.
 
 ## **How I Spent Money This Week**
 
-* x
+* We spent a lot of money over the weekend having fun with Dan's sister and childhood friend. So we've been reigning it in this week in order to stay within budget for the rest of the month. We bought groceries for the week on Sunday
 
-* x
+* I bought a copy of Kristen Meinzer's book *[So You Want to Start a Podcast](https://www.harpercollins.com/9780062936677/so-you-want-to-start-a-podcast/)* to get her advice while I'm getting started with mine! (PS: Listen to her podcast [By the Book](https://www.stitcher.com/podcast/stitcher/by-the-book).)
 
 ## **What I’m Writing**
 
