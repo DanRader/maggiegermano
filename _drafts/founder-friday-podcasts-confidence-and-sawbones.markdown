@@ -15,7 +15,7 @@ Happy Friday, everyone! Here’s what I was up to.
 
 ## **How I Spent Money This Week**
 
-* We spent a lot of money over the weekend having fun with Dan's sister and childhood friend. So we've been reigning it in this week in order to stay within budget for the rest of the month. We bought groceries for the week on Sunday
+* We spent a lot of money over the weekend having fun with Dan's sister and childhood friend. So we've been reigning it in this week in order to stay within budget for the rest of the month. We bought groceries for the week on Sunday and I bought a refill of our [Branch Basics](http://branchbasics.refr.cc/marygermano) non-toxic cleaning supplies. 
 
 * The credit card on our EZpass account expired and we forgot to update it before our trip to and from New York City in early July. We are still paying for that sin by receiving toll bills in the mail over... and over... and over. So we've paid a couple tolls and replenished our EZpass account. Don't forget to keep your EZpass information up to date, especially when you get a new car or a new credit card!
 
