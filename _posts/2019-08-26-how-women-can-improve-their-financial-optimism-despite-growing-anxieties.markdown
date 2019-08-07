@@ -4,6 +4,7 @@ date: 2019-08-26 11:00:00 -04:00
 published: false
 categories:
 - lifestyle
+image: "/uploads/thought-catalog-UK78i6vK3sc-unsplash.jpg"
 ---
 
 This past spring, two different studies were released that delve into financial anxiety and optimism; the [Spring 2019 Merrill Edge Report](https://www.merrilledge.com/report) and [Allianz Life’s 2019 Women, Money and Power Study](https://www.allianzlife.com/about/news-and-events/news-releases/Women-Report-Steady-Decline-in-Financial-Confidence). Both studies found that women have become more financially influential and have taken more control over the finances in their own lives. However, despite these findings, many women are still struggling from a lack of confidence and growing anxiety when it comes to money.
