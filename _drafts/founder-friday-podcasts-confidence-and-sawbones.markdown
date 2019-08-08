@@ -14,7 +14,7 @@ Happy Friday, everyone! Here’s what I was up to.
 
 ## **How I Earned Money This Week**
 
-* x
+* One of my new clients paid for their first monthly fee.
 
 * x
 
