@@ -11,3 +11,23 @@ Have you ever heard the saying "comparison is the thief of joy"? I've found it t
 Recently, I was interviewed by *[The Atlantic](https://www.theatlantic.com/family/archive/2019/07/who-feels-rich/594439/)* for a piece about money satisfaction. The reporter asked me why I think some people are unhappy about their money no matter how much they earn. My first response was that most people start spending more as they earn more, so they stay in the same paycheck-to-paycheck situation. But secondly, I think a lot of people are unsatisfied because they are continuously comparing themselves to other people. These could be loved ones or strangers on the internet. The outcome is the same: they think they everyone is better off than they are, especially when it comes to money. 
 
 I hear this a lot. And I'm not immune to it either! Social media makes it a thousand times easier to look at others and envy them and then put ourselves down. 
+
+## Remember That Not Everything Is As It Seems
+
+x
+
+## Limit Your Social Media Time
+
+x
+
+## Ask and Tell Your Friends The Truth
+
+Much of the time, when we're jealous of someone else, it turns out that their life isn't as perfect as we think it is. In fact, there's no such thing as a perfect life! 
+
+## Practice Gratitude For What You Already Have
+
+x
+
+## Get Clear On What You Really Want
+
+A lot of my clients feel jealous or ashamed when they see their friends buying homes. 
