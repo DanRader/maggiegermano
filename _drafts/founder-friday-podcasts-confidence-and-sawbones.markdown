@@ -36,7 +36,7 @@ This week, I wrote about how you can [improve](https://www.maggiegermano.com/blo
 
 * The [August Money Circle](https://www.eventbrite.com/e/money-circle-dealing-with-money-shame-tickets-66476917249) meetup is scheduled and ready for you! In August, we’ll be talking about money shame, how others feel the same way, and how to improve our relationship with our money. [See you there!](https://www.eventbrite.com/e/money-circle-dealing-with-money-shame-tickets-66476917249)
 
-* I'm officially launching the Money Circle podcast this month! In fact, I'm having a launch party in DC on Tuesday, August 20th. Plus, my birthday is on the 21st, so I'll be celebrating that too. [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSf75z5itnYO-XOLStoqY5FXwuf8YI37ye5OD21Wv7tBGAqIVQ/viewform?usp=sf_link) to submit any and all money questions that you want me to answer on the podcast!
+* I'm officially launching the Money Circle podcast this month! In fact, I'm having a [launch party in DC on Tuesday, August 20th](https://www.eventbrite.com/e/money-circle-podcast-launch-party-tickets-68050955239). Plus, my birthday is on the 21st, so I'll be celebrating that too. [Fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSf75z5itnYO-XOLStoqY5FXwuf8YI37ye5OD21Wv7tBGAqIVQ/viewform?usp=sf_link) to submit any and all money questions that you want me to answer on the podcast!
 
 ## **What I’m Excited About**
 
