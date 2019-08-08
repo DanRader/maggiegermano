@@ -8,4 +8,6 @@ image: "/uploads/robin-worrall-FPt10LXK0cg-unsplash.jpg"
 
 Have you ever heard the saying "comparison is the thief of joy"? I've found it to be incredibly true in my own life. The idea is that if you always compare yourself or your circumstances to others, you'll never be happy. It will always seem like someone else is more beautiful, more successful, more popular, and more wealthy than you are. 
 
-Recently, I was interviewed by *[The Atlantic](https://www.theatlantic.com/family/archive/2019/07/who-feels-rich/594439/)* for a piece about money satisfaction. The reporter asked me 
+Recently, I was interviewed by *[The Atlantic](https://www.theatlantic.com/family/archive/2019/07/who-feels-rich/594439/)* for a piece about money satisfaction. The reporter asked me why I think some people are unhappy about their money no matter how much they earn. My first response was that most people start spending more as they earn more, so they stay in the same paycheck-to-paycheck situation. But secondly, I think a lot of people are unsatisfied because they are continuously comparing themselves to other people. These could be loved ones or strangers on the internet. The outcome is the same: they think they everyone is better off than they are, especially when it comes to money. 
+
+I hear this a lot. And I'm not immune to it either! Social media makes it a thousand times easier to look at others and envy them and then put ourselves down. 
