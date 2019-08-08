@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Podcasts, Confidence, and Sawbones
 date: 2019-08-09 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/matt-botsford-OKLqGsCT8qs-unsplash.jpg"
@@ -16,7 +17,7 @@ Happy Friday, everyone! Here’s what I was up to.
 
 * One of my new clients paid for their first monthly fee.
 
-* x
+* We've had three different Airbnb guests this week and into the weekend.
 
 ## **How I Spent Money This Week**
 
@@ -40,9 +41,11 @@ This week, I wrote about how you can [improve](https://www.maggiegermano.com/blo
 
 ## **What I’m Excited About**
 
-* x
+* I'm excited for my podcast launch!
 
-* x
+* I'm excited to possibly finally go to Assateague Island this weekend.
+
+* I'm excited for my birthday trip to Maine in two weeks. 
 
 ## **What I’m Reading**
 
@@ -50,6 +53,6 @@ I finished Lori Gottlieb's book on Sunday and started the [Sawbones book](https:
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![FOLLOW.png](/uploads/FOLLOW.png)
 
 That’s all from me this week. Have a great weekend!
