@@ -4,6 +4,10 @@ date: 2019-08-12 11:00:00 -04:00
 categories:
 - lifestyle
 image: "/uploads/robin-worrall-FPt10LXK0cg-unsplash.jpg"
+posts:
+- How to Stop Trying to Keep Up with "the Joneses"
+- How to Deal When You're Jealous of Your Friends' Finances
+- How to Talk to Your Friends about Money
 ---
 
 Have you ever heard the saying "comparison is the thief of joy"? I've found it to be incredibly true in my own life. The idea is that if you always compare yourself or your circumstances to others, you'll never be happy. It will always seem like someone else is more beautiful, more successful, more popular, and more wealthy than you are.
