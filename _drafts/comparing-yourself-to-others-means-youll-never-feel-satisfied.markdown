@@ -24,11 +24,11 @@ Have you ever heard that social media is just everyone's highlight reel? I think
 
 ## Limit Your Social Media Time
 
-As I said above, we tend to only share our highlight reel on social media. We're much more likely to show pictures of our fantastic vacation than we are to post about the debt we went into for it. Social media also has the benefit of pretty filters that make everything look more glamorous than real life. 
+As I said above, we tend to only share our highlight reel on social media. We're much more likely to show pictures of our fantastic vacation than we are to post about the debt we went into for it. Social media also has the benefit of pretty filters that make everything look more glamorous than real life. This is a recipe for feeling inadequate if we're comparing ourselves to what we see online. One way around this is to limit the time that we spend on social media. Prioritize in-person connection with the people you care about most and try to stay off of Instagram and Facebook.
 
 ## Ask and Tell Your Friends The Truth
 
-Much of the time, when we're jealous of someone else, it turns out that their life isn't as perfect as we think it is. In fact, there's no such thing as a perfect life! There's always something going on behind the scenes. But no one will know that if we don't tell them. Part of why I think it's so important to be transparent about money is that it will give us the opportunity to learn what's really going on with others and have them see us too.
+Much of the time, when we're jealous of someone else, it turns out that their life isn't as perfect as we think it is. In fact, there's no such thing as a perfect life! There's always something going on behind the scenes. But no one will know that if we don't tell them. Part of why I think it's so important to be transparent about money is that it will give us the opportunity to learn what's really going on with others and have them see us too. We'll all feel less alone while also being more realistic about what other people's lives are really like. So you should lead by example; tell your friends about your financial struggles and which goals you're working towards. 
 
 ## Practice Gratitude For What You Already Have
 
