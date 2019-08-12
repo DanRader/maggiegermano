@@ -36,4 +36,4 @@ When we are feeling envious of what everyone else has that we don't, it can be e
 
 ## Get Clear On What You Really Want
 
-A lot of my clients feel jealous or ashamed when they see their friends buying homes.
+A lot of my clients feel jealous or ashamed when they see their friends buying homes or throwing big weddings. They feel like they will never reach those milestones for themselves. But sometimes, the truth is this: they don't even want the thing that they feel like a failure for not having! 
