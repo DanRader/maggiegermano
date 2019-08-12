@@ -32,7 +32,7 @@ Much of the time, when we're jealous of someone else, it turns out that their li
 
 ## Practice Gratitude For What You Already Have
 
-When we are feeling envious of what everyone else has that we don't, it can be easy to forget what it is that we actually *do* have.
+When we are feeling envious of what everyone else has that we don't, it can be easy to forget what it is that we actually *do* have. 
 
 ## Get Clear On What You Really Want
 
