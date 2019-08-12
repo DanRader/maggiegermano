@@ -5,5 +5,6 @@ categories:
 - lifestyle
 - budget
 - spending
+image: "/uploads/kal-visuals--3Le1lY8yTg-unsplash.jpg"
 ---
 
