@@ -24,7 +24,7 @@ Have you ever heard that social media is just everyone's highlight reel? I think
 
 ## Limit Your Social Media Time
 
-As I said above, we tend to only share our highlight reel on social media. We're much more likely to show pictures of our fantastic vacation than we are to post about the debt we went into for it. Social media also has the benefit of pretty filters that make everything look more glamorous than real life. 
+As I said above, we tend to only share our highlight reel on social media. We're much more likely to show pictures of our fantastic vacation than we are to post about the debt we went into for it. Social media also has the benefit of pretty filters that make everything look more glamorous than real life. This is a recipe for feeling inadequate if we're comparing ourselves to what we see online. One way around this is to limit the time that we spend on social media. Prioritize in-person connection with the people you care about most and try to stay off of Instagram and Facebook.
 
 ## Ask and Tell Your Friends The Truth
 
