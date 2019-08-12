@@ -20,20 +20,20 @@ I hear this a lot. And I'm not immune to it either! Social media makes it a thou
 
 ## Remember That Not Everything Is As It Seems
 
-Have you ever heard that social media is just everyone's highlight reel? I think that's really true. And it's often true even when we are catching up with friends in person. It means that we are only posting and reporting on the positive things that are happening in our lives. 
+Have you ever heard that social media is just everyone's highlight reel? I think that's really true. And it's often true even when we are catching up with friends in person. It means that we are only posting and reporting on the positive things that are happening in our lives. We usually don't publicly report when we're struggling with something, so it's to be expected that the people we follow aren't sharing their struggles either. It's important to keep that in mind, especially when you're feeling envious or frustrated while comparing yourself to others. You never really know what is going on behind the scenes. 
 
 ## Limit Your Social Media Time
 
-As I said above, we tend to only share our highlight reel on social media. We're much more likely to show pictures of our fantastic vacation than we are to post about the debt we went into for it. 
+As I said above, we tend to only share our highlight reel on social media. We're much more likely to show pictures of our fantastic vacation than we are to post about the debt we went into for it.
 
 ## Ask and Tell Your Friends The Truth
 
-Much of the time, when we're jealous of someone else, it turns out that their life isn't as perfect as we think it is. In fact, there's no such thing as a perfect life! There's always something going on behind the scenes. But no one will know that if we don't tell them. Part of why I think it's so important to be transparent about money is that it will give us the opportunity to learn what's really going on with others and have them see us too. 
+Much of the time, when we're jealous of someone else, it turns out that their life isn't as perfect as we think it is. In fact, there's no such thing as a perfect life! There's always something going on behind the scenes. But no one will know that if we don't tell them. Part of why I think it's so important to be transparent about money is that it will give us the opportunity to learn what's really going on with others and have them see us too.
 
 ## Practice Gratitude For What You Already Have
 
-When we are feeling envious of what everyone else has that we don't, it can be easy to forget what it is that we actually* do *have. 
+When we are feeling envious of what everyone else has that we don't, it can be easy to forget what it is that we actually *do* have.
 
 ## Get Clear On What You Really Want
 
-A lot of my clients feel jealous or ashamed when they see their friends buying homes or throwing big weddings. They feel like they will never reach those milestones for themselves. But sometimes, the truth is this: they don't even want the thing that they feel like a failure for not having! 
+A lot of my clients feel jealous or ashamed when they see their friends buying homes or throwing big weddings. They feel like they will never reach those milestones for themselves. But sometimes, the truth is this: they don't even want the thing that they feel like a failure for not having!
