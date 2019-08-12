@@ -24,7 +24,7 @@ Have you ever heard that social media is just everyone's highlight reel? I think
 
 ## Limit Your Social Media Time
 
-x
+As I said above, we tend to only share our highlight reel on social media. We're much more likely to show pictures of our fantastic vacation than we are to post about the debt we went into for it. 
 
 ## Ask and Tell Your Friends The Truth
 
