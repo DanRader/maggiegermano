@@ -4,6 +4,8 @@ date: 2019-08-12 11:00:00 -04:00
 categories:
 - lifestyle
 image: "/uploads/robin-worrall-FPt10LXK0cg-unsplash.jpg"
+tweet: 'Comparing yourself to others'' highlight reels will only keep you unsatisfied
+  with your own life. '
 posts:
 - How to Stop Trying to Keep Up with "the Joneses"
 - How to Deal When You're Jealous of Your Friends' Finances
@@ -36,4 +38,6 @@ When we are feeling envious of what everyone else has that we don't, it can be e
 
 ## Get Clear On What You Really Want
 
-A lot of my clients feel jealous or ashamed when they see their friends buying homes or throwing big weddings. They feel like they will never reach those milestones for themselves. But sometimes, the truth is this: they don't even want the thing that they feel like a failure for not having!
+A lot of my clients feel jealous or ashamed when they see their friends buying homes or throwing big weddings. They feel like they will never reach those milestones for themselves. But sometimes, the truth is this: they don't even want the thing that they feel like a failure for not having! Just because everyone else you know is doing something doesn't mean that it's the right thing for you. So it's important to get clear on your own values and goals so that you aren't feeling jealous about something that isn't aligned with them anyway. Remind yourself of those goals whenever you're feeling jealous or less-than.
+
+*Do you have other tips for not comparing yourself to others? Share in the comments what has worked for you!*
