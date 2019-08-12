@@ -18,7 +18,7 @@ I hear this a lot. And I'm not immune to it either! Social media makes it a thou
 
 ## Remember That Not Everything Is As It Seems
 
-x
+Have you ever heard that social media is just everyone's highlight reel? I think that's really true. And it's often true even when we are catching up with friends in person. It means that we are only posting and reporting on the positive things that are happening in our lives. 
 
 ## Limit Your Social Media Time
 
