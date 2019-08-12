@@ -6,5 +6,9 @@ categories:
 - budget
 - spending
 image: "/uploads/kal-visuals--3Le1lY8yTg-unsplash.jpg"
+posts:
+- How to Talk to Your Friends about Money
+- You Can Have Fun with Your Friends While Spending Less
+- How to Deal When You're Jealous of Your Friends' Finances
 ---
 
