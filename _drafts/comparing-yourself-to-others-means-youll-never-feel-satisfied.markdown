@@ -28,7 +28,7 @@ As I said above, we tend to only share our highlight reel on social media. We're
 
 ## Ask and Tell Your Friends The Truth
 
-Much of the time, when we're jealous of someone else, it turns out that their life isn't as perfect as we think it is. In fact, there's no such thing as a perfect life!
+Much of the time, when we're jealous of someone else, it turns out that their life isn't as perfect as we think it is. In fact, there's no such thing as a perfect life! There's always something going on behind the scenes. But no one will know that if we don't tell them. 
 
 ## Practice Gratitude For What You Already Have
 
