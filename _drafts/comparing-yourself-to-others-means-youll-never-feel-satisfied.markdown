@@ -32,7 +32,7 @@ Much of the time, when we're jealous of someone else, it turns out that their li
 
 ## Practice Gratitude For What You Already Have
 
-When we are feeling envious of what everyone else has that we don't, it can be easy to forget what it is that we actually *do* have. 
+When we are feeling envious of what everyone else has that we don't, it can be easy to forget what it is that we actually *do* have. If you've ever heard about having an [abundance mindset](https://www.inc.com/angelina-zimmerman/discover-the-7-key-traits-of-an-abundant-mindset.html), you might be familiar with the idea of appreciating what you have in order to eventually get more of what you want. If you're stuck focusing on what you wish you had, rather than being grateful for what you already have, you can feel paralyzed and unable to move forward. 
 
 ## Get Clear On What You Really Want
 
