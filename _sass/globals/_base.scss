@@ -6,10 +6,12 @@ $media-max-tablet: "screen and (max-width: #{$tablet})";
 $media-max-l: "screen and (max-width: #{$l})";
 
 $media-min-xl: "screen and (min-width: #{$xl})";
+$media-min-l: "screen and (min-width: #{$l})";
 // @media #{$media-max-tablet}{}
 // @media #{$media-max-l}{}
 
 // @media #{$media-min-xl}{}
+// @media #{$media-min-l}{}
 
 body{
 margin: 0;

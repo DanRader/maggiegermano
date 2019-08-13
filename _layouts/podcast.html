@@ -1,0 +1,69 @@
+---
+layout: default
+---
+<div id="page-wrapper">
+
+    <div class="podcast-left scroll-to-fixed-fixed">
+        <img src="/uploads/podcastLogo.svg" alt="Money Circle Podcast">
+        <h1 class="hidden">Money Circle Podcast</h1>
+        <p>{{page.content}}</p>
+    </div>
+
+    <div class="podcast-right">
+
+        <div class="highlight-outerWrap">
+            <div class="podcast-highlight">
+                <div class="hightlight-content">
+                    <h2>An Interview with Michelle Obama</h2>
+                    <p>Spotting trends is so much more than scrolling through Instagram for fashion inspo.</p>
+                    <div class="audioButton">
+                        <div class="buttonwrap">
+                            <button type="button" name="play"><img src="/uploads/play-icon.svg" alt="play"></button>
+                        </div>
+                        <div class="imageWrap">
+                            <img src="/uploads/play-audio.png" alt="">
+                        </div>
+                    </div>
+                    <div class="highlight-more">
+                        <a href="#">read more <i class="text-button fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                    </div>
+                    <img class="latest" src="/uploads/podcast-latest.svg" alt="">
+                </div>
+            </div>
+        </div>
+
+        <div class="podcast-looper">
+            <div class="podcastItem">
+                <div class="podcastContent">
+                    <h2>An Interview with Michelle Obama</h2>
+                    <p>Spotting trends is so much more than scrolling through Instagram for fashion inspo.</p>
+                </div>
+            </div>
+            <div class="podcastItem">
+                <div class="podcastContent">
+                    <h2>An Interview with Michelle Obama</h2>
+                    <p>Spotting trends is so much more than scrolling through Instagram for fashion inspo.</p>
+                </div>
+            </div>
+            <div class="podcastItem">
+                <div class="podcastContent">
+                    <h2>An Interview with Michelle Obama</h2>
+                    <p>Spotting trends is so much more than scrolling through Instagram for fashion inspo.</p>
+                </div>
+            </div>
+            <div class="podcastItem">
+                <div class="podcastContent">
+                    <h2>An Interview with Michelle Obama</h2>
+                    <p>Spotting trends is so much more than scrolling through Instagram for fashion inspo.</p>
+                </div>
+            </div>
+
+        </div>
+
+
+    </div>
+{% include /podcast/AudioPlayer.html %}
+</div>
+
+
+{% include js/scroll-to-fix.html %}

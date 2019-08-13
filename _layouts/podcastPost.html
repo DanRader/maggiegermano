@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="podcastPost-hero">
+</div>
+<div class="podcastPost-titleCard ">
+    <img class="logo-square" src="/uploads/podcast-square.png" alt="Money Circle Podcast">
+    <div class="podcastPost-titleCard--innerWrap">
+        <h1>{{ page.title }}</h1>
+        <p class="lede">{{ page.lede }}</p>
+        <div class="audioButton">
+            <div class="buttonwrap">
+                <button type="button" name="play"><img src="/uploads/play-icon.svg" alt="play"></button>
+            </div>
+            <div class="imageWrap">
+                <img src="/uploads/play-audio-alt.png" alt="">
+            </div>
+        </div>
+    </div>
+</div>
+<div class="podcastPost-content">
+    {{content | markdownify }}
+</div>
+
+{% include posts/related-posts.html %}
+
+{% include /podcast/AudioPlayer.html %}
