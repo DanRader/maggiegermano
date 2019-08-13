@@ -12,3 +12,4 @@ posts:
 - How to Deal When You're Jealous of Your Friends' Finances
 ---
 
+Have you ever felt like the only way to get your money right is to become a hermit and just have no social life whatsoever? I've been there too!
