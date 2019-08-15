@@ -41,7 +41,7 @@ This week, I wrote about how damaging it can be to constantly [compare yourself 
 
 ## **What I’m Excited About**
 
-* x
+* Did I mention I'm launching the Money Circle podcast next week? The introductory episode is already up on iTunes and Spotify, so please make sure to subscribe, rate, and review! 
 
 * x
 
