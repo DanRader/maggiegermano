@@ -37,11 +37,13 @@ This week, I wrote about how damaging it can be to constantly [compare yourself 
 
 * x
 
-* x
+* Not only am I launching a podcast, but I've also created a **[Money Circle membership program](https://maggiegermano.podia.com/inner-circle)**. This program will allow you to be engaged with Money Circle no matter where you live. You'll get access to the in-person meetups, participate in group coaching calls, and/or get monthly access to me. **[Sign up today](https://maggiegermano.podia.com/inner-circle)**!
+
+* I'm leading a [personal finance workshop](https://generalassemb.ly/education/money-matters-get-financially-savvy-in-the-upcoming-year/washington-dc/81133) at General Assembly in DC on Wednesday, August 28th. It's FREE, and it'll be fun!
 
 ## **What I’m Excited About**
 
-* x
+* Did I mention I'm launching the [Money Circle podcast](https://moneycircle.simplecast.com/) next week? The introductory episode is already up on [iTunes](https://podcasts.apple.com/us/podcast/money-circle/id1476319828?l) and [Spotify](https://open.spotify.com/show/5XIJDpfL2UJTExmSeGGxXJ?si=rDbRrSjISjylrEwL4Qlj3w), so please make sure to subscribe, rate, and review! 
 
 * x
 
