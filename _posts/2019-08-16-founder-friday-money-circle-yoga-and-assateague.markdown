@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Money Circle, Yoga, and Assateague
 date: 2019-08-16 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 posts:
@@ -49,7 +50,7 @@ This week, I wrote about how damaging it can be to constantly [compare yourself 
 
 * Did I mention I'm launching the [Money Circle podcast](https://moneycircle.simplecast.com/) next week? The introductory episode is already up on [iTunes](https://podcasts.apple.com/us/podcast/money-circle/id1476319828?l) and [Spotify](https://open.spotify.com/show/5XIJDpfL2UJTExmSeGGxXJ?si=rDbRrSjISjylrEwL4Qlj3w), so please make sure to subscribe, rate, and review! 
 
-* x
+* I'm heading up to Maine next Thursday for a long birthday weekend! I'm planning on eating a lot of lobster and soaking in all the beautiful views. If you have any recommendations, let me know!
 
 ## **What I’m Reading**
 
