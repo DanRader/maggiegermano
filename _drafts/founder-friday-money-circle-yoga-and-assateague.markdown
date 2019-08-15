@@ -29,6 +29,8 @@ Happy Friday, everyone! Here’s what I was up to.
 
 * On Wednesday, I bought myself from snacks from Target while I was downtown all day for meetings. I also bought snacks for the Money Circle meetup that was held that night.
 
+![IMG_9806.JPG](/uploads/IMG_9806.JPG)
+
 ## **What I’m Writing**
 
 This week, I wrote about how damaging it can be to constantly [compare yourself to others](https://www.maggiegermano.com/blog/comparing-yourself-to-others-means-youll-never-feel-satisfied/). I also included some tips on how to stop doing that so much.
