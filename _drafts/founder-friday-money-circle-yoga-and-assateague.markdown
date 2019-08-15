@@ -27,7 +27,7 @@ Happy Friday, everyone! Here’s what I was up to.
 
 ## **What I’m Writing**
 
-x
+This week, I wrote about how damaging it can be to constantly [compare yourself to others](https://www.maggiegermano.com/blog/comparing-yourself-to-others-means-youll-never-feel-satisfied/). I also included some tips on how to stop doing that so much.
 
 ## **What I’m Up To**
 
@@ -43,7 +43,7 @@ x
 
 ## **What I’m Reading**
 
-x
+I'm still working my way through the [Sawbones book](https://www.simonandschuster.com/books/The-Sawbones-Book/Justin-McElroy/9781681883816). It's a big book with small writing and lots of extra information in the edges. So it's taking me a while to get through it, but I'm intent on finishing it before this weekend ends. 
 
 ## **Money Tip to Take Into the Weekend**
 
