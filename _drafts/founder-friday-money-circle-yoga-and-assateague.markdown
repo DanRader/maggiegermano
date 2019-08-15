@@ -23,7 +23,7 @@ Happy Friday, everyone! Here’s what I was up to.
 
 * Since we were so close to Ocean City, we decided to drive a little bit further and visit Assateague Island for the first time. It was so beautiful there! It was cool seeing the ponies hanging around the marshes and walking down the street. We paid $20 to get into the national park area of the island. We also bought lunch and some snacks for the long drive home. Bruno had a great time running around on the beach. We definitely plan to go back and spend more than just a couple of hours there.
 
-* On Wednesday, I bought myself from snacks from Target while I was downtown all day for meetings. I also bought snacks for the Money Circle meetup that was held that night. 
+* On Wednesday, I bought myself from snacks from Target while I was downtown all day for meetings. I also bought snacks for the Money Circle meetup that was held that night.
 
 ## **What I’m Writing**
 
@@ -47,6 +47,6 @@ x
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![Everything is not as it appears.png](/uploads/Everything%20is%20not%20as%20it%20appears.png)
 
 That’s all from me this week. Have a great weekend!
