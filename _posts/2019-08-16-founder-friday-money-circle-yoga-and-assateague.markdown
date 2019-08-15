@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Money Circle, Yoga, and Assateague
 date: 2019-08-16 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 posts:
@@ -37,17 +38,19 @@ This week, I wrote about how damaging it can be to constantly [compare yourself 
 
 ## **What I’m Up To**
 
-* x
+* I'm officially launching my Money Circle podcast next Monday! Make sure you subscribe so that you never miss an episode. And if you're in DC, come to the free [launch party](https://www.eventbrite.com/e/money-circle-podcast-launch-party-tickets-68050955239) at The Midlands on Tuesday, August 20th!
 
 * Not only am I launching a podcast, but I've also created a **[Money Circle membership program](https://maggiegermano.podia.com/inner-circle)**. This program will allow you to be engaged with Money Circle no matter where you live. You'll get access to the in-person meetups, participate in group coaching calls, and/or get monthly access to me. **[Sign up today](https://maggiegermano.podia.com/inner-circle)**!
 
 * I'm leading a [personal finance workshop](https://generalassemb.ly/education/money-matters-get-financially-savvy-in-the-upcoming-year/washington-dc/81133) at General Assembly in DC on Wednesday, August 28th. It's FREE, and it'll be fun!
 
+* I'm turning 32 on August 21st, and I'm [raising money for RAICES](https://www.facebook.com/donate/963928690619285/). Donate if you can!
+
 ## **What I’m Excited About**
 
 * Did I mention I'm launching the [Money Circle podcast](https://moneycircle.simplecast.com/) next week? The introductory episode is already up on [iTunes](https://podcasts.apple.com/us/podcast/money-circle/id1476319828?l) and [Spotify](https://open.spotify.com/show/5XIJDpfL2UJTExmSeGGxXJ?si=rDbRrSjISjylrEwL4Qlj3w), so please make sure to subscribe, rate, and review! 
 
-* x
+* I'm heading up to Maine next Thursday for a long birthday weekend! I'm planning on eating a lot of lobster and soaking in all the beautiful views. If you have any recommendations, let me know!
 
 ## **What I’m Reading**
 
