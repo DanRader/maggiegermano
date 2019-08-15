@@ -16,4 +16,14 @@ Have you ever felt like the only way to get your money right is to become a herm
 
 However, sometimes our friends and social lives actually do harm our finances.
 
-xx
+## Judging Our Choices
+
+Last week, during our Money Circle meetup, one of the attendees told the rest of us about an experience she'd recently had with a friend. She told that friend that she didn't think she'd ever want to own a home, and the friend, who'd recently bought her own home, thought she was crazy. 
+
+## Ignoring Our Limitations
+
+x
+
+## Pressuring Us
+
+x
