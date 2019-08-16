@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Money Circle, Yoga, and Assateague
 date: 2019-08-16 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 posts:
