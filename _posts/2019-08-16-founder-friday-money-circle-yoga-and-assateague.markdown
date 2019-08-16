@@ -3,6 +3,7 @@ title: Founder Friday | Money Circle, Yoga, and Assateague
 date: 2019-08-16 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/lena-bell--gP5_rYwDf0-unsplash.jpg"
 posts:
 - Founder Friday | Podcasts, Confidence, and Sawbones
 - Founder Friday | Coworking, Confidence, and Travel
