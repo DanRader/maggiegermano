@@ -18,6 +18,9 @@ collections:
   testimonials:
     title: Testimonials
     output: true
+  podcast:
+    title: Podcast
+    output: true
   uploads:
     title: Uploads
     output: true
@@ -35,52 +38,64 @@ defaults:
   values:
     layout: default
     image: "/uploads/featuredimage.png"
-    is-menu: 
+    is-menu:
 - scope:
     path: ''
     type: events
   values:
     layout: event
-    title: 
-    image: 
-    og-image: 
-    sm-image: 
-    event-date: 
-    start-time: 
-    end-time: 
-    location: 
+    title:
+    image:
+    og-image:
+    sm-image:
+    event-date:
+    start-time:
+    end-time:
+    location:
     button-text: Sign Me Up
     button-link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JF9KN58RCEPEC
     is-money-circle: 'true'
-    ticket-price: 
+    ticket-price:
 - scope:
     path: ''
     type: posts
   values:
     layout: post
     permalink: "/blog/:title/"
-    image: 
+    image:
     author: Maggie Germano
     author-desc: 'Certified Financial Education Instructor. Feminist and financial
       coach for women. Founder of Money Circle. '
     author-image: "/uploads/maggie_author.jpg"
     tweet: " "
     posts:
-    - 
-    - 
-    - 
+    -
+    -
+    -
     comments: true
     future: false
 - scope:
     path: ''
+    type: podcast
+  values:
+    layout: podcastPost
+    title: Introducing the Money Circle Podcast!
+    lede: Introducing the Money Circle podcast! In this episode, financial coach and your host, Maggie Germano, gives you the rundown on what this podcast will be like and who might enjoy it. Tune in to see if it's right for you!
+    image: "/uploads/high%20voltage.jpg"
+    audioLink: 523a375c-d6ff-4379-afd8-9b1257b6ea60
+    podcasts:
+    -
+    -
+- scope:
+    path: ''
     type: categories
   values:
-    color: 
+    color:
 - scope:
     path: ''
     type: testimonials
   values:
-    image: 
+    image:
 permalink: pretty
 gems:
 - jekyll-paginate

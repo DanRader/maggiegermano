@@ -3,66 +3,56 @@ layout: default
 ---
 <div id="page-wrapper">
 
-    <div class="podcast-left scroll-to-fixed-fixed">
+    <div class="podcast-left podcast-left--list scroll-to-fixed-fixed">
         <img src="/uploads/podcastLogo.svg" alt="Money Circle Podcast">
         <h1 class="hidden">Money Circle Podcast</h1>
         <p>{{page.content}}</p>
     </div>
 
     <div class="podcast-right">
-
+        {% for podcast in site.podcast limit: 1 %}
         <div class="highlight-outerWrap">
-            <div class="podcast-highlight">
+            <div class="podcast-highlight" style="
+                    background:
+                        url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=100),
+                        linear-gradient(269deg, #9013FE 0%, #00BCB1 100%),
+                        url({{ podcast.image }});
+                    background-position: left 33%;
+                    background-size: 20%, cover, cover;
+                    ">
                 <div class="hightlight-content">
-                    <h2>An Interview with Michelle Obama</h2>
-                    <p>Spotting trends is so much more than scrolling through Instagram for fashion inspo.</p>
-                    <div class="audioButton">
-                        <div class="buttonwrap">
-                            <button type="button" name="play"><img src="/uploads/play-icon.svg" alt="play"></button>
-                        </div>
-                        <div class="imageWrap">
-                            <img src="/uploads/play-audio.png" alt="">
-                        </div>
-                    </div>
+                    <h2>{{ podcast.title }}</h2>
+                    <p>{{ podcast.lede }}</p>
                     <div class="highlight-more">
-                        <a href="#">read more <i class="text-button fa fa-long-arrow-right" aria-hidden="true"></i></a>
+                        <a href="{{ podcast.url | prepend: site.baseurl }}">Have a listen <i class="text-button fa fa-volume-up" aria-hidden="true"></i></a>
                     </div>
                     <img class="latest" src="/uploads/podcast-latest.svg" alt="">
                 </div>
             </div>
         </div>
+        {% endfor %}
 
         <div class="podcast-looper">
-            <div class="podcastItem">
+            {% for podcast in site.podcast offset:1 %}
+            <div class="podcastItem" style="
+                background:
+                    url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=100),
+                    linear-gradient(269deg, #9013FE 0%, #00BCB1 100%),
+                    url({{ podcast.image }});
+                background-position: left 33%;
+                background-size: 20%, cover, cover;
+            ">
                 <div class="podcastContent">
-                    <h2>An Interview with Michelle Obama</h2>
-                    <p>Spotting trends is so much more than scrolling through Instagram for fashion inspo.</p>
+                    <h2>{{ podcast.title }}</h2>
+                    <p>{{ podcast.lede }}</p>
                 </div>
             </div>
-            <div class="podcastItem">
-                <div class="podcastContent">
-                    <h2>An Interview with Michelle Obama</h2>
-                    <p>Spotting trends is so much more than scrolling through Instagram for fashion inspo.</p>
-                </div>
-            </div>
-            <div class="podcastItem">
-                <div class="podcastContent">
-                    <h2>An Interview with Michelle Obama</h2>
-                    <p>Spotting trends is so much more than scrolling through Instagram for fashion inspo.</p>
-                </div>
-            </div>
-            <div class="podcastItem">
-                <div class="podcastContent">
-                    <h2>An Interview with Michelle Obama</h2>
-                    <p>Spotting trends is so much more than scrolling through Instagram for fashion inspo.</p>
-                </div>
-            </div>
+            {% endfor %}
 
         </div>
 
 
     </div>
-{% include /podcast/AudioPlayer.html %}
 </div>
 
 

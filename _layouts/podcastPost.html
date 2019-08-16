@@ -2,27 +2,55 @@
 layout: default
 ---
 
-<div class="podcastPost-hero">
-</div>
-<div class="podcastPost-titleCard ">
-    <img class="logo-square" src="/uploads/podcast-square.png" alt="Money Circle Podcast">
-    <div class="podcastPost-titleCard--innerWrap">
-        <h1>{{ page.title }}</h1>
-        <p class="lede">{{ page.lede }}</p>
-        <div class="audioButton">
-            <div class="buttonwrap">
-                <button type="button" name="play"><img src="/uploads/play-icon.svg" alt="play"></button>
+<div id="page-wrapper">
+
+    <div class="podcast-left podcast-left--content scroll-to-fixed-fixed">
+    </div>
+
+    <div class="podcast-right">
+
+        <div class="audioPlayer-outerWrap">
+            <div class="audioPlayer">
+                {{ page.audioIframe }}
             </div>
-            <div class="imageWrap">
-                <img src="/uploads/play-audio-alt.png" alt="">
-            </div>
+        </div>
+
+        <div class="podcastPost-content">
+            <h1>{{ page.title }}</h1>
+            <p class="lede">{{ page.lede }}</p>
+            {{content | markdownify }}
+        </div>
+
+        <div class="center blog-name blog-list-space related-title">
+          <img src="/uploads/MaggieG_Mark@2x.png">
+          <h2>Related Podcasts</h2>
+        </div>
+        <div class="podcast-looper podcast-looper--content">
+
+            {% for podcast in page.podcast limit:2 %}
+                        {% assign podcast-title = podcast | downcase %}
+                {% for site-podcast in site.podcast %}
+                        {% assign site-podcast-title = site-podcast.title | downcase %}
+                  {% if podcast-title == site-podcast-title  %}
+                      <a href="{{ site-podcast.url | prepend: site.baseurl }}">
+                          <div class="podcastItem" style="
+                          background:
+                              url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=100),
+                              linear-gradient(269deg, #9013FE 0%, #00BCB1 100%),
+                              url({{site-podcast.image}});
+                          background-position: left 33%;
+                          background-size: 20%, cover, cover;
+                          ">
+                              <div class="podcastContent">
+                                  <h2>{{ site-podcast.title }}</h2>
+                                  <p>{{ site-podcast.lede }}</p>
+                              </div>
+                          </div>
+                      </a>
+                    {% endif %}
+                  {% endfor %}
+                {% endfor %}
+                </div>
         </div>
     </div>
 </div>
-<div class="podcastPost-content">
-    {{content | markdownify }}
-</div>
-
-{% include posts/related-posts.html %}
-
-{% include /podcast/AudioPlayer.html %}

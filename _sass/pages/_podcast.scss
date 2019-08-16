@@ -2,27 +2,42 @@
     position: relative;
     --leftWidth: 40%;
     --navHeight: 64px;
+    display: flex;
 }
 
 
 .podcast-left {
-    position: fixed;
+    position: sticky;
     height: calc(100vh - var(--navHeight));
     min-height: 500px;
     width: var(--leftWidth);
     left: 0;
     top: var(--navHeight);
-    padding: 1rem;
-    background:
-    url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=40),
-    linear-gradient(269deg, #9013FE 0%, #00BCB1 100%);
 
+    padding: 1rem;
     display: flex;
     flex-direction: column;
     justify-content: space-evenly;
     align-content: center;
     padding: 0 7%;
     text-align: center;
+
+    &--list {
+        background:
+        url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=40),
+        linear-gradient(269deg, #9013FE 0%, #00BCB1 100%);
+
+    }
+
+    &--content {
+        background:
+            url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=100),
+            linear-gradient(269deg, #9013FE 0%, #00BCB1 100%),
+            url(/uploads/podast-placeholder.jpg);
+        background-position: left 33%;
+        background-size: 20%, cover, cover;
+        background-blend-mode: overlay, overlay, normal;
+    }
 
     p {
         color: white;
@@ -32,7 +47,7 @@
 .podcast-right {
     height: 100%;
     width: calc(100% - var(--leftWidth));
-    margin-left: var(--leftWidth);
+    // margin-left: var(--leftWidth);
     padding: 64px;
     position: relative;
 }
@@ -49,8 +64,6 @@
         url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=100),
         linear-gradient(269deg, #9013FE 0%, #00BCB1 100%),
         url(/uploads/podast-placeholder.jpg);
-    background-position: left 33%;
-    background-size: 20%, cover, cover;
     background-blend-mode: overlay, overlay, normal;
     width: 100%;
     height: 450px;
@@ -138,6 +151,11 @@
     margin-bottom: 40px;
     padding-top: 40px;
 
+    &--content {
+        margin-top: 0;
+        padding-top: 0;
+    }
+
 
     .podcastItem {
         background:
@@ -224,75 +242,11 @@
     background-size: 20%, cover, cover;
     background-blend-mode: overlay, overlay, normal;
     width: 100%;
-    height: 72vh;
+    height: 56vh;
     min-height: 350px;
     position: relative;
-    margin-bottom: -304px;
+    margin-bottom: -300px;
 
-}
-
-.podcastPost-titleCard {
-    width: 100%;
-    position: relative;
-    bottom: 0;
-    padding: 0 20%;
-
-    .logo-square {
-        position: absolute;
-        top: -92px;
-        right: 0;
-        left: 0;
-        margin: auto;
-        width: 150px;
-    }
-
-    &--innerWrap {
-        background-color: white;
-        box-shadow: 6px 2px 84px -30px rgba(0,0,0,0.50);
-        margin-top: 0;
-        padding: 80px 54px 40px;
-        border-radius: 2px;
-        text-align: center;
-
-        h1 {
-            color: #5292D3;
-            font-size: 40px;
-
-            @media screen and (min-width: 1200px){
-                font-size: 4vw;
-            }
-        }
-
-        .lede{
-            font-size: 28px;
-            color: #5292D3;
-            letter-spacing: 0;
-            line-height: 1.5;
-            margin-top: 8px;
-            margin-bottom: 24px;
-
-            @media screen and (min-width: 1200px){
-                font-size: 1.8vw;
-            }
-        }
-
-        .audioButton {
-            margin-top: 40px;
-
-             img {
-                 width: 100%;
-             }
-
-            .buttonwrap {
-                margin-right: 24px;
-            }
-
-            button {
-                height: 64px;
-                width: 64px;
-            }
-        }
-    }
 }
 
 .podcastPost-hero--title{
@@ -301,8 +255,30 @@
 }
 
 .podcastPost-content {
-    padding: 0 calc(20% + 54px);
+    padding: 200px 48px 40px;
     margin-top: 54px;
+
+    h1 {
+        color: #5292D3;
+        font-size: 40px;
+
+        @media screen and (min-width: 1200px){
+            font-size: 4vw;
+        }
+    }
+
+    .lede{
+        font-size: 22px;
+        color: #5292D3;
+        letter-spacing: 0;
+        line-height: 1.5;
+        margin-top: 8px;
+        margin-bottom: 24px;
+
+        @media screen and (min-width: 1200px){
+            font-size: 1.8vw;
+        }
+    }
 
     p {
         margin-bottom: 24px;
@@ -313,28 +289,15 @@
 
 // AUDIO PLAYER——————————————————————————————
 
-.audioPlayer {
-    position: fixed;
+
+.audioPlayer-outerWrap {
+    position: absolute;
     width: 100%;
-    height: 200px;
+    left: -64px;
+}
+
+.audioPlayer {
+    position: relative;
+    width: 100%;
     bottom: 0;
-    z-index: 99999;
-    transform: translateY(200px);
-    transition: 0.3s all ease-out;
-
-    button {
-        background-color: black;
-        color: white;
-        box-shadow: none;
-        border-radius: 0;
-        border: none;
-        position: absolute;
-        top: -40px;
-        right: 0;
-        height: 40px;
-    }
-
-    &.active {
-        transform: none;
-    }
 }
