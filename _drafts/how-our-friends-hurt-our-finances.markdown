@@ -20,10 +20,16 @@ However, sometimes our friends and social lives actually do harm our finances.
 
 Last week, during our [Money Circle](https://www.maggiegermano.com/moneycircle/) meetup, one of the attendees told the rest of us about an experience she'd recently had with a friend. She told that friend that she didn't think she'd ever want to own a home, and the friend, who'd recently bought her own home, thought she was crazy. The conversation escalated to the point where she felt judged and silenced by her friend. I'm sure everyone reading this has been in a similar situation where they felt judged for wha they choose to do or not to do in their lives.
 
+**What you can do about it:** xx
+
 ## Ignoring Our Limitations
 
 x
 
+**What you can do about it:** xx
+
 ## Pressuring Us
 
 x
+
+**What you can do about it:** xx
