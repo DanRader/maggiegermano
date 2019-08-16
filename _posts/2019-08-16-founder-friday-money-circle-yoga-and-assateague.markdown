@@ -47,13 +47,15 @@ This week, I wrote about how damaging it can be to constantly [compare yourself 
 
 ## **What I’m Excited About**
 
-* Did I mention I'm launching the [Money Circle podcast](https://moneycircle.simplecast.com/) next week? The introductory episode is already up on [iTunes](https://podcasts.apple.com/us/podcast/money-circle/id1476319828?l) and [Spotify](https://open.spotify.com/show/5XIJDpfL2UJTExmSeGGxXJ?si=rDbRrSjISjylrEwL4Qlj3w), so please make sure to subscribe, rate, and review! 
+* Did I mention I'm launching the [Money Circle podcast](https://moneycircle.simplecast.com/) next week? The introductory episode is already up on [iTunes](https://podcasts.apple.com/us/podcast/money-circle/id1476319828?l) and [Spotify](https://open.spotify.com/show/5XIJDpfL2UJTExmSeGGxXJ?si=rDbRrSjISjylrEwL4Qlj3w), so please make sure to subscribe, rate, and review!
 
 * I'm heading up to Maine next Thursday for a long birthday weekend! I'm planning on eating a lot of lobster and soaking in all the beautiful views. If you have any recommendations, let me know!
 
+* I've been maintaining a pretty consistent yoga practice recently. I was looking for a way to move my body without stressing myself out. So I've been going to yoga about two times a week. I feel good and much more relaxed!
+
 ## **What I’m Reading**
 
-I'm still working my way through the [Sawbones book](https://www.simonandschuster.com/books/The-Sawbones-Book/Justin-McElroy/9781681883816). It's a big book with small writing and lots of extra information in the edges. So it's taking me a while to get through it, but I'm intent on finishing it before this weekend ends. 
+I'm still working my way through the [Sawbones book](https://www.simonandschuster.com/books/The-Sawbones-Book/Justin-McElroy/9781681883816). It's a big book with small writing and lots of extra information in the edges. So it's taking me a while to get through it, but I'm intent on finishing it before this weekend ends.
 
 ## **Money Tip to Take Into the Weekend**
 
