@@ -4,14 +4,21 @@ layout: default
 
 <div id="page-wrapper">
 
-    <div class="podcast-left podcast-left--content scroll-to-fixed-fixed">
+    <div class="podcast-left podcast-left--content scroll-to-fixed-fixed" style="
+    background:
+        url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=100),
+        linear-gradient(269deg, #9013FE 0%, #00BCB1 100%),
+        url({{page.image}});
+        background-position: left 33%;
+        background-size: 20%, cover, cover;
+    ">
     </div>
 
     <div class="podcast-right">
 
         <div class="audioPlayer-outerWrap">
             <div class="audioPlayer">
-                {{ page.audioIframe }}
+                {{ page.embed-code }}
             </div>
         </div>
 

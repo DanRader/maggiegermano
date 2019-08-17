@@ -3,6 +3,10 @@
     --leftWidth: 40%;
     --navHeight: 64px;
     display: flex;
+
+    @media #{$media-max-l}{
+        flex-direction: column;
+    }
 }
 
 
@@ -19,8 +23,19 @@
     flex-direction: column;
     justify-content: space-evenly;
     align-content: center;
-    padding: 0 7%;
+    padding: 0 8%;
     text-align: center;
+
+    @media #{$media-max-l}{
+        flex: 1;
+        width: 100%;
+        position: relative;
+        top: 0;
+        margin-bottom: -215px;
+        min-height: 630px;
+        padding: 0 14%;
+        padding-bottom: 180px;
+    }
 
     &--list {
         background:
@@ -37,10 +52,24 @@
         background-position: left 33%;
         background-size: 20%, cover, cover;
         background-blend-mode: overlay, overlay, normal;
+
+        @media #{$media-max-l}{
+            min-height: 460px;
+            margin-bottom: -161px;
+        }
     }
 
     p {
         color: white;
+    }
+
+    img {
+        width: 14vw;
+        margin: 0 auto;
+        @media #{$media-max-tablet}{
+            width: 106px;
+            margin: 0 auto;
+        }
     }
 }
 
@@ -50,6 +79,13 @@
     // margin-left: var(--leftWidth);
     padding: 64px;
     position: relative;
+    @media #{$media-max-l}{
+        width: 100%
+    }
+    @media #{$media-max-tablet}{
+        padding: 24px;
+        padding-bottom: 64px;
+    }
 }
 
 // HIGHLIGHT SECTION——————————————————————
@@ -58,6 +94,10 @@
     position: absolute;
     width: 100%;
     left: -64px;
+    @media #{$media-max-l}{
+        position: relative;
+        left: 0;
+    }
 }
 .podcast-highlight {
     background:
@@ -69,6 +109,10 @@
     height: 450px;
     position: relative;
 
+    @media #{$media-max-tablet}{
+        height: 495px;
+    }
+
     & .hightlight-content{
         background-color: white;
         width: 58%;
@@ -77,6 +121,15 @@
         bottom: -61px;
         box-shadow: 6px 2px 84px -30px rgba(0,0,0,0.50);
         padding: 40px 40px 24px 40px;
+
+        @media #{$media-max-xlm}{
+            width: 85%;
+        }
+
+        @media #{$media-max-tablet}{
+            width: 95%;
+            right: -12px;
+        }
 
         h2 {
             font-weight: 600;
@@ -151,6 +204,15 @@
     margin-bottom: 40px;
     padding-top: 40px;
 
+    @media #{$media-max-xlm}{
+        grid-template-columns: 1fr;
+    }
+
+    @media #{$media-max-l}{
+        margin-top: 54px;
+    }
+
+
     &--content {
         margin-top: 0;
         padding-top: 0;
@@ -176,6 +238,10 @@
             bottom: -61px;
             box-shadow: 6px 2px 84px -30px rgba(0,0,0,0.50);
             padding: 20px 20px 16px 20px;
+
+            @media #{$media-max-l}{
+                right: -12px;
+            }
 
             h2 {
                 font-size: 22px;
@@ -258,6 +324,14 @@
     padding: 200px 48px 40px;
     margin-top: 54px;
 
+    @media #{$media-max-l}{
+        padding: 16px 48px 40px;
+    }
+
+    @media #{$media-max-tablet}{
+        padding: 16px 16px 40px;
+    }
+
     h1 {
         color: #5292D3;
         font-size: 40px;
@@ -294,6 +368,11 @@
     position: absolute;
     width: 100%;
     left: -64px;
+
+    @media #{$media-max-l}{
+        position: relative;
+        left: 0;
+    }
 }
 
 .audioPlayer {

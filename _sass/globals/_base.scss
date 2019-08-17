@@ -1,14 +1,18 @@
-$tablet: 600px;
-$xl: 1400px;
+$tablet: 500px;
+
 $l: 771px;
+$xlm: 1080px;
+$xl: 1400px;
 
 $media-max-tablet: "screen and (max-width: #{$tablet})";
 $media-max-l: "screen and (max-width: #{$l})";
+$media-max-xlm: "screen and (max-width: #{$xlm})";
 
 $media-min-xl: "screen and (min-width: #{$xl})";
 $media-min-l: "screen and (min-width: #{$l})";
 // @media #{$media-max-tablet}{}
 // @media #{$media-max-l}{}
+// @media #{$media-max-xlm}{}
 
 // @media #{$media-min-xl}{}
 // @media #{$media-min-l}{}

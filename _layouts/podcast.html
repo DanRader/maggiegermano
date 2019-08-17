@@ -10,9 +10,38 @@ layout: default
     </div>
 
     <div class="podcast-right">
-        {% for podcast in site.podcast limit: 1 %}
-        <div class="highlight-outerWrap">
-            <div class="podcast-highlight" style="
+        {% assign sortedPodcasts = site.podcast | sort:"date" | reverse %}
+        {% for podcast in sortedPodcasts limit: 1 %}
+
+<!-- FIX THIS LINK! -->
+
+        <a href="{{ podcast.url | prepend: site.baseurl }}">
+            <div class="highlight-outerWrap">
+                <div class="podcast-highlight" style="
+                        background:
+                            url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=100),
+                            linear-gradient(269deg, #9013FE 0%, #00BCB1 100%),
+                            url({{ podcast.image }});
+                        background-position: left 33%;
+                        background-size: 20%, cover, cover;
+                        ">
+                    <div class="hightlight-content">
+                        <h2>{{ podcast.title }}</h2>
+                        <p>{{ podcast.lede }}</p>
+                        <div class="highlight-more">
+                            <a href="{{ podcast.url | prepend: site.baseurl }}">Have a listen <i class="text-button fa fa-volume-up" aria-hidden="true"></i></a>
+                        </div>
+                        <img class="latest" src="/uploads/podcast-latest.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </a>
+        {% endfor %}
+
+        <div class="podcast-looper">
+            {% for podcast in sortedPodcasts offset:1 %}
+            <a href="{{ podcast.url | prepend: site.baseurl }}">
+                <div class="podcastItem" style="
                     background:
                         url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=100),
                         linear-gradient(269deg, #9013FE 0%, #00BCB1 100%),
@@ -20,33 +49,12 @@ layout: default
                     background-position: left 33%;
                     background-size: 20%, cover, cover;
                     ">
-                <div class="hightlight-content">
-                    <h2>{{ podcast.title }}</h2>
-                    <p>{{ podcast.lede }}</p>
-                    <div class="highlight-more">
-                        <a href="{{ podcast.url | prepend: site.baseurl }}">Have a listen <i class="text-button fa fa-volume-up" aria-hidden="true"></i></a>
+                    <div class="podcastContent">
+                        <h2>{{ podcast.title }}</h2>
+                        <p>{{ podcast.lede }}</p>
                     </div>
-                    <img class="latest" src="/uploads/podcast-latest.svg" alt="">
                 </div>
-            </div>
-        </div>
-        {% endfor %}
-
-        <div class="podcast-looper">
-            {% for podcast in site.podcast offset:1 %}
-            <div class="podcastItem" style="
-                background:
-                    url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=100),
-                    linear-gradient(269deg, #9013FE 0%, #00BCB1 100%),
-                    url({{ podcast.image }});
-                background-position: left 33%;
-                background-size: 20%, cover, cover;
-            ">
-                <div class="podcastContent">
-                    <h2>{{ podcast.title }}</h2>
-                    <p>{{ podcast.lede }}</p>
-                </div>
-            </div>
+            </a>
             {% endfor %}
 
         </div>
