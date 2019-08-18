@@ -45,12 +45,14 @@ To learn more about Maggie and her coaching and speaking services, visit **[www.
 
 To get more involved with Money Circle:
 
-Join the free Facebook group
+* Join the free[ Facebook group](https://www.facebook.com/groups/MoneyCircleGroup/)
 
-Come to an in-person event in DC
 
-Sign up for the virtual membership program
+* Come to an [in-person event](https://www.maggiegermano.com/moneycircle/) in DC
 
-The theme music is called Escaping Light by Aaron Sprinkle. The podcast artwork design is by Maggie's dear husband, Dan Rader.
+
+* Sign up for the [virtual membership program](https://maggiegermano.podia.com/inner-circle)
+
+The theme music is called Escaping Light by Aaron Sprinkle. The podcast artwork design is by my dear husband, [Dan Rader](http://www.danrdesign.com).
 
 Read the Transcript
