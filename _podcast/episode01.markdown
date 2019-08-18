@@ -13,11 +13,11 @@ podcast:
 layout: podcastPost
 ---
 
-**Episode Summary**
+## Episode Summary
 
 In today's episode, Maggie is joined by Allison Hamilton-Rohe, Personal Style Coach and Founder and CEO of DailyOutfit. They chat about personal style, how it affects every area of women's lives, and how it connects to personal finance.
 
-**Episode Notes**
+## Episode Notes
 
 Allison Hamilton-Rohe is a Personal Style Coach, Founder and CEO of DailyOutfit. She created a unique, trademarked formula to help you create a personal style you inhabit with ease. A global nomad, she is currently living in Silver Spring, MD with her husband, two kids, Dutch bunny and new Doodle rescue.
 
