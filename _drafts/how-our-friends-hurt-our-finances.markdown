@@ -32,4 +32,4 @@ x
 
 Have you ever gone out with a friend who
 
-**What you can do about it:** xx
+**What you can do about it:** It's important to surround ourselves with friends who support us and want us to succeed. 
