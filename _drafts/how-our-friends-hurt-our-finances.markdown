@@ -30,6 +30,6 @@ x
 
 ## Pressuring Us
 
-Have you ever gone out with a friend 
+Have you ever gone out with a friend who 
 
 **What you can do about it:** xx
