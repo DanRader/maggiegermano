@@ -5,11 +5,11 @@ published: false
 lede: Maggie Germano, gives you the rundown on what this podcast will be like and
   who might enjoy it.
 image: "/uploads/Allison%20Hamilton-Rohe%20headshot.jpg"
-embed-code: <iframe id="audioFrame" height="200px" width="100%" frameborder="no" scrolling="no"
-  seamless src="https://player.simplecast.com/523a375c-d6ff-4379-afd8-9b1257b6ea60?dark=false"></iframe>
-podcasts:
-- Why You Should Check Your Credit Report Regularly
-- Why Credit Card Interest Sucks and What You Could Be Spending It On Instead
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/645336c5-f4ff-4742-95fb-81adefa1642d?dark=false"></iframe>
+podcast:
+- Introducing the Money Circle Podcast!
+- Maximizing Your Liquid Savings
 layout: podcastPost
 ---
 
