@@ -2,8 +2,7 @@
 title: Maximizing Your Liquid Savings
 date: 2019-08-13 11:00:00 -04:00
 published: false
-lede: Maggie Germano, gives you the rundown on what this podcast will be like and
-  who might enjoy it.
+lede: Everything you needed to know about online banking.
 image: "/uploads/BossedUp--Maggie%20Germano85641.jpg"
 embed-code: <iframe id="audioFrame" height="200px" width="100%" frameborder="no" scrolling="no"
   seamless src="https://player.simplecast.com/523a375c-d6ff-4379-afd8-9b1257b6ea60?dark=false"></iframe>
