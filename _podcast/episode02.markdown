@@ -32,13 +32,13 @@ The things you want to consider when choosing an online bank:
 
 There are lots of online banks out there these days. Here are just a few to start with:
 
-* Ally Bank
+* [Ally Bank](https://www.ally.com/)
 
-* Synchrony Bank
+* [Synchrony Bank](https://www.synchronybank.com/)
 
-* Barclays
+* [Barclays](https://www.banking.barclaysus.com/index.html)
 
-* American Express
+* [American Express](https://www.americanexpress.com/personalsavings/home.html)
 
 --\
 To learn more about Maggie and her coaching and speaking services, visit **[www.maggiegermano.com](http://www.maggiegermano.com/)**.
