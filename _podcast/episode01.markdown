@@ -35,6 +35,4 @@ To get more involved with Money Circle:
 
 The theme music is called Escaping Light by Aaron Sprinkle. The podcast artwork design is by Maggie's dear husband, [Dan Rader](danrdesign.com).
 
-**Transcript**
-
-x
+***Read the Transcript***
