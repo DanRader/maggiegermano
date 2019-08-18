@@ -1,7 +1,7 @@
 ---
 title: Money Tips for Women over 45
 date: 2019-08-14 11:00:00 -04:00
-layout: podcastPost
+published: false
 lede: Maggie Germano, gives you the rundown on what this podcast will be like and
   who might enjoy it.
 image: "/uploads/glasses.jpg"
@@ -10,6 +10,7 @@ embed-code: <iframe id="audioFrame" height="200px" width="100%" frameborder="no"
 podcasts:
 - Why You Should Check Your Credit Report Regularly
 - Why Credit Card Interest Sucks and What You Could Be Spending It On Instead
+layout: podcastPost
 ---
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
