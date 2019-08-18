@@ -26,7 +26,7 @@ Last week, during our [Money Circle](https://www.maggiegermano.com/moneycircle/)
 
 x
 
-**What you can do about it:** xx
+**What you can do about it:** x
 
 ## Pressuring Us
 
