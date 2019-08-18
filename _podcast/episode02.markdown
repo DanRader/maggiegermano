@@ -4,11 +4,11 @@ date: 2019-08-26 06:00:00 -04:00
 published: false
 lede: Everything you needed to know about online banking.
 image: "/uploads/BossedUp--Maggie%20Germano85641.jpg"
-embed-code: <iframe id="audioFrame" height="200px" width="100%" frameborder="no" scrolling="no"
-  seamless src="https://player.simplecast.com/523a375c-d6ff-4379-afd8-9b1257b6ea60?dark=false"></iframe>
-podcasts:
-- Why You Should Check Your Credit Report Regularly
-- Why Credit Card Interest Sucks and What You Could Be Spending It On Instead
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/a7e0960c-0cb9-4199-9446-656e267c7227?dark=false"></iframe>
+podcast:
+- The Power of Personal Style
+- Introducing the Money Circle Podcast!
 layout: podcastPost
 ---
 
