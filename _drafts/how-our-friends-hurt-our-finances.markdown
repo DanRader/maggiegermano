@@ -24,7 +24,7 @@ Last week, during our [Money Circle](https://www.maggiegermano.com/moneycircle/)
 
 ## Ignoring Our Limitations
 
-Have you ever told your friends that you are on a budget and need to cut back on spending? And then they invite you out to brunch or out to dinner
+Have you ever told your friends that you are on a budget and need to cut back on spending? And then they invite you out to brunch or dinner. Sometimes they pick fancy locations where even an appetizer will cost you $25 after tax and tip. This can be frustrating and difficult to navigate. This is especially true because it's still hard to talk about money, especially 
 
 **What you can do about it:** Be honest and clear about your budget limitations. 
 
