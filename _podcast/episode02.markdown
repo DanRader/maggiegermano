@@ -26,7 +26,7 @@ The things you want to consider when choosing an online bank:
 
 * **Minimum balance requirements:** Make sure that the bank doesn’t require you to either deposit or maintain a certain balance
 
-* **Mobile accessibility: **Make sure the bank has a good online portal that allows you to easily access your money
+* **Mobile accessibility:** Make sure the bank has a good online portal that allows you to easily access your money
 
 * **ATM fee reimbursement:** Since online banks are only online, that means that they typically don’t have any of their own ATMs for you to withdraw money from. Make sure that they offer monthly reimbursement for any ATM fees you’ve paid when withdrawing money.
 
