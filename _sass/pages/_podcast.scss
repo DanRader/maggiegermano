@@ -66,7 +66,7 @@
     img {
         width: 14vw;
         margin: 0 auto;
-        @media #{$media-max-tablet}{
+        @media #{$media-max-l}{
             width: 106px;
             margin: 0 auto;
         }
@@ -94,6 +94,13 @@
     position: absolute;
     width: 100%;
     left: -64px;
+
+    &:hover {
+        .hightlight-content {
+            transform: translateY(-8px);
+        }
+    }
+
     @media #{$media-max-l}{
         position: relative;
         left: 0;
@@ -121,6 +128,7 @@
         bottom: -61px;
         box-shadow: 6px 2px 84px -30px rgba(0,0,0,0.50);
         padding: 40px 40px 24px 40px;
+        transition: .3s all;
 
         @media #{$media-max-xlm}{
             width: 85%;
@@ -152,12 +160,25 @@
             border-top: 1px solid #E0E0E0;
             text-align: center;
 
-            a {
+
+            p {
                 text-transform: uppercase;
                 letter-spacing: 2px;
                 font-size: 13px;
                 font-weight: 700;
                 color: $maggie-green;
+                margin-bottom: 0;
+                transition: .3s all;
+
+                &:hover {
+                    color: $maggie-green-dark;
+
+                    i {
+                        color: $maggie-green-dark;
+                        transition: .3s all;
+                    }
+                }
+
 
                 i {
                     margin-left: 4px;
@@ -230,6 +251,12 @@
         height: 200px;
         position: relative;
 
+        &:hover {
+            .podcastContent {
+                transform: translateY(-4px);
+            }
+        }
+
         .podcastContent {
             background-color: white;
             width: 90%;
@@ -238,6 +265,7 @@
             bottom: -61px;
             box-shadow: 6px 2px 84px -30px rgba(0,0,0,0.50);
             padding: 20px 20px 16px 20px;
+            transition: .3s all;
 
             @media #{$media-max-l}{
                 right: -12px;
@@ -333,7 +361,7 @@
     }
 
     h1 {
-        color: #5292D3;
+        color: $maggie-green;
         font-size: 40px;
 
         @media screen and (min-width: 1200px){
@@ -343,7 +371,7 @@
 
     .lede{
         font-size: 22px;
-        color: #5292D3;
+        color: $grey;
         letter-spacing: 0;
         line-height: 1.5;
         margin-top: 8px;

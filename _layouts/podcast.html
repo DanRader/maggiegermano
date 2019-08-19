@@ -14,7 +14,7 @@ layout: default
         {% assign sortedPodcasts = site.podcast | sort:"date" | reverse %}
         {% for podcast in sortedPodcasts limit: 1 %}
 
-<!-- FIX THIS LINK! -->
+<!-- FIX THIS LINK! --> 
 
         <a href="{{ podcast.url | prepend: site.baseurl }}">
             <div class="highlight-outerWrap">
@@ -30,7 +30,7 @@ layout: default
                         <h2>{{ podcast.title }}</h2>
                         <p>{{ podcast.lede }}</p>
                         <div class="highlight-more">
-                            <a href="{{ podcast.url | prepend: site.baseurl }}">Have a listen <i class="text-button fa fa-volume-up" aria-hidden="true"></i></a>
+                            <p>Have a listen <i class="text-button fa fa-volume-up" aria-hidden="true"></i></p>
                         </div>
                         <img class="latest" src="/uploads/podcast-latest.svg" alt="">
                     </div>
