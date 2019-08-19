@@ -33,5 +33,3 @@ Have you ever told your friends that you are on a budget and need to cut back on
 Have you ever gone out with a friend who seems to take joy in getting you to overspend? They might know that you're on a budget but they push you to have another drink or buy that additional dress. 
 
 **What you can do about it:** It's important to surround ourselves with friends who support us and want us to succeed. So if you notice that you have a friend or two who consistently pressure you to overspend or spend on things you don't really value, it might be worth spending a little less time with that person. Prioritize the people who are onboard with your goals. Plus, keep those goals top of mind, so that if you do get pressured, you remember what you're working towards.
-
-The more we stick to our own values and communicate them to our friends, the more we'll inspire others to do the same.
