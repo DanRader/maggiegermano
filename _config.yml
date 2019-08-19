@@ -11,6 +11,9 @@ collections:
   courses:
     title: Courses
     output: true
+  podcast:
+    title: Podcast
+    output: true
   posts:
     title: Posts
     output: true
@@ -73,6 +76,21 @@ defaults:
     future: false
 - scope:
     path: ''
+    type: podcast
+  values:
+    layout: podcastPost
+    title: Introducing the Money Circle Podcast!
+    lede: Introducing the Money Circle podcast! In this episode, financial coach and
+      your host, Maggie Germano, gives you the rundown on what this podcast will be
+      like and who might enjoy it. Tune in to see if it's right for you!
+    image: "/uploads/high%20voltage.jpg"
+    embed-code: <iframe id="audioFrame" height="200px" width="100%" frameborder="no"
+      scrolling="no" seamless src="https://player.simplecast.com/523a375c-d6ff-4379-afd8-9b1257b6ea60?dark=false"></iframe>
+    podcast:
+    - The Power of Personal Style
+    - Maximizing Your Liquid Savings
+- scope:
+    path: ''
     type: categories
   values:
     color: 
@@ -94,7 +112,7 @@ description: Break the taboo of discussing debt, earnings, and financial goals. 
 url: https://maggiegermano.com
 twitter_username: maggiegermano
 github_username: DanRader
-port: 6689
+port: 6666
 google-analytics: |-
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
