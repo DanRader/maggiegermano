@@ -4,18 +4,55 @@ date: 2019-08-26 06:00:00 -04:00
 published: false
 lede: Everything you needed to know about online banking.
 image: "/uploads/BossedUp--Maggie%20Germano85641.jpg"
-embed-code: <iframe id="audioFrame" height="200px" width="100%" frameborder="no" scrolling="no"
-  seamless src="https://player.simplecast.com/523a375c-d6ff-4379-afd8-9b1257b6ea60?dark=false"></iframe>
-podcasts:
-- Why You Should Check Your Credit Report Regularly
-- Why Credit Card Interest Sucks and What You Could Be Spending It On Instead
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/a7e0960c-0cb9-4199-9446-656e267c7227?dark=false"></iframe>
+podcast:
+- The Power of Personal Style
+- Introducing the Money Circle Podcast!
 layout: podcastPost
 ---
 
-**Episode Summary**
+## Episode Summary
 
 This week, Maggie is answering a couple of listener questions about savings accounts. She talks about how to use online banks to maximize your savings and make your money work for you.
 
-**Episode Notes**
+## Episode Notes
 
-x
+The things you want to consider when choosing an online bank:
+
+* **Interest rates:** Make sure they are offering high-yield savings accounts
+
+* **Fees:** Make sure you aren’t paying any monthly maintenance fees
+
+* **Minimum balance requirements:** Make sure that the bank doesn’t require you to either deposit or maintain a certain balance
+
+* **Mobile accessibility: **Make sure the bank has a good online portal that allows you to easily access your money
+
+* **ATM fee reimbursement:** Since online banks are only online, that means that they typically don’t have any of their own ATMs for you to withdraw money from. Make sure that they offer monthly reimbursement for any ATM fees you’ve paid when withdrawing money.
+
+There are lots of online banks out there these days. Here are just a few to start with:
+
+* [Ally Bank](https://www.ally.com/)
+
+* [Synchrony Bank](https://www.synchronybank.com/)
+
+* [Barclays](https://www.banking.barclaysus.com/index.html)
+
+* [American Express](https://www.americanexpress.com/personalsavings/home.html)
+
+--\
+To learn more about Maggie and her coaching and speaking services, visit **[www.maggiegermano.com](http://www.maggiegermano.com/)**.
+
+To get more involved with Money Circle:
+
+* Join the free[ Facebook group](https://www.facebook.com/groups/MoneyCircleGroup/)
+
+
+* Come to an [in-person event](https://www.maggiegermano.com/moneycircle/) in DC
+
+
+* Sign up for the [virtual membership program](https://maggiegermano.podia.com/inner-circle)
+
+The theme music is called Escaping Light by Aaron Sprinkle. The podcast artwork design is by my dear husband, [Dan Rader](http://www.danrdesign.com).
+
+Read the Transcript

@@ -14,7 +14,7 @@ layout: podcastPost
 
 Introducing the Money Circle podcast! In this episode, financial coach and your host, Maggie Germano, gives you the rundown on what this podcast will be like and who might enjoy it. Tune in to see if it's right for you!
 
-**Episode Notes:**
+## Episode Notes:
 
 To learn more about Maggie and her coaching and speaking services, visit [www.maggiegermano.com](http://www.maggiegermano.com/).
 

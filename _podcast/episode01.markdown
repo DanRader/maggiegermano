@@ -5,19 +5,19 @@ published: true
 lede: Maggie Germano, gives you the rundown on what this podcast will be like and
   who might enjoy it.
 image: "/uploads/Allison-Hamilton-Rohe-headshot.jpg"
-embed-code: <iframe id="audioFrame" height="200px" width="100%" frameborder="no" scrolling="no"
-  seamless src="https://player.simplecast.com/523a375c-d6ff-4379-afd8-9b1257b6ea60?dark=false"></iframe>
-podcasts:
-- Why You Should Check Your Credit Report Regularly
-- Why Credit Card Interest Sucks and What You Could Be Spending It On Instead
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/645336c5-f4ff-4742-95fb-81adefa1642d?dark=false"></iframe>
+podcast:
+- Introducing the Money Circle Podcast!
+- Maximizing Your Liquid Savings
 layout: podcastPost
 ---
 
-**Episode Summary**
+## Episode Summary
 
 In today's episode, Maggie is joined by Allison Hamilton-Rohe, Personal Style Coach and Founder and CEO of DailyOutfit. They chat about personal style, how it affects every area of women's lives, and how it connects to personal finance.
 
-**Episode Notes**
+## Episode Notes
 
 Allison Hamilton-Rohe is a Personal Style Coach, Founder and CEO of DailyOutfit. She created a unique, trademarked formula to help you create a personal style you inhabit with ease. A global nomad, she is currently living in Silver Spring, MD with her husband, two kids, Dutch bunny and new Doodle rescue.
 
