@@ -6,9 +6,6 @@ lede: Maggie Germano, gives you the rundown on what this podcast will be like an
 image: "/uploads/podcast-episode00"
 embed-code: <iframe id="audioFrame" height="200px" width="100%" frameborder="no" scrolling="no"
   seamless src="https://player.simplecast.com/523a375c-d6ff-4379-afd8-9b1257b6ea60?dark=false"></iframe>
-podcast:
-- 
-- 
 layout: podcastPost
 ---
 
@@ -28,7 +25,9 @@ To get more involved with Money Circle:
 
 The theme music is called Escaping Light by Aaron Sprinkle. The podcast artwork design is by my dear husband, [Dan Rader](https://danrdesign.com/).
 
-**Transcription:**
+--- 
+
+## TRANSCRIPTION
 
 Maggie Germano: "Hey there. Welcome to the Money Circle podcast. My name is Maggie Germano and I'm a feminist and financial coach for women. I help women develop healthy relationships with money and take control of their finances. I do this through one on one coaching, speaking, workshops, writing, in-person meetups, and now this podcast. Money Circle is a safe, open space where women can talk about money without judgment. It is a place for women to ask questions, share fears, brag about accomplishments, and be honest about their money struggles. I founded Money Circle three and a half years ago to create community and break the taboo around money. I wanted to hold space for women to feel less alone in their financial problems. It started as a Facebook group, grew into a monthly in-person meetup in Washington, DC, expanded to include a virtual membership, and now it's also a podcast.
 
