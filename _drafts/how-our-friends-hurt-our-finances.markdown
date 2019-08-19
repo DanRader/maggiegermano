@@ -24,9 +24,9 @@ Last week, during our [Money Circle](https://www.maggiegermano.com/moneycircle/)
 
 ## Ignoring Our Limitations
 
-Have you ever told your friends that you are on a budget and need to cut back on spending? And then they invite you out to brunch or dinner. Sometimes they pick fancy locations where even an appetizer will cost you $25 after tax and tip. Sometimes people want to split the check evenly when some people bought multiple drinks, while one person only got a starter. This can be frustrating and difficult to navigate. This is especially true because it's still hard to talk about money, particularly when you have to say you can't afford something. 
+Have you ever told your friends that you are on a budget and need to cut back on spending? And then they invite you out to brunch or dinner. Sometimes they pick fancy locations where even an appetizer will cost you $25 after tax and tip. Sometimes people want to split the check evenly when some people bought multiple drinks, while one person only got a starter. This can be frustrating and difficult to navigate. This is especially true because it's still hard to talk about money, particularly when you have to say you can't afford something. But having these conversations is necessary if you want to maintain your social life while also working towards your financial goals.
 
-**What you can do about it:** Be honest and clear about your budget limitations. 
+**What you can do about it:** Be honest and clear about your budget limitations. It's important, though, to take a positive approach when having these conversations. Frame it around your goals and suggest alternative options. For example, "I'm trying to pay off my credit card, so I'm being extra frugal this month. Do you want to come to my house for dinner instead?"
 
 ## Pressuring Us
 
