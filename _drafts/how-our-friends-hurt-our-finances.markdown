@@ -20,7 +20,7 @@ However, sometimes our friends and social lives actually do harm our finances. B
 
 Last week, during our [Money Circle](https://www.maggiegermano.com/moneycircle/) meetup, one of the attendees told the rest of us about an experience she'd recently had with a friend. She told that friend that she didn't think she'd ever want to own a home, and the friend, who'd recently bought her own home, thought she was crazy. The conversation escalated to the point where she felt judged and silenced by her friend. I'm sure everyone reading this has been in a similar situation where they felt judged for wha they choose to do or not to do in their lives.
 
-**What you can do about it:** Try to understand that in this scenario, your loved ones are probably projecting their own issues onto you. In my friend's case, perhaps the friend was feeling insecure or overwhelmed about buying a home, and wanted to validate their own choice. Remember that it's probably not about you, it's probably about them. And then remember that 
+**What you can do about it:** Try to understand that in this scenario, your loved ones are probably projecting their own issues onto you. In my friend's case, perhaps the friend was feeling insecure or overwhelmed about buying a home, and wanted to validate their own choice. Remember that it's probably not about you, it's probably about them. And then remember that your choices are just that - they're yours. No one else has to agree with them. All that matters is that you feel good about your choices and that they align with your values and goals.
 
 ## Ignoring Our Limitations
 
