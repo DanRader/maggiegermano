@@ -26,7 +26,7 @@ Last week, during our [Money Circle](https://www.maggiegermano.com/moneycircle/)
 
 Have you ever told your friends that you are on a budget and need to cut back on spending? And then they invite you out to brunch or out to dinner
 
-**What you can do about it:** x
+**What you can do about it:** Be honest and clear about your budget limitations. 
 
 ## Pressuring Us
 
