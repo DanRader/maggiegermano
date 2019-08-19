@@ -1,6 +1,6 @@
 ---
 title: The Power of Personal Style
-date: 2019-08-17 06:00:00 -04:00
+date: 2019-08-19 06:00:00 -04:00
 lede: Host Maggie Germano gives you the rundown on what this podcast will be like
   and who might enjoy it.
 image: "/uploads/Allison-Hamilton-Rohe-headshot.jpg"
