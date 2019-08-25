@@ -1,7 +1,6 @@
 ---
 title: Maximizing Your Liquid Savings
-date: 2019-08-26 06:00:00 -04:00
-published: false
+date: 2019-08-26 05:00:00 -04:00
 lede: Everything you needed to know about online banking.
 image: "/uploads/BossedUp--Maggie%20Germano85641.jpg"
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
