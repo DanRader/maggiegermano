@@ -39,7 +39,8 @@ There are lots of online banks out there these days. Here are just a few to star
 
 * [American Express](https://www.americanexpress.com/personalsavings/home.html)
 
---\
+--
+
 To learn more about Maggie and her coaching and speaking services, visit **[www.maggiegermano.com](http://www.maggiegermano.com/)**.
 
 To get more involved with Money Circle:
@@ -54,7 +55,7 @@ To get more involved with Money Circle:
 
 The theme music is called Escaping Light by Aaron Sprinkle. The podcast artwork design is by my dear husband, [Dan Rader](http://www.danrdesign.com).
 
---- 
+---
 
 ## TRANSCRIPTION
 
