@@ -1,7 +1,6 @@
 ---
 title: How Women Can Improve Their Financial Optimism Despite Growing Anxieties
 date: 2019-08-26 11:00:00 -04:00
-published: false
 categories:
 - lifestyle
 image: "/uploads/thought-catalog-UK78i6vK3sc-unsplash.jpg"
