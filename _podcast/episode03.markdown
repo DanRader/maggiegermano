@@ -5,8 +5,8 @@ published: false
 lede: Maggie Germano, gives you the rundown on what this podcast will be like and
   who might enjoy it.
 image: "/uploads/0004_www.blinkdcc.com_printready.jpg"
-embed-code: <iframe id="audioFrame" height="200px" width="100%" frameborder="no" scrolling="no"
-  seamless src="https://player.simplecast.com/523a375c-d6ff-4379-afd8-9b1257b6ea60?dark=false"></iframe>
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/d1808ecf-44af-4e12-81d2-da0592c81b77?dark=false"></iframe>
 podcasts:
 - Why You Should Check Your Credit Report Regularly
 - Why Credit Card Interest Sucks and What You Could Be Spending It On Instead
