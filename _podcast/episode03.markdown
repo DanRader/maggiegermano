@@ -19,6 +19,8 @@ This week, Maggie talks to financial advisor Cris Caruso about what women over 4
 
 **Episode Notes**
 
+Cris Caruso has been a financial advisor with Bump Financial Group since 2004. She believes knowledge is power, and that financial education is empowerment. Cris combines her knowledge and experience with her clients goals, helping them plan for financial freedom. She understands that money can emotional, but also believes that it is a tool that can help us live our best lives. When Cris isn't working with her team and clients, you can find her on her yoga mat, or spending time at the beach with her wife and dog.
+
 To learn more about Cris Caruso, visit [https://www.ameripriseadvisors.com/cristina.l.caruso/](https://www.ameripriseadvisors.com/cristina.l.caruso/)or email her at [cristina.l.caruso@ampf.com](mailto:cristina.l.caruso@ampf.com).
 
 To learn more about Maggie and her coaching and speaking services, visit [www.maggiegermano.com](http://www.maggiegermano.com/).
