@@ -1,6 +1,6 @@
 ---
 title: Yes, The Wage Gap Exists
-date: 2019-09-02 13:00:00 -04:00
+date: 2019-09-02 11:00:00 -04:00
 image: "/uploads/tim-mossholder-UcUROHSJfRA-unsplash.jpg"
 ---
 
