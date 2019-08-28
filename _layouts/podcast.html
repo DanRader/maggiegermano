@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<div id="page-wrapper">
+
+    <div class="podcast-left podcast-left--list scroll-to-fixed-fixed">
+        <img src="/uploads/podcastLogo.svg" alt="Money Circle Podcast">
+        <h1 class="hidden">Money Circle Podcast</h1>
+        <p>{{page.content}}</p>
+    </div>
+
+    <div class="podcast-right">
+        {% assign sortedPodcasts = site.podcast | sort:"date" | reverse %}
+        {% for podcast in sortedPodcasts limit: 1 %}
+
+<!-- FIX THIS LINK! --> 
+
+        <a href="{{ podcast.url | prepend: site.baseurl }}">
+            <div class="highlight-outerWrap">
+                <div class="podcast-highlight" style="
+                        background:
+                            url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=100),
+                            linear-gradient(269deg, #9013FE 0%, #00BCB1 100%),
+                            url({{ podcast.image }});
+                        background-position: left 33%;
+                        background-size: 20%, cover, cover;
+                        ">
+                    <div class="hightlight-content">
+                        <h2>{{ podcast.title }}</h2>
+                        <p>{{ podcast.lede }}</p>
+                        <div class="highlight-more">
+                            <p>Have a listen <i class="text-button fa fa-volume-up" aria-hidden="true"></i></p>
+                        </div>
+                        <img class="latest" src="/uploads/podcast-latest.svg" alt="">
+                    </div>
+                </div>
+            </div>
+        </a>
+        {% endfor %}
+
+        <div class="podcast-looper">
+            {% for podcast in sortedPodcasts offset:1 %}
+            <a href="{{ podcast.url | prepend: site.baseurl }}">
+                <div class="podcastItem" style="
+                    background:
+                        url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=100),
+                        linear-gradient(269deg, #9013FE 0%, #00BCB1 100%),
+                        url({{ podcast.image }});
+                    background-position: left 33%;
+                    background-size: 20%, cover, cover;
+                    ">
+                    <div class="podcastContent">
+                        <h2>{{ podcast.title }}</h2>
+                        <p>{{ podcast.lede }}</p>
+                    </div>
+                </div>
+            </a>
+            {% endfor %}
+
+        </div>
+
+
+    </div>
+</div>
+
+
+{% include js/scroll-to-fix.html %}

@@ -1,0 +1,410 @@
+#page-wrapper {
+    position: relative;
+    --leftWidth: 40%;
+    --navHeight: 64px;
+    display: flex;
+
+    @media #{$media-max-l}{
+        flex-direction: column;
+    }
+}
+
+
+.podcast-left {
+    position: sticky;
+    height: calc(100vh - var(--navHeight));
+    min-height: 500px;
+    width: var(--leftWidth);
+    left: 0;
+    top: var(--navHeight);
+
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-content: center;
+    padding: 0 8%;
+    text-align: center;
+
+    @media #{$media-max-l}{
+        flex: 1;
+        width: 100%;
+        position: relative;
+        top: 0;
+        margin-bottom: -215px;
+        min-height: 630px;
+        padding: 0 14%;
+        padding-bottom: 180px;
+    }
+
+    &--list {
+        background:
+        url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=40),
+        linear-gradient(269deg, #9013FE 0%, #00BCB1 100%);
+
+    }
+
+    &--content {
+        background:
+            url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=100),
+            linear-gradient(269deg, #9013FE 0%, #00BCB1 100%),
+            url(/uploads/podast-placeholder.jpg);
+        background-position: left 33%;
+        background-size: 20%, cover, cover;
+        background-blend-mode: overlay, overlay, normal;
+
+        @media #{$media-max-l}{
+            min-height: 460px;
+            margin-bottom: -161px;
+        }
+    }
+
+    p {
+        color: white;
+    }
+
+    img {
+        width: 14vw;
+        margin: 0 auto;
+        @media #{$media-max-l}{
+            width: 106px;
+            margin: 0 auto;
+        }
+    }
+}
+
+.podcast-right {
+    height: 100%;
+    width: calc(100% - var(--leftWidth));
+    // margin-left: var(--leftWidth);
+    padding: 64px;
+    position: relative;
+    @media #{$media-max-l}{
+        width: 100%
+    }
+    @media #{$media-max-tablet}{
+        padding: 24px;
+        padding-bottom: 64px;
+    }
+}
+
+// HIGHLIGHT SECTION——————————————————————
+
+.highlight-outerWrap {
+    position: absolute;
+    width: 100%;
+    left: -64px;
+
+    &:hover {
+        .hightlight-content {
+            transform: translateY(-8px);
+        }
+    }
+
+    @media #{$media-max-l}{
+        position: relative;
+        left: 0;
+    }
+}
+.podcast-highlight {
+    background:
+        url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=100),
+        linear-gradient(269deg, #9013FE 0%, #00BCB1 100%),
+        url(/uploads/podast-placeholder.jpg);
+    background-blend-mode: overlay, overlay, normal;
+    width: 100%;
+    height: 450px;
+    position: relative;
+
+    @media #{$media-max-tablet}{
+        height: 495px;
+    }
+
+    & .hightlight-content{
+        background-color: white;
+        width: 58%;
+        position: absolute;
+        right: -32px;
+        bottom: -61px;
+        box-shadow: 6px 2px 84px -30px rgba(0,0,0,0.50);
+        padding: 40px 40px 24px 40px;
+        transition: .3s all;
+
+        @media #{$media-max-xlm}{
+            width: 85%;
+        }
+
+        @media #{$media-max-tablet}{
+            width: 95%;
+            right: -12px;
+        }
+
+        h2 {
+            font-weight: 600;
+            font-size: 28px;
+            line-height: 32px;
+            margin-bottom: 16px;
+        }
+
+        p {
+            font-size: 15px;
+            color: #404040;
+            line-height: 24px;
+        }
+
+// MORE BUTTON ——————————————————————————
+
+        .highlight-more {
+            padding: 16px 0 0 0;
+            margin-top: 32px;
+            border-top: 1px solid #E0E0E0;
+            text-align: center;
+
+
+            p {
+                text-transform: uppercase;
+                letter-spacing: 2px;
+                font-size: 13px;
+                font-weight: 700;
+                color: $maggie-green;
+                margin-bottom: 0;
+                transition: .3s all;
+
+                &:hover {
+                    color: $maggie-green-dark;
+
+                    i {
+                        color: $maggie-green-dark;
+                        transition: .3s all;
+                    }
+                }
+
+
+                i {
+                    margin-left: 4px;
+                }
+            }
+        }
+
+    .latest {
+        position: absolute;
+        top: -44px;
+        left: -44px;
+        animation: spinner 32s linear infinite;
+    }
+
+
+
+    }
+// END CONTENT BLOCK ——————————————————————————
+
+
+}
+
+// END HIGHLIGHT SECTION——————————————————————
+
+@keyframes spinner{
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+// LOOPING SECTION——————————————————————
+
+.podcast-looper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-column-gap: 40px;
+    grid-row-gap: 94px;
+    position: relative;
+    // this is the height of the highlight image plus the negative margin of the text box
+    margin-top: calc(450px + 61px);
+    margin-bottom: 40px;
+    padding-top: 40px;
+
+    @media #{$media-max-xlm}{
+        grid-template-columns: 1fr;
+    }
+
+    @media #{$media-max-l}{
+        margin-top: 54px;
+    }
+
+
+    &--content {
+        margin-top: 0;
+        padding-top: 0;
+    }
+
+
+    .podcastItem {
+        background:
+            url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=100),
+            linear-gradient(269deg, #9013FE 0%, #00BCB1 100%),
+            url(/uploads/podast-placeholder.jpg);
+        background-position: left 33%;
+        background-size: 20%, cover, cover;
+        background-blend-mode: overlay, overlay, normal;
+        height: 200px;
+        position: relative;
+
+        &:hover {
+            .podcastContent {
+                transform: translateY(-4px);
+            }
+        }
+
+        .podcastContent {
+            background-color: white;
+            width: 90%;
+            position: absolute;
+            right: -16px;
+            bottom: -61px;
+            box-shadow: 6px 2px 84px -30px rgba(0,0,0,0.50);
+            padding: 20px 20px 16px 20px;
+            transition: .3s all;
+
+            @media #{$media-max-l}{
+                right: -12px;
+            }
+
+            h2 {
+                font-size: 22px;
+                line-height: 1.2;
+                font-weight: 600;
+                margin-bottom: 8px;
+            }
+
+            p {
+                font-size: 14px;
+                line-height: 1.4;
+                margin-bottom: 0;
+            }
+        }
+    }
+}
+
+// BUTTON GROUP ——————————————————————————
+        .audioButton {
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            margin-top: 24px;
+
+            .buttonwrap {
+                width: 52px;
+                margin-right: 16px;
+
+                button {
+                    background: url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=40),
+                    linear-gradient(269deg, #9013FE 0%, #00BCB1 100%);
+                    height: 52px;
+                    width: 52px;
+                    border-radius: 100%;
+                    padding: 4px;
+
+                    img {
+                        width: 50%;
+                        height: 50%;
+                        left: 2px;
+                        position: relative;
+                    }
+                }
+            }
+
+            .imageWrap {
+                flex: 1;
+
+                img {
+                    max-height: 80px;
+                }
+            }
+        }
+
+// PODCAST POST. LOOKED CUTE MAY MOVE LATER—————————————————————————————
+
+.podcastPost-hero {
+    position: relative;
+    background:
+        url(http://api.thumbr.it/whitenoise-361x370.png?background=ffffff00&noise=626262&density=56&opacity=100),
+        linear-gradient(269deg, #9013FE 0%, #00BCB1 100%),
+        url(/uploads/podcast-placeholder-2.jpg);
+    background-position: left 33%;
+    background-size: 20%, cover, cover;
+    background-blend-mode: overlay, overlay, normal;
+    width: 100%;
+    height: 56vh;
+    min-height: 350px;
+    position: relative;
+    margin-bottom: -300px;
+
+}
+
+.podcastPost-hero--title{
+    position: relative;
+    color: black;
+}
+
+.podcastPost-content {
+    padding: 200px 48px 40px;
+    margin-top: 54px;
+
+    @media #{$media-max-l}{
+        padding: 16px 48px 40px;
+    }
+
+    @media #{$media-max-tablet}{
+        padding: 16px 16px 40px;
+    }
+
+    h1 {
+        color: $maggie-green;
+        font-size: 40px;
+
+        @media screen and (min-width: 1200px){
+            font-size: 4vw;
+        }
+    }
+
+    .lede{
+        font-size: 22px;
+        color: $grey;
+        letter-spacing: 0;
+        line-height: 1.5;
+        margin-top: 8px;
+        margin-bottom: 24px;
+
+        @media screen and (min-width: 1200px){
+            font-size: 1.8vw;
+        }
+    }
+
+    p {
+        margin-bottom: 24px;
+        line-height: 1.9;
+    }
+}
+
+
+// AUDIO PLAYER——————————————————————————————
+
+
+.audioPlayer-outerWrap {
+    position: absolute;
+    width: 100%;
+    left: -64px;
+
+    @media #{$media-max-l}{
+        position: relative;
+        left: 0;
+    }
+}
+
+.audioPlayer {
+    position: relative;
+    width: 100%;
+    bottom: 0;
+}

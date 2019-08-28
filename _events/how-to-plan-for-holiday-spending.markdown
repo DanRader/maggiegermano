@@ -1,7 +1,6 @@
 ---
 title: How to Plan for Holiday Spending
 date: 2018-12-12 18:30:00 -05:00
-published: false
 image: "/uploads/presents-a001ad.jpg"
 og-image: "/uploads/Money%20Circle%20Photos%20(10)-a815c3.png"
 event-date: 2018-12-12 18:30:00 -05:00

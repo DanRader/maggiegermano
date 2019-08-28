@@ -12,11 +12,11 @@
 
                   <li class="{% if current contains 'coaching' %}active {% endif %}nav-links"><a href='/coaching'>Coaching</a></li>
                   <li class="{% if current contains 'speaking' %}active {% endif %}nav-links"><a href='/speaking'>Speaking</a></li>
-                  <li class="{% if current contains 'moneycircle' %}active {% endif %}nav-links"><a href='/moneycircle'>Money Circle</a></li>
+                  <li class="{% if current contains 'moneycircle' %}active {% endif %}nav-links"><a href='/moneycircle'>Groups</a></li>
+                  <li class="{% if current contains 'podcast' %}active {% endif %}nav-links"><a href='/podcast'>Podcast</a></li>
                   <li class="{% if current contains 'blog' %}active {% endif %}nav-links"><a href='/blog'>Blog</a></li>
 
-            <li class="nav-links"> <a href="#contact-footer">Contact</a></li>
-           <li><button data-target="modal-subscribe" class="subscribe-btn modal-trigger">Subscribe</button>
+           <li><button class="subscribe-btn"><a href="#contact-footer">Contact</a></button>
            </li>
           </ul>
 
@@ -25,7 +25,8 @@
            <li><a href="{{ site.url }}/">Home</a></li>
             <li><a href='/coaching'>Coaching</a></li>
             <li><a href='/speaking'>Speaking</a></li>
-            <li><a href='/moneycircle'>Money Circle</a></li>
+            <li><a href='/moneycircle'>Groups</a></li>
+            <li><a href='/podcast'>Podcast</a></li>
             <li><a href='/blog'>Blog</a></li>
            <li><a href="{{ site.url }}/subscribe">Subscribe</a></li>
            </li>

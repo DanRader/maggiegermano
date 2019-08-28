@@ -37,4 +37,4 @@ This Privacy Policy applies only to Maggie Germano Financial Coaching’s online
 
 This website is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide will be transferred to the United States. By using this website, participating in any of its services and/or providing your information, you consent to this transfer.
 
-Maggie Germano Financial Coaching may change, modify or update this Privacy Policy at any time by posting updates to this page. If you have any questions or concerns about this Privacy Policy, or wish to change your personal information in our records, contact [hello@maggiegermano.com](mailto:hello@maggiegermano.com).  This policy is effective as of May 25, 2018.
+Maggie Germano Financial Coaching may change, modify or update this Privacy Policy at any time by posting updates to this page. If you have any questions or concerns about this Privacy Policy, or wish to change your personal information in our records, contact [hello@maggiegermano.com](mailto:hello@maggiegermano.com).  This policy is effective as of May 25, 2018. 

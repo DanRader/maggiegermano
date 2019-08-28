@@ -3,15 +3,19 @@ title: Coaching
 position: 2
 is-menu: true
 content-bullets-text: |-
+  * Shame or anxiety about money
+
+  * Money avoidance
+
   * Credit card debt
+
+  * Overspending
 
   * Underearning
 
   * Sticking to a budget
 
   * Building up your savings
-
-  * Shame or confusion about money
 coaching-1:
   title: Assess Your Money Landscape
   p1-icon-image: "/uploads/coaching-stress.png"
@@ -56,29 +60,31 @@ coaching-3:
   p3-text: As you pay down debt and reach other goals, you'll become more confident
     in your ability to make financial decisions.
 option-1-text: |-
-  ### One Time Session
+  ### Budget Deep-Dive Session
 
   Perfect for someone just looking to get pointed in the right direction or looking for answers to specific questions.
 
-  * Money Landscape Analysis
+  * Money landscape analysis to identify your starting point
 
-  * **One** 60-minute session (via phone)
+  * **One** 90-minute phone session
 
-  * Personalized recap and action guide after the session
+  * Personalized recap and action guide after the session to provide a clear way forward
+
+  * $300 per session
 option-2-text: |-
   ### Ongoing Monthly Coaching
 
-  For someone looking to make real, positive change to their current financial situation.
+  For someone looking to make real, positive changes to their current financial situation.
 
-  * Money Landscape Analysis
+  * Money landscape analysis to identify your starting point
 
-  * **Two** 60-minute phone sessions a month
+  * **One or two** 60-minute phone sessions a month
 
-  * Personalized recap and action guide after each session
+  * Personalized recap and action guide after each session to provide a clear way forward
 
-  * **Unlimited** email support
+  * **Unlimited** email support so that you're never alone
 
-  * Free attendance to monthly [Money Circle](http://maggiegermano.com/moneycircle) gatherings
+  * Free membership to monthly [Money Circle](http://maggiegermano.com/moneycircle) gatherings
 layout: coaching
 ---
 
