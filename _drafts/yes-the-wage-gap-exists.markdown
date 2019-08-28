@@ -2,6 +2,10 @@
 title: Yes, The Wage Gap Exists
 date: 2019-09-02 11:00:00 -04:00
 image: "/uploads/tim-mossholder-UcUROHSJfRA-unsplash.jpg"
+posts:
+- The Truth About the Wage Gap
+- How You Can Fight for Equal Pay
+- "#WomenRockMoney: Celebrating International Women's Day"
 ---
 
 A few weeks ago, I spoke at a college leadership event in Virginia. I led a workshop that helped college students understand how to start their careers on the right financial foot. Overall, the presentation went very well. A lot of students in the audience clearly got a lot out of the content and many of them came up to me afterwards to ask more questions. However, there was one student, a young man, who seemed to find my presentation very amusing. He laughed to himself quietly throughout the entire thing. I mostly ignored him and continued to teach the room. At the end, though, he was one of those who came up to me.
