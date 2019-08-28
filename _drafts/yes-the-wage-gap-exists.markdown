@@ -24,6 +24,8 @@ x
 
 x
 
-## The Wage Gap is Worse for LBGTQ+ Folks
+[https://nwlc.org/resources/the-lifetime-wage-gap-by-state-for-black-women/?campaign_id=10&instance_id=11784&segment_id=16334&user_id=acf80968330a5224657bd41bb9f10ccc&regi_id=85788378&nl=in-her-words&emc=edit_gn_20190820 ](https://nwlc.org/resources/the-lifetime-wage-gap-by-state-for-black-women/?campaign_id=10&instance_id=11784&segment_id=16334&user_id=acf80968330a5224657bd41bb9f10ccc&regi_id=85788378&nl=in-her-words&emc=edit_gn_20190820)
+
+## The Wage Gap is Worse for LBGTQ\+ Folks
 
 x
