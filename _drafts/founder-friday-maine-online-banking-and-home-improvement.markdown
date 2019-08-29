@@ -13,9 +13,13 @@ Happy Friday, everyone! Here’s what I was up to.
 
 ## How I Earned Money This Week
 
-* x
+* We had an Airbnb guest stay from last Saturday until this past Wednesday.
 
-* x
+* We have another Airbnb guest arriving tomorrow and staying until Monday
+
+* Dan received his bi-weekly paycheck today.
+
+* A one-time client paid for her session.
 
 ## **How I Spent Money This Week**
 
