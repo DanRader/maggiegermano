@@ -40,11 +40,11 @@ This week, I republished a recent post from my [ForbesWomen](https://www.forbes.
 
 * In case you didn't hear, I released my Money Circle podcast last week. 
 
-* x
+* The [September Money Circle meetup](https://www.eventbrite.com/e/money-circle-merging-finances-with-your-partner-tickets-69145908273) is ready for registration! This month, we'll be talking about how to merge finances with a partner. If you think this is something you'll have to do someday, this event is for you!
 
 ## **What I’m Excited About**
 
-* x
+* I've launched the virtual Money Circle membership group, called the Inner Circle! 
 
 * x
 
@@ -54,6 +54,6 @@ I'm reading two books at once right now. I'm reading *[With the Fire on High](ht
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![ask for help.png](/uploads/ask%20for%20help.png)
 
 That’s all from me this week. Have a great weekend!
