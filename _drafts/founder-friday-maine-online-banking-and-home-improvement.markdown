@@ -44,7 +44,7 @@ This week, I republished a recent post from my [ForbesWomen](https://www.forbes.
 
 ## **What I’m Excited About**
 
-I've launched the virtual [Money Circle membership group](https://maggiegermano.podia.com/inner-circle), called the Inner Circle! 
+I've launched the virtual [Money Circle membership group](https://maggiegermano.podia.com/inner-circle), called the Inner Circle! With this program, people who don't live in DC are now able to be more connected to me and Money Circle. And those who already attend in person can get even more support! Accessibility is incredibly important to me, so depending on your needs and your budget, there are three different tiers for you to choose from.
 
 ## **What I’m Reading**
 
