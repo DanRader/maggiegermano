@@ -38,7 +38,7 @@ This week, I republished a recent post from my [ForbesWomen](https://www.forbes.
 
 ## **What I’m Up To**
 
-* In case you didn't hear, I released my Money Circle podcast last week. 
+* In case you didn't hear, I released my [Money Circle podcast](https://www.maggiegermano.com/podcast/) last week. 
 
 * The [September Money Circle meetup](https://www.eventbrite.com/e/money-circle-merging-finances-with-your-partner-tickets-69145908273) is ready for registration! This month, we'll be talking about how to merge finances with a partner. If you think this is something you'll have to do someday, this event is for you!
 
