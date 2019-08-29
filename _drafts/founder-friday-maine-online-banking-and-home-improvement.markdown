@@ -23,13 +23,13 @@ Happy Friday, everyone! Here’s what I was up to.
 
 ## **How I Spent Money This Week**
 
-* x
+* We spent a long weekend in Maine from last Thursday until this past Monday. Neither of us had ever been to Maine and the weekend after my birthday seemed like a great time to check it out. Plus, Sunday was Free National Park Day, which means anyone can visit any National Park without having to pay the usual entry fee. So we got to explore the park for six hours for free. But we did buy some snacks, bought lunch afterwards, and got dinner that night. We also bought tickets to a sunset cruise that evening and brought some adult beverages on board with us. On Monday, we spent the entire day driving back to Maryland, so we spent some money on gas, lunch, and groceries once we got home.
 
-* x
+* We spent quite a bit of money in Maine, so we've been tightening our belts this week. However, I did have to pay for parking twice on Wednesday, when I was downtown for a meeting and an event at General Assembly.
 
 ## **What I’m Writing**
 
-x
+This week, I republished a recent post from my [ForbesWomen](https://www.forbes.com/sites/maggiegermano) column about improving your [financial optimism](https://www.maggiegermano.com/blog/how-women-can-improve-their-financial-optimism-despite-growing-anxieties/). 
 
 ## **What I’m Up To**
 
