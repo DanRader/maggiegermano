@@ -46,7 +46,7 @@ This week, I republished a recent post from my [ForbesWomen](https://www.forbes.
 
 ## **What I’m Reading**
 
-x
+I'm reading two books at once right now. I'm reading *[With the Fire on High](https://www.goodreads.com/book/show/38739562-with-the-fire-on-high)* by Elizabeth Acevedo on my Kindle. It was my book club book a couple months ago, but I was on a very long waitlist from the library, so it took me until now to start it. I love it so far. I'm also reading a hard copy of *[Not That Bad](https://www.goodreads.com/book/show/35068524-not-that-bad)* by Roxane Gay. It's beautiful and infuriating. 
 
 ## **Money Tip to Take Into the Weekend**
 
