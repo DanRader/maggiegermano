@@ -54,6 +54,6 @@ I'm reading two books at once right now. I'm reading *[With the Fire on High](ht
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![ask for help.png](/uploads/ask%20for%20help.png)
 
 That’s all from me this week. Have a great weekend!
