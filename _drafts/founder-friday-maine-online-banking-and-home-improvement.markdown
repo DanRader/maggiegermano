@@ -44,9 +44,7 @@ This week, I republished a recent post from my [ForbesWomen](https://www.forbes.
 
 ## **What I’m Excited About**
 
-* I've launched the virtual Money Circle membership group, called the Inner Circle! 
-
-* x
+I've launched the virtual Money Circle membership group, called the Inner Circle! 
 
 ## **What I’m Reading**
 
