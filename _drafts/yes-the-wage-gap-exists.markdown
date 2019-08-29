@@ -16,6 +16,10 @@ I was a little curious that he'd be approaching me, since he didn't seem to pay 
 
 However, I realized that I know that the wage gap exists, and I know the numbers for the wage gap for different groups of women. But it occurred to me that I can't easily point to the research that proves this phenomenon. So, I've decided to do my own research and write about it! Here are the real facts about the wage gap.
 
+## The Wage Gap Exists in Nearly Every Occupation
+
+x
+
 ## The Wage Gap Accounts for Women Leaving the Work Force
 
 x
