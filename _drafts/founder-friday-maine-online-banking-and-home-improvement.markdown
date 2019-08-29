@@ -28,13 +28,15 @@ Happy Friday, everyone! Here’s what I was up to.
 
 * We spent quite a bit of money in Maine, so we've been tightening our belts this week. However, I did have to pay for parking twice on Wednesday, when I was downtown for a meeting and an event at General Assembly.
 
+* While we were gone in Maine, our deck on the back of the house was started. For the last two years of living in the house, we haven't had a way to get into the back yard from the house. We've had to go out the front, walk around the house, and go through the back fence. So we recently had a back door installed in our dining room, and had a deck put on the back of the house. They completed the work on Wednesday, and it looks great! We can't wait to have a deck-warming party now that the weather is starting to cool down. 
+
 ## **What I’m Writing**
 
 This week, I republished a recent post from my [ForbesWomen](https://www.forbes.com/sites/maggiegermano) column about improving your [financial optimism](https://www.maggiegermano.com/blog/how-women-can-improve-their-financial-optimism-despite-growing-anxieties/). 
 
 ## **What I’m Up To**
 
-* x
+* In case you didn't hear, I released my Money Circle podcast last week. 
 
 * x
 
