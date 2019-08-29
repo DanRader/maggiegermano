@@ -38,13 +38,15 @@ This week, I republished a recent post from my [ForbesWomen](https://www.forbes.
 
 ## **What I’m Up To**
 
-* In case you didn't hear, I released my Money Circle podcast last week. 
+* In case you didn't hear, I released my [Money Circle podcast](https://www.maggiegermano.com/podcast/) last week. This week's episode is about maximizing your savings by using online, high-yield savings accounts. You can subscribe on iTunes, Apple Podcasts, Google Podcasts, Stitcher, and Pocket Casts. Make sure to subscribe, rate, and review!
 
 * The [September Money Circle meetup](https://www.eventbrite.com/e/money-circle-merging-finances-with-your-partner-tickets-69145908273) is ready for registration! This month, we'll be talking about how to merge finances with a partner. If you think this is something you'll have to do someday, this event is for you!
 
 ## **What I’m Excited About**
 
-I've launched the virtual [Money Circle membership group](https://maggiegermano.podia.com/inner-circle), called the Inner Circle! With this program, people who don't live in DC are now able to be more connected to me and Money Circle. And those who already attend in person can get even more support! Accessibility is incredibly important to me, so depending on your needs and your budget, there are three different tiers for you to choose from.
+* I've launched the virtual [Money Circle membership group](https://maggiegermano.podia.com/inner-circle), called the Inner Circle! With this program, people who don't live in DC are now able to be more connected to me and Money Circle. And those who already attend in person can get even more support! Accessibility is incredibly important to me, so depending on your needs and your budget, there are three different tiers for you to choose from.
+
+* I'm part of a new platform called Personal Finance By Women! 
 
 ## **What I’m Reading**
 
