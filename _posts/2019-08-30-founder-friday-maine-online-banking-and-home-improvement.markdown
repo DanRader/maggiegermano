@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Maine, Online Banking, and Home Improvement
 date: 2019-08-30 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 image: "/uploads/mercedes-mehling-7I9aCavB8RI-unsplash.jpg"
