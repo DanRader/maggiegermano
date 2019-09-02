@@ -53,12 +53,6 @@ To put it in numbers instead of dates:
 
 *These stats were made available by the [National Partnership for Women and Families](http://www.nationalpartnership.org/our-work/resources/workplace/fair-pay/quantifying-americas-gender-wage-gap.pdf).*
 
-## The Wage Gap is Worse for LBGTQ\+ Folks
-
-x
-
-*These stats were made available by [The Williams Institute at UCLA School of Law](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Impact-of-Wage-Equality-on-Sexual-Orientation-Poverty-Gaps-June-2015.pdf).*
-
 ## Closing the Wage Gap Will Life Women Out of Poverty
 
 Women are increasingly earning more money, despite the wage gap. They are more and more often the breadwinner in American families. The wage gap is not only unfair, but it limits how much money women can bring into their families, how much (if any) they can save over time, and whether or not they are able to plan for their futures. In fact, the wage gap can mean that women are losing $400,000-800,000 over the course of their careers. This can translate into an enormous amount of money for women and their families.
