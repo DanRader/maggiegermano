@@ -51,3 +51,5 @@ Women of all major racial and ethnic groups earn less than men of the same group
 x
 
 *These stats were made available by xx.*
+
+So there you have it. The wage gap is real. And the data exists to prove it. You can find anything you want to believe by searching on the internet, but the key is to make sure there is reputable research to back it up.
