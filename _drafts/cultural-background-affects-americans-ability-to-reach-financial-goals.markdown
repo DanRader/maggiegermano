@@ -5,3 +5,6 @@ categories:
 - lifestyle
 ---
 
+xx
+
+*This post was originally published on my [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2019/01/30/cultural-background-affects-americans-ability-to-reach-financial-goals/#51dabfc81c55) column.*
