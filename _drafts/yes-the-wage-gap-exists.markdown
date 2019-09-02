@@ -32,7 +32,9 @@ x
 
 I've heard more than one person (usually men), including at least one friend, who argue that the wage gap only exists because women leave the workforce in order to care for their children. Usually, these people also talk about this as if it is entirely by choice and not by necessity because of how unfriendly our society is towards families. The need for some women to leave the workforce in order to care for children or other family members is also a problem, but I'll get to that in a later post. 
 
-But the truth is, wage gap statistics actually account for the moments when women leave the workforce in order to assume the caretaker role. 
+But the truth is, wage gap statistics actually account for the moments when women leave the workforce in order to assume the caretaker role. In fact, when women were just a year out of college, they were still making only 82 cents on the dollar that their male peers were earning. In [one report](https://www.aauw.org/files/2013/02/graduating-to-a-pay-gap-the-earnings-of-women-and-men-one-year-after-college-graduation.pdf), they controlled for hours, occupation, college major, employment sector, and other factors associated with pay. This shrunk the pay gap but it did not disappear. Still, about one-third of the gap cannot be explained by any of the factors commonly understood to affect earnings.
+
+x
 
 *These stats were made available by [AAUW](https://www.aauw.org/files/2013/02/graduating-to-a-pay-gap-the-earnings-of-women-and-men-one-year-after-college-graduation.pdf).*
 
