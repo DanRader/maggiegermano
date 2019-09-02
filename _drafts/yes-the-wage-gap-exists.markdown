@@ -29,8 +29,6 @@ I've heard more than one person (usually men), including at least one friend, wh
 
 But the truth is, wage gap statistics actually account for the moments when women leave the workforce in order to assume the caretaker role. In fact, when women were just a year out of college, they were still making only 82 cents on the dollar that their male peers were earning. In [one report](https://www.aauw.org/files/2013/02/graduating-to-a-pay-gap-the-earnings-of-women-and-men-one-year-after-college-graduation.pdf), they controlled for hours, occupation, college major, employment sector, and other factors associated with pay. This shrunk the pay gap but it did not disappear. Still, about one-third of the gap cannot be explained by any of the factors commonly understood to affect earnings.
 
-x
-
 *These stats were made available by [AAUW](https://www.aauw.org/files/2013/02/graduating-to-a-pay-gap-the-earnings-of-women-and-men-one-year-after-college-graduation.pdf).*
 
 ## The Wage Gap is Worse for Women of Color
