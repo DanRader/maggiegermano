@@ -2,6 +2,7 @@
 title: Yes, The Wage Gap Exists
 date: 2019-09-02 11:00:00 -04:00
 image: "/uploads/tim-mossholder-UcUROHSJfRA-unsplash.jpg"
+tweet: Yes, the wage gap exists.
 posts:
 - The Truth About the Wage Gap
 - How You Can Fight for Equal Pay
@@ -18,7 +19,7 @@ However, I realized that I know that the wage gap exists, and I know the numbers
 
 ## The Wage Gap Exists in Nearly Every Occupation
 
-x
+One argument that debates the wage gap says that women just tend to work in lower-paying fields. And there is truth to the fact that predominantly female occupations are underpaid; that is a problem in and of itself. But the truth is, women’s earnings are lower than men’s in nearly all occupations, whether they work in occupations predominantly done by women, occupations predominantly done by men, or occupations with an even mix of men and women.
 
 *These stats were made available by the [Bureau of Labor Statistics](https://www.bls.gov/cps/cpsaat39.pdf). *
 
@@ -32,17 +33,31 @@ x
 
 I've heard more than one person (usually men), including at least one friend, who argue that the wage gap only exists because women leave the workforce in order to care for their children. Usually, these people also talk about this as if it is entirely by choice and not by necessity because of how unfriendly our society is towards families. The need for some women to leave the workforce in order to care for children or other family members is also a problem, but I'll get to that in a later post. 
 
-But the truth is, wage gap statistics actually account for the moments when women leave the workforce in order to assume the caretaker role. 
+But the truth is, wage gap statistics actually account for the moments when women leave the workforce in order to assume the caretaker role. In fact, when women were just a year out of college, they were still making only 82 cents on the dollar that their male peers were earning. In [one report](https://www.aauw.org/files/2013/02/graduating-to-a-pay-gap-the-earnings-of-women-and-men-one-year-after-college-graduation.pdf), they controlled for hours, occupation, college major, employment sector, and other factors associated with pay. This shrunk the pay gap but it did not disappear. Still, about one-third of the gap cannot be explained by any of the factors commonly understood to affect earnings.
 
-*These stats were made available by xx.*
+x
+
+*These stats were made available by [AAUW](https://www.aauw.org/files/2013/02/graduating-to-a-pay-gap-the-earnings-of-women-and-men-one-year-after-college-graduation.pdf).*
 
 ## The Wage Gap is Worse for Women of Color
 
 When we talk about the wage gap generally, the number is listed as 79 cents on the white man's dollar. But that figure only comes when you are looking at *all* women at once. When you break it down by race, the numbers become much more bleak. 
 
-In fact, just recently, on August 22nd, we "celebrated" Black Women's Equal Pay Day. That means that it took black women in the United States until August 22, 2019 to earn as much as a white man earned in 2018 for the same work. In contrast,
+In fact, just recently, on August 22nd, we "celebrated" Black Women's Equal Pay Day. That means that it took black women in the United States until August 22, 2019 to earn as much as a white man earned in 2018 for the same work. In contrast, white women's Equal Pay Day was on April 19th. That's more than a four month difference.
 
-For Native American and Latina women, Equal Pay Day won’t be recognized until September 23 and November 20, respectively.
+For Native American and Latina women, Equal Pay Day won’t be recognized until September 23 and November 20, respectively. Asian-American and Pacific Islander women were ahead of the rest, reaching Equal Pay Day on March 5. But the facts remain the same: women of all races and nationalities are paid less than men for the same work. And many women of color are severely underpaid. 
+
+To put it in numbers instead of dates:
+
+* Asian-American and Pacific Islander women make 85 cents on the dollar.
+
+* White women make 77 cents on the dollar.
+
+* Black women make 61 cents on the dollar.
+
+* Native American women make 58 cents on the dollar.
+
+* Latina women make 53 cents on the dollar.
 
 *These stats were made available by xx.*
 
@@ -52,4 +67,4 @@ x
 
 *These stats were made available by xx.*
 
-So there you have it. The wage gap is real. And the data exists to prove it. You can find anything you want to believe by searching on the internet, but the key is to make sure there is reputable research to back it up.
+So there you have it. The wage gap is real. And the data exists to prove it. Just because some people don't want to believe that something exists doesn't mean that it doesn't. The information and the impacts are still out there. The wage gap affects women and families in real and lasting ways. And it's important that we own up to that and do what we can to fight it.
