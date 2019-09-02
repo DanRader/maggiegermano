@@ -40,9 +40,9 @@ But the truth is, wage gap statistics actually account for the moments when wome
 
 When we talk about the wage gap generally, the number is listed as 79 cents on the white man's dollar. But that figure only comes when you are looking at *all* women at once. When you break it down by race, the numbers become much more bleak. 
 
-In fact, just recently, on August 22nd, we "celebrated" Black Women's Equal Pay Day. That means that it took black women in the United States until August 22, 2019 to earn as much as a white man earned in 2018 for the same work. In contrast,
+In fact, just recently, on August 22nd, we "celebrated" Black Women's Equal Pay Day. That means that it took black women in the United States until August 22, 2019 to earn as much as a white man earned in 2018 for the same work. In contrast, white women's Equal Pay Day was on April 19th. That's more than a four month difference.
 
-For Native American and Latina women, Equal Pay Day won’t be recognized until September 23 and November 20, respectively.
+For Native American and Latina women, Equal Pay Day won’t be recognized until September 23 and November 20, respectively. Asian-American and Pacific Islander women were ahead of the rest, reaching Equal Pay Day on March 5. But the facts remain the same: women of all races and nationalities are paid less than men for the same work. And many women of color are severely underpaid. 
 
 *These stats were made available by xx.*
 
