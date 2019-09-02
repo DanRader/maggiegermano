@@ -215,7 +215,7 @@
 }
 @keyframes bottom-cover {
   0% {
-    transform: translateY(4rem);
+    transform: translateY(2rem);
   }
   100% {
     transform: none;
@@ -267,7 +267,7 @@
 }
 
 .sizing {
-  height: 90vh;
+  height: 86vh;
   min-height: 521px;
   position: relative;
   z-index: 0;
