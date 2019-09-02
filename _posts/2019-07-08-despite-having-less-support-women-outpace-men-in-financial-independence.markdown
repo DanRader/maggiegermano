@@ -3,7 +3,7 @@ title: Despite Having Less Support, Women Outpace Men In Financial Independence
 date: 2019-07-08 11:00:00 -04:00
 categories:
 - lifestyle
-image: "/uploads/omar-lopez-T6zu4jFhVwg-unsplash.jpg"
+image: "/uploads/omar-lopez-T6zu4jFhVwg-unsplash-22da1c.jpg"
 tweet: Despite Having Less Support, Women Outpace Men In Financial Independence
 posts:
 - Women Are Working More Than Ever, But They Still Take On Most Household Responsibilities
