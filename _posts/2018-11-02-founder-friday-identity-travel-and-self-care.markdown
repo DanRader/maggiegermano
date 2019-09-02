@@ -3,7 +3,7 @@ title: Founder Friday | Identity, Travel, and Self Care
 date: 2018-11-02 14:00:00 -04:00
 categories:
 - founder friday
-image: "/uploads/anete-lusina-609856-unsplash.jpg"
+image: "/uploads/anete-lusina-GOZxrAlNIt4-unsplash.jpg"
 posts:
 - Founder Friday | Love, Yoga, and Eating Well
 - Founder Friday | UCB, Bachelorette Parties, and Bossed Up
