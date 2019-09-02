@@ -1,7 +1,7 @@
 <ul class= "post-cat-list-2">
-  {% for post_cat in post.categories %}
+  {% for post_cat in post.categories limit:3 %}
     {% assign post_cat-title = post_cat | downcase %}
-      {% for site_cat in site.categories %}
+      {% for site_cat in site.categories  %}
         {% assign color = site_cat.color %}
         {% assign site_cat-title = site_cat.title | downcase %}
           {% if site_cat-title == post_cat-title  %}

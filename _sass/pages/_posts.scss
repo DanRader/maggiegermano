@@ -78,9 +78,15 @@ blockquote > p {
 
 // post layout
 
-.post-content {
-  padding-left: 2%;
-  padding-right: 2%;
+.post-content, .post-title-container {
+    width: 60%;
+    @media #{$media-max-l}{
+      width: 80%;
+    }
+    @media #{$media-max-tablet}{
+      width: 90%;
+    }
+
 }
 
 // post header styles
