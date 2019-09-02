@@ -44,6 +44,18 @@ In fact, just recently, on August 22nd, we "celebrated" Black Women's Equal Pay 
 
 For Native American and Latina women, Equal Pay Day won’t be recognized until September 23 and November 20, respectively. Asian-American and Pacific Islander women were ahead of the rest, reaching Equal Pay Day on March 5. But the facts remain the same: women of all races and nationalities are paid less than men for the same work. And many women of color are severely underpaid. 
 
+To put it in numbers instead of dates:
+
+* Asian-American and Pacific Islander women make 85 cents on the dollar.
+
+* White women make 77 cents on the dollar.
+
+* Black women make 61 cents on the dollar.
+
+* Native American women make 58 cents on the dollar.
+
+* Latina women make 53 cents on the dollar.
+
 *These stats were made available by xx.*
 
 ## The Wage Gap is Worse for LBGTQ\+ Folks
