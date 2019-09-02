@@ -38,13 +38,13 @@ But the truth is, wage gap statistics actually account for the moments when wome
 
 ## The Wage Gap is Worse for Women of Color
 
-When we talk about the wage gap generally, the number is weighted because 
+When we talk about the wage gap generally, the number is listed as 79 cents on the white man's dollar. But that figure only comes when you are looking at *all* women at once. When you break it down by race, the numbers become much more bleak. 
 
-Women of all major racial and ethnic groups earn less than men of the same group as well as white men.
+In fact, just recently, on August 22nd, we "celebrated" Black Women's Equal Pay Day. That means that it took black women in the United States until August 22, 2019 to earn as much as a white man earned in 2018 for the same work. In contrast,
+
+For Native American and Latina women, Equal Pay Day won’t be recognized until September 23 and November 20, respectively.
 
 *These stats were made available by xx.*
-
-[https://nwlc.org/resources/the-lifetime-wage-gap-by-state-for-black-women/?campaign_id=10&instance_id=11784&segment_id=16334&user_id=acf80968330a5224657bd41bb9f10ccc&regi_id=85788378&nl=in-her-words&emc=edit_gn_20190820 ](https://nwlc.org/resources/the-lifetime-wage-gap-by-state-for-black-women/?campaign_id=10&instance_id=11784&segment_id=16334&user_id=acf80968330a5224657bd41bb9f10ccc&regi_id=85788378&nl=in-her-words&emc=edit_gn_20190820)
 
 ## The Wage Gap is Worse for LBGTQ\+ Folks
 
