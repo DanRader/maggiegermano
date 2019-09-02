@@ -3,7 +3,7 @@ title: Founder Friday | Pretty Much Just Puppy Stuff
 date: 2019-03-08 14:00:00 -05:00
 categories:
 - founder friday
-image: "/uploads/patrick-hendry-420072-unsplash.jpg"
+image: "/uploads/patrick-hendry-yC-9hSsEr7Y-unsplash.jpg"
 ---
 
 Happy Friday! Here’s what I was up to this past week.
