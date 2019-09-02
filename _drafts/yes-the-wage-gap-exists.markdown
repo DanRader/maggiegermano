@@ -30,13 +30,17 @@ x
 
 ## The Wage Gap Begins Before Women Have Children
 
-x
+I've heard more than one person (usually men), including at least one friend, who argue that the wage gap only exists because women leave the workforce in order to care for their children. Usually, these people also talk about this as if it is entirely by choice and not by necessity because of how unfriendly our society is towards families. The need for some women to leave the workforce in order to care for children or other family members is also a problem, but I'll get to that in a later post. 
+
+But the truth is, wage gap statistics actually account for the moments when women leave the workforce in order to assume the caretaker role. 
 
 *These stats were made available by xx.*
 
 ## The Wage Gap is Worse for Women of Color
 
-x
+When we talk about the wage gap generally, the number is weighted because 
+
+Women of all major racial and ethnic groups earn less than men of the same group as well as white men.
 
 *These stats were made available by xx.*
 
