@@ -26,7 +26,7 @@ x
 
 x
 
-*These stats were made available by [AAUW](https://www.aauw.org/files/2013/02/graduating-to-a-pay-gap-the-earnings-of-women-and-men-one-year-after-college-graduation.pdf).*
+*These stats were made available by xx.*
 
 ## The Wage Gap Begins Before Women Have Children
 
@@ -34,7 +34,7 @@ I've heard more than one person (usually men), including at least one friend, wh
 
 But the truth is, wage gap statistics actually account for the moments when women leave the workforce in order to assume the caretaker role. 
 
-*These stats were made available by xx.*
+*These stats were made available by [AAUW](https://www.aauw.org/files/2013/02/graduating-to-a-pay-gap-the-earnings-of-women-and-men-one-year-after-college-graduation.pdf).*
 
 ## The Wage Gap is Worse for Women of Color
 
