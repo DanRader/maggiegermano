@@ -20,20 +20,30 @@ However, I realized that I know that the wage gap exists, and I know the numbers
 
 x
 
+*These stats were made available by the [Bureau of Labor Statistics](https://www.bls.gov/cps/cpsaat39.pdf). *
+
 ## The Wage Gap Accounts for Women Leaving the Work Force
 
 x
+
+*These stats were made available by xx.*
 
 ## The Wage Gap Begins Before Women Have Children
 
 x
 
+*These stats were made available by xx.*
+
 ## The Wage Gap is Worse for Women of Color
 
 x
+
+*These stats were made available by xx.*
 
 [https://nwlc.org/resources/the-lifetime-wage-gap-by-state-for-black-women/?campaign_id=10&instance_id=11784&segment_id=16334&user_id=acf80968330a5224657bd41bb9f10ccc&regi_id=85788378&nl=in-her-words&emc=edit_gn_20190820 ](https://nwlc.org/resources/the-lifetime-wage-gap-by-state-for-black-women/?campaign_id=10&instance_id=11784&segment_id=16334&user_id=acf80968330a5224657bd41bb9f10ccc&regi_id=85788378&nl=in-her-words&emc=edit_gn_20190820)
 
 ## The Wage Gap is Worse for LBGTQ\+ Folks
 
 x
+
+*These stats were made available by xx.*
