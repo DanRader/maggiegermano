@@ -1,9 +1,14 @@
 ---
 title: Cultural Background Affects Americans' Ability To Reach Financial Goals
 date: 2019-09-09 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 image: "/uploads/mauro-mora-31-pOduwZGE-unsplash.jpg"
+posts:
+- How Women Can Improve Their Financial Optimism Despite Growing Anxieties
+- Despite Having Less Support, Women Outpace Men In Financial Independence
+- Women Are Working More Than Ever, But They Still Take On Most Household Responsibilities
 ---
 
 In a December report, [The Cut: Exploring Financial Wellness Within Diverse Populations](http://news.prudential.com/content/1209/files/PrudentialTheCutExploringFinancialWellnessWithinDiversePopulations.pdf?utm_source=businesswire&utm_medium=newsrelease&utm_campaign=thecut), Prudential Financial builds upon the findings from their [2018 Financial Wellness Census](http://bizwire.tekgroup.com/media/105/Prudential27s_2018_Financial_Wellness_Census_.pdf). I spoke to Jim Mahaney, Vice President of Strategic Initiatives at Prudential Financial, about the report and its findings. The biggest takeaway is that cultural background and experience influences the financial standing of individuals and communities. Perhaps this should be obvious, but traditional financial advice does not often take this fact into account.
