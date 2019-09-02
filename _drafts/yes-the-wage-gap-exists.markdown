@@ -21,7 +21,7 @@ However, I realized that I know that the wage gap exists, and I know the numbers
 
 One argument that debates the wage gap says that women just tend to work in lower-paying fields. And there is truth to the fact that predominantly female occupations are underpaid; that is a problem in and of itself. But the whole truth is that women’s earnings are lower than men’s in nearly all occupations, whether they work in occupations predominantly done by women, occupations predominantly done by men, or occupations with an even mix of men and women.
 
-*These stats were made available by the [Bureau of Labor Statistics](https://www.bls.gov/cps/cpsaat39.pdf)*.
+*These stats were made available by the [Bureau of Labor Statistics](https://www.bls.gov/cps/cpsaat39.pdf)* *and the [Institute for Women's Policy Research](https://iwpr.org/publications/gender-wage-gap-occupation-2018/).*
 
 ## The Wage Gap Begins Before Women Have Children
 
