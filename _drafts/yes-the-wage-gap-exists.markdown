@@ -51,7 +51,7 @@ To put it in numbers instead of dates:
 
 * Latina women make 53 cents on the dollar.
 
-*These stats were made available by xx.*
+*These stats were made available by the [National Partnership for Women and Families](http://www.nationalpartnership.org/our-work/resources/workplace/fair-pay/quantifying-americas-gender-wage-gap.pdf).*
 
 ## The Wage Gap is Worse for LBGTQ\+ Folks
 
