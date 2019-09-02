@@ -2,6 +2,7 @@
 title: Yes, The Wage Gap Exists
 date: 2019-09-02 11:00:00 -04:00
 image: "/uploads/tim-mossholder-UcUROHSJfRA-unsplash.jpg"
+tweet: Yes, the wage gap exists.
 posts:
 - The Truth About the Wage Gap
 - How You Can Fight for Equal Pay
@@ -66,4 +67,4 @@ x
 
 *These stats were made available by xx.*
 
-So there you have it. The wage gap is real. And the data exists to prove it. You can find anything you want to believe by searching on the internet, but the key is to make sure there is reputable research to back it up.
+So there you have it. The wage gap is real. And the data exists to prove it. Just because some people don't want to believe that something exists doesn't mean that it doesn't. The information and the impacts are still out there. The wage gap affects women and families in real and lasting ways. And it's important that we own up to that and do what we can to fight it.
