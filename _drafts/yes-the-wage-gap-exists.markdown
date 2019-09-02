@@ -68,5 +68,3 @@ So there you have it. The wage gap is real. And the data exists to prove it. Jus
 * [The State of the Gender Pay Gap 2019](https://www.payscale.com/data/gender-pay-gap)
 
 * [AAUW](https://www.aauw.org/what-we-do/public-policy/aauw-issues/gender-pay-gap/)
-
-* x
