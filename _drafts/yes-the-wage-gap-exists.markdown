@@ -61,7 +61,7 @@ x
 
 ## Closing the Wage Gap Will Life Women Out of Poverty
 
-x
+Women are increasingly earning more money, despite the wage gap. They are more and more often the breadwinner in American families. The wage gap is not only unfair, but it limits how much money women can bring into their families, how much (if any) they can save over time, and whether or not they are able to plan for their futures. In fact, the wage gap can mean that women are losing $400,000-800,000 over the course of their careers. 
 
 Not only would eliminating the wage gap help women out of poverty, but it would also help the economy as a whole. A study by the Institute for Women's Policy Research [found](https://iwpr.org/publications/impact-equal-pay-poverty-economy/) that equal pay would add an additional income of $512.6 billion to the U.S. economy even if men’s wages stayed the same. So keeping women's wages down isn't actually helping anyone. 
 
