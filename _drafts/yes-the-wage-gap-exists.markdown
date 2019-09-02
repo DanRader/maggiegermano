@@ -61,4 +61,8 @@ x
 
 *These stats were made available by [The Williams Institute at UCLA School of Law](https://williamsinstitute.law.ucla.edu/wp-content/uploads/Impact-of-Wage-Equality-on-Sexual-Orientation-Poverty-Gaps-June-2015.pdf).*
 
+## Closing the Wage Gap Will Life Women Out of Poverty
+
+x
+
 So there you have it. The wage gap is real. And the data exists to prove it. Just because some people don't want to believe that something exists doesn't mean that it doesn't. The information and the impacts are still out there. The wage gap affects women and families in real and lasting ways. And it's important that we own up to that and do what we can to fight it.
