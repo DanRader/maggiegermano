@@ -1,7 +1,6 @@
 ---
 title: Money Tips for Women over 45
 date: 2019-09-02 06:00:00 -04:00
-published: false
 lede: Maggie Germano, gives you the rundown on what this podcast will be like and
   who might enjoy it.
 image: "/uploads/0004_www.blinkdcc.com_printready.jpg"
