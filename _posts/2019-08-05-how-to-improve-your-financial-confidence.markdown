@@ -3,7 +3,7 @@ title: How to Improve Your Financial Confidence
 date: 2019-08-05 11:00:00 -04:00
 categories:
 - lifestyle
-image: "/uploads/sydney-rae-geM5lzDj4Iw-unsplash.jpg"
+image: "/uploads/sydney-rae-geM5lzDj4Iw-unsplash-e55cf5.jpg"
 tweet: 'The way you feel about how you manage money really matters. '
 posts:
 - How Money Can Help Me Feel How I Want to Feel
