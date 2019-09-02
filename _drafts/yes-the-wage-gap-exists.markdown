@@ -5,7 +5,7 @@ image: "/uploads/tim-mossholder-UcUROHSJfRA-unsplash.jpg"
 posts:
 - The Truth About the Wage Gap
 - How You Can Fight for Equal Pay
-- "#WomenRockMoney: Celebrating International Women's Day"
+- How to Ask for a Raise
 ---
 
 A few weeks ago, I spoke at a college leadership event in Virginia. I led a workshop that helped college students understand how to start their careers on the right financial foot. Overall, the presentation went very well. A lot of students in the audience clearly got a lot out of the content and many of them came up to me afterwards to ask more questions. However, there was one student, a young man, who seemed to find my presentation very amusing. He laughed to himself quietly throughout the entire thing. I mostly ignored him and continued to teach the room. At the end, though, he was one of those who came up to me.
@@ -30,20 +30,26 @@ x
 
 ## The Wage Gap Begins Before Women Have Children
 
-x
+I've heard more than one person (usually men), including at least one friend, who argue that the wage gap only exists because women leave the workforce in order to care for their children. Usually, these people also talk about this as if it is entirely by choice and not by necessity because of how unfriendly our society is towards families. The need for some women to leave the workforce in order to care for children or other family members is also a problem, but I'll get to that in a later post. 
+
+But the truth is, wage gap statistics actually account for the moments when women leave the workforce in order to assume the caretaker role. 
 
 *These stats were made available by xx.*
 
 ## The Wage Gap is Worse for Women of Color
 
-x
+When we talk about the wage gap generally, the number is listed as 79 cents on the white man's dollar. But that figure only comes when you are looking at *all* women at once. When you break it down by race, the numbers become much more bleak. 
+
+In fact, just recently, on August 22nd, we "celebrated" Black Women's Equal Pay Day. That means that it took black women in the United States until August 22, 2019 to earn as much as a white man earned in 2018 for the same work. In contrast,
+
+For Native American and Latina women, Equal Pay Day won’t be recognized until September 23 and November 20, respectively.
 
 *These stats were made available by xx.*
-
-[https://nwlc.org/resources/the-lifetime-wage-gap-by-state-for-black-women/?campaign_id=10&instance_id=11784&segment_id=16334&user_id=acf80968330a5224657bd41bb9f10ccc&regi_id=85788378&nl=in-her-words&emc=edit_gn_20190820 ](https://nwlc.org/resources/the-lifetime-wage-gap-by-state-for-black-women/?campaign_id=10&instance_id=11784&segment_id=16334&user_id=acf80968330a5224657bd41bb9f10ccc&regi_id=85788378&nl=in-her-words&emc=edit_gn_20190820)
 
 ## The Wage Gap is Worse for LBGTQ\+ Folks
 
 x
 
 *These stats were made available by xx.*
+
+So there you have it. The wage gap is real. And the data exists to prove it. You can find anything you want to believe by searching on the internet, but the key is to make sure there is reputable research to back it up.
