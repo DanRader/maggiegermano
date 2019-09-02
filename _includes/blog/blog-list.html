@@ -1,6 +1,7 @@
 <div class="controls">
     <button type="button" data-filter="all">All</button>
-    {% for site-cat in site.categories %}
+    {% assign sortedCats = site.categories | sort:"title" %}
+    {% for site-cat in sortedCats %}
         {%- assign down-cat = site-cat.title | remove: ' ' | downcase -%}
         {% assign color = site-cat.color %}
         <button class="control" type="button" data-filter=".{{down-cat}}" href="#{{ site-cat.title }}" data-order="1">
@@ -39,10 +40,16 @@
 </div>
 
 <script src="../js/mixitup.min.js"></script>
+<!-- <script src="../js/mixitup-pagination.min.js"></script> -->
 <script type="text/javascript">
 
         var containerEl = document.querySelector('#blogListWrap');
 
-        var mixer = mixitup(containerEl);
+
+        var mixer = mixitup(containerEl, {
+            animation: {
+                enable: false
+            }
+        });
 
 </script>
