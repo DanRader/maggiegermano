@@ -23,12 +23,6 @@ One argument that debates the wage gap says that women just tend to work in lowe
 
 *These stats were made available by the [Bureau of Labor Statistics](https://www.bls.gov/cps/cpsaat39.pdf). *
 
-## The Wage Gap Accounts for Women Leaving the Work Force
-
-x
-
-*These stats were made available by xx.*
-
 ## The Wage Gap Begins Before Women Have Children
 
 I've heard more than one person (usually men), including at least one friend, who argue that the wage gap only exists because women leave the workforce in order to care for their children. Usually, these people also talk about this as if it is entirely by choice and not by necessity because of how unfriendly our society is towards families. The need for some women to leave the workforce in order to care for children or other family members is also a problem, but I'll get to that in a later post. 
