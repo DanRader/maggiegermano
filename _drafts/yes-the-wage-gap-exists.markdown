@@ -63,6 +63,8 @@ x
 
 x
 
+Not only would eliminating the wage gap help women out of poverty, but it would also help the economy as a whole. A study by the Institute for Women's Policy Research [found](https://iwpr.org/publications/impact-equal-pay-poverty-economy/) that equal pay would add an additional income of $512.6 billion to the U.S. economy even if men’s wages stayed the same. So keeping women's wages down isn't actually helping anyone. 
+
 *These stats were made available by the [Institute for Women's Policy Research](https://iwpr.org/publications/impact-equal-pay-poverty-economy/) and [ActionAid](https://www.actionaid.org.uk/sites/default/files/publications/womens_rights_on-line_version_2.1.pdf).*
 
 So there you have it. The wage gap is real. And the data exists to prove it. Just because some people don't want to believe that something exists doesn't mean that it doesn't. The information and the impacts are still out there. The wage gap affects women and families in real and lasting ways. And it's important that we own up to that and do what we can to fight it.
