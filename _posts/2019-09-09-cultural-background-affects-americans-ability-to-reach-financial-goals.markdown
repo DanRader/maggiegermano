@@ -5,6 +5,7 @@ published: false
 categories:
 - lifestyle
 image: "/uploads/mauro-mora-31-pOduwZGE-unsplash.jpg"
+tweet: Cultural Background Affects Americans' Ability To Reach Financial Goals
 posts:
 - How Women Can Improve Their Financial Optimism Despite Growing Anxieties
 - Despite Having Less Support, Women Outpace Men In Financial Independence
