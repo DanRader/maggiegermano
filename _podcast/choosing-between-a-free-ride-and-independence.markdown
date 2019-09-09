@@ -1,7 +1,6 @@
 ---
 title: Choosing Between a Free Ride and Independence
 date: 2019-09-09 05:00:00 -04:00
-published: false
 lede: In this episode, Maggie answers a listener question about whether or not she
   should live at home for free or go out on her own.
 image: "/uploads/DSC_5050.jpg"
