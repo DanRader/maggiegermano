@@ -44,7 +44,7 @@ This week, I re-published an old [ForbesWomen](https://www.maggiegermano.com/blo
 
 ## **What I’m Reading**
 
-xx
+I just started reading *[The Wedding Party](https://www.goodreads.com/en/book/show/42455873)* by Jasmine Guillory and I'm already loving it. I enjoyed her first two books, so I couldn't wait to get my hands on this. I am not disappointed so far!
 
 ## **Money Tip to Take Into the Weekend**
 
