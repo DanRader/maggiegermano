@@ -20,11 +20,11 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 ## **How I Spent Money This Week**
 
-* On Tuesday, Dan and I booked our flights to Peru for November! Flights came out to be about $500 each round-trip, but we'll be applying points from our Capital One Venture card to cover the amount.
+* On Tuesday, Dan and I booked our flights to Peru for November! Flights came out to be about $500 each round-trip, but we'll be applying points from our Capital One Venture card to cover the amount. I am soooo excited!
 
 * 
 
-* x
+* The September Money Circle meetup was on Wednesday, so I went to Trader Joe's beforehand to buy snacks. While I was there, I stocked up on a couple things for my kitchen too. 
 
 ## **What I’m Writing**
 
