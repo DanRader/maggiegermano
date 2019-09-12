@@ -22,7 +22,7 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 * On Tuesday, Dan and I booked our flights to Peru for November! Flights came out to be about $500 each round-trip, but we'll be applying points from our Capital One Venture card to cover the amount.
 
-* x
+* 
 
 * x
 
@@ -38,9 +38,9 @@ This week, I re-published an old [ForbesWomen](https://www.maggiegermano.com/blo
 
 ## **What I’m Excited About**
 
-* I’ve launched the virtual **[Money Circle membership group](https://maggiegermano.podia.com/inner-circle)**, called the Inner Circle! With this program, people who don’t live in DC are now able to be more connected to me and Money Circle. And those who already attend in person can get even more support! Accessibility is incredibly important to me, so depending on your needs and your budget, there are three different tiers for you to choose from.
+* I’ve launched the virtual [Money Circle membership group](https://maggiegermano.podia.com/inner-circle), called the Inner Circle! With this program, people who don’t live in DC are now able to be more connected to me and Money Circle. And those who already attend in person can get even more support! Accessibility is incredibly important to me, so depending on your needs and your budget, there are three different tiers for you to choose from.
 
-* x
+* I'm doing my biggest speaking gig yet in early October! Not only will it be a larger group than I'm used to, but it is also one of the highest paying gigs I've ever gotten. Plus, it's in Atlanta, which will be fun, since I've never been there before.
 
 ## **What I’m Reading**
 
@@ -48,6 +48,6 @@ I just started reading *[The Wedding Party](https://www.goodreads.com/en/book/sh
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![Not everyone had the same financial experiences as you did.png](/uploads/Not%20everyone%20had%20the%20same%20financial%20experiences%20as%20you%20did.png)
 
 That’s all from me this week. Have a great weekend!
