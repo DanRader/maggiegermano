@@ -8,3 +8,16 @@ podcast:
 - Maximizing Your Liquid Savings
 ---
 
+## **Episode Notes**
+
+x
+
+## Resources:
+
+* x
+
+* x
+
+---
+
+## TRANSCRIPTION
