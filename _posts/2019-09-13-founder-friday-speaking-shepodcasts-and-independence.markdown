@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Speaking, ShePodcasts, and Independence
 date: 2019-09-13 14:00:00 -04:00
+published: false
 image: "/uploads/chuttersnap-cX2vElQ5aHk-unsplash.jpg"
 posts:
 - Founder Friday | Maine, Online Banking, and Home Improvement
@@ -20,11 +21,11 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 ## **How I Spent Money This Week**
 
-* On Tuesday, Dan and I booked our flights to Peru for November! Flights came out to be about $500 each round-trip, but we'll be applying points from our Capital One Venture card to cover the amount. I am soooo excited!
-
-* 
+* On Tuesday, Dan and I booked our flights to Peru for November! Flights came out to be about $500 each round-trip, but we'll be applying points from our Capital One Venture card to cover the amount. I've also started booking things like our Airbnbs and in-country travel tickets. I am soooo excited!
 
 * The September Money Circle meetup was on Wednesday, so I went to Trader Joe's beforehand to buy snacks. While I was there, I stocked up on a couple things for my kitchen too. 
+
+* We ran out of a few staples that we buy in bulk, so I ordered them online. 
 
 ## **What I’m Writing**
 
