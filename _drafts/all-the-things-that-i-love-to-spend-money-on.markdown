@@ -10,7 +10,7 @@ Almost two weeks ago now, I attended my fourth [FinCon](https://finconexpo.com/)
 
 ## Travel
 
-If you read my blog and follow me on Instagram, you probably know that I like to travel. 
+If you read my blog and follow me on Instagram, you probably know that I like to travel. This year alone, I've traveled to Chicago, Bermuda, Maine. In the next few weeks, I'm going to Boston and Atlanta. And later this year, we're heading to Peru, which is a trip I've been dying to take for years.
 
 ## Making a Home
 
