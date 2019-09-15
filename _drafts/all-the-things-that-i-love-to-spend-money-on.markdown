@@ -8,9 +8,11 @@ Almost two weeks ago now, I attended my fourth [FinCon](https://finconexpo.com/)
 
 [Ramit Sethi](https://www.iwillteachyoutoberich.com/) was one of the opening keynote speakers for FinCon on Thursday, September 5th. I've never followed Ramit's work very closely, after being turned off by his abrasive approach to financial advice years ago. I actually considered skipping his talk in favor of chatting with friends or grabbing breakfast. But I'm glad that I stayed, because Ramit gave a great talk that had fantastic takeaways for all of us in the audience.
 
+The takeaway that really make an impact on me was this: "Spend extravagantly on the things you love and cut mercilessly on those you don't." 
+
 ## Travel
 
-If you read my blog and follow me on Instagram, you probably know that I like to travel. 
+If you read my blog and follow me on Instagram, you probably know that I like to travel. This year alone, I've traveled to Chicago, Bermuda, Maine. In the next few weeks, I'm going to Boston and Atlanta. And later this year, we're heading to Peru, which is a trip I've been dying to take for years.
 
 ## Making a Home
 
