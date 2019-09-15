@@ -4,6 +4,8 @@ date: 2019-09-16 06:00:00 -04:00
 lede: 'This week, Maggie sits down with Melanie Lockert to talk about the connection
   between mental health and money. '
 image: "/uploads/IMG_9671.JPG"
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/ed4697f0-b002-45ac-9d3e-e1c96b11dfd1?dark=false"></iframe>
 podcast:
 - Choosing Between a Free Ride and Independence
 - Money Tips for Women over 45
