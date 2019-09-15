@@ -1,7 +1,6 @@
 ---
 title: Making the Connection Between Money and Mental Health
 date: 2019-09-16 06:00:00 -04:00
-published: false
 lede: 'This week, Maggie sits down with Melanie Lockert to talk about the connection
   between mental health and money. '
 image: "/uploads/IMG_9671.JPG"
