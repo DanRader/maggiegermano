@@ -10,7 +10,9 @@ Almost two weeks ago now, I attended my fourth [FinCon](https://finconexpo.com/)
 
 > Spend extravagantly on the things you love and cut mercilessly on those you don't.
 
-The takeaway that really make an impact on me was this: "Spend extravagantly on the things you love and cut mercilessly on those you don't." Ramit went around the room asking people what they most love spending money on. Examples were: travel, pasta, and dogs. Then he asked us what we would do differently if we could triple what we spend on those things. An example he used was flying to Italy to learn how to make pasta, rather than just tripling how often we eat pasta. I really loved that way of thinking about it. 
+The takeaway that really make an impact on me was this: "Spend extravagantly on the things you love and cut mercilessly on those you don't." Ramit went around the room asking people what they most love spending money on. Examples were: travel, pasta, and dogs. Then he asked us what we would do differently if we could triple what we spend on those things. An example he used was flying to Italy to learn how to make pasta, rather than just tripling how often we eat pasta. I really loved that way of thinking about it. It's less about just spending more on something and more about leveling up the things you love most. 
+
+I also liked that this way of thinking also helps take the guilt out of spending lavishly on the things that you value most. If you can afford to spend money on the things you love, you should do it! That's what money is for. 
 
 ## Travel
 
