@@ -24,7 +24,7 @@ If you read my blog and follow me on Instagram, you probably know that I like to
 
 ## Making a Home
 
-Yesterday marked two years since Dan and I signed the papers to close on our home. Two years since we officially became homeowners! Honestly, time has flown by and a lot has changed. When we first bought the house, it needed quite a bit of work. We bought it knowing that we were going to have to spend a lot of money to make it what we wanted it to be
+Yesterday marked two years since Dan and I signed the papers to close on our home. Two years since we officially became homeowners! Honestly, time has flown by and a lot has changed. When we first bought the house, it needed quite a bit of work. We bought it knowing that we were going to have to spend a lot of money to make it what we wanted it to be. But it was worth it to us because then we could mold it into something special and unique. Plus, it was cheaper for us to buy this house and fix it up than it was for us to buy a more expensive house that was already renovated.
 
 ## Healthy Food
 
