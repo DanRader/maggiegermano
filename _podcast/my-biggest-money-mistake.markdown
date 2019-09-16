@@ -28,3 +28,5 @@ The theme music is called Escaping Light by Aaron Sprinkle. The podcast artwork 
 ## TRANSCRIPTION
 
 x
+
+Maggie Germano: Thanks for tuning in to the money circle podcast this week. Make sure that you rate, review and subscribe so that you never miss an episode. This also really helps just as we’re getting off the ground so that more people get the money circle podcast in front of them and in their ears. If you’d like to get more connected with money circle or with me, there are lots of ways you can do that. To join the free Facebook group, visit facebook.com/groups/moneycirclegroup to stay informed of any upcoming events, subscribe to my weekly newsletter at maggiegermano.com/subscribe. If you’d like to join the virtual money circle membership group, visit maggiegermano.podia.com/inner-circle. To learn more about my financial coaching services, my speaking and workshop offerings, or just to read my blog, visit Maggiegermano.com. You can also follow me on Instagram and Twitter @MaggieGermano.
