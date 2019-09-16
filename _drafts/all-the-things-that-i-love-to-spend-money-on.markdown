@@ -20,11 +20,11 @@ I also liked that this way of thinking also helps take the guilt out of spending
 
 ## Travel
 
-If you read my blog and follow me on Instagram, you probably know that I like to travel. This year alone, I've traveled to Chicago, Bermuda, Maine. In the next few weeks, I'm going to Boston and Atlanta. And later this year, we're heading to Peru, which is a trip I've been dying to take for years.
+If you read my blog and follow me on Instagram, you probably know that I like to travel. This year alone, I've traveled to Chicago, Bermuda, Maine. In the next few weeks, I'm going to Boston and Atlanta. And later this year, we're heading to Peru, which is a trip I've been dying to take for years. 
 
 ## Making a Home
 
-Yesterday marked two years since Dan and I signed the papers to close on our home. Two years since we officially became homeowners! Honestly, time has flown by and a lot has changed. When we first bought the house, it needed quite a bit of work. We bought it knowing that we were going to have to spend a lot of money to make it what we wanted it to be. But it was worth it to us because then we could mold it into something special and unique. Plus, it was cheaper for us to buy this house and fix it up than it was for us to buy a more expensive house that was already renovated. 
+Yesterday marked two years since Dan and I signed the papers to close on our home. Two years since we officially became homeowners! Honestly, time has flown by and a lot has changed. When we first bought the house, it needed quite a bit of work. We bought it knowing that we were going to have to spend a lot of money to make it what we wanted it to be. But it was worth it to us because then we could mold it into something special and unique. Plus, it was cheaper for us to buy this house and fix it up than it was for us to buy a more expensive house that was already renovated. Sometimes, it's painful to write big checks, but we've transformed our house into a new place, and it certainly feels like home.
 
 ## Healthy Food
 
