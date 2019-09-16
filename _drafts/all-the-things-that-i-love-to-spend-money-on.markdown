@@ -27,3 +27,5 @@ Yesterday marked two years since Dan and I signed the papers to close on our hom
 This category isn't always something I prioritized in my life. In fact, I used to go grocery shopping once every two weeks and I would buy things like white rice and frozen corn so that I could get the most food for the least amount of money. I was also 22 years old and new to Washington, DC, so I didn't have a lot of money and also wasn't very worried about my health. Things are changed dramatically since then. Now, I feel strongly about buying only organic produce and animal products.
 
 ## Learning
+
+x
