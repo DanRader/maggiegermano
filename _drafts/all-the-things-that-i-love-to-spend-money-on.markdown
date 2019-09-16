@@ -24,14 +24,14 @@ If you read my blog and follow me on Instagram, you probably know that I like to
 
 ## Making a Home
 
-Yesterday marked two years since Dan and I signed the papers to close on our home. Two years since we officially became homeowners! Honestly, time has flown by and a lot has changed. When we first bought the house, it needed quite a bit of work. We bought it knowing that we were going to have to spend a lot of money to make it what we wanted it to be. But it was worth it to us because then we could mold it into something special and unique. Plus, it was cheaper for us to buy this house and fix it up than it was for us to buy a more expensive house that was already renovated.
+Yesterday marked two years since Dan and I signed the papers to close on our home. Two years since we officially became homeowners! Honestly, time has flown by and a lot has changed. When we first bought the house, it needed quite a bit of work. We bought it knowing that we were going to have to spend a lot of money to make it what we wanted it to be. But it was worth it to us because then we could mold it into something special and unique. Plus, it was cheaper for us to buy this house and fix it up than it was for us to buy a more expensive house that was already renovated. 
 
 ## Healthy Food
 
-This category isn't always something I prioritized in my life. In fact, I used to go grocery shopping once every two weeks and I would buy things like white rice and frozen corn so that I could get the most food for the least amount of money. I was also 22 years old and new to Washington, DC, so I didn't have a lot of money and also wasn't very worried about my health. Things are changed dramatically since then. Now, I feel strongly about buying only organic produce and animal products.
+This category isn't always something I prioritized in my life. In fact, I used to go grocery shopping once every two weeks and I would buy things like white rice and frozen corn so that I could get the most food for the least amount of money. I was also 22 years old and new to Washington, DC, so I didn't have a lot of money and also wasn't very worried about my health. Things are changed dramatically since then. Now, I feel strongly about buying only organic produce and animal products. I've also recently cut out gluten per a recommendation from my doctor, so I find myself buying more expensive gluten-free items. My grocery bill sure has increased, but I feel healthier too.
 
 ## Learning
 
-Some of my biggest business expenses have been related to attending conferences and taking classes. 
+Some of my biggest business expenses have been related to attending conferences and taking classes. Not only do I get to meet likeminded people, but I also get to learn a lot too. I always 
 
 *What do you love spending money on? How do you budget to make those things happen? Share in the comments!*
