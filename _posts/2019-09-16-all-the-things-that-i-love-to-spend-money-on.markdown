@@ -1,6 +1,10 @@
 ---
 title: All the Things That I Love to Spend Money On
 date: 2019-09-16 11:00:00 -04:00
+categories:
+- spending
+- lifestyle
+- budget
 image: "/uploads/christine-roy-ir5MHI6rPg0-unsplash.jpg"
 posts:
 - Do Your Money Habits Align with Your Values?
@@ -16,11 +20,11 @@ Almost two weeks ago now, I attended my fourth [FinCon](https://finconexpo.com/)
 
 The takeaway that really make an impact on me was this: "Spend extravagantly on the things you love and cut mercilessly on those you don't." Ramit went around the room asking people what they most love spending money on. Examples were: travel, pasta, and dogs. Then he asked us what we would do differently if we could triple what we spend on those things. An example he used was flying to Italy to learn how to make pasta, rather than just tripling how often we eat pasta. I really loved that way of thinking about it. It's less about just spending more on something and more about leveling up the things you love most. 
 
-I also liked that this way of thinking also helps take the guilt out of spending lavishly on the things that you value most. If you can afford to spend money on the things you love, you should do it! That's what money is for. 
+I also liked that this way of thinking also helps take the guilt out of spending lavishly on the things that you value most. If you can afford to spend money on the things you love, you should do it! That's what money is for. So I thought it would be fun to review the things that I love to spend money on and that I budget for. 
 
 ## Travel
 
-If you read my blog and follow me on Instagram, you probably know that I like to travel. This year alone, I've traveled to Chicago, Bermuda, Maine. In the next few weeks, I'm going to Boston and Atlanta. And later this year, we're heading to Peru, which is a trip I've been dying to take for years. 
+If you read my blog and follow me on Instagram, you probably know that I like to travel. Last year, we went to Thailand for three weeks on our honeymoon. This year, I've traveled to New York City, Chicago, Bermuda, and Maine. In the next few weeks, I'm going to Boston and Atlanta. And later this year, we're heading to Peru, which is a trip I've been dying to take for years. Sometimes, when I'm on vacation, I start to get stressed out about how much money we're spending. I get frustrated and want to reign it in and make sandwiches instead of going out to eat and enjoying the local cuisine. But the thing is, we save year round for travel and we have rewards cards that give us points to pay for some travel. So the stress isn't really warranted. I'm going to start letting myself have fun and not feel guilty when I'm traveling. 
 
 ## Making a Home
 
@@ -32,6 +36,6 @@ This category isn't always something I prioritized in my life. In fact, I used t
 
 ## Learning
 
-Some of my biggest business expenses have been related to attending conferences and taking classes. Not only do I get to meet likeminded people, but I also get to learn a lot too. I always 
+Some of my biggest business expenses have been related to attending conferences and taking classes. Not only do I get to meet likeminded people, but I also get to learn a lot too. I always loved school and I loved learning. Once I graduated from college, I had to find new ways to keep learning. Initially, it was learning how to do new jobs and keeping myself educated about the causes we were working on. Now, it's learning more about how to run a business and how to help others with the work I do. So it's really a win-win that is worth paying for. Plus, it's all tax deductible. 
 
 *What do you love spending money on? How do you budget to make those things happen? Share in the comments!*
