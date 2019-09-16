@@ -5,6 +5,8 @@ published: false
 lede: 'This week, Maggie answers a listener question about the biggest financial mistake
   she''s ever made. '
 image: "/uploads/DSC_5004.jpg"
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/f71cf831-3d52-4cd0-9c18-8b50cdffcc40?dark=false"></iframe>
 podcast:
 - Making the Connection Between Money and Mental Health
 - Choosing Between a Free Ride and Independence
