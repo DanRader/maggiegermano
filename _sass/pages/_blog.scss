@@ -187,3 +187,50 @@ img.blog-arrow {
   letter-spacing: .3px;
   margin-bottom: 4vh;
 }
+
+.mixitup-page-list {
+    text-align: center;
+    margin-top: 64px;
+    margin-bottom: 16px;
+
+    button {
+        font-weight: 700;
+        font-size: 11px;
+        line-height: 19px;
+        letter-spacing: 2.67px;
+        text-transform: uppercase;
+        color: $grey;
+        background-color: transparent;
+        padding: 4px 8px 4px 10px;
+        border: none;
+        border-radius: 6px;
+        transition: .2s ease-in-out;
+        position: relative;
+        margin: 4px;
+
+        &:hover {
+            background-color: #f2f2f2;
+            box-shadow: none;
+        }
+    }
+
+    .mixitup-control-active {
+        background-color: $darkest-grey;
+        color: white;
+        transition: .2s ease-in-out;
+
+        &:hover {
+            background-color: $mid-grey;
+            box-shadow: none;
+        }
+    }
+}
+
+#scrollCats {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 120px;
+    width: 100%;
+
+}

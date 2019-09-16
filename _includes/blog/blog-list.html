@@ -1,4 +1,4 @@
-<div class="controls">
+<div class="controls" id="cats">
     <button type="button" data-filter="all">All</button>
     {% assign sortedCats = site.categories | sort:"title" %}
     {% for site-cat in sortedCats %}
@@ -37,19 +37,59 @@
               </div>
           {% endfor %}
     </div>
+    <div class="mixitup-page-list"></div>
+    <button onclick="scrollTocats()">Scroll</button>
 </div>
 
 <script src="../js/mixitup.min.js"></script>
-<!-- <script src="../js/mixitup-pagination.min.js"></script> -->
+<script src="../js/mixitup-pagination.min.js"></script>
 <script type="text/javascript">
 
         var containerEl = document.querySelector('#blogListWrap');
 
 
         var mixer = mixitup(containerEl, {
+
             animation: {
-                enable: false
+                    duration: 250,
+                    nudge: false,
+                    reverseOut: false,
+                    effects: 'fade stagger(30ms)',
+                    staggerSequence: function(i) {
+                        return (2*i) - (5*((i/3) - ((1/3) * (i%3))));
+                    }
+                },
+
+            pagination: {
+                limit: 9
             }
         });
+
+
+        let userSelection = document.querySelectorAll(".mixitup-page-list");
+
+        userSelection.forEach(function(elem) {
+            elem.addEventListener("click", function() {
+                var elmnt = document.getElementById("scrollCats");
+                elmnt.scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+
+        let cats = document.querySelectorAll(".controls");
+
+        cats.forEach(function(elem) {
+            elem.addEventListener("click", function() {
+                var elmnt = document.getElementById("scrollCats");
+                elmnt.scrollIntoView({
+                    behavior: 'smooth'
+                });
+            });
+        });
+
+
+
 
 </script>
