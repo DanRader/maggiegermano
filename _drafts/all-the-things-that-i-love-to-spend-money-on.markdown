@@ -8,7 +8,9 @@ Almost two weeks ago now, I attended my fourth [FinCon](https://finconexpo.com/)
 
 [Ramit Sethi](https://www.iwillteachyoutoberich.com/) was one of the opening keynote speakers for FinCon on Thursday, September 5th. I've never followed Ramit's work very closely, after being turned off by his abrasive approach to financial advice years ago. I actually considered skipping his talk in favor of chatting with friends or grabbing breakfast. But I'm glad that I stayed, because Ramit gave a great talk that had fantastic takeaways for all of us in the audience.
 
-The takeaway that really make an impact on me was this: "Spend extravagantly on the things you love and cut mercilessly on those you don't." 
+> Spend extravagantly on the things you love and cut mercilessly on those you don't.
+
+The takeaway that really make an impact on me was this: "Spend extravagantly on the things you love and cut mercilessly on those you don't." Ramit went around the room asking people what they most love spending money on. Examples were: travel, pasta, and dogs. Then he asked us what we would do differently if we could triple what we spend on those things. An example he used was flying to Italy to learn how to make pasta, rather than just tripling how often we eat pasta. I really loved that way of thinking about it. 
 
 ## Travel
 
@@ -20,6 +22,6 @@ Yesterday marked two years since Dan and I signed the papers to close on our hom
 
 ## Healthy Food
 
-This category isn't always something I prioritized in my life. In fact, I used to go grocery shopping once every two weeks and I would buy things like white rice and frozen corn so that I could get the most food for the least amount of money. I was also 22 years old and new to Washington, DC, so I didn't have a lot of money and also wasn't very worried about my health. Things are changed dramatically since then. Now, I feel strongly about buying only organic produce and animal products. 
+This category isn't always something I prioritized in my life. In fact, I used to go grocery shopping once every two weeks and I would buy things like white rice and frozen corn so that I could get the most food for the least amount of money. I was also 22 years old and new to Washington, DC, so I didn't have a lot of money and also wasn't very worried about my health. Things are changed dramatically since then. Now, I feel strongly about buying only organic produce and animal products.
 
 ## Learning
