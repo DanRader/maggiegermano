@@ -32,4 +32,6 @@ This category isn't always something I prioritized in my life. In fact, I used t
 
 ## Learning
 
-x
+Some of my biggest business expenses have been related to attending conferences and taking classes. 
+
+*What do you love spending money on? How do you budget to make those things happen? Share in the comments!*
