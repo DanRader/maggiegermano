@@ -44,11 +44,13 @@ We hear a lot about meditation and mindfulness as a way to calm our anxiety and 
 
 Sometimes, self-care is simply going to the doctor when you need to. You'll always live inside of your body, so taking care of that body is an important part of living a good life. If you have health insurance, your annual physical is 100% covered under preventative care. This applies to your twice annual dental appointments if you have dental insurance.
 
-If you don't have health or dental insurance yet, make sure that you [enroll in the marketplace](https://www.healthcare.gov/) when open enrollment comes around later this year. If you 
+Another way to prioritize your health this year is to make sure that you get the flu shot! Not only is it good for you, but it's good for everyone around you. [Find out](https://20somethingfinance.com/where-to-get-cheap-or-free-flu-shots/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A\+20somethingfinancecom\+%2820SomethingFinance.com%29) where to get a cheap or free flu shot.
+
+If you don't have health or dental insurance yet, make sure that you [enroll in the marketplace](https://www.healthcare.gov/) when open enrollment comes around later this year. You might be surprised at how low your monthly premiums will be if your income qualifies.
 
 ## 8. Take care of your mental health
 
-x
+Mental health issues are still 
 
 ## 9. Get moving
 
@@ -60,4 +62,4 @@ x
 
 These aren’t the only ways to take care of yourself; not even close. Do you feel really good after you give yourself a manicure or pedicure? Do that more often! Is regular exercise a major part of what makes you feel healthy? Do that too. Only you know what steps are needed to make you the best that you can be.
 
-What are you favorite (budget-friendly) self-care routines? Share in the **[Money Circle Facebook group](https://www.facebook.com/groups/moneycirclegroup)** or on **[Twitter](https://www.twitter.com/maggiegermano)**!
+*What are you favorite (budget-friendly) self-care routines? Share in the [Money Circle Facebook group](https://www.facebook.com/groups/moneycirclegroup) or on [Twitter](https://www.twitter.com/maggiegermano)!*
