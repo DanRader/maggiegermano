@@ -20,7 +20,7 @@ Being adequately hydrated is key to many physical and mental [benefits](http://g
 
 ## **3. Eat well**
 
-Yes, eating healthy food is not exactly easy when you’re on a tight budget. But it is [still possible](https://authoritynutrition.com/19-ways-to-eat-healthy-on-a-budget/). Try to plan your meals ahead of time so that you aren’t tempted to go buy fried food; this will help your wallet and your overall health. For the past couple of months, my husband and I have been sitting down together to plan out our meals for the following week. It takes away the decision making after a long day of work and it also makes sure that we always have leftovers to each for lunch. Perhaps you can cook a huge, healthy [crockpot](http://greatist.com/health/healthy-crock-pot-recipes) meal on Sundays so that you have a delicious ready-made lunches all week.
+Yes, eating healthy food is not exactly easy when you’re on a tight budget. But it is [still possible](https://authoritynutrition.com/19-ways-to-eat-healthy-on-a-budget/). Try to plan your meals ahead of time so that you aren’t tempted to go buy fried food; this will help your wallet and your overall health. For the past couple of months, my husband and I have been sitting down together to plan out our meals for the following week. It takes away the decision making after a long day of work and it also makes sure that we always have leftovers to each for lunch. Perhaps you can cook a huge, healthy [crockpot](http://greatist.com/health/healthy-crock-pot-recipes) meal on Sundays so that you have delicious ready-made lunches all week.
 
 ## **4. Take a break**
 
@@ -30,23 +30,23 @@ I know plenty of people, especially women, who feel like they need to be product
 
 When we are busy or stressed, we tend to forego the things that are best for us. This can be eating well or exercising, but it also can be the things we love most. Have you been ignoring your friends’ texts? Perhaps putting your romantic partner on the back burner? Do you love working out but haven’t been making the time for it? Are your books gathering dust? Deliberately make time to do the things that bring you joy. If you have to, schedule it on your calendar. From 10:30pm-11pm each night, read that book you’ve been dying to read. Put a date night (for friends or your sweetheart) on the calendar for once a week. If you need to save money, make it an at-home date night: cook a simple (but healthy and delicious) dinner, and watch a movie on Netflix together.
 
-6\. Take a deep breath
+## 6. Take a deep breath
+
+We hear a lot about meditation and mindfulness as a way to calm our anxiety and feel better overall. But these concepts don't resonate with a lot of people. I know that I personally have always had a hard time with the idea of meditation, because my brain moves way too fast. However, if you think about it purely as stopping to take a deep breath or two, that might be easier to manage. 
+
+## 7. Prioritize your physical health
 
 x
 
-7\. Prioritize your physical health
+## 8. Take care of your mental health
 
 x
 
-8\. Take care of your mental health
+## 9. Get moving
 
-x
+I worked with a health coach for the last few months and one of the biggest takeaways I got was this: moving your body doesn't have to look like high-intensity exercise. Movement can vary depending on the person and the day. If going for a long, slow walk around your neighborhood is the extend of your exercise, that's okay! I've been trying to get back into an exercise routine and my first step was making sure that I took my puppy for a long walk at least every morning. Not only did it get him some exercise and tired him out for the day, but it also meant that I was making sure to move everyday. From there, I added yoga once or twice a week. Last week, I went to a body pump class for the first time in over a year. Whatever your movement looks like, do something to move your body. You'll be surprised how much better you'll feel afterwards.
 
-9\. Get moving
-
-I worked with a health coach for the last few months and one of the biggest takeaways I got was this: moving your body doesn't have to look like high-intensity exercise. Movement can vary depending on the person and the day. If going for a long, slow walk around your neighborhood is the extend of your exercise, that's okay! I've been trying to get back into an exercise routine and my first step was making sure that I took my puppy for a long walk at least every morning. Not only did it get him some exercise and tired him out for the day, but it also meant that I was making sure to move everyday. From there, I added yoga once or twice a week. Last week, I went to a body pump class for the first time in over a year. Whatever your movement looks like, do something to move your body. You'll be surprised how much better you'll feel afterwards. 
-
-10\. Take care of your financial health
+## 10. Don't forget your financial health
 
 x
 
