@@ -14,7 +14,7 @@ posts:
 
 *This week, I'm revisiting [a post](https://www.maggiegermano.com/blog/self-care-on-a-budget) from nearly three years ago about self-care and adding a bit more.*
 
-Summer is slowly coming to an end in many places of the United States
+Summer is slowly coming to an end in many places of the United States and we're moving into fall and even closer to winter. This is a good time to start slowing down and thinking about the things that we really need to take care of ourselves. Self-care is talked about a lot on social media and it's often discussed as if it is simply taking a bath or buying something cute for yourself. In fact, self-care is more complicated than that. It has to be more consistent and deliberate in order for it to have a long-term impact. But self-care can also be cost-prohibitive, depending on your circumstances, so here are some ways that you can take care of yourself while living within your means.
 
 ## 1. Go to sleep
 
