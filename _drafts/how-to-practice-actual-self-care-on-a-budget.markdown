@@ -4,6 +4,12 @@ date: 2019-09-23 11:00:00 -04:00
 categories:
 - lifestyle
 - budget
+image: "/uploads/franck-v-lqT2RukGGJ0-unsplash.jpg"
+tweet: 'Revisiting an old post about self-care on a budget:'
+posts:
+- Why Healthcare is Self Care
+- How to Care for Your Mental Health on a Budget
+- 5 Ways to Eat Healthy on a Budget
 ---
 
 *This week, I'm revisiting [a post](https://www.maggiegermano.com/blog/self-care-on-a-budget) from nearly three years ago about self-care and adding a bit more.*
@@ -36,7 +42,9 @@ We hear a lot about meditation and mindfulness as a way to calm our anxiety and 
 
 ## 7. Prioritize your physical health
 
-x
+Sometimes, self-care is simply going to the doctor when you need to. You'll always live inside of your body, so taking care of that body is an important part of living a good life. If you have health insurance, your annual physical is 100% covered under preventative care. This applies to your twice annual dental appointments if you have dental insurance.
+
+If you don't have health or dental insurance yet, make sure that you [enroll in the marketplace](https://www.healthcare.gov/) when open enrollment comes around later this year. If you 
 
 ## 8. Take care of your mental health
 
