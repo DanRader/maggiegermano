@@ -15,7 +15,7 @@ The more you pay attention to your money, the more awareness you'll have. The mo
 
 ## It'll Take Less Time
 
-x
+The more often you do something, the easier it gets. 
 
 ## You Can Adjust Your Plans
 
@@ -24,3 +24,5 @@ x
 ## You Have Time To Catch Up
 
 x
+
+Now go on and pick a day and time each week that you'll sit down and take your money minute. 
