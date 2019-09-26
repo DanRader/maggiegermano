@@ -11,7 +11,7 @@ x
 
 ## You'll Be More Aware
 
-x
+The more you pay attention to your money, the more awareness you'll have. The more awareness you have, the more in control you'll feel of your money and your life. Some people think that if they just avoid 
 
 ## It'll Take Less Time
 
@@ -24,4 +24,3 @@ x
 ## You Have Time To Catch Up
 
 x
-
