@@ -3,15 +3,22 @@ title: Founder Friday | Boston College, Retirement, and Self Care
 date: 2019-09-27 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/aaron-burden-cEukkv42O40-unsplash.jpg"
+posts:
+- Founder Friday | Speaking, ShePodcasts, and Independence
+- Founder Friday | Maine, Online Banking, and Home Improvement
+- Founder Friday | Money Circle, Yoga, and Assateague
 ---
 
 Happy Friday, everyone! Here’s what I was up to this past week.
 
 ## **How I Earned Money This Week**
 
-* x
+* The company I'm speaking for next week paid the deposit for my speaking fee.
 
-* x
+* One of my retainer clients paid their monthly fee.
+
+* We have an Airbnb guest coming tonight.
 
 ## **How I Spent Money This Week**
 
@@ -35,13 +42,13 @@ This week, on the [Money Circle podcast](https://www.maggiegermano.com/podcast/m
 
 ## **What I’m Excited About**
 
-* x
+* I'm traveling to Atlanta for the first time next week for a speaking gig. I'm then going again about a week later for the She Podcasts conference! Send me any and all recommendations for things to do and eat in Atlanta.
 
 * x
 
 ## **What I’m Reading**
 
-x
+I'm currently reading *[A Woman Is No Man](https://www.goodreads.com/book/show/34313931-a-woman-is-no-man)* by Etaf Rum. I'm only 20 percent through the book, but so far, it's beautifully written and incredibly sad.
 
 ## **Money Tip to Take Into the Weekend**
 
