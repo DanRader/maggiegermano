@@ -7,7 +7,7 @@ categories:
 image: "/uploads/emma-matthews-8K62atzbulQ-unsplash.jpg"
 ---
 
-x
+If you're in the [Money Circle Facebook group](https://www.facebook.com/groups/MoneyCircleGroup), or if you're one of my [coaching clients](https://www.maggiegermano.com/coaching/), you know that I tell people to take a minute minute at least once a week. 
 
 ## You'll Be More Aware
 
