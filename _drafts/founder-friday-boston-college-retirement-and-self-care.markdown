@@ -21,13 +21,17 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 ## **What I’m Writing**
 
-xx
+I revisited an old blog post about self care and expanded on what [self care looks like](https://www.maggiegermano.com/blog/how-to-practice-actual-self-care-on-a-budget/) on a budget.
+
+## What I'm Saying
+
+This week, on the [Money Circle podcast](https://www.maggiegermano.com/podcast/my-biggest-money-mistake/), I answered a listener question about my biggest money mistake thus far.
 
 ## **What I’m Up To**
 
-* This week, on the **[Money Circle podcast](https://www.maggiegermano.com/podcast/choosing-between-a-free-ride-and-independence/)**, xx
+* Yesterday, I traveled to Boston to speak at Boston College for an event with [Funding Our Future](https://fundingourfuture.us/) and the [Center for Retirement Research](https://crr.bc.edu/). It was a fun opportunity to talk to students about student loans, saving for the future, and getting their money right.
 
-* I just published the **[October Money Circle meetup](https://www.eventbrite.com/e/money-circle-preparing-for-holiday-spending-tickets-72080062407)**! We’ll be gathering to discuss how to prepare for holiday spending weeks or even months in advance.
+* I just published the [October Money Circle meetup](https://www.eventbrite.com/e/money-circle-preparing-for-holiday-spending-tickets-72080062407)! We’ll be gathering to discuss how to prepare for holiday spending weeks or even months in advance.
 
 ## **What I’m Excited About**
 
