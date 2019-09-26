@@ -7,7 +7,7 @@ categories:
 image: "/uploads/emma-matthews-8K62atzbulQ-unsplash.jpg"
 ---
 
-If you're in the [Money Circle Facebook group](https://www.facebook.com/groups/MoneyCircleGroup), or if you're one of my [coaching clients](https://www.maggiegermano.com/coaching/), you know that I tell people to take a minute minute at least once a week. A money minute, which is a term I heard of from [Alexa Von Tobel](https://www.linkedin.com/in/alexavontobel/), is the time that you take to dedicate to getting up to date on your finances. 
+If you're in the [Money Circle Facebook group](https://www.facebook.com/groups/MoneyCircleGroup), or if you're one of my [coaching clients](https://www.maggiegermano.com/coaching/), you know that I tell people to take a minute minute at least once a week. A money minute, which is a term I heard of from [Alexa Von Tobel](https://www.linkedin.com/in/alexavontobel/), is the time that you take to dedicate to getting up to date on your finances. Sometimes it can simply consist of sitting down for five to ten minutes and reviewing your spending. The more often you do this, the better off you'll be. And here's why:
 
 ## You'll Be More Aware
 
