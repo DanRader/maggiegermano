@@ -18,6 +18,8 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 * One of my retainer clients paid their monthly fee.
 
+* One of my monthly clients paid their monthly fee.
+
 * We have an Airbnb guest coming tonight.
 
 ## **How I Spent Money This Week**
@@ -48,7 +50,7 @@ This week, on the [Money Circle podcast](https://www.maggiegermano.com/podcast/m
 
 * I'm traveling to Atlanta for the first time next week for a speaking gig. I'm then going again about a week later for the She Podcasts conference! Send me any and all recommendations for things to do and eat in Atlanta.
 
-* x
+* We're officially going to Peru in November! For our one year wedding anniversary, we'll be in Peru exploring all of the amazing history, nature, food, and culture. I've wanted to go for years, so I'm thrilled that it's finally happening. If you've been to Peru and have recommendations, let me know!
 
 ## **What I’m Reading**
 
