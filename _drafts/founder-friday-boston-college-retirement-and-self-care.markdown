@@ -22,9 +22,13 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 ## **How I Spent Money This Week**
 
-* x
+* I've had a head cold all week, so I bought some decongestant at Rite Aid.
 
-* x
+* We went to a surprise birthday party for a friend on Wednesday and bought a drink and some dinner while we were out. 
+
+* We've been getting regular pest service for our house and our monthly fee was due this week. 
+
+* In Boston on Thursday, I bought myself lunch, tea, and snacks at the airport. 
 
 ## **What I’m Writing**
 
