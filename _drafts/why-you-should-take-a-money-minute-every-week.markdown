@@ -19,10 +19,8 @@ The more often you do something, the easier it gets. The easier something gets, 
 
 ## You Can Adjust Your Plans
 
-x
-
 ## You Have Time To Catch Up
 
-The main reason 
+The main reason that I recommend checking in with your money weekly is that you're giving yourself more time to take control over your spending. If you wait until the end of the month to look at your spending, it'll be too late to catch up and stay within your budget. If you look at your spending weekly, you can more quickly see if you've been spending more than you can afford. Then, you can cut back on your spending and change your plans accordingly. 
 
 Now go on and pick a day and time each week that you'll sit down and take your money minute.
