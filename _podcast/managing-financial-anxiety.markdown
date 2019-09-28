@@ -5,6 +5,8 @@ published: false
 lede: This week, Maggie chats with financial therapist Lindsay Bryan-Podvin about
   financial anxiety and how people can manage it better.
 image: "/uploads/LBP%20Headshot.jpg"
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/f1fd7f0e-8a63-4b1b-9d85-922d5fc3286e?dark=false"></iframe>
 podcast:
 - My Biggest Money Mistake
 - Making the Connection Between Money and Mental Health
