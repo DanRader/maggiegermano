@@ -15,7 +15,7 @@ The more you pay attention to your money, the more awareness you'll have. The mo
 
 ## It'll Take Less Time
 
-The more often you do something, the easier it gets. 
+The more often you do something, the easier it gets. The easier something gets, the more quickly you can do it. One of the most common excuses I hear about managing a budget is that it is too time consuming. If you haven't organized your finances in years, it might take a few hours to get things in order and under control. But once you've done that, the hard part is done. After that, it shouldn't take you very long to check in and update your budget every week. That's because you only have a week of spending to track, rather than months or years. So the more often you check in with your money, the faster it'll be!
 
 ## You Can Adjust Your Plans
 
@@ -25,4 +25,4 @@ x
 
 x
 
-Now go on and pick a day and time each week that you'll sit down and take your money minute. 
+Now go on and pick a day and time each week that you'll sit down and take your money minute.
