@@ -19,6 +19,8 @@ The more often you do something, the easier it gets. The easier something gets, 
 
 ## You Can Adjust Your Plans
 
+I once had a client who decided to take her money minute on Sunday mornings, which she also used as her time to plan out her week. She would look at her calendar to see what her plans were, map out her meals for the week, and set a spending budget accordingly. It was a great way to feel informed and in control of her schedule and money. Plus, if she realized that she had overbooked herself for the week and that she wouldn't be able to afford all of the plans, she could adjust things. She could change plans for happy hour to 
+
 ## You Have Time To Catch Up
 
 The main reason that I recommend checking in with your money weekly is that you're giving yourself more time to take control over your spending. If you wait until the end of the month to look at your spending, it'll be too late to catch up and stay within your budget. If you look at your spending weekly, you can more quickly see if you've been spending more than you can afford. Then, you can cut back on your spending and change your plans accordingly. 
