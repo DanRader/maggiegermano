@@ -23,6 +23,6 @@ x
 
 ## You Have Time To Catch Up
 
-x
+The main reason 
 
 Now go on and pick a day and time each week that you'll sit down and take your money minute.
