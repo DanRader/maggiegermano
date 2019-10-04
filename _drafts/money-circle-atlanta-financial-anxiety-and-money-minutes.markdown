@@ -24,7 +24,7 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 ## **How I Spent Money This Week**
 
-* x
+* Since I was in Atlanta for a day, I paid for a few meals, snacks, public transportation, and my hotel. All of those expenses will be written off when I do my taxes.
 
 * x
 
