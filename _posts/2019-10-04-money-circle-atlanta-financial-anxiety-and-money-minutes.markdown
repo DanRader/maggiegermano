@@ -24,9 +24,17 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 ## **How I Spent Money This Week**
 
-* x
+* Since I was in Atlanta for a day, I paid for a few meals, snacks, public transportation, and my hotel. All of those expenses will be written off when I do my taxes.
 
-* x
+* We're running low on Bruno's food, so we ordered more through Chewy, and got him an extra chew bone while we were at it. 
+
+* I got my hair cut on Tuesday.
+
+* On Monday, I met my friend for coffee, so I bought myself some tea.
+
+* We're going to see Fleabag live tonight at the Shakespeare Theater, and we bought those tickets on Sunday night. 
+
+* On Sunday, we bought some groceries to last us through the week.
 
 ## **What I’m Writing**
 
@@ -38,19 +46,17 @@ This week, [I wrote about](https://www.maggiegermano.com/blog/why-you-should-tak
 
 ## **What I’m Up To**
 
-* x
-
 * I just published the [October Money Circle meetup](https://www.eventbrite.com/e/money-circle-preparing-for-holiday-spending-tickets-72080062407)! We’ll be gathering to discuss how to prepare for holiday spending weeks or even months in advance.
+
+* I've created a virtual [Money Circle membership program](https://maggiegermano.podia.com/inner-circle)! If you are not located in the DC area, or if you just want more connection through Money Circle, this program is for you. There are 3 tiers that offer different options at different price points. There is a group coaching component and even a level that lets you check in with me every month. [Sign up today!](https://maggiegermano.podia.com/inner-circle)
 
 ## **What I’m Excited About**
 
-* x
-
-* x
+I'm heading back to Atlanta next week for the [She Podcasts](https://www.shepodcasts.com/) conference! Even though I've only been podcasting for like a month and a half, I'm excited to be in a space surrounded by other women who are also podcasting. Plus, some of my favorite podcasters will be there!
 
 ## **What I’m Reading**
 
-xx
+I'm actively reading two books right now. I started *[Trick Mirror](https://www.goodreads.com/book/show/43126457-trick-mirror)* by Jia Tolentino a few days ago, but last night, I started *[My Sister, The Serial Killer](https://www.goodreads.com/book/show/38819868-my-sister-the-serial-killer)* by Oyinkan Braithwaite because while I really want to read important essays, I am really much more into fiction these days. 
 
 ## **Money Tip to Take Into the Weekend**
 
