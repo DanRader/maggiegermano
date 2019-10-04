@@ -30,17 +30,17 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 ## **What I’m Writing**
 
-x
+This week, [I wrote about](https://www.maggiegermano.com/blog/why-you-should-take-a-money-minute-every-week/) why I think everyone should take a money minute every week in order to stay on top of their finances.
 
 ## **What I’m Saying**
 
-x
+[On the podcast](https://www.maggiegermano.com/podcast/managing-financial-anxiety/), I sat down with financial therapist [Lindsay Bryan-Podvin](https://www.mindmoneybalance.com/) to talk about financial anxiety. Make sure you're subscribed wherever you listen to podcasts so you never miss an episode!
 
 ## **What I’m Up To**
 
 * x
 
-* I just published the **[October Money Circle meetup](https://www.eventbrite.com/e/money-circle-preparing-for-holiday-spending-tickets-72080062407)**! We’ll be gathering to discuss how to prepare for holiday spending weeks or even months in advance.
+* I just published the [October Money Circle meetup](https://www.eventbrite.com/e/money-circle-preparing-for-holiday-spending-tickets-72080062407)! We’ll be gathering to discuss how to prepare for holiday spending weeks or even months in advance.
 
 ## **What I’m Excited About**
 
