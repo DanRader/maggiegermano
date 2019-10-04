@@ -26,7 +26,13 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 * Since I was in Atlanta for a day, I paid for a few meals, snacks, public transportation, and my hotel. All of those expenses will be written off when I do my taxes.
 
-* x
+* We're running low on Bruno's food, so we ordered more through Chewy, and got him an extra chew bone while we were at it. 
+
+* I got my hair cut on Tuesday.
+
+* On Monday, I met my friend for coffee, so I bought myself some tea.
+
+* We're going to see Fleabag live tonight at the Shakespeare Theater, and we bought those tickets on Sunday night. 
 
 ## **What I’m Writing**
 
