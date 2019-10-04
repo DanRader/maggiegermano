@@ -1,7 +1,13 @@
 ---
 title: Money Circle | Atlanta, Financial Anxiety, and Money Minutes
 date: 2019-10-04 14:00:00 -04:00
+categories:
+- founder friday
 image: "/uploads/joey-kyber-45FJgZMXCK8-unsplash.jpg"
+posts:
+- Founder Friday | Boston College, Retirement, and Self Care
+- Founder Friday | Speaking, ShePodcasts, and Independence
+- Founder Friday | Maine, Online Banking, and Home Improvement
 ---
 
 Happy Friday, everyone! Here’s what I was up to this past week.
