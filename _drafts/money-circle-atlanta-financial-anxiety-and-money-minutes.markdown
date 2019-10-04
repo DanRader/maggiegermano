@@ -14,9 +14,13 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 ## **How I Earned Money This Week**
 
-* x
+* I spoke at a large corporation in Atlanta on Wednesday. In fact, it was my highest paid speaking gig ever. They paid a deposit a couple weeks ago when we signed the contract, and they paid the remainder of the fee this week. 
 
-* x
+* One of my ongoing clients paid their monthly fee. 
+
+* We have an Airbnb guest arriving tonight. 
+
+* Dan's biweekly paycheck came in on Monday.
 
 ## **How I Spent Money This Week**
 
