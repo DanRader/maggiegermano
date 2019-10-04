@@ -52,9 +52,7 @@ This week, [I wrote about](https://www.maggiegermano.com/blog/why-you-should-tak
 
 ## **What I’m Excited About**
 
-* I'm heading back to Atlanta next week for the [She Podcasts](https://www.shepodcasts.com/) conference! Even though I've only been podcasting for like a month and a half, I'm excited to be in a space surrounded by other women who are also podcasting. Plus, some of my favorite podcasters will be there!
-
-* x
+I'm heading back to Atlanta next week for the [She Podcasts](https://www.shepodcasts.com/) conference! Even though I've only been podcasting for like a month and a half, I'm excited to be in a space surrounded by other women who are also podcasting. Plus, some of my favorite podcasters will be there!
 
 ## **What I’m Reading**
 
