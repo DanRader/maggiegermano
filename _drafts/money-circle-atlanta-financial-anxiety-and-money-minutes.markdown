@@ -50,7 +50,7 @@ This week, [I wrote about](https://www.maggiegermano.com/blog/why-you-should-tak
 
 ## **What I’m Reading**
 
-xx
+I'm actively reading two books right now. I started *[Trick Mirror](https://www.goodreads.com/book/show/43126457-trick-mirror)* by Jia Tolentino a few days ago, but last night, I started *[My Sister, The Serial Killer](https://www.goodreads.com/book/show/38819868-my-sister-the-serial-killer)* by Oyinkan Braithwaite because while I really want to read important essays, I am really much more into fiction these days. 
 
 ## **Money Tip to Take Into the Weekend**
 
