@@ -46,9 +46,9 @@ This week, [I wrote about](https://www.maggiegermano.com/blog/why-you-should-tak
 
 ## **What I’m Up To**
 
-* x
-
 * I just published the [October Money Circle meetup](https://www.eventbrite.com/e/money-circle-preparing-for-holiday-spending-tickets-72080062407)! We’ll be gathering to discuss how to prepare for holiday spending weeks or even months in advance.
+
+* I've created a virtual [Money Circle membership program](https://maggiegermano.podia.com/inner-circle)! If you are not located in the DC area, or if you just want more connection through Money Circle, this program is for you. There are 3 tiers that offer different options at different price points. There is a group coaching component and even a level that lets you check in with me every month. [Sign up today!](https://maggiegermano.podia.com/inner-circle)
 
 ## **What I’m Excited About**
 
