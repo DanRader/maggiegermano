@@ -5,11 +5,15 @@ date: 2019-10-07 11:00:00 -04:00
 
 x
 
-No Access to Funds
+## Limited or No Access to Funds
 
 x
 
-Nowhere to Go
+## Nowhere to Go
+
+x
+
+## There Are Children to Care For
 
 x
 
