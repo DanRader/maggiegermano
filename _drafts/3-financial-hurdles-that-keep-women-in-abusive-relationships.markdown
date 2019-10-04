@@ -5,6 +5,12 @@ date: 2019-10-07 11:00:00 -04:00
 
 x
 
+No Access to Funds
+
+x
+
+Nowhere to Go
+
 x
 
 --
