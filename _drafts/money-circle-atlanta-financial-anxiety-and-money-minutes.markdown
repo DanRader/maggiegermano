@@ -34,6 +34,8 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 * We're going to see Fleabag live tonight at the Shakespeare Theater, and we bought those tickets on Sunday night. 
 
+* On Sunday, we bought some groceries to last us through the week.
+
 ## **What I’m Writing**
 
 This week, [I wrote about](https://www.maggiegermano.com/blog/why-you-should-take-a-money-minute-every-week/) why I think everyone should take a money minute every week in order to stay on top of their finances.
