@@ -1,6 +1,7 @@
 ---
 title: Money Circle | Atlanta, Financial Anxiety, and Money Minutes
 date: 2019-10-04 14:00:00 -04:00
+image: "/uploads/joey-kyber-45FJgZMXCK8-unsplash.jpg"
 ---
 
 Happy Friday, everyone! Here’s what I was up to this past week.
@@ -43,6 +44,6 @@ xx
 
 ## **Money Tip to Take Into the Weekend**
 
-xx
+![Knowledge is power..png](/uploads/Knowledge%20is%20power..png)
 
 That’s all from me this week. Have a great weekend!
