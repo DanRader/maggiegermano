@@ -1,10 +1,11 @@
 ---
 title: Where to Keep Your Short-Term Savings
 date: 2019-10-07 05:00:00 -04:00
-published: false
 lede: This week, Maggie is answering a listener question about where to put short-term
   savings.
 image: "/uploads/isl_9068.JPG"
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/498b1606-1fde-4922-9b31-2fa161da9ea8?dark=false"></iframe>
 podcast:
 - Managing Financial Anxiety
 - My Biggest Money Mistake
