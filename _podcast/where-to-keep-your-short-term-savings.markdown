@@ -4,6 +4,7 @@ date: 2019-10-07 05:00:00 -04:00
 published: false
 lede: This week, Maggie is answering a listener question about where to put short-term
   savings.
+image: "/uploads/isl_9068.JPG"
 podcast:
 - Managing Financial Anxiety
 - My Biggest Money Mistake
