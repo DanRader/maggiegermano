@@ -10,6 +10,36 @@ podcast:
 - Making the Connection Between Money and Mental Health
 ---
 
+It's a short one this week! Maggie is answering listener Samantha's question: “What are the best places to put money that you want to save in the short term, like for a bigger purchase (5–12k) in the near future (2-5 years)?”
+
+**Resources:**
+
+* Money Circle Podcast episode 2: [https://www.maggiegermano.com/podcast/episode02/](https://www.maggiegermano.com/podcast/episode02/)
+
+* High-Yield Savings Accounts:
+
+  * Ally Bank: [https://www.ally.com/](https://www.ally.com/)
+
+  * Synchrony: [https://www.synchronybank.com/](https://www.synchronybank.com/)
+
+  * American Express: [https://www.americanexpress.com/personalsavings/high-yield-savings-account.html](https://www.americanexpress.com/personalsavings/high-yield-savings-account.html)
+
+  * Barclays: [https://www.banking.barclaysus.com/online-savings.html](https://www.banking.barclaysus.com/online-savings.html)
+
+--
+
+To learn more about Maggie and her coaching and speaking services, visit [www.maggiegermano.com](https://www.maggiegermano.com/).
+
+To get more involved with Money Circle:
+
+* Join the free[ Facebook group](https://www.facebook.com/groups/MoneyCircleGroup/)
+
+* Come to an [in-person event](https://www.maggiegermano.com/moneycircle/) in DC
+
+* Sign up for the [virtual membership program](https://maggiegermano.podia.com/inner-circle)
+
+The theme music is called Escaping Light by Aaron Sprinkle. The podcast artwork design is by my dear husband, [Dan Rader](http://www.danrdesign.com/).
+
 ---
 
 ## TRANSCRIPTION
