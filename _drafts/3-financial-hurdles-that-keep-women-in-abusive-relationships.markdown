@@ -15,7 +15,7 @@ Ninety-eight percent of abusive relationships also involve some sort of financia
 
 ## Nowhere to Go
 
-Abusers tend to isolate their victims. It might start off looking like they just want to spend time with their partner, but it can escalate to dictating who their victim can or cannot spend time with. Some abusers even move away to further isolate their victim from their support network. Of course, abuse itself can also feel shameful and cause a victim to withdraw from loved ones. This sort of isolation and withdrawal can make a victim of abuse feel like they have nowhere to turn when they decide to leave the relationship. It also might be true that they actually don't have friends or family to turn to for any variety of reasons. 
+Abusers tend to isolate their victims. It might start off looking like they just want to spend time with their partner, but it can escalate to dictating who their victim can or cannot spend time with. Some abusers even move away to further isolate their victim from their support network. Of course, abuse itself can also feel shameful and cause a victim to withdraw from loved ones. This sort of isolation and withdrawal can make a victim of abuse feel like they have nowhere to turn when they decide to leave the relationship. It also might be true that they actually don't have friends or family to turn to for any variety of reasons. Combined with the potential lack of financial resources, this can make it impossible for victims to leave abusive relationships without facing homelessness. 
 
 ## There Are Children to Care For
 
