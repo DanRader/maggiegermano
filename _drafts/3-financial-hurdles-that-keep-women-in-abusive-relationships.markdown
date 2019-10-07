@@ -11,11 +11,11 @@ According to the [National Coalition Against Domestic Violence](https://ncadv.or
 
 ## Limited or No Access to Funds
 
-x
+Ninety-eight percent of abusive relationships also involve some sort of financial abuse. That means that money is being used as a weapon against the abused person. This can look like withholding funds, limiting access to accounts, sabotaging the person's career, and more. The outcome of this abuse is that the victim is completely financially reliant on their abuser. For many women, that means that they don't have the resources that they need to leave. 
 
 ## Nowhere to Go
 
-x
+Abusers tend to isolate their victims. It might start off looking like they just want to spend time with their partner, but it can escalate to dictating who their victim can or cannot spend time with. Some abusers even move away to further isolate their victim from their support network. Of course, abuse itself can also feel shameful and cause a victim to withdraw from loved ones. This sort of isolation and withdrawal can make a victim of abuse feel like they have nowhere to turn when they decide to leave the relationship. It also might be true that they actually don't have friends or family to turn to for any variety of reasons. 
 
 ## There Are Children to Care For
 
