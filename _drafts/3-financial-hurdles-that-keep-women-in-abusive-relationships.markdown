@@ -20,7 +20,9 @@ Abusers tend to isolate their victims. It might start off looking like they just
 
 ## There Are Children to Care For
 
-x
+Since domestic violence is so prevalent in our society, it goes without saying that there are often children involved. When there are children in the picture, the situation becomes even more complicated. In order to provide and care for their children, victims need financial resources and a safe place to stay. If they have limited access to money and nowhere to go, they are stuck between a rock and a hard place. They can either stay with their children in their abuser's home or risk taking their children to somewhere like a shelter. This can often feel like an impossible decision to make. Plus, in many cases, the abuser will fight for custody of the children. 
+
+The next time you ask "why didn't she just leave?" when you hear about a woman in an abusive relationship, I hope you remember that she may have been facing some of the above financial hurdles, in addition to many more emotional and physical hurdles. Domestic violence is dangerous, scary, complicated, 
 
 --
 
