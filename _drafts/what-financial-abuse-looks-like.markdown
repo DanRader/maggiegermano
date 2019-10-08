@@ -8,7 +8,7 @@ posts:
 - What Survivors Wish You Knew About Financial Abuse
 ---
 
-***Content warning:** this article makes references to abusive relationships, particularly those where financial abuse is in play. If you are experiencing financial (or any kind of) abuse, there is help out there for you. **You are not alone, and you are not to blame.** *You can call the National Domestic Violence Hotline at 1-800-799-SAFE. Reach out to organizations like [Purple Purse](http://purplepurse.com/) and the [National Network to End Domestic Violence](http://www.womenslaw.org/laws_state_type.php?id=14107&state_code=PG&open_id=all) for information and support.**
+***Content warning:** this article makes references to abusive relationships, particularly those where financial abuse is in play. If you are experiencing financial (or any kind of) abuse, there is help out there for you. **You are not alone, and you are not to blame.** You can call the National Domestic Violence Hotline at **1-800-799-SAFE**. Reach out to organizations like [Purple Purse](http://purplepurse.com/) and the [National Network to End Domestic Violence](http://www.womenslaw.org/laws_state_type.php?id=14107&state_code=PG&open_id=all) for information and support.*
 
 xx
 
