@@ -1,6 +1,7 @@
 ---
 title: What Financial Abuse Looks Like
 date: 2019-10-14 11:00:00 -04:00
+image: "/uploads/melanie-wasser-j8a-TEakg78-unsplash.jpg"
 tweet: 'Financial abuse might not always be obvious. Here''s what it looks like: '
 posts:
 - 3 Financial Hurdles That Keep Women in Abusive Relationships
