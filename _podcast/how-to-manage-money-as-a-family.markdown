@@ -2,6 +2,12 @@
 title: How to Manage Money as a Family
 date: 2019-10-14 05:00:00 -04:00
 published: false
+lede: This week, Maggie chats with the founder of Smart Money Mamas, Chelsea Brennan,
+  to talk about how to manage money as a household and how to be prepared if there's
+  an emergency.
+image: "/uploads/Chelsea%20Brennan%20Headshot.jpg"
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/9a8d5a0b-6689-472d-a29c-e52465f1f168?dark=false"></iframe>
 ---
 
 xx
