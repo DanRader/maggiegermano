@@ -8,6 +8,10 @@ lede: This week, Maggie chats with the founder of Smart Money Mamas, Chelsea Bre
 image: "/uploads/Chelsea%20Brennan%20Headshot.jpg"
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/9a8d5a0b-6689-472d-a29c-e52465f1f168?dark=false"></iframe>
+podcast:
+- Where to Keep Your Short-Term Savings
+- Managing Financial Anxiety
+- My Biggest Money Mistake
 ---
 
 If you are partnered, married, if you have kids or think you'll have kids someday... even if you just have parents or siblings, this episode is for you! Chelsea Brennan and Maggie talk all about how to manage finances and other important information as a family, as well as planning ahead in case of emergencies. Chelsea makes these difficult topics easy to understand and act on!
