@@ -35,6 +35,8 @@ One of the most damaging
 
 ## Destroying Your Credit
 
+As I've written about in the past, our credit score and credit history can have a big impact on what kinds of opportunities we might have in the future. They determine whether we can get
+
 ## Making Large Purchases Without Consulting You
 
 Of course, every couple is different. You don't necessarily have to run every purchase by your partner, but it is often a good idea to have some ground rules on making big purchases. This is so that if your finances are merged and you have joint financial goals, you'll be able to 
