@@ -19,7 +19,7 @@ Financial abuse is when money is being used as a tool of control or abuse. It ca
 
 ## Withholding Money or Giving an "Allowance"
 
-x
+We all need money in order to get through life and support ourselves. That's why withholding money or giving a restrictive allowance is an easy way to start controlling someone else. If someone makes you rely on them completely for any spending money, they are controlling you and financially abusing you. This is different than having a budget that allows both people to live within their means. This scenario is 
 
 ## Hiding Assets
 
