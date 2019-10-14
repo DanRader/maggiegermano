@@ -15,7 +15,7 @@ posts:
 
 This month is Domestic Violence Awareness Month. As I mentioned [last week](https://www.maggiegermano.com/blog/3-financial-hurdles-that-keep-women-in-abusive-relationships/), 1 in 4 women will experience intimate partner violence in their lives. That's a large segment of our population. And the truth is, when physical and emotional violence are already involved, they typically aren't the only tool of abuse that are being used. In fact, financial abuse is also present in 98 percent of abusive relationships.
 
-Financial abuse is when money is being used as a tool of control or abuse. It can range from subtle to overt, and that's why it can be difficult to identify, even if it's happening to you. 
+Financial abuse is when money is being used as a tool of control or abuse. It can range from subtle to overt, and that's why it can be difficult to identify, even if it's happening to you. If you recognize some of the behaviors below, you might be experiencing financial abuse. 
 
 ## Withholding Money or Giving an "Allowance"
 
@@ -23,7 +23,7 @@ x
 
 ## Hiding Assets
 
-x
+If you're in a partnership and sharing finances, hiding assets 
 
 ## Sabotaging Your Career
 
