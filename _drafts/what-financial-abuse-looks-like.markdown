@@ -31,11 +31,9 @@ x
 
 ## Running Up Debt In Your Name
 
-x
+One of the most damaging 
 
 ## Destroying Your Credit
-
-x
 
 ## Making Large Purchases Without Consulting You
 
