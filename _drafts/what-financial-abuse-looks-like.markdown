@@ -23,7 +23,9 @@ We all need money in order to get through life and support ourselves. That's why
 
 ## Hiding Assets
 
-If you're in a partnership and sharing finances, hiding assets
+If you're in a partnership and sharing finances, hiding assets is a clear violation. It's one thing to have your own separate accounts if you don't want to merge things entirely. It's another thing to hide assets so that your partner has no access to them. Abusers will do this 
+
+**Note:** If you are currently in an abusive relationship, hiding money might be one of your tools for escape. If you need to set aside money secretly in order to save up enough to leave the relationship, do it. Do what you need to do to escape the abusive relationship.
 
 ## Forbidding You From Working
 
@@ -52,5 +54,11 @@ Just like the above example, every couple is different. In my own marriage, I ma
 ## Controlling How Money is Spent
 
 Similar to the above example, some abusers not only monitor spending, but completely control how all money can be spent.
+
+**Other forms of financial abuse:**
+
+* Refusing to pay child support
+
+* Drawing out the divorce process
 
 There are certainly more examples for how financial abuse is used in relationships. And it doesn't only happen within romantic relationships, it can happen in any kind of relationship. Next week, I'll be writing more about how to prepare to get yourself out of this kind of situation. In the meantime, call the [National Domestic Violence Hotline](https://www.thehotline.org/) at 800-799-7233 or TTY 800-787-3224. 
