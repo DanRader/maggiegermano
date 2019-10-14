@@ -51,6 +51,6 @@ Just like the above example, every couple is different. In my own marriage, I ma
 
 ## Controlling How Money is Spent
 
-Similar to the above example, some abusers not only monitor spending, but completely control how all money can be spent. 
+Similar to the above example, some abusers not only monitor spending, but completely control how all money can be spent.
 
-There are certainly more examples for how financial abuse is 
+There are certainly more examples for how financial abuse is used in relationships. And it doesn't only happen within romantic relationships, it can happen in any kind of relationship. Next week, I'll be writing more about how to prepare to get yourself out of this kind of situation. In the meantime, call the [National Domestic Violence Hotline](https://www.thehotline.org/) at 800-799-7233 or TTY 800-787-3224. 
