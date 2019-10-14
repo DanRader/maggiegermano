@@ -37,8 +37,8 @@ One of the most damaging
 
 ## Making Large Purchases Without Consulting You
 
-x
+Of course, every couple is different. You don't necessarily have to run every purchase by your partner, but it is often a good idea to have some ground rules on making big purchases. This is so that if your finances are merged and you have joint financial goals, you'll be able to 
 
-## XX
+## Monitoring Your Spending
 
-2
+Just like the above example, every couple is different. In my own marriage, I manage the finances, which are mostly merged, so I typically can see all of my husbands transactions. This is essential for me so that I can make sure we're staying on budget and can afford to pay our bills. In a financial abuse situation, the abuser would be monitoring spending to the point of control. In this scenario, the victim would be afraid to spend money on anything in case they will get in trouble. 
