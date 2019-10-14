@@ -35,7 +35,7 @@ One of the most damaging
 
 ## Destroying Your Credit
 
-As I've written about in the past, our credit score and credit history can have a big impact on what kinds of opportunities we might have in the future. They determine whether we can get
+As I've written about in the past, our credit score and credit history can have a big impact on what kinds of opportunities we might have in the future. They determine whether we can get a student loan, a mortgage, a car loan, a credit card, an apartment... even a job. So it goes without saying that having a negative credit history can hurt our futures in a big way. That is why damaging a victim's credit is an easy way for an abuser to exert control and harm over their victim. This can look like taking out debt in the victim's name and then defaulting on that debt. It can look like not making payments on bills that are in the victim's name. 
 
 ## Making Large Purchases Without Consulting You
 
