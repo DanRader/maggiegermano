@@ -31,7 +31,7 @@ x
 
 ## Running Up Debt In Your Name
 
-One of the most damaging 
+One of the most damaging forms of financial abuse is when an abuser runs up debt in their victim's name. Even if you're married to someone, the only person truly responsible for debt is the one whose name is on it. In many abusive relationships, the abuser will either take out debt in their victim's name and run up the debt, or they will use their victim's existing accounts and run up their debt.
 
 ## Destroying Your Credit
 
