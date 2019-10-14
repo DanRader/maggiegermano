@@ -25,6 +25,10 @@ x
 
 If you're in a partnership and sharing finances, hiding assets 
 
+## Forbidding You From Working
+
+x
+
 ## Sabotaging Your Career
 
 x
