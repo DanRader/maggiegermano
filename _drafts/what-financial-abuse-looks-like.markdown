@@ -27,11 +27,11 @@ If you're in a partnership and sharing finances, hiding assets
 
 ## Forbidding You From Working
 
-x
+Earning our own money is one of the most important ways to be financially secure and independent. It allows us to save money for our future, invest in the things we value, and support ourselves. Taking away our ability to provide for ourselves is a significant way for an abuser to control and isolate us. Some abusers may completely forbid their victim from working. This might initially show up as not wanting their victim to *have* to work. 
 
 ## Sabotaging Your Career
 
-x
+Related to forbidding a victim from working, some abusers will go as far as sabotaging their victim's career. This can vary in severity. Some abusers might harass their victim while they are at work or prevent them from doing their job in some other way. They might also physically abuse them before important meetings or interviews so that the victim is unable to attend. Again, this tactic is used to keep the victim financially reliant on their abuser, as well as to isolate them from the outside world. 
 
 ## Running Up Debt In Your Name
 
