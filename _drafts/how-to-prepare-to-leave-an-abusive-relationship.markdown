@@ -21,11 +21,11 @@ I've written over the last [two](https://www.maggiegermano.com/blog/3-financial-
 
 ## Understand Your Financial Standing
 
-This is especially important if you are married to your abuser. If you plan to leave the marriage and file for divorce, it's helpful to know the financial facts before you leave, because you can use this information during the divorce proceedings.
+This is especially important if you are married to your abuser. If you plan to leave the marriage and file for divorce, it's helpful to know the financial facts before you leave, because you can use this information during the divorce proceedings to make sure you get your fair share. Make a list of all of your bank accounts (individual and joint), including the account numbers and balances, your credit cards and other debts, and any investment accounts.  It might be even better to get screenshots of the accounts as proof of what is available to you. 
 
 ## Collect Important Documents
 
-Making a fresh start in your life requires you to have access to all of your important documents. Plus, if you want to open new accounts, travel, or apply for loans, you'll need identification. Make a plan to start rounding up documents such as:
+Making a fresh start in your life requires you to have access to all of your important documents. Your identification is a big piece of Plus, if you want to open new accounts, travel, or apply for loans, you'll need identification. Make a plan to start rounding up documents such as:
 
 * Birth certificate and those of your children
 
