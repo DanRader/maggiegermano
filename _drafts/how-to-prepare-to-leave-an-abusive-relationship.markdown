@@ -41,6 +41,8 @@ x
 
 * National Network to End Domestic Violence
 
+* The National Coalition Against Domestic Violence
+
 * [Crisis Text Line](https://www.crisistextline.org/)
 
 * [Safe Horizon](https://www.safehorizon.org/)
