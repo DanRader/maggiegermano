@@ -2,6 +2,12 @@
 title: Saving All Year for Big Expenses
 date: 2019-10-21 05:00:00 -04:00
 published: false
+lede: This week, Maggie is sitting down to talk about saving throughout the year in
+  order to pay for big expenses and purchases.
+podcast:
+- How to Manage Money as a Family
+- Where to Keep Your Short-Term Savings
+- Managing Financial Anxiety
 ---
 
 x
