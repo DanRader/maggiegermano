@@ -5,6 +5,8 @@ categories:
 - lifestyle
 - savings
 image: "/uploads/resi-kling-p2rEruJ3p0Y-unsplash.jpg"
+tweet: If it is time to leave an abusive relationship, here are some steps you can
+  take to prepare.
 posts:
 - What Financial Abuse Looks Like
 - 3 Financial Hurdles That Keep Women in Abusive Relationships
