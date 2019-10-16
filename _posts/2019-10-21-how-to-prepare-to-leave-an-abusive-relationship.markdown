@@ -1,6 +1,7 @@
 ---
 title: How to Prepare to Leave an Abusive Relationship
 date: 2019-10-21 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 - savings
@@ -21,21 +22,39 @@ I've written over the last [two](https://www.maggiegermano.com/blog/3-financial-
 
 ## Understand Your Financial Standing
 
-This is especially important if you are married to your abuser. If you plan to leave the marriage and file for divorce, it's helpful to know the financial facts before you leave, because you can use this information during the divorce proceedings.
+This is especially important if you are married to your abuser. If you plan to leave the marriage and file for divorce, it's helpful to know the financial facts before you leave, because you can use this information during the divorce proceedings to make sure you get your fair share. Make a list of all of your bank accounts (individual and joint), including the account numbers and balances, your credit cards and other debts, and any investment accounts.  It might be even better to get screenshots of the accounts as proof of what is available to you. 
 
 ## Collect Important Documents
 
-If you live with your abuser, it's
+Making a fresh start in your life requires you to have access to all of your important documents. Your identification is a big piece of Plus, if you want to open new accounts, travel, or apply for loans, you'll need identification. Make a plan to start rounding up documents such as:
+
+* Birth certificate and those of your children
+
+* Social security card and those of your children
+
+* Driver's license or other ID
+
+* Passport
+
+* Marriage license
+
+* Car title and registration
+
+* Rental lease agreement or mortgage/deed information
+
+* Bank account numbers
+
+* Investment account numbers
+
+If you don't think you can safely collect these items without your abuser noticing, you should at least take pictures or make copies of them.
 
 ## Start Saving Money
 
-I'm a big believer that money is a key to freedom. In fact, one of the big reasons I decided to start my business is that I want to help women have the financial literacy and resources they need in order to build financial stability so that they can make their own decisions. And as I wrote over the last two weeks, money can be a big hurdle when it comes to getting free from abusive relationships. But as much as you can safely, it's important to start setting aside money and saving it so that you can afford to leave the relationship. It's also important, especially if you're married, to maintain access to shared assets. Open up a bank account in your own name only, preferably at a bank that is not connected to any accounts you share with your abuser.
+I'm a big believer that money is a key to freedom. In fact, one of the big reasons I decided to start my business is that I want to help women have the financial literacy and resources they need in order to build financial stability so that they can make their own decisions. And as I wrote over the last two weeks, money can be a big hurdle when it comes to getting free from abusive relationships. But as much as you can safely, it's important to start setting aside money and saving it so that you can afford to leave the relationship. It's also important, especially if you're married, to maintain access to shared assets. Open up a bank account in your own name only, preferably at a bank that is not connected to any accounts you share with your abuser. Start saving money or moving money from your existing accounts into that account so that only you have access to it.
 
 ## Change Your Passwords
 
-If the passwords on your financial accounts, email accounts, and social media accounts are known by your abuser or saved on devices, it's a good idea to change those passwords. If you leave and your abuser still has access to these important accounts, they could wreak havoc.
-
-Related to this, if you're worried that your abuser is monitoring your computer or phone use, you should try to use devices that they don't have access to. This could be a computer at a public library or the computer or phone of a friend.
+If the passwords on your financial accounts, email accounts, and social media accounts are known by your abuser or saved on devices, it's a good idea to change those passwords. If you leave and your abuser still has access to these important accounts, they could wreak havoc, or worse, track your movements. Change your passwords and remove the password storage option on your accounts. Related to this, if you're worried that your abuser is monitoring your computer or phone use, you should try to use devices that they don't have access to. This could be a computer at a public library or the computer or phone of a friend.
 
 ## Reach Out to Loved Ones
 
@@ -43,7 +62,7 @@ In many abusive relationships, abusers use isolation as a tactic to have complet
 
 ## Contact Advocates
 
-As I mentioned in the beginning of this article, I am not an expert when it comes to leaving abusive relationships.
+As I mentioned in the beginning of this article, I am not an expert when it comes to leaving abusive relationships. It's so important that you have the information, advice, and support that will keep you as safe as possible while you make this decision. If you can, try to involve an expert while you're preparing. See below for organizations that you can reach out to. 
 
 **Resources for support:**
 
