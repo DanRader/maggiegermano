@@ -21,13 +21,21 @@ I've written over the last [two](https://www.maggiegermano.com/blog/3-financial-
 
 This is especially important if you are married to your abuser. If you plan to leave the marriage and file for divorce, it's helpful to know the financial facts before you leave, because you can use this information during the divorce proceedings. 
 
+Collect Important Documents
+
+x
+
 ## Start Saving Money
 
 I'm a big believer that money is a key to freedom. In fact, one of the big reasons I decided to start my business is that I want to help women have the financial literacy and resources they need in order to build financial stability so that they can make their own decisions. And as I wrote over the last two weeks, money can be a big hurdle when it comes to getting free from abusive relationships.  
 
+## Change Your Passwords
+
+If the passwords on your financial accounts, email accounts, and social media accounts are known by your abuser or saved on devices, it's a good idea to change those passwords. If you leave and your abuser still has access to these important accounts, they could wreak havoc. 
+
 ## Reach Out to Loved Ones
 
-x
+In many abusive relationships, abusers use isolation as a tactic to have complete control over their victims. This can often harm relationships that victims had with family members, friends, and other loved ones. If this has happened to you, you might think that your loved ones don't want to hear from you. You might think that they don't want to help you. I guarantee you that there are people out there who miss you, who love you, who are worried about you, and who want to support you. As you're preparing to leave an abusive relationship, start reaching out to your loved ones. Let them know that you miss them, that you love them, that you need them. You might be surprised to learn how many people out there want to help you. This is especially important if you know that you'll need somewhere to stay once you leave. 
 
 ## Contact Advocates
 
