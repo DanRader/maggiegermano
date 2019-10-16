@@ -33,6 +33,8 @@ I'm a big believer that money is a key to freedom. In fact, one of the big reaso
 
 If the passwords on your financial accounts, email accounts, and social media accounts are known by your abuser or saved on devices, it's a good idea to change those passwords. If you leave and your abuser still has access to these important accounts, they could wreak havoc. 
 
+Related to this, if you're worried that your abuser is monitoring your computer or phone use, you should try to use devices that they don't have access to. This could be a computer at a public library or the computer or phone of a friend. 
+
 ## Reach Out to Loved Ones
 
 In many abusive relationships, abusers use isolation as a tactic to have complete control over their victims. This can often harm relationships that victims had with family members, friends, and other loved ones. If this has happened to you, you might think that your loved ones don't want to hear from you. You might think that they don't want to help you. I guarantee you that there are people out there who miss you, who love you, who are worried about you, and who want to support you. As you're preparing to leave an abusive relationship, start reaching out to your loved ones. Let them know that you miss them, that you love them, that you need them. You might be surprised to learn how many people out there want to help you. This is especially important if you know that you'll need somewhere to stay once you leave. Once you contact loved ones, ask several of them if you can contact them if you need a ride, a place to stay, or help contacting the police. To take it one step further, it's recommended that you memorize the phone numbers of a few people in case you don't have access to your cell phone when you need them. 
