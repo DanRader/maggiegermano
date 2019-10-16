@@ -13,9 +13,13 @@ posts:
 
 ***Content warning: **this article makes references to abusive relationships, particularly those where financial abuse is in play. If you are experiencing financial (or any kind of) abuse, there is help out there for you. **You are not alone, and you are not to blame. **You can call the National Domestic Violence Hotline at **1-800-799-SAFE**. Reach out to organizations like **[Purple Purse](http://purplepurse.com/)** and the **[National Network to End Domestic Violence](http://www.womenslaw.org/laws_state_type.php?id=14107&state_code=PG&open_id=all)** for information, resources, and support.*
 
-I want to start this article by saying that I am not an expert when it comes to abusive relationships. I haven't worked in this field and I haven't experienced abusive relationships myself. So I will do my best in this piece, but if I miss the mark, please let me know. If you have additional pieces of advice, please share in the comments. I also want to reiterate that you should reach out to advocates working in this field for additional support. See a list of those resources at the bottom of this piece.
+I want to start this article by saying that I am not an expert when it comes to abusive relationships. I haven't worked in this field and I haven't experienced abusive relationships myself. So I will do my best in this piece, but if I miss the mark, please let me know. If you have additional pieces of advice, please share in the comments. I also want to reiterate that you should reach out to advocates working in this field for additional support. See a list of those resources at the bottom of this piece. Plus, you should always take the actions that you feel will keep you the most safe. If you feel that it's not safe to leave, do what is best for you. And please, please reach out for support. 
 
-I wrote over the last [two](https://www.maggiegermano.com/blog/3-financial-hurdles-that-keep-women-in-abusive-relationships/) [weeks](https://www.maggiegermano.com/blog/what-financial-abuse-looks-like/) about which financial hurdles keep women from leaving abusive relationships and what financial abuse might look like. But this week, I want to talk about strategy when it comes to leaving an abusive relationship. 
+I've written over the last [two](https://www.maggiegermano.com/blog/3-financial-hurdles-that-keep-women-in-abusive-relationships/) [weeks](https://www.maggiegermano.com/blog/what-financial-abuse-looks-like/) about which financial hurdles keep women from leaving abusive relationships and what financial abuse might look like. But this week, I want to talk about strategy when it comes to leaving an abusive relationship. This is not a comprehensive list 
+
+## Understand Your Financial Standing
+
+This is especially important if you are married to your abuser. If you plan to leave the marriage and file for divorce, it's helpful to know the financial facts before you leave, because you can use this information during the divorce proceedings. 
 
 ## Start Saving Money
 
