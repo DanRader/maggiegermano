@@ -27,6 +27,16 @@ This is especially important if you are married to your abuser. If you plan to l
 
 Making a fresh start in your life requires you to have access to all of your important documents. 
 
+* Birth certificate
+
+* Social security card
+
+* Driver's license or other ID
+
+* Passport
+
+* 
+
 ## Start Saving Money
 
 I'm a big believer that money is a key to freedom. In fact, one of the big reasons I decided to start my business is that I want to help women have the financial literacy and resources they need in order to build financial stability so that they can make their own decisions. And as I wrote over the last two weeks, money can be a big hurdle when it comes to getting free from abusive relationships. But as much as you can safely, it's important to start setting aside money and saving it so that you can afford to leave the relationship. It's also important, especially if you're married, to maintain access to shared assets. Open up a bank account in your own name only, preferably at a bank that is not connected to any accounts you share with your abuser. Start saving money or moving money from your existing accounts into that account so that only you have access to it.
