@@ -15,7 +15,7 @@ posts:
 
 I want to start this article by saying that I am not an expert when it comes to abusive relationships. I haven't worked in this field and I haven't experienced abusive relationships myself. So I will do my best in this piece, but if I miss the mark, please let me know. If you have additional pieces of advice, please share in the comments. I also want to reiterate that you should reach out to advocates working in this field for additional support. See a list of those resources at the bottom of this piece. Plus, you should always take the actions that you feel will keep you the most safe. If you feel that it's not safe to leave, do what is best for you. And please, please reach out for support. 
 
-I've written over the last [two](https://www.maggiegermano.com/blog/3-financial-hurdles-that-keep-women-in-abusive-relationships/) [weeks](https://www.maggiegermano.com/blog/what-financial-abuse-looks-like/) about which financial hurdles keep women from leaving abusive relationships and what financial abuse might look like. But this week, I want to talk about strategy when it comes to leaving an abusive relationship. This is not a comprehensive list 
+I've written over the last [two](https://www.maggiegermano.com/blog/3-financial-hurdles-that-keep-women-in-abusive-relationships/) [weeks](https://www.maggiegermano.com/blog/what-financial-abuse-looks-like/) about which financial hurdles keep women from leaving abusive relationships and what financial abuse might look like. But this week, I want to talk about strategy when it comes to leaving an abusive relationship. This is not a comprehensive list, but it's a good place to start. 
 
 ## Understand Your Financial Standing
 
