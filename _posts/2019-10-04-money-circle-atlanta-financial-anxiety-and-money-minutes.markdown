@@ -14,11 +14,11 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 ## **How I Earned Money This Week**
 
-* I spoke at a large corporation in Atlanta on Wednesday. In fact, it was my highest paid speaking gig ever. They paid a deposit a couple weeks ago when we signed the contract, and they paid the remainder of the fee this week. 
+* I spoke at a large corporation in Atlanta on Wednesday. In fact, it was my highest paid speaking gig ever. They paid a deposit a couple weeks ago when we signed the contract, and they paid the remainder of the fee this week.
 
-* One of my ongoing clients paid their monthly fee. 
+* One of my ongoing clients paid their monthly fee.
 
-* We have an Airbnb guest arriving tonight. 
+* We have an Airbnb guest arriving tonight.
 
 * Dan's biweekly paycheck came in on Monday.
 
@@ -26,13 +26,13 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 * Since I was in Atlanta for a day, I paid for a few meals, snacks, public transportation, and my hotel. All of those expenses will be written off when I do my taxes.
 
-* We're running low on Bruno's food, so we ordered more through Chewy, and got him an extra chew bone while we were at it. 
+* We're running low on Bruno's food, so we ordered more through Chewy, and got him an extra chew bone while we were at it.
 
 * I got my hair cut on Tuesday.
 
 * On Monday, I met my friend for coffee, so I bought myself some tea.
 
-* We're going to see Fleabag live tonight at the Shakespeare Theater, and we bought those tickets on Sunday night. 
+* We're going to see Fleabag live tonight at the Shakespeare Theater, and we bought those tickets on Sunday night.
 
 * On Sunday, we bought some groceries to last us through the week.
 
@@ -56,10 +56,10 @@ I'm heading back to Atlanta next week for the [She Podcasts](https://www.shepodc
 
 ## **What I’m Reading**
 
-I'm actively reading two books right now. I started *[Trick Mirror](https://www.goodreads.com/book/show/43126457-trick-mirror)* by Jia Tolentino a few days ago, but last night, I started *[My Sister, The Serial Killer](https://www.goodreads.com/book/show/38819868-my-sister-the-serial-killer)* by Oyinkan Braithwaite because while I really want to read important essays, I am really much more into fiction these days. 
+I'm actively reading two books right now. I started *[Trick Mirror](https://www.goodreads.com/book/show/43126457-trick-mirror)* by Jia Tolentino a few days ago, but last night, I started *[My Sister, The Serial Killer](https://www.goodreads.com/book/show/38819868-my-sister-the-serial-killer)* by Oyinkan Braithwaite because while I really want to read important essays, I am really much more into fiction these days.
 
 ## **Money Tip to Take Into the Weekend**
 
-![Knowledge is power..png](/uploads/Knowledge%20is%20power..png)
+![Knowledge is power.png](/uploads/Knowledge%20is%20power.png)
 
 That’s all from me this week. Have a great weekend!

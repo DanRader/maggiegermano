@@ -5,3 +5,46 @@ categories:
 - founder friday
 ---
 
+Happy Friday, everyone! Here’s what I was up to this past week.
+
+## **How I Earned Money This Week**
+
+* x
+
+* x
+
+## **How I Spent Money This Week**
+
+* x
+
+* x
+
+## **What I’m Writing**
+
+x
+
+## **What I’m Saying**
+
+x
+
+## **What I’m Up To**
+
+* Hello Sunshine
+
+* x
+
+* I’ve created a virtual **[Money Circle membership program](https://maggiegermano.podia.com/inner-circle)**! If you are not located in the DC area, or if you just want more connection through Money Circle, this program is for you. There are 3 tiers that offer different options at different price points. There is a group coaching component and even a level that lets you check in with me every month. **[Sign up today!](https://maggiegermano.podia.com/inner-circle)**
+
+## **What I’m Excited About**
+
+x
+
+## **What I’m Reading**
+
+x
+
+## **Money Tip to Take Into the Weekend**
+
+x
+
+That’s all from me this week. Have a great weekend!
