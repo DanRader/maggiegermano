@@ -23,7 +23,7 @@ This is especially important if you are married to your abuser. If you plan to l
 
 ## Collect Important Documents
 
-x
+If you live with your abuser, it's 
 
 ## Start Saving Money
 
