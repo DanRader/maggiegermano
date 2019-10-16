@@ -43,7 +43,7 @@ In many abusive relationships, abusers use isolation as a tactic to have complet
 
 ## Contact Advocates
 
-As I mentioned in the beginning of this article, I am not an expert when it comes to leaving abusive relationships.
+As I mentioned in the beginning of this article, I am not an expert when it comes to leaving abusive relationships. It's so important that you have the information, advice, and support that will keep you as safe as possible while you make this decision. If you can, try to involve an expert while you're preparing. See below for organizations that you can reach out to. 
 
 **Resources for support:**
 
