@@ -27,9 +27,9 @@ This is especially important if you are married to your abuser. If you plan to l
 
 Making a fresh start in your life requires you to have access to all of your important documents. 
 
-* Birth certificate
+* Birth certificate and those of your children
 
-* Social security card
+* Social security card and those of your children
 
 * Driver's license or other ID
 
