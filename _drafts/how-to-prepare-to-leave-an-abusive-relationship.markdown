@@ -39,7 +39,7 @@ Making a fresh start in your life requires you to have access to all of your imp
 
 * Car title and registration
 
-* 
+* Rental lease agreement or mortgage/deed information
 
 * Bank account numbers
 
