@@ -39,7 +39,9 @@ Making a fresh start in your life requires you to have access to all of your imp
 
 * Car title and registration
 
-* 
+* Bank account numbers
+
+* Investment account numbers
 
 If you don't think you can safely collect these items without your abuser noticing, you should at least take pictures or make copies of them.
 
