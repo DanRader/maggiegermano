@@ -25,7 +25,7 @@ This is especially important if you are married to your abuser. If you plan to l
 
 ## Collect Important Documents
 
-Making a fresh start in your life requires you to have 
+Making a fresh start in your life requires you to have access to all of your important documents. 
 
 ## Start Saving Money
 
