@@ -43,13 +43,13 @@ As I mentioned in the beginning of this article, I am not an expert when it come
 
 **Resources for support:**
 
-* The National Domestic Violence Hotline
+* [The National Domestic Violence Hotline](https://www.thehotline.org/)
 
-* Purple Purse Foundation
+* [Purple Purse](https://www.purplepurse.com/)
 
-* National Network to End Domestic Violence
+* [National Network to End Domestic Violence](https://nnedv.org/)
 
-* The National Coalition Against Domestic Violence
+* [The National Coalition Against Domestic Violence](https://www.ncadv.org/)
 
 * [Crisis Text Line](https://www.crisistextline.org/)
 
@@ -57,4 +57,4 @@ As I mentioned in the beginning of this article, I am not an expert when it come
 
 * [LoveIsRespect](https://www.loveisrespect.org/)
 
-* x
+* Find [shelters in your state](https://www.womenslaw.org/find-help/advocates-and-shelters)
