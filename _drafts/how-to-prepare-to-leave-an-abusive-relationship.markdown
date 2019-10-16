@@ -1,6 +1,9 @@
 ---
 title: How to Prepare to Leave an Abusive Relationship
 date: 2019-10-21 11:00:00 -04:00
+categories:
+- lifestyle
+- savings
 image: "/uploads/resi-kling-p2rEruJ3p0Y-unsplash.jpg"
 posts:
 - What Financial Abuse Looks Like
