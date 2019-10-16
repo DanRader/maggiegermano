@@ -19,7 +19,7 @@ I wrote over the last [two](https://www.maggiegermano.com/blog/3-financial-hurdl
 
 ## Start Saving Money
 
-x
+I'm a big believer that money is a key to freedom. In fact, one of the big reasons I decided to start my business is that I want to help women have the financial literacy and resources they need in order to build financial stability so that they can make their own decisions. And as I wrote over the last two weeks, money can be a big hurdle when it comes to getting free from abusive relationships.  
 
 ## Reach Out to Loved Ones
 
