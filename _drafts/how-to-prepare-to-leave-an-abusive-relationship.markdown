@@ -25,7 +25,7 @@ This is especially important if you are married to your abuser. If you plan to l
 
 ## Collect Important Documents
 
-Making a fresh start in your life requires you to have access to all of your important documents. 
+Making a fresh start in your life requires you to have access to all of your important documents. Plus, if you want to open new accounts, travel, or apply for loans, you'll need identification. Make a plan to start rounding up documents such as:
 
 * Birth certificate and those of your children
 
@@ -35,7 +35,13 @@ Making a fresh start in your life requires you to have access to all of your imp
 
 * Passport
 
+* Marriage license
+
+* Car title and registration
+
 * 
+
+If you don't think you can safely collect these items without your abuser noticing, you should at least take pictures or make copies of them.
 
 ## Start Saving Money
 
