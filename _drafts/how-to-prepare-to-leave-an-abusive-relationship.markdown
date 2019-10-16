@@ -33,9 +33,7 @@ I'm a big believer that money is a key to freedom. In fact, one of the big reaso
 
 ## Change Your Passwords
 
-If the passwords on your financial accounts, email accounts, and social media accounts are known by your abuser or saved on devices, it's a good idea to change those passwords. If you leave and your abuser still has access to these important accounts, they could wreak havoc.
-
-Related to this, if you're worried that your abuser is monitoring your computer or phone use, you should try to use devices that they don't have access to. This could be a computer at a public library or the computer or phone of a friend.
+If the passwords on your financial accounts, email accounts, and social media accounts are known by your abuser or saved on devices, it's a good idea to change those passwords. If you leave and your abuser still has access to these important accounts, they could wreak havoc, or worse, track your movements. Change your passwords and remove the password storage option on your accounts. Related to this, if you're worried that your abuser is monitoring your computer or phone use, you should try to use devices that they don't have access to. This could be a computer at a public library or the computer or phone of a friend.
 
 ## Reach Out to Loved Ones
 
