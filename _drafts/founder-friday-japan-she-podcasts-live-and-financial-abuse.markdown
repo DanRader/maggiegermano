@@ -17,6 +17,8 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 * x
 
+* We're leaving for Peru in 3 weeks from today! (!!!) Most of our trip has been booked and paid for already, but I finally booked our roundtrip flight from Lima to Cusco yesterday.
+
 * 
 
 * x
@@ -43,7 +45,9 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 ## **What I’m Excited About**
 
-x
+* Last week, Dan and I booked our flights to go to Japan in January! There is a graphic design conference happening in Tokyo in late January, so we're taking advantage and adding a vacation to it. Dan has wanted to go to Japan for basically his whole life and we're both very excited to finally see it. If you've been there and have recommendations, send them my way!
+
+* As I mentioned above, we're going to Peru in 3 weeks! I've been dying to see Peru for a decade, and I'm so excited that it's finally happening. If you have recommendations, send them my way!
 
 ## **What I’m Reading**
 
