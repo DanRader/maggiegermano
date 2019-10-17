@@ -55,6 +55,6 @@ I'm like five pages away from finishing *[Stay Sexy & Don't Get Murdered](https:
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![Using money as a weapon is abuse.png](/uploads/Using%20money%20as%20a%20weapon%20is%20abuse.png)
 
 That’s all from me this week. Have a great weekend!
