@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Japan, She Podcasts Live, and Financial Abuse
 date: 2019-10-18 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/manuel-cosentino-n--CMLApjfI-unsplash.jpg"
@@ -38,13 +39,13 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 * This week, [on my blog](https://www.maggiegermano.com/blog/what-financial-abuse-looks-like/), I wrote about the ways that financial abuse can show up in abusive relationships.
 
-* On my ForbesWomen column, I wrote about the economic impact of financial abuse.
+* On my [ForbesWomen column](https://www.forbes.com/sites/maggiegermano/2019/10/17/domestic-violence-has-a-financial-impact-too/), I wrote about the economic impact of financial abuse.
 
 ## **What I’m Saying**
 
 * This week, on the [Money Circle podcast](https://www.maggiegermano.com/podcast/how-to-manage-money-as-a-family/), I chatted with Chelsea Brennan of [Smart Money Mamas](https://smartmoneymamas.com/) about how to manage money as a family. It was a fun conversation that I think anyone would benefit from. Bonus: make sure that you sign up for Chelsea's [Mamas Talk Money Summit](https://mamastalkmoney.com/) that is opening next week!
 
-* I was at She Podcasts Live in Atlanta last weekend and had a great time and met a lot of amazing women. One of those women was [Meg Wheeler](https://megkwheeler.com/) of the [One for Womankind podcast](https://oneforwomen.com/podcast/). I got in a recording booth with her and Brianna Wilkerson of [Made Well](http://www.madewell345.com/) to talk about our takeaways of the conference and [that episode](https://oneforwomen.com/2019/10/16/she-podcasts-live/) went live today. 
+* I was at She Podcasts Live in Atlanta last weekend and had a great time and met a lot of amazing women. One of those women was [Meg Wheeler](https://megkwheeler.com/) of the [One for Womankind podcast](https://oneforwomen.com/podcast/). I got in a recording booth with her and Brianna Wilkerson of [Made Well](http://www.madewell345.com/) to talk about our takeaways of the conference and [that episode](https://oneforwomen.com/2019/10/16/she-podcasts-live/) went live today.
 
 ## **What I’m Up To**
 
