@@ -17,11 +17,15 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 * x
 
+* 
+
 * x
 
 ## **What I’m Writing**
 
-x
+* This week, on my blog, I wrote about the ways that financial abuse can show up in abusive relationships.
+
+* On my ForbesWomen column, I wrote about the economic impact of financial abuse.
 
 ## **What I’m Saying**
 
