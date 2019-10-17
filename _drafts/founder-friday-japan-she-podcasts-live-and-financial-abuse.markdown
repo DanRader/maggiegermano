@@ -51,7 +51,7 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 ## **What I’m Reading**
 
-x
+I'm like five pages away from finishing *[Stay Sexy & Don't Get Murdered](https://www.goodreads.com/book/show/41068144-stay-sexy-don-t-get-murdered)* by Georgia Hardstark and Karen Kilgariff. It has actually been a lovely read, mostly filled with their own experiences and how they've been shaped into who they are today. Once I'm done with that, I'm going to go back to *[My Sister, the Serial Killer](https://www.goodreads.com/book/show/38819868-my-sister-the-serial-killer?ac=1&from_search=true)* by Oyinkan Braithwaite.
 
 ## **Money Tip to Take Into the Weekend**
 
