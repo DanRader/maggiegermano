@@ -25,7 +25,9 @@ x
 
 ## **What I’m Saying**
 
-x
+* money circle
+
+* one with womankind
 
 ## **What I’m Up To**
 
