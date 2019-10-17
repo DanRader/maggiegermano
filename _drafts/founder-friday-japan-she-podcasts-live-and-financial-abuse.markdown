@@ -14,9 +14,13 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 ## **How I Earned Money This Week**
 
-* x
+* Dan's bi-weekly paycheck was deposited on Tuesday.
 
-* x
+* We have had two different Airbnb guests.
+
+* One of my retainer clients paid their monthly fee.
+
+* Two of my ongoing coaching clients paid their monthly fees.
 
 ## **How I Spent Money This Week**
 
