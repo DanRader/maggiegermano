@@ -26,11 +26,13 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 * On Sunday, I was traveling from Atlanta back to Maryland, so I spent some money on snacks and food throughout the day. I also paid to visit the [Atlanta Botanical Garden](https://atlantabg.org/) in the afternoon before my flight. If you haven't been there, I recommend it! It was really cool.
 
+* On Monday, I noticed that we were running low on a few things for the Airbnb, so I bought more candy, body wash, and air freshener.
+
 * We're leaving for Peru in 3 weeks from today! (!!!) Most of our trip has been booked and paid for already, but I finally booked our roundtrip flight from Lima to Cusco yesterday.
 
-* 
+* We're hosting a Halloween party at our house this year, and requiring that people dress up, so we are working on our own costumes. We ordered a couple things to finalize those costumes.
 
-* x
+* Today, I met up with my friend Liz to catch up over coffee and tea. I bought myself some tea and a snack.
 
 ## **What I’m Writing**
 
