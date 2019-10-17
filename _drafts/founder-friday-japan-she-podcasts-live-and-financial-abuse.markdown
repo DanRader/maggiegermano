@@ -24,7 +24,7 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 ## **How I Spent Money This Week**
 
-* x
+* On Sunday, I was traveling from Atlanta back to Maryland, so I spent some money on snacks and food throughout the day. I also paid to visit the [Atlanta Botanical Garden](https://atlantabg.org/) in the afternoon before my flight. If you haven't been there, I recommend it! It was really cool.
 
 * We're leaving for Peru in 3 weeks from today! (!!!) Most of our trip has been booked and paid for already, but I finally booked our roundtrip flight from Lima to Cusco yesterday.
 
