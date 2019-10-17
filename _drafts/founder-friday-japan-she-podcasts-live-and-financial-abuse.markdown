@@ -4,6 +4,10 @@ date: 2019-10-18 14:00:00 -04:00
 categories:
 - founder friday
 image: "/uploads/manuel-cosentino-n--CMLApjfI-unsplash.jpg"
+posts:
+- Founder Friday | Boston College, Retirement, and Self Care
+- Founder Friday | Speaking, ShePodcasts, and Independence
+- Founder Friday | Maine, Online Banking, and Home Improvement
 ---
 
 Happy Friday, everyone! Here’s what I was up to this past week.
