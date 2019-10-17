@@ -34,21 +34,21 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 ## **What I’m Writing**
 
-* This week, on my blog, I wrote about the ways that financial abuse can show up in abusive relationships.
+* This week, [on my blog](https://www.maggiegermano.com/blog/what-financial-abuse-looks-like/), I wrote about the ways that financial abuse can show up in abusive relationships.
 
 * On my ForbesWomen column, I wrote about the economic impact of financial abuse.
 
 ## **What I’m Saying**
 
-* money circle
+* This week, on the [Money Circle podcast](https://www.maggiegermano.com/podcast/how-to-manage-money-as-a-family/), I chatted with Chelsea Brennan of [Smart Money Mamas](https://smartmoneymamas.com/) about how to manage money as a family. It was a fun conversation that I think anyone would benefit from. Bonus: make sure that you sign up for Chelsea's [Mamas Talk Money Summit](https://mamastalkmoney.com/) that is opening next week!
 
-* one with womankind
+* I was at She Podcasts Live in Atlanta last weekend and had a great time and met a lot of amazing women. One of those women was [Meg Wheeler](https://megkwheeler.com/) of the [One for Womankind podcast](https://oneforwomen.com/podcast/). I got in a recording booth with her and Brianna Wilkerson of [Made Well](http://www.madewell345.com/) to talk about our takeaways of the conference and [that episode](https://oneforwomen.com/2019/10/16/she-podcasts-live/) went live today. 
 
 ## **What I’m Up To**
 
 * I was Googling myself the other day to find the podcasts that I've been interviewed on and I found a piece I submitted to Reese Witherspoon's site, [Hello Sunshine](https://hello-sunshine.com/)! I submitted this piece last year and never heard back, so I figured they weren't interested. Turns out, [they published it](https://hello-sunshine.com/post/why-money-is-a-feminist-issue-and-what-im-doing-about-it)!
 
-* x
+* I'm doing some thinking about what topics I want to cover in upcoming Money Circle meetups in Washington, DC. Send your preferences in [this form](https://docs.google.com/forms/d/e/1FAIpQLSd9h1xvbIg9UctjkOCfY7hWgAz5O1lOn07xX6ztEyiE3r96Uw/viewform?usp=sf_link)!
 
 * I’ve created a virtual [Money Circle membership program](https://maggiegermano.podia.com/inner-circle)! If you are not located in the DC area, or if you just want more connection through Money Circle, this program is for you. There are 3 tiers that offer different options at different price points. There is a group coaching component and even a level that lets you check in with me every month. [Sign up today!](https://maggiegermano.podia.com/inner-circle)
 
