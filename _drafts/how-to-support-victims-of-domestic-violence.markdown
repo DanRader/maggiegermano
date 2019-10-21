@@ -11,3 +11,16 @@ posts:
 - 3 Financial Hurdles That Keep Women in Abusive Relationships
 ---
 
+xx
+
+## Show Your Friends They Can Come to You
+
+xx
+
+## Donate to Advocacy Organizations
+
+xx
+
+## Volunteer at a Shelter
+
+xx
