@@ -1,16 +1,51 @@
 ---
 title: Saving All Year for Big Expenses
 date: 2019-10-21 05:00:00 -04:00
-published: false
 lede: This week, Maggie is sitting down to talk about saving throughout the year in
   order to pay for big expenses and purchases.
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/79c0b15c-5319-4d88-a7e1-92ab92e7b0f8?dark=false"></iframe>
 podcast:
 - How to Manage Money as a Family
 - Where to Keep Your Short-Term Savings
 - Managing Financial Anxiety
 ---
 
-x
+This week, Maggie is talking about saving throughout the year so that you can afford bigger purchases. This is also what is known as creating “sinking funds”. You can do this for lots of different expenses and purchases:
+
+* Annual or quarterly expenses such as:
+
+  * Car insurance
+
+  * Annual fees
+
+  * Renter’s insurance
+
+  * Taxes
+
+  * Water bill\
+
+* Travel
+
+  * Holiday travel
+
+  * Weekend trips
+
+  * Big vacations
+
+* Shopping
+
+  * Holiday gifts
+
+  * Birthday gifts
+
+  * Wardrobe refreshes (mention my client)
+
+  * Expensive purchases
+
+    * A car
+
+    * A laptop
 
 --
 
@@ -48,11 +83,11 @@ The theme music is called Escaping Light by Aaron Sprinkle. The podcast artwork 
 
 **Maggie Germano: 06:40** I was very frustrated with that and now I've decided as something a lot of my clients do is to create a separate checking account that is just for bills and have my monthly savings amount for my annual and quarterly expenses go into that checking account and then set up all the payment accounts to come out of there. So there's always going to be enough money in that account for those expenses because I'm saving for them regularly so that you know, if it does come out when I'm not thinking about it or if it comes out a little early than I won't be overdraft during the are, I won't be taking money away from something else. So that's a new strategy I'm going to be personally putting into place. So if you're worried about having to remember to transfer money from your savings account to your checking account when those bills are due, then setting it up in a separate account that you can be direct depositing into or manually moving that money into every month.
 
-**Maggie Germano: 07:36 **That's a great way to approach it. And so as I started to mention, a great way to do this is by setting up direct deposit. So once you've added up all of those, uh, annual and quarterly expenses and you know exactly how much that will be on a monthly basis, you can set it up so that either your employer has the direct deposit amount going into that separate account or you have, you know, you can set up to have your bank do that for you automatically. So it's up to you and kind of what your circumstances. So those are kind of like the bills and the expenses that you have to be thinking about and planning for. But there are other things that you might want to be thinking about saving up for throughout the year or over a course of years. So that could be things like travel.
+\*\*Maggie Germano: 07:36 \*\*That's a great way to approach it. And so as I started to mention, a great way to do this is by setting up direct deposit. So once you've added up all of those, uh, annual and quarterly expenses and you know exactly how much that will be on a monthly basis, you can set it up so that either your employer has the direct deposit amount going into that separate account or you have, you know, you can set up to have your bank do that for you automatically. So it's up to you and kind of what your circumstances. So those are kind of like the bills and the expenses that you have to be thinking about and planning for. But there are other things that you might want to be thinking about saving up for throughout the year or over a course of years. So that could be things like travel.
 
 **Maggie Germano: 08:18** So it could be holiday travel, whether you know you like to go home for Thanksgiving or Christmas or Hanukkah or Passover or Easter, whatever it might be. If you know that you like to be traveling or uni or expected to be traveling home or somewhere else for those sorts of holidays, thinking about how much that typically costs you and planning for that and saving up for that over the course of the year. That could also include just normal family visits that you might want to take. So if you really do prioritize seeing your family and you want to be home for certain birthdays or anniversaries or what have you, building that into your annual plan and your savings plan so that you always have that cash saved up is going to be really helpful and actually make it possible for you to do that more often and take a lot of that stress out of it.
 
-**Maggie Germano: 09:06 **And that can also apply to fun weekend trips that you might want to be taking with friends or family or big vacations. Like if you know that you want to go on an international trip once a year or a big domestic trip once a year, whatever it might be, whatever your priority is, get clear on what those numbers might be like. Do some research on how much those kinds of things cost, how much you might want to have in order to feel like you can have a good time and set it up so that you're saving for that trip over the whole entire year or over a couple of years. If you know it's going to be a couple of years before you can afford that huge trip, start saving now. It's not gonna hurt you to set that money aside. It's only going to help you. So something that my husband and I do is we have direct deposit set up through his work since he's the one who has a paycheck coming versus with me where it's a little bit more of a, a drip from the different clients.
+\*\*Maggie Germano: 09:06 \*\*And that can also apply to fun weekend trips that you might want to be taking with friends or family or big vacations. Like if you know that you want to go on an international trip once a year or a big domestic trip once a year, whatever it might be, whatever your priority is, get clear on what those numbers might be like. Do some research on how much those kinds of things cost, how much you might want to have in order to feel like you can have a good time and set it up so that you're saving for that trip over the whole entire year or over a couple of years. If you know it's going to be a couple of years before you can afford that huge trip, start saving now. It's not gonna hurt you to set that money aside. It's only going to help you. So something that my husband and I do is we have direct deposit set up through his work since he's the one who has a paycheck coming versus with me where it's a little bit more of a, a drip from the different clients.
 
 **Maggie Germano: 10:01** We have it set up so that from every paycheck, I think it's $125 per paycheck of his goes into our travel account. And so that makes it so that we're automatically saving $250 a month into our travel accounts. So now we're going to Peru in November and we're going to Japan in January. And a lot of that is going to be covered by some rewards points that we have and he's, Japan is a partially a work trip so some of that's going to be covered by work for him. But you know, we still will need a lot of cash on hand to be paying for a lot of the things we want to do in these places. So the fact that we already have like $2,500 in there because we've been saving consistently is a huge leg up and it takes a lot of this stress and worry out of what we're, how we're going to be able to pay for it and it's going to let us have fun with it.
 
@@ -62,7 +97,7 @@ The theme music is called Escaping Light by Aaron Sprinkle. The podcast artwork 
 
 **Maggie Germano: 12:44** So if you have a certain amount of money that you like to budget for spending on different gifts, figure out how many gifts over the course of the year you want to be buying for people. When are those anniversaries, when are those birthdays, and how much do you want to be spending on those things and for how many people, so make a list of who those priority gift receivers are and what is that budget and so how much does that add up to over the course of the year and then divide it up again by 12 and make sure that you're saving that every single month. Another shopping thing that you might want to be planning for throughout the year is something like a wardrobe refresh. I was talking to a client the other day who realized that refreshing her wardrobe for fall and buying a new jacket, buying some boots and buying a nice cozy sweater really revived her as she was moving into the fall season where it's a little colder, it's a little more dreary, and she realized that that's something that really brings a lot of joy to her and it's something that she really cares about.
 
-**Maggie Germano: 13:51 **And we talked a little bit about, you know, some of the guilt and shame that kind of comes up with prioritizing that sort of thing, but that's for a different podcast. But the truth is if something is valuable to you, if something is important, if it makes you feel better, if it makes you feel happy, then there's nothing wrong with prioritizing that in your budget. The whole point though is to make sure that you're building it into your budget to make sure that you can afford it, that you're making decisions so that you can afford it when it's time and you don't end up going into debt and kind of making your life a little bit harder. So if going on a shopping excursion for every season is really important to you, come up with a number that makes sense so that you can say, you know, every season, so quarterly, I'm going to spend $300 on a couple new things for my wardrobe because it makes me feel good and I love it.
+\*\*Maggie Germano: 13:51 \*\*And we talked a little bit about, you know, some of the guilt and shame that kind of comes up with prioritizing that sort of thing, but that's for a different podcast. But the truth is if something is valuable to you, if something is important, if it makes you feel better, if it makes you feel happy, then there's nothing wrong with prioritizing that in your budget. The whole point though is to make sure that you're building it into your budget to make sure that you can afford it, that you're making decisions so that you can afford it when it's time and you don't end up going into debt and kind of making your life a little bit harder. So if going on a shopping excursion for every season is really important to you, come up with a number that makes sense so that you can say, you know, every season, so quarterly, I'm going to spend $300 on a couple new things for my wardrobe because it makes me feel good and I love it.
 
 **Maggie Germano: 14:47** If that's important to you, do it because then if, say for the example $300 times four, that's $1,200 so that's $100 a month that you'd have to set aside for that sort of expense. And if you look at your budget and you're like, there's absolutely no way I can actually afford that, then maybe you need to sit down and see what's a little bit more realistic and reasonable for you. But if you see that just setting aside $100 a month would save you a lot of stress and overwhelm or debt. When you get to the season where you do want to spend $300 then that actually will probably save you money and stress over time. Figure that out. If it's something that's important to you and again, figure out what's realistic. You know, you might start with one number and it's too much or you might look at it and be like, actually there are places that I can cut in order to make this happen.
 
