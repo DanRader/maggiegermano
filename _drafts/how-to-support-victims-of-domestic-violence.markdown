@@ -38,4 +38,4 @@ Find a [domestic violence shelter](https://www.womenslaw.org/find-help/advocates
 
 ## Speak Up
 
-Violence, including domestic violence, thrives in silence.
+Violence, including domestic violence, thrives in silence. 
