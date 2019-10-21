@@ -3,6 +3,7 @@ title: Saving All Year for Big Expenses
 date: 2019-10-21 05:00:00 -04:00
 lede: This week, Maggie is sitting down to talk about saving throughout the year in
   order to pay for big expenses and purchases.
+image: "/uploads/DSC_5030%20copy.jpg"
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/79c0b15c-5319-4d88-a7e1-92ab92e7b0f8?dark=false"></iframe>
 podcast:
@@ -23,7 +24,7 @@ This week, Maggie is talking about saving throughout the year so that you can af
 
   * Taxes
 
-  * Water bill\
+  * Water bill
 
 * Travel
 
