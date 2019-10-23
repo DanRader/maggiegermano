@@ -1,10 +1,13 @@
 ---
 title: How to Support Victims of Domestic Violence
 date: 2019-10-28 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 - budget
 image: "/uploads/kat-yukawa-K0E6E0a0R3A-unsplash.jpg"
+tweet: 'Do you want to do your part to support victims of violence? Here are a few
+  ways to start. '
 posts:
 - Fight White Supremacy with Your Wallet and Your Voice
 - What Financial Abuse Looks Like
