@@ -47,7 +47,7 @@ According to the [HHS](https://www.acf.hhs.gov/fysb/resource/dv-homelessness-sta
 
 These stats are why it's so important to donate to the above organizations and shelters. However, if you can't afford to donate your own money, consider donating your time. 
 
-Find a [domestic violence shelter](https://www.womenslaw.org/find-help/advocates-and-shelters) in your area. If you live in the DC area, consider volunteering at [N Street Village](https://www.nstreetvillage.org/).
+*Find a [domestic violence shelter](https://www.womenslaw.org/find-help/advocates-and-shelters) in your area. If you live in the DC area, consider volunteering at [N Street Village](https://www.nstreetvillage.org/).*
 
 ## Speak Up
 
