@@ -17,11 +17,11 @@ As I've mentioned over the past several weeks, October is Domestic Violence Awar
 
 ## Show Your Friends That They Can Come to You
 
-One of the reasons that people can feel trapped in an abusive relationship is that they have become isolated from their loved ones. They might feel like they have no one to turn to. In many cases, that is by the abuser's design. If someone feels alone and isolated, they might feel like their abuser is the only person they have, thus keeping them in the relationship. But if a victim knows that there are people to turn to, they may be more likely to leave when they decide to. If you have friends who might be in abusive relationships, even if you've become distanced from them, let them know if they can rely on you. Make it clear that you are sympathetic to abuse victims and won't blame them for their circumstances. You never know when they might need you. 
+One of the reasons that people can feel trapped in an abusive relationship is that they have become isolated from their loved ones. They might feel like they have no one to turn to. In many cases, that is by the abuser's design. If someone feels alone and isolated, they might feel like their abuser is the only person they have, thus keeping them in the relationship. But if a victim knows that there are people to turn to, they may be more likely to leave when they decide to. If you have friends who might be in abusive relationships, even if you've become distanced from them, let them know if they can rely on you. Make it clear that you are sympathetic to abuse victims and won't blame them for their circumstances. You never know when they might need you.
 
 ## Donate to Advocacy Organizations
 
-There are so many organizations out there that exist to help abuse victims, either by advocating for policy, providing services, or raising awareness. These organizations are often nonprofits that only survive because of generous donations. 
+There are so many organizations out there that exist to help abuse victims, either by advocating for policy, providing services, or raising awareness. These organizations are often nonprofits that only survive because of generous donations.
 
 Here are just a few wonderful organizations to start with:
 
@@ -43,19 +43,12 @@ Here are just a few wonderful organizations to start with:
 
 ## Volunteer at a Shelter
 
-xx
+According to the [HHS](https://www.acf.hhs.gov/fysb/resource/dv-homelessness-stats-2016), in just one day in 2015, over 31,500 adults and children fleeing domestic violence found refuge in a domestic violence emergency shelter or transitional housing program. On that same day, these programs were unable to meet over 12,000 requests for services due to lack of funding, staffing or other resources. Furthermore, emergency shelter and transitional housing continue to be the most urgent unmet needs for domestic violence survivors.
 
-In just one day in 2015, over 31,500 adults and children fleeing domestic violence found refuge in a domestic violence emergency shelter or transitional housing program.
+These stats are why it's so important to donate to the above organizations and shelters. However, if you can't afford to donate your own money, consider donating your time. 
 
-* That same day, domestic violence programs were unable to meet over 12,197 requests for services because of a lack of funding, staffing, or other resources.
-
-
-* Sixty-three percent (7,728) of unmet requests were for housing. Emergency shelter and transitional housing continue to be the most urgent unmet needs for domestic violence survivors.
-
-[https://www.acf.hhs.gov/fysb/resource/dv-homelessness-stats-2016](https://www.acf.hhs.gov/fysb/resource/dv-homelessness-stats-2016)
-
-Find a [domestic violence shelter](https://www.womenslaw.org/find-help/advocates-and-shelters) in your area. If you live in the DC area, consider volunteering at [N Street Village](https://www.nstreetvillage.org/). 
+*Find a [domestic violence shelter](https://www.womenslaw.org/find-help/advocates-and-shelters) in your area. If you live in the DC area, consider volunteering at [N Street Village](https://www.nstreetvillage.org/).*
 
 ## Speak Up
 
-Violence, including domestic violence, thrives in silence.
+Violence, including domestic violence, thrives in silence. It's important to speak up against
