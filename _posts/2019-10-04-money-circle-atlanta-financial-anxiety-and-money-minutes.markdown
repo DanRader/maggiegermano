@@ -1,5 +1,5 @@
 ---
-title: Money Circle | Atlanta, Financial Anxiety, and Money Minutes
+title: Founder Friday | Atlanta, Financial Anxiety, and Money Minutes
 date: 2019-10-04 14:00:00 -04:00
 categories:
 - founder friday
