@@ -21,7 +21,7 @@ One of the reasons that people can feel trapped in an abusive relationship is th
 
 ## Donate to Advocacy Organizations
 
-There are so many organizations out there that exist to help abuse victims, either by advocating for policy, providing services, or raising awareness. These organizations are often nonprofits that only survive because of generous donations.
+There are so many organizations out there that exist to help abuse victims, either by advocating for policy, providing services, or raising awareness. These organizations are often nonprofits that only survive because of generous donations. If you want to help and you have the financial resources to do so, consider building donations into your monthly or annual budget. 
 
 Here are just a few wonderful organizations to start with:
 
@@ -45,7 +45,7 @@ Here are just a few wonderful organizations to start with:
 
 According to the [HHS](https://www.acf.hhs.gov/fysb/resource/dv-homelessness-stats-2016), in just one day in 2015, over 31,500 adults and children fleeing domestic violence found refuge in a domestic violence emergency shelter or transitional housing program. On that same day, these programs were unable to meet over 12,000 requests for services due to lack of funding, staffing or other resources. Furthermore, emergency shelter and transitional housing continue to be the most urgent unmet needs for domestic violence survivors.
 
-These stats are why it's so important to donate to the above organizations and shelters. However, if you can't afford to donate your own money, consider donating your time. 
+These stats are why it's so important to donate to the above organizations and shelters. However, if you can't afford to donate your own money, consider donating your time. For a couple
 
 *Find a [domestic violence shelter](https://www.womenslaw.org/find-help/advocates-and-shelters) in your area. If you live in the DC area, consider volunteering at [N Street Village](https://www.nstreetvillage.org/).*
 
