@@ -19,6 +19,8 @@ As I've mentioned over the past several weeks, October is Domestic Violence Awar
 
 xx
 
+One of the reasons that people can feel trapped in an abusive relationship is that they have become isolated from their loved ones. They might feel like they have no one to turn to. If you have friends who might be in abusive relationships, even if you've become distanced from them, let them know if they can rely on you. You never know when they might need you.
+
 ## Donate to Advocacy Organizations
 
 xx
