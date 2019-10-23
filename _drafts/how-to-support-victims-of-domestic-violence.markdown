@@ -11,6 +11,8 @@ posts:
 - 3 Financial Hurdles That Keep Women in Abusive Relationships
 ---
 
+***Content warning: **this article makes references to abusive relationships, particularly those where financial abuse is in play. If you are experiencing financial (or any kind of) abuse, there is help out there for you. You are not alone, and you are not to blame.You can call the National Domestic Violence Hotline at**1-800-799-SAFE**. Reach out to organizations like **[Purple Purse](http://purplepurse.com/)** and the **[National Network to End Domestic Violence](http://www.womenslaw.org/laws_state_type.php?id=14107&state_code=PG&open_id=all)** for information, resources, and support.*
+
 As I've mentioned over the past several weeks, October is Domestic Violence Awareness Month. This month is not the only time that we should be fighting domestic violence, but it is a good time to really bring it to the forefront of people's minds. But just in case you want to continue doing your part in understanding domestic violence, reducing its prevalence, and helping survivors, this article is for you. It's all about what YOU can do to support victims of domestic violence. This can be in the form of money, or time, or energy. It's up to you to decide how you can contribute, but here are some ways to start.
 
 ## Show Your Friends That They Can Come to You
@@ -38,4 +40,4 @@ Find a [domestic violence shelter](https://www.womenslaw.org/find-help/advocates
 
 ## Speak Up
 
-Violence, including domestic violence, thrives in silence. 
+Violence, including domestic violence, thrives in silence.
