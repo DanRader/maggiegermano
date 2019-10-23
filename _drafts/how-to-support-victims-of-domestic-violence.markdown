@@ -45,10 +45,10 @@ Here are just a few wonderful organizations to start with:
 
 According to the [HHS](https://www.acf.hhs.gov/fysb/resource/dv-homelessness-stats-2016), in just one day in 2015, over 31,500 adults and children fleeing domestic violence found refuge in a domestic violence emergency shelter or transitional housing program. On that same day, these programs were unable to meet over 12,000 requests for services due to lack of funding, staffing or other resources. Furthermore, emergency shelter and transitional housing continue to be the most urgent unmet needs for domestic violence survivors.
 
-These stats are why it's so important to donate to the above organizations and shelters. However, if you can't afford to donate your own money, consider donating your time. For a couple
+These stats are why it's so important to donate to the above organizations and shelters. However, if you can't afford to donate your own money, consider donating your time. For a couple of years, I volunteered serving breakfast on Sunday mornings at N Street Village. Not only was I helping out for free, but I was also able to meet the women who were helped by N Street Village on a daily basis. It made me so much more passionate about the work they did there, because I could literally see the people it was impacting. 
 
 *Find a [domestic violence shelter](https://www.womenslaw.org/find-help/advocates-and-shelters) in your area. If you live in the DC area, consider volunteering at [N Street Village](https://www.nstreetvillage.org/).*
 
 ## Speak Up
 
-Violence, including domestic violence, thrives in silence. It's important to speak up against
+Violence, including domestic violence, thrives in silence. It's important to speak up against any injustice that you see. It's not just when you see violence occurring, but it is also when you hear people being dismissive of violence and its impacts. 
