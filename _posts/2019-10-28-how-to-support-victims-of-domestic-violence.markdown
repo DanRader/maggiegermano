@@ -1,17 +1,20 @@
 ---
 title: How to Support Victims of Domestic Violence
 date: 2019-10-28 11:00:00 -04:00
+published: false
 categories:
 - lifestyle
 - budget
 image: "/uploads/kat-yukawa-K0E6E0a0R3A-unsplash.jpg"
+tweet: 'Do you want to do your part to support victims of violence? Here are a few
+  ways to start. '
 posts:
 - Fight White Supremacy with Your Wallet and Your Voice
 - What Financial Abuse Looks Like
 - 3 Financial Hurdles That Keep Women in Abusive Relationships
 ---
 
-***Content warning: this article makes references to abusive relationships, particularly those where financial abuse is in play. If you are experiencing financial (or any kind of) abuse, there is help out there for you. You are not alone, and you are not to blame.You can call the National Domestic Violence Hotline at**1-800-799-SAFE. Reach out to organizations like **[Purple Purse](http://purplepurse.com/)** and the **[National Network to End Domestic Violence](http://www.womenslaw.org/laws_state_type.php?id=14107&state_code=PG&open_id=all)** for information, resources, and support.*
+***Content warning:** this article makes references to abusive relationships, particularly those where financial abuse is in play. If you are experiencing domestic abuse, there is help out there for you. You are not alone, and you are not to blame.You can call the National Domestic Violence Hotline at 1-800-799-SAFE. Reach out to organizations like **[Purple Purse](http://purplepurse.com/)** and the **[National Network to End Domestic Violence](http://www.womenslaw.org/laws_state_type.php?id=14107&state_code=PG&open_id=all)** for information, resources, and support.*
 
 As I've mentioned over the past several weeks, October is Domestic Violence Awareness Month. This month is not the only time that we should be fighting domestic violence, but it is a good time to really bring it to the forefront of people's minds. But just in case you want to continue doing your part in understanding domestic violence, reducing its prevalence, and helping survivors, this article is for you. It's all about what YOU can do to support victims of domestic violence. This can be in the form of money, or time, or energy. It's up to you to decide how you can contribute, but here are some ways to start.
 
@@ -21,7 +24,7 @@ One of the reasons that people can feel trapped in an abusive relationship is th
 
 ## Donate to Advocacy Organizations
 
-There are so many organizations out there that exist to help abuse victims, either by advocating for policy, providing services, or raising awareness. These organizations are often nonprofits that only survive because of generous donations.
+There are so many organizations out there that exist to help abuse victims, either by advocating for policy, providing services, or raising awareness. These organizations are often nonprofits that only survive because of generous donations. If you want to help and you have the financial resources to do so, consider building donations into your monthly or annual budget. 
 
 Here are just a few wonderful organizations to start with:
 
@@ -45,10 +48,12 @@ Here are just a few wonderful organizations to start with:
 
 According to the [HHS](https://www.acf.hhs.gov/fysb/resource/dv-homelessness-stats-2016), in just one day in 2015, over 31,500 adults and children fleeing domestic violence found refuge in a domestic violence emergency shelter or transitional housing program. On that same day, these programs were unable to meet over 12,000 requests for services due to lack of funding, staffing or other resources. Furthermore, emergency shelter and transitional housing continue to be the most urgent unmet needs for domestic violence survivors.
 
-These stats are why it's so important to donate to the above organizations and shelters. However, if you can't afford to donate your own money, consider donating your time. 
+These stats are why it's so important to donate to the above organizations and shelters. However, if you can't afford to donate your own money, consider donating your time. For a couple of years, I volunteered serving breakfast on Sunday mornings at N Street Village. Not only was I helping out for free, but I was also able to meet the women who were helped by N Street Village on a daily basis. It made me so much more passionate about the work they did there, because I could literally see the people it was impacting. 
 
 *Find a [domestic violence shelter](https://www.womenslaw.org/find-help/advocates-and-shelters) in your area. If you live in the DC area, consider volunteering at [N Street Village](https://www.nstreetvillage.org/).*
 
 ## Speak Up
 
-Violence, including domestic violence, thrives in silence. It's important to speak up against
+Violence, including domestic violence, thrives in silence. It's important to speak up against any injustice that you see. It's not just when you see violence occurring, but it is also when you hear people being dismissive of violence and its impacts. Domestic and sexual violence are often covered up and dismissed because of misogyny, misconceptions, and ignorance. The more we speak up in support of victims and call out those who are upholding the acceptance of this violence, the less acceptable it will eventually be. Show the people around you that you don't think violence is a joke and you believe and support victims. It might feel uncomfortable at first, but you're on the right side of history. Plus, you never know who might feel safer around you because of your comments. 
+
+*If you are experiencing domestic abuse, there is help out there for you. You are not alone, and you are not to blame.You can call the National Domestic Violence Hotline at 1-800-799-SAFE. Reach out to organizations like **[Purple Purse](http://purplepurse.com/)** and the **[National Network to End Domestic Violence](http://www.womenslaw.org/laws_state_type.php?id=14107&state_code=PG&open_id=all)** for information, resources, and support.*
