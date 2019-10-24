@@ -4,6 +4,7 @@ date: 2019-10-28 05:00:00 -04:00
 published: false
 lede: 'This week, Maggie sits down with family attorney Rebecca G. Neale to talk about
   how to protect yourself financially during marriage and divorce. '
+image: "/uploads/RGN-headshot-square.png"
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/705639f4-002f-47f2-856f-7117814e500d?dark=false"></iframe>
 podcast:
