@@ -27,6 +27,8 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 * We bought waterproof covers for the chairs and dining set on our deck. We're used to having our furniture out on the covered front porch, and now that they are on the back deck without coverage, we wanted to make sure to protect them from the elements.
 
+* We made the second payment for one of the Airbnbs in Peru.
+
 * We haven't spent this money yet but we're a little anxious that it's going to happen. Over the past two years, I've written a lot about spending lots of money on home improvement. On Tuesday, a crack in a basement wall sprung a leak and was literally pouring water into the laundry room. We had a foundation expert come by yesterday to do a full inspection and it looks like we might need some major foundation work done. I'm trying not to freak out about it yet, since he had to write up a full report for us, and we're going to get a second opinion, but I'm so not thrilled. However, I do think it's important to protect the structural integrity of the house, so we'll do what we have to do.
 
 ## **What I’m Writing**
@@ -49,9 +51,7 @@ This week, I wrote about [how you can prepare](https://www.maggiegermano.com/blo
 
 ## **What I’m Excited About**
 
-* x
-
-* x
+We're leaving for Peru in exactly two weeks! I can't wait to get there and explore.
 
 ## **What I’m Reading**
 
@@ -59,6 +59,6 @@ I finished reading *[My Sister, The Serial Killer](https://www.goodreads.com/boo
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![Create your own emergency fund.png](/uploads/Create%20your%20own%20emergency%20fund.png)
 
 That’s all from me this week. Have a great weekend!
