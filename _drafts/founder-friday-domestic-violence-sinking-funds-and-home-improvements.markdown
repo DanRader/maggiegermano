@@ -23,9 +23,9 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 ## **How I Spent Money This Week**
 
-* x
+* We are having a Halloween party this weekend, so we bought a couple things to make our costumes complete.
 
-* x
+* We bought waterproof covers for the chairs and dining set on our deck. We're used to having our furniture out on the covered front porch, and now that they are on the back deck without coverage, we wanted to make sure to protect them from the elements.
 
 * We haven't spent this money yet but we're a little anxious that it's going to happen. Over the past two years, I've written a lot about spending lots of money on home improvement. On Tuesday, a crack in a basement wall sprung a leak and was literally pouring water into the laundry room. We had a foundation expert come by yesterday to do a full inspection and it looks like we might need some major foundation work done. I'm trying not to freak out about it yet, since he had to write up a full report for us, and we're going to get a second opinion, but I'm so not thrilled. However, I do think it's important to protect the structural integrity of the house, so we'll do what we have to do.
 
@@ -41,7 +41,7 @@ This week, I wrote about [how you can prepare](https://www.maggiegermano.com/blo
 
 ## **What I’m Up To**
 
-* x
+* I released tickets for the [November Money Circle](https://www.eventbrite.com/e/saving-all-year-for-big-expenses-tickets-77401711603) meetup! We'll be talking about how to plan and save all year so that we can afford big expenses. Hope to see you on November 20th!
 
 * I’m doing some thinking about what topics I want to cover in upcoming Money Circle meetups in Washington, DC. Send your preferences in [this form](https://docs.google.com/forms/d/e/1FAIpQLSd9h1xvbIg9UctjkOCfY7hWgAz5O1lOn07xX6ztEyiE3r96Uw/viewform?usp=sf_link)!
 
