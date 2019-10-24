@@ -55,7 +55,7 @@ This week, I wrote about [how you can prepare](https://www.maggiegermano.com/blo
 
 ## **What I’m Reading**
 
-x
+I finished reading *[My Sister, The Serial Killer](https://www.goodreads.com/book/show/38819868-my-sister-the-serial-killer?ac=1&from_search=true)* and *[Not That Bad: Dispatches from Rape Culture](https://www.goodreads.com/book/show/35068524-not-that-bad?from_search=true)*. Both books left me feeling dejected in different ways. Now I've moved on to *[The Witch Elm](https://www.goodreads.com/book/show/46007673-the-witch-elm)* by Tana French because I can't seem to dig into my nonfiction right now.
 
 ## **Money Tip to Take Into the Weekend**
 
