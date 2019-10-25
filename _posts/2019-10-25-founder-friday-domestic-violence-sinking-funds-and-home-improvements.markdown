@@ -1,7 +1,6 @@
 ---
 title: Founder Friday | Domestic Violence, Sinking Funds, and Home Improvements
 date: 2019-10-25 14:00:00 -04:00
-published: false
 categories:
 - founder friday
 image: "/uploads/nolan-issac-K5sjajgbTFw-unsplash.jpg"
