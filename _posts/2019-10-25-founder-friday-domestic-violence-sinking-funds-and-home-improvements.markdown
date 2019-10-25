@@ -38,7 +38,7 @@ This week, I wrote about [how you can prepare](https://www.maggiegermano.com/blo
 
 ## **What I’m Saying**
 
-* This week, I sat down to talk about how you can [plan and save money](https://www.maggiegermano.com/podcast/saving-all-year-for-big-expenses/) throughout the year so that you're prepared for 
+* This week, I sat down to talk about how you can [plan and save money](https://www.maggiegermano.com/podcast/saving-all-year-for-big-expenses/) throughout the year so that you're prepared for
 
 * Fill out [this questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSf75z5itnYO-XOLStoqY5FXwuf8YI37ye5OD21Wv7tBGAqIVQ/viewform) to submit your own money questions for the podcast. Nothing is too big or too small! If you or someone you know would make a great guest, [submit your name](https://docs.google.com/forms/d/e/1FAIpQLScz6LcFar3rRZ64vdkdq--A51Ei7pwzL4e8C514tjaeokSMhA/viewform?usp=sf_link)!
 
@@ -52,7 +52,9 @@ This week, I wrote about [how you can prepare](https://www.maggiegermano.com/blo
 
 ## **What I’m Excited About**
 
-We're leaving for Peru in exactly two weeks! I can't wait to get there and explore.
+* We're leaving for Peru in exactly two weeks! I can't wait to get there and explore.
+
+* We're heading to Baltimore tonight to see Max and Sherri Bemis in concert! Max's old band [Say Anything](http://www.sayanythingmusic.com/) and Sherri's band [Eisley](https://eisley.com/) have been my favorite bands for years, so I'm excited to see them perform together. Plus they have a band together called [Perma](https://www.permamusic.com/).
 
 ## **What I’m Reading**
 
