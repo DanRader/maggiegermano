@@ -7,3 +7,20 @@ categories:
 - debt
 ---
 
+xx
+
+## Healthcare is the Ultimate Selfcare 
+
+xx
+
+## Medical Costs Are the Leading Cause of Bankruptcy
+
+xx
+
+## Preventative Medicine Saves You Problems Later
+
+xx
+
+## You'll Have Access to Your Medication
+
+xx
