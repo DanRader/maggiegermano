@@ -7,10 +7,10 @@ In early 2018, I was a brand new entrepreneur. I had quit my stable job at the e
 
 I
 
-I Didn't Understand the Tax Implications
+## I Didn't Understand the Tax Implications
 
 xx
 
-I Couldn't Access Mental Health Services
+## I Couldn't Access Mental Health Services
 
-xx
+As I mentioned, I was newly fully self-employed, which meant I was going to be spending a lot of time at home by myself. I was also going to be challenging myself on this new path of entrepreneurship. So I felt pretty strongly that I should be working with a therapist during this time. Unfortunately, since I was using Kaiser insurance, I was limited in which therapists I could see. There was a Kaiser location right by my house but that location didn't house the mental health services. The location where therapists worked out of was several miles away and not accessible via public transportation. At that time, I didn't have access to a vehicle to get myself there once a week. It also didn't make sense to take a cab to and from therapy every week. It would have been way too expensive. So I waited until 2019 to start seeing a therapist. 
