@@ -3,6 +3,7 @@ title: Founder Friday | Philanthropy, Divorce, and Halloween
 date: 2019-11-01 14:00:00 -04:00
 categories:
 - founder friday
+image: "/uploads/david-menidrey-MYRG0ptGh50-unsplash.jpg"
 posts:
 - Founder Friday | Domestic Violence, Sinking Funds, and Home Improvements
 - Founder Friday | Japan, She Podcasts Live, and Financial Abuse
