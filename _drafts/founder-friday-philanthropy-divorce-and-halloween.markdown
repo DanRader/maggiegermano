@@ -55,6 +55,6 @@ I'm currently reading *[The Witch Elm](https://www.goodreads.com/book/show/46007
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![You don't have to have a ton of money to make a difference in the lives of others.png](/uploads/You%20don't%20have%20to%20have%20a%20ton%20of%20money%20to%20make%20a%20difference%20in%20the%20lives%20of%20others.png)
 
 That’s all from me this week. Have a great weekend!
