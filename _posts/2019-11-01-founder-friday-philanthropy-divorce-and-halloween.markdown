@@ -1,6 +1,7 @@
 ---
 title: Founder Friday | Philanthropy, Divorce, and Halloween
 date: 2019-11-01 14:00:00 -04:00
+published: false
 categories:
 - founder friday
 image: "/uploads/david-menidrey-MYRG0ptGh50-unsplash.jpg"
@@ -20,9 +21,15 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 ## **How I Spent Money This Week**
 
-* x
+* We've been trying not to spend much money this week, as it's the end of the month and things are tight. But we did have to get some essentials. We bought groceries on Sunday.
 
-* x
+* We got Bruno a new food bowl mat because the other cloth one we had was literally starting to mold. The new one is made of silicon. 
+
+* We also bought Bruno some dental chews and a new toy to tide him over while we're out of town soon.
+
+* We also got our Amazon subscription delivery for some household necessities, like toilet paper, paper towels, and dish soap.
+
+* Last night, for Halloween night, we got Chinese takeout to go with our spooky movies. 
 
 ## **What I’m Writing**
 
