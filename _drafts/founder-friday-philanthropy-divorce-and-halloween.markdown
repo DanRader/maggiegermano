@@ -34,6 +34,8 @@ This week, I wrote about how we can all continue to [support domestic violence v
 
 * Fill out [this questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSf75z5itnYO-XOLStoqY5FXwuf8YI37ye5OD21Wv7tBGAqIVQ/viewform) to submit your own money questions for the podcast. Nothing is too big or too small! If you or someone you know would make a great guest, [submit your name](https://docs.google.com/forms/d/e/1FAIpQLScz6LcFar3rRZ64vdkdq--A51Ei7pwzL4e8C514tjaeokSMhA/viewform?usp=sf_link)!
 
+![It is a repository of ecological services on the local and global level.Amazing!.png](/uploads/It%20is%20a%20repository%20of%20ecological%20services%20on%20the%20local%20and%20global%20level.Amazing!.png)
+
 ## **What I’m Up To**
 
 * I released tickets for the [November Money Circle](https://www.eventbrite.com/e/saving-all-year-for-big-expenses-tickets-77401711603) meetup! We’ll be talking about how to plan and save all year so that we can afford big expenses. Hope to see you on November 20th!
