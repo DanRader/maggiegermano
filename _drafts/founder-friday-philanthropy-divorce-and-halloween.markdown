@@ -13,9 +13,9 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 ## **How I Earned Money This Week**
 
-* x
+* One of my ongoing monthly coaching clients paid their fee.
 
-* x
+* Dan got his bi-weekly paycheck.
 
 ## **How I Spent Money This Week**
 
@@ -25,13 +25,13 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 ## **What I’m Writing**
 
-xx
+This week, I wrote about how we can all continue to [support domestic violence victims](https://www.maggiegermano.com/blog/how-to-support-victims-of-domestic-violence/) now that Domestic Violence Awareness Month is ending. Basically, much of it comes down to philanthropy, but being open and kind can go a long way too.
 
 ## **What I’m Saying**
 
-* This week, xx.
+* This week, [I interviewed](https://www.maggiegermano.com/podcast/how-to-prepare-and-protect-yourself-in-case-you-get-divorced/) attorney Rebecca G. Neale about the financial implications of divorce and what steps you should take if you're considering that route. 
 
-* Fill out **[this questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSf75z5itnYO-XOLStoqY5FXwuf8YI37ye5OD21Wv7tBGAqIVQ/viewform)** to submit your own money questions for the podcast. Nothing is too big or too small! If you or someone you know would make a great guest, **[submit your name](https://docs.google.com/forms/d/e/1FAIpQLScz6LcFar3rRZ64vdkdq--A51Ei7pwzL4e8C514tjaeokSMhA/viewform?usp=sf_link)**!
+* Fill out [this questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSf75z5itnYO-XOLStoqY5FXwuf8YI37ye5OD21Wv7tBGAqIVQ/viewform) to submit your own money questions for the podcast. Nothing is too big or too small! If you or someone you know would make a great guest, [submit your name](https://docs.google.com/forms/d/e/1FAIpQLScz6LcFar3rRZ64vdkdq--A51Ei7pwzL4e8C514tjaeokSMhA/viewform?usp=sf_link)!
 
 ## **What I’m Up To**
 
@@ -43,9 +43,11 @@ xx
 
 ## **What I’m Excited About**
 
-* x
+* We're leaving for Peru in exactly a week from today! I've been wanting to take this trip for about a decade, so I cannot wait!
 
-* x
+* We are also planning a trip to Japan in January! It's an extension of a work trip that Dan is taking, but it's the trip that Dan has been wanting to take since he was in high school. If you have recommendations, please send them our way!
+
+* We hosted our very first Halloween party, and it was a hit! Dan and I dressed up as the kids from [Moonrise Kingdom](https://www.imdb.com/title/tt1748122/) and made Bruno into our very own doggy boy scout. Please enjoy the picture below:
 
 ![IMG_2108.JPG](/uploads/IMG_2108.JPG)
 
