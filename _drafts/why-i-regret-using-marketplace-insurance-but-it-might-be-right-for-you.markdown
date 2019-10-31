@@ -20,9 +20,9 @@ As I mentioned, I was newly fully self-employed, which meant I was going to be s
 
 ## I Didn't Understand the Tax Implications
 
-xx
+The tax implications are the main reasons that I regret using marketplace insurance. Just to reiterate, when I was on marketplace insurance, I was not yet married to Dan. I was self-employed starting in January 2018 and we didn't get married until November 2018. And I wasn't put on his employer-sponsored plan until December 2018. So of course, getting my own insurance was necessary for 11 months out of the year. However, since we got married in November, we had to file our taxes as a married couple. This meant that all of our household income was combined together. This meant that Dan's salary, his freelance income, our Airbnb income, and my business income were all put together and viewed as the amount that we earned together. 
 
-## 
+x
 
 But It Might Be Right for You
 
