@@ -8,6 +8,8 @@ posts:
 - How to Care for Your Mental Health on a Budget
 ---
 
+***Pre-S: **Open enrollment season has begun! If you are going to enroll in marketplace insurance, you have from November 1 until December 15 to do so. Don't wait! Start your research and get yourself enrolled. *
+
 In early 2018, I was a brand new entrepreneur. I had quit my stable job at the end of 2017 to run my business full-time. I was excited and terrified, but there was one thing I knew for sure: I needed to have health insurance. I was on birth control, I took thyroid medication, and I take preventative care seriously. I also and risk-averse when it comes to the possibility of getting sick or injured and not having insurance. So I decided to look at my options.
 
 One option was to become Dan's domestic partner and go on his insurance. It only costs $25 in Maryland to become domestic partners, and the cost for adding me to his employer-sponsored insurance plan would be $100 a month. The other option was to get health insurance through the marketplace. When estimating what my business income would be, the marketplace website said that my monthly premium would be $0 a month. That seemed like the obvious choice! However, there ended up being some downsides that make me wish we'd gone with the domestic partnership option from the beginning.
@@ -28,4 +30,16 @@ x
 
 ## Despite All of This, Marketplace Insurance Might Be Right for You...
 
-My situation was very frustrating and looking back, we wish we'd done it differently. However, 
+My situation was very frustrating and looking back, we wish we'd done it differently. However, that's absolutely not going to be the case for everyone! The marketplace has made it so that many previously uninsured people can now access health insurance. It's not perfect (yet), but it's much better than it was before. So it might be the best option for you. 
+
+Here are some reasons why the marketplace might be right for you:
+
+1. You don't have employer-sponsored health insurance
+
+2. You don't have a spouse with employer-sponsored health insurance
+
+3. You can't afford other private insurance plans
+
+4. You don't qualify for Medicaid
+
+If you want to learn more about getting insurance through the marketplace, visit healthcare.gov. 
