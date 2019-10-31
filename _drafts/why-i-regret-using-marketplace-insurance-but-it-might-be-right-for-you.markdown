@@ -8,14 +8,22 @@ posts:
 - How to Care for Your Mental Health on a Budget
 ---
 
-In early 2018, I was a brand new entrepreneur. I had quit my stable job at the end of 2017 to run my business full-time. I was excited and terrified, but there was one thing I knew for sure: I needed to have health insurance.
+In early 2018, I was a brand new entrepreneur. I had quit my stable job at the end of 2017 to run my business full-time. I was excited and terrified, but there was one thing I knew for sure: I needed to have health insurance. I was on birth control, I took thyroid medication, and I take preventative care seriously. I also and risk-averse when it comes to the possibility of getting sick or injured and not having insurance. So I decided to look at my options.
 
-I
+One option was to become Dan's domestic partner and go on his insurance. It only costs $25 in Maryland to become domestic partners, and the cost for adding me to his employer-sponsored insurance plan would be $100 a month. The other option was to get health insurance through the marketplace. When estimating what my business income would be, the marketplace website said that my monthly premium would be $0 a month. That seemed like the obvious choice! However, there ended up being some downsides that make me wish we'd gone with the domestic partnership option from the beginning.
+
+**Note:** I don't say all of this to discourage you from getting health insurance through the marketplace. In fact, I'm a huge supporter of the marketplace, and I think we should have universal healthcare. However, I am telling my story so that you can make sure you're asking yourself the right questions to make sure you're getting the best option available to you.
+
+## I Couldn't Easily Access Mental Health Services
+
+As I mentioned, I was newly fully self-employed, which meant I was going to be spending a lot of time at home by myself. I was also going to be challenging myself on this new path of entrepreneurship. So I felt pretty strongly that I should be working with a therapist during this time. Unfortunately, since I was using Kaiser insurance, I was limited in which therapists I could see. There was a Kaiser location right by my house but that location didn't house the mental health services. The location where therapists worked out of was several miles away and not accessible via public transportation. At that time, I didn't have access to a vehicle to get myself there once a week. It also didn't make sense to take a cab to and from therapy every week. It would have been way too expensive. So I waited until 2019 to start seeing a therapist. Luckily, I wasn't going through a mental health crisis, but I think I would have felt better if I'd started sooner. So it's important to find out what your options are with the health plan that you choose.
 
 ## I Didn't Understand the Tax Implications
 
 xx
 
-## I Couldn't Access Mental Health Services
+## 
 
-As I mentioned, I was newly fully self-employed, which meant I was going to be spending a lot of time at home by myself. I was also going to be challenging myself on this new path of entrepreneurship. So I felt pretty strongly that I should be working with a therapist during this time. Unfortunately, since I was using Kaiser insurance, I was limited in which therapists I could see. There was a Kaiser location right by my house but that location didn't house the mental health services. The location where therapists worked out of was several miles away and not accessible via public transportation. At that time, I didn't have access to a vehicle to get myself there once a week. It also didn't make sense to take a cab to and from therapy every week. It would have been way too expensive. So I waited until 2019 to start seeing a therapist. Luckily, I wasn't going through a mental health crisis, but I think I would have felt better if I'd started sooner. So it's important to find out what your options are with the health plan that you choose.
+But It Might Be Right for You
+
+x
