@@ -47,9 +47,11 @@ xx
 
 * x
 
+![IMG_2108.JPG](/uploads/IMG_2108.JPG)
+
 ## **What I’m Reading**
 
-x
+I'm currently reading *[The Witch Elm](https://www.goodreads.com/book/show/46007673-the-witch-elm?from_search=true)* by Tana French. I loved her Murder Squad series, so I was excited to start this one. It's a little less exciting than the series, but I'm barely 25% into it, so hopefully it picks up. Lindy West's new book *[The Witches Are Coming](https://www.goodreads.com/book/show/38362811-the-witches-are-coming)* is coming out next week and I can't wait to get started on that!
 
 ## **Money Tip to Take Into the Weekend**
 
