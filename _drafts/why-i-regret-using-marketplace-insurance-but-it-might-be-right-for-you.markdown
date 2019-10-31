@@ -40,6 +40,6 @@ Here are some reasons why the marketplace might be right for you:
 
 3. You can't afford other private insurance plans
 
-4. You don't qualify for Medicaid
+4. You don't qualify for [Medicaid](https://www.medicaid.gov/)
 
-If you want to learn more about getting insurance through the marketplace, visit healthcare.gov. 
+If you want to learn more about getting insurance through the marketplace, visit [healthcare.gov](http://www.healthcare.gov). 
