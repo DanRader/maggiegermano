@@ -4,6 +4,7 @@ date: 2019-11-04 05:00:00 -05:00
 published: false
 lede: This week, Maggie gives you a bunch of helpful facts about open enrollment and
   making sure you have health insurance coverage.
+image: "/uploads/DSC_4999.jpg"
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/264fc39e-dc99-4f98-9230-cc812f0db4ae?dark=false"></iframe>
 podcast:
