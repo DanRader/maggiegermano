@@ -42,4 +42,4 @@ Here are some reasons why the marketplace might be right for you:
 
 4. You don't qualify for [Medicaid](https://www.medicaid.gov/)
 
-If you want to learn more about getting insurance through the marketplace, visit [healthcare.gov](http://www.healthcare.gov). 
+If you want to learn more about getting insurance through the marketplace, visit [healthcare.gov](http://www.healthcare.gov). Make sure you do this ASAP! Don't wait until December 15th to sign up for health insurance.
