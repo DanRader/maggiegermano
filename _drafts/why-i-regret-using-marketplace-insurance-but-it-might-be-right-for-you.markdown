@@ -26,8 +26,6 @@ The tax implications are the main reasons that I regret using marketplace insura
 
 When our tax professional first filed our taxes, we were told that we'd get a significant refund, which we were excited about. However, it turned out that we weren't getting that refund. Not only that, but we owed a couple more thousand dollars to the IRS. Luckily, I'd saved more of my business income than I needed to, so we had the money to pay. It didn't feel good, but at least we didn't end up owing the IRS long-term.
 
-x
-
 ## Despite All of This, Marketplace Insurance Might Be Right for You...
 
 My situation was very frustrating and looking back, we wish we'd done it differently. However, that's absolutely not going to be the case for everyone! The marketplace has made it so that many previously uninsured people can now access health insurance. It's not perfect (yet), but it's much better than it was before. So it might be the best option for you.
