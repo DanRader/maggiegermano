@@ -1,6 +1,10 @@
 ---
 title: Why I Regret Using Marketplace Insurance (But It Might Be Right For You)
 date: 2019-11-04 11:00:00 -05:00
+published: false
+categories:
+- healthcare
+- lifestyle
 image: "/uploads/marcelo-leal-k7ll1hpdhFA-unsplash.jpg"
 posts:
 - Why Health Insurance is Worth Paying For
