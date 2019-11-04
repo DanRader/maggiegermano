@@ -6,6 +6,10 @@ categories:
 - lifestyle
 - debt
 image: "/uploads/hush-naidoo-yo01Z-9HQAw-unsplash.jpg"
+posts:
+- Why I Regret Using Marketplace Insurance (But It Might Be Right For You)
+- Why Health Insurance is Worth Paying For
+- Why Healthcare is Self Care
 ---
 
 xx
