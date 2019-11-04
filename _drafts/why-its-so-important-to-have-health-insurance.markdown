@@ -12,9 +12,11 @@ posts:
 - Why Healthcare is Self Care
 ---
 
+***Pre-S: **Open enrollment season has begun! If you are going to enroll in marketplace insurance, you have from November 1 until December 15 to do so. Don’t wait! Start your research and get yourself enrolled. Visit [Healthcare.gov](http://www.healthcare.gov) to get started.*\
+\
 xx
 
-## Healthcare is the Ultimate Selfcare
+## Healthcare is the Ultimate Self Care
 
 xx
 
