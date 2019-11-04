@@ -14,7 +14,7 @@ posts:
 
 ***Pre-S: **Open enrollment season has begun! If you are going to enroll in marketplace insurance, you have from November 1 until December 15 to do so. Don’t wait! Start your research and get yourself enrolled. Visit [Healthcare.gov](http://www.healthcare.gov) to get started.*\
 \
-After the Affordable Care Act (also known as Obamacare) was passed in 2010, it became required for everyone to have health insurance coverage. Those who didn't get covered would get financially penalized. This was to encourage people who weren't previously covered to enroll in health insurance. Effective January 2019, the individual mandate is no longer law. Regardless of how you personally feel about that, 
+After the Affordable Care Act (also known as Obamacare) was passed in 2010, it became required for everyone to have health insurance coverage. Those who didn't get covered would get financially penalized. This was to encourage people who weren't previously covered to enroll in health insurance. Effective January 2019, the individual mandate is no longer law. Regardless of how you personally feel about that, it's still important for you to have health insurance. And here's why:
 
 ## Healthcare is the Ultimate Self Care
 
