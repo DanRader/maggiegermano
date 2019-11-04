@@ -5,11 +5,12 @@ categories:
 - healthcare
 - lifestyle
 - debt
+image: "/uploads/hush-naidoo-yo01Z-9HQAw-unsplash.jpg"
 ---
 
 xx
 
-## Healthcare is the Ultimate Selfcare 
+## Healthcare is the Ultimate Selfcare
 
 xx
 
@@ -22,5 +23,9 @@ xx
 xx
 
 ## You'll Have Access to Your Medication
+
+xx
+
+## It's Better For Society
 
 xx
