@@ -1,9 +1,12 @@
 ---
 title: How to Make Sure You Get What You Need During Enrollment Season
 date: 2019-11-18 11:00:00 -05:00
+image: "/uploads/vanveenjf-5az1y2RyXH0-unsplash.jpg"
 ---
 
-xx
+**Pre-S: ***Open enrollment season has begun! If you are going to enroll in marketplace insurance, you have from November 1 until December 15 to do so. Don’t wait! Start your research and get yourself enrolled.*
+
+It's not enough to just enroll in health insurance. You also need to make sure that you're getting the healthcare coverage that you *need*. Because if you have health insurance, but it doesn't cover what you need it to, how useful is it really? This might take a little extra research and a little more legwork, but it will be worth it once you know you get what you need. Here's how to make that happen.
 
 ## Get Clear On Your Needs
 
