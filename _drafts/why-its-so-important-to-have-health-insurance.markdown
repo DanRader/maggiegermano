@@ -34,4 +34,4 @@ xx
 
 ## It's Better For Society
 
-xx
+As I mentioned in today's podcast episode, it's better for society as a whole if everyone has health insurance. 
