@@ -22,7 +22,7 @@ We tout self care all the time these days. And that's great! But it usually take
 
 ## Medical Costs Are the Leading Cause of Bankruptcy
 
-xx
+According to CNBC, two-thirds of people who file for bankruptcy cite medical issues as a key contributor.\
 
 ## Preventative Medicine Saves You Problems Later
 
