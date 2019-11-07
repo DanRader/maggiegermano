@@ -28,7 +28,7 @@ Answer these and other applicable questions to make sure that your health insura
 
 ## Look At The Coverage
 
-Look very closely at what is covered and what isn't covered under the plans available to you. If you're getting healthcare coverage through your employer, they should have materials that outline coverage in detail. If you have to get insurance a di
+Look very closely at what is covered and what isn't covered under the plans available to you. If you're getting healthcare coverage through your employer, they should have materials that outline coverage in detail. If you have to get insurance from a different source, it's up to you to look at the details and figure out if it's right for you.
 
 ## Look At The Premium Costs
 
