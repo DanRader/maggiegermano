@@ -32,7 +32,7 @@ x
 
 ## Look At The Deductibles
 
-The premium 
+The monthly premium isn't the only thing that matters when you are choosing a healthcare plan. You want to fully understand your deductible, as well. Sometimes
 
 ## Look At The Co-Pays
 
