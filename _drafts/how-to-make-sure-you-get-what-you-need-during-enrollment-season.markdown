@@ -50,7 +50,7 @@ A great way to make sure that you can afford your co-pays and deductibles is to 
 
 * FSA: Also known as a flexible spending account, is an account that you can use to pay for healthcare expenses. This money gets deducted from your paycheck pre-tax and is put on a card or into an account, which you can use to pay for things like co-pays, medical costs that aren't covered, etc. If you don't use the available balance by the end of the year, you will lose the money.
 
-* HSA: Also known as a health savings account, which is available to people who are enrolled in a high-deductible health plan. If you don't use the available balance by the end of the year, it will roll over from year to year.
+* HSA: Also known as a health savings account, which is available to people who are enrolled in a high-deductible health plan. It is an account that you can use to pay for healthcare expenses, and it is tax-deductible. If you don't use the available balance by the end of the year, it will roll over from year to year. You can invest this money over time to allow it to grow tax-free, if you don't use it on your healthcare expenses.
 
 ## Ask The Experts
 
