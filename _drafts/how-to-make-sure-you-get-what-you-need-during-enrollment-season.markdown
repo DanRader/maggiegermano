@@ -24,7 +24,7 @@ The most important part of choosing a health insurance plan is to make sure you'
 
 * Are there other necessary or foreseeable procedures coming down the pike? 
 
-Answer these and other applicable questions to make sure that your health insurance plan ist he right plan for you.
+Answer these and other applicable questions to make sure that your health insurance plan is the right plan for you.
 
 ## Look At The Coverage
 
