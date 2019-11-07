@@ -26,11 +26,11 @@ The most important part of choosing a health insurance plan is to make sure you'
 
 Look very closely at what is covered and what isn't covered under the plans available to you. 
 
-## Look At The Deductibles
+## Look At The Premium Costs
 
 x
 
-## Look At The Premium Costs
+## Look At The Deductibles
 
 x
 
