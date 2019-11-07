@@ -1,6 +1,9 @@
 ---
 title: How to Make Sure You Get What You Need During Enrollment Season
 date: 2019-11-18 11:00:00 -05:00
+published: false
+categories:
+- healthcare
 image: "/uploads/vanveenjf-5az1y2RyXH0-unsplash.jpg"
 ---
 
@@ -32,7 +35,7 @@ Look very closely at what is covered and what isn't covered under the plans avai
 
 ## Look At The Premium Costs
 
-Understand how much the monthly premium is going to be. Can you afford it? Is the coverage so robust that the premium is worth it? It's important to look at the whole picture. Compare the premium to the coverage, the deductible, and the co-pays. One might offset the other. 
+Understand how much the monthly premium is going to be. Can you afford it? Is the coverage so robust that the premium is worth it? It's important to look at the whole picture. Compare the premium to the coverage, the deductible, and the co-pays. One might offset the other.
 
 ## Look At The Deductibles
 
@@ -42,7 +45,7 @@ Make sure that you can afford the deductible and that it's not so high that you'
 
 ## Look At The Co-Pays
 
-Your co-pay is exactly what it sounds like. The amount that YOU are responsible for paying every time you see a doctor or pick up a prescription. The amount of that co-pay will vary depending on your plan. It will also vary based on the type of appointment or medication. It can be a percentage of the overall cost, or a specific number. Make sure to build those co-pay costs into your monthly budget if you will be going to regular appointments. 
+Your co-pay is exactly what it sounds like. The amount that YOU are responsible for paying every time you see a doctor or pick up a prescription. The amount of that co-pay will vary depending on your plan. It will also vary based on the type of appointment or medication. It can be a percentage of the overall cost, or a specific number. Make sure to build those co-pay costs into your monthly budget if you will be going to regular appointments.
 
 ## Take Advantage of FSAs or HSAs
 
@@ -58,4 +61,4 @@ There is so much support and so many resources out there that you should be taki
 
 ## Be Wary of Junk Plans
 
-As was discussed at length in episode 13 of the Money Circle podcast, junk plans are short-term duration plans. They have recently been allowed to be included in the healthcare marketplace, but they do not actually provide good coverage. In some cases, they don't even cover preventative or emergency care. So avoid junk plans as much as you can. 
+As was discussed at length in [episode 13](www.maggiegermano.com/podcast/why-its-so-important-to-have-health-insurance/) of the Money Circle podcast, junk plans are short-term duration plans. They have recently been allowed to be included in the healthcare marketplace, but they do not actually provide good coverage. In some cases, they don't even cover preventative or emergency care. So avoid junk plans as much as you can.
