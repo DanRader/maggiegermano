@@ -26,7 +26,7 @@ According to CNBC, two-thirds of people who file for bankruptcy cite medical iss
 
 ## Preventative Medicine Saves You Problems Later
 
-xx
+It should go without saying that 
 
 ## You'll Have Access to Your Medication
 
