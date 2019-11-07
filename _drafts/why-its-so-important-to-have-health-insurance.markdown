@@ -26,7 +26,7 @@ According to CNBC, two-thirds of people who file for bankruptcy cite medical iss
 
 ## Preventative Medicine Saves You Problems Later
 
-It should go without saying that 
+It should go without saying that preventing disease is the better and more affordable option when it comes to medical costs. 
 
 ## You'll Have Access to Your Medication
 
