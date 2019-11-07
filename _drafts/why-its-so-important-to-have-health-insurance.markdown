@@ -23,16 +23,16 @@ We tout self care all the time these days. And that's great! But it usually take
 
 ## Medical Costs Are the Leading Cause of Bankruptcy
 
-According to CNBC, two-thirds of people who file for bankruptcy cite medical issues as a key contributor.\
+According to CNBC, two-thirds of people who file for bankruptcy cite medical issues as a key contributor.\\
 
 ## Preventative Medicine Saves You Problems Later
 
-It should go without saying that preventing disease is the better and more affordable option when it comes to medical costs. 
+It should go without saying that preventing disease is the better and more affordable option when it comes to medical costs.
 
 ## You'll Have Access to Your Medication
 
-One of the most important parts of health insurance is getting coverage for your necessary or desired medications. In my life, I have at one point taken these kinds of medications: birth control, thyroid medication, anti-depressants, anti-anxiety medication, ... 
+One of the most important parts of health insurance is getting coverage for your necessary or desired medications. In my life, I have at one point taken these kinds of medications: birth control, thyroid medication, anti-depressants, anti-anxiety medication, ...
 
 ## It's Better For Society
 
-As I mentioned in today's podcast episode, it's better for society as a whole if everyone has health insurance. 
+As I mentioned in [today's podcast episode](www.maggiegermano.com/podcast/why-its-so-important-to-have-health-insurance/), it's better for society as a whole if everyone has health insurance.
