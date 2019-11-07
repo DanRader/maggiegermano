@@ -42,7 +42,7 @@ Make sure that you can afford the deductible and that it's not so high that you'
 
 ## Look At The Co-Pays
 
-x
+Your co-pay is exactly what it sounds like. The amount that YOU are responsible for paying every time you see a doctor or pick up a prescription. The amount of that co-pay will vary depending on your plan. It will also vary based on the type of appointment or medication. 
 
 ## Take Advantage of FSAs or HSAs
 
