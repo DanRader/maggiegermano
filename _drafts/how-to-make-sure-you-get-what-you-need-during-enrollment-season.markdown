@@ -34,6 +34,8 @@ Understand how much the monthly premium is going to be. Can you afford it? Is th
 
 The monthly premium isn't the only thing that matters when you are choosing a healthcare plan. You want to fully understand your deductible, as well. A deductible is the amount paid out of pocket by you before your insurance provider will pay any expenses. For example, a deductible might be $1,000. That means you have to pay $1,000 worth of medical expenses before your health insurance coverage kicks in. (That doesn't apply to preventative care, which is fully covered from the start.) Sometimes
 
+Make sure that you can afford the deductible and that it's not so high that you'll avoid getting the healthcare that you need. 
+
 ## Look At The Co-Pays
 
 x
