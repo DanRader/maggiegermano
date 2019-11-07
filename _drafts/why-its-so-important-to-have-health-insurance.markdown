@@ -30,7 +30,7 @@ xx
 
 ## You'll Have Access to Your Medication
 
-xx
+One of the most important parts of health insurance is getting coverage for your necessary or desired medications. In my life, I have at one point taken these kinds of medications: birth control, thyroid medication, anti-depressants, anti-anxiety medication, ... 
 
 ## It's Better For Society
 
