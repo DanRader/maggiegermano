@@ -28,7 +28,7 @@ Look very closely at what is covered and what isn't covered under the plans avai
 
 ## Look At The Premium Costs
 
-x
+Understand how much the monthly premium is going to be. Can you afford it? Is the coverage so robust that the premium is worth it? 
 
 ## Look At The Deductibles
 
