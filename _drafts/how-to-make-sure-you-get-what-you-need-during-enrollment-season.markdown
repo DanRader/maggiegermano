@@ -32,7 +32,15 @@ x
 
 ## Look At The Deductibles
 
+The premium 
+
+## Look At The Co-Pays
+
 x
+
+## Take Advantage of FSAs or HSAs
+
+A great way to make sure that you can afford your co-pays and deductibles to 
 
 ## Ask The Experts
 
