@@ -32,7 +32,7 @@ Look very closely at what is covered and what isn't covered under the plans avai
 
 ## Look At The Premium Costs
 
-Understand how much the monthly premium is going to be. Can you afford it? Is the coverage so robust that the premium is worth it?
+Understand how much the monthly premium is going to be. Can you afford it? Is the coverage so robust that the premium is worth it? It's important to look at the whole picture. Compare the premium to the coverage, the deductible, and the co-pays. One might offset the other. 
 
 ## Look At The Deductibles
 
