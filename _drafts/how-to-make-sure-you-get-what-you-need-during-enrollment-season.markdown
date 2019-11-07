@@ -30,4 +30,4 @@ x
 
 ## Be Wary of Junk Plans
 
-x
+As was discussed at length in episode 13 of the Money Circle podcast, junk plans are 
