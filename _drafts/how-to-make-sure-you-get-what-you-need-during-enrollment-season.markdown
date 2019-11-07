@@ -30,4 +30,4 @@ x
 
 ## Be Wary of Junk Plans
 
-As was discussed at length in episode 13 of the Money Circle podcast, junk plans are d
+As was discussed at length in episode 13 of the Money Circle podcast, junk plans are short-term duration plans. They have recently been allowed to be included in the healthcare marketplace, though they do not actually provide good coverage. 
