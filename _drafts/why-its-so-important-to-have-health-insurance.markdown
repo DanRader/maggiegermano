@@ -6,6 +6,7 @@ categories:
 - lifestyle
 - debt
 image: "/uploads/hush-naidoo-yo01Z-9HQAw-unsplash.jpg"
+tweet: Why It's So Important to Have Health Insurance
 posts:
 - Why I Regret Using Marketplace Insurance (But It Might Be Right For You)
 - Why Health Insurance is Worth Paying For
