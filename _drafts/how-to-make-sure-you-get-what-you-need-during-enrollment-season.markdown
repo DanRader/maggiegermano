@@ -48,7 +48,7 @@ A great way to make sure that you can afford your co-pays and deductibles is to 
 
 ## Ask The Experts
 
-There is so much support and so many resources out there that you should be taking advantage of.
+There is so much support and so many resources out there that you should be taking advantage of. 
 
 ## Be Wary of Junk Plans
 
