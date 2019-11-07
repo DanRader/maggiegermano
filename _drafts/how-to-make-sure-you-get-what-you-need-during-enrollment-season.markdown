@@ -10,11 +10,21 @@ It's not enough to just enroll in health insurance. You also need to make sure t
 
 ## Get Clear On Your Needs
 
-The most important part of choosing a health insurance plan is to make sure you're getting the coverage you actually need. So the first step is to understand your needs. Do you have medications that you need coverage? Are there specialists that you need to see? Do you plan to have a baby? Are there other necessary or foreseeable procedures coming down the pike? 
+The most important part of choosing a health insurance plan is to make sure you're getting the coverage you actually need. So the first step is to understand your own needs and those of your family. 
+
+* Do you have medications that you need coverage? 
+
+* Do you need access to mental health services?
+
+* Are there specialists that you need to see? 
+
+* Do you plan to have a baby? 
+
+* Are there other necessary or foreseeable procedures coming down the pike? 
 
 ## Look At The Coverage
 
-x
+Look very closely at what is covered and what isn't covered under the plans available to you. 
 
 ## Look At The Deductibles
 
