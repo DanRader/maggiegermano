@@ -4,7 +4,7 @@ date: 2019-11-18 11:00:00 -05:00
 image: "/uploads/vanveenjf-5az1y2RyXH0-unsplash.jpg"
 ---
 
-**Pre-S:** *Open enrollment season has begun! If you are going to enroll in marketplace insurance, you have from November 1 until December 15 to do so. Don’t wait! Start your research and get yourself enrolled.*
+**Pre-S:** *Open enrollment season has begun! If you are going to enroll in marketplace insurance, you have from November 1 until December 15 to do so. Visit [Healthcare.gov](healthcare.gov) to do so. Don’t wait! Start your research and get yourself enrolled. *
 
 It's not enough to just enroll in health insurance. You also need to make sure that you're getting the healthcare coverage that you *need*. Because if you have health insurance, but it doesn't cover what you need it to, how useful is it really? This might take a little extra research and a little more legwork, but it will be worth it once you know you get what you need. Here's how to make that happen.
 
@@ -12,7 +12,7 @@ It's not enough to just enroll in health insurance. You also need to make sure t
 
 The most important part of choosing a health insurance plan is to make sure you're getting the coverage you actually need. So the first step is to understand your own needs and those of your family. 
 
-* Do you have medications that you need coverage? 
+* Do you have medications that you need coverage for? 
 
 * Do you need access to mental health services?
 
@@ -20,19 +20,25 @@ The most important part of choosing a health insurance plan is to make sure you'
 
 * Do you plan to have a baby? 
 
+* What kinds of medical needs do your children or partner have?
+
 * Are there other necessary or foreseeable procedures coming down the pike? 
+
+Answer these and other applicable questions to make sure that your health insurance plan is the right plan for you.
 
 ## Look At The Coverage
 
-Look very closely at what is covered and what isn't covered under the plans available to you. 
+Look very closely at what is covered and what isn't covered under the plans available to you. If you're getting healthcare coverage through your employer, they should have materials that outline coverage in detail. If you have to get insurance from a different source, it's up to you to look at the details and figure out if it's right for you. Make sure you look at the fine print to ensure that you are getting what you need. 
 
 ## Look At The Premium Costs
 
-x
+Understand how much the monthly premium is going to be. Can you afford it? Is the coverage so robust that the premium is worth it? 
 
 ## Look At The Deductibles
 
-The monthly premium isn't the only thing that matters when you are choosing a healthcare plan. You want to fully understand your deductible, as well. A deductible is the amount paid out of pocket by you before your insurance provider will pay any expenses. For example, a deductible might be $1,000. That means you have to pay $1,000 worth of medical expenses before your health insurance coverage kicks in. (That doesn't apply to preventative care, which is fully covered from the start.) Sometimes
+The monthly premium isn't the only thing that matters when you are choosing a healthcare plan. You want to fully understand your deductible, as well. A deductible is the amount paid out of pocket by you before your insurance provider will pay any expenses. For example, a deductible might be $1,000. That means you have to pay $1,000 worth of medical expenses before your health insurance coverage kicks in. (That doesn't apply to preventative care, which is fully covered from the start.) 
+
+Make sure that you can afford the deductible and that it's not so high that you'll avoid getting the healthcare that you need. For me personally, it's always been important to have a lower (or preferably nonexistent) deductible so that I don't feel 
 
 ## Look At The Co-Pays
 
