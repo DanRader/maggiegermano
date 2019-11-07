@@ -48,7 +48,7 @@ A great way to make sure that you can afford your co-pays and deductibles is to 
 
 ## Ask The Experts
 
-There is so much support and so many resources out there that you should be taking advantage of. 
+There is so much support and so many resources out there that you should be taking advantage of. If you get health insurance through your employer, there are people at your company whose job it is to answer your questions. Go to them to walk you through your options so that you feel comfortable that you're making the right decision. If you need to buy private insurance on your own, or purchase through the marketplace, there are still lots of resources at your disposal. [Healthcare.gov](https://www.healthcare.gov/) has a whole ["Get Answers"](https://www.healthcare.gov/get-answers/) page and you can talk to people and ask questions on the phone. [Kaiser](https://www.kff.org/understanding-health-insurance/) also has lots of resources, available in more than one language.
 
 ## Be Wary of Junk Plans
 
