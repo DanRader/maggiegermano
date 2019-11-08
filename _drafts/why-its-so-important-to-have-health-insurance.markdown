@@ -19,7 +19,7 @@ After the Affordable Care Act (also known as Obamacare) was passed in 2010, it b
 
 ## Healthcare is the Ultimate Self Care
 
-We tout self care all the time these days. And that's great! But on Instagram, it usually takes the simple form of a bubble bath or a shopping spree. The truth is, real self care takes more planning and effort than that. A lot of the time, it's boring, responsible stuff. And healthcare is one of the most important ways that you can take care of yourself. Physically and mentally, if we aren't taking care of ourselves, things can go downhill fast. 
+We tout self care all the time these days. And that's great! But on Instagram, it usually takes the simple form of a bubble bath or a shopping spree. The truth is, real self care takes more planning and effort than that. A lot of the time, it's boring, responsible stuff. And healthcare is one of the most important ways that you can take care of yourself. Physically and mentally, if we aren't taking care of ourselves, things can go downhill fast. So if you say that you prioritize self care, it's time to make sure that you have the healthcare you need.
 
 ## Medical Costs Are the Leading Cause of Bankruptcy
 
