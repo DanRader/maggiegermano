@@ -23,7 +23,7 @@ We tout self care all the time these days. And that's great! But on Instagram, i
 
 ## Medical Costs Are the Leading Cause of Bankruptcy
 
-Bankruptcy is a legal process through which people or other entities who cannot repay debts may seek relief from some or all of their debts. It is often viewed as a financial last resort. According to [CNBC](https://www.cnbc.com/2019/02/11/this-is-the-real-reason-most-americans-file-for-bankruptcy.html), two-thirds of people who file for bankruptcy cite medical issues as a key contributor. 
+Bankruptcy is a legal process through which people or other entities who cannot repay debts may seek relief from some or all of their debts. It is often viewed as a financial last resort. According to [CNBC](https://www.cnbc.com/2019/02/11/this-is-the-real-reason-most-americans-file-for-bankruptcy.html), two-thirds of people who file for bankruptcy cite medical issues as a key contributor. This amounts to an estimated 530,000 families each year. That's a lot of people being forced into bankruptcy due to medical costs. That's why it's so important 
 
 ## Preventative Medicine Saves You Problems Later
 
