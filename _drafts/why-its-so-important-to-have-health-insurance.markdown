@@ -27,7 +27,7 @@ Bankruptcy is a legal process through which people or other entities who cannot 
 
 ## Preventative Medicine Saves You Problems Later
 
-It should go without saying that preventing disease is the better and more affordable option when it comes to medical costs. And preventative medicine is actually covered 100% under the Affordable Care Act. That means that well women physicals and annual physicals are covered without requiring a copay. 
+It should go without saying that preventing disease is the better and more affordable option when it comes to medical costs. And preventative medicine is actually covered 100% under the Affordable Care Act. That means that well women physicals and annual physicals are covered without requiring a copay. Going to these appointments can prevent issues or catch them early, which makes treatment and recovery easier and less expensive. Have you had your well women visit yet this year? 
 
 ## You'll Have Access to Your Medication
 
