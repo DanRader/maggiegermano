@@ -6,6 +6,7 @@ categories:
 - lifestyle
 - debt
 image: "/uploads/hush-naidoo-yo01Z-9HQAw-unsplash.jpg"
+tweet: Why It's So Important to Have Health Insurance
 posts:
 - Why I Regret Using Marketplace Insurance (But It Might Be Right For You)
 - Why Health Insurance is Worth Paying For
@@ -18,20 +19,20 @@ After the Affordable Care Act (also known as Obamacare) was passed in 2010, it b
 
 ## Healthcare is the Ultimate Self Care
 
-We tout self care all the time these days. And that's great! But it usually takes the form of a bubble bath or a shopping spree. The truth is, real self care takes more planning and effort than that. And healthcare is one of the most important ways that you can take care of yourself. Physically and mentally, if we aren't taking care of ourselves,
+We tout self care all the time these days. And that's great! But on Instagram, it usually takes the simple form of a bubble bath or a shopping spree. The truth is, real self care takes more planning and effort than that. A lot of the time, it's boring, responsible stuff. And healthcare is one of the most important ways that you can take care of yourself. Physically and mentally, if we aren't taking care of ourselves, things can go downhill fast. So if you say that you prioritize self care, it's time to make sure that you have the healthcare you need.
 
 ## Medical Costs Are the Leading Cause of Bankruptcy
 
-According to CNBC, two-thirds of people who file for bankruptcy cite medical issues as a key contributor.\
+Bankruptcy is a legal process through which people or other entities who cannot repay debts may seek relief from some or all of their debts. It is often viewed as a financial last resort. According to [CNBC](https://www.cnbc.com/2019/02/11/this-is-the-real-reason-most-americans-file-for-bankruptcy.html), two-thirds of people who file for bankruptcy cite medical issues as a key contributor. This amounts to an estimated 530,000 families each year. That's a lot of people being forced into bankruptcy due to medical costs. That's why it's so important to make sure that you have adequate health insurance, so you can try to avoid the sort of debt that could be insurmountable. 
 
 ## Preventative Medicine Saves You Problems Later
 
-It should go without saying that preventing disease is the better and more affordable option when it comes to medical costs. 
+It should go without saying that preventing disease is the better and more affordable option when it comes to medical costs.
 
 ## You'll Have Access to Your Medication
 
-One of the most important parts of health insurance is getting coverage for your necessary or desired medications. In my life, I have at one point taken these kinds of medications: birth control, thyroid medication, anti-depressants, anti-anxiety medication, ... 
+One of the most important parts of health insurance is getting coverage for your necessary or desired medications. In my life, I have at one point taken these kinds of medications: birth control, thyroid medication, anti-depressants, anti-anxiety medication, ...
 
 ## It's Better For Society
 
-As I mentioned in today's podcast episode, it's better for society as a whole if everyone has health insurance. 
+As I mentioned in [today's podcast episode](www.maggiegermano.com/podcast/why-its-so-important-to-have-health-insurance/), it's better for society as a whole if everyone has health insurance.
