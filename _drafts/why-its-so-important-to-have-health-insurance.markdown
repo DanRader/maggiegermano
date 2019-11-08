@@ -27,7 +27,7 @@ Bankruptcy is a legal process through which people or other entities who cannot 
 
 ## Preventative Medicine Saves You Problems Later
 
-It should go without saying that preventing disease is the better and more affordable option when it comes to medical costs. And preventative medicine is actually covered 100% under the Affordable Care Act. That means that 
+It should go without saying that preventing disease is the better and more affordable option when it comes to medical costs. And preventative medicine is actually covered 100% under the Affordable Care Act. That means that well women physicals and annual physicals are covered without requiring a copay. 
 
 ## You'll Have Access to Your Medication
 
