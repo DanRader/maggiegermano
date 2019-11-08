@@ -1,6 +1,7 @@
 ---
 title: Why It’s So Important to Have Health Insurance
 date: 2019-11-11 11:00:00 -05:00
+published: false
 categories:
 - healthcare
 - lifestyle
@@ -15,7 +16,9 @@ posts:
 
 **Pre-S:** *Open enrollment season has begun! If you are going to enroll in marketplace insurance, you have from November 1 until December 15 to do so. Don’t wait! Start your research and get yourself enrolled. Visit [Healthcare.gov](http://www.healthcare.gov) to get started.*\
 \
-After the Affordable Care Act (also known as Obamacare) was passed in 2010, it became required for everyone to have health insurance coverage. Those who didn't get covered would get financially penalized. This was to encourage people who weren't previously covered to enroll in health insurance. Effective January 2019, the individual mandate is no longer law. Regardless of how you personally feel about that, it's still important for you to have health insurance. And here's why:
+After the Affordable Care Act (also known as Obamacare) was passed in 2010, it became required for everyone to have health insurance coverage. Those who didn't get covered would get financially penalized. This mandate was instated to encourage people who weren't previously covered to enroll in health insurance. However, effective January 2019, the individual mandate is no longer part of the law. Regardless of how you personally feel about that, it's still important for you to have health insurance. And here's why:
+
+> Regardless of how you personally feel about that, it's still important for you to have health insurance.
 
 ## Healthcare is the Ultimate Self Care
 
