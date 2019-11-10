@@ -1,7 +1,6 @@
 ---
 title: Why It’s So Important to Have Health Insurance
 date: 2019-11-11 05:00:00 -05:00
-published: false
 lede: This week, Maggie sat down with her friend and advocate, Nina Serrianne to talk
   about why it's so important for everyone to get healthcare coverage.
 image: "/uploads/Nina%20Esperanza%20Serrianne%20Headshot.jpg"
