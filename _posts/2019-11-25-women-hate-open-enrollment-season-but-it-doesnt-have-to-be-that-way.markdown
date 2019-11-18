@@ -1,9 +1,11 @@
 ---
 title: Women Hate Open Enrollment Season, But It Doesn’t Have To Be That Way
 date: 2019-11-25 11:00:00 -05:00
+published: false
 categories:
 - healthcare
 image: "/uploads/thought-catalog-UK78i6vK3sc-unsplash-d2d035.jpg"
+tweet: Women Hate Open Enrollment Season, But It Doesn’t Have To Be That Way
 posts:
 - How to Make Sure You Get What You Need During Enrollment Season
 - Why It’s So Important to Have Health Insurance
