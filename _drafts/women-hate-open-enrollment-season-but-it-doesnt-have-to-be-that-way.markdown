@@ -3,6 +3,7 @@ title: Women Hate Open Enrollment Season, But It Doesn’t Have To Be That Way
 date: 2019-11-25 11:00:00 -05:00
 categories:
 - healthcare
+image: "/uploads/thought-catalog-UK78i6vK3sc-unsplash-d2d035.jpg"
 posts:
 - How to Make Sure You Get What You Need During Enrollment Season
 - Why It’s So Important to Have Health Insurance
@@ -68,3 +69,5 @@ But while employers need to do better to properly equip their employees, there a
 * Get past the discomfort of asking questions that feel obvious to you.
 
 Good luck and get enrolled in health insurance!
+
+*This article was originally published on my [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2019/11/08/women-hate-open-enrollment-season-but-it-doesnt-have-to-be-that-way/#6cd093f262ee) column. Make sure you follow me there so you never miss a post!*
