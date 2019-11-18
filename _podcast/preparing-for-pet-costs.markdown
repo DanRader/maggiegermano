@@ -3,7 +3,7 @@ title: Preparing for Pet Costs
 date: 2019-11-18 05:00:00 -05:00
 lede: This week, host Maggie Germano breaks down how you should financially prepare
   for getting a pet.
-image: "/uploads/2016-12-06%2016.03.54.jpg"
+image: "/uploads/Maggie%20Portraits-Maggie%20Portraits%2007%2023%2017-0018.jpg"
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/08e0402c-3ab6-4566-bdb1-549b9355b603?dark=false"></iframe>
 podcast:
