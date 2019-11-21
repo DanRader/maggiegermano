@@ -27,13 +27,13 @@ xx
 
 * This week, xx.
 
-* Fill out **[this questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSf75z5itnYO-XOLStoqY5FXwuf8YI37ye5OD21Wv7tBGAqIVQ/viewform)** to submit your own money questions for the podcast. Nothing is too big or too small! If you or someone you know would make a great guest, **[submit your name](https://docs.google.com/forms/d/e/1FAIpQLScz6LcFar3rRZ64vdkdq--A51Ei7pwzL4e8C514tjaeokSMhA/viewform?usp=sf_link)**!
+* Fill out [this questionnaire](https://docs.google.com/forms/d/e/1FAIpQLSf75z5itnYO-XOLStoqY5FXwuf8YI37ye5OD21Wv7tBGAqIVQ/viewform) to submit your own money questions for the podcast. Nothing is too big or too small! If you or someone you know would make a great guest, [submit your name](https://docs.google.com/forms/d/e/1FAIpQLScz6LcFar3rRZ64vdkdq--A51Ei7pwzL4e8C514tjaeokSMhA/viewform?usp=sf_link)!
 
 ## **What I’m Up To**
 
 * x
 
-* I’ve created a virtual **[Money Circle membership program](https://maggiegermano.podia.com/inner-circle)**! If you are not located in the DC area, or if you just want more connection through Money Circle, this program is for you. There are 3 tiers that offer different options at different price points. There is a group coaching component and even a level that lets you check in with me every month. **[Sign up today!](https://maggiegermano.podia.com/inner-circle)**
+* I’ve created a virtual [Money Circle membership program](https://maggiegermano.podia.com/inner-circle)! If you are not located in the DC area, or if you just want more connection through Money Circle, this program is for you. There are 3 tiers that offer different options at different price points. There is a group coaching component and even a level that lets you check in with me every month. [Sign up today!](https://maggiegermano.podia.com/inner-circle)
 
 ## **What I’m Excited About**
 
