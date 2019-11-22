@@ -12,8 +12,6 @@ podcast:
 - What You Need to Know About Open Enrollment
 ---
 
-xx
-
 As Marie Kondo’s first certified consultant based in Washington DC, Jenny Albertini has been transforming homes throughout the DMV since she opened Declutter DC in 2016. Whether or not you’ve watched the Netflix series or read one of Marie’s best-selling books, Jenny can help you use the KonMari method to move from feeling overwhelmed and stuck to experiencing calm and success in your home (and your life).
 
 Declutter DC has been featured as a Best of DC service in The Washingtonian, on PBS News Hour, through Apartment Therapy and National Geographic, as well as on additional local and international platforms. By using her background training in global health programming for the US government, Jenny brings a classic DC touch of diplomacy to all of her client sessions and speaking engagements as she works on cleaning up the capital, one home at a time.
