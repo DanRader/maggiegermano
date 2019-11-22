@@ -6,13 +6,13 @@ lede: In today's episode, Maggie is joined by Jenny Albertini, the founder and C
   of Declutter DC and the first Marie Kondo certified consultant based in Washington,
   DC. They chat about decluttering and how it can improve all our lives and finances.
 image: "/uploads/Ringlet_Jenny3.jpg"
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/c3957117-72b7-4520-9db6-7dff83e278bf?dark=false"></iframe>
 podcast:
 - Preparing for Pet Costs
 - Why It’s So Important to Have Health Insurance
 - What You Need to Know About Open Enrollment
 ---
-
-xx
 
 As Marie Kondo’s first certified consultant based in Washington DC, Jenny Albertini has been transforming homes throughout the DMV since she opened Declutter DC in 2016. Whether or not you’ve watched the Netflix series or read one of Marie’s best-selling books, Jenny can help you use the KonMari method to move from feeling overwhelmed and stuck to experiencing calm and success in your home (and your life).
 
