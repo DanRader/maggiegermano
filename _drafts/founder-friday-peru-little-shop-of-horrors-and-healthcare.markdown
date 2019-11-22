@@ -3,6 +3,7 @@ title: Founder Friday | Peru, Little Shop of Horrors, and Healthcare
 date: 2019-11-22 14:00:00 -05:00
 categories:
 - founder friday
+image: "/uploads/willian-justen-de-vasconcellos-4hMET7vYTAQ-unsplash.jpg"
 posts:
 - Founder Friday | Philanthropy, Divorce, and Halloween
 - Founder Friday | Domestic Violence, Sinking Funds, and Home Improvements
