@@ -28,7 +28,7 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 * A few months ago, we received a speeding ticket in the mail (it was Dan driving, not me!). It was a $200 ticket, which isn't something we wanted to pay. We contested the ticket, but we just got another letter from DC saying "too bad, you have to pay up". So I paid that ticket this week in order to avoid any late fees. Luckily, we started saving up for car expenses, so if that $200 ends up not fitting in our monthly budget, we can pull from that account.
 
-* 
+* A few months ago, we got a deck built on the back of our house. There's a grant program through our town that will award you up to $1,000 for building new things on your property, like fences and decks. I applied for the grant and found out that the deck company didn't get a permit from the town! I have to go today and pay $50 for the town permit so that we are eligible for the grant. (Moral of the story: don't trust that your contractors are doing what they said they'd do! Double check.)
 
 ## **What I’m Writing**
 
@@ -52,7 +52,7 @@ I’ve created a virtual [Money Circle membership program](https://maggiegermano
 
 * We're hosting Thanksgiving at our house for the first time ever! We always celebrate Thanksgiving with Dan's family and this year, his sister has limited days off, so it's easier for us to host at our house. Luckily, Dan is the cook, so I feel more excited than stressed about hosting. If you have any recipes that you love or recommendations for hosting during a holiday, I'd love to hear them!
 
-* x
+* Yes, we literally just got back from Peru, but we are heading off to Japan in less than two months. If you've been to Japan and have tips or must-sees, let me know!
 
 ## **What I’m Reading**
 
