@@ -3,6 +3,10 @@ title: Founder Friday | Peru, Little Shop of Horrors, and Healthcare
 date: 2019-11-22 14:00:00 -05:00
 categories:
 - founder friday
+posts:
+- Founder Friday | Philanthropy, Divorce, and Halloween
+- Founder Friday | Domestic Violence, Sinking Funds, and Home Improvements
+- Founder Friday | Japan, She Podcasts Live, and Financial Abuse
 ---
 
 Happy Friday, everyone! Here’s what I was up to this past week.
@@ -43,7 +47,7 @@ I’ve created a virtual [Money Circle membership program](https://maggiegermano
 
 ## **What I’m Excited About**
 
-* x
+* We're hosting Thanksgiving at our house for the first time ever! We always celebrate Thanksgiving with Dan's family and this year, his sister has limited days off, so it's easier for us to host at our house. Luckily, Dan is the cook, so I feel more excited than stressed about hosting. If you have any recipes that you love or recommendations for hosting during a holiday, I'd love to hear them!
 
 * x
 
@@ -53,6 +57,6 @@ I'm reading a couple books right now. Last night, I started *[The Witches Are Co
 
 ## **Money Tip to Take Into the Weekend**
 
-x
+![Look at the whole financial picture.png](/uploads/Look%20at%20the%20whole%20financial%20picture.png)
 
 That’s all from me this week. Have a great weekend!
