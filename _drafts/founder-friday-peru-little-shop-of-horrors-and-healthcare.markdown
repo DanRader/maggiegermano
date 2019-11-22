@@ -14,9 +14,7 @@ Happy Friday, everyone! Here’s what I was up to this past week.
 
 ## **How I Earned Money This Week**
 
-* A one-time session client paid for their session this week.
-
-* xx
+A one-time session client paid for their session this week.
 
 ## **How I Spent Money This Week**
 
