@@ -6,6 +6,8 @@ lede: In today's episode, Maggie is joined by Jenny Albertini, the founder and C
   of Declutter DC and the first Marie Kondo certified consultant based in Washington,
   DC. They chat about decluttering and how it can improve all our lives and finances.
 image: "/uploads/Ringlet_Jenny3.jpg"
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/c3957117-72b7-4520-9db6-7dff83e278bf?dark=false"></iframe>
 podcast:
 - Preparing for Pet Costs
 - Why It’s So Important to Have Health Insurance
