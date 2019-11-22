@@ -49,7 +49,7 @@ I’ve created a virtual [Money Circle membership program](https://maggiegermano
 
 ## **What I’m Reading**
 
-I'm reading a couple books right now. Last night, I started *[The Witches Are Coming](https://www.goodreads.com/book/show/38362811-the-witches-are-coming)* by Lindy West, who is one of my favorite feminists. If you haven't read her first book, *Shrill*, you must. I'm also reading *A Tale for the Time Being* by Ruth Ozeki. 
+I'm reading a couple books right now. Last night, I started *[The Witches Are Coming](https://www.goodreads.com/book/show/38362811-the-witches-are-coming)* by Lindy West, who is one of my favorite feminists. If you haven't read her first book, *[Shrill](https://www.goodreads.com/book/show/29340182-shrill)*, you must. I'm also reading *[A Tale for the Time Being](https://www.goodreads.com/book/show/15811545-a-tale-for-the-time-being?from_search=true&qid=Px41rJFGTq&rank=1)* by Ruth Ozeki. 
 
 ## **Money Tip to Take Into the Weekend**
 
