@@ -1,7 +1,6 @@
 ---
 title: How Decluttering Can Improve Your Life and Your Finances
 date: 2019-11-25 05:00:00 -05:00
-published: false
 lede: In today's episode, Maggie is joined by Jenny Albertini, the founder and CEO
   of Declutter DC and the first Marie Kondo certified consultant based in Washington,
   DC. They chat about decluttering and how it can improve all our lives and finances.
