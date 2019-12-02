@@ -5,6 +5,10 @@ published: false
 lede: This week, Maggie gives you tips on how to stick to your own values and needs
   this holiday season.
 image: "/uploads/DSC_5050-2d9907.jpg"
+podcast:
+- How Decluttering Can Improve Your Life and Your Finances
+- Preparing for Pet Costs
+- Why It’s So Important to Have Health Insurance
 ---
 
 To learn more about Maggie and her coaching and speaking services, visit **[www.maggiegermano.com](https://www.maggiegermano.com/)**.
