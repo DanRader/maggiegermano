@@ -5,6 +5,11 @@ categories:
 - lifestyle
 - budget
 image: "/uploads/content-pixie-l6I8jpzKJQU-unsplash.jpg"
+tweet: Keep your own needs in mind this holiday season.
+posts:
+- How to Plan Ahead for Holiday Spending
+- How to Stay on Budget When Traveling for the Holidays
+- How to Create a Holiday Gift Budget
 ---
 
 Happy December! We're officially in the swing of holiday season. In the last several days, we've experienced Black Friday, Small Business Saturday, and now Cyber Monday. That's a lot of pressure to spend money and buy things. And it's not going to let up as we get closer to the holidays. That's why I want to talk about sticking to your values this season.
