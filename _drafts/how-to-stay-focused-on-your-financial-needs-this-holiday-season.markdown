@@ -7,9 +7,7 @@ categories:
 image: "/uploads/content-pixie-l6I8jpzKJQU-unsplash.jpg"
 ---
 
-xx
-
-I hope you all enjoyed your Thanksgiving celebrations, if you had them. And now that it’s officially December and we’re deep into holiday season, I want to talk about sticking to your values this season.
+Happy December! We're officially in the swing of holiday season. In the last several days, we've experienced Black Friday, Small Business Saturday, and now Cyber Monday. That's a lot of pressure to spend money and buy things. And it's not going to let up as we get closer to the holidays. That's why I want to talk about sticking to your values this season.
 
 Starting before Black Friday even came around, we’ve been getting inundated with ads and “deals”. We’re encouraged to shop, shop, shop at every turn. We’re told that in order to show someone we love them, we have to buy them expensive things. And the truth is, this messaging hurts a lot of us. In fact, about a quarter of Americans end up in debt, or deeper in debt, due to holiday spending. That doesn’t sound worth it to me.
 
