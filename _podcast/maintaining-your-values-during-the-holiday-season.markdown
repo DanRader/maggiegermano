@@ -1,7 +1,6 @@
 ---
 title: Maintaining Your Values During the Holiday Season
 date: 2019-12-02 05:00:00 -05:00
-published: false
 lede: This week, Maggie gives you tips on how to stick to your own values and needs
   this holiday season.
 image: "/uploads/DSC_5050-2d9907.jpg"
