@@ -15,6 +15,10 @@ xx
 
 xx
 
+## Define Your Goals
+
+xx
+
 ## Revisit Your Monthly Budget
 
 xx
