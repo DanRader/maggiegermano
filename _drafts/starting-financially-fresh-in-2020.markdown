@@ -22,3 +22,11 @@ xx
 ## Revisit Your Monthly Budget
 
 xx
+
+## Automate Your Savings
+
+xx
+
+## Put Your Credit Card Away
+
+xx
