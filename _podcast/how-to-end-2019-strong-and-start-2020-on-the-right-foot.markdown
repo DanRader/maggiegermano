@@ -6,11 +6,17 @@ lede: This week, Maggie is joined by financial coach Ericka Young to talk about 
   action steps you can take to finish 2019 off financially strong and start 2020 on
   the right foot.
 image: "/uploads/IMG_7085%20(2).jpg"
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/89af69d6-6c6b-4685-913c-a50bc376e62f?dark=false"></iframe>
 podcast:
 - Maintaining Your Values During the Holiday Season
 - How Decluttering Can Improve Your Life and Your Finances
 - Preparing for Pet Costs
 ---
+
+This week’s episode is brought to you by Stitcher Premium! Listen to some of your favorite shows ad-free with Stitcher premium like Conan O'Brien Needs a Friend, My Favorite Murder, Science Rules with Bill Nye and more! Plus you can get access to Stitcher Originals like the Neighborhood Listen and Groceries, which are two silly and lovely podcasts. Stitcher Premium is only $4.99 a month or $34.99 a year, but if you use the code **MONEYCIRCLE**, you can get your first month free. Go to [stitcher.com/premium](https://www.stitcher.com/premium) to sign up today!
+
+--
 
 Join Maggie and financial coach Ericka Young to learn about what you can do to get your finances right as 2019 comes to an end and how to set yourself up for success in 2020. They touch on holiday spending, goal setting, having money conversations, and more. 
 
@@ -40,3 +46,9 @@ To get more involved with Money Circle:
 * Sign up for the **[virtual membership program](https://maggiegermano.podia.com/inner-circle)**
 
 The theme music is called Escaping Light by Aaron Sprinkle. The podcast artwork design is by Maggie’s dear husband, **[Dan Rader](https://danrdesign.com/)**.
+
+--- 
+
+## TRANSCRIPTION
+
+x
