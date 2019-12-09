@@ -8,15 +8,17 @@ image: "/uploads/plush-design-studio-5xjw079i6Q4-unsplash.jpg"
 
 As of this writing, we only have 22 days left in December, which means there's just over three weeks left in 2019. I won't freak you out by reminding you that that means that there's only 22 days left IN THIS DECADE (okay, sorry...). Although I'm not a huge New Years resolution person, the start of a new year can be a great time to reassess and put new systems into place. Start the new year (and the new DECADE) on the right foot by doing some or all of the things below.
 
+> Although I'm not a huge New Years resolution person, the start of a new year can be a great time to reassess and put new systems into place.
+
 ## Review Your Holiday Spending
 
 Every year, the holidays can come as a bit of a surprise. I know that I'm always shocked when November and December roll around. And that's one reason why holiday spending can throw us off our game. The start of the year is a great time to go back and review your spending around the holidays. The spending is still fresh and you can easily look back at your credit card or bank statements. Add everything up and see how much you spent this year on the holidays. And not just on gifts, but on travel, holiday parties, and decorations too. This is a great opportunity to see if you'd rather be spending less than you did or if you feel comfortable with what you spent. From there, you can plan throughout the year for this spending. This can look like saving money each month so that you have enough once the holidays come, or buying gifts throughout the year instead of waiting until November or December. If you start doing this, the holidays can at least be less financially stressful!
 
 ## Map Out Your Non-Monthly Expenses
 
-Something that is super easy to forget about when you're creating a budget is the expenses that don't come around every month. And those expenses are often the ones that can blow your budget completely! 
+Something that is super easy to forget about when you're creating a budget is the expenses that don't come around every month. And those expenses are often the ones that can blow your budget completely! These can be things like car insurance, renters insurance, annual fees, licenses, subscriptions, etc. Make a list of all of those expenses. This is also a great opportunity to cancel anything that you aren't using or don't value. 
 
-I recommend that you save all year for those bigger, non-monthly expenses. Once you've added up what they cost all year, you should divide that amount by 12. 
+Just because these expenses come up irregularly doesn't mean you can't be budgeting for them every month. I recommend that you save for them all year. Once you've added up what they all cost, you should divide that amount by 12. For example, say you have $2,000 worth of non-monthly expenses. If you divide that number by 12, you get about $166. That is the amount that you should be setting aside into a savings account or separate checking account each month. That way, you'll always be able to afford the bigger expense when it comes up. No more scrambling to pay your car insurance!
 
 ## Define Your Goals (Get Specific)
 
