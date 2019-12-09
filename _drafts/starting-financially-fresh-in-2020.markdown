@@ -22,7 +22,7 @@ xx
 
 ## Revisit Your Monthly Budget
 
-xx
+A budget, unfortunately, is not a set it and forget it thing. It's a 
 
 ## Automate Your Savings
 
