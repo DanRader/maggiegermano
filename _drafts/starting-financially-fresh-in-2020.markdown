@@ -14,7 +14,7 @@ xx
 
 ## Map Out Your Non-Monthly Expenses
 
-xx
+Something that is super easy to forget about when you're creating a budget is the expenses that don't come around every month. 
 
 ## Define Your Goals (Get Specific)
 
