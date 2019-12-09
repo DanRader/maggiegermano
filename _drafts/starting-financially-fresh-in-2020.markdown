@@ -26,15 +26,15 @@ xx
 
 ## Automate Your Savings
 
-As I told a dear friend yesterday, the only way to truly make sure that you're saving money is to automate the process. It's human nature to want to spend our money on things we enjoy. Saving isn't as sexy as going shopping. And if you promise yourself that you'll save what's leftover at the end of the month, chances are there won't be much leftover, if anything. 
+As I told a dear friend yesterday, the only way to truly make sure that you are saving money is to automate the process. It's human nature to want to spend our money on things we enjoy. Saving isn't as sexy as going shopping. And if you promise yourself that you'll save what's leftover at the end of the month, chances are there won't be much leftover, if anything. A new year is a great way to start implementing automated savings so that you can effectively save for your goals all year.
 
 There are multiple ways that you can automate your savings:
 
-* **Set up direct deposit with your employer.** x
+* **Set up direct deposit with your employer.** This is the option that I always used when I was employed. You can choose either a set amount or percentage of each paycheck and have it deposited into a separate savings account. You might even be able to set it up so that you're directing money into multiple savings accounts for multiple goals. It's a great way to set it and forget it. 
 
-* **Set up automatic transfers with your bank.** x
+* **Set up automatic transfers with your bank.** If you don't have the option to use direct deposit with your employer, or if you aren't employed at all, you can use your bank for this. Many banks will let you set up automatic transfers into a separate account. The idea is that once a paycheck hits your account (or on a specific day of the month), a certain amount of money will transfer into your savings. 
 
-* **Use a savings app like [Digit](https://digit.co/).** This type of app can be a great way to make sure you're setting money aside regularly. It even lets you set goals for your savings accounts. My one warning would be to make sure you don't use the "round up" option if you have a tight budget. 
+* **Use a savings app like [Digit](https://digit.co/).** This type of app can be a great way to make sure you're setting money aside regularly. It even lets you set goals for your savings accounts. My one warning would be to make sure you don't use the "round up" option if you have a tight budget. Using a round up savings function can be great for people who have leeway with their budget and aren't very good at saving. But it can also be unpredictable and transfer more money than you might be able to afford. A better option would be to choose a specific amount of money per month that you want the app to transfer for you.
 
 ## Put Your Credit Card Away
 
