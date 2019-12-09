@@ -22,7 +22,9 @@ xx
 
 ## Revisit Your Monthly Budget
 
-A budget, unfortunately, is not a set it and forget it thing. It's kind of like the Constitution... or what our Constitution should be. It's a living, breathing structure that should be revisited regularly to be changed to reflect the reality of the times. That's why the beginning of a new year is a great time to revisit your budget. 
+A budget, unfortunately, is not a set it and forget it thing. It's kind of like the Constitution... or what our Constitution should be. It's a living, breathing structure that should be revisited regularly to be changed to reflect the reality of the times. That's why the beginning of a new year is a great time to revisit your budget. Go through all your bills and update your numbers. Did your rent go up? Did Netflix raise their prices again? Perhaps your student loan payment changed after you got a raise this year. 
+
+It's also a great time to build your goals into your budget. Whether that's paying down debt or building up your savings, your budget should reflect those goals. 
 
 ## Automate Your Savings
 
