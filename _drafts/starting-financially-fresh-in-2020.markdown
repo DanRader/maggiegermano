@@ -18,13 +18,13 @@ xx
 
 ## Define Your Goals (Get Specific)
 
-xx
+As Ericka Young said on this week's Money Circle podcast episode, it's important to set SMART goals. That means that your goals are specific, measurable, achievable, relevant, and time bound. Yes, this sounds like something you'd talk about in a meeting at work, but there's a reason that SMART goals are so useful. You're giving yourself specific goals that are measurable and you also have a deadline. Rather than saying something like, "I want to save more", you would say, "I want to save $1,000 by December 2020". By doing this, you can divide $1,000 by 12 and see that you would have to save at least $83 a month to reach your goal by next December. 
 
 ## Revisit Your Monthly Budget
 
 A budget, unfortunately, is not a set it and forget it thing. It's kind of like the Constitution... or what our Constitution should be. It's a living, breathing structure that should be revisited regularly to be changed to reflect the reality of the times. That's why the beginning of a new year is a great time to revisit your budget. Go through all your bills and update your numbers. Did your rent go up? Did Netflix raise their prices again? Perhaps your student loan payment changed after you got a raise this year. 
 
-It's also a great time to build your goals into your budget. Whether that's paying down debt or building up your savings, your budget should reflect those goals. 
+It's also a great time to build your goals into your budget. Whether that's paying down debt or building up your savings, your budget should reflect those goals. Get clear on how much you can afford to be setting aside for your goals and put them into your budget as a line item that you stick to every month. 
 
 ## Automate Your Savings
 
