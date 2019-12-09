@@ -14,7 +14,9 @@ xx
 
 ## Map Out Your Non-Monthly Expenses
 
-Something that is super easy to forget about when you're creating a budget is the expenses that don't come around every month. 
+Something that is super easy to forget about when you're creating a budget is the expenses that don't come around every month. And those expenses are often the ones that can blow your budget completely! 
+
+I recommend that you save all year for those bigger, non-monthly expenses. Once you've added up what they cost all year, you should divide that amount by 12. 
 
 ## Define Your Goals (Get Specific)
 
