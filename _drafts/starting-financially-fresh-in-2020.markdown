@@ -22,7 +22,7 @@ xx
 
 ## Revisit Your Monthly Budget
 
-A budget, unfortunately, is not a set it and forget it thing. It's a 
+A budget, unfortunately, is not a set it and forget it thing. It's kind of like the Constitution... or what our Constitution should be. It's a living, breathing structure that should be revisited regularly to be changed to reflect the reality of the times. That's why the beginning of a new year is a great time to revisit your budget. 
 
 ## Automate Your Savings
 
