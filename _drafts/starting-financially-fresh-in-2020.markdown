@@ -28,6 +28,14 @@ xx
 
 As I told a dear friend yesterday, the only way to truly make sure that you're saving money is to automate the process. It's human nature to want to spend our money on things we enjoy. Saving isn't as sexy as going shopping. And if you promise yourself that you'll save what's leftover at the end of the month, chances are there won't be much leftover, if anything. 
 
+There are multiple ways that you can automate your savings:
+
+* **Set up direct deposit with your employer.** x
+
+* **Set up automatic transfers with your bank.** x
+
+* **Use a savings app like [Digit](https://digit.co/).** This type of app can be a great way to make sure you're setting money aside regularly. It even lets you set goals for your savings accounts. My one warning would be to make sure you don't use the "round up" option if you have a tight budget. 
+
 ## Put Your Credit Card Away
 
 If you struggle with overspending or have credit card debt that you're trying to pay off once and for all, there's really only one way to get back on track. You have to stop using your credit card. I'm sorry, but it's true! The more you continue to use your credit card, the more you're increasing your balance and interest charges. It also acts as a crutch if you're prone to overspending. It allows you to spend more than you can actually afford. So if you're trying to pay off debt, or even if you're just trying to teach yourself how to live within your means, you have to put your credit card away and stop using it. 
