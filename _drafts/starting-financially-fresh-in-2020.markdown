@@ -15,7 +15,7 @@ xx
 
 xx
 
-## Define Your Goals
+## Define Your Goals (Get Specific)
 
 xx
 
