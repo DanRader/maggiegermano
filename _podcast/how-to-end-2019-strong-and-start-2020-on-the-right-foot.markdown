@@ -4,7 +4,7 @@ date: 2019-12-09 05:00:00 -05:00
 lede: This week, Maggie is joined by financial coach Ericka Young to talk about the
   action steps you can take to finish 2019 off financially strong and start 2020 on
   the right foot.
-image: "/uploads/IMG_7085%20(2).jpg"
+image: "/uploads/IMG_7085.jpg"
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/89af69d6-6c6b-4685-913c-a50bc376e62f?dark=false"></iframe>
 podcast:
