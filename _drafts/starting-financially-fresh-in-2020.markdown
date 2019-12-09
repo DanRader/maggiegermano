@@ -10,7 +10,7 @@ As of this writing, we only have 22 days left in December, which means there's j
 
 ## Review Your Holiday Spending
 
-xx
+Every year, the holidays can come as a bit of a surprise. I know that I'm always shocked when November and December roll around. And that's one reason why holiday spending can throw us off our game. The start of the year is a great time to go back and review your spending around the holidays. The spending is still fresh and you can easily look back at your credit card or bank statements. Add everything up and see how much you spent this year on the holidays. And not just on gifts, but on travel, holiday parties, and decorations too. This is a great opportunity to see if you'd rather be spending less than you did or if you feel comfortable with what you spent. From there, you can plan throughout the year for this spending. This can look like saving money each month so that you have enough once the holidays come, or buying gifts throughout the year instead of waiting until November or December. If you start doing this, the holidays can at least be less financially stressful!
 
 ## Map Out Your Non-Monthly Expenses
 
