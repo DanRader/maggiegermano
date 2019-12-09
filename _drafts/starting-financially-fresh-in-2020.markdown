@@ -6,7 +6,7 @@ categories:
 image: "/uploads/plush-design-studio-5xjw079i6Q4-unsplash.jpg"
 ---
 
-As of this writing, we only have 22 days left in December, which means there's just over three weeks left in 2019. 
+As of this writing, we only have 22 days left in December, which means there's just over three weeks left in 2019. I won't freak you out by reminding you that that means that there's only 22 days left IN THIS DECADE (okay, sorry...). Although I'm not a huge New Years resolution person, the start of a new year can be a great time to reassess and put new systems into place. Start the new year (and the new DECADE) on the right foot by doing some or all of the things below.
 
 ## Review Your Holiday Spending
 
