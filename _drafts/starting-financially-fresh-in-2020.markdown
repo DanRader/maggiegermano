@@ -26,7 +26,7 @@ xx
 
 ## Automate Your Savings
 
-As I told a dear friend yesterday, the only way to really make sure that you're saving money is to automate it. 
+As I told a dear friend yesterday, the only way to truly make sure that you're saving money is to automate the process. It's human nature to want to spend our money on things we enjoy. Saving isn't as sexy as going shopping. And if you promise yourself that you'll save what's leftover at the end of the month, chances are there won't be much leftover, if anything. 
 
 ## Put Your Credit Card Away
 
