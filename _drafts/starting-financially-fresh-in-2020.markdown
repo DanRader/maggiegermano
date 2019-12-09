@@ -18,7 +18,7 @@ xx
 
 ## Define Your Goals (Get Specific)
 
-As Ericka Young said on this week's Money Circle podcast episode, it's important to set SMART goals. That means that your goals are specific, measurable, achievable, relevant, and time bound. Yes, this sounds like something you'd talk about in a meeting at work, but there's a reason that SMART goals are so useful. You're giving yourself specific goals that are measurable and you also have a deadline. Rather than saying something like, "I want to save more", you would say, "I want to save $1,000 by December 2020". By doing this, you can divide $1,000 by 12 and see that you would have to save at least $83 a month to reach your goal by next December. 
+As [Ericka Young](https://www.tailormadebudgets.com/) said on this week's [Money Circle podcast episode](https://www.maggiegermano.com/podcast/how-to-end-2019-strong-and-start-2020-on-the-right-foot/), it's important to set SMART goals. That means that your goals are specific, measurable, achievable, relevant, and time bound. Yes, this sounds like something you'd talk about in a meeting at work, but there's a reason that SMART goals are so useful. You're giving yourself specific goals that are measurable and you also have a deadline. Rather than saying something like, "I want to save more", you would say, "I want to save $1,000 by December 2020". By doing this, you can divide $1,000 by 12 and see that you would have to save at least $83 a month to reach your goal by next December. 
 
 ## Revisit Your Monthly Budget
 
