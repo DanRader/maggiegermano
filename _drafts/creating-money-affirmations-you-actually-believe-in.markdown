@@ -22,6 +22,6 @@ x
 
 x
 
-## Remind Yourself
+## Remind Yourself Often
 
 x
