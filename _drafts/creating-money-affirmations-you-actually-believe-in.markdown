@@ -24,4 +24,4 @@ x
 
 ## Remind Yourself Often
 
-x
+Affirmations can be wonderful and transformational, but they won't be very helpful if you don't remind yourself of them often. 
