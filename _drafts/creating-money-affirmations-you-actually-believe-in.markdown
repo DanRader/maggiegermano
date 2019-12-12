@@ -20,8 +20,8 @@ x
 
 ## Use Positive Language
 
-x
+One of the keys to affirmations is to use positive language. That means that instead of saying, "I won't overspend", you can say something like, "I 
 
 ## Remind Yourself Often
 
-Affirmations can be wonderful and transformational, but they won't be very helpful if you don't remind yourself of them often. 
+Affirmations can be wonderful and transformational, but they won't be very helpful if you don't remind yourself of them often.
