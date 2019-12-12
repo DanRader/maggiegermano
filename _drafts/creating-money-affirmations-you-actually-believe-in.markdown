@@ -12,7 +12,7 @@ x
 
 ## Use Language You Believe
 
-x
+The thing that really caught my ear was when Cristina 
 
 ## Be Incremental
 
