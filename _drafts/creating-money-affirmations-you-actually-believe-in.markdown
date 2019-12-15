@@ -28,3 +28,7 @@ One of the keys to affirmations is to use positive language. That means that ins
 ## Remind Yourself Often
 
 Affirmations can be wonderful and transformational, but they won't be very helpful if you don't remind yourself of them often.
+
+Not sure where to start with your own affirmations? Here are a few to inspire you:
+
+* 
