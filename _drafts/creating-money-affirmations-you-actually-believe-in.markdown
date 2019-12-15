@@ -15,15 +15,11 @@ Do you ever create and write down affirmations in order to change your mindset? 
 
 ## Start Small
 
-x
+You don't have to try to from zero to 100 immediately. In fact, I'm a big fan of setting incremental goals and taking steps up to your bigger ultimate goals. This can be helpful when it comes to creating positive affirmations too. 
 
 ## Use Language You Believe
 
-The thing that really caught my ear was when Cristina 
-
-## Be Incremental
-
-x
+The thing that really caught my ear was when Cristina mentioned that 
 
 ## Use Positive Language
 
