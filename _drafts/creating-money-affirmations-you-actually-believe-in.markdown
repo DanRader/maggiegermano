@@ -15,11 +15,11 @@ Do you ever create and write down affirmations in order to change your mindset? 
 
 ## Start Small
 
-You don't have to try to from zero to 100 immediately. In fact, I'm a big fan of setting incremental goals and taking steps up to your bigger ultimate goals. This can be helpful when it comes to creating positive affirmations too. 
+You don't have to try to from zero to 100 immediately. In fact, I'm a big fan of setting incremental goals and taking steps that lead up to your bigger ultimate goals. This approach makes things feel more achievable. This can be helpful when it comes to creating positive affirmations too. 
 
 ## Use Language You Believe
 
-The thing that really caught my ear was when Cristina mentioned that 
+The thing that really caught my ear was when Cristina mentioned that affirmations aren't helpful if we don't actually believe what we're telling ourselves. And that's something I've struggled with myself. If I don't believe the affirmation I'm writing down and repeating, then I tend to mentally scoff at it. Chances are you feel that way too. So use language that you actually believe in! 
 
 ## Use Positive Language
 
@@ -31,4 +31,12 @@ Affirmations can be wonderful and transformational, but they won't be very helpf
 
 Not sure where to start with your own affirmations? Here are a few to inspire you:
 
-* 
+* I track my expenses often and with ease.
+
+* My budget works for me.
+
+* I am in control of my money.
+
+* x
+
+*Do you have your own affirmations that work for you? Share in the comments!*
