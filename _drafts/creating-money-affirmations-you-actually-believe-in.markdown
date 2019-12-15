@@ -1,6 +1,8 @@
 ---
 title: Creating Money Affirmations You Actually Believe In
 date: 2019-12-16 11:00:00 -05:00
+categories:
+- lifestyle
 image: "/uploads/kaylee-brayne-P2twuTki024-unsplash.jpg"
 tweet: Are you sick of trying out affirmations that you don't buy into?
 posts:
