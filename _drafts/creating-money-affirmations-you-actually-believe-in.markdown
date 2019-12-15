@@ -2,6 +2,7 @@
 title: Creating Money Affirmations You Actually Believe In
 date: 2019-12-16 11:00:00 -05:00
 image: "/uploads/kaylee-brayne-P2twuTki024-unsplash.jpg"
+tweet: Are you sick of trying out affirmations that you don't buy into?
 posts:
 - Easy Financial Goals for 2018
 - 3 Easy Financial Goals for 2017
@@ -24,7 +25,7 @@ x
 
 ## Use Positive Language
 
-One of the keys to affirmations is to use positive language. That means that instead of saying, "I won't overspend", you can say something like, "I 
+One of the keys to affirmations is to use positive language. That means that instead of saying, "I won't overspend", you can say something like, "I am capable of spending within my budget". Using positive language frames your mindset in the right 
 
 ## Remind Yourself Often
 
