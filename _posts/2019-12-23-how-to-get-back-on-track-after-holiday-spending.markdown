@@ -1,7 +1,17 @@
 ---
 title: How To Get Back On Track After Holiday Spending
 date: 2019-12-23 11:00:00 -05:00
+published: false
+categories:
+- spending
+- budget
 image: "/uploads/heidi-fin-2TLREZi7BUg-unsplash.jpg"
+tweet: The holiday season is almost over! Here's how to get back on track with your
+  money.
+posts:
+- How to Stay Focused on Your Financial Needs This Holiday Season
+- How to Plan Ahead for Holiday Spending
+- How to Stay on Budget When Traveling for the Holidays
 ---
 
 Happy holidays, y'all! As of today, we are two days away from Christmas and a day into Hanukkah. That means that we're SO close to being done with holiday season. And hopefully most of you have finished all of your holiday shopping by now. Don't get me wrong, I enjoy the holiday season, especially now that I have my own house to decorate. But there's a lot of pressure around spending money this season, and it can be really overwhelming. You probably don't want to think more about money right now, but right now is actually a great time to work on getting back on track! 
