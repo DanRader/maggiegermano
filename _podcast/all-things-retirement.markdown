@@ -5,6 +5,8 @@ published: false
 lede: In this week's episode, Maggie sits down with financial advisor Jessie Echard
   Hill to talk about saving for retirement.
 image: "/uploads/headshot%202015.jpg"
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/82ce15f0-8c79-4ed9-9b4c-16fb37187c36?dark=false"></iframe>
 podcast:
 - Financial Affirmations to Help You Get Your Money Right
 - How to End 2019 Strong and Start 2020 on the Right Foot
@@ -13,7 +15,33 @@ podcast:
 
 ## Resources:
 
-* Email Jessie: Jessie@finadvinc.com 
+* Email Jessie: Jessie@finadvinc.com
+
+* **[401k](https://www.investopedia.com/terms/1/401kplan.asp)**
+
+* **[403b](https://www.investopedia.com/terms/1/403bplan.asp)**
+
+* **[Roth IRA](https://investor.vanguard.com/ira/roth-ira)**
+
+* **[Traditional IRA](https://investor.vanguard.com/ira/traditional-ira)**
+
+* **[Retirement match](https://www.investopedia.com/articles/personal-finance/112315/how-401k-matching-works.asp)**
+
+* **[Vesting in your retirement plan](https://smartasset.com/retirement/being-fully-vested-in-a-retirement-plan)**
+
+* **[Cash value life insurance](https://www.investopedia.com/terms/c/cash-value-life-insurance.asp)**
+
+* **[Long-term care insurance](https://www.aarp.org/caregiving/financial-legal/info-2018/long-term-care-insurance-fd.html)**
+
+* **[Long-term care planning](https://www.nia.nih.gov/health/what-long-term-care)**
+
+* **[Term life insurance](https://www.policygenius.com/life-insurance/is-term-life-insurance-worth-it/#what-exactly-is-term-life-insurance)**
+
+* **[Whole life insurance](https://www.policygenius.com/life-insurance/whole-life-insurance/)**
+
+* **[Morning Star](https://www.morningstar.com/)**
+
+* **[Yahoo Finance](https://finance.yahoo.com/)**
 
 ## **Jessie's Bio:**
 
