@@ -37,6 +37,8 @@ Not sure where to start with your own affirmations? Here are a few to inspire yo
 
 * I am in control of my money.
 
-* x
+* I value my long-term goals over my short-term gratification.
+
+* 
 
 *Do you have your own affirmations that work for you? Share in the comments!*
