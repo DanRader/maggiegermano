@@ -17,7 +17,7 @@ This week’s episode is brought to you by Stitcher Premium! Listen to some of y
 
 --
 
-Join Maggie and financial coach Ericka Young to learn about what you can do to get your finances right as 2019 comes to an end and how to set yourself up for success in 2020. They touch on holiday spending, goal setting, having money conversations, and more. 
+Join Maggie and financial coach Ericka Young to learn about what you can do to get your finances right as 2019 comes to an end and how to set yourself up for success in 2020. They touch on holiday spending, goal setting, having money conversations, and more.
 
 **Resources:**
 
@@ -31,7 +31,8 @@ Join Maggie and financial coach Ericka Young to learn about what you can do to g
 
 --
 
-Ericka Young is the president and founder of [Tailor-Made Budgets](https://www.tailormadebudgets.com/) which she opened in 2005 after she and her husband Chris climbed their way out of nearly $100,000 in debt. She became a certified financial coach by [Dave Ramsey](https://www.daveramsey.com/)’s Lampo Group in 2006 and combines her passion for helping people with creative debt reduction techniques so everyone can have a path to financial freedom. Ericka is a recognized financial expert who inspires people to significantly improve their finances, family and their future with a solid plan. Ericka’s Best-Selling book, “Naked and Unashamed: 10 Money Conversations Every Couple Must Have” was released online in February 2017 worldwide. She currently teaches her message of debt freedom through her e-newsletters, personal and group coaching, workshops and speaking engagements. Ericka, Chris and their two teenage daughters, Faith and Olivia reside in Fishers, IN. \
+Ericka Young is the president and founder of [Tailor-Made Budgets](https://www.tailormadebudgets.com/) which she opened in 2005 after she and her husband Chris climbed their way out of nearly $100,000 in debt. She became a certified financial coach by [Dave Ramsey](https://www.daveramsey.com/)’s Lampo Group in 2006 and combines her passion for helping people with creative debt reduction techniques so everyone can have a path to financial freedom. Ericka is a recognized financial expert who inspires people to significantly improve their finances, family and their future with a solid plan. Ericka’s Best-Selling book, “Naked and Unashamed: 10 Money Conversations Every Couple Must Have” was released online in February 2017 worldwide. She currently teaches her message of debt freedom through her e-newsletters, personal and group coaching, workshops and speaking engagements. Ericka, Chris and their two teenage daughters, Faith and Olivia reside in Fishers, IN.
+
 --
 
 To learn more about Maggie and her coaching and speaking services, visit **[www.maggiegermano.com](https://www.maggiegermano.com/)**.
@@ -46,7 +47,7 @@ To get more involved with Money Circle:
 
 The theme music is called Escaping Light by Aaron Sprinkle. The podcast artwork design is by Maggie’s dear husband, **[Dan Rader](https://danrdesign.com/)**.
 
---- 
+---
 
 ## TRANSCRIPTION
 
