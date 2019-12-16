@@ -39,7 +39,7 @@ Not sure where to start with your own affirmations? Here are a few to inspire yo
 
 * I value my long-term goals over my short-term gratification.
 
-* I am worth of financial stability.
+* I am worthy of financial stability.
 
 * I am more than my past mistakes.
 
