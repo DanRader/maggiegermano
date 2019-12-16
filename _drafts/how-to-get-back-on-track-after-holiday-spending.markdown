@@ -27,10 +27,6 @@ Once you have some clarity about where your money went and how you feel about it
 
 A [low-spend month](https://www.maggiegermano.com/blog/how-to-complete-a-low-spend-month/) is a fantastic way to reset and get back on track with your budget. It can also be called a "no spend month", but I prefer to call it "low-spend", because you still have to buy things like groceries. The idea is that you won't spending money on anything that isn't a necessity. When I did a low-spend month in November, I didn't do any shopping outside of grocery shopping and necessities for the house. I didn't go out to eat at all and when I went to the movies, I used a gift card. It really cut down on my Amazon shopping and other random charges that I wouldn't necessarily think twice about. January is a great time to do this because you can start 2020 on the right foot financially. And if you weren't able to budget for your holiday spending, a low-spend month can help you to catch up and pay off your credit card. 
 
-## Revisit Your Budget
-
-xx
-
 ## Save For the Holidays All Year
 
 At this point, I'm a broken record about this, but it's so important to save for the holidays all year. If you're saving smaller amounts each month, you'll have enough money to pay for travel or to buy gifts for your loved ones once the holidays roll around. 
