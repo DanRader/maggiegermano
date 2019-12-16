@@ -7,7 +7,7 @@ Happy holidays, y'all! As of today, we are two days away from Christmas and a da
 
 ## Review Your Holiday Spending
 
-Analyzing your spending soon after you've done it is a great way to easily understand how much you've spent and what you've spent it on. 
+Analyzing your spending soon after you've done it is a great way to easily understand how much you've spent and what you've spent it on. Go back and look at exactly what you spent this year. Include things like baking materials, decorations, a Christmas tree, travel costs, gifts, and anything else that was related to the holidays. 
 
 ## Make January a Low-Spend Month
 
