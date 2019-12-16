@@ -19,7 +19,7 @@ You don't have to try to from zero to 100 immediately. In fact, I'm a big fan of
 
 ## Use Language You Believe
 
-The thing that really caught my ear was when Cristina mentioned that affirmations aren't helpful if we don't actually believe what we're telling ourselves. And that's something I've struggled with myself. If I don't believe the affirmation I'm writing down and repeating, then I tend to mentally scoff at it. Chances are you feel that way too. So use language that you actually believe in! 
+The thing that really caught my ear during our conversation was when Cristina mentioned that affirmations aren't helpful if we don't actually believe what we're telling ourselves. And that's something I've struggled with myself. If I don't believe the affirmation I'm writing down and repeating, then I tend to mentally scoff at it. Chances are you feel that way too. So use language that you actually believe in! Or at least language that you see yourself believing eventually. Just like the advice above, you have to start small and build from there.
 
 ## Use Positive Language
 
