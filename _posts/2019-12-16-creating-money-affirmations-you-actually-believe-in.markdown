@@ -15,7 +15,7 @@ Do you ever create and write down affirmations in order to change your mindset? 
 
 ## Start Small
 
-You don't have to try to from zero to 100 immediately. In fact, I'm a big fan of setting incremental goals and taking steps that lead up to your bigger ultimate goals. This approach makes things feel more achievable. This can be helpful when it comes to creating positive affirmations too. You can't go from thinking you're the world's worst money manager to believing that you own your money shit and can do anything you want. In fact, trying to tell yourself that might make you feel more frustrated and alienated. So start small. Maybe eventually you want to believe that you'll never overspend again, but for today, tell yourself that you're capable of tracking your spending. 
+You don't have to try to from zero to 100 immediately. In fact, I'm a big fan of setting incremental goals and taking steps that lead up to your bigger ultimate goals. This approach makes things feel more achievable. This can be helpful when it comes to creating positive affirmations too. You can't go from thinking you're the world's worst money manager to believing that you own your money shit and can do anything you want. In fact, trying to tell yourself that might make you feel more frustrated and alienated. So start small. Maybe eventually you want to believe that you'll never overspend again, but for today, tell yourself that you're capable of tracking your spending.
 
 ## Use Language You Believe
 
@@ -23,7 +23,7 @@ The thing that really caught my ear during our conversation was when Cristina me
 
 ## Use Positive Language
 
-One of the keys to affirmations is to use positive language. That means that instead of saying, "I won't overspend", you can say something like, "I am capable of spending within my budget". Using positive language frames your mindset in the right 
+One of the keys to affirmations is to use positive language. That means that instead of saying, "I won't overspend", you can say something like, "I am capable of spending within my budget". Using positive language helps to shift your mindset into a more positive light. Since you're trying to change your mindset to be more focused on abundance and confidence, using positive language will help shift you away from the idea of scarcity.
 
 ## Remind Yourself Often
 
