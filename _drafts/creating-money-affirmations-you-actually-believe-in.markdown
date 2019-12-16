@@ -27,7 +27,7 @@ One of the keys to affirmations is to use positive language. That means that ins
 
 ## Remind Yourself Often
 
-Affirmations can be wonderful and transformational, but they won't be very helpful if you don't remind yourself of them often. Once you come up with a few that motivate you and make you feel good, put them in places that you'll see them. Perhaps that looks like a sticky note that goes on the wall by your computer. Or maybe you're writing them down in your journal or planner every day or week. Regardless of what it looks like for you, make sure that you're regularly 
+Affirmations can be wonderful and transformational, but they won't be very helpful if you don't remind yourself of them often. Once you come up with a few that motivate you and make you feel good, put them in places that you'll see them. Perhaps that looks like a sticky note that goes on the wall by your computer. Or maybe you're writing them down in your journal or planner every day or week. Regardless of what it looks like for you, make sure that you're regularly repeating them to yourself.
 
 Not sure where to start with your own affirmations? Here are a few to inspire you:
 
