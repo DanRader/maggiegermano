@@ -11,7 +11,7 @@ Analyzing your spending soon after you've done it is a great way to easily under
 
 ## Make January a Low-Spend Month
 
-xx
+A [low-spend month](https://www.maggiegermano.com/blog/how-to-complete-a-low-spend-month/) is a fantastic way to reset and get back on track with your budget. It can also be called a "no spend month", but I prefer to call it "low-spend"
 
 ## Revisit Your Budget
 
