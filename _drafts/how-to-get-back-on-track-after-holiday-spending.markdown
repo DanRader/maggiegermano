@@ -19,4 +19,4 @@ xx
 
 ## Save For the Holidays All Year
 
-s
+At this point, I'm a broken record about this, but it's so important to save for the holidays all year. If you're saving smaller amounts each month, you'll have enough money to pay for travel or to buy gifts for your loved ones once the holidays roll around. 
