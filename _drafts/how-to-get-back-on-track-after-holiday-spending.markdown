@@ -9,7 +9,19 @@ Happy holidays, y'all! As of today, we are two days away from Christmas and a da
 
 ## Review Your Holiday Spending
 
-Analyzing your spending soon after you've done it is a great way to easily understand how much you've spent and what you've spent it on. Go back and look at exactly what you spent this year. Include things like baking materials, decorations, a Christmas tree, travel costs, gifts, and anything else that was related to the holidays. 
+Analyzing your spending soon after you've done it is a great way to easily understand how much you've spent and what you've spent it on. Go back and look at exactly what you spent this year. Include things like baking materials, decorations, a Christmas tree, travel costs, gifts, and anything else that was related to the holidays. Ask yourself these questions: 
+
+* What am I glad that I spent money on?
+
+* Is there anything I wish I hadn't spent money on?  
+
+* Was anything a waste of money?
+
+* Do I feel good about the amount I spent?
+
+* Would I feel good spending this much money next year?
+
+Once you have some clarity about where your money went and how you feel about it, you'll be able to make informed decisions moving forward. If you're happy with your spending, you can comfortably budget for spending that much next year. If you're not happy with it, you can decide what you want to do differently next time.
 
 ## Make January a Low-Spend Month
 
