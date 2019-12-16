@@ -11,9 +11,7 @@ podcast:
 - Maintaining Your Values During the Holiday Season
 ---
 
-## Episode Notes
-
-xx
+## Resources:
 
 * Email Jessie: Jessie@finadvinc.com 
 
