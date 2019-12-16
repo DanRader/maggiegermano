@@ -7,7 +7,7 @@ Happy holidays, y'all! As of today, we are two days away from Christmas and a da
 
 ## Review Your Holiday Spending
 
-xx
+Analyzing your spending soon after you've done it is a great way to easily understand how much you've spent and what you've spent it on. 
 
 ## Make January a Low-Spend Month
 
@@ -16,3 +16,7 @@ xx
 ## Revisit Your Budget
 
 xx
+
+## Save For the Holidays All Year
+
+s
