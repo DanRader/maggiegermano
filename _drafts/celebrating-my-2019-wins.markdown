@@ -10,15 +10,29 @@ posts:
 - Do This Instead of Setting New Year’s Resolutions
 ---
 
-A few years ago, I started writing out all of my accomplishments from the past year, rather than only focusing on resolutions for the new year. This was a helpful way to remind myself of everything I actually did achieve that year, instead of only thinking about how I could improve myself moving forward. I am always pleasantly surprised at how much I did in just one year. This exercise also helps me set goals for the next year in an informed and confident way. 
+A few years ago, I started writing out all of my accomplishments from the past year, rather than only focusing on resolutions for the new year. This was a helpful way to remind myself of everything I actually did achieve that year, instead of only thinking about how I could improve myself moving forward. I am always pleasantly surprised at how much I did in just one year. This exercise also helps me set goals for the next year in an informed and confident way.
 
 ## Personal Wins
 
-Work isn't the only thing that matters in terms of 
+Work isn't the only thing that matters in terms of
 
 * I started going back to therapy regularly.
 
-* 
+* I officiated one of my best friend's wedding.
+
+* Dan and I went to see Hamilton on Broadway.
+
+* We got a puppy, Bruno.
+
+* Dan and I went to Bermuda, Maine, 
+
+* I went to Cape May with my sisters and two of my cousins for a girls trip.
+
+* We celebrated our first wedding anniversary.
+
+* I finally got comfortable driving a car.
+
+* I joined a book club and I attend every month, even if I haven't read the book yet (which is most months). 
 
 ## Professional Wins
 
@@ -36,6 +50,18 @@ As an entrepreneur, I don't go through an official year-end review with my boss.
 
 * I earned 40% more in my business this year than I did last year.
 
+* I attended Statement for the first time.
+
+* I attended ShePodcasts Live. 
+
 ## Financial Wins
 
 xx
+
+* Dan and I both got health insurance.
+
+* We found out about and qualified for a home improvement grant from our town.
+
+* We bought a new car in cash.
+
+* 
