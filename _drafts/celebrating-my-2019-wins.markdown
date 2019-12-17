@@ -16,6 +16,10 @@ A few years ago, I started writing out all of my accomplishments from the past y
 
 Work isn't the only thing that matters in terms of 
 
+* I started going back to therapy regularly.
+
+* 
+
 ## Professional Wins
 
 As an entrepreneur, I don't go through an official year-end review with my boss. So I don't get any organized feedback about what I did well or what I need to improve upon. This can make it easy to ignore the things I have done well, because I'm mostly working by myself. So going back and reviewing what I achieved with my business can be a great confidence boost.
@@ -30,7 +34,7 @@ As an entrepreneur, I don't go through an official year-end review with my boss.
 
 * I won the Excellence in Finance award at the Perfect Entrepreneur Awards.
 
-* 
+* I earned 40% more in my business this year than I did last year.
 
 ## Financial Wins
 
