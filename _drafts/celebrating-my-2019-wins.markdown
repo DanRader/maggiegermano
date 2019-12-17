@@ -14,7 +14,7 @@ A few years ago, I started writing out all of my accomplishments from the past y
 
 ## Personal Wins
 
-Work isn't the only thing that matters in terms of
+Work isn't the only thing that matters in terms of celebrating wins. 
 
 * I started going back to therapy regularly.
 
@@ -24,7 +24,7 @@ Work isn't the only thing that matters in terms of
 
 * We got a puppy, Bruno.
 
-* Dan and I went to Bermuda, Maine, 
+* Dan and I went to Bermuda, Maine, Peru.
 
 * I went to Cape May with my sisters and two of my cousins for a girls trip.
 
@@ -33,6 +33,10 @@ Work isn't the only thing that matters in terms of
 * I finally got comfortable driving a car.
 
 * I joined a book club and I attend every month, even if I haven't read the book yet (which is most months). 
+
+* I worked with a health coach to start taking control over my health.
+
+* I worked with a style coach to feel more confident about my wardrobe and body.
 
 ## Professional Wins
 
