@@ -62,10 +62,12 @@ As an entrepreneur, I don't go through an official year-end review with my boss.
 
 xx
 
-* Dan and I both got health insurance.
+* Dan and I both got life  insurance.
 
 * We found out about and qualified for a home improvement grant from our town.
 
 * We bought a new car in cash.
+
+* We earned nearly $12,000 (before taxes and expenses) from our basement Airbnb.
 
 * 
