@@ -10,11 +10,11 @@ posts:
 - Do This Instead of Setting New Year’s Resolutions
 ---
 
-xx
+A few years ago, I started writing out all of my accomplishments from the past year, rather than only focusing on resolutions for the new year. This was a helpful way to remind myself of everything I actually did achieve that year, instead of only thinking about how I could improve myself moving forward. I am always pleasantly surprised at how much I did in just one year. This exercise also helps me set goals for the next year in an informed and confident way. 
 
 ## Personal Wins
 
-xx
+Work isn't the only thing that matters in terms of 
 
 ## Professional Wins
 
