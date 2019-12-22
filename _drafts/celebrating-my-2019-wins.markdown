@@ -71,3 +71,5 @@ xx
 * We earned nearly $12,000 (before taxes and expenses) from our basement Airbnb.
 
 * Dan got a new job after he got laid off at his company, with a healthy salary increase.
+
+*What are your different wins from 2019? Share in the comments!*
