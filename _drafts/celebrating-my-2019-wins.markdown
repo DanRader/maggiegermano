@@ -14,7 +14,7 @@ A few years ago, I started writing out all of my accomplishments from the past y
 
 ## Personal Wins
 
-Getting married and having babies is not the most important thing to ever happen to women. In fact, a friend of mine created a greeting card company that says just that! But there are plenty of personal achievements that I am very proud of from this past year. 
+Getting married and having babies is not the most important thing to ever happen to women. In fact, a friend of mine created a [greeting card company](https://stefanieoconnell.com/statement-cards) that says just that! But there are plenty of personal achievements that I am very proud of from this past year. 
 
 * I started going back to therapy regularly.
 
@@ -42,13 +42,13 @@ Getting married and having babies is not the most important thing to ever happen
 
 As an entrepreneur, I don't get to go through an official year-end review with my boss. So I don't get any organized feedback about what I did well or what I need to improve upon. This can make it easy to ignore the things I have done well, because I'm mostly working by myself. So going back and reviewing what I achieved with my business can be a great confidence boost, as well as an opportunity for learning and improving.
 
-* I landed my highest paid speaking gig.
+* I landed my highest paying speaking gig.
 
 * I traveled to Atlanta and Boston for speaking gigs.
 
 * I spoke on a panel at FinCon.
 
-* I launched my podcast, Money Circle.
+* I launched my podcast, [Money Circle](https://www.maggiegermano.com/podcast/).
 
 * I won the Excellence in Finance award at the Perfect Entrepreneur Awards.
 
