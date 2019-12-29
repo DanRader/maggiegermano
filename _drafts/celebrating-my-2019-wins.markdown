@@ -14,7 +14,7 @@ A few years ago, I started writing out all of my accomplishments from the past y
 
 ## Personal Wins
 
-Work isn't the only thing that matters in terms of celebrating wins.
+Getting married and having babies is not the most important thing to ever happen to women. In fact, a friend of mine created a greeting card company that says just that! But there are plenty of personal achievements that I am very proud of from this past year. 
 
 * I started going back to therapy regularly.
 
@@ -22,15 +22,15 @@ Work isn't the only thing that matters in terms of celebrating wins.
 
 * Dan and I went to see Hamilton on Broadway.
 
-* We got a puppy, Bruno.
+* We got a corgi puppy, Bruno.
 
-* Dan and I went to Bermuda, Maine, Peru.
+* Dan and I went to Chicago, Bermuda, Maine, and Peru.
 
 * I went to Cape May with my sisters and two of my cousins for a girls trip.
 
-* We celebrated our first wedding anniversary.
+* Dan and I celebrated our first wedding anniversary.
 
-* I finally got comfortable driving a car.
+* I finally got comfortable driving a car (it only took 15 years).
 
 * I joined a book club and I attend every month, even if I haven't read the book yet (which is most months).
 
@@ -40,7 +40,7 @@ Work isn't the only thing that matters in terms of celebrating wins.
 
 ## Professional Wins
 
-As an entrepreneur, I don't go through an official year-end review with my boss. So I don't get any organized feedback about what I did well or what I need to improve upon. This can make it easy to ignore the things I have done well, because I'm mostly working by myself. So going back and reviewing what I achieved with my business can be a great confidence boost.
+As an entrepreneur, I don't get to go through an official year-end review with my boss. So I don't get any organized feedback about what I did well or what I need to improve upon. This can make it easy to ignore the things I have done well, because I'm mostly working by myself. So going back and reviewing what I achieved with my business can be a great confidence boost, as well as an opportunity for learning and improving.
 
 * I landed my highest paid speaking gig.
 
