@@ -10,11 +10,11 @@ posts:
 - Do This Instead of Setting New Year’s Resolutions
 ---
 
-A few years ago, I started writing out all of my accomplishments from the past year, rather than only focusing on resolutions for the new year. This was a helpful way to remind myself of everything I actually did achieve that year, instead of only thinking about how I could improve myself moving forward. I am always pleasantly surprised at how much I did in just one year. This exercise also helps me set goals for the next year in an informed and confident way.
+A few years ago, I started writing out all of my accomplishments from the past year, rather than only focusing on resolutions for the new year. This was a helpful way to remind myself of everything I actually did achieve that year, instead of only thinking about how I could improve myself moving forward. I am always pleasantly surprised at how much I did in just one year. This exercise also helps me set goals for the next year in an informed and confident way. Here's what I came up with for this year:
 
 ## Personal Wins
 
-Work isn't the only thing that matters in terms of celebrating wins. 
+Work isn't the only thing that matters in terms of celebrating wins.
 
 * I started going back to therapy regularly.
 
@@ -32,7 +32,7 @@ Work isn't the only thing that matters in terms of celebrating wins.
 
 * I finally got comfortable driving a car.
 
-* I joined a book club and I attend every month, even if I haven't read the book yet (which is most months). 
+* I joined a book club and I attend every month, even if I haven't read the book yet (which is most months).
 
 * I worked with a health coach to start taking control over my health.
 
@@ -56,7 +56,7 @@ As an entrepreneur, I don't go through an official year-end review with my boss.
 
 * I attended Statement for the first time.
 
-* I attended ShePodcasts Live. 
+* I attended ShePodcasts Live.
 
 ## Financial Wins
 
