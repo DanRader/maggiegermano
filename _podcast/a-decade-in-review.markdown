@@ -1,7 +1,11 @@
 ---
 title: A Decade in Review
 date: 2019-12-30 05:00:00 -05:00
-published: false
+lede: Maggie sits down to reflect on the past decade of life and everything that came
+  with it.
+image: "/uploads/DSC_5050-516f91.jpg"
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/1ebac2cb-cac4-46ab-b6db-1c72a11ccbb6?dark=false"></iframe>
 podcast:
 - All Things Retirement
 - Financial Affirmations to Help You Get Your Money Right
