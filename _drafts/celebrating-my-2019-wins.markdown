@@ -60,9 +60,9 @@ As an entrepreneur, I don't get to go through an official year-end review with m
 
 ## Financial Wins
 
-xx
+As a financial coach and just overall money nerd, I take my financial progress seriously. 
 
-* Dan and I both got life  insurance.
+* Dan and I both got life insurance.
 
 * We found out about and qualified for a home improvement grant from our town, which helped reduce those costs by $1,000 per qualifying project.
 
@@ -71,5 +71,9 @@ xx
 * We earned nearly $12,000 (before taxes and expenses) from our basement Airbnb.
 
 * Dan got a new job after he got laid off at his company, with a healthy salary increase.
+
+* I set enough money aside to max out my Roth IRA for 2019.
+
+* I paid my business taxes quarterly.
 
 *What are your different wins from 2019? Share in the comments!*
