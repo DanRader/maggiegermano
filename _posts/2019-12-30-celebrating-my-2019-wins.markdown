@@ -1,6 +1,9 @@
 ---
 title: Celebrating My 2019 Wins
 date: 2019-12-30 11:00:00 -05:00
+published: false
+categories:
+- lifestyle
 image: "/uploads/adi-goldstein-Hli3R6LKibo-unsplash.jpg"
 tweet: Before we look forward to set new goals, we should celebrate what we've already
   achieved.
@@ -60,7 +63,7 @@ As an entrepreneur, I don't get to go through an official year-end review with m
 
 ## Financial Wins
 
-As a financial coach and just overall money nerd, I take my financial progress seriously. 
+As a financial coach and just overall money nerd, I take my financial progress seriously. And not all financial wins are related to income or increasing my net worth. A lot of them are actually related to just taking the necessary small steps.
 
 * Dan and I both got life insurance.
 
@@ -75,5 +78,7 @@ As a financial coach and just overall money nerd, I take my financial progress s
 * I set enough money aside to max out my Roth IRA for 2019.
 
 * I paid my business taxes quarterly.
+
+Overall, I think 2019 was a pretty good year! I feel much better after celebrating my accomplishments. I recommend that you do it too! Get started using [this worksheet](https://www.dropbox.com/s/e43ofu3r8mbx1r8/Celebrating2019.pdf?dl=0).
 
 *What are your different wins from 2019? Share in the comments!*
