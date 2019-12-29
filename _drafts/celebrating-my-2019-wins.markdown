@@ -46,7 +46,7 @@ As an entrepreneur, I don't get to go through an official year-end review with m
 
 * I traveled to Atlanta and Boston for speaking gigs.
 
-* I spoke on a panel at FinCon.
+* I spoke on a panel at [FinCon](https://finconexpo.com/).
 
 * I launched my podcast, [Money Circle](https://www.maggiegermano.com/podcast/).
 
@@ -54,9 +54,9 @@ As an entrepreneur, I don't get to go through an official year-end review with m
 
 * I earned 40% more in my business this year than I did last year.
 
-* I attended Statement for the first time.
+* I attended [Statement](https://www.statementevent.co/) for the first time.
 
-* I attended ShePodcasts Live.
+* I attended [ShePodcasts Live](https://www.shepodcasts.live/).
 
 ## Financial Wins
 
