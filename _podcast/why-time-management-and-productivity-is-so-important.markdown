@@ -5,6 +5,8 @@ published: false
 lede: This week, Maggie sits down with life coach Cristina Roman to talk about time
   management and productivity.
 image: "/uploads/Cristina-Roman-2019-LCS-Headshot.png"
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/81d9ade0-217d-44dc-8fb2-73fef95928fb?dark=false"></iframe>
 podcast:
 - A Decade in Review
 - All Things Retirement
