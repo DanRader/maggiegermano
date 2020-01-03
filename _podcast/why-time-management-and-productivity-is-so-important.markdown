@@ -19,6 +19,8 @@ podcast:
 
 * [Printable:](https://piquecoaching.co/deep-work-optin/) How to get into a deep work state in 15 minutes
 
+* [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear
+
 * [James Lenhoff](https://wqcorp.com/james-m-lenhoff-cfp/), CFP
 
 * [Eckhart Tolle](https://www.eckharttolle.com/)
@@ -48,3 +50,9 @@ To get more involved with Money Circle:
 * Sign up for the **[virtual membership program](https://maggiegermano.podia.com/inner-circle)**
 
 The theme music is called Escaping Light by Aaron Sprinkle. The podcast artwork design is by Maggie’s dear husband, **[Dan Rader](https://danrdesign.com/)**.
+
+---
+
+## TRANSCRIPTION
+
+X
