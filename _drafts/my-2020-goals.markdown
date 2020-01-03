@@ -16,7 +16,7 @@ xx
 
 ## Get My Health Back On Track
 
-s
+If you know me, you know I have a nearly uncontrollable sweet tooth. If you give me a bag of Hershey's Kisses or Hugs, I can finish it pretty quickly and with ease. You also might know that I've been struggling with my hormones and my weight for the past several years. I have both PCOS and hypothyroidism, which can both make it easy to gain weight and difficult to lose weight. PCOS also makes me more predisposed to get diabetes at some point. So these things do not mesh well with my sweet tooth or my desire to be a generally healthy person. Working from home over the past two years has also made it so that I'm not moving my body as much as I used to. All that said, I've lost touch with prioritizing my health and I really want to get back to that again. For me, this will look like exercising more often (whether that is going to the gym or just walking more in general), eating better (more whole foods, less candy), and 
 
 ## Start A Family
 
