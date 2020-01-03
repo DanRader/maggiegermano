@@ -2,6 +2,10 @@
 title: My 2020 Goals
 date: 2020-01-06 11:00:00 -05:00
 image: "/uploads/kelly-sikkema-RCpEWDyC5sQ-unsplash.jpg"
+posts:
+- Easy Financial Goals for 2018
+- 3 Easy Financial Goals for 2017
+- Do This Instead of Setting New Year’s Resolutions
 ---
 
 *Do you need some help setting goals for this year? Come to the [Money Circle meetup](https://www.eventbrite.com/e/money-circle-setting-goals-for-2020-tickets-85874237155) in DC this Wednesday, January 8th!*
