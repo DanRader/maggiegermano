@@ -4,3 +4,22 @@ date: 2020-01-06 05:00:00 -05:00
 published: false
 ---
 
+xx
+
+--
+
+Cristina Roman is a Washington, DC-based Certified Life Coach for antsy high-achievers ready to go all in on their own evolution with high-impact, low-frills coaching. She’s obsessed with the mind, intuition, creativity, and what really makes people tick. (Spoiler: It’s not usually money.) She half-jokes that she’s Cross Legged Coach; her goal is always to keep things casual but wildly impactful in her work.
+
+--
+
+To learn more about Maggie and her coaching and speaking services, visit **[www.maggiegermano.com](https://www.maggiegermano.com/)**.
+
+To get more involved with Money Circle:
+
+* Join the **[free Facebook group](https://www.facebook.com/groups/MoneyCircleGroup)**
+
+* Come to an **[in-person event](https://www.maggiegermano.com/moneycircle/)** in DC
+
+* Sign up for the **[virtual membership program](https://maggiegermano.podia.com/inner-circle)**
+
+The theme music is called Escaping Light by Aaron Sprinkle. The podcast artwork design is by Maggie’s dear husband, **[Dan Rader](https://danrdesign.com/)**.
