@@ -10,13 +10,13 @@ posts:
 
 *Do you need some help setting goals for this year? Come to the [Money Circle meetup](https://www.eventbrite.com/e/money-circle-setting-goals-for-2020-tickets-85874237155) in DC this Wednesday, January 8th!*
 
-[Last week](https://www.maggiegermano.com/blog/celebrating-my-2019-wins/), I wrote about what I accomplished in 2019. It is always really helpful for me to look back and really write out all of the great things that happened the year before. I tend to focus on what I didn't do or what didn't go well, so I often forget what was actually truly great. So the celebration exercise always makes me feel better. Something I don't always do is set specific goals for the coming year. But as I always tell my clients, setting specific goals is really the only way you can make sure you're going to achieve them. And those goals need to mean something to you. They shouldn't just be random goals that you can check off a list, or goals that you choose because other people are doing them. They have to be meaningful and life-giving for you. 
+[Last week](https://www.maggiegermano.com/blog/celebrating-my-2019-wins/), I wrote about what I accomplished in 2019. It is always really helpful for me to look back and really write out all of the great things that happened the year before. I tend to focus on what I didn't do or what didn't go well, so I often forget what was actually truly great. So the celebration exercise always makes me feel better. Something I don't always do is set specific goals for the coming year. But as I always tell my clients, setting specific goals is really the only way you can make sure you're going to achieve them. And those goals need to mean something to you. They shouldn't just be random goals that you can check off a list, or goals that you choose because other people are doing them. They have to be meaningful and life-giving for you.
 
 Here are mine:
 
 ## Get My Health Back On Track
 
-If you know me, you know I have a nearly uncontrollable sweet tooth. If you give me a bag of Hershey's Kisses or Hugs, I can finish it pretty quickly and with ease. You also might know that I've been struggling with my hormones and my weight for the past several years. I have both PCOS and hypothyroidism, which can both make it easy to gain weight and difficult to lose weight. PCOS also makes me more predisposed to get diabetes at some point. So these things do not mesh well with my sweet tooth or my desire to be a generally healthy person. Working from home over the past two years has also made it so that I'm not moving my body as much as I used to. All that said, I've lost touch with prioritizing my health and I really want to get back to that again. For me, this will look like exercising more often (whether that is going to the gym or just walking more in general), eating better (more whole foods, less candy), and 
+If you know me, you know I have a nearly uncontrollable sweet tooth. If you give me a bag of Hershey's Kisses or Hugs, I can finish it pretty quickly and with ease. You also might know that I've been struggling with my hormones and my weight for the past several years. I have both PCOS and hypothyroidism, which can both make it easy to gain weight and difficult to lose weight. PCOS also makes me more predisposed to get diabetes at some point. So these things do not mesh well with my sweet tooth or my desire to be a generally healthy person. Working from home over the past two years has also made it so that I'm not moving my body as much as I used to. All that said, I've lost touch with prioritizing my health and I really want to get back to that again. For me, this will look like exercising more often (whether that is going to the gym or just walking more in general), eating better (more whole foods, less candy), and
 
 ## Start A Family
 
@@ -26,4 +26,8 @@ I've been talking about this to all of my friends and some of my family, but I h
 
 x
 
-Make sure that you celebrate 2019 and plan for 2020 this year! Download and print this worksheet to get you started. 
+## Save Up For and Travel More
+
+Dan and I are heading to Japan in less than two weeks! This is a big trip that has been a lifelong dream for Dan. And if you've been following along, you know we were just in Peru last November. Travel has always been something that we both value and we love to do together. 
+
+Make sure that you celebrate 2019 and plan for 2020 this year! Download and print this worksheet to get you started.
