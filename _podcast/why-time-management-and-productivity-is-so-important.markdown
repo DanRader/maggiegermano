@@ -11,7 +11,25 @@ podcast:
 - Financial Affirmations to Help You Get Your Money Right
 ---
 
-xx
+**Resources:**
+
+* Cristina's [Pique Coaching](https://piquecoaching.co/)
+
+* Email Cristina: [hello@piquecoaching.co](mailto:hello@piquecoaching.co)
+
+* [Printable:](https://piquecoaching.co/deep-work-optin/) How to get into a deep work state in 15 minutes
+
+* [James Lenhoff](https://wqcorp.com/james-m-lenhoff-cfp/), CFP
+
+* [Eckhart Tolle](https://www.eckharttolle.com/)
+
+* [Ladder thoughts](https://unfuckyourbrain.com/thought-ladder-2/)
+
+--
+
+“Be the silent watcher of your thoughts and behavior. You are beneath the thinker. You are the stillness beneath the mental noise. You are the love and joy beneath the pain.”
+
+- Eckhart Tolle
 
 --
 
