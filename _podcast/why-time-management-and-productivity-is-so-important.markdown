@@ -13,6 +13,8 @@ podcast:
 - Financial Affirmations to Help You Get Your Money Right
 ---
 
+This week's episode is brought to you by Stitcher premium. Listen to some of your favorite podcasts. Ad-free was Stitcher premium like Conan O'Brien needs a friend, my favorite murder and more. Plus you can get access to situ originals like the neighborhood listen and groceries. Stitcher premium is only $4.99 a month or $34.99 a year, but if you use the code MONEYCIRCLE, you can get your first month free. Go to [stitcher.com/premium](https://www.stitcher.com/premium) to sign up today.
+
 **Resources:**
 
 * Cristina's [Pique Coaching](https://piquecoaching.co/)
