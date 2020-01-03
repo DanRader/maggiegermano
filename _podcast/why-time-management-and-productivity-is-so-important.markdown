@@ -2,6 +2,13 @@
 title: Why Time Management and Productivity Is So Important
 date: 2020-01-06 05:00:00 -05:00
 published: false
+lede: This week, Maggie sits down with life coach Cristina Roman to talk about time
+  management and productivity.
+image: "/uploads/Cristina-Roman-2019-LCS-Headshot.png"
+podcast:
+- A Decade in Review
+- All Things Retirement
+- Financial Affirmations to Help You Get Your Money Right
 ---
 
 xx
