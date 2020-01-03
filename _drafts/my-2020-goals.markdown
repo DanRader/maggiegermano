@@ -10,9 +10,9 @@ posts:
 
 *Do you need some help setting goals for this year? Come to the [Money Circle meetup](https://www.eventbrite.com/e/money-circle-setting-goals-for-2020-tickets-85874237155) in DC this Wednesday, January 8th!*
 
-[Last week](https://www.maggiegermano.com/blog/celebrating-my-2019-wins/), I wrote about what I accomplished in 2019. It is always really helpful for me to look back and really write out all of the great things that happened the year before. I tend to focus on what I didn't do or what didn't go well, so I often forget what was actually truly great. So the celebration exercise always makes me feel better. Something I don't always do is set specific goals for the coming year. But as I always tell my clients, setting specific goals is really the only way you can make sure you're going to achieve them. 
+[Last week](https://www.maggiegermano.com/blog/celebrating-my-2019-wins/), I wrote about what I accomplished in 2019. It is always really helpful for me to look back and really write out all of the great things that happened the year before. I tend to focus on what I didn't do or what didn't go well, so I often forget what was actually truly great. So the celebration exercise always makes me feel better. Something I don't always do is set specific goals for the coming year. But as I always tell my clients, setting specific goals is really the only way you can make sure you're going to achieve them. And those goals need to mean something to you. They shouldn't just be random goals that you can check off a list, or goals that you choose because other people are doing them. They have to be meaningful and life-giving for you. 
 
-xx
+Here are mine:
 
 ## Get My Health Back On Track
 
