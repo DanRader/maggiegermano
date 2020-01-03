@@ -1,6 +1,8 @@
 ---
 title: My 2020 Goals
 date: 2020-01-06 11:00:00 -05:00
+categories:
+- lifestyle
 image: "/uploads/kelly-sikkema-RCpEWDyC5sQ-unsplash.jpg"
 posts:
 - Easy Financial Goals for 2018
@@ -28,6 +30,10 @@ x
 
 ## Save Up For and Travel More
 
-Dan and I are heading to Japan in less than two weeks! This is a big trip that has been a lifelong dream for Dan. And if you've been following along, you know we were just in Peru last November. Travel has always been something that we both value and we love to do together. 
+Dan and I are heading to Japan in less than two weeks! This is a big trip that has been a lifelong dream for Dan. And if you've been following along, you know we were just in Peru last November. Travel has always been something that we both value and we love to do together.
+
+xx
+
+x
 
 Make sure that you celebrate 2019 and plan for 2020 this year! Download and print this worksheet to get you started.
