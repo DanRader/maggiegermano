@@ -32,7 +32,7 @@ Dan got laid off at the end of December. It was very sad and very stressful. But
 
 ## Save Up For and Travel More
 
-Dan and I are heading to Japan in less than two weeks! This is a big trip that has been a lifelong dream for Dan. And if you've been following along, you know we were just in Peru last November. Travel has always been something that we both value and we love to do together. And especially with our plans to start a family sometime soon, we want to prioritize our bucket list destinations. In order to do that, we need to set enough money aside to take advantage of good deals. Our tentative goal is to save $5,000 for travel throughout the year. 
+Dan and I are heading to Japan in less than two weeks! This is a big trip that has been a lifelong dream for Dan. And if you've been following along, you know we were just in Peru last November. Travel has always been something that we both value and we love to do together. And especially with our plans to start a family sometime soon, we want to prioritize our bucket list destinations. In order to do that, we need to set enough money aside to take advantage of good deals. Our tentative goal is to save $5,000 for travel throughout the year. Some of the other trips we hope to take are Mexico City and Oaxaca, Yosemite National Park, and Redwoods National Park.
 
 ## Replenish Our Emergency Fund
 
