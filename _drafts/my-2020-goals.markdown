@@ -34,8 +34,6 @@ Dan got laid off at the end of December. It was very sad and very stressful. But
 
 Dan and I are heading to Japan in less than two weeks! This is a big trip that has been a lifelong dream for Dan. And if you've been following along, you know we were just in Peru last November. Travel has always been something that we both value and we love to do together. 
 
-xx
-
 ## Replenish Our Emergency Fund
 
 At the end of 2018, Dan and I met with our financial advisor, [Jessie Hill](https://www.finadvinc.com/team-member/jessica-hill), and she told us that we had too much liquid cash in savings! That's something I never thought I'd hear, but Dan and I had both saved up separate hefty emergency funds and it was much more money than six months worth of expenses. So Jessie recommended that we either invest some of that money or do something with it that we wanted to do. We decided in the spring to buy a car in cash. That cost just over half of what we had saved in our emergency fund, which left us with 
