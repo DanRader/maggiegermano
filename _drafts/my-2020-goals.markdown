@@ -44,7 +44,7 @@ A goal I've had for a while now is to create online courses for my business. I r
 
 ## Increase My Revenue By 40 Percent
 
-In 2019, I earned 40 percent more with my business than I did in 2018. It didn't seem like much in actual income, but percentage-wise, it was pretty impressive! And if I can 
+In 2019, I earned 40 percent more with my business than I did in 2018. It didn't seem like much in actual income, but percentage-wise, it was pretty impressive! Mapping it out And if I can replicate that same progress this year, I would be pretty happy with that number. 
 
 What are your goals for 2020? Share in the comments!
 
