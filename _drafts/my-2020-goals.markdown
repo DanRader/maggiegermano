@@ -28,13 +28,17 @@ I've been talking about this to all of my friends and some of my family, but I h
 
 ## Max Out All Retirement Funds
 
-Dan got laid off at the end of December. It was very sad and very stressful. But luckily, Dan is fantastic at what he does and has a new job lined up for early February. Not only that, but it's coming with a healthy raise. As I've written about before, a great way to avoid lifestyle creep is to save and/or invest as much as you can before the money hits your checking account. So the plan is for Dan to max out his 401k contribution, plus get the match from his new employer. We both opened a Roth IRA last year (which I maxed out in 2019!) and we are going to max them out this year too. I also have a SEP IRA, which I'm able to 
+Dan got laid off at the end of December. It was very sad and very stressful. But luckily, Dan is fantastic at what he does and has a new job lined up for early February. Not only that, but it's coming with a healthy raise. As I've written about before, a great way to avoid lifestyle creep is to save and/or invest as much as you can before the money hits your checking account. So the plan is for Dan to max out his 401k contribution, plus get the match from his new employer. We both opened a Roth IRA last year (which I maxed out in 2019!) and we are going to max them out this year too. I also have a SEP IRA, which I'm able to contribute up to 25 percent of my profit in a calendar year. I maxed it out in 2019, and I plan to max it out again in 2020. 
 
 ## Save Up For and Travel More
 
 Dan and I are heading to Japan in less than two weeks! This is a big trip that has been a lifelong dream for Dan. And if you've been following along, you know we were just in Peru last November. Travel has always been something that we both value and we love to do together. 
 
 xx
+
+## Replenish Our Emergency Fund
+
+x
 
 ## Create At Least One Online Course
 
