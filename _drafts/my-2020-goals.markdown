@@ -36,4 +36,4 @@ xx
 
 x
 
-Make sure that you celebrate 2019 and plan for 2020 this year! Download and print this worksheet to get you started.
+*Make sure that you celebrate 2019 and plan for 2020 this year! Download and print [this worksheet](https://www.dropbox.com/s/e43ofu3r8mbx1r8/Celebrating2019.pdf?dl=0) to get you started.*
