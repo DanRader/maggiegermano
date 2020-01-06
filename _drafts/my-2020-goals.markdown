@@ -42,7 +42,7 @@ At the end of 2018, Dan and I met with our financial advisor, [Jessie Hill](http
 
 ## Create At Least One Online Course
 
-x
+A goal I've had for a while now is to create online courses for my business. I really want to reach more people at a more affordable price point while still increasing my business income. Courses are said to be a great way to do that! 
 
 ## Increase My Revenue By 40 Percent
 
