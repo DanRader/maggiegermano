@@ -42,4 +42,6 @@ x
 
 In 2019, I earned 40 percent 
 
+What are your goals for 2020? Share in the comments!
+
 *Make sure that you celebrate 2019 and plan for 2020 this year! Download and print [this worksheet](https://www.dropbox.com/s/e43ofu3r8mbx1r8/Celebrating2019.pdf?dl=0) to get you started.*
