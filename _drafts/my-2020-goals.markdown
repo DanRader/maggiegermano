@@ -26,7 +26,7 @@ I've been talking about this to all of my friends and some of my family, but I h
 
 ## Max Out All Retirement Funds
 
-Dan got laid off at the end of December 
+Dan got laid off at the end of December. It was very sad and very stressful. But luckily, Dan is fantastic at what he does and has a new job lined up for early February. Not only that, but it's coming with a healthy raise. 
 
 ## Save Up For and Travel More
 
