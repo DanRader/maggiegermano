@@ -46,7 +46,7 @@ x
 
 ## Increase My Revenue By 40 Percent
 
-In 2019, I earned 40 percent more with my business than I did in 2018. 
+In 2019, I earned 40 percent more with my business than I did in 2018. It didn't seem like much in actual income, but percentage-wise, it was pretty impressive! And if I can 
 
 What are your goals for 2020? Share in the comments!
 
