@@ -34,6 +34,12 @@ Dan and I are heading to Japan in less than two weeks! This is a big trip that h
 
 xx
 
+## Create At Least One Online Course
+
 x
+
+## Increase My Revenue By 40 Percent
+
+In 2019, I earned 40 percent 
 
 *Make sure that you celebrate 2019 and plan for 2020 this year! Download and print [this worksheet](https://www.dropbox.com/s/e43ofu3r8mbx1r8/Celebrating2019.pdf?dl=0) to get you started.*
