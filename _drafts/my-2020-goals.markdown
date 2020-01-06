@@ -26,7 +26,7 @@ I've been talking about this to all of my friends and some of my family, but I h
 
 ## Max Out All Retirement Funds
 
-Dan got laid off at the end of December. It was very sad and very stressful. But luckily, Dan is fantastic at what he does and has a new job lined up for early February. Not only that, but it's coming with a healthy raise. 
+Dan got laid off at the end of December. It was very sad and very stressful. But luckily, Dan is fantastic at what he does and has a new job lined up for early February. Not only that, but it's coming with a healthy raise. As I've written about before, a great way to avoid lifestyle creep is to save and/or invest as much as you can before the money hits your checking account. So the plan is for Dan to max out his 401k contribution, plus get the match from his new employer. We both opened a Roth IRA last year (which I maxed out in 2019!) and we are going to max them out this year too. I also have a SEP IRA, which I'm able to 
 
 ## Save Up For and Travel More
 
