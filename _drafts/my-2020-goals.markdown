@@ -4,6 +4,8 @@ date: 2020-01-06 11:00:00 -05:00
 categories:
 - lifestyle
 image: "/uploads/kelly-sikkema-RCpEWDyC5sQ-unsplash.jpg"
+tweet: You know what's better than resolutions? Goals! Here's what I'm aiming for
+  in 2020.
 posts:
 - Easy Financial Goals for 2018
 - 3 Easy Financial Goals for 2017
