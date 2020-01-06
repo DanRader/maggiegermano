@@ -26,11 +26,11 @@ I've been talking about this to all of my friends and some of my family, but I h
 
 ## Max Out All Retirement Funds
 
-x
+Dan got laid off at the end of December 
 
 ## Save Up For and Travel More
 
-Dan and I are heading to Japan in less than two weeks! This is a big trip that has been a lifelong dream for Dan. And if you've been following along, you know we were just in Peru last November. Travel has always been something that we both value and we love to do together.
+Dan and I are heading to Japan in less than two weeks! This is a big trip that has been a lifelong dream for Dan. And if you've been following along, you know we were just in Peru last November. Travel has always been something that we both value and we love to do together. 
 
 xx
 
