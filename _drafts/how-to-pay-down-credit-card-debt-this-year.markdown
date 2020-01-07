@@ -21,6 +21,10 @@ xx
 
 xx
 
+## Choose a Payoff Method
+
+xx
+
 ## Decide If Consolidation Is Right For You
 
 xx
