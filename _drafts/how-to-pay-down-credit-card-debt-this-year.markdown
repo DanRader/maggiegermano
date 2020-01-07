@@ -17,6 +17,10 @@ xx
 
 xx
 
+## Figure Out How Much You Can Afford to Pay
+
+xx
+
 ## Decide If Consolidation Is Right For You
 
 xx
