@@ -1,6 +1,7 @@
 ---
 title: How to Pay Down Credit Card Debt This Year
 date: 2020-01-13 11:00:00 -05:00
+published: false
 categories:
 - debt
 - credit
@@ -45,7 +46,7 @@ The payoff method you choose if going to depend on your personality and the type
 
 ## Automate
 
-A repayment plan is only effective if you stick to it! And it only works if you have the money to allocate towards it. That's why payment automation is so important. I'm sure you've used auto-pay in your life, whether it was for your utilities or student loans. It makes sure that you are paying your bills whether you remember to or not. The same idea applies when you set up auto-pay for your credit cards or other debts. 
+A repayment plan is only effective if you stick to it! And it only works if you have the money to allocate towards it. That's why payment automation is so important. I'm sure you've used auto-pay in your life, whether it was for your utilities or student loans. It makes sure that you are paying your bills whether you remember to or not. The same idea applies when you set up auto-pay for your credit cards or other debts. So once you've chosen the amount you can afford to pay each month, set it up so that amount is automatically paid towards your credit cards monthly. 
 
 ## Use Windfalls to Your Advantage
 
