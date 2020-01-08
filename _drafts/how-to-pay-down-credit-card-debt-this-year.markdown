@@ -49,9 +49,7 @@ A repayment plan is only effective if you stick to it! And it only works if you 
 
 ## Use Windfalls to Your Advantage
 
-xx
-
-xx
+To be honest, many people don't have enough money to spare on a monthly basis to make a dent on their debt. But that doesn't mean you have no other options for paying down your debt. It's important to use windfalls to your advantage. What's a windfall? Basically, it's a larger amount of money that comes to you when you weren't necessarily expecting it or relying on it. A windfall could be a large gift from a family member, an inheritance, a tax return, and the like. If and when these windfalls come to you, you should use the majority of them to pay down your debt. Of course, it's important to do something fun when you get extra money, so allocate 10 percent of the windfall towards something just for you and put the rest towards your debt. You'll pay down your debt much faster this way.
 
 ## Decide If Consolidation Is Right For You
 
