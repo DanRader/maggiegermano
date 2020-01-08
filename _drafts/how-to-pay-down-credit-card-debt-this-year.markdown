@@ -11,7 +11,7 @@ Recently, I've been reflecting upon the past year and making plans for this year
 
 ## Stop Using Your Credit Card
 
-xx
+Most people don't like to hear it but if you want to pay off your credit card debt, you have to stop using the card all together. You might think that you're consciously paying off any additional charges on the card, but balances can increase faster than you realize, especially when high interest rates are in play. 
 
 ## Get Clear On Your Budget
 
