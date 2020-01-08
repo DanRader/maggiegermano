@@ -37,9 +37,9 @@ Once you have done the budget exercise outlined above, it's time to figure out h
 
 Once you've figured out how much you can realistically afford to put towards your debt each month, it's time to figure out your approach. This specifically applies if you have more than one credit card or type of debt you're trying to pay off. Basically, there are two options:
 
-* The snowball method:
+* **The snowball method**: When you pay off debt in order of smallest to largest, gaining momentum as you pay off each balance. When the smallest debt is paid in full, you roll the money you were paying on that debt into the next smallest balance.
 
-* The avalanche method: 
+* **The avalanche method**: When you pay debts with the highest interest rates first. This route may help you save time and interest over your debt payoff journey.
 
 The payoff method you choose if going to depend on your personality and the type of motivation you need. If you thrive when you have small wins more frequently, the snowball method will be right for you. If you are more motivated by saving the most in interest charges, the avalanche method will be best. Ultimately, it's up to you and what you think you'll be most likely to stick to.
 
