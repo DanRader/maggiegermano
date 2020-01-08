@@ -53,4 +53,10 @@ To be honest, many people don't have enough money to spare on a monthly basis to
 
 ## Decide If Consolidation Is Right For You
 
+Some people can feel discouraged or frustrated when they have multiple debts to pay back, with varying interest rates and several accounts to pay back at once. And sometimes high interest rates can make it very difficult or even impossible to make your minimum monthly payments, let alone make larger payments. This is when debt consolidation might be a great option. This could look like doing a balance transfer to a credit card with a zero percent interest introductory rate. Many of these cards allow you to pay back your balance interest-free over 12 to 24 months. The key here is to make sure you don't use any of your credit cards for anything else while you're paying down the balance. It's also important to note that you have limited time to pay this off before the interest kicks in, so keep that in mind! 
+
+Another option is getting a personal loan for the amount that you owe on your credit cards. Once approved, you get the money in a lump sum, which you would then use to pay off your credit cards. After that, you would make fixed monthly payments for a set amount of time. 
+
+*Learn more about debt consolidation [here](https://www.maggiegermano.com/blog/what-are-your-options-for-debt-consolidation/).*
+
 xx
