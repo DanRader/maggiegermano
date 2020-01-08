@@ -35,11 +35,13 @@ Once you have done the budget exercise outlined above, it's time to figure out h
 
 ## Choose a Payoff Method
 
-Once you've figured out how much you can realistically afford to put towards your debt each month, it's time to figure out your approach. This specifically applies if you have more than one credit card or type of debt you're trying to pay off. And the method you choose if going to depend on your personality and the type of motivation you need. Basically, there are two options:
+Once you've figured out how much you can realistically afford to put towards your debt each month, it's time to figure out your approach. This specifically applies if you have more than one credit card or type of debt you're trying to pay off. Basically, there are two options:
 
 * The snowball method:
 
 * The avalanche method: 
+
+The payoff method you choose if going to depend on your personality and the type of motivation you need. If you thrive when you have small wins more frequently, the snowball method will be right for you. If you are more motivated by saving the most in interest charges, the avalanche method will be best. Ultimately, it's up to you and what you think you'll be most likely to stick to.
 
 ## Automate
 
