@@ -45,9 +45,11 @@ The payoff method you choose if going to depend on your personality and the type
 
 ## Automate
 
-xx
+A repayment plan is only effective if you stick to it! And it only works if you have the money to allocate towards it. That's why payment automation is so important. I'm sure you've used auto-pay in your life, whether it was for your utilities or student loans. It makes sure that you are paying your bills whether you remember to or not. The same idea applies when you set up auto-pay for your credit cards or other debts. 
 
-Use Windfalls
+## Use Windfalls to Your Advantage
+
+xx
 
 xx
 
