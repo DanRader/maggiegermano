@@ -39,7 +39,7 @@ Once you've figured out how much you can realistically afford to put towards you
 
 * The snowball method:
 
-* The 
+* The avalanche method: 
 
 ## Automate
 
