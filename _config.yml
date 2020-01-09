@@ -84,6 +84,7 @@ defaults:
       your host, Maggie Germano, gives you the rundown on what this podcast will be
       like and who might enjoy it. Tune in to see if it's right for you!
     image: "/uploads/high%20voltage.jpg"
+    episode-number: 21
     embed-code: <iframe id="audioFrame" height="200px" width="100%" frameborder="no"
       scrolling="no" seamless src="https://player.simplecast.com/523a375c-d6ff-4379-afd8-9b1257b6ea60?dark=false"></iframe>
     podcast:
