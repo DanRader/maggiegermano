@@ -3,7 +3,7 @@ title: Maintaining Your Values During the Holiday Season
 date: 2019-12-02 05:00:00 -05:00
 lede: This week, Maggie gives you tips on how to stick to your own values and needs
   this holiday season.
-image: "/uploads/DSC_5050-2d9907.jpg"
+image: "/uploads/DSC_5050.jpg"
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/4200f792-b26f-468b-8c86-f2f42d4d9eb2?dark=false"></iframe>
 podcast:
