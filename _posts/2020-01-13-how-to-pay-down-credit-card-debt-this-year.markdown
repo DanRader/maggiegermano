@@ -37,7 +37,7 @@ Once you have clear answers to these questions, plug them into a spreadsheet or 
 
 ## Figure Out How Much You Can Afford to Pay
 
-Once you have done the budget exercise outlined above, it's time to figure out how much you can actually afford to put towards your debt. Many of my friends and clients try to be super aggressive when it comes to paying down debt or building up savings. And that's a great impulse! But the truth is that you have to fit these goals into your current life circumstances. If you over-commit, you can put yourself in a position where you need to use your credit cards again anyway. So look at the leftover number from the exercise above. How much of that money can you realistically allocate towards your debt? You should overestimate how much you need to spend on flex spending each month so that you don't have to rely on your credit cards if you overspend. 
+Once you have done the budget exercise outlined above, it's time to figure out how much you can actually afford to put towards your debt. Many of my friends and clients try to be super aggressive when it comes to paying down debt or building up savings. And that's a great impulse! But the truth is that you have to fit these goals into your current life circumstances. If you over-commit, you can put yourself in a position where you need to use your credit cards again anyway. So look at the leftover number from the exercise above. How much of that money can you realistically allocate towards your debt? You should overestimate how much you need to spend on flex spending each month so that you don't have to rely on your credit cards if you overspend.
 
 ## Choose a Payoff Method
 
@@ -51,7 +51,11 @@ The payoff method you choose if going to depend on your personality and the type
 
 ## Automate
 
-A repayment plan is only effective if you stick to it! And it only works if you have the money to allocate towards it. That's why payment automation is so important. I'm sure you've used auto-pay in your life, whether it was for your utilities or student loans. It makes sure that you are paying your bills whether you remember to or not. The same idea applies when you set up auto-pay for your credit cards or other debts. So once you've chosen the amount you can afford to pay each month, set it up so that amount is automatically paid towards your credit cards monthly. 
+A repayment plan is only effective if you stick to it! And it only works if you have the money to allocate towards it. That's why payment automation is so important. I'm sure you've used auto-pay in your life, whether it was for your utilities or student loans. It makes sure that you are paying your bills whether you remember to or not. The same idea applies when you set up auto-pay for your credit cards or other debts. So once you've chosen the amount you can afford to pay each month, set it up so that amount is automatically paid towards your credit cards monthly.
+
+## Generate Additional Income
+
+xx
 
 ## Use Windfalls to Your Advantage
 
@@ -59,7 +63,7 @@ To be honest, many people don't have enough money to spare on a monthly basis to
 
 ## Decide If Consolidation Is Right For You
 
-Some people can feel discouraged or frustrated when they have multiple debts to pay back, with varying interest rates and several accounts to pay back at once. And sometimes high interest rates can make it very difficult or even impossible to make your minimum monthly payments, let alone make larger payments. This is when debt consolidation might be a great option. This could look like doing a balance transfer to a credit card with a zero percent interest introductory rate. Many of these cards allow you to pay back your balance interest-free over 12 to 24 months. The key here is to make sure you don't use any of your credit cards for anything else while you're paying down the balance. It's also important to note that you have limited time to pay this off before the interest kicks in, so keep that in mind! 
+Some people can feel discouraged or frustrated when they have multiple debts to pay back, with varying interest rates and several accounts to pay back at once. And sometimes high interest rates can make it very difficult or even impossible to make your minimum monthly payments, let alone make larger payments. This is when debt consolidation might be a great option. This could look like doing a balance transfer to a credit card with a zero percent interest introductory rate. Many of these cards allow you to pay back your balance interest-free over 12 to 24 months. The key here is to make sure you don't use any of your credit cards for anything else while you're paying down the balance. It's also important to note that you have limited time to pay this off before the interest kicks in, so keep that in mind!
 
 Another option is getting a personal loan for the amount that you owe on your credit cards. Once approved, you get the money in a lump sum, which you would then use to pay off your credit cards. After that, you would make fixed monthly payments for a set amount of time. Your credit history will determine whether or not you are approved for a personal loan, as well as the interest terms associated with it. Again, the key here is that you don't continue using your credit cards after you've gotten the personal loan. Doing that will just make sure that you have double debt. You should also make sure that you immediately use the money to pay off your credit cards. Don't start spending it on other things!
 
