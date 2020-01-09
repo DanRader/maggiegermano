@@ -11,7 +11,7 @@ All data and information provided on this site is strictly the author’s opinio
 
 Your privacy is important to Maggie Germano Financial Coaching.
 
-By visiting and using this website, you agree and consent to the following Privacy Policy governing the collection and use of personally identifiable and other information by Maggie Germano Financial Coaching.
+By visiting and using this website, you agree and consent to the following Privacy Policy governing the collection and use of personally identifiable and other information by Maggie Germano Financial Coaching. 
 
 Maggie Germano Financial Coaching may collect information from you when you voluntarily sign up for e-mails or free gifts, register for a class or presentation, leave comments, order a service or product, fill out any type of form, or otherwise contact Maggie Germano Financial Coaching via an online form or e-mail. The information collected may include your name, e-mail, address, phone number, and/or billing information. You are not required, however, to provide any personally identifiable information to merely access or visit this website.
 
