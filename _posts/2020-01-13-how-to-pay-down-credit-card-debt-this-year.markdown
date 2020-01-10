@@ -55,7 +55,7 @@ A repayment plan is only effective if you stick to it! And it only works if you 
 
 ## Generate Additional Income
 
-xx
+The truth is, oftentimes the only solution to your financial situation is to increase the amount of money you have coming in. I've had clients that have cut out as much spending as possible and they are still struggling to make ends meet, because they just don't have enough income. 
 
 ## Use Windfalls to Your Advantage
 
