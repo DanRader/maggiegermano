@@ -34,15 +34,13 @@ If exercise is part of your health goals, great! But it's important to choose a 
 
 ## Find An Affordable Way to Work Out
 
-Once you've figured out what kind of exercise you most enjoy, you have to find a way to actually do it. If your favorite exercise is walking, perfect! Walking is free. You just have to find the best routes to take to get the most out of it. But if you've chosen other things that require a gym or a teacher, it can get a little trickier. Luckily, with technology, we have many options to choose from.
+Once you've figured out what kind of exercise you most enjoy, you have to find a way to actually do it. If your favorite exercise is walking, perfect! Walking is free. You just have to find the best routes to take to get the most out of it. But if you've chosen other things that require a gym or a teacher, it can get a little trickier. Luckily, with technology, we have many options to choose from. There are tons of Youtube channels out there with free yoga classes and other forms of exercise. You could even search for what you're looking for on Pinterest and find videos or illustrations that outline specific workout routines. 
 
-Youtube\
-Apps\
-Local gym
+There are also lots of apps out there that can provide guided workouts. I use the app associated with my gym to give me guided exercises whenever I'm on the stationary bike, treadmill, or elliptical. There are also guided weightlifting options. That way, I know that I'm working harder. You can also try to find an affordable gym in your area, if you think you'd prefer that. Planet Fitness is notoriously affordable. Washington Sports Club was only $20 a month when I used it. Now, I used Gold's Gym, which is $50 a month, which can be too expensive for some, but that includes the associated app I mentioned. It's all about what you can afford and that you'll use.
 
 ## Stop Going Out to Eat
 
-xx
+This one is a win-win. 
 
 ## Use Your Insurance to Your Advantage
 
