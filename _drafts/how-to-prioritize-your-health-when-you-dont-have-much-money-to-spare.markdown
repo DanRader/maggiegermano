@@ -34,7 +34,7 @@ If exercise is part of your health goals, great! But it's important to choose a 
 
 ## Find An Affordable Way to Work Out
 
-Once you've figured out what kind of exercise you most enjoy, you have to find a way to actually do it. If your favorite exercise is walking, perfect! Walking is free. You just have to find the best routes to take to get the most out of it. But if you've chosen other things that require a gym or a teacher, it can get a little trickier. Luckily, with technology, we have many option
+Once you've figured out what kind of exercise you most enjoy, you have to find a way to actually do it. If your favorite exercise is walking, perfect! Walking is free. You just have to find the best routes to take to get the most out of it. But if you've chosen other things that require a gym or a teacher, it can get a little trickier. Luckily, with technology, we have many options to choose from.
 
 Youtube\
 Apps\
