@@ -1,7 +1,6 @@
 ---
 title: Creative Ways to Pay Down Credit Card Debt
 date: 2020-01-13 05:00:00 -05:00
-published: false
 lede: This week, Maggie gives advice on how to pay down debt, along with creative
   ways listeners have done it themselves.
 image: "/uploads/DSC_5030%20copy.jpg"
