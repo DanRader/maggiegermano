@@ -1,9 +1,17 @@
 ---
 title: How to Prioritize Your Health When You Don't Have Much Money to Spare
 date: 2020-01-20 11:00:00 -05:00
+published: false
 categories:
 - budget
 - lifestyle
+image: "/uploads/brooke-lark-nTZOILVZuOg-unsplash.jpg"
+tweet: Got health goals this year but not sure your budget can keep up? Here are some
+  budget-friendly tips!
+posts:
+- 5 Ways to Eat Healthy on a Budget
+- How to Care for Your Mental Health on a Budget
+- Why Healthcare is Self Care
 ---
 
 It's still January, so I'm pretty sure new years resolutions or 2020 goals are on your mind. [Last week](https://www.maggiegermano.com/blog/how-to-pay-down-credit-card-debt-this-year/), I wrote about paying down credit card debt. This week, I want to talk about another goal that is usually top of mind for folks: health. And by health, I mean whatever health means to you, not just what diet culture says it is. The trouble is, a lot of us feel like we can't afford to put our health first. But in truth, you don't have to have a ton of expendable income to prioritize your health in whichever way you see fit. Here are some ways to get started.
@@ -42,12 +50,16 @@ There are also lots of apps out there that can provide guided workouts. I use th
 
 ## Find An Accountability Buddy
 
-xx
+Studies show that we are much more likely to reach out goals if we have some kind of accountability. That's why it's so important to find someone to be along with you on your health journey, whatever it might look like! This person can be a coach, a trainer, a friend, a spouse, a family member, a co-worker, etc. Between the two of you, or the group of you, decide what this system should look like. Will you have regular check-ins? What's most likely to keep the other person motivated?  **Pro-tip:** make sure your buddy is someone who will encourage you in a loving and positive way, not someone who will make you feel like garbage!
 
 ## Stop Going Out to Eat
 
-This one is a win-win. 
+This one is a win-win. Whether you want to lose weight, lower your cholesterol or blood sugar, or save money, reducing how often you go out to eat will help you get there. Eating at home is cheaper and healthier, most of the time. This is especially true if you do a little bit of meal planning. And I don't mean you have to meal prep all day on Sundays. It could be as simple as looking at the week ahead and deciding what you're going to eat for dinner each evening. Write those meals on a piece of paper or a chalkboard in your kitchen. **Pro-tip:** make meals that will have leftovers so you automatically have lunch ready for the next day. 
 
-## Use Your Insurance to Your Advantage
+## Use Your Health Benefits to Your Advantage
 
-Health is not just about your physical body.
+If you have employer-provided health insurance, you might be entitled to more than immediately meets the eye. When I was employed, our benefits included a $500 annual wellness credit. That money would more than cover my gym membership at Washington Sports Club. A friend of mine gets free health coaching through her insurance. Ask your benefits person if there are any additional wellness benefits that you get through work. You'd be shocked at how many things can get left on the table if you don't know about them!
+
+Plus, if one of your health goals is to work on your mental health, find out if your insurance mostly covers mental health services. If you get an HSA or FSA through your insurance, make sure to use your pre-tax money to pay for things like co-pays, medications, eye glasses, [and more](https://fsastore.com/FSA-Eligibility-List.aspx?gclid=EAIaIQobChMI7fPy88yB5wIV8IFaBR3h9QbpEAAYASABEgKvcvD_BwE&gclsrc=aw.ds). 
+
+*What are your health goals this year? Share in the comments!*
