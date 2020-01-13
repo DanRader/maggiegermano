@@ -6,3 +6,24 @@ categories:
 - debt
 ---
 
+xx
+
+## Make Your Payments On Time
+
+xx
+
+## Decrease Your Debt to Credit Ratio
+
+xx
+
+## Dispute Errors On Your Credit Report
+
+xx
+
+## Ask Creditors to Remove Marks From Your Credit Report
+
+xx
+
+## Don't Apply For Unnecessary New Accounts
+
+xx
