@@ -28,4 +28,4 @@ If you've taken care of something like an item in collections, you can ask the c
 
 ## Don't Apply For Unnecessary New Accounts
 
-xx
+It's **not** true that checking your credit score or pulling your credit report hurts your credit score. It **is** true that applying for new credit will negatively impact your credit score. 
