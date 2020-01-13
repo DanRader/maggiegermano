@@ -6,9 +6,9 @@ categories:
 - lifestyle
 ---
 
-It's still January, so I'm pretty sure new years resolutions or 2020 goals are on your mind. [Last week](https://www.maggiegermano.com/blog/how-to-pay-down-credit-card-debt-this-year/), I wrote about paying down credit card debt. This week, I want to talk about another goal that is usually top of mind for folks: health. And by health, I mean whatever health means to you, not just what diet culture says it is. The trouble is, a lot of us feel like we can't afford to put our health first. But in truth, you don't have to have a ton of expendable income to prioritize your health in whichever way you see fit. Here are some ways to get started. 
+It's still January, so I'm pretty sure new years resolutions or 2020 goals are on your mind. [Last week](https://www.maggiegermano.com/blog/how-to-pay-down-credit-card-debt-this-year/), I wrote about paying down credit card debt. This week, I want to talk about another goal that is usually top of mind for folks: health. And by health, I mean whatever health means to you, not just what diet culture says it is. The trouble is, a lot of us feel like we can't afford to put our health first. But in truth, you don't have to have a ton of expendable income to prioritize your health in whichever way you see fit. Here are some ways to get started.
 
-> And by health, I mean whatever health means to you, not just what diet culture says it is. 
+> And by health, I mean whatever health means to you, not just what diet culture says it is.
 
 ## Get Clear On Your Health Goals
 
@@ -40,9 +40,13 @@ Once you've figured out what kind of exercise you most enjoy, you have to find a
 
 There are also lots of apps out there that can provide guided workouts. I use the app associated with my gym to give me guided exercises whenever I'm on the stationary bike, treadmill, or elliptical. There are also guided weightlifting options. That way, I know that I'm working harder. You can also try to find an affordable gym in your area, if you think you'd prefer that. Planet Fitness is notoriously affordable. Washington Sports Club was only $20 a month when I used it. Now, I used Gold's Gym, which is $50 a month, which can be too expensive for some, but that includes the associated app I mentioned. It's all about what you can afford and that you'll use.
 
+## Find An Accountability Buddy
+
+xx
+
 ## Stop Going Out to Eat
 
-This one is a win-win.
+This one is a win-win. 
 
 ## Use Your Insurance to Your Advantage
 
