@@ -20,11 +20,11 @@ One of the most important
 
 ## Decrease Your Debt to Credit Ratio
 
-xx
+Say you only have one credit card with a limit of $1,000, but every month you end up with a balance of at least $750. That means that your credit card utilization is typically at 75%. Lenders want you to keep your utilization rate at or below 30%. If you're paying these balances off every month, it won't hurt you as much. But if you're using up most of the credit that's available to you, it'll hurt your credit score. 
 
 ## Dispute Errors On Your Credit Report
 
-xx
+The first thing you need to do is pull your credit report and annualcreditreport.com. Each of the three credit bureaus are required by law to provide one copy of your credit score each year for free. I like to put it in my calendar so that I'm pulling my report from a different credit bureau every four months. Once you've done that, you should review your report and check every item that is on it. You'll see all of your open and closed accounts, such as student loans, car loans, and credit cards. Each of those accounts will show if you're in good standing with them, what the last reported balance was, and if you had any late payments. Continue down the report and you'll find any items sent to collections, liens, and things like bankruptcy filings. It's important to look at all of these details because you'll be able to see if someone is opening up accounts in your name (ie: identity theft) or if a creditor has erroneously reported something negative to the credit bureau. If you find anything that doesn't belong there, contact the creditor directly and then file a dispute with the credit bureau.
 
 ## Ask Creditors to Remove Marks From Your Credit Report
 
