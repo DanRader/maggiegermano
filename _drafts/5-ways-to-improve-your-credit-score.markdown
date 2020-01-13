@@ -16,7 +16,7 @@ xx
 
 ## Make Your Payments On Time
 
-xx
+One of the most important 
 
 ## Decrease Your Debt to Credit Ratio
 
@@ -36,4 +36,6 @@ If you've taken care of something like an item in collections, you can ask the c
 
 It's **not** true that checking your credit score or pulling your credit report hurts your credit score. It **is** true that applying for new credit will negatively impact your credit score. 
 
-However, maybe your credit score is lower than you'd like because you don't have *any* accounts! That's a scenario where applying for credit will actually help you in the long run. 
+However, maybe your credit score is lower than you'd like because you don't have *any* accounts! That's a scenario where applying for credit will actually help you in the long run. You should start with a secured credit card from your bank. This type of card will be more likely to have a lower limit, but it's a good way to get started building credit without risking getting into debt. 
+
+If you follow these steps, your credit score will go up over time! It won't happen over night, but be patient and keep taking the right actions. Good luck!
