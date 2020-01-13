@@ -6,7 +6,7 @@ categories:
 - lifestyle
 ---
 
-It's still January, so I'm pretty sure new years resolutions or 2020 goals are on your mind. 
+It's still January, so I'm pretty sure new years resolutions or 2020 goals are on your mind. Last week, I wrote about paying down credit card debt. This week, I want to talk about another goal that is usually top of mind for folks: health. And by health, I mean whatever health means to you, not just what diet culture says it is. 
 
 ## Get Clear On Your Health Goals
 
