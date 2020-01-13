@@ -4,6 +4,12 @@ date: 2020-01-27 11:00:00 -05:00
 categories:
 - Credit
 - debt
+image: "/uploads/nick-hillier-yD5rv8_WzxA-unsplash.jpg"
+tweet: 5 steps you can take to get that credit score up!
+posts:
+- Why You Should Care About Your Credit Score
+- The Difference Between Your Credit Score and Your Credit Report
+- Why You Should Check Your Credit Report Regularly
 ---
 
 xx
@@ -29,3 +35,5 @@ If you've taken care of something like an item in collections, you can ask the c
 ## Don't Apply For Unnecessary New Accounts
 
 It's **not** true that checking your credit score or pulling your credit report hurts your credit score. It **is** true that applying for new credit will negatively impact your credit score. 
+
+However, maybe your credit score is lower than you'd like because you don't have *any* accounts! That's a scenario where applying for credit will actually help you in the long run. 
