@@ -46,7 +46,7 @@ xx
 
 ## Stop Going Out to Eat
 
-This one is a win-win. 
+This one is a win-win. Whether you want to lose weight, lower your cholesterol or blood sugar, or save money, reducing how often you go out to eat will help you get there. Eating at home is cheaper and healthier, most of the time. This is especially true if you do a little bit of meal planning. And I don't mean you have to meal prep all day on Sundays. It could be as simple as looking at the week ahead and deciding what you're going to eat for dinner each evening. Write those meals on a piece of paper or a chalkboard in your kitchen. Pro-tip: make meals that will have leftovers so you automatically have lunch ready for the next day. 
 
 ## Use Your Insurance to Your Advantage
 
