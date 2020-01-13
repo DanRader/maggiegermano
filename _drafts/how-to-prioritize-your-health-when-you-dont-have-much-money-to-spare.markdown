@@ -42,7 +42,7 @@ There are also lots of apps out there that can provide guided workouts. I use th
 
 ## Find An Accountability Buddy
 
-Studies show that we are much more likely to reach out goals if we have some kind of accountability. That's why it's so important to find someone to be along with you on your health journey, whatever it might look like!  **Pro-tip:** make sure your buddy is someone who will encourage you in a loving and positive way, not someone who will make you feel like garbage!
+Studies show that we are much more likely to reach out goals if we have some kind of accountability. That's why it's so important to find someone to be along with you on your health journey, whatever it might look like! This person can be a coach, a trainer, a friend, a spouse, a family member, a co-worker, etc. Between the two of you, or the group of you, decide what this system should look like. Will you have regular check-ins? What's most likely to keep the other person motivated?  **Pro-tip:** make sure your buddy is someone who will encourage you in a loving and positive way, not someone who will make you feel like garbage!
 
 ## Stop Going Out to Eat
 
