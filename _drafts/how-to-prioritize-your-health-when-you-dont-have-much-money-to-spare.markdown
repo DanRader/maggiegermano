@@ -40,6 +40,10 @@ Once you've figured out what kind of exercise you most enjoy, you have to find a
 
 There are also lots of apps out there that can provide guided workouts. I use the app associated with my gym to give me guided exercises whenever I'm on the stationary bike, treadmill, or elliptical. There are also guided weightlifting options. That way, I know that I'm working harder. You can also try to find an affordable gym in your area, if you think you'd prefer that. Planet Fitness is notoriously affordable. Washington Sports Club was only $20 a month when I used it. Now, I used Gold's Gym, which is $50 a month, which can be too expensive for some, but that includes the associated app I mentioned. It's all about what you can afford and that you'll use.
 
+## Find An Accountability Buddy
+
+xx
+
 ## Stop Going Out to Eat
 
 This one is a win-win. 
