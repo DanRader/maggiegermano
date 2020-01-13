@@ -6,9 +6,9 @@ categories:
 - lifestyle
 ---
 
-It's still January, so I'm pretty sure new years resolutions or 2020 goals are on your mind. [Last week](https://www.maggiegermano.com/blog/how-to-pay-down-credit-card-debt-this-year/), I wrote about paying down credit card debt. This week, I want to talk about another goal that is usually top of mind for folks: health. And by health, I mean whatever health means to you, not just what diet culture says it is. The trouble is, a lot of us feel like we can't afford to put our health first. But in truth, you don't have to have a ton of expendable income to prioritize your health in whichever way you see fit. Here are some ways to get started. 
+It's still January, so I'm pretty sure new years resolutions or 2020 goals are on your mind. [Last week](https://www.maggiegermano.com/blog/how-to-pay-down-credit-card-debt-this-year/), I wrote about paying down credit card debt. This week, I want to talk about another goal that is usually top of mind for folks: health. And by health, I mean whatever health means to you, not just what diet culture says it is. The trouble is, a lot of us feel like we can't afford to put our health first. But in truth, you don't have to have a ton of expendable income to prioritize your health in whichever way you see fit. Here are some ways to get started.
 
-> And by health, I mean whatever health means to you, not just what diet culture says it is. 
+> And by health, I mean whatever health means to you, not just what diet culture says it is.
 
 ## Get Clear On Your Health Goals
 
@@ -42,7 +42,7 @@ There are also lots of apps out there that can provide guided workouts. I use th
 
 ## Stop Going Out to Eat
 
-This one is a win-win.
+This one is a win-win. 
 
 ## Use Your Insurance to Your Advantage
 
