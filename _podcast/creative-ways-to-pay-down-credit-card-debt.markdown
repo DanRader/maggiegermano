@@ -2,7 +2,16 @@
 title: Creative Ways to Pay Down Credit Card Debt
 date: 2020-01-13 05:00:00 -05:00
 published: false
+lede: This week, Maggie gives advice on how to pay down debt, along with creative
+  ways listeners have done it themselves.
+image: "/uploads/DSC_5030%20copy.jpg"
 episode-number: 22
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/3a55a903-58d2-4be1-a260-84a87705d747?dark=false"></iframe>
+podcast:
+- Why Time Management and Productivity Is So Important
+- A Decade in Review
+- All Things Retirement
 ---
 
 Are you ready to pay down your credit card debt? This week's episode goes into detail about what steps you should take to pay down your debt and also gives you some examples of how others have done it themselves.
