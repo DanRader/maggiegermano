@@ -28,7 +28,7 @@ The first thing you need to do is pull your credit report and annualcreditreport
 
 ## Ask Creditors to Remove Marks From Your Credit Report
 
-A negative mark on your credit report will likely hurt your ability to qualify for credit or obtain desirable interest rates. Examples of these negative marks are: bankruptcy, foreclosure, collections, or a tax lien. It can take up to 7 years for these to be removed from your credit report.
+A negative mark on your credit report will likely hurt your ability to qualify for credit or obtain desirable interest rates. Examples of these negative marks are: bankruptcy, foreclosure, collections, or a tax lien. Depending on the mark, it can take up to 7 years for these to be removed from your credit report.
 
 If you've taken care of something like an item in collections, you can ask the collections agency to contact the credit bureaus to have the item removed from your report. They won't necessarily agree to do so, but it's always worth asking.
 
