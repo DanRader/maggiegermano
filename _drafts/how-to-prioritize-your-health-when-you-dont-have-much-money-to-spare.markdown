@@ -8,6 +8,8 @@ categories:
 
 It's still January, so I'm pretty sure new years resolutions or 2020 goals are on your mind. Last week, I wrote about paying down credit card debt. This week, I want to talk about another goal that is usually top of mind for folks: health. And by health, I mean whatever health means to you, not just what diet culture says it is. 
 
+> And by health, I mean whatever health means to you, not just what diet culture says it is. 
+
 ## Get Clear On Your Health Goals
 
 One of the problems with diet culture (and there are *many*) is that we feel pressured to adhere to the goals of other people. And the standards of other people. We put a lot of pressure on ourselves and then don't even end up with what *we* actually want. So I want you to get clear on what actually matters to you, and only you.
