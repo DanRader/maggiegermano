@@ -46,8 +46,10 @@ xx
 
 ## Stop Going Out to Eat
 
-This one is a win-win. Whether you want to lose weight, lower your cholesterol or blood sugar, or save money, reducing how often you go out to eat will help you get there. Eating at home is cheaper and healthier, most of the time. This is especially true if you do a little bit of meal planning. And I don't mean you have to meal prep all day on Sundays. It could be as simple as looking at the week ahead and deciding what you're going to eat for dinner each evening. Write those meals on a piece of paper or a chalkboard in your kitchen. Pro-tip: make meals that will have leftovers so you automatically have lunch ready for the next day. 
+This one is a win-win. Whether you want to lose weight, lower your cholesterol or blood sugar, or save money, reducing how often you go out to eat will help you get there. Eating at home is cheaper and healthier, most of the time. This is especially true if you do a little bit of meal planning. And I don't mean you have to meal prep all day on Sundays. It could be as simple as looking at the week ahead and deciding what you're going to eat for dinner each evening. Write those meals on a piece of paper or a chalkboard in your kitchen. **Pro-tip:** make meals that will have leftovers so you automatically have lunch ready for the next day. 
 
-## Use Your Insurance to Your Advantage
+## Use Your Health Benefits to Your Advantage
 
-Health is not just about your physical body.
+If you have employer-provided health insurance, you might be entitled to more than immediately meets the eye. When I was employed, our benefits included a $500 annual wellness credit. That money would more than cover my gym membership at Washington Sports Club. A friend of mine gets free health coaching through her insurance. Ask your benefits person if there are any additional wellness benefits that you get through work. You'd be shocked at how many things can get left on the table if you don't know about them!
+
+Plus, if one of your health goals is to work on your mental health, find out if your insurance mostly covers mental health services. If you get an HSA or FSA through your insurance, make sure to use your pre-tax money to pay for things like co-pays, medications, eye glasses, [and more](https://fsastore.com/FSA-Eligibility-List.aspx?gclid=EAIaIQobChMI7fPy88yB5wIV8IFaBR3h9QbpEAAYASABEgKvcvD_BwE&gclsrc=aw.ds). 
