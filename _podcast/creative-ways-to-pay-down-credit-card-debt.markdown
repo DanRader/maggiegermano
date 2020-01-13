@@ -5,7 +5,31 @@ published: false
 episode-number: 22
 ---
 
-xx
+Are you ready to pay down your credit card debt? This week's episode goes into detail about what steps you should take to pay down your debt and also gives you some examples of how others have done it themselves.
+
+**Related Links:**
+
+* This week's blog: **[https://www.maggiegermano.com/blog/how-to-pay-down-credit-card-debt-this-year/](https://www.maggiegermano.com/blog/how-to-pay-down-credit-card-debt-this-year/)**
+
+* Debt payoff calculator: **[https://www.creditkarma.com/calculators/debt_repayment/](https://www.creditkarma.com/calculators/debt_repayment/)**
+
+* Debt snowball calculator: **[https://www.nerdwallet.com/blog/finance/debt-snowball-calculator/](https://www.nerdwallet.com/blog/finance/debt-snowball-calculator/)**
+
+--
+
+To learn more about Maggie and her coaching and speaking services, visit **[www.maggiegermano.com](https://www.maggiegermano.com/)**.
+
+To get more involved with Money Circle:
+
+* Join the **[free Facebook group](https://www.facebook.com/groups/MoneyCircleGroup)**
+
+* Come to an **[in-person event](https://www.maggiegermano.com/moneycircle/)** in DC
+
+* Sign up for the **[virtual membership program](https://maggiegermano.podia.com/inner-circle)**
+
+Follow Maggie on **[Instagram](https://dashboard.simplecast.com/episodes/www.instagram.com/maggiegermano)** and **[Twitter](https://dashboard.simplecast.com/episodes/www.twitter.com/maggiegermano)**!
+
+The theme music is called Escaping Light by **[Aaron Sprinkle](http://aaronsprinklemusic.com/)**. The podcast artwork design is by Maggie’s dear husband, **[Dan Rader](https://danrdesign.com/)**.
 
 ---
 
