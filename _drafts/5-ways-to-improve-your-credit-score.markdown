@@ -34,7 +34,7 @@ If you've taken care of something like an item in collections, you can ask the c
 
 ## Don't Apply For Unnecessary New Accounts
 
-It's **not** true that checking your credit score or pulling your credit report hurts your credit score. It **is** true that applying for new credit will negatively impact your credit score. 
+It's **not** true that checking your credit score or pulling your credit report hurts your credit score. It **is** true that applying for new credit will negatively impact your credit score. When a potential lender is reviewing your credit because you’ve applied for credit with them, they will do a hard inquiry. These include credit checks when you’ve applied for an auto loan, mortgage, personal loan, or credit card. When you have many different hard pulls in a short period of time, credit bureaus start to get suspicious. They wonder why you're applying for so much credit. So this uncertainty can ding your credit score, which is why it's important not to apply for things unless you absolutely need them, at least while you're trying to get that score up.
 
 However, maybe your credit score is lower than you'd like because you don't have *any* accounts! That's a scenario where applying for credit will actually help you in the long run. You should start with a secured credit card from your bank. This type of card will be more likely to have a lower limit, but it's a good way to get started building credit without risking getting into debt. 
 
