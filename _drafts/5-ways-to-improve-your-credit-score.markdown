@@ -16,7 +16,7 @@ xx
 
 ## Make Your Payments On Time
 
-One of the most important 
+One of the most important things to do to improve and maintain your credit score is to make your payments on time. Late or missed payments show your creditors and the credit bureaus that you are not trustworthy with the credit given to you. And your trustworthiness and reliability is one of the main ways you convince lenders to loan you money in the future. 
 
 ## Decrease Your Debt to Credit Ratio
 
