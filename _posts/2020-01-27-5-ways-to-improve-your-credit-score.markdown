@@ -1,6 +1,7 @@
 ---
 title: 5 Ways to Improve Your Credit Score
 date: 2020-01-27 11:00:00 -05:00
+published: false
 categories:
 - Credit
 - debt
@@ -12,7 +13,13 @@ posts:
 - Why You Should Check Your Credit Report Regularly
 ---
 
-xx
+If you’re an adult living in the modern world, you’ve most likely heard of a credit score. There are many companies out there that offer your credit score to you for free each month. (If you’re not already using one, check out [Credit Karma](https://www.creditkarma.com/) and [Credit Sesame](https://track.flexlinkspro.com/a.ashx?foid=1098290.2228007&foc=1&fot=9999&fos=1), but be careful of all the credit card offers you’ll get from them!)
+
+**But why does your credit score matter so much? **
+
+Basically, you should care about your credit score if you care about your future. To put it simply, in a lender’s eyes, the higher your credit score, the lower a risk you are to them. Depending on your credit score, the lender can decide if they consider you eligible for a loan, and it can impact the interest rates on those loans. If your credit score is high, you can luck out and get a lower interest rate, which will save you hundreds, if not thousands, in the long run. If your credit score is low, lenders might not consider you eligible for loans, or if they do approve you, they might give you high interest rates or add other fees, which will cost you lots of money over time.
+
+Luckily, no matter how bad your credit score is right now, there are ways that you can improve it. It might take a year or two, but you can do it! Here are some ways to start:
 
 ## Make Your Payments On Time
 
