@@ -5,3 +5,8 @@ categories:
 - lifestyle
 ---
 
+sx
+
+If you want to learn more about having these conversations, check out this week's Money Circle podcast, where I chat with Cameron Huddleston, author of Mom and Dad, We Need to Talk.
+
+xx
