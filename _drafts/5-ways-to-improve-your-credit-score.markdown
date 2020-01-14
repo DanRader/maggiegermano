@@ -16,11 +16,13 @@ xx
 
 ## Make Your Payments On Time
 
-One of the most important things to do to improve and maintain your credit score is to make your payments on time. Late or missed payments show your creditors and the credit bureaus that you are not trustworthy with the credit given to you. And your trustworthiness and reliability is one of the main ways you convince lenders to loan you money in the future. 
+One of the most important things to do to improve and maintain your credit score is to make your payments on time. Late or missed payments show your creditors and the credit bureaus that you are not trustworthy with the credit given to you. And your trustworthiness and reliability is one of the main ways you convince lenders to loan you money in the future. If you struggle with making payments on time, set up auto-pay so that you never miss another payment.
 
 ## Decrease Your Debt to Credit Ratio
 
 Say you only have one credit card with a limit of $1,000, but every month you end up with a balance of at least $750. That means that your credit card utilization is typically at 75%. Lenders want you to keep your utilization rate at or below 30%. If you're paying these balances off every month, it won't hurt you as much. But if you're using up most of the credit that's available to you, it'll hurt your credit score. 
+
+There are two ways to decrease this ratio. First, and most importantly, you should pay down the balances. This is going to help you the most over time, both in terms of your credit and in terms of how much debt you have to worry about. The other way to improve this ratio is to increase the amount of credit available to you. This would look like calling your credit card company and asking them to increase your credit limit. Of course, if you do this, you have to be certain that you won't increase the amount of money you're putting on the card. If you're worried you will overspend, cut up or lock up your cards so that you won't use them at all.
 
 ## Dispute Errors On Your Credit Report
 
