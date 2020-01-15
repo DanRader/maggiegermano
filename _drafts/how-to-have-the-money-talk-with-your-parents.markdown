@@ -23,6 +23,10 @@ xx
 
 xx
 
+## Ask "What If" Questions
+
+xx
+
 ## Get Clear On Their Goals and Needs
 
 xx
@@ -30,3 +34,9 @@ xx
 ## Encourage Them to Meet With Someone Else
 
 xx
+
+financial advisor
+
+legal aid
+
+credit counselor
