@@ -15,14 +15,18 @@ But the truth is, even though these conversations are essential, they can be rea
 
 xx
 
-## Don't Ask for Specific Numbers
-
-xx
-
 ## Be Respectful, Not Judgmental
 
 xx
 
-## Get Clear On Their Goals
+## Don't Ask for Specific Numbers
+
+xx
+
+## Get Clear On Their Goals and Needs
+
+xx
+
+## Encourage Them to Meet With Someone Else
 
 xx
