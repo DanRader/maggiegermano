@@ -2,6 +2,11 @@
 title: Improving Your Credit Score
 date: 2020-01-27 05:00:00 -05:00
 published: false
+lede: This week, Maggie outlines the immediate steps you can take to improve your
+  credit score.
+image: "/uploads/Maggie%20Portraits-Maggie%20Portraits%2007%2023%2017-0018.jpg"
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/d0c474fb-32e8-49c4-a8c4-1016488f68ff?dark=false"></iframe>
 podcast:
 - How to Prioritize Your Health in 2020
 - Creative Ways to Pay Down Credit Card Debt
