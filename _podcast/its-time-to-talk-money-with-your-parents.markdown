@@ -2,6 +2,8 @@
 title: It’s Time to Talk Money With Your Parents
 date: 2020-02-03 05:00:00 -05:00
 published: false
+lede: Maggie sits down with author Cameron Huddleston to talk about why you need to
+  have the money talk with your parents and how to do so.
 image: "/uploads/Cameron%20Huddleston_headshot2.jpg"
 podcast:
 - Improving Your Credit Score
