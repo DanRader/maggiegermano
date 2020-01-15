@@ -20,6 +20,10 @@ Listen in to learn how to prioritize your health this year and every year, this 
 
 * Brianna's website: **[http://www.madewell345.com/](http://www.madewell345.com/)**
 
+* Email Brianna at madewellky@gmail.com
+
+* Follow Brianna on social media @Madewell345
+
 * **[The Healthy Body Podcast](https://www.stitcher.com/podcast/anchor-podcasts/the-healthy-body-podcast)**
 
 * **[Healthy Body Secrets for Women Facebook group](https://www.facebook.com/groups/restartyourhealthcommunity345/)**
