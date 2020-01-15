@@ -15,7 +15,7 @@ posts:
 
 If you’re an adult living in the modern world, you’ve most likely heard of a credit score. There are many companies out there that offer your credit score to you for free each month. (If you’re not already using one, check out [Credit Karma](https://www.creditkarma.com/) and [Credit Sesame](https://track.flexlinkspro.com/a.ashx?foid=1098290.2228007&foc=1&fot=9999&fos=1), but be careful of all the credit card offers you’ll get from them!)
 
-**But why does your credit score matter so much? **
+**But why does your credit score matter so much?**
 
 Basically, you should care about your credit score if you care about your future. To put it simply, in a lender’s eyes, the higher your credit score, the lower a risk you are to them. Depending on your credit score, the lender can decide if they consider you eligible for a loan, and it can impact the interest rates on those loans. If your credit score is high, you can luck out and get a lower interest rate, which will save you hundreds, if not thousands, in the long run. If your credit score is low, lenders might not consider you eligible for loans, or if they do approve you, they might give you high interest rates or add other fees, which will cost you lots of money over time.
 
@@ -27,7 +27,7 @@ One of the most important things to do to improve and maintain your credit score
 
 ## Decrease Your Debt to Credit Ratio
 
-Say you only have one credit card with a limit of $1,000, but every month you end up with a balance of at least $750. That means that your credit card utilization is typically at 75%. Lenders want you to keep your utilization rate at or below 30%. If you're paying these balances off every month, it won't hurt you as much. But if you're using up most of the credit that's available to you, it'll hurt your credit score. 
+Say you only have one credit card with a limit of $1,000, but every month you end up with a balance of at least $750. That means that your credit card utilization is typically at 75%. Lenders want you to keep your utilization rate at or below 30%. If you're paying these balances off every month, it won't hurt you as much. But if you're using up most of the credit that's available to you, it'll hurt your credit score.
 
 There are two ways to decrease this ratio. First, and most importantly, you should pay down the balances. This is going to help you the most over time, both in terms of your credit and in terms of how much debt you have to worry about. The other way to improve this ratio is to increase the amount of credit available to you. This would look like calling your credit card company and asking them to increase your credit limit. Of course, if you do this, you have to be certain that you won't increase the amount of money you're putting on the card. If you're worried you will overspend, cut up or lock up your cards so that you won't use them at all.
 
@@ -45,6 +45,6 @@ If you've taken care of something like an item in collections, you can ask the c
 
 It's **not** true that checking your credit score or pulling your credit report hurts your credit score. It **is** true that applying for new credit will negatively impact your credit score. When a potential lender is reviewing your credit because you’ve applied for credit with them, they will do a hard inquiry. These include credit checks when you’ve applied for an auto loan, mortgage, personal loan, or credit card. When you have many different hard pulls in a short period of time, credit bureaus start to get suspicious. They wonder why you're applying for so much credit. So this uncertainty can ding your credit score, which is why it's important not to apply for things unless you absolutely need them, at least while you're trying to get that score up.
 
-However, maybe your credit score is lower than you'd like because you don't have *any* accounts! That's a scenario where applying for credit will actually help you in the long run. You should start with a secured credit card from your bank. This type of card will be more likely to have a lower limit, but it's a good way to get started building credit without risking getting into debt. 
+However, maybe your credit score is lower than you'd like because you don't have *any* accounts! That's a scenario where applying for credit will actually help you in the long run. You should start with a secured credit card from your bank. This type of card will be more likely to have a lower limit, but it's a good way to get started building credit without risking getting into debt.
 
 If you follow these steps, your credit score will go up over time! It won't happen over night, but be patient and keep taking the right actions. Good luck!
