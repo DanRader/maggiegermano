@@ -39,4 +39,10 @@ financial advisor
 
 legal aid
 
+## Wait Until After the Holiday Gathering
+
+xx
+
+*If you want to learn more about having these conversations, and why they are so important, check out this week's [Money Circle podcast](www.maggiegermano.com/podcast/its-time-to-talk-money-with-your-parents/), where I chat with [Cameron Huddleston](https://cameronhuddleston.com/), author of [Mom and Dad, We Need to Talk](https://www.amazon.com/Mom-Dad-Need-Talk-Conversations/dp/111953836X).*
+
 credit counselor
