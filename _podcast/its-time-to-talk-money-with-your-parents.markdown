@@ -23,7 +23,7 @@ Cameron Huddleston is the author of *Mom and Dad, We Need to Talk: How to Have E
 
 * [Cameron's Website](https://cameronhuddleston.com/)
 
-* x
+* [Free resources](https://cameronhuddleston.com/resources/)
 
 --
 
