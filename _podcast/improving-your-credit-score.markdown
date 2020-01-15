@@ -2,6 +2,10 @@
 title: Improving Your Credit Score
 date: 2020-01-27 05:00:00 -05:00
 published: false
+podcast:
+- How to Prioritize Your Health in 2020
+- Creative Ways to Pay Down Credit Card Debt
+- Why Time Management and Productivity Is So Important
 ---
 
 Want to improve your credit score? You have the power! It might take months or longer, but it's possible. Follow the tips in this episode and you'll see your credit score go up.
