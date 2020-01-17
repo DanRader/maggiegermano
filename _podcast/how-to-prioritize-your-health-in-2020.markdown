@@ -1,7 +1,6 @@
 ---
 title: How to Prioritize Your Health in 2020
 date: 2020-01-20 05:00:00 -05:00
-published: false
 lede: This week, Maggie sits down with health coach Brianna Wilkerson to talk about
   how you can ditch dieting and prioritize your health this year.
 image: "/uploads/happy%202.jpg"
