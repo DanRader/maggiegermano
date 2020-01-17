@@ -86,7 +86,7 @@ Brianna W.: 07:01 But I think when I work with women, one on one particular, eve
 
 Maggie Germano: 08:03 Oh yeah. I'm sure that that's true because I think you're totally right that bringing the shame and judgment into it is not really going to actually help anybody. And there's so much of it out there already.
 
-Brianna W.: 08:16 Right, exactly. Yeah. Everything, just that this diet world is one of the biggest industries. It's just, it's changed your tricks you into thinking something's wrong and you've done something wrong, so this is what you need to do to fix it when that's not the case.
+Brianna W.: 08:16 Right, exactly. Yeah. Everything, just that this diet world is one of the biggest industries. It just tricks you into thinking something's wrong and you've done something wrong, so this is what you need to do to fix it when that's not the case.
 
 Maggie Germano: 08:32 Yeah, and I think about that a lot in terms of the financial side of things too. Yeah. And like you were saying as a coach, I'm also not here to be like, this is exactly what's right and exactly what you should do because it's going to be different for everyone. I liked how you said, um, it's really important for things to be customized for the individual and actually be, you know, what they're going to do, not you're telling them to do because otherwise they're not actually gonna follow through and do it.
 
