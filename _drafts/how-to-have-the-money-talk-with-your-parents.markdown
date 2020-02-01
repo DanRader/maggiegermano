@@ -33,11 +33,13 @@ xx
 
 ## Encourage Them to Meet With Someone Else
 
-xx
+You aren't here to solve all of your parents' financial problems. In fact, sometimes it can be detrimental to try to step in and take over. It's important to know when a third party will be most helpful. This could be any of the following:
 
-financial advisor
+* A lawyer to help them draft up their estate documents
 
-legal aid
+* A financial advisor to help them sort out their retirement plans
+
+* Legal aid to help them deal with any serious financial issues at hand
 
 ## Wait Until After the Holiday Gathering
 
