@@ -13,7 +13,7 @@ But the truth is, even though these conversations are essential, they can be rea
 
 ## Approach Them With Kindness
 
-xx
+The reason you are having the money talk with your parents is because you care about them and you want them to be well cared for. And that's the thing you need to keep at the top of your mind
 
 ## Be Respectful, Not Judgmental
 
