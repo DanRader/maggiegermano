@@ -13,11 +13,11 @@ But the truth is, even though these conversations are essential, they can be rea
 
 ## Approach Them With Kindness
 
-The reason you are having the money talk with your parents is because you care about them and you want them to be well cared for. And that's the thing you need to keep at the top of your mind
+The reason you are having the money talk with your parents is because you care about them and you want them to be well cared for. And that's the thing you need to keep at the top of your mind when you approach this conversation. Lead with how much you love them and how you just want to make sure that they feel safe and comfortable when it comes to their future. 
 
 ## Be Respectful, Not Judgmental
 
-xx
+You might not be happy with what you learn about your parents' financial situation. Things might be less organized than you hoped. There might be no planning in place. There might be little to no money saved. If your parents are in a worse situation that you expected, it's easy to feel frustrated and judgmental. But this will just make 
 
 ## Don't Ask for Specific Numbers
 
