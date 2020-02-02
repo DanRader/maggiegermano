@@ -33,16 +33,18 @@ xx
 
 ## Encourage Them to Meet With Someone Else
 
-xx
+You aren't here to solve all of your parents' financial problems. In fact, sometimes it can be detrimental to try to step in and take over. It's important to know when a third party will be most helpful. This could be any of the following:
 
-financial advisor
+* A lawyer to help them draft up their estate documents
 
-legal aid
+* A financial advisor to help them sort out their retirement plans
+
+* Legal aid to help them deal with any serious financial issues at hand
+
+* A credit counselor to help them manage and pay down any debt
 
 ## Wait Until After the Holiday Gathering
 
-xx
+It might seem like the holidays are a great time to sit down and have these conversations with your parents. I used to think that too, because often that's the only time we are with our family for prolonged periods of time! And it isn't that the holiday season is the wrong time to talk about money with your parents, it's that the timing is important. You shouldn't bring up estate planning or financials at the dinner table on Thanksgiving or while you're opening gifts on Christmas. This approach can make people feel extra defensive and embarrassed and derail the conversation quickly. Wait until the day after Thanksgiving to bring up these topics. And don't put your parents on the spot in front of the whole family. 
 
 *If you want to learn more about having these conversations, and why they are so important, check out this week's [Money Circle podcast](www.maggiegermano.com/podcast/its-time-to-talk-money-with-your-parents/), where I chat with [Cameron Huddleston](https://cameronhuddleston.com/), author of [Mom and Dad, We Need to Talk](https://www.amazon.com/Mom-Dad-Need-Talk-Conversations/dp/111953836X).*
-
-credit counselor
