@@ -21,7 +21,7 @@ You might not be happy with what you learn about your parents' financial situati
 
 ## Don't Ask for Specific Numbers
 
-xx
+The specific numbers are not necessary for you to know, especially if your parents are uncomfortable talking about money.
 
 ## Ask "What If" Questions
 
