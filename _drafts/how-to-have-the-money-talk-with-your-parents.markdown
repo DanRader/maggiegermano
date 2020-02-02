@@ -25,7 +25,7 @@ xx
 
 ## Ask "What If" Questions
 
-xx
+It can be hard to plan ahead when the future seems abstract. 
 
 ## Get Clear On Their Goals and Needs
 
