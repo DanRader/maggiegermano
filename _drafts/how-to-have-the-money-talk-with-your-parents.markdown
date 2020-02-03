@@ -30,7 +30,7 @@ You might not be happy with what you learn about your parents' financial situati
 
 ## Don't Ask for Specific Numbers
 
-The specific numbers are not necessary for you to know, especially if your parents are uncomfortable talking about money.
+The specific numbers are not necessary for you to know, especially if your parents are uncomfortable talking about money. It's not about the numbers themselves, but about the circumstances. You don't need to know how much money your parents have saved for retirement. You just need to know that they have enough money to be able to live off of later. You don't need to know how much their monthly expenses are. You just need to know that they are able to afford to pay their bills. You don't need to know exactly how much money they want to leave to you and your siblings. You just need to know if they have a will. 
 
 ## Ask "What If" Questions
 
