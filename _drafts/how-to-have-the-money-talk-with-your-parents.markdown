@@ -36,11 +36,17 @@ The specific numbers are not necessary for you to know, especially if your paren
 
 It can be hard to plan ahead when the future seems abstract. That's probably why a lot of people don't really plan for retirement, because they can't picture themselves as old enough to stop working! That disconnect certainly applies when it comes to the idea of illness or physical limitations. And just because your parents are getting older, doesn't mean that they are having an easy time coming to terms with these possibilities. So a good approach might be to simply as them what they would want to do if certain things happened. 
 
-For example:
+**For example:**
 
 * What if you (or mom or dad) got sick or injured and could no longer work?
 
 * What if you ended up in the hospital and were unable to make your own medical decisions?
+
+* What if you could no longer afford to live in your home?
+
+* What would your wishes be for your funeral if you were to pass away?
+
+* 
 
 Posing these questions can make it easier to start coming up with answers to them. Plus, you and your parents will get more clarity on their wishes or needs. These are difficult questions to ask, so your parents might not have all the answers right away. Be patient and revisit the conversation when they've had more time to think about it.
 
@@ -60,8 +66,14 @@ You aren't here to solve all of your parents' financial problems. In fact, somet
 
 * A credit counselor to help them manage and pay down any debt
 
+If your parents don't want you to help them yourself, or if their situation is too complicated for you to get involved in, you can refer them to the right professionals. This will help both sides to feel less helpless and provide at least one next step to take action on.
+
+*If you are looking for some recommendations for any of these professional, let me know in the comments or email me at [hello@maggiegermano.com](mailto:hello@maggiegermano.com)!*
+
 ## Wait Until After the Holiday Gathering
 
 It might seem like the holidays are a great time to sit down and have these conversations with your parents. I used to think that too, because often that's the only time we are with our family for prolonged periods of time! And it isn't that the holiday season is the wrong time to talk about money with your parents, it's that the timing is important. You shouldn't bring up estate planning or financials at the dinner table on Thanksgiving or while you're opening gifts on Christmas. This approach can make people feel extra defensive and embarrassed and derail the conversation quickly. Wait until the day after Thanksgiving to bring up these topics. And don't put your parents on the spot in front of the whole family.
+
+Good luck!
 
 *If you want to learn more about having these conversations, and why they are so important, check out this week's [Money Circle podcast](www.maggiegermano.com/podcast/its-time-to-talk-money-with-your-parents/), where I chat with [Cameron Huddleston](https://cameronhuddleston.com/), author of [Mom and Dad, We Need to Talk](https://www.amazon.com/Mom-Dad-Need-Talk-Conversations/dp/111953836X).*
