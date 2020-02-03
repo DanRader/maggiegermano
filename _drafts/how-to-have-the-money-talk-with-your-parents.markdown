@@ -3,6 +3,13 @@ title: How to Have the Money Talk With Your Parents
 date: 2020-02-03 11:00:00 -05:00
 categories:
 - lifestyle
+image: "/uploads/b48174c5-6fe6-41a0-b366-2d413cd6aeb5.jpg"
+tweet: 'It''s not only important to talk #money with your romantic partner. You should
+  be talking to your parents too.'
+posts:
+- How To Stop Procrastinating Emotionally & Have The “Money Talk” With Your S.O.
+- How to Talk to Your Friends about Money
+- How I Had the Money Talk with My Dude
 ---
 
 Have you every considered that it's important to talk about money with your parents? And I don't mean talking to them about your own money. I mean talking to them about their money, their financial circumstances, and their future. If you're like many people, this probably hasn't really crossed your mind. In fact, this wasn't something I really considered until my own grandparents and parents started getting older. But it's incredibly important to be starting these conversations and getting on the same page with our family as we, and they, get older.
