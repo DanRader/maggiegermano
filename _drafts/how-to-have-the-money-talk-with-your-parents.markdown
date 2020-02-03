@@ -27,11 +27,19 @@ The specific numbers are not necessary for you to know, especially if your paren
 
 ## Ask "What If" Questions
 
-It can be hard to plan ahead when the future seems abstract.
+It can be hard to plan ahead when the future seems abstract. That's probably why a lot of people don't really plan for retirement, because they can't picture themselves as old enough to stop working! That disconnect certainly applies when it comes to the idea of illness or physical limitations. And just because your parents are getting older, doesn't mean that they are having an easy time coming to terms with these possibilities. So a good approach might be to simply as them what they would want to do if certain things happened. 
+
+For example:
+
+* What if you (or mom or dad) got sick or injured and could no longer work?
+
+* What if you ended up in the hospital and were unable to make your own medical decisions?
+
+Posing these questions can make it easier to start coming up with answers to them. Plus, you and your parents will get more clarity on their wishes or needs. These are difficult questions to ask, so your parents might not have all the answers right away. Be patient and revisit the conversation when they've had more time to think about it.
 
 ## Get Clear On Their Goals and Needs
 
-xx
+Just like with any financial conversation, it's important to focus on goals and needs here. 
 
 ## Encourage Them to Meet With Someone Else
 
