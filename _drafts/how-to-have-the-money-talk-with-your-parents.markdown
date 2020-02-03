@@ -19,7 +19,7 @@ The reason you are having the money talk with your parents is because you care a
 
 ## Be Respectful, Not Judgmental
 
-You might not be happy with what you learn about your parents' financial situation. Things might be less organized than you hoped. There might be no planning in place. There might be little to no money saved. If your parents are in a worse situation that you expected, it's easy to feel frustrated and judgmental. But this will just make
+You might not be happy with what you learn about your parents' financial situation. Things might be less organized than you hoped. There might be no planning in place. There might be little to no money saved. If your parents are in a worse situation that you expected, it's easy to feel frustrated and judgmental. But this will just make your parents get more defensive and resistant to having this conversation with you. Money is a difficult topic, and many of us were never educated on what we should be doing with it. That could be true for your parents, which will have influenced where they ended up financially. Be respectful and not judgmental, so that they are more likely to open up to you and accept your support.
 
 ## Don't Ask for Specific Numbers
 
