@@ -46,13 +46,13 @@ It can be hard to plan ahead when the future seems abstract. That's probably why
 
 * What would your wishes be for your funeral if you were to pass away?
 
-* 
+* What if you were incapacitated and your bills still needed to get paid? Who would be able to access your bank accounts?
 
 Posing these questions can make it easier to start coming up with answers to them. Plus, you and your parents will get more clarity on their wishes or needs. These are difficult questions to ask, so your parents might not have all the answers right away. Be patient and revisit the conversation when they've had more time to think about it.
 
 ## Get Clear On Their Goals and Needs
 
-Just like with any financial conversation, it's important to focus on goals and needs here. 
+Just like with any financial conversation, it's important to focus on goals and needs here. It's not just about the numbers, it's about what their wishes and dreams are. Find out if and when your parents want to retire. Find out if they want to sell their home and downsize eventually. Find out if they want to travel or move closer to you or your siblings. Find out about their health needs and what that means for their future and their independence. Framing this conversation around what kind of future they envision and the things they really want will make it easier.
 
 ## Encourage Them to Meet With Someone Else
 
