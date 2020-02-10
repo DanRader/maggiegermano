@@ -3,6 +3,7 @@ title: How My Husband and I Talk About Money
 date: 2020-02-10 05:00:00 -05:00
 lede: This week, Maggie gets personal and talks about how she and her husband manage
   and talk about money within their marriage.
+image: "/uploads/BarbaraOphotography-11.10.18-198.jpg"
 episode-number: 26
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/420b105e-d901-4eae-90ed-edef630e12c2?dark=false"></iframe>
