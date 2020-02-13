@@ -5,6 +5,11 @@ published: false
 lede: This week, Maggie sits down with Keila Hill-Trawick, Founder and Principal of
   Little Fish Accounting, to talk about tax planning for business owners.
 image: "/uploads/Keila%20Hill-Trawick,%20Little%20Fish%20Accounting.png"
+episode-number: 27
+podcast:
+- How My Husband and I Talk About Money
+- It’s Time to Talk Money With Your Parents
+- Improving Your Credit Score
 ---
 
 Are you a small business owner? Then this podcast episode is for you! Learn everything you need to know about paying taxes as an entrepreneur and what you should ask when hiring a tax professional.
