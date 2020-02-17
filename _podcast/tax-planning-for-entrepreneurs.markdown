@@ -1,7 +1,6 @@
 ---
 title: Tax Planning for Entrepreneurs
 date: 2020-02-17 05:00:00 -05:00
-published: false
 lede: This week, Maggie sits down with Keila Hill-Trawick, Founder and Principal of
   Little Fish Accounting, to talk about tax planning for business owners.
 image: "/uploads/Keila%20Hill-Trawick,%20Little%20Fish%20Accounting.png"
