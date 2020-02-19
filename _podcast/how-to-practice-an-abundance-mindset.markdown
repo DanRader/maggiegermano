@@ -2,10 +2,16 @@
 title: How to Practice An Abundance Mindset
 date: 2020-02-24 05:00:00 -05:00
 published: false
+lede: This week, Maggie is giving tips on how you can cultivate more of an abundance
+  mindset in your life.
 image: "/uploads/DSC_4840.jpg"
 episode-number: 28
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/15dfe5b7-b434-4e74-b6c8-7fe47e651ab2?dark=false"></iframe>
+podcast:
+- Tax Planning for Entrepreneurs
+- How My Husband and I Talk About Money
+- It’s Time to Talk Money With Your Parents
 ---
 
 xx
