@@ -14,6 +14,16 @@ podcast:
 - It’s Time to Talk Money With Your Parents
 ---
 
+**Related Links:**
+
+* This week's related blog post
+
+* [Blog post](https://www.maggiegermano.com/blog/creating-money-affirmations-you-actually-believe-in/) about money affirmations
+
+* [Money Circle Facebook Group](https://www.facebook.com/groups/MoneyCircleGroup/)
+
+* [Instagram](www.instagram.com/maggiegermano)
+
 xx
 
 ---
