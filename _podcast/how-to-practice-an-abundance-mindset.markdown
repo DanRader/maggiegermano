@@ -16,7 +16,7 @@ podcast:
 
 **Related Links:**
 
-* This week's related blog post
+* This week's related [blog post](www.maggiegermano.com/blog/how-to-practice-an-abundance-mindset/)
 
 * [Blog post](https://www.maggiegermano.com/blog/creating-money-affirmations-you-actually-believe-in/) about money affirmations
 
