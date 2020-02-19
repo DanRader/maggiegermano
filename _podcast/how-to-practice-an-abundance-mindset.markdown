@@ -24,8 +24,6 @@ podcast:
 
 * [Instagram](www.instagram.com/maggiegermano)
 
-xx
-
 ---
 
 ## TRANSCRIPTION
