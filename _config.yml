@@ -38,40 +38,40 @@ defaults:
   values:
     layout: default
     image: "/uploads/featuredimage.png"
-    is-menu: 
+    is-menu:
 - scope:
     path: ''
     type: events
   values:
     layout: event
-    title: 
-    image: 
-    og-image: 
-    sm-image: 
-    event-date: 
-    start-time: 
-    end-time: 
-    location: 
+    title:
+    image:
+    og-image:
+    sm-image:
+    event-date:
+    start-time:
+    end-time:
+    location:
     button-text: Sign Me Up
     button-link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JF9KN58RCEPEC
     is-money-circle: 'true'
-    ticket-price: 
+    ticket-price:
 - scope:
     path: ''
     type: posts
   values:
     layout: post
     permalink: "/blog/:title/"
-    image: 
+    image:
     author: Maggie Germano
     author-desc: 'Certified Financial Education Instructor. Feminist and financial
       coach for women. Founder of Money Circle. '
     author-image: "/uploads/maggie_author.jpg"
     tweet: " "
     posts:
-    - 
-    - 
-    - 
+    -
+    -
+    -
     comments: true
     future: false
 - scope:
@@ -94,12 +94,12 @@ defaults:
     path: ''
     type: categories
   values:
-    color: 
+    color:
 - scope:
     path: ''
     type: testimonials
   values:
-    image: 
+    image:
 permalink: pretty
 gems:
 - jekyll-paginate
@@ -113,7 +113,7 @@ description: Break the taboo of discussing debt, earnings, and financial goals. 
 url: https://maggiegermano.com
 twitter_username: maggiegermano
 github_username: DanRader
-port: 6666
+port: 1234
 google-analytics: |-
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
