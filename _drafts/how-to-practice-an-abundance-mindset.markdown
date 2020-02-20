@@ -30,16 +30,37 @@ So next, I think it's important to identify the disempowering beliefs that you h
 
 So again, I just want to give some examples so that you can identify what some of those might be for yourself, but also so that you don't feel as alone in some of those negative thoughts that you might be having. So just a few that have been coming up over the past couple of weeks. For me, I'm too lazy to grow my business and earn more money. There are too many other people in my field and I won't stand out. I'll never make enough money with my business to feel like I'm contributing equally in my household. So these beliefs only make it so that I don't take action. In my business and life to get me where I want to be. They maybe feel like they're true, you know, if I think them and believe them, my brain is just taking them as fact. And so if I'm not analyzing them and responding to them, then I'm probably going to be holding still in my business and not taking action on some of the growth opportunities that I want to take advantage of are some of the new services that I want to offer.
 
-And luckily I am working with a new business coach who is helping me to work through some of these disempowering beliefs myself and she can see and identify them as I'm speaking. So obviously that is really helpful in just helping me identify them as well. Um, so it's a little bit harder to identify them in yourself, but some of those thoughts for you, especially around money might be something like I, like I mentioned earlier, I will never get out of debt or I am incapable of living within my means or I just don't know how to stick to a budget. And those thoughts might be holding you back from a career that you really want or keeping you in debt and holding you back from that freedom from debt that you're really looking for. Um, and disempowering can really take any kind of form and applied to any part of your life.
+And luckily I am working with a new business coach who is helping me to work through some of these disempowering beliefs myself and she can see and identify them as I'm speaking. So obviously that is really helpful in just helping me identify them as well. Um, so it's a little bit harder to identify them in yourself, but some of those thoughts for you, especially around money might be something like I mentioned earlier, I will never get out of debt or I am incapable of living within my means or I just don't know how to stick to a budget. And those thoughts might be holding you back from a career that you really want or keeping you in debt and holding you back from that freedom from debt that you're really looking for. Um, and disempowering can really take any kind of form and applied to any part of your life.
 
 ## Create Responses to Those Disempowering Beliefs
 
-And so like I said, the first step is identifying those beliefs. Then noticing them as they come up. And again, that's really the key is as they're popping up, being aware of that when it's happening and allowing yourself to stop for a second, not allow yourself to have the same reaction that you always do, which is just believing it and going about your day. It's important to come up with some responses to those disempowering beliefs so you can remind yourself that they are just, that their beliefs and not necessarily reality. So some responses that I can give to my own disempowering beliefs are laziness is subjective. I know that I'm capable of achieving my goals. I have a unique perspective related to women and money and it resonates with many people. I don't have to earn as much as my husband in order to contribute meaningfully to my household.
+And so like I said, the first step is identifying those beliefs. Then noticing them as they come up. And again, that's really the key is as they're popping up, being aware of that when it's happening and allowing yourself to stop for a second, not allow yourself to have the same reaction that you always do, which is just believing it and going about your day. It's important to come up with some responses to those disempowering beliefs so you can remind yourself that they are just, that their beliefs and not necessarily reality. 
 
-My income does not define my worth or the success of my business, but I can also definitely earn more as I grow my business. So those are just some responses that I can use to remind myself that those disempowering beliefs are not fact. They don't have to be true and they don't have to serve to hold me back from the goals that I'm trying to reach. So what are some of your disempowering beliefs that you want to overcome and what are some helpful responses that you can remind yourself of?
+Some responses that I can give to my own disempowering beliefs are: 
+* Laziness is subjective. 
+* I know that I'm capable of achieving my goals. 
+* I have a unique perspective related to women and money and it resonates with many people. 
+* I don't have to earn as much as my husband in order to contribute meaningfully to my household.
+* My income does not define my worth or the success of my business, but I can also definitely earn more as I grow my business. 
+
+So those are just some responses that I can use to remind myself that those disempowering beliefs are not fact. They don't have to be true and they don't have to serve to hold me back from the goals that I'm trying to reach. 
+
+So what are some of your disempowering beliefs that you want to overcome and what are some helpful responses that you can remind yourself of?
+
+## Use Positive Affirmations
 
 The last step that I would recommend is creating positive affirmations for yourself. I've written about this in the past related to creating money affirmations that you actually believe, but I think that this practice really can help. It allows you to change your thoughts to be more positive and less negative.
 
-As humans, we are wired to look for danger and threats. It's an evolutionary requirement, right? So that we can survive and stay alive, but that also means that we tend to focus and dwell on the negative things in our life and completely bypass the positive. I'm definitely guilty of that. Creating and writing down positive affirmations can help rewire your brain to look for the positive. It can also help you to believe the things you really want to believe about yourself. So here are a few positive affirmations that I've written for myself. I am worthy of love, friendship, and success. I have plenty to offer. My business is needed and impactful. Reminding myself of these things helps to boost my mood and my confidence day after day. Again, you can keep a daily list of these kinds of affirmations in your planner or your journal, or you can make a list and hang it where you'll see it every day. Whatever works for you is best. And again, please share some of your positive affirmations with me. I would love to be inspired by you and your positivity and just generally see what is on your mind and the sorts of things that you're hoping for. 
+As humans, we are wired to look for danger and threats. It's an evolutionary requirement, right? So that we can survive and stay alive, but that also means that we tend to focus and dwell on the negative things in our lives and completely bypass the positive. I'm definitely guilty of that. Creating and writing down positive affirmations can help rewire your brain to look for the positive. It can also help you to believe the things you really want to believe about yourself. 
+
+So here are a few positive affirmations that I've written for myself:
+
+* I am worthy of love, friendship, and success. 
+
+* I have plenty to offer. 
+
+* My business is needed and impactful. 
+
+Reminding myself of these things helps to boost my mood and my confidence day after day. Again, you can keep a daily list of these kinds of affirmations in your planner or your journal, or you can make a list and hang it where you'll see it every day. Whatever works for you is best. And again, please share some of your positive affirmations with me. I would love to be inspired by you and your positivity and just generally see what is on your mind and the sorts of things that you're hoping for. 
 
 I hope that these tips were helpful for you in welcoming more abundance into your life. Thank you so much for listening and let me know what you think.
