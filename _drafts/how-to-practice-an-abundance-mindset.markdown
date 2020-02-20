@@ -9,27 +9,31 @@ posts:
 - All the Things That I Love to Spend Money On
 ---
 
-Today I want to talk about abundance and practicing having an abundance mindset. I'm sure you hear the word abundance thrown around pretty often, especially on social media, but do you really understand what it means? In short, practicing abundance means approaching life with the belief that you have enough, you have enough love and enough support, enough food, enough money, et cetera. Of course, there's an immense privilege and being able to cultivate this mindset, there's an immense privilege and even being able to have this conversation because there are plenty of people out there who literally do not have enough money, enough food, enough support, enough heat, enough clean water and more so I want to acknowledge that fact. Practicing an abundance mindset will not magically give these people the things that they need. I'm not a huge believer in the manifestation idea and that if you just wish for something hard enough or put something out in the world hard enough that it will magically come to you.
+Today I want to talk about abundance and practicing having an abundance mindset. I'm sure you hear the word abundance thrown around pretty often, especially on social media, but do you really understand what it means? 
 
-However, there are a lot of us out there who do have our basic needs met. Yet we still live in a place of lack and feel like there will never be enough when we feel like there will never be enough. We tend to behave in that way. So if you feel like you will always be in an underpaying job, then you might not pursue opportunities in your career that might pay you more because you think that that's not available to you. If you think that you will always be in debt, that might influence how you're spending and how you use your credit card and whether or not you're paying it off because you're kind of assuming that that's just always going to be your circumstance. So why would you take action that might get you out of that situation? So those are just two examples of how having a mindset of lack and a mindset of not having or being enough can really influence your expenses and your financial situation.
+In short, practicing abundance means approaching life with the belief that you have enough; you have enough love and enough support, enough food, enough money, etc. Of course, there's an immense privilege and being able to cultivate this mindset, there's an immense privilege in even being able to have this conversation, because there are plenty of people out there who literally do not have enough. Enough money, enough food, enough support, enough heat, enough clean water and more. I want to acknowledge that fact. Practicing an abundance mindset will not magically give these people the things that they need. 
 
-So if you relate to this description of yourself and you want to welcome more feelings of abundance into your life, then this episode is for you.
+However, there are a lot of us out there who do have our basic needs met. Yet, we still live in a place of lack and feel like there will never be enough. When we feel this way, we tend to behave in that way. For example, if you feel like you will always be in an underpaying job, then you might not pursue opportunities in your career that might pay you more, because you think that that's not available to you. If you think that you will always be in debt, that might influence how you're spending and how you use your credit card and whether or not you're paying it off, because you're kind of assuming that that's just always going to be your circumstance. So why would you take action that might get you out of that situation? Those are just two examples of how having a mindset of lack and a mindset of not having or being enough can really influence your expenses and your financial situation.
+
+However, there are definitely ways to encourage an abundance mindset and move yourself out of that feeling of lack.
 
 ## Practice Gratitude
 
-So the first step is to get really clear on the things that you do have. And I think that that's one of the biggest issues when we feel like we just don't have enough. We're always thinking from a place of lack is that we kind of assume that we just don't have enough of what we actually need or that we were taking for granted the things that we have that we really do appreciate. So what are those things that you're grateful for but that you might take for granted on a daily basis? I'll just give you some examples of some of mine. 
+The first step is to get really clear on the things that you do have. And I think that that's one of the biggest issues when we feel like we just don't have enough. We're always thinking from a place of lack in that we assume that we just don't have enough of what we actually need. We also tend to take for granted the things that we have that we really do appreciate. 
+
+So what are those things that you're grateful for but that you might take for granted on a daily basis? I'll just give you some examples of some of mine:
 
 * I have a husband who loves me and who has a career that both fulfills him and allows us to maintain our lifestyle while I grow and expand my business.
 
-* I own a home that I love and that we've been able to make our own. 
+* I own a home that I love and that we've been able to make our own.
 
-* I have a family that I am close to and that I love very much. 
+* I have a family that I am close to and that I love very much.
 
-* I have a puppy that is very strange and frustrating, but I love him very much and I think that he loves me back in his own way. 
+* I have a puppy that is very strange and frustrating, but I love him very much and I think that he loves me back in his own way.
 
-So those are just a couple that I came up with off the top of my head that I often do take for granted. I'm around my husband every single day. I'm in my home every day. I literally don't leave some days because I work here and so it's really easy to just go day to day not thinking about my gratitude for those things. And I think that it's important to remind myself of that and identify those things and allow myself to be grateful for them and to be reminded that I do have a lot of what I already need.
+Those are just a few that I came up with off the top of my head that I often do take for granted. I'm around my husband every single day. I'm in my home every day. I literally don't leave some days because I work here and so it's really easy to just go day to day not thinking about my gratitude for those things. And I think that it's important to remind myself of that and identify those things and allow myself to be grateful for them and be reminded that I do have a lot of what I already need.
 
-And so identifying those things that you already have is really great. It can, like I said, remind you of the things that you tend to forget, but writing them down one time and then going about your life isn't going to be enough. You have to remind yourself regularly. You can do this by writing a daily gratitude list in your planner or your journal or even on just a post it note. Or you can make a list and keep it somewhere where you can see it every day. So I just installed a corkboard on the wall right by my desk in my home office and I've been writing little reminders to myself on sticky notes and putting it on that corkboard so that I can look over at it regularly, you know, throughout the day, and get a boost, a positive boost, and a reminder of the things that I am grateful for and just some of the affirmations that I may need during the day.
+Identifying those things that you already have is really great. It can, like I said, remind you of the things that you tend to forget, but writing them down one time and then going about your life isn't going to be enough. You have to remind yourself regularly. You can do this by writing a daily gratitude list in your planner or your journal or even on just a post it note. Or you can make a list and keep it somewhere where you can see it every day. So I just installed a corkboard on the wall right by my desk in my home office and I've been writing little reminders to myself on sticky notes and putting it on that corkboard so that I can look over at it regularly, you know, throughout the day, and get a boost, a positive boost, and a reminder of the things that I am grateful for and just some of the affirmations that I may need during the day.
 
 So sometimes it helps to share those things that you're grateful for so that you're really vocalizing and allowing yourself to absorb your gratitude.
 
@@ -37,11 +41,13 @@ So sometimes it helps to share those things that you're grateful for so that you
 
 So next, I think it's important to identify the disempowering beliefs that you hold that might not be true. So disempowering beliefs are something that I feel like I always kind of knew were there, but I never really had the vocabulary for them until I went through my own coaching training program. And basically, disempowering beliefs are something that you believe about yourself or your life that only serve to hold you back. These beliefs may or may not be true, but if you don't confront them for what they are, meaning disempowering you, it'll be impossible for you to move past them.
 
-So again, I just want to give some examples so that you can identify what some of those might be for yourself, but also so that you don't feel as alone in some of those negative thoughts that you might be having. So just a few that have been coming up over the past couple of weeks. For me, 
+So again, I just want to give some examples so that you can identify what some of those might be for yourself, but also so that you don't feel as alone in some of those negative thoughts that you might be having. So just a few that have been coming up over the past couple of weeks. For me,
 
-* I'm too lazy to grow my business and earn more money. 
+* I'm too lazy to grow my business and earn more money.
+
 * There are too many other people in my field and I won't stand out.
-* I'll never make enough money with my business to feel like I'm contributing equally in my household. 
+
+* I'll never make enough money with my business to feel like I'm contributing equally in my household.
 
 These beliefs only make it so that I don't take action. In my business and life to get me where I want to be. They maybe feel like they're true, you know, if I think them and believe them, my brain is just taking them as fact. And so if I'm not analyzing them and responding to them, then I'm probably going to be holding still in my business and not taking action on some of the growth opportunities that I want to take advantage of are some of the new services that I want to offer.
 
