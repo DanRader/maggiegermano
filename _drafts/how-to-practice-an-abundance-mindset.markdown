@@ -1,6 +1,8 @@
 ---
 title: How to Practice An Abundance Mindset
 date: 2020-02-24 11:00:00 -05:00
+categories:
+- lifestyle
 image: "/uploads/freshh-connection-M4lve6jR26E-unsplash.jpg"
 tweet: Practicing abundance means approaching life with the belief that you have enough.
 posts:
@@ -9,9 +11,9 @@ posts:
 - All the Things That I Love to Spend Money On
 ---
 
-Today I want to talk about abundance and practicing having an abundance mindset. I'm sure you hear the word abundance thrown around pretty often, especially on social media, but do you really understand what it means? 
+Today I want to talk about abundance and practicing having an abundance mindset. I'm sure you hear the word abundance thrown around pretty often, especially on social media, but do you really understand what it means?
 
-In short, practicing abundance means approaching life with the belief that you have enough; you have enough love and enough support, enough food, enough money, etc. Of course, there's an immense privilege and being able to cultivate this mindset, there's an immense privilege in even being able to have this conversation, because there are plenty of people out there who literally do not have enough. Enough money, enough food, enough support, enough heat, enough clean water and more. I want to acknowledge that fact. Practicing an abundance mindset will not magically give these people the things that they need. 
+In short, practicing abundance means approaching life with the belief that you have enough; you have enough love and enough support, enough food, enough money, etc. Of course, there's an immense privilege and being able to cultivate this mindset, there's an immense privilege in even being able to have this conversation, because there are plenty of people out there who literally do not have enough. Enough money, enough food, enough support, enough heat, enough clean water and more. I want to acknowledge that fact. Practicing an abundance mindset will not magically give these people the things that they need.
 
 However, there are a lot of us out there who do have our basic needs met. Yet, we still live in a place of lack and feel like there will never be enough. When we feel this way, we tend to behave in that way. For example, if you feel like you will always be in an underpaying job, then you might not pursue opportunities in your career that might pay you more, because you think that that's not available to you. If you think that you will always be in debt, that might influence how you're spending and how you use your credit card and whether or not you're paying it off, because you're kind of assuming that that's just always going to be your circumstance. So why would you take action that might get you out of that situation? Those are just two examples of how having a mindset of lack and a mindset of not having or being enough can really influence your expenses and your financial situation.
 
@@ -19,7 +21,7 @@ However, there are definitely ways to encourage an abundance mindset and move yo
 
 ## Practice Gratitude
 
-The first step is to get really clear on the things that you do have. And I think that that's one of the biggest issues when we feel like we just don't have enough. We're always thinking from a place of lack in that we assume that we just don't have enough of what we actually need. We also tend to take for granted the things that we have that we really do appreciate. 
+The first step is to get really clear on the things that you do have. And I think that that's one of the biggest issues when we feel like we just don't have enough. We're always thinking from a place of lack in that we assume that we just don't have enough of what we actually need. We also tend to take for granted the things that we have that we really do appreciate.
 
 So what are those things that you're grateful for but that you might take for granted on a daily basis? I'll just give you some examples of some of mine:
 
@@ -89,4 +91,4 @@ So here are a few positive affirmations that I've written for myself:
 
 Reminding myself of these things helps to boost my mood and my confidence day after day. Again, you can keep a daily list of these kinds of affirmations in your planner or your journal, or you can make a list and hang it where you'll see it every day. Whatever works for you is best. And again, please share some of your positive affirmations with me. I would love to be inspired by you and your positivity and just generally see what is on your mind and the sorts of things that you're hoping for.
 
-I hope that these tips were helpful for you in welcoming more abundance into your life. Thank you so much for listening and let me know what you think.
+I hope that these tips were helpful for you in welcoming more abundance into your life. Let me know in the comments how this works for you!
