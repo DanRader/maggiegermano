@@ -1,6 +1,8 @@
 ---
 title: How to Practice An Abundance Mindset
 date: 2020-02-24 11:00:00 -05:00
+categories:
+- lifestyle
 image: "/uploads/freshh-connection-M4lve6jR26E-unsplash.jpg"
 tweet: Practicing abundance means approaching life with the belief that you have enough.
 posts:
