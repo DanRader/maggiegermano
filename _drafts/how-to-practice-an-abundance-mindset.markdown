@@ -55,7 +55,7 @@ These beliefs only make it so that I don't take action. In my business and life 
 
 And luckily I am working with a new business coach who is helping me to work through some of these disempowering beliefs myself and she can see and identify them as I'm speaking. So obviously that is really helpful in just helping me identify them as well. Um, so it's a little bit harder to identify them in yourself, but some of those thoughts for you, especially around money might be something like I mentioned earlier, I will never get out of debt or I am incapable of living within my means or I just don't know how to stick to a budget. And those thoughts might be holding you back from a career that you really want or keeping you in debt and holding you back from that freedom from debt that you're really looking for. Um, and disempowering can really take any kind of form and applied to any part of your life.
 
-## Create Responses to Those Disempowering Beliefs
+## Challenge Those Disempowering Beliefs
 
 And so like I said, the first step is identifying those beliefs. Then noticing them as they come up. And again, that's really the key is as they're popping up, being aware of that when it's happening and allowing yourself to stop for a second, not allow yourself to have the same reaction that you always do, which is just believing it and going about your day. It's important to come up with some responses to those disempowering beliefs so you can remind yourself that they are just, that their beliefs and not necessarily reality.
 
