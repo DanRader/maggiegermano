@@ -17,7 +17,7 @@ In short, practicing abundance means approaching life with the belief that you h
 
 However, there are a lot of us out there who do have our basic needs met. Yet, we still live in a place of lack and feel like there will never be enough. When we feel this way, we tend to behave in that way. For example, if you feel like you will always be in an underpaying job, then you might not pursue opportunities in your career that might pay you more, because you think that that's not available to you. If you think that you will always be in debt, that might influence how you're spending and how you use your credit card and whether or not you're paying it off, because you're assuming that that's just always going to be your circumstance. So why would you take action that might get you out of that situation? Those are just two examples of how having a mindset of lack and a mindset of not having or being enough can really influence your expenses and your financial situation.
 
-However, there are definitely ways to encourage an abundance mindset and move yourself out of that feeling of lack.
+However, there are ways to encourage an abundance mindset and move yourself out of that feeling of lack. 
 
 ## Practice Gratitude
 
@@ -35,15 +35,15 @@ So what are those things that you're grateful for but that you might take for gr
 
 Those are just a few that I came up with off the top of my head that I often do take for granted. I'm around my husband every single day. I'm in my home every day. I literally don't leave some days because I work here and so it's really easy to just go day to day not thinking about my gratitude for those things. And I think that it's important to remind myself of that and identify those things and allow myself to be grateful for them and be reminded that I do have a lot of what I already need.
 
-Identifying those things that you already have is really great. It can, like I said, remind you of the things that you tend to forget, but writing them down one time and then going about your life isn't going to be enough. You have to remind yourself regularly. You can do this by writing a daily gratitude list in your planner or your journal or even on just a post it note. Or you can make a list and keep it somewhere where you can see it every day. So I just installed a corkboard on the wall right by my desk in my home office and I've been writing little reminders to myself on sticky notes and putting it on that corkboard so that I can look over at it regularly, you know, throughout the day, and get a boost, a positive boost, and a reminder of the things that I am grateful for and just some of the affirmations that I may need during the day.
+Identifying those things that you already have is really great. It can remind you of the things that you tend to forget, but writing them down one time and then going about your life isn't going to be enough. You have to remind yourself regularly. You can do this by writing a daily gratitude list in your planner or your journal or even on just a post it note. Or you can make a list and keep it somewhere where you can see it every day. For example, I just installed a corkboard on the wall right by my desk in my home office and I've been writing little reminders to myself on sticky notes and putting them there so that I can look over at it regularly, and get a positive boost that I may need during the day.
 
-So sometimes it helps to share those things that you're grateful for so that you're really vocalizing and allowing yourself to absorb your gratitude.
+What are the things you're most grateful for? Share in the comments!
 
 ## Identify Disempowering Beliefs
 
-So next, I think it's important to identify the disempowering beliefs that you hold that might not be true. So disempowering beliefs are something that I feel like I always kind of knew were there, but I never really had the vocabulary for them until I went through my own coaching training program. And basically, disempowering beliefs are something that you believe about yourself or your life that only serve to hold you back. These beliefs may or may not be true, but if you don't confront them for what they are, meaning disempowering you, it'll be impossible for you to move past them.
+Next, it's important to identify the disempowering beliefs that you hold that might not be true. Disempowering beliefs are something that I feel like I always knew were there, but I never really had the vocabulary for them until I went through my own coaching training program. Basically, disempowering beliefs are things that you believe about yourself or your life that only serve to hold you back. These beliefs may or may not be true, but if you don't confront them for what they are, which is disempowering, it'll be impossible for you to move past them.
 
-So again, I just want to give some examples so that you can identify what some of those might be for yourself, but also so that you don't feel as alone in some of those negative thoughts that you might be having. So just a few that have been coming up over the past couple of weeks. For me,
+I'll give some examples so that you can identify what some of those might be for yourself, but also so that you don't feel as alone in some of those negative thoughts that you might be having. For me, a few that have been coming up recently are:
 
 * I'm too lazy to grow my business and earn more money.
 
@@ -51,13 +51,23 @@ So again, I just want to give some examples so that you can identify what some o
 
 * I'll never make enough money with my business to feel like I'm contributing equally in my household.
 
-These beliefs only make it so that I don't take action. In my business and life to get me where I want to be. They maybe feel like they're true, you know, if I think them and believe them, my brain is just taking them as fact. And so if I'm not analyzing them and responding to them, then I'm probably going to be holding still in my business and not taking action on some of the growth opportunities that I want to take advantage of are some of the new services that I want to offer.
+These beliefs only make it so that I don't take action in my business and life to get me where I want to be. They might feel like they're true, because if I think them and believe them, my brain is just taking them as fact. If I'm not analyzing the beliefs and responding to them, then I'm probably going to be holding still in my business and not taking action on some of the growth opportunities that I want to take advantage of.
 
-And luckily I am working with a new business coach who is helping me to work through some of these disempowering beliefs myself and she can see and identify them as I'm speaking. So obviously that is really helpful in just helping me identify them as well. Um, so it's a little bit harder to identify them in yourself, but some of those thoughts for you, especially around money might be something like I mentioned earlier, I will never get out of debt or I am incapable of living within my means or I just don't know how to stick to a budget. And those thoughts might be holding you back from a career that you really want or keeping you in debt and holding you back from that freedom from debt that you're really looking for. Um, and disempowering can really take any kind of form and applied to any part of your life.
+Luckily, I am working with a new business coach who is helping me to work through some of these disempowering beliefs myself and she can see and identify them as I'm speaking. However, it's a little bit harder to identify them in yourself, but some of those thoughts for you, especially around money might be something like this:
+
+*  I will never get out of debt.
+
+* I am incapable of living within my means.
+
+* I just don't know how to stick to a budget.
+
+* I'll never earn more money. 
+
+These types of thoughts might be holding you back from a career that you really want or keeping you in debt and holding you back from that freedom from debt that you're really looking for. Disempowering thoughts can really take any kind of form and apply to any part of your life.
 
 ## Challenge Those Disempowering Beliefs
 
-And so like I said, the first step is identifying those beliefs. Then noticing them as they come up. And again, that's really the key is as they're popping up, being aware of that when it's happening and allowing yourself to stop for a second, not allow yourself to have the same reaction that you always do, which is just believing it and going about your day. It's important to come up with some responses to those disempowering beliefs so you can remind yourself that they are just, that their beliefs and not necessarily reality.
+The first step is identifying those beliefs, and then, noticing them as they come up. The next step, though, is changing how you react to those thoughts. It's important to come up with some responses to those disempowering beliefs so you can remind yourself that they are just beliefs and not necessarily reality.
 
 Some responses that I can give to my own disempowering beliefs are:
 
@@ -71,13 +81,13 @@ Some responses that I can give to my own disempowering beliefs are:
 
 * My income does not define my worth or the success of my business, but I can also definitely earn more as I grow my business.
 
-So those are just some responses that I can use to remind myself that those disempowering beliefs are not fact. They don't have to be true and they don't have to serve to hold me back from the goals that I'm trying to reach.
+Those are just some responses that I can use to remind myself that those disempowering beliefs are not fact. They don't have to be true and they don't have to serve to hold me back from the goals that I'm trying to reach.
 
-So what are some of your disempowering beliefs that you want to overcome and what are some helpful responses that you can remind yourself of?
+What are some of your disempowering beliefs that you want to overcome and what are some helpful responses that you can remind yourself of? Share in the comments!
 
 ## Use Positive Affirmations
 
-The last step that I would recommend is creating positive affirmations for yourself. I've written about this in the past related to creating money affirmations that you actually believe, but I think that this practice really can help. It allows you to change your thoughts to be more positive and less negative.
+The last step that I would recommend is creating positive affirmations for yourself. I've [written about this](https://www.maggiegermano.com/blog/creating-money-affirmations-you-actually-believe-in/) in the past related to creating money affirmations that you actually believe, but I think that this practice really can help. It allows you to change your thoughts to be more positive and less negative.
 
 As humans, we are wired to look for danger and threats. It's an evolutionary requirement, right? So that we can survive and stay alive, but that also means that we tend to focus and dwell on the negative things in our lives and completely bypass the positive. I'm definitely guilty of that. Creating and writing down positive affirmations can help rewire your brain to look for the positive. It can also help you to believe the things you really want to believe about yourself.
 
@@ -89,6 +99,6 @@ So here are a few positive affirmations that I've written for myself:
 
 * My business is needed and impactful.
 
-Reminding myself of these things helps to boost my mood and my confidence day after day. Again, you can keep a daily list of these kinds of affirmations in your planner or your journal, or you can make a list and hang it where you'll see it every day. Whatever works for you is best. And again, please share some of your positive affirmations with me. I would love to be inspired by you and your positivity and just generally see what is on your mind and the sorts of things that you're hoping for.
+Reminding myself of these things helps to boost my mood and my confidence day after day. Again, you can keep a daily list of these kinds of affirmations in your planner or your journal, or you can make a list and hang it where you'll see it every day. Whatever works for you is best. And again, please share some of your positive affirmations in the comments. I would love to be inspired by you and your positivity and just generally see what is on your mind and the sorts of things that you're striving for.
 
 I hope that these tips were helpful for you in welcoming more abundance into your life. Let me know in the comments how this works for you!
