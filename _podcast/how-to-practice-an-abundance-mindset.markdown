@@ -1,7 +1,6 @@
 ---
 title: How to Practice An Abundance Mindset
 date: 2020-02-24 05:00:00 -05:00
-published: false
 lede: This week, Maggie is giving tips on how you can cultivate more of an abundance
   mindset in your life.
 image: "/uploads/DSC_4840.jpg"
