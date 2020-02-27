@@ -43,6 +43,8 @@ speaker-topics: |-
 workshops: |-
   ## Workshops
 
+  Maggie is able to tailor workshops to your specific needs, but some existing workshops are:
+
   ### Get Your Money Right
   Want to get your money right but you're not sure where to start? In this workshop, Maggie will tell you what you need to do from start to finish to get control of your money. This workshop is designed for those who are just starting out, so it is easy to comprehend, with tangible next steps to take away.
 
