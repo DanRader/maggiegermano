@@ -1,7 +1,6 @@
 ---
 title: How Women Can Step Into Their Financial Power
 date: 2020-03-02 05:00:00 -05:00
-published: false
 lede: This week, Maggie sits down again with financial therapist, Lindsay Bryan-Podvin,
   to talk about how breadwinning women can feel more confident about their financial
   success.
