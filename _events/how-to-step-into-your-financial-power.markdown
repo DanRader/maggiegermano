@@ -12,9 +12,9 @@ button-link: https://www.eventbrite.com/e/money-circle-how-to-step-into-your-fin
 ticket-price: "$20"
 ---
 
-Do you want to feel more confident about asking for more money? Do you want to feel proud of yourself for being a breadwinner? Join us!\
+Do you want to feel more confident about asking for more money? Do you want to feel proud of yourself for being a breadwinner? Join us!
 
-**About this Event**\
+**About this Event**
 
 Did you know that 49 percent of employed women in the United States, including 42 percent of working mothers, say they are their family’s main breadwinner? That's a massive increase from where it used to be.
 
