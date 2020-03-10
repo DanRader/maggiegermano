@@ -99,7 +99,7 @@ layout: default
                 </div>
 
                 <label for="form-name">Topic</label>
-                <select id="form-topic" type="budget" name="Budget" placeholder="On which topic would you like me to speak?">
+                <select id="form-topic" type="topic" name="topic" placeholder="On which topic would you like me to speak?">
                   <option class="placeholderSelect" value="" disabled selected hidden>Pick a topic</option>
                   {% for topic in page.topics %}
                   <option value="{{ topic }}">{{ topic }}</option>
