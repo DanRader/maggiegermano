@@ -98,8 +98,17 @@ layout: default
                     <input id="form-email" type="email" name="Email" placeholder="email@example.com" required>
                 </div>
 
+                <label for="form-name">Topic</label>
+                <select id="form-topic" type="budget" name="Budget" placeholder="On which topic would you like me to speak?">
+                  <option class="placeholderSelect" value="" disabled selected hidden>Pick a topic</option>
+                  {% for topic in page.topics %}
+                  <option value="{{ topic }}">{{ topic }}</option>
+                  {% endfor %}
+                </select>
+
                 <label for="form-name">Budget</label>
                 <input id="form-budget" type="budget" name="Budget" placeholder="What are you working with?">
+
 
                 <label for="form-name">Event Details</label>
                 <textarea id="form-message" name="Message" cols="30" rows="6" placeholder="Tell me a little bit about your event or organization" required></textarea>
