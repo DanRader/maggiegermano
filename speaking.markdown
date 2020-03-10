@@ -41,14 +41,14 @@ speaker-topics: |-
   * How to talk about money
   * Love and money
 topics:
-    - How Working Women Can Manage Money At Any Age
-    - Building Your Financial Confidence
-    - Getting Your Money Right
-    - Getting Financially Naked With Your Partner
-    - Making and Breaking the Budget
-    - Aligning Your Values With Your Money
-    - Jumpstarting Your Financial Wellness
-    - Asking For More At Work
+- How Working Women Can Manage Money At Any Age
+- Building Your Financial Confidence
+- Getting Your Money Right
+- Getting Financially Naked With Your Partner
+- Making and Breaking the Budget
+- Aligning Your Values With Your Money
+- Jumpstarting Your Financial Wellness
+- Asking For More At Work
 workshops: |-
   ## Workshops
 
