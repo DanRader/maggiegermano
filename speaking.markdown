@@ -35,21 +35,26 @@ speaker-topics: "## Speaker Topics\n\nMaggie is happy to speak about many differ
   will break down the most important financial considerations and decisions decade
   by decade and cover topics like saving for retirement, negotiating a raise, creating
   and sticking to a budget, paying off high-interest debt, and more. \n\n### Building
-  Your Financial Confidence\nxx\n\n### Getting Your Money Right\nWant to improve your
-  finances but not sure where to start? You’re absolutely not alone. In this workshop,
-  you’ll learn what you need to do from start to finish to take control of your money,
-  so you can get out of debt, start saving, grow your emergency fund, and plan for
-  your future. This topic is designed for those who are just starting out on their
-  financial journey, so it is easy to comprehend, with tangible, actionable next steps
-  to take away.\n\n### Getting Financially Naked With Your Partner\nYou know that
-  communication is one of the most important things in a romantic relationship. If
-  you don't have good communication, it's hard to have a secure foundation in the
-  relationship. You also might know that money conflict is one of the top causes of
-  relationship strife. Plus, money makes or breaks our ability to reach our goals
-  and it determines what we're able to do in life. That's why it's so important to
-  talk to your life partner about money. This talk will help you learn how to have
-  constructive money conversations with your partner, set goals together, and create
-  a plan to reach those goals together."
+  Your Financial Confidence\nOne thing that holds women back from getting their money
+  right is the feeling that they don’t know what they’re doing. This feeling can lead
+  to discomfort and a lack of confidence, which can trap you in a vicious cycle of
+  avoiding your financial issues, making the wrong money decisions, and falling into
+  debt. This talk shows you how to build your financial confidence by getting to know
+  your numbers, forgiving yourself for past financial mistakes and making better money
+  decisions.\n\n### Getting Your Money Right\nWant to improve your finances but not
+  sure where to start? You’re absolutely not alone. In this workshop, you’ll learn
+  what you need to do from start to finish to take control of your money, so you can
+  get out of debt, start saving, grow your emergency fund, and plan for your future.
+  This topic is designed for those who are just starting out on their financial journey,
+  so it is easy to comprehend, with tangible, actionable next steps to take away.\n\n###
+  Getting Financially Naked With Your Partner\nYou know that communication is one
+  of the most important things in a romantic relationship. If you don't have good
+  communication, it's hard to have a secure foundation in the relationship. You also
+  might know that money conflict is one of the top causes of relationship strife.
+  Plus, money makes or breaks our ability to reach our goals and it determines what
+  we're able to do in life. That's why it's so important to talk to your life partner
+  about money. This talk will help you learn how to have constructive money conversations
+  with your partner, set goals together, and create a plan to reach those goals together."
 topics:
 - How Working Women Can Manage Money At Any Age
 - Building Your Financial Confidence
