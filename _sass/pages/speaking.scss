@@ -111,6 +111,7 @@
     }
     & .button {
         color: white !important;
+        border-radius: 100%;
     }
 }
 
@@ -208,7 +209,7 @@
         }
     }
 
-    & input, textarea {
+    & input, textarea, select {
         border: 1px solid #FFFFFF;
         width: 100%;
         background-color: transparent;
@@ -216,6 +217,7 @@
         padding: 1.7rem 1.5rem;
         box-sizing: border-box;
         height: 4rem;
+        display: block;
 
         &::placeholder{
             color: #ffffff8a;
@@ -225,6 +227,24 @@
             outline: none;
         }
     }
+
+    #form-topic {
+      border: 1px solid #FFFFFF;
+      width: 100%;
+      background-color: transparent;
+      margin: 0 0 1rem 0;
+      padding: 1.7rem 1.5rem;
+      box-sizing: border-box;
+      height: 4rem;
+      display: block;
+      border-radius: 0;
+    }
+
+    .placeholderSelect {
+      color: #ffffff8a;
+      font-weight: 100;
+    }
+
     & textarea {
         height: inherit;
 
