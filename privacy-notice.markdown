@@ -9,7 +9,7 @@ All data and information provided on this site is strictly the author’s opinio
   
 # Privacy Notice   
 
-Your privacy is important to Maggie Germano Financial Coaching.
+Your privacy is important to Maggie Germano Financial Coaching.    
 
 By visiting and using this website, you agree and consent to the following Privacy Policy governing the collection and use of personally identifiable and other information by Maggie Germano Financial Coaching. 
 
