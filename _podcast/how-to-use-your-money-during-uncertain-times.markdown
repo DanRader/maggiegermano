@@ -12,7 +12,28 @@ podcast:
 - How to Practice An Abundance Mindset
 ---
 
-xx
+Freaking out about coronavirus, the economy, and impending quarantine? Me too. Here are some tips on what you should and shouldn't do with your money right now.
+
+1\. Don’t Touch Your Investments\
+2\. Keep Your Emergency Fund Full\
+3\. Spend Less On Non-Essentials\
+4\. Take Stock Of What You Already Own\
+5\. Don’t Stock Up On Things You Don’t Actually Need\
+6\. Donate To A Local Food Pantry Or Soup Kitchen\
+7\. Support Your Local Small Businesses\
+8\. Take Advantage of Ebooks From The Library
+
+**Related Links:**
+
+Some organizations that you can donate to:
+
+* [Meals On Wheels](https://www.mealsonwheelsamerica.org/)
+
+* [Capital Area Food Bank](https://www.capitalareafoodbank.org/)
+
+You can find your local food bank [here](https://www.feedingamerica.org/find-your-local-foodbank?referrer=https://www.google.com/). You can find your local food pantry [here](https://www.foodpantries.org/).
+
+How to keep yourself safe if you order takeout or delivery: [https://www.cnet.com/how-to/food-delivery-during-the-coronavirus-pandemic-follow-these-3-rules-to-stay-safe/](https://www.cnet.com/how-to/food-delivery-during-the-coronavirus-pandemic-follow-these-3-rules-to-stay-safe/)
 
 --
 
