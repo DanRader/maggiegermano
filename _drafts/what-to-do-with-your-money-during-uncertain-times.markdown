@@ -21,11 +21,11 @@ For most of us, our investments are set aside for long-term goals. This is espec
 
 ## 2. Keep Your Emergency Fund Full
 
-If you are a small business owner, a gig employee, a contractor, or a service-industry worker, this scenario is exactly what your emergency fund is for. Places are being closed, people are staying inside, and spending is going down. I’ve heard many friends say that they are having work canceled or put on hold due to coronavirus. This means that a lot of people are going to lose a lot of money, which can make it difficult or impossible to pay your bills. 
+If you are a small business owner, a gig employee, a contractor, or a service-industry worker, this scenario is exactly what your emergency fund is for. Places are being closed, people are staying inside, and spending is going down. I’ve heard many friends say that they are having work canceled or put on hold due to coronavirus. This means that a lot of people are going to lose a lot of money, which can make it difficult or impossible to pay your bills. If you can, start putting any extra cash into your emergency fund. 
 
 ## 3. Spend Less On Non-Essentials
 
-I don’t know about you, but when I know I’m going to be stuck at home, I want to splurge on the things that make me most comfortable. The first thing I did on Thursday evening was bake cookies. And it's a good idea 
+I don’t know about you, but when I know I’m going to be stuck at home, I want to splurge on the things that make me most comfortable. The first thing I did on Thursday evening was bake cookies. And it's a good idea to make sure that you have things around that will entertain you and make you feel good. However, it's also a good idea to keep your spending down right now, especially if you don't have much of an emergency fund. We don't really know how long it will be before it's safe to resume our normal lives, so making sure we have as much money socked away as possible is a good strategy. So, try to keep your non-essential spending to a minimum and prioritize the essentials only.
 
 ## 4. Take Stock Of What You Already Own
 
