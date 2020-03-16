@@ -21,7 +21,7 @@ For most of us, our investments are set aside for long-term goals. This is espec
 
 ## 2. Keep Your Emergency Fund Full
 
-If you are a small business owner, a gig employee, a contractor, or a service-industry worker, this scenario is exactly what your emergency fund is for. Places are being closed, people are staying inside, and spending is going down. I’ve heard many friends say that they are having work canceled or put on hold due to coronavirus.
+If you are a small business owner, a gig employee, a contractor, or a service-industry worker, this scenario is exactly what your emergency fund is for. Places are being closed, people are staying inside, and spending is going down. I’ve heard many friends say that they are having work canceled or put on hold due to coronavirus. This means that a lot of people are going to lose a lot of money, which can make it difficult or impossible to pay your bills. 
 
 ## 3. Spend Less On Non-Essentials
 
