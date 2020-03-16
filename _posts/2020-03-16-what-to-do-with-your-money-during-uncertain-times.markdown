@@ -73,4 +73,4 @@ Chances are, your library is closed. But that doesn’t mean you have to buy boo
 
 Stay safe out there, friends. Do what you need to do to take care of yourself and your loved ones. But don’t forget about the rest of us, too. We are all in this together.
 
-**For more information on [COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/about/index.html) and why social distancing is so important, check out this helpful piece from the *[Washington Post](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)*.**\\
+**For more information on [COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/about/index.html) and why social distancing is so important, check out this helpful piece from the *[Washington Post](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)*.**
