@@ -25,7 +25,7 @@ If you are a small business owner, a gig employee, a contractor, or a service-in
 
 ## 3. Spend Less On Non-Essentials
 
-I don’t know about you, but when I know I’m going to be stuck at home, I want to splurge on the things that make me most comfortable. The first thing I did on Thursday evening was bake cookies.
+I don’t know about you, but when I know I’m going to be stuck at home, I want to splurge on the things that make me most comfortable. The first thing I did on Thursday evening was bake cookies. And it's a good idea 
 
 ## 4. Take Stock Of What You Already Own
 
@@ -35,7 +35,7 @@ Before you go to the grocery store or order online, you should take stock of wha
 
 ## 5. Don’t Stock Up On Things You Don’t Actually Need
 
-x
+I've seen lots of social media posts about toilet paper and hand sanitizer being completely sold out at most stores. Even just a couple of weeks ago, face masks were difficult or impossible to find. And yes, it's important to have things like toilet paper when we are going to be quarantined. But try not to go overboard and hoard things that you don't actually need. Not only will this make you overspend, but you also might be taking items from the people who actually need them. For example, medical professionals and people who are already sick do need to wear face masks at work and in public. If healthy people are buying them up, the people who need them won't be able to get them. So, be thoughtful about what you are stocking up on at home.
 
 ## 6. Donate To A Local Food Pantry Or Soup Kitchen
 
@@ -57,9 +57,9 @@ You can find your local food bank [here](https://www.feedingamerica.org/find-you
 
 As I said above, local businesses are already hurting due to closings and people staying home. Places might end up laying people off or even closing for good. But even though we should be staying home, we can still help these businesses stay afloat.
 
-* **Buy gift cards online. x**
+* **Buy gift cards online. **Just because you have to stay home doesn't mean you can't purchase things from your favorite businesses. Even if you won't go shopping or go out to eat right now, you can still buy gift cards from the businesses online to use later. This gesture could help them stay afloat in the meantime.
 
-* **Order takeout or delivery.** I was torn on this one, because it seems like this could still spread the virus. However, the WHO and CDC haven’t given specific guidance on this issue yet. I found [one article](https://www.cnet.com/how-to/food-delivery-during-the-coronavirus-outbreak-follow-these-3-rules-to-stay-safe/) that gives advice on how to stay safe when ordering takeout.
+* **Order takeout or delivery.** I was torn on this one, because it seems like this could still spread the virus. However, the World Health Organization and CDC haven’t given specific guidance on this issue yet. I did find [one article](https://www.cnet.com/how-to/food-delivery-during-the-coronavirus-outbreak-follow-these-3-rules-to-stay-safe/) that gives advice on how to stay safe when ordering takeout.
 
 * **Send money.** If you see your favorite business raising money online, via Venmo, Paypal, GoFundMe, etc, that might be a great opportunity to chip in.
 
