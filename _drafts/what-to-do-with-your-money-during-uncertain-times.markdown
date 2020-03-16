@@ -59,7 +59,7 @@ As I said above, local businesses are already hurting due to closings and people
 
 * **Buy gift cards online. x**
 
-* **Order takeout or delivery.** I was torn on this one, because it seems like this could still spread the virus. However, the WHO and CDC haven’t given specific guidance on this issue yet. I found one article that gives advice on how to stay safe when ordering takeout.
+* **Order takeout or delivery.** I was torn on this one, because it seems like this could still spread the virus. However, the WHO and CDC haven’t given specific guidance on this issue yet. I found [one article](https://www.health.com/condition/infectious-diseases/coronavirus/is-it-safe-to-order-food-delivery-coronavirus) that gives advice on how to stay safe when ordering takeout.
 
 * **Send money.** If you see your favorite business raising money online, via Venmo, Paypal, GoFundMe, etc, that might be a great opportunity to chip in.
 
