@@ -23,7 +23,7 @@ For most of us, our investments are set aside for long-term goals. This is espec
 
 ## 2. Keep Your Emergency Fund Full
 
-If you are a small business owner, a gig employee, a contractor, or a service-industry worker, this scenario is exactly what your emergency fund is for. Places are being closed, people are staying inside, and spending is going down. I’ve heard many friends say that they are having work canceled or put on hold due to coronavirus. This means that a lot of people are going to lose a lot of money, which can make it difficult or impossible to pay your bills. If you can, start putting any extra cash into your emergency fund. 
+If you are a small business owner, a gig employee, a contractor, or a service-industry worker, this scenario is exactly what your emergency fund is for. Places are being closed, people are staying inside, and spending is going down. I’ve heard many friends say that they are having work canceled or put on hold due to coronavirus. This means that a lot of people are going to lose a lot of money, which can make it difficult or impossible to pay your bills. If you can, start putting any extra cash into your emergency fund.
 
 ## 3. Spend Less On Non-Essentials
 
@@ -59,7 +59,7 @@ You can find your local food bank [here](https://www.feedingamerica.org/find-you
 
 As I said above, local businesses are already hurting due to closings and people staying home. Places might end up laying people off or even closing for good. But even though we should be staying home, we can still help these businesses stay afloat.
 
-* **Buy gift cards online. **Just because you have to stay home doesn't mean you can't purchase things from your favorite businesses. Even if you won't go shopping or go out to eat right now, you can still buy gift cards from the businesses online to use later. This gesture could help them stay afloat in the meantime.
+* **Buy gift cards online.** Just because you have to stay home doesn't mean you can't purchase things from your favorite businesses. Even if you won't go shopping or go out to eat right now, you can still buy gift cards from the businesses online to use later. This gesture could help them stay afloat in the meantime.
 
 * **Order takeout or delivery.** I was torn on this one, because it seems like this could still spread the virus. However, the World Health Organization and CDC haven’t given specific guidance on this issue yet. I did find [one article](https://www.cnet.com/how-to/food-delivery-during-the-coronavirus-outbreak-follow-these-3-rules-to-stay-safe/) that gives advice on how to stay safe when ordering takeout.
 
@@ -73,4 +73,4 @@ Chances are, your library is closed. But that doesn’t mean you have to buy boo
 
 Stay safe out there, friends. Do what you need to do to take care of yourself and your loved ones. But don’t forget about the rest of us, too. We are all in this together.
 
-**For more information on [COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/about/index.html) and why social distancing is so important, check out this helpful piece from the *[Washington Post](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)*.**\
+**For more information on [COVID-19](https://www.cdc.gov/coronavirus/2019-ncov/about/index.html) and why social distancing is so important, check out this helpful piece from the *[Washington Post](https://www.washingtonpost.com/graphics/2020/world/corona-simulator/)*.**\\
