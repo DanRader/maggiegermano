@@ -109,9 +109,12 @@
         color: white;
         line-height: 1.1;
     }
+    & h3 {
+      color: white;
+      font-weight: bold;
+    }
     & .button {
         color: white !important;
-        border-radius: 100%;
     }
 }
 
@@ -255,6 +258,7 @@
         margin: 2rem auto;
         display: block;
         padding: 8px 28px;
+        height: auto;
     }
     & label {
         font-size: 13px;
@@ -271,6 +275,7 @@
 .quote-wrap {
     flex-direction: column;
     padding: 12%;
+    justify-content: center;
 
     & .testi-quote {
         font-size: 24px;
