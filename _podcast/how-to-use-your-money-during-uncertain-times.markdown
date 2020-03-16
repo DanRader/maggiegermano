@@ -2,7 +2,14 @@
 title: How to Use Your Money During Uncertain Times
 date: 2020-03-16 05:00:00 -04:00
 published: false
+lede: This week, Maggie is talking about how you can use your money and protect yourself
+  and others during times of uncertainty.
 image: "/uploads/DSC_5004.jpg"
+episode-number: 31
+podcast:
+- How You Can Help to Build a More Equal Future
+- How Women Can Step Into Their Financial Power
+- How to Practice An Abundance Mindset
 ---
 
 xx
