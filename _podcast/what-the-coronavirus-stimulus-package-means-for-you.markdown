@@ -29,7 +29,27 @@ To give you the highlights, here's what you can expect:
 
 To talk to Maggie about financial coaching, schedule a **[free discovery call](https://hello.dubsado.com/public/appointment-scheduler/5c02ce6074f2c55de6e93f98/schedule)**. For any one-time financial coaching sessions booked within the next 6 weeks, you can get a **$50 discount**.
 
-–
+--
+
+**Related links:**
+
+* [What’s Inside The Senate’s $2 Trillion Coronavirus Aid Package](https://www.npr.org/2020/03/26/821457551/whats-inside-the-senate-s-2-trillion-coronavirus-aid-package)
+
+* [F.A.Q. on Stimulus Checks, Unemployment and the Coronavirus Plan](https://www.nytimes.com/article/coronavirus-stimulus-package-questions-answers.html)
+
+* [Stimulus checks: How much money will you get, and when?](https://www.cbsnews.com/news/stimulus-checks-coronavirus-relief-package-how-much-when/)
+
+* [High Schoolers & College Students May Not Be Eligible For Stimulus Checks](https://www.forbes.com/sites/kellyphillipserb/2020/03/27/high-schoolers--college-students-may-not-be-eligible-for-stimulus-checks/#65e9de0919da)
+
+* [Coronavirus Tax Relief](https://www.irs.gov/coronavirus)
+
+* [What you need to know about student loans and the coronavirus pandemic](https://www.consumerfinance.gov/about-us/blog/what-you-need-to-know-about-student-loans-and-coronavirus-pandemic/?fbclid=IwAR0WFbm9wCREKB-2mquVzeZ8leJlVAvD3VRnO5EYY1JjjJsh0DfWviFhfw8)
+
+* [2020 Tax Deadline Extension: What Is and Isn’t Extended?](https://smartasset.com/taxes/tax-deadline-extension)
+
+* [Calculate how much you’ll get from the $1,200 (or more) coronavirus checks](https://www.washingtonpost.com/graphics/business/coronavirus-stimulus-check-calculator/?fbclid=IwAR2K0uZvw70_3ROTLeG4VE50-5vh_F0IhA09hOkoXaHHuMqk6pKZMEnLRTc)
+
+--
 
 To learn more about Maggie and her coaching and speaking services, visit **[www.maggiegermano.com](https://www.maggiegermano.com/)**.
 
