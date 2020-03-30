@@ -87,15 +87,26 @@ Even with this delay, you can still file your taxes now if you want to. The retu
 
 ## **Your Health Insurance Company Must Cover COVID-19 Testing, Treatments, and Vaccines**
 
-Under this bill, all insurance companies are required to cover any COVID-19 related expenses. This includes testing, treatment, and any eventual vaccine.
+Under this bill, all insurance companies are required to cover any COVID-19 related expenses. This includes testing, treatment, and any eventual vaccine. If your insurance company gives you any trouble, point them to this new requirement. If you don't have insurance at the moment, see if your state has reopened the healthcare marketplace with a special enrollment period. 
 
-x
+Of course, this bill is not a sweeping solution for everyone. There are a lot of people who will be left out. Anyone without a social security number or a “work eligible” social security number does not qualify. That means that any undocumented folks will not receive this money or other support. These are people, by the way, who are still most likely paying taxes on any income they are making. Yet, they won’t receive the benefits in this stimulus package. People who couldn’t afford to file their taxes in the last couple of years will also be impacted, since the stimulus check is based on your most recent tax return. 
 
-Of course, this bill is not a sweeping solution for everyone. There are a lot of people who will be left out. Anyone without a social security number or a “work eligible” social security number does not qualify. That means that any undocumented folks will not receive this money or other support. These are people, by the way, who are still most likely paying taxes on any income they are making. Yet, they won’t receive the benefits in this stimulus package. People who couldn’t afford to file their taxes in the last couple of years will also be impacted, since the stimulus check is based on your most recent tax return. Plus, people over the age of 16 who are claimed as dependents on their parents’ tax return also don’t qualify for a stimulus check. You have to be under 17 or filing your own tax returns as an individual, not as a dependent to receive a check.So obviously this wasn’t a perfect bill. And don’t even get me started on the anti-choice language that was inserted into the bill by Republicans.
+Plus, people over the age of 16 who are claimed as dependents on their parents’ tax return also don’t qualify for a stimulus check. You have to be under 17 or filing your own tax returns as an individual, not as a dependent, to receive a check. So obviously, this wasn’t a perfect bill. And don’t even get me started on the anti-choice language that was inserted into the bill by Republicans. But it was *something* that was done to help people and businesses during this difficult time. Hopefully it helps you, even a little bit.
 
 All of the information above only applies to individuals. For small and large businesses and other entities, there are additional benefits in the stimulus package. I won’t go into them this week, but you can learn more about them in [this NPR piece](https://www.npr.org/2020/03/26/821457551/whats-inside-the-senate-s-2-trillion-coronavirus-aid-package).
 
 **To learn even more about the CARES Act and how it will impact you and the rest of our country, check out these helpful resources:**
 
-\
-\
+* [What's Inside The Senate's $2 Trillion Coronavirus Aid Package](https://www.npr.org/2020/03/26/821457551/whats-inside-the-senate-s-2-trillion-coronavirus-aid-package)
+
+* [F.A.Q. on Stimulus Checks, Unemployment and the Coronavirus Plan](https://www.nytimes.com/article/coronavirus-stimulus-package-questions-answers.html)
+
+* [Stimulus checks: How much money will you get, and when?](https://www.cbsnews.com/news/stimulus-checks-coronavirus-relief-package-how-much-when/)
+
+* [High Schoolers & College Students May Not Be Eligible For Stimulus Checks](https://www.forbes.com/sites/kellyphillipserb/2020/03/27/high-schoolers--college-students-may-not-be-eligible-for-stimulus-checks/#65e9de0919da)
+
+* [Coronavirus Tax Relief](https://www.irs.gov/coronavirus)
+
+* [What you need to know about student loans and the coronavirus pandemic](https://www.consumerfinance.gov/about-us/blog/what-you-need-to-know-about-student-loans-and-coronavirus-pandemic/?fbclid=IwAR0WFbm9wCREKB-2mquVzeZ8leJlVAvD3VRnO5EYY1JjjJsh0DfWviFhfw8)
+
+* [2020 Tax Deadline Extension: What Is and Isn’t Extended?](https://smartasset.com/taxes/tax-deadline-extension)
