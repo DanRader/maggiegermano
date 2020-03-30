@@ -15,7 +15,7 @@ On Friday, March 27th, 2020, Donald Trump signed the [Coronavirus Aid, Relief, a
 
 I know that was a lot of words and I know that these bills are incredibly long and can be difficult to understand. That’s why I’m here! I’m here to explain what the CARES Act actually means for you in your daily life.
 
-A couple of notes before I get started:
+**A couple of notes before I get started:**
 
 * This bill is 800 pages long. I won’t be able to break down or understand every single detail in it. At the bottom of this piece, I will link to more resources so that you can read more about the legislation.
 
@@ -31,7 +31,7 @@ If you earn over $75,000 as an individual or $150,000 as a family, you are not o
 
 This does not apply to everyone, though, unfortunately. Specifically, this benefit doesn’t apply to undocumented folks in the United States. You must have a social security number to receive a check. If you do not, you will not be eligible. Green card holders can get a “work eligible social security number”. Learn more about this here. I also recommend that you talk to your immigration attorney about this, if you have one.
 
-A few things to keep in mind:
+**A few things to keep in mind:**
 
 * These checks are a one-time deal. You will not be receiving any further payments.
 
@@ -49,7 +49,7 @@ Another huge piece of this stimulus bill is the suspension of federal student lo
 
 For those who are relying on student loan forgiveness programs, this suspension of payments will not hurt your eligibility for forgiveness. According to the bill, each month for which a loan payment was suspended will be treated as if the borrower of the loan had made a payment. That means that these borrowers will not lose six payments out of the 120 payments they need to make in order to qualify for student loan forgiveness.
 
-A couple things to keep in mind:
+**A couple things to keep in mind:**
 
 * This is going into effect automatically. You don’t have to do anything to make this payment suspension happen.
 
@@ -59,7 +59,7 @@ A couple things to keep in mind:
 
 ## **You Can Get More Money Through Unemployment**
 
-Just two notes before I go into detail on this piece:
+**Just two notes before I go into detail on this piece:**
 
 * When it comes to unemployment, the details vary from state to state. In order to understand exactly what applies to you if you need to file for unemployment, you’ll need to do your own research in your own state.
 
@@ -67,7 +67,7 @@ Just two notes before I go into detail on this piece:
 
 Okay, now that that’s out of the way, I’ll dig in. First, I’ll reiterate that unemployment benefits are managed by your individual state. That will not change due to this legislation. The bill increases benefits and broadens who is eligible, but the states will continue to be the ones paying those who qualify. About $250 billion of the $2 trillion in this bill goes to unemployment benefits specifically.
 
-Here are the main details:
+**Here are the main details:**
 
 * Unemployment insurance is extended for 13 weeks. Folks nearing the maximum number of weeks allowed by their state would get this extension. New filers would be allowed to collect benefits for the longer additional period.
 
