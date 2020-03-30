@@ -87,7 +87,7 @@ Even with this delay, you can still file your taxes now if you want to. The retu
 
 ## **Your Health Insurance Company Must Cover COVID-19 Testing, Treatments, and Vaccines**
 
-Under this bill, all insurance companies are required to cover any COVID-19 related expenses. This includes testing, treatment, and an eventual vaccine.
+Under this bill, all insurance companies are required to cover any COVID-19 related expenses. This includes testing, treatment, and any eventual vaccine.
 
 x
 
