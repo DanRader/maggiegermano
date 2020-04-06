@@ -90,6 +90,8 @@ Closing costs is a term that you will hear if you are in the process of buying a
 
 * And plenty more!
 
+Basically, these costs are unavoidable when you're buying a home, but it's easy to forget 
+
 ## **Liquid Savings**
 
 This term came up when I was texting with my sisters and two of my cousins. My one cousin was asking if she should be more aggressive while paying down her student loans and I asked her how much liquid savings she has. She said, "maybe that's a term you should add to your glossary", because she wasn't sure what it meant. 
