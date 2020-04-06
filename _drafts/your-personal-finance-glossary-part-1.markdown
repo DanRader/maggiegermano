@@ -70,7 +70,25 @@ xx
 
 ## **Closing Costs**
 
-xx
+Closing costs is a term that you will hear if you are in the process of buying a home. But that doesn't mean that you know what it means or what is will actually cost you. Basically, closing costs are the fees that you will owe, as a buyer, once you officially close on your new home. This usually adds up to 2-5 percent of the cost of the home. According to [Zillow](https://www.zillow.com/mortgage-learning/closing-costs/), the average buyer pays $3,700 in closing costs. This encompasses things like:
+
+* Appraisal
+
+* Title attorney fee
+
+* Credit report
+
+* Escrow deposit for property taxes and mortgage insurance
+
+* Home inspection
+
+* Homeowner's insurance
+
+* Underwriting fee
+
+* Title insurance
+
+* And plenty more!
 
 ## **Liquid Savings**
 
