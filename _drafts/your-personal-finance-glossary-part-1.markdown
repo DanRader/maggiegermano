@@ -62,7 +62,7 @@ CD is short for certificate of deposit.
 
 ## **APR**
 
-xx
+You'll see this term a lot when it comes to things like credit cards. And it can be confusing, because it's different from the simple interest rate. APR stands for "annual percentage rate". 
 
 ## **Amortization**
 
