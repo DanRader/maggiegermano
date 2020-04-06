@@ -1,7 +1,6 @@
 ---
 title: Job Searching During the COVID-19 Crisis
 date: 2020-04-06 09:04:00 -04:00
-published: false
 lede: This week, Maggie chats with Emilie Aries, Founder and CEO of Bossed Up, about
   how and why you can continue your job search during the COVID-19 crisis.
 image: "/uploads/Emilie_Aries_2019_007%20(1).jpg"
