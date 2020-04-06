@@ -70,7 +70,7 @@ xx
 
 ## **Closing Costs**
 
-Closing costs is a term that you will hear if you are in the process of buying a home. But that doesn't mean that you know what it means or what is will actually cost you. Basically, closing costs are the fees that you will owe, as a buyer, once you officially close on your new home. This usually adds up to 2-5 percent of the cost of the home. According to [Zillow](https://www.zillow.com/mortgage-learning/closing-costs/), the average buyer pays $3,700 in closing costs. This encompasses things like:
+Closing costs is a term that you will hear if you are in the process of buying a home. But that doesn't mean that you know what it means or what is will actually cost you. Basically, closing costs are the fees that you will owe, as a buyer, once you officially close on your new home. They are basically for paying all of the people who have worked so hard to get your home purchased. This usually adds up to 2-5 percent of the cost of the home. According to [Zillow](https://www.zillow.com/mortgage-learning/closing-costs/), the average buyer pays $3,700 in closing costs. This encompasses things like:
 
 * Appraisal
 
@@ -90,7 +90,7 @@ Closing costs is a term that you will hear if you are in the process of buying a
 
 * And plenty more!
 
-Basically, these costs are unavoidable when you're buying a home, but it's easy to forget 
+Basically, these costs are unavoidable when you're buying a home, but it's easy to forget about. When you are budgeting and planning to buy a home, don't forget to account for closing costs.
 
 ## **Liquid Savings**
 
