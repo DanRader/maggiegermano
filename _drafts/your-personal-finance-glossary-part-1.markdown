@@ -4,17 +4,17 @@ date: 2020-04-06 11:00:00 -04:00
 image: "/uploads/pisit-heng-FQvadXmA524-unsplash.jpg"
 ---
 
-April is Financial Literacy Month. It’s okay if you forgot, because I almost did too! The COVID-19 crisis has thrown us all for a loop. But I still want to help you move forward with your financial goals and get your money in order, especially during a global pandemic. That’s why, this month, I’ll be going back to my somewhat normal content, starting with a financial glossary.
+April is Financial Literacy Month. It’s okay if you forgot, because I almost did too! The COVID-19 crisis has thrown us all for a loop. But I still want to help you move forward with your financial goals and get your money in order, especially during a global pandemic. That’s why, this month, I’ll be going back to my somewhat normal content, starting with a personal finance glossary.
 
 One of the things that can be most frustrating is seeing lots of terms and words out there that you think might apply to you, but that you don’t actually understand. And it's okay to not understand - why would you know something if you never learned it? That's why I'm here! I polled my friends, family, and followers for financial terms that they want to understand better. Here's what we came up with:
 
 ## 401K
 
-xx
+Pensions are no longer the norm when it comes to preparing for retirement in the United States. As such, the 401k was created in 1978 to put the onus onto individuals to save for retirement. Your employer provides a 401k for you to contribute to, pre-tax, directly from your paycheck. The money is contributed into your 401k account before you even see it. If you're lucky, your employer will also contribute a match amount to the account. The amount that you contribute to your 401k is pre-tax, which means that you don't pay taxes on that money right now. However, you will have to pay taxes on that money when you retire and withdraw the money later in life. The annual contribution limit, in 2020, is $19,500.
 
 ## 503B
 
-xx
+The 503b is another retirement account that is basically the same as a 401k. The only difference is that they are for employees of public schools and tax-exempt organizations, rather than private-sector workers. 
 
 ## **Roth IRA**
 
@@ -30,7 +30,7 @@ xx
 
 ## **Universal Default**
 
-This was actually a term I'd never personally heard before, but it was submitted by a friend of mine. 
+This was actually a term I'd never personally heard before, but it was submitted by a friend of mine.
 
 ## Escrow
 
@@ -58,11 +58,11 @@ xx
 
 ## **CD**
 
-CD is short for certificate of deposit. 
+CD is short for certificate of deposit.
 
 ## **APR**
 
-You'll see this term a lot when it comes to things like credit cards. And it can be confusing, because it's different from the simple interest rate. APR stands for "annual percentage rate". 
+You'll see this term a lot when it comes to things like credit cards. And it can be confusing, because it's different from the simple interest rate. APR stands for "annual percentage rate".
 
 ## **Amortization**
 
@@ -94,7 +94,7 @@ Basically, these costs are unavoidable when you're buying a home, but it's easy 
 
 ## **Liquid Savings**
 
-This term came up when I was texting with my sisters and two of my cousins. My one cousin was asking if she should be more aggressive while paying down her student loans and I asked her how much liquid savings she has. She said, "maybe that's a term you should add to your glossary", because she wasn't sure what it meant. 
+This term came up when I was texting with my sisters and two of my cousins. My one cousin was asking if she should be more aggressive while paying down her student loans and I asked her how much liquid savings she has. She said, "maybe that's a term you should add to your glossary", because she wasn't sure what it meant.
 
 Liquid savings is any money in a savings account that you have immediate access to. Any money in the stock market or even in a CD is not considered liquid. And that is due to a few things:
 
