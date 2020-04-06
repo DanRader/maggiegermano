@@ -6,73 +6,73 @@ image: "/uploads/pisit-heng-FQvadXmA524-unsplash.jpg"
 
 April is Financial Literacy Month. It’s okay if you forgot, because I almost did too! The COVID-19 crisis has thrown us all for a loop. But I still want to help you move forward with your financial goals and get your money in order, especially during a global pandemic. That’s why, this month, I’ll be going back to my somewhat normal content, starting with a financial glossary.
 
-One of the things that can be most frustrating is seeing lots of terms and words out there that you think might apply to you, but that you don’t actually understand.
+One of the things that can be most frustrating is seeing lots of terms and words out there that you think might apply to you, but that you don’t actually understand. And it's okay to not understand - why would you know something if you never learned it? That's why I'm here! I polled my friends, family, and followers for financial terms that they want to understand better. Here's what we came up with:
 
-401K
-
-xx
-
-**503B**
+## 401K
 
 xx
 
-**Roth IRA**
+## 503B
 
 xx
 
-**SEP IRA**
+## **Roth IRA**
 
 xx
 
-**Traditional IRA**
+## **SEP IRA**
 
 xx
 
-**Universal Default**
+## **Traditional IRA**
+
+xx
+
+## **Universal Default**
 
 This was actually a term I'd never personally heard before, but it was submitted by a friend of mine. 
 
-Escrow
+## Escrow
 
 xx
 
-**Capital Gains**
+## **Capital Gains**
 
 specifically for homeowners
 
-**Recession**
+## **Recession**
 
 xx
 
-**Depression**
+## **Depression**
 
 xx
 
-**Stock Options**
+## **Stock Options**
 
 how are they different from stocks?
 
-**Annuities**
+## **Annuities**
 
 xx
 
-**CD**
+## **CD**
+
+CD is short for certificate of deposit. 
+
+## **APR**
 
 xx
 
-**APR**
+## **Amortization**
 
 xx
 
-**Amortization**
+## **Closing Costs**
 
 xx
 
-**Closing Costs**
-
-xx
-
-**Liquid Savings**
+## **Liquid Savings**
 
 This term came up when I was texting with my sisters and two of my cousins. My one cousin was asking if she should be more aggressive while paying down her student loans and I asked her how much liquid savings she has. She said, "maybe that's a term you should add to your glossary", because she wasn't sure what it meant. 
 
