@@ -8,7 +8,7 @@ xx
 
 ## The Federal Deadline Is Extended To July 15
 
-xx
+Thanks to the CARES Act, passed in late March, the federal tax filing and payment deadline has been moved from April 15th to July 15th. 
 
 ## Your State Deadline Might Not Be July 15
 
