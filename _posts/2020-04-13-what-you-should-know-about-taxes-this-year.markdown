@@ -28,7 +28,7 @@ There is great news for folks who have not filed or don't need to file. People w
 
 ## You Can Still File For An Extension
 
-Many people stare down the tax deadline each year and decide that they need more time. Any year, you can decide to file for an extension, which gives you until October 15th to file. That's an extra six months! Unfortunately, an extension doesn't delay the due date for paying that taxes you owe, it only delays when you need to finish filing. So you'll still have to make an estimated payment if you think you owe taxes. 
+Many people stare down the tax deadline each year and decide that they need more time. Any year, you can decide to file for an extension, which gives you until October 15th to file. That's an extra six months! Unfortunately, an extension doesn't delay the due date for paying that taxes you owe, it only delays when you need to finish filing. So you'll still have to make an estimated payment if you think you owe taxes. This year, even though the tax deadline has already been extended to July 15th, you can still file for an additional extension if you don't think you'll be able to file in time. However, you will still have to pay what you owe by July 15th.
 
 ## You Have Many Options To File For Free
 
