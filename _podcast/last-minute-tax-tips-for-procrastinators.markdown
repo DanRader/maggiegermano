@@ -51,9 +51,7 @@ Even though we now have until July 15, 2020 to file and pay our 2020 taxes, you 
 
 --
 
-With more than 20 years of experience, Michele Cagan has focused on helping people navigate their personal and business finances to solidify their financial futures.
-
-Michele has written several books and dozens of articles about accounting and finance, translating complex theories and confusing jargon into everyday clear language. She believes that having a good grasp of their personal financial picture – and how to improve it – is crucial for everyone, and has dedicated her career to helping people gain financial independence.
+Michele Cagan is a CPA, author, and financial mentor with more than twenty years of experience. She has written numerous articles and books about personal finance, investing, and accounting, including *The Infographic Guide to Personal Finance, Retirement 101, Debt 101, *and* Real Estate Investing 101.*
 
 --
 
