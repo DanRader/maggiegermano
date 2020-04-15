@@ -25,4 +25,22 @@ xx
 
 xx
 
+Buy from local businesses:
+
+* Restaurants
+
+* Liquor stores
+
+* Book stores
+
+* Artists
+
+Donate to local organizations:
+
+* Food pantries
+
+* Soup kitchens
+
+* Nonprofits
+
 x
