@@ -66,7 +66,7 @@ option-1-text: |-
 
   * Money landscape analysis to identify your starting point
 
-  * **One** 90-minute Zoom audio session
+  * **One** 90-minute Zoom session
 
   * Personalized recap and action guide after the session to provide a clear way forward
 
@@ -78,7 +78,7 @@ option-2-text: |-
 
   * Money landscape analysis to identify your starting point
 
-  * **Two** 60-minute Zoom audio sessions a month for **three** months
+  * **Two** 60-minute Zoom sessions per month for **three** months
 
   * Personalized recap and action guide after each session to provide a clear way forward
 
