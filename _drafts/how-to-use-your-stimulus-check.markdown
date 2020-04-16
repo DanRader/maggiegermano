@@ -1,6 +1,7 @@
 ---
 title: How To Use Your Stimulus Check
 date: 2020-04-20 11:00:00 -04:00
+image: "/uploads/alexander-mils-lCPhGxs7pww-unsplash.jpg"
 ---
 
 Like many Americans, you may have received your stimulus check via direct deposit already. If you haven't yet received your deposit, or if you will get the money via check, visit this IRS website to get an update on your money. 
