@@ -44,3 +44,5 @@ Donate to local organizations:
 * Nonprofits
 
 x
+
+As always, you should put your own oxygen mask on first. 
