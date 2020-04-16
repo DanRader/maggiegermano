@@ -66,7 +66,7 @@ option-1-text: |-
 
   * Money landscape analysis to identify your starting point
 
-  * **One** 90-minute phone session
+  * **One** 90-minute Zoom audio session
 
   * Personalized recap and action guide after the session to provide a clear way forward
 
@@ -78,13 +78,11 @@ option-2-text: |-
 
   * Money landscape analysis to identify your starting point
 
-  * **One or two** 60-minute phone sessions a month
+  * **Two** 60-minute Zoom audio sessions a month for **three** months
 
   * Personalized recap and action guide after each session to provide a clear way forward
 
   * **Unlimited** email support so that you're never alone
-
-  * Free membership to monthly [Money Circle](http://maggiegermano.com/moneycircle) gatherings
 layout: coaching
 ---
 
