@@ -4,9 +4,7 @@ date: 2020-04-20 11:00:00 -04:00
 image: "/uploads/alexander-mils-lCPhGxs7pww-unsplash.jpg"
 ---
 
-Like many Americans, you may have received your stimulus check via direct deposit already. If you haven't yet received your deposit, or if you will get the money via check, visit this IRS website to get an update on your money.
-
-First link to the IRS website etc.
+Like many Americans, you may have received your stimulus check via direct deposit already. If you haven't yet received your deposit, or if you will get the money via check, visit this [IRS website](https://www.irs.gov/coronavirus/economic-impact-payments) to get an update on your money. The site also gives you the opportunity to input your bank information so that you can get your money via direct deposit. The system has been pretty overloaded, so if it takes a couple of tries, or if you get an error message, keep at it. 
 
 xx
 
@@ -16,7 +14,7 @@ The main reason we are even getting these stimulus checks is to tide us over dur
 
 ## Pad Your Savings
 
-If you don't have an emergency fund, or if you have one but it's small, you should use as much of this money as possible to help fund your savings. If COVID-19 doesn't show everyone why an emergency fund is so important, I don't know what will. 
+If you don't have an emergency fund, or if you have one but it's small, you should use as much of this money as possible to help fund your savings. If COVID-19 doesn't show everyone why an emergency fund is so important, I don't know what will.
 
 ## Pay Down Debt
 
