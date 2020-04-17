@@ -26,7 +26,7 @@ xx
 
 ## Invest In Your Community
 
-xx
+If you still have your job and feel confident that you can cover your expenses and other priorities, consider investing in your community. 
 
 Buy from local businesses:
 
