@@ -8,6 +8,10 @@ Like many Americans, you may have received your stimulus check via direct deposi
 
 xx
 
+## Cover Your Necessities
+
+The most important thing to do is make sure that you and your family have what they need to survive. 
+
 ## Pay Your Bills
 
 The main reason we are even getting these stimulus checks is to tide us over during this crisis. The idea is that people will be using this money to pay their bills and cover their necessities
