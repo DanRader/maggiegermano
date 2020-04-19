@@ -16,6 +16,8 @@ The most important thing to do is make sure that you and your family have what t
 
 The main reason we are even getting these stimulus checks is to tide us over during this crisis. The idea is that people will be using this money to pay their bills and cover their necessities
 
+call and have bills delayed etc
+
 ## Pad Your Savings
 
 If you don't have an emergency fund, or if you have one but it's small, you should use as much of this money as possible to help fund your savings. If COVID-19 doesn't show everyone why an emergency fund is so important, I don't know what will.
