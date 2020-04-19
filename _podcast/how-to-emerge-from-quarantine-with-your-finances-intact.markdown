@@ -4,6 +4,7 @@ date: 2020-04-20 05:00:00 -04:00
 published: false
 lede: This week, Maggie sits down with financial coach Ericka Young to talk about
   how to maintain your finances during quarantine.
+image: "/uploads/IMG_7085.jpg"
 episode-number: 36
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/ca996747-7f06-40a7-bd83-f8c4b871c25a?dark=false"></iframe>
@@ -46,3 +47,9 @@ To get more involved with Money Circle:
 * Follow Maggie on **[Instagram](https://dashboard.simplecast.com/episodes/www.instagram.com/maggiegermano)** and **[Twitter](https://dashboard.simplecast.com/episodes/www.twitter.com/maggiegermano)**!
 
 The theme music is called Escaping Light by **[Aaron Sprinkle](http://aaronsprinklemusic.com/)**. The podcast artwork design is by Maggie’s dear husband, **[Dan Rader](https://danrdesign.com/)**.
+
+---
+
+## TRANSCRIPTION
+
+xx
