@@ -56,3 +56,5 @@ Donate to local organizations:
 * Nonprofits helping those in need
 
 As always, you should put your own oxygen mask on first, literally and metaphorically. Take care of your needs first. Pay for your necessities, pay your bills, build up your savings, and pay off debt. Once you've been able to do that, then you can give to others. 
+
+*For more tips on how to remain financially intact after the COVID-19 crisis, listen to this week's [Money Circle podcast episode](www.maggiegermano.com/podcast/how-to-emerge-from-quarantine-with-your-finances-intact/) with Ericka Young. *
