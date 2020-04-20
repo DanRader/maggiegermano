@@ -25,11 +25,11 @@ Once you've found out if you can delay paying your bills or at least forego any 
 
 ## Pad Your Savings
 
-If you don't have an emergency fund, or if you have one but it's small, you should use as much of this money as possible to help fund your savings. If COVID-19 doesn't show everyone why an emergency fund is so important, I don't know what will. My husband and I are putting a large majority of our stimulus money into our emergency fund, because this crisis has made us feel less stable and secure than we felt a couple of months ago. Plus, my husband got laid off from his last job just about four months ago, so we don't want to take any chances. Having cash on hand in case your income gets cut off or even just reduced is a good way to keep yourself afloat and avoid going into debt. 
+If you don't have an emergency fund, or if you have one but it's small, you should use as much of this money as possible to help fund your savings. If COVID-19 doesn't show everyone why an emergency fund is so important, I don't know what will. My husband and I are putting a large majority of our stimulus money into our emergency fund, because this crisis has made us feel less stable and secure than we felt even just a couple of months ago. Plus, my husband got laid off from his last job just about four months ago, so we don't want to take any chances. Having cash on hand in case your income gets cut off or even just reduced is a good way to keep yourself afloat and avoid going into debt. 
 
 ## Pay Down Debt
 
-If you have a consistent income right now, you know that your necessities will be covered, AND you have some cash in savings, using the stimulus money to pay down some debt might be a good idea. 
+If you have a consistent income right now, you know that your necessities will be covered, AND you have some cash in savings, using the stimulus money to pay down some debt might be a good idea. It's not very often that an influx of cash will be coming in, so this could be an opportunity to get your debt balances down or paid off. That way, you won't have to worry as much about those payments moving forward. Only do this if you know that you have every other important thing covered.
 
 ## Invest In Your Community
 
