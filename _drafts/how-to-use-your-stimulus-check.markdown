@@ -15,11 +15,11 @@ When you do get the money, though, you might be wondering what you should do wit
 
 ## Cover Your Necessities
 
-The main reason we are even getting these stimulus checks is to tide us over during this crisis. The most important thing to do is make sure that you and your family have what they need to survive. So if you are losing any income during this time, you should make sure that you at least can put food on the table. Focus on things like food, medication, and other things that you and your family need in order to get by and maintain your health. 
+The main reason we are even getting these stimulus checks is to try to tide us over during this crisis. The most important thing to do is to make sure that you and your family have what you need  in order to survive. So if you are losing any income during this time, you should make sure that you at least can put food on the table. Focus on things like food, medication, and other things that you and your family need in order to get by and maintain your health and safety. 
 
 ## Pay Your Bills
 
-If you know your necessities will be covered, you should use this money to pay your bills. However, it's also a good idea to try to keep as much cash on hand right now so that you don't risk going into debt trying to cover necessities. So a good step to take is to call your landlord, creditors, and other providers to ask about what coronavirus offerings they have. Many landlords, mortgage lenders, utility providers, and credit card companies are working with their customers to ease the financial burden right now. 
+If you know your necessities will be covered, you could use this money to pay your bills. However, it's also a good idea to try to keep as much cash on hand right now so that you don't risk going into debt trying to cover necessities. So a good step to take is to call your landlord, creditors, and other providers to ask about what coronavirus offerings they have. Many landlords, mortgage lenders, utility providers, and credit card companies are working with their customers to ease the financial burden right now. Make sure that you let them know that you have been personally impacted by COVID-19 when you call. 
 
 Once you've found out if you can delay paying your bills or at least forego any penalties, identify which bills you must pay right now. Consider which things you really can't live without right now, like your internet and your cell phone. Prioritize your bills based on necessity and whether or not the provider will let you delay or reduce payments.
 
