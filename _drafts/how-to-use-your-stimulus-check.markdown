@@ -45,6 +45,8 @@ Buy from local businesses:
 
 * Artists
 
+* Small grocery stores
+
 Donate to local organizations:
 
 * Food pantries
