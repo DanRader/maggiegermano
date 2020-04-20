@@ -25,7 +25,7 @@ Once you've found out if you can delay paying your bills or at least forego any 
 
 ## Pad Your Savings
 
-If you don't have an emergency fund, or if you have one but it's small, you should use as much of this money as possible to help fund your savings. If COVID-19 doesn't show everyone why an emergency fund is so important, I don't know what will.
+If you don't have an emergency fund, or if you have one but it's small, you should use as much of this money as possible to help fund your savings. If COVID-19 doesn't show everyone why an emergency fund is so important, I don't know what will. My husband and I are putting a large majority of our stimulus money into our emergency fund, because this crisis has made us feel less stable and secure than we felt a couple of months ago. Plus, my husband got laid off from his last job just about four months ago, so we don't want to take any chances. 
 
 ## Pay Down Debt
 
