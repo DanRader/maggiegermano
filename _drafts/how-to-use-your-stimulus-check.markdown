@@ -28,7 +28,7 @@ xx
 
 ## Invest In Your Community
 
-If you still have your job and feel confident that you can cover your expenses and other priorities, consider investing in your community.
+If you still have your job and feel confident that you can cover your expenses and other priorities, consider investing in your community. Many of us are not in the position to do this, so don't feel guilty if you need to keep the whole stimulus check for yourself. But if you are lucky enough to have your needs cover, you can give back 
 
 Buy from local businesses:
 
