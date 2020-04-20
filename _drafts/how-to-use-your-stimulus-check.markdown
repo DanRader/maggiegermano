@@ -19,7 +19,7 @@ The main reason we are even getting these stimulus checks is to tide us over dur
 
 ## Pay Your Bills
 
-If you know your necessities will be covered, you should use this money to pay your bills. However, it's also a good idea to try to keep as much cash on hand right now so that you don't risk going into debt trying to cover necessities. The idea is that people will be using this money to pay their bills and cover their necessities
+If you know your necessities will be covered, you should use this money to pay your bills. However, it's also a good idea to try to keep as much cash on hand right now so that you don't risk going into debt trying to cover necessities. So a good step to take is to call your creditors and other providers to ask about 
 
 call and have bills delayed etc
 
