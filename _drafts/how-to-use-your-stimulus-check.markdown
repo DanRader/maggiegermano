@@ -29,7 +29,7 @@ If you don't have an emergency fund, or if you have one but it's small, you shou
 
 ## Pay Down Debt
 
-xx
+If you have a
 
 ## Invest In Your Community
 
