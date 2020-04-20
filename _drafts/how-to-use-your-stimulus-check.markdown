@@ -21,7 +21,7 @@ The main reason we are even getting these stimulus checks is to tide us over dur
 
 If you know your necessities will be covered, you should use this money to pay your bills. However, it's also a good idea to try to keep as much cash on hand right now so that you don't risk going into debt trying to cover necessities. So a good step to take is to call your landlord, creditors, and other providers to ask about what coronavirus offerings they have. Many landlords, mortgage lenders, utility providers, and credit card companies are working with their customers to ease the financial burden right now. 
 
-Once you've found out if you can delay paying your bills or at least forego any penalties, identify which bills you must pay right now. Consider which things 
+Once you've found out if you can delay paying your bills or at least forego any penalties, identify which bills you must pay right now. Consider which things you really can't live without right now, like your internet and your cell phone. Prioritize your bills based on necessity and whether or not the provider will let you delay or reduce payments.
 
 ## Pad Your Savings
 
