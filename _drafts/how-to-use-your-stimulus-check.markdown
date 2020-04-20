@@ -19,7 +19,7 @@ The main reason we are even getting these stimulus checks is to tide us over dur
 
 ## Pay Your Bills
 
-The idea is that people will be using this money to pay their bills and cover their necessities
+If you know your necessities will be covered, The idea is that people will be using this money to pay their bills and cover their necessities
 
 call and have bills delayed etc
 
