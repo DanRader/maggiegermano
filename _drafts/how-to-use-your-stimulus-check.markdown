@@ -29,7 +29,7 @@ If you don't have an emergency fund, or if you have one but it's small, you shou
 
 ## Pay Down Debt
 
-If you have a
+If you have a consistent income right now, you know that your necessities will be covered, AND you have some cash in savings, it's a good idea to 
 
 ## Invest In Your Community
 
