@@ -55,4 +55,4 @@ Donate to local organizations:
 
 * Nonprofits helping those in need
 
-As always, you should put your own oxygen mask on first, literally and metaphorically. Take care of your needs first. Pay for your necessities, pay your bills, build up your savings, and pay off debt. Once you've
+As always, you should put your own oxygen mask on first, literally and metaphorically. Take care of your needs first. Pay for your necessities, pay your bills, build up your savings, and pay off debt. Once you've been able to do that, then you can give to others. 
