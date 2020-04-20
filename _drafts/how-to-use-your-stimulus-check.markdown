@@ -1,6 +1,11 @@
 ---
 title: How To Use Your Stimulus Check
 date: 2020-04-20 11:00:00 -04:00
+categories:
+- lifestyle
+- debt
+- spending
+- savings
 image: "/uploads/alexander-mils-lCPhGxs7pww-unsplash.jpg"
 ---
 
