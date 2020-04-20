@@ -15,7 +15,7 @@ When you do get the money, though, you might be wondering what you should do wit
 
 ## Cover Your Necessities
 
-The main reason we are even getting these stimulus checks is to tide us over during this crisis. The most important thing to do is make sure that you and your family have what they need to survive.
+The main reason we are even getting these stimulus checks is to tide us over during this crisis. The most important thing to do is make sure that you and your family have what they need to survive. So if you are losing any income during this time, you should make sure that you at least can put food on the table.
 
 ## Pay Your Bills
 
