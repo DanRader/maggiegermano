@@ -1,7 +1,6 @@
 ---
 title: How to Emerge From Quarantine With Your Finances Intact
 date: 2020-04-20 05:00:00 -04:00
-published: false
 lede: This week, Maggie sits down with financial coach Ericka Young to talk about
   how to maintain your finances during quarantine.
 image: "/uploads/IMG_7085.jpg"
