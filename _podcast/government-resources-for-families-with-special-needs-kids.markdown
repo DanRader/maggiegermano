@@ -6,6 +6,11 @@ lede: April is Autism Acceptance Month. In honor of that, Maggie sat down with F
   Frugality's Brynne Conroy to talk about the resources that are available for families
   with special needs kids.
 image: "/uploads/brynne.jpg"
+episode-number: 37
+podcast:
+- How to Emerge From Quarantine With Your Finances Intact
+- Last Minute Tax Tips for Procrastinators
+- Job Searching During the COVID-19 Crisis
 ---
 
 Whether you or someone you know has a child with special needs, it can be difficult to navigate the financial landscape that comes along with it. In this important episode, Brynne Conroy breaks down the different government resources that are available for children, families, and adults with special needs.
