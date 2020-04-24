@@ -7,6 +7,8 @@ lede: April is Autism Acceptance Month. In honor of that, Maggie sat down with F
   with special needs kids.
 image: "/uploads/brynne.jpg"
 episode-number: 37
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/25d31f5f-f0df-484b-af81-48bdd433d28f?dark=false"></iframe>
 podcast:
 - How to Emerge From Quarantine With Your Finances Intact
 - Last Minute Tax Tips for Procrastinators
