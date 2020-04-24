@@ -2,7 +2,7 @@
 title: Prudential
 published: false
 link: 
-image: "/uploads/purepng.com-prudential-logologobrand-logoiconslogos-251519939630ib8bd.png"
+image: "/uploads/download%20(3).png"
 layout: default
 ---
 
