@@ -17,19 +17,26 @@ layout: default
             <h2>past audiences</h2>
             <div class="logo-list">
                 {% assign logo-sort = site.audience-logos | sort: "position" %}
-                {% for logo in logo-sort limit: 5 %}
+                {% for logo in logo-sort %}
                 <a href="{{ logo.link }}">
                     <img src="{{ logo.image }}" alt="{{ logo.title }}">
                 </a>
                 {% endfor %}
             </div>
-            <div class="logo-list">
+            <!-- <div class="logo-list">
                 {% for logo in logo-sort offset: 5 %}
                 <a href="{{ logo.link }}">
                     <img src="{{ logo.image }}" alt="{{ logo.title }}">
                 </a>
                 {% endfor %}
             </div>
+            <div class="logo-list">
+                {% for logo in logo-sort offset: 11 %}
+                <a href="{{ logo.link }}">
+                    <img src="{{ logo.image }}" alt="{{ logo.title }}">
+                </a>
+                {% endfor %}
+            </div> -->
     </div>
 
     <div class="gridy one-two">
