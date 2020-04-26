@@ -1,7 +1,7 @@
 ---
 title: Prudential
 link: 
-image: "/uploads/329-3290553_prudential-life-insurance-prudential-life-insurance-logo-hd.png"
+image: "/uploads/pngfind.com-prudential-png-3290553.png"
 layout: default
 ---
 
