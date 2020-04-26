@@ -103,7 +103,7 @@
         }
     }
     & h2 {
-        margin-bottom: 1.2rem;
+        margin-bottom: 40px;
         font-family: 'Playfair Display', serif;
         font-size: 42px;
         color: white;
@@ -162,11 +162,14 @@
         font-family: 'Open Sans', sans-serif !important;
     }
     @media only screen and (max-width: 840px) {
-        padding: 1rem;
+        padding: 2rem;
     }
 }
 .logo-list {
-    display: flex;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-column-gap: 8%;
+    grid-row-gap: 40px;
     justify-content: center;
     padding-bottom: 2rem;
     align-items: center;
@@ -174,7 +177,7 @@
         padding: 3%;
     }
     @media only screen and (max-width: 840px) {
-        flex-wrap: wrap;
+        grid-template-columns: 1fr 1fr 1fr;
 
         & a {
             max-width: 120px;
