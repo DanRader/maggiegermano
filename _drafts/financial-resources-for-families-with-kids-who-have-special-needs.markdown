@@ -16,9 +16,9 @@ An important necessity for all kids, but especially those with special needs, is
 
 ## ABLE Accounts
 
-I first heard of ABLE accounts back in September 2019. There were several ABLE account vendors set up at [FinCon](https://finconexpo.com/) and I was so happy to find out that they exist for the folks who need them. ABLE accounts are tax-advantaged savings accounts for individuals with disabilities and their families. These were created as a result of the passage of the Stephen Beck Jr. Achieving a Better Life Experience Act of 2014 or " the ABLE Act." 
+I first heard of ABLE accounts back in September 2019. There were several ABLE account vendors set up at [FinCon](https://finconexpo.com/) and I was so happy to find out that they exist for the folks who need them. ABLE accounts are tax-advantaged savings accounts for individuals with disabilities and their families. These were created as a result of the passage of the [Stephen Beck Jr. Achieving a Better Life Experience Act of 2014](https://www.ssa.gov/ssi/spotlights/spot-able.html) or "the ABLE Act." 
 
-The beneficiary of this type of account is the account owner, and any income earned by the accounts will not be taxed. Contributions can be made by anyone and must be made using post-tax dollars and will not be tax deductible for purposes of federal taxes. However, some states may allow for state income tax deductions for contributions made to an ABLE account.
+The beneficiary of this type of account is the account owner, and any income earned by the accounts will not be taxed. Contributions can be made by anyone and must be made using post-tax dollars and will not be tax deductible for purposes of federal taxes. However, some states may allow for state income tax deductions for contributions made to an ABLE account. In 2020, the total annual contribution limit is $15,000.
 
 ## State Vocational Rehabilitation Agencies
 
