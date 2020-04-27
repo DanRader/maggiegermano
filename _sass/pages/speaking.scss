@@ -164,6 +164,9 @@
     @media only screen and (max-width: 840px) {
         padding: 2rem;
     }
+    img {
+      filter: brightness(999);
+    }
 }
 .logo-list {
     display: grid;
