@@ -14,9 +14,7 @@ April is Autism Acceptance Month. In honor of that, I interviewed [Femme Frugali
 
 xx
 
-As Brynne mentioned in the podcast episode, some states allow children with special needs to be on Medicaid, regardless of their parents' income.
-
-To learn more about Medicaid coverage in your state, check out Brynne's [state-by-state guide](https://femmefrugality.com/state-by-state-medicaid-children-autism/).
+As Brynne mentioned in the podcast episode, some states allow children with special needs to be on Medicaid, regardless of their parents' income. Not all states are equal, though. To learn more about Medicaid coverage in your state, check out Brynne's [state-by-state guide](https://femmefrugality.com/state-by-state-medicaid-children-autism/).
 
 ## ABLE Accounts
 
@@ -26,6 +24,6 @@ The beneficiary of the account is the account owner, and income earned by the ac
 
 ## State Vocational Rehabilitation Agencies
 
-Health insurance 
+Health insurance coverage and saving for education aren't the only things needed for folks with special needs. Another important resource is the 
 
 To learn more, check out Brynne's amazing resource, [Children, Medicaid & Autism: State-by-State Guide](https://femmefrugality.com/state-by-state-medicaid-children-autism/).
