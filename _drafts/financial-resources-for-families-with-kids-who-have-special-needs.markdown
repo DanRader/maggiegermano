@@ -12,7 +12,7 @@ April is Autism Acceptance Month. In honor of that, I interviewed [Femme Frugali
 
 ## Medicaid
 
-xx
+Medicaid provides healthcare coverage to millions of Americans, including eligible low-income adults, children, pregnant women, elderly adults and people with disabilities.
 
 As Brynne mentioned in the podcast episode, some states allow children with special needs to be on Medicaid, regardless of their parents' income. Not all states are equal, though. To learn more about Medicaid coverage in your state, check out Brynne's [state-by-state guide](https://femmefrugality.com/state-by-state-medicaid-children-autism/).
 
