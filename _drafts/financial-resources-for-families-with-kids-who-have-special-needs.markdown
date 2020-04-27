@@ -30,4 +30,4 @@ The beneficiary of this type of account is the account owner, and any income ear
 
 Another important resource that Brynne told me about is state vocational rehabilitation agencies. These programs help to prepare children with disabilities for higher education and their careers. 
 
-To learn more, check out Brynne's amazing resource, [Children, Medicaid & Autism: State-by-State Guide](https://femmefrugality.com/state-by-state-medicaid-children-autism/).
+*To learn more about this, check out [Brynne's post](https://femmefrugality.com/career-resources-for-autistic-youth/) about career resources for autistic youth. *
