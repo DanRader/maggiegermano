@@ -28,6 +28,6 @@ The beneficiary of this type of account is the account owner, and any income ear
 
 ## State Vocational Rehabilitation Agencies
 
-Health insurance coverage and saving for education aren't the only things needed for folks with special needs. Another important resource is the 
+Another important resource that Brynne told me about is state vocational rehabilitation agences. 
 
 To learn more, check out Brynne's amazing resource, [Children, Medicaid & Autism: State-by-State Guide](https://femmefrugality.com/state-by-state-medicaid-children-autism/).
