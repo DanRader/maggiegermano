@@ -14,6 +14,10 @@ April is Autism Acceptance Month. In honor of that, I interviewed [Femme Frugali
 
 xx
 
+As Brynne mentioned in the podcast episode, some states allow children with special needs to be on Medicaid, regardless of their parents' income. 
+
+To learn more about Medicaid coverage in your state, check out Brynne's [state-by-state guide](https://femmefrugality.com/state-by-state-medicaid-children-autism/). 
+
 ## ABLE Accounts
 
 xx
