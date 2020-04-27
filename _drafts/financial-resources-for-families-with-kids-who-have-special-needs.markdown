@@ -30,4 +30,6 @@ The beneficiary of this type of account is the account owner, and any income ear
 
 Another important resource that Brynne told me about is state vocational rehabilitation agencies. According to Brynne, "The federal government provides funding to state vocational rehabilitation agencies for a number of purposes. They aid both employers and job seekers to build inclusive workplaces, and go the extra mile to make sure training is available to those with medical needs." 
 
+To find the vocational rehabilitation agency in your state, visit the [Employer Assistance and Resource Network on Disability Inclusion](https://askearn.org/state-vocational-rehabilitation-agencies/) (EARN).
+
 *To learn more about this resources, along with more , check out [Brynne's post](https://femmefrugality.com/career-resources-for-autistic-youth/) about career resources for autistic youth. *
