@@ -20,7 +20,7 @@ To learn more about Medicaid coverage in your state, check out Brynne's [state-b
 
 ## ABLE Accounts
 
-xx
+I first heard of ABLE accounts back in September 2020. There were several ABLE account vendors set up at [FinCon](https://finconexpo.com/) and I was so happy to learn about them. ABLE accounts are tax-advantaged savings accounts for individuals with disabilities and their families. These were created as a result of the passage of the Stephen Beck Jr. Achieving a Better Life Experience Act of 2014 or " the ABLE Act." x
 
 ## State Vocational Rehabilitation Agencies
 
