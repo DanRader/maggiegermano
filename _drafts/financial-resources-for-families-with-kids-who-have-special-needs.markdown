@@ -28,6 +28,6 @@ The beneficiary of this type of account is the account owner, and any income ear
 
 ## State Vocational Rehabilitation Agencies
 
-Another important resource that Brynne told me about is state vocational rehabilitation agencies. These programs help to prepare children with disabilities for higher education and their careers. 
+Another important resource that Brynne told me about is state vocational rehabilitation agencies. According to Brynne, "The federal government provides funding to state vocational rehabilitation agencies for a number of purposes. They aid both employers and job seekers to build inclusive workplaces, and go the extra mile to make sure training is available to those with medical needs." 
 
 *To learn more about this resources, along with more , check out [Brynne's post](https://femmefrugality.com/career-resources-for-autistic-youth/) about career resources for autistic youth. *
