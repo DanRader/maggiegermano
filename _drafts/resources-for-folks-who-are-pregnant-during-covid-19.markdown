@@ -6,7 +6,7 @@ categories:
 image: "/uploads/dexter-chatuluka-OyvZbtXJRlA-unsplash.jpg"
 ---
 
-xx
+I'm in my 30s now, so the number of people I know who have kids or who are pregnant (or trying to get pregnant) is steadily increasing. 
 
 ## CDC Guidelines
 
