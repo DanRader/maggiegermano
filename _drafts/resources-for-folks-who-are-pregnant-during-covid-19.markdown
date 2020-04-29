@@ -4,3 +4,24 @@ date: 2020-05-04 11:00:00 -04:00
 image: "/uploads/dexter-chatuluka-OyvZbtXJRlA-unsplash.jpg"
 ---
 
+xx
+
+## CDC Guidelines
+
+xx
+
+## WHO Guidelines
+
+xx
+
+## Rainbow Doula DC
+
+xx
+
+## Arrow Birth
+
+xx
+
+## Birthing Bill of Rights
+
+xx
