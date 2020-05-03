@@ -10,7 +10,7 @@ I'm in my 30s now, so the number of people I know who have kids or who are pregn
 
 ## CDC Guidelines
 
-xx
+It can be difficult to know where to turn for up-to-date, accurate, information during times of crisis. 
 
 ## WHO Guidelines
 
