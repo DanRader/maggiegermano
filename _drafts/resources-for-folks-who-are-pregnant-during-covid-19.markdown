@@ -24,11 +24,11 @@ This week, I interviewed Kelsey Carroll, a doula and the founder of [Rainbow Dou
 
 ## Arrow Birth
 
-xx
+Arrow Birth is a virtual doula company that went online before the global pandemic even hit. Their 
 
 ## Birthing Bill of Rights
 
-xx
+One really helpful thing that I learned about during my conversation with Kelsey Carroll this week was the birthing bill of rights. 
 
 ## Evidence-Based Birth
 
