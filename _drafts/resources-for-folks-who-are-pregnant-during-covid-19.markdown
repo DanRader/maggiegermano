@@ -6,7 +6,7 @@ categories:
 image: "/uploads/dexter-chatuluka-OyvZbtXJRlA-unsplash.jpg"
 ---
 
-I'm in my 30s now, so the number of people I know who have kids or who are pregnant (or trying to get pregnant) is steadily increasing. That's a strange and exciting thing on its own, but COVID-19 is turning it into something completely different. I'm watching my friends struggle with the new reality of self-isolation and ongoing quarantine. I see them wonder what is safe and what isn't. Plus, there's so much unknown 
+I'm in my 30s now, so the number of people I know who have kids or who are pregnant (or trying to get pregnant) is steadily increasing. That's a strange and exciting thing on its own, but COVID-19 is turning it into something completely different. I'm watching my friends struggle with the new reality of self-isolation and ongoing quarantine. I see them wonder what is safe and what isn't. Plus, there's so much unknown when it comes to the actual delivery process and who they can have with them or not. The global pandemic 
 
 ## CDC Guidelines
 
