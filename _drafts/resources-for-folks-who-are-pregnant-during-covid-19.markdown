@@ -16,7 +16,7 @@ It can be difficult to know where to turn for up-to-date, accurate, information 
 
 ## WHO Guidelines
 
-Just like the CDC, the World Health Organization (WHO) is a trustworthy resource for COVID-19 information and updates. It might even be more trustworthy right now, since it is not an American federal agency [Learn more](https://www.who.int/reproductivehealth/publications/emergencies/COVID-19-pregnancy-ipc-breastfeeding-infographics/en/) at their resource about pregnancy, childbirth, and breastfeeding.
+Just like the CDC, the World Health Organization (WHO) is a trustworthy resource for COVID-19 information and updates. Follow their guidelines for how you and your family can stay safe during the pandemic. [Learn more](https://www.who.int/reproductivehealth/publications/emergencies/COVID-19-pregnancy-ipc-breastfeeding-infographics/en/) at their resource about pregnancy, childbirth, and breastfeeding.
 
 ## Rainbow Doula DC
 
@@ -32,8 +32,6 @@ According to [DONA International](https://www.dona.org/what-is-a-doula/) a doula
 
 * [Doulas of Capitol Hill](http://www.doulasofcapitolhill.com/)
 
-* x
-
 If you want to do more research, or find doulas in other locations, check out the [DONA International database](https://www.dona.org/what-is-a-doula/find-a-doula/).
 
 ## Birthing Bill of Rights
@@ -42,7 +40,7 @@ One really helpful thing that I learned about during my conversation with Kelsey
 
 ## Evidence-Based Birth
 
-Another wonderful resource that Kelsey shared with me is [Evidencebasedbirth.com](https://evidencebasedbirth.com/). They even have a page completely dedicated to [COVID-19 resources](https://evidencebasedbirth.com/covid19/). 
+Another wonderful resource that Kelsey shared with me is [Evidencebasedbirth.com](https://evidencebasedbirth.com/). They even have a page completely dedicated to [COVID-19 resources](https://evidencebasedbirth.com/covid19/). Their mission is "to raise the quality of childbirth care globally, by putting accurate, evidence based research into the hands of families and communities, so they can make informed, empowered choices". Poke around on their site to learn all you can about pregnancy and birth in general, but their COVID-19 resources are also robust.
 
 ## Your Medical Provider
 
