@@ -28,7 +28,7 @@ This week, I interviewed Kelsey Carroll, a doula and the founder of [Rainbow Dou
 
 ## Birthing Bill of Rights
 
-One really helpful thing that I learned about during my conversation with Kelsey Carroll this week was the birthing bill of rights. 
+One really helpful thing that I learned about during my conversation with Kelsey Carroll this week was the [birthing bill of rights](http://karenmelton.com/articles/the-pregnant-patients-bill-of-rights/). It's exactly what it sounds like. It's a list of all of the rights that you have as a birthing person. This will come in very handy when you're in the hospital (or elsewhere) in labor. Knowledge is power, and this list of rights will give you the information that you need to understand what your rights are as a birthing person.
 
 ## Evidence-Based Birth
 
