@@ -20,11 +20,21 @@ Just like the CDC, the World Health Organization (WHO) is a trustworthy resource
 
 ## Rainbow Doula DC
 
-This week, I interviewed Kelsey Carroll, a doula and the founder of [Rainbow Doula](https://www.rainbowdouladc.com/) in DC, on the [Money Circle](https://www.maggiegermano.com/podcast/pregnancy-and-birth-during-the-covid-19-crisis/) podcast. Kelsey's doula collective is committed to providing doula support for birth and beyond, regardless of a person's sexual orientation, gender identity or expression, or marital status. Since COVID-19 set in, Rainbow Doula has shifted to offer more virtual services and online classes. 
+This week, I interviewed Kelsey Carroll, a doula and the founder of [Rainbow Doula](https://www.rainbowdouladc.com/) in DC, on the [Money Circle](https://www.maggiegermano.com/podcast/pregnancy-and-birth-during-the-covid-19-crisis/) podcast. Kelsey's doula collective is committed to providing doula support for birth and beyond, regardless of a person's sexual orientation, gender identity or expression, or marital status. Since COVID-19 set in, Rainbow Doula has shifted to offer more virtual services and online classes. Not only can you continue to work with them one-on-one right now, but you can join their [online classes](https://www.rainbowdouladc.com/events), like [DIY Doula](https://www.eventbrite.com/e/diy-doula-preparing-partners-for-birth-may-tickets-103968624956?aff=Website). 
 
-## Arrow Birth
+## Other Doulas
 
-[Arrow Birth](https://www.arrowbirth.com/) is a virtual doula company that went online before the global pandemic even hit. Their 
+According to [DONA International](https://www.dona.org/what-is-a-doula/) a doula is "a trained professional who provides continuous physical, emotional and informational support to a mother before, during and shortly after childbirth to help her achieve the healthiest, most satisfying experience possible".  We should all have this type of experience, no matter what, but during a pandemic, it's even more important! If you aren't in DC, or if you'd just like to research all your options, there are tons of other doulas and doula collectives out there. In the DC area alone, a quick search brings up:
+
+* [DC Birth Doulas](https://dcbirthdoulas.com/)
+
+* [Doulas of Prince George's County](http://www.doulasofpgcounty.com/)
+
+* [Doulas of Capitol Hill](http://www.doulasofcapitolhill.com/)
+
+* x
+
+If you want to do more research, or find doulas in other locations, check out the [DONA International database](https://www.dona.org/what-is-a-doula/find-a-doula/).
 
 ## Birthing Bill of Rights
 
