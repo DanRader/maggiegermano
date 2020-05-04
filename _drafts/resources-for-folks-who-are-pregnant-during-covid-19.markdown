@@ -20,7 +20,7 @@ Just like the CDC, the World Health Organization (WHO) is a trustworthy resource
 
 ## Rainbow Doula DC
 
-This week, I interviewed Kelsey Carroll, a doula and the founder of [Rainbow Doula](https://www.rainbowdouladc.com/) in DC, on the [Money Circle](https://www.maggiegermano.com/podcast/pregnancy-and-birth-during-the-covid-19-crisis/) podcast. 
+This week, I interviewed Kelsey Carroll, a doula and the founder of [Rainbow Doula](https://www.rainbowdouladc.com/) in DC, on the [Money Circle](https://www.maggiegermano.com/podcast/pregnancy-and-birth-during-the-covid-19-crisis/) podcast. Kelsey's doula collective is committed to providing doula support for birth and beyond, regardless of a person's sexual orientation, gender identity or expression, or marital status. Since COVID-19 set in, Rainbow Doula has shifted to offer more virtual services and online classes. 
 
 ## Arrow Birth
 
