@@ -18,7 +18,7 @@ Just like the CDC, the World Health Organization (WHO) is a trustworthy resource
 
 ## Rainbow Doula DC
 
-xx
+This week, I interviewed Kelsey Carroll, a doula and the founder of [Rainbow Doula](https://www.rainbowdouladc.com/) in DC. 
 
 ## Arrow Birth
 
