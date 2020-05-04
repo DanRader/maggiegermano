@@ -32,4 +32,8 @@ One really helpful thing that I learned about during my conversation with Kelsey
 
 ## Evidence-Based Birth
 
-xx
+Another wonderful resource that Kelsey shared with me is [Evidencebasedbirth.com](https://evidencebasedbirth.com/). 
+
+## Your Medical Provider
+
+x
