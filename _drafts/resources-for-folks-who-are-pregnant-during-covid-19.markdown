@@ -6,7 +6,9 @@ categories:
 image: "/uploads/dexter-chatuluka-OyvZbtXJRlA-unsplash.jpg"
 ---
 
-I'm in my 30s now, so the number of people I know who have kids or who are pregnant (or trying to get pregnant) is steadily increasing. That's a strange and exciting thing on its own, but COVID-19 is turning it into something completely different. I'm watching my friends struggle with the new reality of self-isolation and ongoing quarantine. I see them wonder what is safe and what isn't. Plus, there's so much unknown when it comes to the actual delivery process and who they can have with them or not. The global pandemic 
+*Want to learn more about what you should know if you're pregnant during COVID-19? Listen to this week's [Money Circle episode](https://www.maggiegermano.com/podcast/pregnancy-and-birth-during-the-covid-19-crisis/)!*
+
+I'm in my 30s now, so the number of people I know who have kids or who are pregnant (or trying to get pregnant) is steadily increasing. That's a strange and exciting thing on its own, but COVID-19 is turning it into something completely different. I'm watching my friends struggle with the new reality of self-isolation and ongoing quarantine. I see them wonder what is safe and what isn't. Plus, there's so much unknown when it comes to the actual delivery process and who they can have with them or not. The global pandemic is scary for everyone, but it can feel even scarier for someone who is bringing new life into the world. That's why I am gathering these helpful resources to get you the information and support that you need if you're pregnant right now.
 
 ## CDC Guidelines
 
@@ -18,7 +20,7 @@ Just like the CDC, the World Health Organization (WHO) is a trustworthy resource
 
 ## Rainbow Doula DC
 
-This week, I interviewed Kelsey Carroll, a doula and the founder of [Rainbow Doula](https://www.rainbowdouladc.com/) in DC. 
+This week, I interviewed Kelsey Carroll, a doula and the founder of [Rainbow Doula](https://www.rainbowdouladc.com/) in DC, on the [Money Circle](https://www.maggiegermano.com/podcast/pregnancy-and-birth-during-the-covid-19-crisis/) podcast. 
 
 ## Arrow Birth
 
