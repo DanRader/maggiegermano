@@ -4,6 +4,10 @@ date: 2020-05-04 11:00:00 -04:00
 categories:
 - lifestyle
 image: "/uploads/dexter-chatuluka-OyvZbtXJRlA-unsplash.jpg"
+posts:
+- What You Should Know During the COVID-19 Crisis
+- What The Coronavirus Stimulus Package Means For You
+- How to Help When You Feel Helpless During a Crisis
 ---
 
 *Want to learn more about what you should know if you're pregnant during COVID-19? Listen to this week's [Money Circle episode](https://www.maggiegermano.com/podcast/pregnancy-and-birth-during-the-covid-19-crisis/)!*
