@@ -32,8 +32,12 @@ One really helpful thing that I learned about during my conversation with Kelsey
 
 ## Evidence-Based Birth
 
-Another wonderful resource that Kelsey shared with me is [Evidencebasedbirth.com](https://evidencebasedbirth.com/). 
+Another wonderful resource that Kelsey shared with me is [Evidencebasedbirth.com](https://evidencebasedbirth.com/). They even have a page completely dedicated to [COVID-19 resources](https://evidencebasedbirth.com/covid19/). 
 
 ## Your Medical Provider
 
-Of course, one of the best resources at all times, not just during a pandemic, is your own medical provider. Reach out to your obstetrician or primary care doctor and ask them what precautions you should be taking right now. Reach out to the hospital you plan to give birth at and ask them what precautions they are taking and what changes you can expect if you go into labor during the quarantine. 
+Of course, one of the best resources at all times, not just during a pandemic, is your own medical provider. Reach out to your obstetrician or primary care doctor and ask them what precautions you should be taking right now. Reach out to the hospital you plan to give birth at and ask them what precautions they are taking and what changes you can expect if you go into labor during the quarantine. These providers know your medical history, and they know the updates they are implementing themselves, so they are some of the best resources out there.
+
+If you are currently pregnant and expecting your child soon, my heart is with you. Bringing a life into the world is already a huge life experience, and a global pandemic makes it even more intense and uncertain. It's okay to be scared and nervous, and there are lots of resources out there to support you. Good luck!
+
+*Want to learn more about what you should know if you're pregnant during COVID-19? Listen to this week's [Money Circle episode](https://www.maggiegermano.com/podcast/pregnancy-and-birth-during-the-covid-19-crisis/)!*
