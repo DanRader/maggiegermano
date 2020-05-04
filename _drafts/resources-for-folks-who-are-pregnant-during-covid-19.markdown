@@ -36,4 +36,4 @@ Another wonderful resource that Kelsey shared with me is [Evidencebasedbirth.com
 
 ## Your Medical Provider
 
-x
+Of course, one of the best resources at all times, not just during a pandemic, is your own medical provider. Reach out to your obstetrician or primary care doctor and ask them what precautions you should be taking right now. Reach out to the hospital you plan to give birth at and ask them what precautions they are taking and what changes you can expect if you go into labor during the quarantine. 
