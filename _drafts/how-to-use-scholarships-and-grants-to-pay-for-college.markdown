@@ -30,6 +30,12 @@ where do you keep the scholarships?
 
 do this your freshman year of high school
 
+## Talk To Your Financial Aid Officer
+
+If you already know what school you're going to, find the financial aid office and develop a relatiosnhip with them. they can tel you which grants and scholarships are available at the shool
+
+talk about dr. hurtgen
+
 ## Grants
 
 xx
@@ -41,6 +47,8 @@ you get it and it's yours as a gift
 pell grant
 
 state grants: 
+
+talk to financial aid officer
 
 ## Scholarships
 
