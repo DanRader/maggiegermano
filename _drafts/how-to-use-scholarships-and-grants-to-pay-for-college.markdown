@@ -36,7 +36,7 @@ If you already know what school you're going to, find the financial aid office a
 
 talk about dr. hurtgen
 
-## Grants
+## Apply For Grants
 
 xx
 
@@ -50,7 +50,7 @@ state grants:
 
 talk to financial aid officer
 
-## Scholarships
+## Apply For Scholarships
 
 You can apply for scholarships throughout your career
 
