@@ -38,6 +38,10 @@ you don't have to do something in order to get this
 
 you get it and it's yours as a gift
 
+pell grant
+
+state grants: 
+
 ## Scholarships
 
 You can apply for scholarships throughout your career
@@ -49,6 +53,18 @@ as young as 13 years old - get it when you graduate
 you have to earn this; do something for it
 
 what are the scholarships that come around each year? find out the year before and get a copy. what questions are they asking?
+
+**National scholarship databases:**
+
+* fastweb.com 
+
+* scholarships.com
+
+* unigo.com
+
+* collegeboard.com
+
+**Note: **once you make an account with these databases, you will get marketed to by colleges.
 
 ## Hire A College Admissions Consultant
 
