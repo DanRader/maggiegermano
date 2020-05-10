@@ -10,13 +10,29 @@ posts:
 
 xx
 
-Grants
+## Stay In Touch With The Guidance Counselor
+
+don't just make your course schedule or deal with a problem
+
+counselor has access to local scholarships
+
+## Grants
 
 xx
 
-Scholarships
+you don't have to do someting in ordder to get this
 
-ss
+you get it and it's yours as a gift
+
+## Scholarships
+
+You can apply for scholarships throughout your career
+
+often and early
+
+as young as 13 years old - get it when you graduate
+
+you have to earn this; do something for it
 
 ## Hire A College Admissions Consultant
 
