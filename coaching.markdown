@@ -70,7 +70,7 @@ option-1-text: |-
 
   * Personalized recap and action guide after the session to provide a clear way forward
 
-  * $300 per session
+  * Two weeks of unlimited email support following the session
 option-2-text: |-
   ### Ongoing Monthly Coaching
 
