@@ -26,11 +26,11 @@ If you already know what college you're going to, find the financial aid office 
 
 Grants are free money that you get if you qualify or are chosen through an application process. Contrary to scholarships, you don't have to do anything to keep the money, like maintain certain grades. Once you get the money, it's yours as a gift. To find out about specific grant opportunities, talk to your guidance counselor or financial aid officer.
 
-pell grant
+**Grant Options:**
 
-state grants:
+* [The Pell Grant](https://studentaid.gov/understand-aid/types/grants/pell)
 
-talk to financial aid officer
+* [State financial aid programs](https://www.nasfaa.org/State_Financial_Aid_Programs)
 
 ## Apply For Scholarships
 
