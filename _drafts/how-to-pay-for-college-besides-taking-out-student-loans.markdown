@@ -12,7 +12,7 @@ posts:
 - Financial Resources For Families With Kids Who Have Special Needs
 ---
 
-This week, on the Money Circle podcast, I interviewed Pam Andrews, college admissions consultant and the founder of [The Scholarship Shark](https://www.thescholarshipshark.com/). I met Pam at [FinCon](https://finconexpo.com/) last year and was thrilled to learn about the work that she does. 
+This week, on the Money Circle podcast, I interviewed Pam Andrews, college admissions consultant and the founder of [The Scholarship Shark](https://www.thescholarshipshark.com/). I met Pam at [FinCon](https://finconexpo.com/) last year and was thrilled to learn about the work that she does. Anyone who is out there helping people get into college and find ways to afford it is doing important work! After chatting with her, I wanted to consolidate and share
 
 You won't know where to look if you don't ask
 
