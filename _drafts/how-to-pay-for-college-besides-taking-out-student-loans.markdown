@@ -24,11 +24,7 @@ If you already know what college you're going to, find the financial aid office 
 
 ## Apply For Grants
 
-xx
-
-you don't have to do something in order to get this
-
-you get it and it's yours as a gift
+Grants are free money that you get if you qualify or are chosen through an application process. Contrary to scholarships, you don't have to do anything to keep the money, like maintain certain grades. Once you get the money, it's yours as a gift. To find out about specific grant opportunities, talk to your guidance counselor or financial aid officer. 
 
 pell grant
 
