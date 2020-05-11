@@ -12,29 +12,15 @@ posts:
 - Financial Resources For Families With Kids Who Have Special Needs
 ---
 
-This week, on the Money Circle podcast, I interviewed Pam Andrews, college admissions consultant and the founder of [The Scholarship Shark](https://www.thescholarshipshark.com/). I met Pam at [FinCon](https://finconexpo.com/) last year and was thrilled to learn about the work that she does. Anyone who is out there helping people get into college and find ways to afford it is doing important work! After chatting with her, I wanted to consolidate and share some helpful resources. 
-
-In the United States, there are 45 million borrowers who collectively owe nearly $1.6 trillion in student loan debt. It's a crisis and it is harming people and affecting what they can and cannot do with their lives. Of course, the ultimate solution is is to control the cost of higher education or 
+This week, on the Money Circle podcast, I interviewed Pam Andrews, college admissions consultant and the founder of [The Scholarship Shark](https://www.thescholarshipshark.com/). I met Pam at [FinCon](https://finconexpo.com/) last year and was thrilled to learn about the work that she does. Anyone who is out there helping people get into college and find ways to afford it is doing important work! In the United States, there are 45 million borrowers who collectively owe nearly $1.6 trillion in student loan debt. It's a crisis and it is harming people and affecting what they can and cannot do with their lives. Of course, the ultimate solution is is to control the cost of higher education or make it free for all. But until we get there, we have to take advantage of other resources and strategies. Here are just a few:
 
 ## Talk To The Guidance Counselor
 
-If you're like me, you might not have spent much time talking to your high school guidance counselor. But the truth is, you don't have to only talk to them just to make your course schedule or deal with a problem at school. Guidance counselors are often the ones who have access to local scholarships and grants. If you're still in school (or if your kids are), ask your guidance counselor where they keep records about local scholarships. Are they maintained online or on a bulletin board at school? 
-
-where do you keep the scholarships? 
-
-- online?
-
-- in a binder?
-
-- bulletin board?
-
-- email?
-
-do this your freshman year of high school
+If you're like me, you might not have spent much time talking to your high school guidance counselor. But the truth is, you don't have to only talk to them just to make your course schedule or deal with a problem at school. Guidance counselors are often the ones who have access to local scholarships and grants. If you're still in school (or if your kids are), ask your guidance counselor where they keep records about local scholarships. Are they maintained online or on a bulletin board at school? Is there a binder that you can look at whenever you want? You should ask these questions during your freshman year of high school, if you can, so that you can turn to your counselor every year to find out what your options are for scholarships and grants.
 
 ## Talk To Your Financial Aid Officer
 
-If you already know what school you're going to, find the financial aid office and develop a relatiosnhip with them. they can tel you which grants and scholarships are available at the shool
+If you already know what college you're going to, find the financial aid office and develop a relatiosnhip with them. they can tel you which grants and scholarships are available at the shool
 
 talk about dr. hurtgen
 
