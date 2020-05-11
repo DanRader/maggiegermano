@@ -5,7 +5,7 @@ categories:
 - career
 - debt
 image: "/uploads/vasily-koloda-8CqDvPuo_kI-unsplash.jpg"
-tweet: 'Student loans are not the only option for paying for college. '
+tweet: Student loans are t
 posts:
 - Why You May Want to Plan Ahead for Your Child’s College Tuition
 - The Cost of Raising Kids and How that Affects Women
@@ -24,11 +24,7 @@ If you already know what college you're going to, find the financial aid office 
 
 ## Apply For Grants
 
-xx
-
-you don't have to do something in order to get this
-
-you get it and it's yours as a gift
+Grants are free money that you get if you qualify or are chosen through an application process. Contrary to scholarships, you don't have to do anything to keep the money, like maintain certain grades. Once you get the money, it's yours as a gift. To find out about specific grant opportunities, talk to your guidance counselor or financial aid officer. 
 
 pell grant
 
@@ -40,23 +36,23 @@ talk to financial aid officer
 
 One important thing to know about scholarships is that you should start early and apply often. You can apply for college scholarships as early as 13 years old and have the money released to you once you graduate. Plus, you can apply for scholarships throughout your college career. Just because you're already in school doesn't mean you can't still apply for more. Talk to your high school guidance counselor or college advisor to find out what scholarships come around each year. It's possible to find out ahead of time and take your time to prepare to answer the questions
 
-One thing to understand about scholarships is that they aren't necessarily free money. You typically have to earn the scholarships by doing something, like maintaining certain grades.
+One thing to understand about scholarships is that they aren't necessarily free money. You typically have to earn the scholarships by doing something, like maintaining certain grades. That's just something to keep in mind!
 
 **National scholarship databases:**
 
-* fastweb.com 
+* [fastweb.com ](https://www.fastweb.com/)
 
-* scholarships.com
+* [scholarships.com](https://www.scholarships.com/)
 
-* unigo.com
+* [unigo.com](https://www.unigo.com/)
 
-* collegeboard.com
+* [collegeboard.com](https://opportunity.collegeboard.org/?navId=www-cbos)
 
 **Note: **once you make an account with these databases, you will get marketed to by colleges.
 
 ## Hire A College Admissions Consultant
 
-In the United States, we have this idea that we have to do everything on our own. Every man for himself. But it doesn't have to be that way! There are people out there who can help you and guide you so that you or your child can get into the college you love AND get grants and scholarships that help you to afford it. That person might look like a college admissions consultant, like Pam Andrews of [The Scholarship Shark](https://www.thescholarshipshark.com/). 
+In the United States, we have this idea that we have to do everything on our own. Every man for himself. But it doesn't have to be that way! There are people out there who can help you and guide you so that you or your child can get into the college you love AND get grants and scholarships that help you to afford it. That person might look like a college admissions consultant, like Pam Andrews of [The Scholarship Shark](https://www.thescholarshipshark.com/). This consultant will work directly with the student and their family to help apply to colleges and for scholarships and grants. You can start working with them as early as sophomore year in high school and as late as fall of the senior year.
 
 ## Take Advantage of 529 Accounts
 
@@ -65,3 +61,5 @@ A great way to pay for college is to save up for it ahead of time. One way that 
 ## Pay As You Go 
 
 I had a couple of jobs while I was in college. I sat at the front desk overnight in my freshman dorm, I made sandwiches in the dining hall, and I worked at the movie theater over breaks. But it never even occurred to me to use the money I earned to help pay for my tuition. I always thought I could just rely on my student loans, and I did. The money I earned throughout the years just went right in my pocket or was used on other, more fun things. But the truth is, paying towards your tuition as you go can be helpful in lowering the amount you might owe later. Alternately, if you do take out loans, you can pay towards them while you're still in school to keep the interest fees down. 
+
+*To learn more, listen to this week's Money Circle podcast with Pam Andrews!*
