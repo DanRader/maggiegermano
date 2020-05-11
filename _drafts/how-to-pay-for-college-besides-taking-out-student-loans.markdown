@@ -20,9 +20,7 @@ If you're like me, you might not have spent much time talking to your high schoo
 
 ## Talk To Your Financial Aid Officer
 
-If you already know what college you're going to, find the financial aid office and develop a relatiosnhip with them. they can tel you which grants and scholarships are available at the shool
-
-talk about dr. hurtgen
+If you already know what college you're going to, find the financial aid office and develop a relationship with someone who works there. This person can tell you which grants and scholarships are available locally and within the university itself.  You might be surprised to find out about opportunities that you wouldn't have otherwise known about. You might also want to talk to your academic advisor or other professors. One of my professors had a scholarship in his own name and he told me to apply for it when I wanted to enroll in a summer learning program at Georgetown University. The amount didn't completely cover the cost of the program, but it certainly helped me to afford it. I wouldn't have known about it if that professor hadn't told me.
 
 ## Apply For Grants
 
