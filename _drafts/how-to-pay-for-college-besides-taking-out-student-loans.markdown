@@ -58,15 +58,9 @@ talk to financial aid officer
 
 ## Apply For Scholarships
 
-You can apply for scholarships throughout your career
+One important thing to know about scholarships is that you should start early and apply often. You can apply for college scholarships as early as 13 years old and have the money released to you once you graduate. Plus, you can apply for scholarships throughout your college career. Just because you're already in school doesn't mean you can't still apply for more. Talk to your high school guidance counselor or college advisor to find out what scholarships come around each year. It's possible to find out ahead of time and take your time to prepare to answer the questions
 
-often and early
-
-as young as 13 years old - get it when you graduate
-
-you have to earn this; do something for it
-
-what are the scholarships that come around each year? find out the year before and get a copy. what questions are they asking?
+One thing to understand about scholarships is that they aren't necessarily free money. You typically have to earn the scholarships by doing something, like maintaining certain grades.
 
 **National scholarship databases:**
 
@@ -90,4 +84,4 @@ A great way to pay for college is to save up for it ahead of time. One way that 
 
 ## Pay As You Go 
 
-I had a couple of jobs while I was in college. I sat at the front desk overnight in my freshman dorm, I made sandwiches in the dining hall, and I worked at the movie theater over breaks. But it never even occurred to me to use the money I earned to help pay for my tuition. I always thought I could just rely on my student loans, and I did. The money I earned throughout the years just went right in my pocket or was used on other, more fun things. But the truth is, paying towards your tuition as you go can be helpful in lowering the amount 
+I had a couple of jobs while I was in college. I sat at the front desk overnight in my freshman dorm, I made sandwiches in the dining hall, and I worked at the movie theater over breaks. But it never even occurred to me to use the money I earned to help pay for my tuition. I always thought I could just rely on my student loans, and I did. The money I earned throughout the years just went right in my pocket or was used on other, more fun things. But the truth is, paying towards your tuition as you go can be helpful in lowering the amount you might owe later. Alternately, if you do take out loans, you can pay towards them while you're still in school to keep the interest fees down. 
