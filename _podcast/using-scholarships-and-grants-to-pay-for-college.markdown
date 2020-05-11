@@ -1,11 +1,12 @@
 ---
 title: Using Scholarships and Grants to Pay for College
 date: 2020-05-11 05:00:00 -04:00
-published: false
 lede: 'This week, Maggie sits down with college admissions consultant and founder
   of the Scholarship Shark, Pam Andrews. '
 image: "/uploads/PamAndrews.jpg"
 episode-number: 39
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/e2524557-2969-4e37-9c08-576a7c1620c9?dark=false"></iframe>
 podcast:
 - Pregnancy and Birth During the COVID-19 Crisis
 - Government Resources for Families With Special Needs Kids
@@ -16,31 +17,33 @@ If you, or your kid, wants to go to college someday, but you don't want to end u
 
 **Related Links:**
 
-* **[The Scholarship Shark](https://www.thescholarshipshark.com/)**
+* [The Scholarship Shark](https://www.thescholarshipshark.com/)
 
-* **[The Scholarship Shark Podcast](https://www.thescholarshipshark.com/category/podcast/)**
+* [The Scholarship Shark Podcast](https://www.thescholarshipshark.com/category/podcast/)
 
-* **[College Admissions Academy](https://www.thescholarshipshark.com/college-admissions-academy/)**
+* [College Admissions Academy](https://www.thescholarshipshark.com/college-admissions-academy/)
 
-* **[Scholarship Mastery](https://www.thescholarshipshark.com/sm-open/)**
+* [Scholarship Mastery](https://www.thescholarshipshark.com/sm-open/)
 
-* **[The Scholarship Shark book](https://www.amazon.com/Scholarship-Shark-faith-based-finding-scholarships/dp/1540610705)**
+* [The Scholarship Shark book](https://www.amazon.com/Scholarship-Shark-faith-based-finding-scholarships/dp/1540610705)
 
-* **[The Scholarship Shark on Instagram](https://www.instagram.com/thescholarshipshark/?hl=en)**
+* [The Scholarship Shark on Instagram](https://www.instagram.com/thescholarshipshark/?hl=en)
 
-* **[The Scholarship Shark on Facebook](https://www.facebook.com/ScholarshipShark/)**
+* [The Scholarship Shark on Facebook](https://www.facebook.com/ScholarshipShark/)
 
-* **[Fastweb.com](https://www.fastweb.com/)**
+* [Fastweb.com](https://www.fastweb.com/)
 
-* **[Unigo.com](https://www.unigo.com/)**
+* [Unigo.com](https://www.unigo.com/)
 
-* **[The College Board Scholarships](https://opportunity.collegeboard.org/?navId=www-cbos)**
+* [The College Board Scholarships](https://opportunity.collegeboard.org/?navId=www-cbos)
 
-* **[You Visit](https://www.youvisit.com/)**
+* [You Visit](https://www.youvisit.com/)
 
-* **[ACT.org](http://www.act.org/)**
+* [ACT.org](http://www.act.org/)
 
-* **[Scholarships.com](https://www.scholarships.com/)**
+* [Scholarships.com](https://www.scholarships.com/)
+
+* [State Financial Aid Programs](https://www.nasfaa.org/State_Financial_Aid_Programs)
 
 --
 
@@ -52,14 +55,14 @@ Pam is known for **helping her son win over $700,000 in scholarship money** that
 
 --
 
-To learn more about Maggie and her coaching and speaking services, visit **[www.maggiegermano.com](https://www.maggiegermano.com/)**.
+To learn more about Maggie and her coaching and speaking services, visit [www.maggiegermano.com](https://www.maggiegermano.com/).
 
 To get more involved with Money Circle:
 
-* Join the **[free Facebook group](https://www.facebook.com/groups/MoneyCircleGroup)**
+* Join the [free Facebook group](https://www.facebook.com/groups/MoneyCircleGroup)
 
-* Come to an **[in-person event](https://www.maggiegermano.com/moneycircle/)** in DC
+* Come to an [in-person event](https://www.maggiegermano.com/moneycircle/) in DC
 
-* Follow Maggie on **[Instagram](https://dashboard.simplecast.com/episodes/www.instagram.com/maggiegermano)** and **[Twitter](https://dashboard.simplecast.com/episodes/www.twitter.com/maggiegermano)**!
+* Follow Maggie on [Instagram](https://dashboard.simplecast.com/episodes/www.instagram.com/maggiegermano) and [Twitter](https://dashboard.simplecast.com/episodes/www.twitter.com/maggiegermano)!
 
-The theme music is called Escaping Light by **[Aaron Sprinkle](http://aaronsprinklemusic.com/)**. The podcast artwork design is by Maggie’s dear husband, **[Dan Rader](https://danrdesign.com/)**.
+The theme music is called Escaping Light by [Aaron Sprinkle](http://aaronsprinklemusic.com/). The podcast artwork design is by Maggie’s dear husband, [Dan Rader](https://danrdesign.com/).
