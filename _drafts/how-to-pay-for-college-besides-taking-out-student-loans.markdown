@@ -56,7 +56,7 @@ One thing to understand about scholarships is that they aren't necessarily free 
 
 ## Hire A College Admissions Consultant
 
-In the United States, we have this idea that we have to do everything on our own. Every man for himself. But it doesn't have to be that way! There are people out there who can help you and guide you so that you or your child can get into the college you love AND get grants and scholarships that help you to afford it. That person might look like a college admissions consultant, like Pam Andrews of [The Scholarship Shark](https://www.thescholarshipshark.com/). 
+In the United States, we have this idea that we have to do everything on our own. Every man for himself. But it doesn't have to be that way! There are people out there who can help you and guide you so that you or your child can get into the college you love AND get grants and scholarships that help you to afford it. That person might look like a college admissions consultant, like Pam Andrews of [The Scholarship Shark](https://www.thescholarshipshark.com/). This consultant will work directly with the student and their family to help apply to colleges and for scholarships and grants. You can start working with them as early as sophomore year in high school and as late as fall of the senior year.
 
 ## Take Advantage of 529 Accounts
 
