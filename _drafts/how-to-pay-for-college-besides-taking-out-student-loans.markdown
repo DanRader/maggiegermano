@@ -61,3 +61,5 @@ A great way to pay for college is to save up for it ahead of time. One way that 
 ## Pay As You Go 
 
 I had a couple of jobs while I was in college. I sat at the front desk overnight in my freshman dorm, I made sandwiches in the dining hall, and I worked at the movie theater over breaks. But it never even occurred to me to use the money I earned to help pay for my tuition. I always thought I could just rely on my student loans, and I did. The money I earned throughout the years just went right in my pocket or was used on other, more fun things. But the truth is, paying towards your tuition as you go can be helpful in lowering the amount you might owe later. Alternately, if you do take out loans, you can pay towards them while you're still in school to keep the interest fees down. 
+
+*To learn more, listen to this week's Money Circle podcast with Pam Andrews!*
