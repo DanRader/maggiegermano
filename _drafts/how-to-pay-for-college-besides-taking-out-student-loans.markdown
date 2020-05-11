@@ -1,6 +1,9 @@
 ---
 title: How To Pay For College Besides Taking Out Student Loans
 date: 2020-05-11 11:00:00 -04:00
+categories:
+- career
+- debt
 image: "/uploads/vasily-koloda-8CqDvPuo_kI-unsplash.jpg"
 posts:
 - Why You May Want to Plan Ahead for Your Child’s College Tuition
