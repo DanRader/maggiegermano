@@ -16,6 +16,8 @@ This week, on the Money Circle podcast, I interviewed Pam Andrews, college admis
 
 You won't know where to look if you don't ask
 
+In the United States, there are 45 million borrowers who collectively owe nearly $1.6 trillion in student loan debt. It's a crisis and it is harming people and affecting what they can and cannot do with their lives. Of course, the ultimate solution is is to control the cost of higher education or 
+
 ## Talk To The Guidance Counselor
 
 don't just make your course schedule or deal with a problem
