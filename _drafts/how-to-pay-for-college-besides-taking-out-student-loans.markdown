@@ -12,9 +12,7 @@ posts:
 - Financial Resources For Families With Kids Who Have Special Needs
 ---
 
-This week, on the Money Circle podcast, I interviewed Pam Andrews, college admissions consultant and the founder of [The Scholarship Shark](https://www.thescholarshipshark.com/). I met Pam at [FinCon](https://finconexpo.com/) last year and was thrilled to learn about the work that she does. Anyone who is out there helping people get into college and find ways to afford it is doing important work! After chatting with her, I wanted to consolidate and share
-
-You won't know where to look if you don't ask
+This week, on the Money Circle podcast, I interviewed Pam Andrews, college admissions consultant and the founder of [The Scholarship Shark](https://www.thescholarshipshark.com/). I met Pam at [FinCon](https://finconexpo.com/) last year and was thrilled to learn about the work that she does. Anyone who is out there helping people get into college and find ways to afford it is doing important work! After chatting with her, I wanted to consolidate and share some helpful resources. 
 
 In the United States, there are 45 million borrowers who collectively owe nearly $1.6 trillion in student loan debt. It's a crisis and it is harming people and affecting what they can and cannot do with their lives. Of course, the ultimate solution is is to control the cost of higher education or 
 
