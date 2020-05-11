@@ -1,7 +1,6 @@
 ---
 title: How To Pay For College Besides Taking Out Student Loans
 date: 2020-05-11 11:00:00 -04:00
-published: false
 categories:
 - career
 - debt
