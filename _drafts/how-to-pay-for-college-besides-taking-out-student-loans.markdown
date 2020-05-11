@@ -86,10 +86,8 @@ In the United States, we have this idea that we have to do everything on our own
 
 ## Take Advantage of 529 Accounts
 
-A great way to 
-
-A 529 plan, also known as a qualified tuition plan, is a tax-advantaged savings account designed to encourage saving for future education costs. Contributions to a 529 are tax deductible 
+A great way to pay for college is to save up for it ahead of time. One way that parents or other family members can do that is to take advantage of 529 accounts. A 529 plan, also known as a qualified tuition plan, is a tax-advantaged savings account designed to encourage saving for future education costs. Contributions, which can be made by anyone, to a 529 are tax deductible and will not be taxed when withdrawn to pay for education costs. All fifty states and the District of Columbia sponsor 529 accounts, so you will be able to open one in your state. However, you don't have to open an account in your own state - you can open one in any state. Plus, if your child decides not to go to college, the account can be transferred to another person who might use it instead.
 
 ## Pay As You Go 
 
-It never even occurred to me to use the money I earned during college and over the summer to help pay for my tuition. I always thought I could just rely on my student loans, and I did.
+I had a couple of jobs while I was in college. I sat at the front desk overnight in my freshman dorm, I made sandwiches in the dining hall, and I worked at the movie theater over breaks. But it never even occurred to me to use the money I earned to help pay for my tuition. I always thought I could just rely on my student loans, and I did. The money I earned throughout the years just went right in my pocket or was used on other, more fun things. But the truth is, paying towards your tuition as you go can be helpful in lowering the amount 
