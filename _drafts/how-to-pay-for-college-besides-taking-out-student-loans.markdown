@@ -20,9 +20,7 @@ In the United States, there are 45 million borrowers who collectively owe nearly
 
 ## Talk To The Guidance Counselor
 
-don't just make your course schedule or deal with a problem
-
-counselor has access to local scholarships
+If you're like me, you might not have spent much time talking to your high school guidance counselor. But the truth is, you don't have to only talk to them just to make your course schedule or deal with a problem at school. Guidance counselors are often the ones who have access to local scholarships and grants. If you're still in school (or if your kids are), ask your guidance counselor where they keep records about local scholarships. Are they maintained online or on a bulletin board at school? 
 
 where do you keep the scholarships? 
 
