@@ -5,7 +5,7 @@ categories:
 - career
 - debt
 image: "/uploads/vasily-koloda-8CqDvPuo_kI-unsplash.jpg"
-tweet: 'Student loans are not the only option for paying for college. '
+tweet: Student loans are t
 posts:
 - Why You May Want to Plan Ahead for Your Child’s College Tuition
 - The Cost of Raising Kids and How that Affects Women
@@ -40,17 +40,17 @@ talk to financial aid officer
 
 One important thing to know about scholarships is that you should start early and apply often. You can apply for college scholarships as early as 13 years old and have the money released to you once you graduate. Plus, you can apply for scholarships throughout your college career. Just because you're already in school doesn't mean you can't still apply for more. Talk to your high school guidance counselor or college advisor to find out what scholarships come around each year. It's possible to find out ahead of time and take your time to prepare to answer the questions
 
-One thing to understand about scholarships is that they aren't necessarily free money. You typically have to earn the scholarships by doing something, like maintaining certain grades.
+One thing to understand about scholarships is that they aren't necessarily free money. You typically have to earn the scholarships by doing something, like maintaining certain grades. That's just something to keep in mind!
 
 **National scholarship databases:**
 
-* fastweb.com 
+* [fastweb.com ](https://www.fastweb.com/)
 
-* scholarships.com
+* [scholarships.com](https://www.scholarships.com/)
 
-* unigo.com
+* [unigo.com](https://www.unigo.com/)
 
-* collegeboard.com
+* [collegeboard.com](https://opportunity.collegeboard.org/?navId=www-cbos)
 
 **Note: **once you make an account with these databases, you will get marketed to by colleges.
 
