@@ -86,7 +86,9 @@ In the United States, we have this idea that we have to do everything on our own
 
 ## Take Advantage of 529 Accounts
 
-xx
+A great way to 
+
+A 529 plan, also known as a qualified tuition plan, is a tax-advantaged savings account designed to encourage saving for future education costs. Contributions to a 529 are tax deductible 
 
 ## Pay As You Go 
 
