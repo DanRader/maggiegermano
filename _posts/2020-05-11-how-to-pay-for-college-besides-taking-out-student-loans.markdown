@@ -1,6 +1,7 @@
 ---
 title: How To Pay For College Besides Taking Out Student Loans
 date: 2020-05-11 11:00:00 -04:00
+published: false
 categories:
 - career
 - debt
@@ -12,7 +13,7 @@ posts:
 - Financial Resources For Families With Kids Who Have Special Needs
 ---
 
-This week, on the Money Circle podcast, I interviewed Pam Andrews, college admissions consultant and the founder of [The Scholarship Shark](https://www.thescholarshipshark.com/). I met Pam at [FinCon](https://finconexpo.com/) last year and was thrilled to learn about the work that she does. Anyone who is out there helping people get into college and find ways to afford it is doing important work! In the United States, there are 45 million borrowers who collectively owe nearly $1.6 trillion in student loan debt. It's a crisis and it is harming people and affecting what they can and cannot do with their lives. Of course, the ultimate solution is is to control the cost of higher education or make it free for all. But until we get there, we have to take advantage of other resources and strategies. Here are just a few:
+This week, on the [Money Circle podcast](www.maggiegermano.com/podcast/using-scholarships-and-grants-to-pay-for-college/), I interviewed Pam Andrews, college admissions consultant and the founder of [The Scholarship Shark](https://www.thescholarshipshark.com/). I met Pam at [FinCon](https://finconexpo.com/) last year and was thrilled to learn about the work that she does. Anyone who is out there helping people get into college and find ways to afford it is doing important work! In the United States, there are 45 million borrowers who collectively owe nearly $1.6 trillion in student loan debt. It's a crisis and it is harming people and affecting what they can and cannot do with their lives. Of course, the ultimate solution is is to control the cost of higher education or make it free for all. But until we get there, we have to take advantage of other resources and strategies. Here are just a few:
 
 ## Talk To The Guidance Counselor
 
@@ -24,11 +25,11 @@ If you already know what college you're going to, find the financial aid office 
 
 ## Apply For Grants
 
-Grants are free money that you get if you qualify or are chosen through an application process. Contrary to scholarships, you don't have to do anything to keep the money, like maintain certain grades. Once you get the money, it's yours as a gift. To find out about specific grant opportunities, talk to your guidance counselor or financial aid officer. 
+Grants are free money that you get if you qualify or are chosen through an application process. Contrary to scholarships, you don't have to do anything to keep the money, like maintain certain grades. Once you get the money, it's yours as a gift. To find out about specific grant opportunities, talk to your guidance counselor or financial aid officer.
 
 pell grant
 
-state grants: 
+state grants:
 
 talk to financial aid officer
 
@@ -48,7 +49,7 @@ One thing to understand about scholarships is that they aren't necessarily free 
 
 * [collegeboard.com](https://opportunity.collegeboard.org/?navId=www-cbos)
 
-**Note: **once you make an account with these databases, you will get marketed to by colleges.
+\*\*Note: \*\*once you make an account with these databases, you will get marketed to by colleges.
 
 ## Hire A College Admissions Consultant
 
@@ -58,8 +59,8 @@ In the United States, we have this idea that we have to do everything on our own
 
 A great way to pay for college is to save up for it ahead of time. One way that parents or other family members can do that is to take advantage of 529 accounts. A 529 plan, also known as a qualified tuition plan, is a tax-advantaged savings account designed to encourage saving for future education costs. Contributions, which can be made by anyone, to a 529 are tax deductible and will not be taxed when withdrawn to pay for education costs. All fifty states and the District of Columbia sponsor 529 accounts, so you will be able to open one in your state. However, you don't have to open an account in your own state - you can open one in any state. Plus, if your child decides not to go to college, the account can be transferred to another person who might use it instead.
 
-## Pay As You Go 
+## Pay As You Go
 
-I had a couple of jobs while I was in college. I sat at the front desk overnight in my freshman dorm, I made sandwiches in the dining hall, and I worked at the movie theater over breaks. But it never even occurred to me to use the money I earned to help pay for my tuition. I always thought I could just rely on my student loans, and I did. The money I earned throughout the years just went right in my pocket or was used on other, more fun things. But the truth is, paying towards your tuition as you go can be helpful in lowering the amount you might owe later. Alternately, if you do take out loans, you can pay towards them while you're still in school to keep the interest fees down. 
+I had a couple of jobs while I was in college. I sat at the front desk overnight in my freshman dorm, I made sandwiches in the dining hall, and I worked at the movie theater over breaks. But it never even occurred to me to use the money I earned to help pay for my tuition. I always thought I could just rely on my student loans, and I did. The money I earned throughout the years just went right in my pocket or was used on other, more fun things. But the truth is, paying towards your tuition as you go can be helpful in lowering the amount you might owe later. Alternately, if you do take out loans, you can pay towards them while you're still in school to keep the interest fees down.
 
-*To learn more, listen to this week's Money Circle podcast with Pam Andrews!*
+*To learn more, listen to this week's [Money Circle podcast](www.maggiegermano.com/podcast/using-scholarships-and-grants-to-pay-for-college/) with Pam Andrews!*
