@@ -2,8 +2,14 @@
 title: Using Scholarships and Grants to Pay for College
 date: 2020-05-11 05:00:00 -04:00
 published: false
+lede: 'This week, Maggie sits down with college admissions consultant and founder
+  of the Scholarship Shark, Pam Andrews. '
 image: "/uploads/PamAndrews.jpg"
 episode-number: 39
+podcast:
+- Pregnancy and Birth During the COVID-19 Crisis
+- Government Resources for Families With Special Needs Kids
+- How to Emerge From Quarantine With Your Finances Intact
 ---
 
 If you, or your kid, wants to go to college someday, but you don't want to end up in a pile of debt, there are other options. Maggie chatted with Pam Andrews of The Scholarship Shark about the resources you should consider.
