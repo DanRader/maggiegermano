@@ -5,6 +5,7 @@ categories:
 - career
 - debt
 image: "/uploads/vasily-koloda-8CqDvPuo_kI-unsplash.jpg"
+tweet: 'Student loans are not the only option for paying for college. '
 posts:
 - Why You May Want to Plan Ahead for Your Child’s College Tuition
 - The Cost of Raising Kids and How that Affects Women
@@ -85,6 +86,6 @@ xx
 
 xx
 
-Apply 
+## Pay As You Go 
 
 It never even occurred to me to use the money I earned during college and over the summer to help pay for my tuition. I always thought I could just rely on my student loans, and I did.
