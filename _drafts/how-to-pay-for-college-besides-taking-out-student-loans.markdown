@@ -82,7 +82,7 @@ what are the scholarships that come around each year? find out the year before a
 
 ## Hire A College Admissions Consultant
 
-xx
+In the United States, we have this idea that we have to do everything on our own. Every man for himself. But it doesn't have to be that way! There are people out there who can help you and guide you so that you or your child can get into the college you love AND get grants and scholarships that help you to afford it. That person might look like a college admissions consultant, like Pam Andrews of [The Scholarship Shark](https://www.thescholarshipshark.com/). 
 
 ## Take Advantage of 529 Accounts
 
