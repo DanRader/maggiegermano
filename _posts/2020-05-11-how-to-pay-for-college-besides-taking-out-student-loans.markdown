@@ -48,7 +48,7 @@ One thing to understand about scholarships is that they aren't necessarily free 
 
 * [collegeboard.com](https://opportunity.collegeboard.org/?navId=www-cbos)
 
-\*\*Note: \*\*once you make an account with these databases, you will get marketed to by colleges.
+**Note:** once you make an account with these databases, you will get marketed to by colleges.
 
 ## Hire A College Admissions Consultant
 
