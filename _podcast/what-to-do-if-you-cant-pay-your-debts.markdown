@@ -58,3 +58,9 @@ To get more involved with Money Circle:
 * Follow Maggie on [Instagram](https://dashboard.simplecast.com/episodes/www.instagram.com/maggiegermano) and [Twitter](https://dashboard.simplecast.com/episodes/www.twitter.com/maggiegermano)!
 
 The theme music is called Escaping Light by [Aaron Sprinkle](http://aaronsprinklemusic.com/). The podcast artwork design is by Maggie’s dear husband, [Dan Rader](https://danrdesign.com/).
+
+---
+
+## TRANSCRIPTION
+
+x
