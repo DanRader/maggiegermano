@@ -4,7 +4,7 @@ date: 2020-05-25 05:00:00 -04:00
 lede: This week, Maggie sat down with financial advisor Deri Freeman to talk about
   when a financial advisor might be right for you, and how to choose one that you
   trust.
-image: "/uploads/download.jpeg"
+image: "/uploads/Derilyn%20Freeman%20Small--2.jpg"
 episode-number: 41
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/310b6b6b-139b-40da-9695-29ef0e4ad915?dark=false"></iframe>
