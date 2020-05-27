@@ -55,7 +55,7 @@ Yes, the 2016 presidential election was important, but the 2018 mid-term electio
 
 Don't know where to start? Check out organizations like [EMILY's List ](http://www.emilyslist.org/)and [Run for Something.](https://www.runforsomething.net/) Do research around candidates in your own area. You can donate or volunteer at their local campaign office.
 
-**Update: **Thanks to Jessica Raven from [CASS](http://www.collectiveactiondc.org/) for recommending donating to the organizers on the ground, so they can keep doing their work. Donate to [Treyoncé](https://www.youcaring.com/treyonce-864287/update/704473) and [Em](https://www.youcaring.com/emmeliatalarico-877306).
+**Update:** Thanks to Jessica Raven from [CASS](http://www.collectiveactiondc.org/) for recommending donating to the organizers on the ground, so they can keep doing their work. Donate to [Treyoncé](https://www.youcaring.com/treyonce-864287/update/704473) and [Em](https://www.youcaring.com/emmeliatalarico-877306).
 
 Of course, there are many things we can do that do not involve opening our wallets. If you want to take things a step further, or if you can't afford to donate your money, there are other things you can do.
 
