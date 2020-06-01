@@ -1,5 +1,5 @@
 ---
-title: Public Speaking & Workshops
+title: Speaking & Workshops
 date: 2018-03-26 15:14:00 -04:00
 is-menu: true
 quote-1:
@@ -99,4 +99,4 @@ form-text: |-
 layout: speaking
 ---
 
-Maggie Germano is a feminist and financial coach for women. She helps women improve their relationship with money so they can get and stay out of debt, save up for important goals, and feel more secure and confident about their finances. Through her speaking engagements and workshops, Maggie aims to reach even more women from all backgrounds to provide them with the financial literacy they need to get their money right. Want Maggie to come speak at your organization, university, or conference?
+Maggie Germano is a feminist and financial coach for women. She helps women improve their relationship with money so they can get and stay out of debt, save up for important goals, and feel more secure and confident about their finances. Through her speaking engagements, workshops, and podcast interviews, Maggie aims to reach even more women from all backgrounds to provide them with the financial literacy they need to get their money right. Want Maggie to come speak at your organization, university, or conference?
