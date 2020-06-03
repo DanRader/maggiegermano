@@ -102,7 +102,7 @@ To my white readers and friends, we need to do better. It’s normal to feel unc
 
 * [5 Racist Anti-Racism Responses “Good” White Women Give to Viral Posts](https://maggiegermano.us13.list-manage.com/track/click?u=7b0d49f10f1aef89a45167c3b&id=54a82e3b21&e=ca1ae675af)
 
-**PS: **I'm taking a break on the Money Circle podcast this week, because I want to specifically elevate the issues that affect the Black community in the United States. If you are or know of someone who would want to be interviewed about the issues listed below, send me a note at [boss@maggiegermano.com](mailto:boss@maggiegermano.com)!
+**PS:** I'm taking a break on the Money Circle podcast this week, because I want to specifically elevate the issues that affect the Black community in the United States. If you are or know of someone who would want to be interviewed about the issues listed below, send me a note at [boss@maggiegermano.com](mailto:boss@maggiegermano.com)!
 
 * How white people and other non-Black people can be better allies to actually be anti-racist and fight against white supremacy and police violence
 
