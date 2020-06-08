@@ -1,14 +1,18 @@
 ---
 title: How You Can Do Better And Fight Racism
 date: 2020-06-08 09:00:00 -04:00
-published: false
 lede: This week, Maggie breaks down how allies can step up and fight racism and police
   brutality now and moving forward.
 image: "/uploads/DSC_4840.jpg"
 episode-number: 42
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/033308dc-5ea5-48b8-b6bb-93af3ae1028d?dark=false"></iframe>
+podcast:
+- How to Use Your Money During Uncertain Times
+- How You Can Help to Build a More Equal Future
 ---
 
-**Educate Yourself**
+## **Educate Yourself**
 
 * [How to Be an Antiracist by Ibram X. Kendi](https://maggiegermano.us13.list-manage.com/track/click?u=7b0d49f10f1aef89a45167c3b&id=9038fb3abd&e=ca1ae675af) (consider buying this book from your local bookstore instead of Amazon)
 
@@ -32,7 +36,9 @@ episode-number: 42
 
 * [5 Racist Anti-Racism Responses “Good” White Women Give to Viral Posts](https://maggiegermano.us13.list-manage.com/track/click?u=7b0d49f10f1aef89a45167c3b&id=54a82e3b21&e=ca1ae675af)
 
-**Support Those Doing The Work**
+* [What does it mean to defund the police?](https://www.cnn.com/2020/06/06/us/what-is-defund-police-trnd/index.html)
+
+## **Support Those Doing The Work**
 
 * [Black Lives Matter](https://maggiegermano.us13.list-manage.com/track/click?u=7b0d49f10f1aef89a45167c3b&id=7c6f46a7c7&e=ca1ae675af)
 
@@ -66,7 +72,7 @@ episode-number: 42
 
 * [The NAACP Legal Defense Fund](https://maggiegermano.us13.list-manage.com/track/click?u=7b0d49f10f1aef89a45167c3b&id=6f1413e00a&e=ca1ae675af)
 
-**Elevate The Voices of Activists**
+## **Elevate The Voices of Activists**
 
 * [Rachel Cargle](https://maggiegermano.us13.list-manage.com/track/click?u=7b0d49f10f1aef89a45167c3b&id=cbd7643342&e=ca1ae675af)
 
@@ -78,19 +84,19 @@ episode-number: 42
 
 * [Sonya Renee Taylor](https://maggiegermano.us13.list-manage.com/track/click?u=7b0d49f10f1aef89a45167c3b&id=67973695a3&e=ca1ae675af)
 
-**Call Your Elected Officials**
+## **Call Your Elected Officials**
 
 If you think your local government hasn’t been doing enough to prevent and punish police brutality, let them know. Call your councilperson, your mayor, your county executive, your state legislator, your Congressperson. Let them know that you see what is happening and you are not okay with it. Let them know that the people in their community want things to change now.
 
-**Don't Call The Cops On Your Neighbors of Color**
+## **Don't Call The Cops On Your Neighbors of Color**
 
 As we’ve seen, time and again, the police aren’t always here to protect citizens of color. Remember that when you think about calling the police. Consider being an active bystander to interrupt tense situations, but do keep your own safety in mind. To learn more about being an active bystander, check out [Collective Action for Safe Spaces](https://maggiegermano.us13.list-manage.com/track/click?u=7b0d49f10f1aef89a45167c3b&id=ab4209e774&e=ca1ae675af).
 
-**Get On The Front Lines At Protests**
+## **Get On The Front Lines At Protests**
 
 Of course, we are still in the middle of a global pandemic, so if you are immunocompromised or you feel otherwise unsafe being in large groups of people right now, that’s okay. But if you feel comfortable joining in, go! Put yourself between black folks and the police. Show your black neighbors that you mean what you say when you say that black lives matter.
 
-**Spend Your Money At Black-Owned Businesses**
+## **Spend Your Money At Black-Owned Businesses**
 
 Financial empowerment is huge when it comes to uplifting communities. That’s why it’s so important to invest in Black-owned businesses in your area. A great place to start is this [central database](https://maggiegermano.us13.list-manage.com/track/click?u=7b0d49f10f1aef89a45167c3b&id=80fc29c701&e=ca1ae675af) for Black-owned businesses. Some other great resources are:
 
@@ -100,7 +106,7 @@ Financial empowerment is huge when it comes to uplifting communities. That’s w
 
 * [Official Black Wall Street](https://maggiegermano.us13.list-manage.com/track/click?u=7b0d49f10f1aef89a45167c3b&id=5025ec4ae8&e=ca1ae675af)
 
-I want to interview experts on these topics:
+**PS:** I want to interview experts on these topics:
 
 * How white people and other non-Black people can be better allies to actually be anti-racist and fight against white supremacy and police violence
 
