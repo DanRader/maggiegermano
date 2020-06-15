@@ -74,6 +74,4 @@ You need your emergency savings to be accessible when an issue arises. You don't
 
 If you don't have any savings built up yet, don't feel discouraged! Everyone has to start somewhere. And as Elizabeth Gilbert [said](http://www.elizabethgilbert.com/magic-lessons/), "it doesn't get done until you begin doing it". Even if you can only save $10 a paycheck, that's better than nothing. It will grow faster than you think. The more money you earn, or the less debt you have, the more you can save.
 
-*Looking for an online savings account? Check out the [NerdWallet](http://www.nerdwallet.com) widget below!*
-
-<script src="https://embeds.nerdwallet.com/embed.js" data-widget="savings-accounts" data-utm_campaign="bk_prod_savings-accounts"></script>
+If you want to supplement your emergency fund, there are other options out there. Colin Nabity, CEO of Breeze, believes it is important to supplement your emergency fund with [disability insurance](https://www.meetbreeze.com/offer/1068). If a serious injury or illness prevents you from working, your individual disability insurance policy will replace a percentage of your lost income while you recover. Between your emergency fund and your disability insurance benefits, you should be able to meet your financial obligations like you normally would while you get back on your feet.
