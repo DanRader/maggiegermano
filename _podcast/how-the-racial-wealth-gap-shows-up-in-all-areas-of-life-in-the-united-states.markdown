@@ -39,13 +39,13 @@ Follow Kassandra on [Twitter](https://twitter.com/KassandraDasent) and [Instagra
 
 --
 
-**Sandy Smith:**
+Sandy Smith has been a personal finance blogger since January 1, 2009 when she resolved to get out of debt, or die trying. No, no, that was 50 Cent. At age 29 she was frankly tired of paying living paycheck-to-paycheck and feeling as if she would never get ahead financially. The *Cheapass Blog, *as it was then known, was born out of sheer frustration with the hope of paying down a $120,000 debt much faster than the average debtor without filing for bankruptcy.
 
-I am a personal finance influencer focused on improving the lives of the underprivileged. In 2009 I founded the award nominated blog, [Yes I Am Cheap](https://yesiamcheap.com/) which helps people save money, get out of debt and improve their income so that they can live their best financial lives.
+From years of writing on the Yes, I Am Cheap blog, Sandy has tested numerous common techniques for getting out of debt including: debt consolidation, debt management plans, debt negotiation, working from home, the snowball technique, the envelope system, no spend challenges, extreme couponing and just about every other personal finance trick in the book. She likes to refer to herself as the “guinea pig” of debt reduction techniques.
 
-In 2013, recognizing that people of color had not benefited from the recovery of the great recession, I reached out to my friends in finance to help me raise awareness about the plight of people of color. We created [Colorful Money Magazine](http://colorful.money/) and formed the Elevate Mastermind which helps financial influencers of color better reach the audience that we serve. The mastermind has over 45 members including Tiffany Aliche, Jason Vitug and Patrice Cunningham Washington – all of whom serve on the steering committee the Elevate Influencer conference, the first of which was held in 2019.
+On January 1, 2013, Sandy resolved to see just how much she could reduce her debt in a two year period. By December 31, 2014, Sandy successfully reduced her debt by over $50,000 – all during a volatile period of employment for her. During those two years, she was unemployed for six months before working as a temp for ten months before converting to a full-time employee. This achievement led Yahoo! Finance to name Sandy’s story the #3 most inspiring personal finance stories of 2014. Now a Certified Financial Education instructor, Sandy is dedicated to helping others put together their own formula for financial freedom.
 
-Since I clearly was not busy, I formed the Hustle Crew in 2015 which helps my audience identify ways to make extra money that they can dedicate towards debt servicing or just living a more financially fulfilled life. There are nearly 10,000 members of that group which is more than 90% female.
+Sandy is also a Senior Certified HR Professional; holds a Bachelor of Science in Biology from St. John’s University and M.B.A. from Devry University’s Keller Graduate School.
 
 ---
 
