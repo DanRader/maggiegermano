@@ -4,11 +4,13 @@ date: 2020-06-15 12:00:00 -04:00
 lede: This week, Maggie sits down with financial experts Kassandra Dasent and Sandy
   Smith to talk about the racial wealth gap and how it affects every facet of life
   for folks of color in the United States and beyond.
-image: "/uploads/Untitled%20design.png"
+image: "/uploads/kassandrasandy.png"
 episode-number: 43
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/f14a8dc4-5fb8-48c0-9a31-1cf6d111a513?dark=false"></iframe>
 podcast:
 - How You Can Do Better And Fight Racism
-- Maximizing Your Liquid Savings
+- How You Can Help to Build a More Equal Future
 ---
 
 This week, Maggie talks with financial experts Kassandra Dasent and Sandy Smith, about the racial wealth gap in the United States, and how it shows up in every area of life for Black folks and other people of color. In this episode, they touch on issues such as redlining, COVID-19, healthcare disparities, and more. If you want to learn more about the racial disparities when it comes to financial wellness and opportunity in the United States, as well as how we can start changing the system, this episode for you.
