@@ -78,7 +78,7 @@ option-2-text: |-
 
   * Money landscape analysis to identify your starting point
 
-  * **Two** 60-minute Zoom sessions per month for **four** months
+  * **Two** 50-minute Zoom sessions per month for **four** months
 
   * Personalized recap and action guide after each session to provide a clear way forward
 
