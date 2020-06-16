@@ -19,4 +19,4 @@ You feel ashamed of your financial circumstances and you feel alone in your mone
 
 * $100 off a one-time financial coaching session with Maggie Germano (a $500 value for $400!)
 
-**Investment: **$49 per month (you can cancel anytime)
+**Investment:** $49 per month (you can cancel anytime)
