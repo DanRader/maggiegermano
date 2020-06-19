@@ -77,4 +77,10 @@ This is an important episode all about the history of cash bail, why it's unjust
 
 --
 
-Katherine Hubbard is a Senior Attorney at Civil Rights Corps, a Washington, DC-based nonprofit dedicated to challenging systemic injustice in the American legal system. She is a founding member of the CRC staff. Her work focuses on litigation challenging the criminalization of poverty, particularly debtor’s prisons and wealth-based pretrial detention. Katherine coordinates CRC’s bail reform efforts in several states across the country including California, where her work in collaboration with the San Francisco Public Defender resulted in the landmark *Humphrey *decision, which struck down the pervasive practice in California’s courts of setting money bail pursuant to a schedule without consideration of an individual’s ability to pay. Katherine has also successfully litigated several cases against Washington, D.C.’s Metropolitan Police Department for executing illegal search warrants, resulting in damage awards totaling hundreds of thousands of dollars for her clients.
+Katherine Hubbard is a Senior Attorney at Civil Rights Corps, a Washington, DC-based nonprofit dedicated to challenging systemic injustice in the American legal system. She is a founding member of the CRC staff. Her work focuses on litigation challenging the criminalization of poverty, particularly debtor’s prisons and wealth-based pretrial detention. Katherine coordinates CRC’s bail reform efforts in several states across the country including California, where her work in collaboration with the San Francisco Public Defender resulted in the landmark \*Humphrey \*decision, which struck down the pervasive practice in California’s courts of setting money bail pursuant to a schedule without consideration of an individual’s ability to pay. Katherine has also successfully litigated several cases against Washington, D.C.’s Metropolitan Police Department for executing illegal search warrants, resulting in damage awards totaling hundreds of thousands of dollars for her clients.
+
+---
+
+## TRANSCRIPTION
+
+x
