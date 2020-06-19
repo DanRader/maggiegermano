@@ -6,6 +6,8 @@ lede: This week, Maggie sits down with Civil Rights Corps attorney, Katherine Hu
   to talk about why cash bail is unjust and why we should fight to eliminate it.
 image: "/uploads/Hubbard%20headshot.jpg"
 episode-number: 44
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/698219b9-7794-4d31-85e1-4ae645e217ba?dark=false"></iframe>
 podcast:
 - How The Racial Wealth Gap Shows Up In All Areas of Life In The United States
 - How You Can Do Better And Fight Racism
