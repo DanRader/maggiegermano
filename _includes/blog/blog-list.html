@@ -2,7 +2,7 @@
     <button type="button" data-filter="all">All</button>
     {% assign sortedCats = site.categories | sort:"title" %}
     {% for site-cat in sortedCats %}
-        {%- assign down-cat = site-cat.title | remove: ' ' | downcase -%}
+        {% assign down-cat = site-cat.title | remove: ' ' | downcase %}
         {% assign color = site-cat.color %}
         <button class="control" type="button" data-filter=".{{down-cat}}" href="#{{ site-cat.title }}" data-order="1">
             <div class="box-2" style="background-color: {{ color }}"></div>
