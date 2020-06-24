@@ -5,12 +5,11 @@
 }
 
 .hero-height {
-  height: 90vh;
+  height: 64vh;
   min-height: 600px;
   z-index: 2;
   position: relative;
   @media #{$media-max-tablet}{
-    height: 70vh;
     padding: 0 8%;
     min-height: inherit;
   }
@@ -28,7 +27,6 @@
 }
 
 .moneycircle-copy {
-  padding-top: 5%;
   padding-bottom: 8%;
   overflow: hidden;
 }
@@ -42,7 +40,6 @@
   display: block;
   max-width: 100%;
   margin: auto;
-  margin-bottom: 3%;
   margin-top: -87px;
   @media #{$media-max-tablet}{
     margin-bottom: -10px;
