@@ -17,6 +17,8 @@ You feel ashamed of your financial circumstances and you feel alone in your mone
 
 * Monthly group coaching sessions where you and other members come together to discuss important financial matters and get coached on your specific issues (if you wish to be!)
 
+* Access to helpful tools and resources, like worksheets and webinar recordings
+
 * Discounts off of one-on-one financial coaching sessions with Maggie Germano
 
 **Investment:** $49 per month
