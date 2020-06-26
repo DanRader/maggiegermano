@@ -21,4 +21,6 @@ You feel ashamed of your financial circumstances and you feel alone in your mone
 
 * Discounts on one-on-one financial coaching sessions with Maggie Germano
 
+* Free attendance to quarterly virtual Money Circle meetups
+
 **Investment:** $49 per month
