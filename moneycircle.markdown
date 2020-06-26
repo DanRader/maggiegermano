@@ -19,6 +19,6 @@ You feel ashamed of your financial circumstances and you feel alone in your mone
 
 * Access to helpful tools and resources, like worksheets and webinar recordings
 
-* Discounts off of one-on-one financial coaching sessions with Maggie Germano
+* Discounts on one-on-one financial coaching sessions with Maggie Germano
 
 **Investment:** $49 per month
