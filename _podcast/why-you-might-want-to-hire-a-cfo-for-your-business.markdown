@@ -1,12 +1,13 @@
 ---
 title: Why You Might Want To Hire A CFO For Your Business
 date: 2020-06-29 16:07:00 -04:00
-published: false
 lede: 'This week, Maggie sits down with Carla Titus, the founder and CEO of Wealth,
   Worth, Within, to talk about why small business owners might want to hire an on-demand
   CFO. '
 image: "/uploads/carla-15.JPEG"
 episode-number: 45
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/f6cd31b7-6354-40cf-b087-fd48f938bc8d?dark=false"></iframe>
 podcast:
 - How And When To Find A Financial Advisor
 - How Women Can Step Into Their Financial Power
