@@ -7,7 +7,7 @@ og-image: "/uploads/featured-moneycircle.gif"
 layout: moneycircle
 ---
 
-## Find Your Circle
+## Ever wonder where it's safe to talk about money?
 
 You feel ashamed of your financial circumstances and you feel alone in your money struggles. You don’t know where to turn for money advice and resources and you don’t feel comfortable talking about it to family and friends. You’re looking for a community where you can find nonjudgmental support that helps you find the motivation to change your financial situation for the better. The Money Circle community allows you to talk to people who have been in your shoes, but who don’t have a personal stake in your financial decisions. There’s so much shame surrounding money already, especially for women. In this safe, intersectional feminist space, we will break down that shame and build community and safety for everyone, so that you can find the support you need to gain control over your finances.
 
@@ -20,5 +20,7 @@ You feel ashamed of your financial circumstances and you feel alone in your mone
 * Access to helpful tools and resources, like worksheets and webinar recordings
 
 * Discounts on one-on-one financial coaching sessions with Maggie Germano
+
+* Free attendance to quarterly virtual Money Circle meetups
 
 **Investment:** $49 per month
