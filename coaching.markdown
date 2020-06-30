@@ -60,7 +60,7 @@ coaching-3:
   p3-text: As you pay down debt and reach other goals, you'll become more confident
     in your ability to make financial decisions.
 option-1-text: |-
-  ### Budget Deep-Dive Session
+  ### **Financial Coaching Deep Dive**
 
   Perfect for someone just looking to get pointed in the right direction or looking for answers to specific questions.
 
@@ -72,7 +72,7 @@ option-1-text: |-
 
   * Two weeks of unlimited email support following the session
 option-2-text: |-
-  ### Ongoing Monthly Coaching
+  ### **Financial Coaching Partnership**
 
   For someone looking to make real, positive changes to their current financial situation.
 
