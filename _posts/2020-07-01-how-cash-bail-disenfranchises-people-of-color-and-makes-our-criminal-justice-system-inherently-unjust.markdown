@@ -3,6 +3,10 @@ title: How Cash Bail Disenfranchises People Of Color And Makes Our Criminal Just
   System Inherently Unjust
 date: 2020-07-01 15:02:00 -04:00
 image: "/uploads/emiliano-bar-PaKHbtTDqt0-unsplash.jpg"
+posts:
+- How White Allies Can Do Better And Fight Racism
+- Fight White Supremacy with Your Wallet and Your Voice
+- 5 Steps You Can Take to Build a More Equal Future
 ---
 
 Have you ever taken a moment to think about the cash bail system in the United States? If you’re like me, you may have just accepted it as the way things are and never given it a second thought. But the truth is, the cash bail system is unfair, unjust, and it disproportionately hurts communities of color and poor communities. On any given day, there are 450,000 people waiting for trial in jail, purely because they couldn’t afford to pay their bail. How is that so, when our criminal justice system is supposed to be fair?
