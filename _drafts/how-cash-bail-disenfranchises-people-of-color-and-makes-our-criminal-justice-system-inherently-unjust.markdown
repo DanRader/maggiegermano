@@ -2,6 +2,7 @@
 title: How Cash Bail Disenfranchises People Of Color And Makes Our Criminal Justice
   System Inherently Unjust
 date: 2020-07-01 15:02:00 -04:00
+image: "/uploads/emiliano-bar-PaKHbtTDqt0-unsplash.jpg"
 ---
 
 Have you ever taken a moment to think about the cash bail system in the United States? If you’re like me, you may have just accepted it as the way things are and never given it a second thought. But the truth is, the cash bail system is unfair, unjust, and it disproportionately hurts communities of color and poor communities. On any given day, there are 450,000 people waiting for trial in jail, purely because they couldn’t afford to pay their bail. How is that so, when our criminal justice system is supposed to be fair?
@@ -10,25 +11,25 @@ I interviewed attorney Katherine Hubbard of the [Civil Rights Corps](https://www
 
 *First, why does cash bail hurt communities of color more?*
 
-**Communities of Color Are Over-Policed**
+## **Communities of Color Are Over-Policed**
 
 To start with, communities of color are actually over-policed. If you grew up in a predominately white area, or an area that is wealthy, you may not have interacted with police very much at all. Or perhaps, if you did, you have a pretty positive view of the police. Unfortunately, for folks of color, that is usually not the case. When a community is over-policed, that means that more people are going to be arrested, whether they should be or not. And, as you’ll learn below, bail often has nothing to do with the crime you’re accused of, and certainly doesn’t depend on how much you can afford to pay.
 
-**Cash Bail Is Arbitrary**
+## **Cash Bail Is Arbitrary**
 
 Judges are supposed to take affordability into account when they choose a bail amount. Unfortunately, that isn’t what usually happens. Many judges set an arbitrary number for bail without thinking about the defendant’s ability to pay it. When this happens, poor people, or people who just don’t have immediate access to thousands of dollars, end up sitting in jail for days, weeks, or more.
 
-**Cash Bail Doesn’t Actually Improve Public Safety**
+## **Cash Bail Doesn’t Actually Improve Public Safety**
 
 Bail exists as a way to ensure that people will show up to their court dates. The idea is that if someone puts up money as collateral, they’ll show up when they’re supposed to, so that they can get that money back. There is also an idea that holding people on bail is a matter of public safety. Unfortunately, a lot of people are held on bail even if they aren’t accused of a violent crime. Plus, people who are accused of a violent crime are able to get out of jail if they can afford their bail (see: [Harvey Weinstein](https://abcnews.go.com/US/harvey-weinstein-posts-2m-bond-york-states-bail/story?id=67654901 "https://abcnews.go.com/US/harvey-weinstein-posts-2m-bond-york-states-bail/story?id=67654901")).
 
 For example, when 15-year-old [Kalief Browder](https://www.newyorker.com/news/news-desk/kalief-browder-1993-2015 "https://www.newyorker.com/news/news-desk/kalief-browder-1993-2015") was arrested for allegedly stealing a backpack, his bail was set at $3,000. Stealing a backpack is not a violent offense. The public would not be at risk if he was at home with his family awaiting trial. However, the bail was set and he ended up stuck in jail for 3 years without a trial. He later died by suicide.
 
-**Cash Bail Leads to Worse Outcomes for Those Stuck In Jail**
+## **Cash Bail Leads to Worse Outcomes for Those Stuck In Jail**
 
 To make matters worse, those who are stuck in jail before their trial end up having worse outcomes than those who are allowed to go home. First of all, according to Hubbard, there is a psychological effect on judges, as they see defendants who are in handcuffs and prison clothing. This can make them be more harsh on the defendant and pre-judge their guilt. Plus, many people end up pleading guilty to a crime they did not commit, just so they can get out of jail sooner. This means they will have a criminal record, which will effect their future job prospects. Of course, families and communities are also affected, as their loved one is stuck in jail and unable to contribute to the household. Being in jail, even just for a few days, can lead to the loss of a job, housing, and even custody of children. These results can impact individuals and families for years to come.
 
-**The Bail Bond Industry Profits Off Of This System**
+## **The Bail Bond Industry Profits Off Of This System**
 
 Did you know that the United States and the Philippines are the only countries in the world that have a cash bail system? Plus, in the United States, there is an industry, the bail bond industry, that actually profits off of this system.
 
