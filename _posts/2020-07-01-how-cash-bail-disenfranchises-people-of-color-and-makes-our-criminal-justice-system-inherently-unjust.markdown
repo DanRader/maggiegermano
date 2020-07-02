@@ -68,3 +68,5 @@ According to Hubbard, there are lots of other options available that ensure that
 * **Vote for candidates who support abolishing cash bail.** It’s amazing how much can change if the right politicians are in office. An issue you support might move much more quickly if your elected official supports it too. That’s why you should find out which candidates support abolishing cash bail and vote for them.
 
 If you want to learn more about abolishing the cash bail system, follow the [Civil Rights Corps](https://www.civilrightscorps.org/ "https://www.civilrightscorps.org/") and the work that they do. We don’t have to continue accepting unjust systems just because they’ve always been there. Reform is possible, and reform is imperative.
+
+*This piece was originally published on my [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2020/06/26/how-cash-bail-disenfranchises-people-of-color-and-makes-our-criminal-justice-system-inherently-unjust/#2a5dacc63b54) column.*
