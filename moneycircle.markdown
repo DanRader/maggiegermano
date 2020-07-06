@@ -6,7 +6,7 @@ is-menu: true
 og-image: "/uploads/featured-moneycircle.gif"
 layout: moneycircle
 is-event: false
-maggieBio:  |-
+maggieBio: |-
   ## Hi! I’m Maggie Germano.
   I’m a financial coach for women and the founder of Money Circle. I help women improve their relationships with money so that they can take better control of their futures. I’m also passionate about creating space for women to talk about money without shame or judgment. That’s where the Money Circle Community comes in!
 membershipIncludes: |-
@@ -23,12 +23,10 @@ membershipIncludes: |-
   * Free attendance to quarterly virtual Money Circle meetups
 
   **Investment:** $49 per month
-
 cta: Join the community that literally everyone is talking about
 quote-1:
   quote-text: Maggie makes finances so much less scary.
   name: Taylor K.
-
 ---
 
 ## A safe place to talk money.
