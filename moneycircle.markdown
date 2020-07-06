@@ -17,7 +17,7 @@ membershipIncludes: |-
 
   * Access to helpful tools, resources, and workshops
 
-  * Discounts on one-on-one financial coaching sessions with Maggie Germano
+  * Discounts on one-on-one financial coaching sessions with Maggie
 
   * Free attendance to quarterly virtual Money Circle meetups
 
