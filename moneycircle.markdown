@@ -4,7 +4,6 @@ date: 2016-11-03 18:51:00 -04:00
 position: 2
 is-menu: true
 og-image: "/uploads/featured-moneycircle.gif"
-layout: moneycircle
 is-event: false
 maggieBio: |-
   ## Hi! I’m Maggie Germano.
@@ -27,6 +26,7 @@ cta: Join the community that literally everyone is talking about
 quote-1:
   quote-text: Maggie makes finances so much less scary.
   name: Taylor K.
+layout: moneycircle
 ---
 
 ## A safe place to talk money.
