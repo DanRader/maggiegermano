@@ -5,6 +5,7 @@ published: false
 lede: 'This week, Maggie sits down with licensed psychotherapist, Lena Derhally, and
   former public defender, Amanda Mowle about the criminalization of poverty and how
   it harms communities and our society as a whole. '
+image: "/uploads/Untitled%20design-ff3377.png"
 episode-number: 46
 podcast:
 - Why Cash Bail Is Unjust and Must Be Eliminated
