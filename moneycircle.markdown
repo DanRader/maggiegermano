@@ -15,7 +15,7 @@ membershipIncludes: |-
 
   * Monthly group coaching sessions where you and other members come together to discuss important financial matters and get coached on your specific issues (if you wish to be!)
 
-  * Access to helpful tools and resources, like worksheets and webinar recordings
+  * Access to helpful tools, resources, and workshops
 
   * Discounts on one-on-one financial coaching sessions with Maggie Germano
 
@@ -35,4 +35,6 @@ There’s so much shame surrounding money, especially for women. We don't get ta
 
 If you relate to the issues above, you probably don’t know where to turn for money advice and resources and you don’t feel comfortable talking about it to family and friends. You’re longing for a place where you can find nonjudgmental support that helps you find the motivation to change your financial situation for the better.  This is true whether you want to learn how to budget once and for all, or you're struggling with credit card debt, or you're buried in student loan debt, or you want to someday own a home of your very own. 
 
-The Money Circle community allows you to talk to people who have been in your shoes, but who don’t have a personal stake in your financial decisions.  In this safe, intersectional feminist space, we will break down that shame and build community and safety for everyone, so that you can find the support you need to gain control over your finances.
+The Money Circle Community is that safe space where you can talk about your finances without fear of judgment. It's a place to connect with people who have been in your shoes and people who are in your shoes. It's a place to get resources and support from people who understand you, but who don't have a personal stake in your financial decisions. 
+
+In this safe, intersectional feminist space, we will break down money shame and build community and safety for everyone, so that you can find the support you need to gain control over your finances.
