@@ -1,12 +1,13 @@
 ---
 title: How Poverty Is Criminalized In The United States
 date: 2020-07-06 05:00:00 -04:00
-published: false
 lede: 'This week, Maggie sits down with licensed psychotherapist, Lena Derhally, and
   former public defender, Amanda Mowle about the criminalization of poverty and how
   it harms communities and our society as a whole. '
 image: "/uploads/Untitled%20design-ff3377.png"
 episode-number: 46
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/d3842dc4-2f99-49e7-a39c-3906dbc6017c?dark=false"></iframe>
 podcast:
 - Why Cash Bail Is Unjust and Must Be Eliminated
 - How The Racial Wealth Gap Shows Up In All Areas of Life In The United States
@@ -41,6 +42,14 @@ In this episode, Maggie's guests break down how poverty and homelessness have be
 * **[Rayshard Brooks opened up about the struggles of life after incarceration in an interview before his death](https://www.cnn.com/2020/06/17/us/rayshard-brooks-interview-reconnect-life-after-incarceration/index.html)**
 
 * **[Kalief Browder, 1993–2015](https://www.newyorker.com/news/news-desk/kalief-browder-1993-2015)**
+
+* [Sessions With Bob and Lena](https://www.stitcher.com/podcast/sessions-with-bob-and-lena)
+
+* [ACLU](https://www.aclu.org/)
+
+* [Lena at the Imago Center](https://imagocenterdc.com/lena-derhally/)
+
+* Lena's [Instagram](https://www.instagram.com/therapywithlena/) 
 
 --
 
