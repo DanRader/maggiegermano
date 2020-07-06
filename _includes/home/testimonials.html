@@ -7,7 +7,7 @@
       <div class="row">
         <div class="slider single-item">
         {% assign testis-sort = site.testimonials | sort: "position" %}
-          {% for testimonial in testis-sort %}
+          {% for testimonial in testis-sort limit: 4 %}
           <div class="tstml-slide-wrapper">
             <div class="col m10 nofloat">
               <div class="tstml-image cover desaturate" style="background-image: url('{{ testimonial.image }}');">
@@ -25,3 +25,4 @@
       </div>
     </div>
 </div>
+{% include js/slick.html %}

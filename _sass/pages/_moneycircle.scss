@@ -1,7 +1,230 @@
+
+.mc-grid {
+  width: 80%;
+  max-width: 880px;
+  margin: 0 auto;
+}
+
+.mcMain {
+  h2 {
+    margin-bottom: 24px;
+    font-family: 'Playfair Display', serif;
+    color: white;
+    font-size: 40px;
+    line-height: 39px;
+    max-width: 500px;
+    margin: 24px auto;
+    color: $grey;
+  }
+}
+
+.mcBio {
+  background-color: $blue-grey;
+  padding: 80px;
+  margin: 80px 0;
+  position: relative;
+
+  > img {
+    position: absolute;
+    top: -280px;
+    left: 83%;
+    width: 510px;
+
+    @media only screen and (max-width: 840px) {
+      display: none;
+    }
+
+    &:nth-of-type(2) {
+      right: 83%;
+      top: 280px;
+      left: unset;
+
+      @media only screen and (max-width: 1220px) {
+        top: 80px;
+      }
+    }
+  }
+
+  h2 {
+    margin-bottom: 24px;
+    font-family: 'Playfair Display', serif;
+    color: white;
+    font-size: 30px;
+    line-height: 39px;
+    max-width: 500px;
+    margin: 8px 0;
+    color: $grey;
+  }
+
+  &_inner {
+    display: flex;
+    align-items: center;
+
+    @media only screen and (max-width: 840px) {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    img {
+      width: 300px;
+      margin-left: -24px;
+      margin-right: 24px;
+    }
+  }
+}
+
+.membershipIncludes {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  grid-column-gap: 40px;
+  position: relative;
+
+  @media only screen and (max-width: 840px) {
+    grid-template-columns: 1fr;
+  }
+
+  &_language {
+      border-right: 1px solid lightgrey;
+      padding-right: 40px;
+
+      @media only screen and (max-width: 840px) {
+        border-right: none;
+        padding-right: none;
+        border-bottom: 1px solid lightgrey;
+        padding-bottom: 40px;
+
+      }
+
+    ul {
+      margin-top: 10px;
+      margin-bottom: 15px;
+    }
+
+    > ul li {
+      color: $maggie-green;
+      list-style-type: disc;
+    }
+  }
+  &_testimonials{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    min-height: 450px;
+    padding: 24px;
+
+    span {
+      margin-bottom: 24px;
+      font-family: 'Playfair Display', serif;
+      color: $grey;
+      font-size: 30px;
+      line-height: 39px;
+    }
+
+    p {
+      font-weight: 300;
+      text-transform: uppercase;
+      letter-spacing: 4px;
+      font-size: 14px;
+      line-height: 12px;
+      margin-top: 12px;
+      margin-bottom: 0;
+    }
+
+    img {
+      width: 24px;
+      margin-bottom: 24px;
+    }
+  }
+}
+.secondQuote {
+  transform: rotate(180deg);
+}
+
+.mc-CTA {
+  background-color: $maggie-gold;
+  padding: 60px;
+  margin: 60px 0 0 0;
+  position: relative;
+
+  @media only screen and (max-width: 840px) {
+    margin: 0;
+  }
+
+  > img {
+    position: absolute;
+    width: 510px;
+
+    @media only screen and (max-width: 840px) {
+      opacity: .5;
+    }
+
+    &:nth-of-type(1) {
+      top: -200px;
+      right: -160px;
+
+      @media only screen and (max-width: 840px) {
+        top: 100px;
+      }
+    }
+
+    &:nth-of-type(2) {
+      top: -274px;
+      right: 65%;
+    }
+
+    &:nth-of-type(3) {
+      bottom: -320px;
+      right: 85%;
+
+      @media only screen and (max-width: 1200px) {
+        display: none;
+      }
+    }
+  }
+
+  &_inner {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+
+    button:hover {
+      box-shadow: 2px 14px 40px -5px rgb(117, 98, 64);
+    }
+
+    img {
+      width: 20px;
+      margin: auto;
+    }
+
+    span {
+      margin-bottom: 24px;
+      font-family: 'Playfair Display', serif;
+      color: white;
+      font-size: 30px;
+      line-height: 39px;
+      max-width: 500px;
+      margin: 24px auto;
+    }
+  }
+}
+
+
+
+
+// ---------------
+
+
 .money-circle-hero {
   background-image: url("/uploads/money-circle-hero-image@2x.png");
   position: absolute;
   z-index: 0;
+  background-position: 100% 183%;
+
+  +.blue-grad {
+    background-image: linear-gradient(-132deg, hsla(211, 100%, 56%, 0.7) 0%, rgba(0, 197, 162, 0.7) 100%);
+  }
 }
 
 .hero-height {
@@ -19,7 +242,7 @@
   position: absolute;
   bottom: -32px;
   z-index: 5;
-  @media #{$media-max-tablet}{
+  @media only screen and (max-width: 840px) {
     bottom: -6px;
     max-width: 159%;
     left: -25%;
@@ -56,6 +279,15 @@
   z-index: 5;
   @media #{$media-max-tablet}{
     padding: 5px 33px 165px !important
+  }
+  ul {
+    margin-top: 10px;
+    margin-bottom: 15px;
+  }
+
+  > ul li {
+    color: $maggie-green;
+    list-style-type: disc;
   }
 }
 
