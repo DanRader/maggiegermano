@@ -21,7 +21,7 @@ membershipIncludes: |-
 
   * Free attendance to quarterly virtual Money Circle meetups
 
-  **Investment:** $49 per month
+  **Investment:** $49.99 per month
 cta: Looking for a safe space to talk about money?
 quote-1:
   quote-text: Maggie makes finances so much less scary.
