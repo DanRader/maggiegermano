@@ -3,16 +3,56 @@ layout: default
 ---
 
 {% include moneycircle/header.html %}
+<section class="mcMain mc-grid">
+  {{ content }}
+</section>
 
-<div class="container moneycircle-copy">
+<section class="mcBio">
+  <div class="mcBio_inner mc-grid">
+    <img src="/uploads/mcBio.png" alt="">
+    <div class="">
+          {{ page.maggieBio | markdownify }}
+    </div>
+  </div>
+  <img src="/uploads/mc-Circle-Gold.png" alt="">
+  <img src="/uploads/mc-Circle-Gold.png" alt="">
+</section>
+
+<section class="membershipIncludes mc-grid">
+  <div class="membershipIncludes_language">
+      {{ page.membershipIncludes | markdownify }}
+  </div>
+  <div class="membershipIncludes_testimonials">
+    <img src="/uploads/quote-black@2x.png" alt="quote">
+    <span>{{ page.quote-1.quote-text }}</span>
+    <img class="secondQuote" src="/uploads/quote-black@2x.png" alt="quote">
+    <p>{{ page.quote-1.name }}</p>
+  </div>
+</section>
+
+<section class="mc-CTA">
+  <div class="mc-CTA_inner">
+    <img src="/uploads/MaggieG_KO_Mark@3x.svg">
+    <span>{{ page.cta }}</span>
+    <a target="_blank" href="https://money-circle.mn.co/"><button type="button" name="Read" class="">Join the Community</button></a>
+  </div>
+  <img src="/uploads/mc-Circle-White.png" alt="">
+  <img src="/uploads/mc-Circle-White.png" alt="">
+  <img src="/uploads/mc-Circle-White.png" alt="">
+</section>
+
+
+
+<!-- <div class="container moneycircle-copy">
   <div class="row valign-wrapper mc-content-wrap">
     <div class="col m6 illo-circle valign">
       <img class="valign" src="/uploads/circlePattern@2x.png" alt="Money Circle">
     </div>
-    <div class="col m6 mc-content valign">
+    <div class="col m6 offset-m4 mc-content valign">
       {{ content }}
     </div>
   </div>
 </div>
-
-{% include moneycircle/next-money-circle.html %}
+{% if is-event %}
+  {% include moneycircle/next-money-circle.html %}
+{% endif %} -->
