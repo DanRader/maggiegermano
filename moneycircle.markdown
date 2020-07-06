@@ -11,7 +11,7 @@ maggieBio: |-
 membershipIncludes: |-
   **Membership includes:**
 
-  * A private online community where you can share what’s working and what’s not in your finance, and get support and guidance from others going through the same things
+  * A private online community where you can share what’s working and what’s not in your finances, and get support and guidance from others going through the same things
 
   * Monthly group coaching sessions where you and other members come together to discuss important financial matters and get coached on your specific issues (if you wish to be!)
 
