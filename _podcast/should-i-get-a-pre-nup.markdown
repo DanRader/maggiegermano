@@ -1,11 +1,12 @@
 ---
 title: Why You Should Get A Pre-Nup Before You Get Married
 date: 2020-07-13 12:00:00 -04:00
-published: false
 lede: This week, Maggie sits down with Broke Millennial's Erin Lowry to talk about
   why you should get a pre-nup before you get married.
 image: "/uploads/031219_erinlowry_portraits-0986.jpg"
 episode-number: 47
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/f2aa9136-6ad7-4333-a5d9-7f5970537d22?dark=false"></iframe>
 podcast:
 - How Poverty Is Criminalized In The United States
 - Why You Might Want To Hire A CFO For Your Business
