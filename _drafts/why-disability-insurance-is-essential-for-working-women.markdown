@@ -4,6 +4,7 @@ date: 2020-07-27 11:00:00 -04:00
 image: "/uploads/jernej-graj-VDmh0kB1244-unsplash.jpg"
 author: Colin Nabity
 author-desc: CEO & Co-Founder of Breeze
+author-image: "/uploads/Colin%20Nabity%20Headshot.png"
 tweet: If You Earn An Income, You Need Disability Insurance
 posts:
 - Why It’s So Important to Have Health Insurance
