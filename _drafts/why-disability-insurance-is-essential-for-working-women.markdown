@@ -1,6 +1,7 @@
 ---
 title: Why Disability Insurance is Essential for Working Women
 date: 2020-07-27 11:00:00 -04:00
+image: "/uploads/jernej-graj-VDmh0kB1244-unsplash.jpg"
 ---
 
 ***Disclaimer:** if you use the Breeze links in this article, I will receive a small affiliate fee. Thank you in advance for your support!*
