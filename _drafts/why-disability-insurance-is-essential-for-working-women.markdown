@@ -1,6 +1,15 @@
 ---
 title: Why Disability Insurance is Essential for Working Women
 date: 2020-07-27 11:00:00 -04:00
+image: "/uploads/jernej-graj-VDmh0kB1244-unsplash.jpg"
+author: Colin Nabity
+author-desc: CEO & Co-Founder of Breeze
+author-image: "/uploads/Colin%20Nabity%20Headshot.png"
+tweet: If You Earn An Income, You Need Disability Insurance
+posts:
+- Why It’s So Important to Have Health Insurance
+- 3 Reasons Why Women Should Get Life Insurance
+- Why Health Insurance is Worth Paying For
 ---
 
 ***Disclaimer:** if you use the Breeze links in this article, I will receive a small affiliate fee. Thank you in advance for your support!*
