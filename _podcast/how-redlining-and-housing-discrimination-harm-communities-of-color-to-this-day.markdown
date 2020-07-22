@@ -6,7 +6,9 @@ published: false
 lede: This week, Maggie chats with Jane Lyons of Smarter Growth, about the history
   of redlining in the United States and how housing discrimination and inequality
   still affects Americans and communities today.
-image: "/uploads/DSC_0980jpg04%20(3).jpg"
+image: "/uploads/jane.jpg"
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/4c84ab78-3467-42c2-aa02-bc5e206b3af9?dark=false"></iframe>
 ---
 
 Learn more about the legacy of redlining and how housing discrimination and racism continue to harm communities and society as a whole.
