@@ -41,6 +41,8 @@ Learn more about the legacy of redlining and how housing discrimination and raci
 
 * [Courageous Conversations on Housing, Land Use, and Racism](https://www.smartergrowth.net/news-parent/press-releases/courageous-conversations-montgomery-county/)
 
+* [NCRC Report: The persistent structure of segregation and economic inequality ](https://ncrc.org/holc/)
+
 * The Coalition for Smarter Growth: [https://www.smartergrowth.net/](https://www.smartergrowth.net/)
 
 * Follow Coalition for Smarter Growth on Twitter [@betterDCregion](https://twitter.com/betterdcregion)
