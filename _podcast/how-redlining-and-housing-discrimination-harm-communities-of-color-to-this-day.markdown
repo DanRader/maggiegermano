@@ -2,7 +2,6 @@
 title: How Redlining and Housing Discrimination Harm Communities of Color to This
   Day
 date: 2020-07-27 05:00:00 -04:00
-published: false
 lede: This week, Maggie chats with Jane Lyons of Smarter Growth, about the history
   of redlining in the United States and how housing discrimination and inequality
   still affects Americans and communities today.
