@@ -1,6 +1,9 @@
 ---
 title: Why Disability Insurance is Essential for Working Women
 date: 2020-07-27 11:00:00 -04:00
+categories:
+- career
+- healthcare
 image: "/uploads/jernej-graj-VDmh0kB1244-unsplash.jpg"
 author: Colin Nabity
 author-desc: CEO & Co-Founder of Breeze
