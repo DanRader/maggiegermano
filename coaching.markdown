@@ -62,7 +62,7 @@ coaching-3:
 option-1-text: |-
   ### **Financial Coaching Deep Dive**
 
-  Perfect for someone just looking to get pointed in the right direction or looking for answers to specific questions.
+  Perfect for someone who wants to get pointed in the right direction or who is looking for answers to specific questions.
 
   * Money landscape analysis to identify your starting point
 
@@ -74,7 +74,7 @@ option-1-text: |-
 option-2-text: |-
   ### **Financial Coaching Partnership**
 
-  For someone looking to make real, positive changes to their current financial situation.
+  Perfect for someone looking to make real, long-lasting, positive changes to their current financial situation.
 
   * Money landscape analysis to identify your starting point
 
