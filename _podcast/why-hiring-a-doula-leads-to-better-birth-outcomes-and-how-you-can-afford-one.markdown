@@ -1,8 +1,7 @@
 ---
 title: Why Hiring a Doula Leads to Better Birth Outcomes (And How You Can Afford One)
 date: 2020-08-03 05:00:00 -04:00
-published: false
-lede: This week, Maggie talks to doula and founder of Rainbox Doula, Kelsey Carroll,
+lede: This week, Maggie talks to doula and founder of Rainbow Doula, Kelsey Carroll,
   about why hiring a doula leads to better birth outcomes for both infants and birthing
   people, and ways you can afford to hire one.
 image: "/uploads/Kelsey%20Carroll-004.jpg"
