@@ -71,6 +71,8 @@ option-1-text: |-
   * Personalized recap and action guide after the session to provide a clear way forward
 
   * Two weeks of unlimited email support following the session
+
+  **Investment:** $500
 option-2-text: |-
   ### **Financial Coaching Partnership**
 
@@ -83,6 +85,8 @@ option-2-text: |-
   * Personalized recap and action guide after each session to provide a clear way forward
 
   * **Unlimited** email support so that you're never alone
+
+  **Investment:** $2,600 ($650 per month)
 layout: coaching
 ---
 
