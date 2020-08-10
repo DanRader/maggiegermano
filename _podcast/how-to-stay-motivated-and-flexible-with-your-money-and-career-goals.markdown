@@ -32,3 +32,9 @@ Candice Latham started using her skills from her nine-to-five ad agency job to s
 To learn more about Maggie and her coaching and speaking services, visit **[www.maggiegermano.com](https://www.maggiegermano.com/)**.
 
 The theme music is called Escaping Light by **[Aaron Sprinkle](http://aaronsprinklemusic.com/)**. The podcast artwork design is by Maggie’s dear husband, **[Dan Rader](https://danrdesign.com/)**.
+
+---
+
+## TRANSCRIPTION
+
+X
