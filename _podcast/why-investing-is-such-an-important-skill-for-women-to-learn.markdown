@@ -1,7 +1,6 @@
 ---
 title: Why Investing Is Such an Important Skill for All Women to Learn
 date: 2020-08-17 05:00:00 -04:00
-published: false
 lede: 'This week, Maggie is sitting down with Amanda Holden to talk about why it''s
   so important for women to understand how to invest for their futures. '
 image: "/uploads/4035592F-4007-4DA6-9D51-DFCD852A5FD7.JPG"
