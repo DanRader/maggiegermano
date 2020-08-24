@@ -1,11 +1,13 @@
 ---
 title: How to Improve the Workforce for Working Parents (and Everyone Else, too)
 date: 2020-08-24 12:00:00 -04:00
-published: false
 lede: 'This week, Maggie sits down with Mary Beth Ferrante, of WRK/360, to talk about
   how the workforce needs to change in order to suit the needs of working parents...
   and everyone else. '
+image: "/uploads/mary-beth-ferrante.jpg"
 episode-number: 53
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/dfa224ae-7cab-4e86-bf2d-c21ec0d864fc?dark=false"></iframe>
 podcast:
 - Why Investing Is Such an Important Skill for All Women to Learn
 - How to Stay Motivated and Flexible With Your Money and Career Goals
