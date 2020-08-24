@@ -21,11 +21,11 @@ Are you a working parent? Do you think you will be someday? Not going to have ki
 
 * [WRK/360 Community and Courses](https://wrk360.com/wrk-360-training-programs/)
 
-* Follow WRK/360 on [Instagram](www.instagram.com/wrk360official)
+* Follow WRK/360 on [Instagram](http://www.instagram.com/wrk360official)
 
-* Follow Mary Beth on [Instagram](www.instagram.com/mb_ferrante)
+* Follow Mary Beth on [Instagram](http://www.instagram.com/mb_ferrante)
 
-* Follow Mary Beth on [Twitter](www.twitter.com/marybeth_wrk360)
+* Follow Mary Beth on [Twitter](http://twitter.com/Marybeth_Wrk360)
 
 * Connect with Mary Beth on [LinkedIn](https://www.linkedin.com/in/mbferrante/)
 
