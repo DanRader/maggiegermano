@@ -38,6 +38,14 @@ xx
 
 * ["You Should Have Asked" comic](https://english.emmaclit.com/2017/05/20/you-shouldve-asked/) by Emma
 
+* [Should the Government Fund Paid Leave?](https://www.facebook.com/watch/?v=365338594123040)
+
+* [Women’s Unpaid and Underpaid Work in the Times of Covid-19](https://www.amnesty.org/en/latest/campaigns/2020/06/womens-unpaid-and-underpaid-work-in-times-of-covid19/)
+
+* [Pandemic Makes Evident 'Grotesque' Gender Inequality In Household Work](https://www.npr.org/2020/05/21/860091230/pandemic-makes-evident-grotesque-gender-inequality-in-household-work)
+
+* [Moms, Here’s What All Your Pandemic Invisible Labor Is Actually Worth](https://www.huffpost.com/entry/mothers-day-invisible-labor-pandemic_n_5eb439e2c5b6526942a39b05?guccounter=1)
+
 * [Drop the Ball](http://tiffanydufu.com/drop-the-ball) by Tiffany Dufu
 
 * [https://www.domesticworkers.org/](https://www.domesticworkers.org/)
