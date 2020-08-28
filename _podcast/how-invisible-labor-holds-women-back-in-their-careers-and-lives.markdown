@@ -4,6 +4,7 @@ date: 2020-08-31 05:00:00 -04:00
 published: false
 lede: 'This week, Maggie chats with Rachel Wynn of Feminist Founder and Starlight
   Social about the impacts of invisible labor on women. '
+image: "/uploads/rachelwynn.jpeg"
 episode-number: 54
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/a8b63e07-ee92-42f7-b3d1-20e4a1d81057?dark=false"></iframe>
