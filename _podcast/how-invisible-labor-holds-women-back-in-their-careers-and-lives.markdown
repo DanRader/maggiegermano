@@ -1,7 +1,6 @@
 ---
 title: How Invisible Labor Holds Women Back In Their Careers and Lives
 date: 2020-08-31 05:00:00 -04:00
-published: false
 lede: 'This week, Maggie chats with Rachel Wynn of Feminist Founder and Starlight
   Social about the impacts of invisible labor on women. '
 image: "/uploads/rachelwynn.jpeg"
