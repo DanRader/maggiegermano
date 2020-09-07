@@ -1,7 +1,6 @@
 ---
 title: How to Improve Your Money Mindset to Improve Your Financial Landscape
 date: 2020-09-07 11:00:00 -04:00
-published: false
 lede: This week, Maggie sits down with Ashley Feinstein Gerstley of the Fiscal Femme,
   to talk about how you can start to improve your money mindset today.
 image: "/uploads/AFG.jpg"
