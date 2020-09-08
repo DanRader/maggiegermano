@@ -28,7 +28,7 @@ In this episode, in honor of September, which is Mental Health Awareness Month, 
 
 * Sign up for the [Money Musing Newsletter](https://thefiscalfemme.com/money-musings)
 
-* Do the [7 Day Jumpstart](https://www.thefiscalfemme.com/7day-jumpstart )
+* Do the [7 Day Jumpstart](https://www.thefiscalfemme.com/7day-jumpstart)
 
 * Get the [Money Journal Template](https://www.thefiscalfemme.com/money-journal-template)
 
@@ -36,11 +36,11 @@ In this episode, in honor of September, which is Mental Health Awareness Month, 
 
 --
 
-Ashley Feinstein Gerstley, founder and CEO of The Fiscal Femme, is an author, entrepreneur, and feminist who is on a mission to end inequality through financial well-being.
-
-She is the creator of the 30-Day Money Cleanse program, which has helped thousands of women cultivate harmonious relationships with money and achieve their financial goals.
-
-As a trusted money expert, she has been featured by Forbes, NBC, Glamour, and the New York Times, among others.
+Ashley Feinstein Gerstley is an author, entrepreneur and feminist who is on a mission to end inequality through financial well-being.\
+\
+She is the founder of the Fiscal Femme and the creator and author of The 30-Day Money Cleanse which has helped thousands of people cultivate harmonious relationships with money and achieve their financial goals.\
+\
+As a trusted money expert, she has been featured by CNBC, Forbes, NBC, Glamour and the New York Times, among many others.
 
 --
 
@@ -83,7 +83,7 @@ Ashley Feinstein Gerstley  3:22  \
 Right, jack of all trades of one trade. Yes.
 
 Maggie Germano  3:26  \
-And so how did you get into this line of work? 
+And so how did you get into this line of work?
 
 Ashley Feinstein Gerstley  3:29  \
 It's a great question. I got into it because I needed it myself. Honestly. So I studied finance. In college, I worked in finance. I was an investment banker, and then in corporate finance, and I knew nothing about my own money. And I thought, wow, if I don't know and I had to figure it out, there was a critical time where I had a beat, took a big pay cut, and just had to figure it out, knew nothing and thought there and this was back in 2011, 2012. And just thought they're needed. To be some different types of resources out there.
@@ -185,7 +185,7 @@ Ashley Feinstein Gerstley  26:00  \
 right? It's not like learning to walk. Exactly. It's not instinctive, right? And we're really irrational with it. Like you said, we have to put systems in place to protect ourselves from ourselves
 
 Maggie Germano  26:12  \
-exactly like automating savings and automating retirement and putting your bills on auto pay and all those things that just takes the human aspect out of it. Because we're humans, we like, we like that immediate instant gratification and all those things. So you have to kind of, yeah, like you said, protect ourselves from ourselves. 
+exactly like automating savings and automating retirement and putting your bills on auto pay and all those things that just takes the human aspect out of it. Because we're humans, we like, we like that immediate instant gratification and all those things. So you have to kind of, yeah, like you said, protect ourselves from ourselves.
 
 Ashley Feinstein Gerstley  26:32  \
 It's kindof like I always compare money to food because I think they're so similar. But if I'm trying to eat healthier, I would want to build into my system to stock my house with healthy foods. If I filled my whole house with my favorite dessert, that would be really difficult and I'm sure I would mess up multiple times a day on my like, on my healthy eating, so it's, it's kind of like setting ourselves up for success.
@@ -212,7 +212,7 @@ Maggie Germano  29:01  \
 I love that. And I really like what you said about viewing it as if it was your friend who went through the same situation because I forget where I heard it. But like years and years ago, I think I was watching something. It's probably a movie or a show. And someone said something mean about themselves. And their friend was like, don't talk about my friend like that. And ever since then I say that to my friends, if I hear them say something really nasty about themselves. I'm like, excuse me, don't talk about my friend like that. Because that's insulting to me as their friend as you're right. And it always kind of gets people to kind of snap out of it for a second because they're like, Wait, what? And then they're like, Oh, yeah, I'm your friend. And I'm, I'm like insulting your friend, because it's myself. And like, my husband recently said that to me, like don't talk about my wife like that. And I was like, Hi, you're using this against me. I love Thank you. And so that is a good way to kind of re frame that Punishment piece because you wouldn't want someone you love to be punished or punishing themselves in the same way. So why should it? Why shouldn't that apply to you as well?
 
 Ashley Feinstein Gerstley  30:09  \
-Right? And sometimes like this is kind of convoluted, but it's a sneaky way of us keeping ourselves stuck. Because like you mentioned, change can be scary, maybe worse. We think money's greedy. We're scared of having more money. Maybe we, I don't know. There's a lot of reasons why we'd self sabotage and so it's almost like a win to ourselves to continue punishing and keeping ourselves stuck because then we don't have to do anything. We have to take responsibilities. So also look out for that. Like are you sneakily being mean to yourself and punishing yourself so you don't have to take care of this? 
+Right? And sometimes like this is kind of convoluted, but it's a sneaky way of us keeping ourselves stuck. Because like you mentioned, change can be scary, maybe worse. We think money's greedy. We're scared of having more money. Maybe we, I don't know. There's a lot of reasons why we'd self sabotage and so it's almost like a win to ourselves to continue punishing and keeping ourselves stuck because then we don't have to do anything. We have to take responsibilities. So also look out for that. Like are you sneakily being mean to yourself and punishing yourself so you don't have to take care of this?
 
 Maggie Germano  30:44  \
 Oh, yeah, that's a real one. And I relate to that a lot. Especially with like, I mean, I used to relate to that with like relationships and dating because it was like, much easier and more familiar to just like, date these kind of guys that like wasn't going to that lead to anything because real relationships are scary. And I didn't want to have to, like, learn how to do that. And, you know, with business as well as like, you have to push through your comfort zone to actually grow and end up where you want to be. And it's the same kind of thing with improving your finances where it's like, if you want to get out of debt, if you want to build up savings, if you want to earn more, you're gonna have to get out of your comfort zone and try things that are different. And even if you hate your current situation, it can be really hard to move out of that comfort zone.
@@ -248,7 +248,7 @@ Maggie Germano  36:14  \
 Yeah, yeah, I know. And that can be really overwhelming. And I said just don't even bother. So yeah, keep keeping connected to that motivation. I also have found it helpful to connect to like, why you want to do a thing so that you know what it's all for. It's not just about someone like me or someone like you telling them to from the internet.
 
 Ashley Feinstein Gerstley  36:37  \
-Yes. 
+Yes.
 
 Maggie Germano  36:38  \
 Well, yeah, yeah. And it's more about like, this is why this is important to me.
@@ -275,7 +275,7 @@ Ashley Feinstein Gerstley  37:43  \
 Yes. Okay. So action is the key thing. I would challenge everyone listening to take one action within the next 48 hours. So it can be around something that we talked about. It can be something that you've had on your list for years that you've been meaning to do. I have a seven day jumpstart that I'll share with you that if you download it read the seven steps, they're all very manageable, but choose one. And so again back to this idea of choosing one. But I think how the progression looks how I think it looks is like the first is the clarity. Then there's the conscious. So once we know what's happening, we can decide to reallocate, rearrange based on what we want and what our goals are. But if an action around being conscious resonates with you more and gets you more excited to get started, do that if you're the clarity piece gets you excited to get started. Do that.
 
 Maggie Germano  38:40  \
-Awesome. I love that. And again, this starting small so that you're not getting too overwhelmed. 
+Awesome. I love that. And again, this starting small so that you're not getting too overwhelmed.
 
 Ashley Feinstein Gerstley  38:45  \
 yes, exactly. Even if like for example, for those of us who think of money journal sounds horrible. That probably means that it's going to be really helpful for my experience, but like we don't have to commit to doing it for 30 days commit for the first Today, that seems a lot less daunting, I'm just going to write down what I spend for a day. And if I forget, I'm just going to write what I forgot. And that's it. So, again, just breaking it down. And being realistic with ourselves. Maybe you are in a place where like, I am pumped to do this for 30 days, and I'm going to do that, or I'm ready to do a whole debt inventory, and I'm going to do that. But if you know that, that's gonna keep you from getting started. chunk that down.
@@ -299,7 +299,7 @@ Ashley Feinstein Gerstley  41:18  \
 right and start to notice the pattern and remind ourselves of like what I felt after that last time, because sometimes what we think we feel is not what we actually did. So it's almost the awareness of what did that achieve? Is it going to help me get that feeling again?
 
 Maggie Germano  41:35  \
-Yeah, exactly. That's great. And is there anything going on with your business that you would like to promote to listeners? 
+Yeah, exactly. That's great. And is there anything going on with your business that you would like to promote to listeners?
 
 Ashley Feinstein Gerstley  41:44  \
 Oh, I like that. That's a great question. So I mentioned earlier, I have a weekly money, I'm using newsletter. There's a money move, because you know, I'm all about action. There's a money move each week. So I can share the link for that. That goes out every Wednesday. I caught like a textbooks worth of knowledge in two minutes. And then we are launching end next month a private free slack community for women to share all things money. So a place to get the accountability buddy is to get resources, ask questions. So I'm very excited about that. So I can share the link to get basically we have a waitlist until the it launches next month. So if you join the waitlist, and I'll send out a link that you can hop in.
@@ -314,7 +314,7 @@ Maggie Germano  42:54  \
 Great, perfect, that's easy. So thanks again for being here. I really enjoyed this conversation. I think for both of us the money mindset conversation is very close to our hearts and important to us. So I appreciate you coming to talk more about it.
 
 Ashley Feinstein Gerstley  43:08  \
-Of course. Thank you for having me. Yes, money mindset feminism. It's just like the perfect conversation. 
+Of course. Thank you for having me. Yes, money mindset feminism. It's just like the perfect conversation.
 
 Maggie Germano  43:16  \
 Great. Well, thanks so much.
