@@ -14,7 +14,7 @@ podcast:
 - How Invisible Labor Holds Women Back In Their Careers and Lives
 ---
 
-***Content warning:** we discuss suicide and depression in this episode. If you are in distress, please contact a crisis professional by texting **HOME to 741741**. You can also call the **Suicide Prevention Lifeline at 1-800-273-8255**.*
+***Content warning:** we discuss suicide and depression in this episode. This episode is part of the 5th Annual Suicide Prevention Awareness Month blog tour presented by MentalHealthandWealth.com. If you are feeling suicidal, please call the National Suicide Prevention Lifeline at 1-800-273-8255 or text HOME to 741741.*
 
 September is **[Suicide Prevention Month](https://nami.org/Get-Involved/Awareness-Events/Suicide-Prevention-Awareness-Month?gclid=EAIaIQobChMI7sfpufbh6wIV9AiICR1L0w2KEAAYASAAEgIeqfD_BwE)**. In honor of that, host of the Mental Health and Wealth Show, Melanie Lockert, is on the show to talk about how you can care for your mental health and self-worth even during the times that we are in now.
 
