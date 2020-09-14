@@ -2,7 +2,6 @@
 title: Caring for Your Mental Health and Self-Worth As COVID-19 Impacts Your Career
   and Finances
 date: 2020-09-14 05:00:00 -04:00
-published: false
 lede: This week, Maggie sits down with Melanie Lockert, host of the Mental Health
   and Wealth Show, to discuss suicide, mental health, self-worth, and money.
 image: "/uploads/IMG_9671.JPG"
