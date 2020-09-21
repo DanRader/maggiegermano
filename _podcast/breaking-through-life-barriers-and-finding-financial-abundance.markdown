@@ -1,7 +1,6 @@
 ---
 title: Breaking Through Life Barriers and Finding Financial Abundance
 date: 2020-09-21 05:00:00 -04:00
-published: false
 lede: 'In this episode, Maggie chats with Jennifer Ramirez, the Founder and Executive
   Director of the nonprofit organization & Rise. They discuss how Jennifer broke through
   adversity in her own life to become debt-free and start her own business. '
