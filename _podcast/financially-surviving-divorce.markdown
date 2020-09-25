@@ -7,6 +7,8 @@ lede: In this episode, Maggie sits down with money coach Christina Luken to disc
   their relationship with money from there
 image: "/uploads/christine.jpg"
 episode-number: 58
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/55612764-ce59-4a9c-b70f-9c4ac590e8f9?dark=false"></iframe>
 ---
 
 **Related Links:**
