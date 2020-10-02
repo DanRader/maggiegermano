@@ -7,6 +7,8 @@ lede: This week, Maggie chats with Chelsea Brennan, the founder of Smart Money M
   preparing to start a family.
 image: "/uploads/Chelsea%20Brennan%20Headshot.jpg"
 episode-number: 59
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/86ad66e2-da84-4fed-be2d-bec9977e3f20?dark=false"></iframe>
 podcast:
 - Financially Surviving Divorce
 - Breaking Through Life Barriers and Finding Financial Abundance
