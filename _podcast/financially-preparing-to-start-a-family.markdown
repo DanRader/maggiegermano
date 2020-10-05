@@ -1,7 +1,6 @@
 ---
 title: Financially Preparing to Start a Family
 date: 2020-10-05 05:00:00 -04:00
-published: false
 lede: This week, Maggie chats with Chelsea Brennan, the founder of Smart Money Mamas
   and the Mamas Talk Money Summit, about the financial steps you should take as you're
   preparing to start a family.
