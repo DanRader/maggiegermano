@@ -1,12 +1,13 @@
 ---
 title: Financially Preparing to Start a Family
 date: 2020-10-05 05:00:00 -04:00
-published: false
 lede: This week, Maggie chats with Chelsea Brennan, the founder of Smart Money Mamas
   and the Mamas Talk Money Summit, about the financial steps you should take as you're
   preparing to start a family.
 image: "/uploads/Chelsea%20Brennan%20Headshot.jpg"
 episode-number: 59
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/86ad66e2-da84-4fed-be2d-bec9977e3f20?dark=false"></iframe>
 podcast:
 - Financially Surviving Divorce
 - Breaking Through Life Barriers and Finding Financial Abundance
@@ -18,27 +19,33 @@ Starting a family is an exciting and scary time! You can make it a little less s
 
 **Related Links:**
 
-* **[Smart Money Mamas](https://smartmoneymamas.com/)**
+* * **[Smart Money Mamas](https://smartmoneymamas.com/)**
 
-* **[Grab your free ticket for the Mamas Talk Money Summit, happening October 12-16!](https://mamastalkmoney.com/aff/maggiegermano/)**
+  * **[Grab your free ticket for the Mamas Talk Money Summit, happening October 12-16!](https://mamastalkmoney.com/aff/maggiegermano/)**
 
-* **[Grab your All Access Pass for the Mamas Talk Money Summit!](https://mamastalkmoney.com/aap/aff/maggiegermano/?campaign=AllAccessPass)**
+  * **[Grab your All Access Pass for the Mamas Talk Money Summit!](https://mamastalkmoney.com/aap/aff/maggiegermano/?campaign=AllAccessPass)**
 
-* **[Create your family money values](https://smartmoneymamas.com/family-money-values-template/)**
+  * **[Create your family money values](https://smartmoneymamas.com/family-money-values-template/)**
 
-* Follow Smart Money Mamas on **[Facebook](https://facebook.com/smartmoneymamas)**
+  * Follow Smart Money Mamas on **[Facebook](https://facebook.com/smartmoneymamas)**
 
-* Follow Smart Money Mamas on **[Instagram](https://instagram.com/smartmoneymamas)**
+  * Follow Smart Money Mamas on **[Instagram](https://instagram.com/smartmoneymamas)**
 
-* Follow Smart Money Mamas on **[Twitter](https://twitter.com/smartmoneymamas)**
+  * Follow Smart Money Mamas on **[Twitter](https://twitter.com/smartmoneymamas)**
 
-* Follow Smart Money Mamas on **[Pinterest](https://pinterest.com/smartmoneymamas)**
+  * Follow Smart Money Mamas on **[Pinterest](https://pinterest.com/smartmoneymamas)**
 
-* Estate planning online:
+  * Estate planning online:
 
-  * **[Trust and Will](https://trustandwill.com/)**
+    * **[Trust and Will](https://trustandwill.com/)**
 
-  * **[Willing](https://willing.com/)**
+    * **[Willing](https://willing.com/)**
+
+  * Life insurance:
+
+    * **[Haven Life](https://havenlife.com/)**
+
+  * Download the **[In Case Of Emergency Binder](https://transactions.sendowl.com/stores/10098/128668)**
 
 --
 
