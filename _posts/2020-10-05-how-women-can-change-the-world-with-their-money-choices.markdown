@@ -1,7 +1,6 @@
 ---
 title: How Women Can Change The World With Their Money Choices
 date: 2020-10-05 11:00:00 -04:00
-published: false
 image: "/uploads/s-o-c-i-a-l-c-u-t-6iYb1BWWbV0-unsplash.jpg"
 posts:
 - How The United States Has Criminalized Poverty And How To Change That Now
