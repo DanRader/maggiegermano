@@ -7,6 +7,8 @@ lede: In this episode, Maggie chats with Planned Parenthood's Kelley Robinson ab
   our access to reproductive health services, our financial choices, and more.
 image: "/uploads/KR-PP.jpg"
 episode-number: 60
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/ed7dddc1-d757-4c8a-8382-8c767e2bcd0f?dark=false"></iframe>
 podcast:
 - Financially Preparing to Start a Family
 - Financially Surviving Divorce
