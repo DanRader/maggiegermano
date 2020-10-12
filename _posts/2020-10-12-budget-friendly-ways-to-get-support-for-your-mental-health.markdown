@@ -1,6 +1,9 @@
 ---
 title: Budget-Friendly Ways To Get Support For Your Mental Health
 date: 2020-10-12 11:00:00 -04:00
+categories:
+- lifestyle
+- healthcare
 image: "/uploads/dan-meyers-hluOJZjLVXc-unsplash.jpg"
 posts:
 - How to Prioritize Your Health When You Don't Have Much Money to Spare
