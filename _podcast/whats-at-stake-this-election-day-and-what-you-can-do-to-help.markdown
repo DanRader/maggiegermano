@@ -1,7 +1,6 @@
 ---
 title: What's At Stake This Election Day And What You Can Do To Help
 date: 2020-10-12 05:00:00 -04:00
-published: false
 lede: In this episode, Maggie chats with Planned Parenthood's Kelley Robinson about
   why the 2020 Presidential election is so important when it comes to our healthcare,
   our access to reproductive health services, our financial choices, and more.
