@@ -1,7 +1,6 @@
 ---
 title: Changing Career Goals After Having Kids
 date: 2020-10-19 05:00:00 -04:00
-published: false
 lede: This week, Maggie chats with freelance writer and author, Emily Guy Birken,
   about how Emily pivoted her career goals after having her first child. We also talk
   about the career systems that need to change in order to make the workforce more
