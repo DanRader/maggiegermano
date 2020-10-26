@@ -6,7 +6,7 @@ lede: This week, Maggie sits down with Kim Pentico, who is the Director of Econo
   Justice at the National Network to End Domestic Violence. In this episode, they
   dig into what domestic violence is, and how it can show up, and how financial abuse
   is used as a tool of control within domestic violence.
-image: "/uploads/IMG_0293%20(003).HEIC"
+image: "/uploads/IMG_0293%20(003).jpg"
 episode-number: 62
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/4dc4927c-3e35-408a-b1a4-d7bb18f67c9f?dark=false"></iframe>
