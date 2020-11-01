@@ -1,7 +1,7 @@
 ---
 title: How To Recognize The Signs Of Financial Abuse
 date: 2020-10-19 11:00:00 -04:00
-image: "/uploads/_mxsh_-T9THJMIIMPM-unsplash.jpg"
+image: "/uploads/sad.jpg"
 posts:
 - What Survivors Wish You Knew About Financial Abuse
 - The Financial Impact of Sexual Harassment and Abuse
