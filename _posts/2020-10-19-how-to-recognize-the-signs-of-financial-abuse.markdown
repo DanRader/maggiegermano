@@ -26,7 +26,7 @@ According to the [National Coalition Against Domestic Violence](https://ncadv.or
 
 * Victims of domestic violence may be unable to leave an abusive partner or may be forced to return to an abusive partner for economic reasons.
 
-**Your Partner Gives You An Allowance**
+## **Your Partner Gives You An Allowance**
 
 This is very different from creating a budget and sticking to a spending plan with a partner. If your partner puts you on an allowance in order to have complete control over your spending, that is financial abuse. This could look like only giving you access to the amount of money they want you to spend during a certain timeframe, or it could look like closely monitoring your accounts to watch your spending. It’s not about being on a budget, it’s about controlling your behavior and decisions.
 
