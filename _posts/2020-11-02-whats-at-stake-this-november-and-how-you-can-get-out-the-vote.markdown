@@ -2,6 +2,10 @@
 title: What’s At Stake This November And How You Can Get Out The Vote
 date: 2020-11-02 11:00:00 -05:00
 image: "/uploads/element5-digital-ls8Kc0P9hAA-unsplash.jpg"
+posts:
+- How To Recognize The Signs Of Financial Abuse
+- Budget-Friendly Ways To Get Support For Your Mental Health
+- How Women Can Change The World With Their Money Choices
 ---
 
 Unless you’ve been living under a rock for the last 6 months, you likely know that we have an important presidential election coming up on Tuesday, November 3rd. We are constantly being inundated with political ads and told about the important issues. But with all the noise, it can be difficult to understand what is truly at stake.
