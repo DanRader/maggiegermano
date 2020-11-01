@@ -1,6 +1,11 @@
 ---
 title: What’s At Stake This November And How You Can Get Out The Vote
 date: 2020-11-02 11:00:00 -05:00
+image: "/uploads/element5-digital-ls8Kc0P9hAA-unsplash.jpg"
+posts:
+- How To Recognize The Signs Of Financial Abuse
+- Budget-Friendly Ways To Get Support For Your Mental Health
+- How Women Can Change The World With Their Money Choices
 ---
 
 Unless you’ve been living under a rock for the last 6 months, you likely know that we have an important presidential election coming up on Tuesday, November 3rd. We are constantly being inundated with political ads and told about the important issues. But with all the noise, it can be difficult to understand what is truly at stake.
@@ -19,7 +24,7 @@ Another issue that Republicans have been relentless about is to make abortion il
 
 A number of studies have established connections between abortion access and economic outcomes. And it seems like common sense; if you have control over your reproduction, you will have more control over and access to financial security. This paper from the [Institute for Women’s Policy Research](https://iwpr.org/iwpr-issues/reproductive-health/the-economic-effects-of-abortion-access-a-review-of-the-evidence/ "https://iwpr.org/iwpr-issues/reproductive-health/the-economic-effects-of-abortion-access-a-review-of-the-evidence/") outlines the ways that reproductive rights influences educational attainment, workforce participation, and more.
 
-**The Climate**
+## **The Climate**
 
 In September, there was widespread flash flooding in my town. Many of my neighbors’ homes and cars were damaged or destroyed. On the same day, wildfires were raging in Northern California. These are just two examples of ways climate change will continue to impact our lives. And it will get worse if we don’t mitigate the damage. When it comes to climate change, one political party denies that it is a problem or they say it is not caused by human behaviors. The other party acknowledges that climate change is a massive problem and accepts the proven science that shows what is causing it - burning fossil fuels such as oil, gas, and coal. We need a national commitment to fighting climate change and a strategy for embracing clean energy solutions. Otherwise, people will continue to suffer and die in rampant wildfires, floods, stronger and more frequent storms, and droughts.
 
