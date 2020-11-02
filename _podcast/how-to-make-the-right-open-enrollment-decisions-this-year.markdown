@@ -6,7 +6,7 @@ lede: 'In this episode, Maggie sits down with Metlife''s Meredith Ryan-Reid and 
   Finance Bar''s Marsha Barnes. They chat about how employees can make sure to make
   the right healthcare and benefit decisions during open enrollment this season, and
   how employers can also help them to do so. '
-image: "/uploads/Untitled%20design-a2b536.png"
+image: "/uploads/marshameredith.png"
 episode-number: 63
 podcast:
 - How Money Is Used As a Tool of Domestic Violence and How Survivors Can Get Help
