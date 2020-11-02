@@ -1,7 +1,6 @@
 ---
 title: How To Make The Right Open Enrollment Decisions This Year
 date: 2020-11-02 05:00:00 -05:00
-published: false
 lede: 'In this episode, Maggie sits down with Metlife''s Meredith Ryan-Reid and The
   Finance Bar''s Marsha Barnes. They chat about how employees can make sure to make
   the right healthcare and benefit decisions during open enrollment this season, and
