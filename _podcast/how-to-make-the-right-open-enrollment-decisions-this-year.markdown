@@ -8,6 +8,8 @@ lede: 'In this episode, Maggie sits down with Metlife''s Meredith Ryan-Reid and 
   how employers can also help them to do so. '
 image: "/uploads/marshameredith.png"
 episode-number: 63
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/622ece1a-f342-4e2a-ab2d-b09ca567c83c?dark=false"></iframe>
 podcast:
 - How Money Is Used As a Tool of Domestic Violence and How Survivors Can Get Help
   Now
