@@ -31,3 +31,5 @@ Do you know what your friends hope to achieve in life? Maybe they want to earn m
 We all do better when we have a buddy. Accountability is really hard on our own. So if it turns out that your friends or family members have similar financial goals to yours, team up! You could set weekly money dates, where you both review your spending and compare with your monthly budget. You could plan fun, affordable outings together (when it’s safe to do so). You could also just simply send each other encouraging texts every week. It’s easier to keep working towards a goal when we know we’re not alone.
 
 So, go ahead. Have some financial conversations this holiday season. If you follow these guidelines, you’ll be much more likely to make them positive and productive. Good luck!
+
+*This piece was originally published on my [ForbesWomen](https://www.forbes.com/sites/maggiegermano/2020/10/30/how-to-have-positive-money-conversations-with-your-loved-ones/?sh=510c917215da) column.*
