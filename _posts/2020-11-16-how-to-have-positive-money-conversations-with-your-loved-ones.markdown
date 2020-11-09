@@ -1,9 +1,14 @@
 ---
 title: How To Have Positive Money Conversations With Your Loved Ones
 date: 2020-11-16 11:00:00 -05:00
+published: false
 categories:
 - love
 image: "/uploads/joshua-ness--bEZ_OfWu3Y-unsplash.jpg"
+posts:
+- Revisiting The Money Talk With Your Partner
+- How to Have the Money Talk With Your Parents
+- How to Talk to Your Friends about Money
 ---
 
 Money conversations can be challenging even at the best of times. In fact, money is one of the top causes of marital discord. Not only that, but money can be difficult to discuss with friends and other family members, as well. That’s because there is so much shame and judgment related to money, so people often feel attacked no matter what the conversation is really about. Plus, we tend to approach money conversations in a negative way, focusing on the lack of money or the stress related to it.
