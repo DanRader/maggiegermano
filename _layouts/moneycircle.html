@@ -22,11 +22,31 @@ layout: default
   <div class="membershipIncludes_language">
       {{ page.membershipIncludes | markdownify }}
   </div>
-  <div class="membershipIncludes_testimonials">
-    <img src="/uploads/quote-black@2x.png" alt="quote">
-    <span>{{ page.quote-1.quote-text }}</span>
-    <img class="secondQuote" src="/uploads/quote-black@2x.png" alt="quote">
-    <p>{{ page.quote-1.name }}</p>
+  <div class="slider">
+    <div class="membershipIncludes_testimonials">
+      <img src="/uploads/quote-black@2x.png" alt="quote">
+      <span>{{ page.quote-1.quote-text }}</span>
+      <img class="secondQuote" src="/uploads/quote-black@2x.png" alt="quote">
+      <p>{{ page.quote-1.name }}</p>
+    </div>
+    <div class="membershipIncludes_testimonials">
+      <img src="/uploads/quote-black@2x.png" alt="quote">
+      <span>{{ page.quote-2.quote-text }}</span>
+      <img class="secondQuote" src="/uploads/quote-black@2x.png" alt="quote">
+      <p>{{ page.quote-2.name }}</p>
+    </div>
+    <div class="membershipIncludes_testimonials">
+      <img src="/uploads/quote-black@2x.png" alt="quote">
+      <span>{{ page.quote-3.quote-text }}</span>
+      <img class="secondQuote" src="/uploads/quote-black@2x.png" alt="quote">
+      <p>{{ page.quote-3.name }}</p>
+    </div>
+    <div class="membershipIncludes_testimonials">
+      <img src="/uploads/quote-black@2x.png" alt="quote">
+      <span>{{ page.quote-4.quote-text }}</span>
+      <img class="secondQuote" src="/uploads/quote-black@2x.png" alt="quote">
+      <p>{{ page.quote-4.name }}</p>
+    </div>
   </div>
 </section>
 
@@ -41,7 +61,7 @@ layout: default
   <img src="/uploads/mc-Circle-White.png" alt="">
 </section>
 
-
+{% include js/slick.html %}
 
 <!-- <div class="container moneycircle-copy">
   <div class="row valign-wrapper mc-content-wrap">

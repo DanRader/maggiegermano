@@ -88,6 +88,8 @@ option-2-text: |-
 
   **Investment:** $2,600 ($650 per month)
 layout: coaching
+is-deepDiverHold: false
+is-coachingHold: true
 ---
 
 ## Struggling with money? You’re not alone.

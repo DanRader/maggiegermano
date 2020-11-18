@@ -8,11 +8,21 @@
           <div class="option tstml-content">
             {{ page.option-1-text | markdownify }}
           </div>
+          {% if page.is-deepDiverHold == true %}
+          <div class="option-banner">
+            🌟On Hold until Spring 2021 🌟
+          </div>
+          {% endif %}
         </div>
         <div class="col single-option-wrap">
           <div class="option tstml-content">
             {{ page.option-2-text | markdownify }}
           </div>
+          {% if page.is-coachingHold == true %}
+          <div class="option-banner">
+            🌟On Hold until Spring 2021 🌟
+          </div>
+          {% endif %}
         </div>
       </div>
   </div>
