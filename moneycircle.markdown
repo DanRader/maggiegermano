@@ -27,7 +27,8 @@ quote-1:
   quote-text: Maggie makes finances so much less scary.
   name: Taylor K.
 quote-2:
-  quote-text: "[Maggie] creates this really great space where we can just be open about our struggles."
+  quote-text: "[Maggie] creates this really great space where we can just be open
+    about our struggles."
   name: Liz B.
 quote-4:
   quote-text: We get even more out of just talking to each other.
