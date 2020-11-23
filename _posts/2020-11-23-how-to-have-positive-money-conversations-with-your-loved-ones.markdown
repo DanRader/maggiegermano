@@ -1,7 +1,6 @@
 ---
 title: How To Have Positive Money Conversations With Your Loved Ones
-date: 2020-11-16 11:00:00 -05:00
-published: false
+date: 2020-11-23 11:00:00 -05:00
 categories:
 - love
 image: "/uploads/joshua-ness--bEZ_OfWu3Y-unsplash.jpg"
