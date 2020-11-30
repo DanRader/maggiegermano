@@ -7,6 +7,8 @@ lede: In this episode, Maggie sits down with CPA Michele Cagan to talk about the
   to women.
 image: "/uploads/micheleongrey.jpg"
 episode-number: 67
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/e3818e31-bdb5-41b0-9752-57ea1c751df2?dark=false"></iframe>
 podcast:
 - How Health Disparities Intersect With Economic and Racial Justice
 - How to Support Small Businesses Without Breaking the Bank This Holiday Season
@@ -26,7 +28,7 @@ podcast:
 
 *--*
 
-Michele Cagan is a CPA, author, and financial mentor with more than twenty years of experience. She has written numerous articles and books about personal finance, investing, and accounting, including *The Infographic Guide to Personal Finance, Retirement 101, Debt 101, *and *Real Estate Investing 101*.
+Michele Cagan is a CPA, author, and financial mentor with more than twenty years of experience. She has written numerous articles and books about personal finance, investing, and accounting, including *The Infographic Guide to Personal Finance*, *Retirement 101*, *Debt 101*, and *Real Estate Investing 101*.
 
 –
 
