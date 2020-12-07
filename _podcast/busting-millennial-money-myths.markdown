@@ -1,7 +1,6 @@
 ---
 title: Busting Millennial Money Myths
 date: 2020-12-07 05:00:00 -05:00
-published: false
 lede: 'This week, Maggie is chatting with Fiona, who is the blogger behind The Millennial
   Money Woman. They talk about several different money myths that millennials, in
   particular, might have, and explain how you can start dispelling money myths and
