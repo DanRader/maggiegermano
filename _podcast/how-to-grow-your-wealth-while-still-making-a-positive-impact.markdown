@@ -9,6 +9,8 @@ lede: 'This week, Maggie is chatting with Emily Green, who is the Director of Pr
   values top of mind when setting financial goals. '
 image: "/uploads/Emily_G_Tall.png"
 episode-number: 69
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/6060730c-3284-46b9-9c6d-be39f18a72ab?dark=false"></iframe>
 podcast:
 - Busting Millennial Money Myths
 - The Financial and Emotional Toll of Being a Double Caretaker
