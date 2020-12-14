@@ -2,7 +2,16 @@
 title: Overcoming Fear And Uncertainty To Strategically Make A Career Change
 date: 2020-12-28 05:00:00 -05:00
 published: false
+lede: 'In this episode, Maggie sits down with career change expert, Lisa Lewis Miller,
+  to discuss how you can overcome your fears and uncertainty in order to strategically
+  and responsibly make a career change. '
 image: "/uploads/lisalewis.png"
+episode-number: 71
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/6786375f-1baa-488d-8889-9fea1c42db70?dark=false"></iframe>
+podcast:
+- How to Choose the Right Financial Advisor For You
+- How to Grow Your Wealth While Still Making a Positive Impact
 ---
 
 **Related Links:**
