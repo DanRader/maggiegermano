@@ -12,3 +12,22 @@ lede: 'This week, Maggie is chatting with Nicole Iacovoni, who is a Financial Th
 image: "/uploads/nicole.jpg"
 ---
 
+**Related Links:**
+
+* [https://nicoleiacovoni.com/](https://nicoleiacovoni.com/)
+
+* Follow Nicole on [Facebook](https://www.facebook.com/nicoleiacovoni)
+
+* Download the [Date Your Money Planner](https://nicoleiacovoni.com/money-planner/)
+
+--
+
+Nicole Iacovoni is a Financial Therapist and Licensed Psychotherapist with 17 years experience. She writes a crush worthy newsletter called Money Love Notes where she dishes on her latest financial crush and offers inspirational ideas for dating your money. Her signature program, Money Therapy, teaches you how to transform your toxic relationship with money into a steamy love affair. She’s been featured in Business Insider, CNBC Select, and Up Journey. Feel more confident & cozy with your money right away by downloading Nicole’s free "date your money" planner at NicoleIacovoni.com
+
+--
+
+To join the Money Circle Community, visit **[www.maggiegermano.com/moneycircle](https://www.maggiegermano.com/podcast/financially-surviving-divorce/www.maggiegermano.com/moneycircle)**.
+
+To learn more about Maggie and her coaching and speaking services, visit **[www.maggiegermano.com](https://www.maggiegermano.com/)**.
+
+The theme music is called Escaping Light by **[Aaron Sprinkle](http://aaronsprinklemusic.com/)**. The podcast artwork design is by Maggie’s dear husband, **[Dan Rader](https://danrdesign.com/)**.
