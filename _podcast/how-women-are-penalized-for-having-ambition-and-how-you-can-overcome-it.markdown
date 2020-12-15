@@ -12,7 +12,7 @@ image: "/uploads/Stef%20O%20Headshot.jpg"
 episode-number: 76
 ---
 
-**Related Links:**
+**Related Links: **
 
 * [Learn more about Stefanie](https://stefanieoconnell.com/)
 
