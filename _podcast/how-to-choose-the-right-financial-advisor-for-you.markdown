@@ -7,6 +7,7 @@ lede: This week, Maggie is chatting with Pam Krueger, who is the founder and CEO
   for you, what red flags you should be looking out for, when you might need to seek
   out a financial advisor, and why more people than ever are looking to hire financial
   advisors who are women.
+image: "/uploads/Pam%20Krueger%20-%20Headshot%202020.jpg"
 episode-number: 70
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/ba1cc478-77d8-4d0d-90b3-f46b10961bfa?dark=false"></iframe>
