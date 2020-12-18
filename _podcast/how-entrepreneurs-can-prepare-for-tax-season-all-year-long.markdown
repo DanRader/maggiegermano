@@ -8,6 +8,8 @@ lede: 'This week, Maggie is chatting with Keila Hill-Trawick, who is the Founder
   they talk about how small business owners can prepare for tax season all year long. '
 image: "/uploads/image-asset.jpeg"
 episode-number: 73
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/46396a91-1d9e-4ee0-bcd9-87489b15f2be?dark=false"></iframe>
 podcast:
 - How to Start and Keep Your Business on the Right Financial Foot
 - Overcoming Fear And Uncertainty To Strategically Make A Career Change
