@@ -7,6 +7,10 @@ lede: This week, Maggie sits down with Judy Elizabeth, the money coach behind He
   from financial abuse at the hand of a parent.
 image: "/uploads/JudyHeadshot.jpg"
 episode-number: 79
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/0fcab747-fa71-4fee-a070-95edc1af08f7?dark=false"></iframe>
+podcast:
+- How Caregiving for a Parent Can Impact Your Financial Goals
 ---
 
 **Related Links:**
