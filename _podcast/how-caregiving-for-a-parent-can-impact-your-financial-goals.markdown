@@ -10,6 +10,9 @@ image: "/uploads/10497491_10101251225905301_2722478863122034811_o-80016a.jpg"
 episode-number: 77
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/b7ba8f41-aabf-407e-a7c0-2042d24d28b2?dark=false"></iframe>
+podcast:
+- How Women Are Penalized For Having Ambition and How You Can Overcome It
+- How to Avoid Lifestyle Creep As Your Income Goes Up
 ---
 
 **Related Links:**
