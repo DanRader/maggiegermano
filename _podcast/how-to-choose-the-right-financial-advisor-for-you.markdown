@@ -1,7 +1,6 @@
 ---
 title: How to Choose the Right Financial Advisor For You
 date: 2020-12-21 05:00:00 -05:00
-published: false
 lede: This week, Maggie is chatting with Pam Krueger, who is the founder and CEO of
   Wealthramp. In this episode, they talk about how to choose the right financial advisor
   for you, what red flags you should be looking out for, when you might need to seek
