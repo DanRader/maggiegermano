@@ -87,9 +87,9 @@ option-2-text: |-
   * **Unlimited** email support so that you're never alone
 
   **Investment:** $2,600 ($650 per month)
-layout: coaching
-is-deepDiverHold: false
+is-deepDiverHold: true
 is-coachingHold: true
+layout: coaching
 ---
 
 ## Struggling with money? You’re not alone.
