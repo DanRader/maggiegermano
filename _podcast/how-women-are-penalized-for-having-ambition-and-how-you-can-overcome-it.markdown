@@ -14,7 +14,7 @@ embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" 
   src="https://player.simplecast.com/3974e820-3b10-4c90-84a6-bb0931208239?dark=false"></iframe>
 ---
 
-**Related Links: **
+**Related Links:**
 
 * [Learn more about Stefanie](https://stefanieoconnell.com/)
 
