@@ -8,6 +8,9 @@ lede: This week, Maggie is chatting with Monica Marcelis Fochtman, the Owner and
   to shift and change as life changes.
 image: "/uploads/Rounded%20centered%20headshot.png"
 episode-number: 78
+podcast:
+- How Caregiving for a Parent Can Impact Your Financial Goals
+- How Women Are Penalized For Having Ambition and How You Can Overcome It
 ---
 
 **Related Links:**
