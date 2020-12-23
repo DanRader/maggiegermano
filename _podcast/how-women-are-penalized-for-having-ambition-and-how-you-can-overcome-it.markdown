@@ -12,6 +12,9 @@ image: "/uploads/Stef%20O%20Headshot.jpg"
 episode-number: 76
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/3974e820-3b10-4c90-84a6-bb0931208239?dark=false"></iframe>
+podcast:
+- How to Avoid Lifestyle Creep As Your Income Goes Up
+- How to Treat Your Money Relationship Like a Romantic Relationship
 ---
 
 **Related Links:**
