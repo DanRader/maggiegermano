@@ -1,7 +1,6 @@
 ---
 title: How to Avoid Lifestyle Creep As Your Income Goes Up
 date: 2021-02-15 05:00:00 -05:00
-published: false
 lede: 'This week, Maggie is chatting with Cris Caruso, who is a financial advisor
   with Alcumus Financial Group. In this episode, they talk about what lifestyle creep
   is and how you can avoid falling into it as you earn more over the course of your
