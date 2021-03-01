@@ -1,7 +1,6 @@
 ---
 title: How Women Are Penalized For Having Ambition and How You Can Overcome It
 date: 2021-03-01 05:00:00 -05:00
-published: false
 lede: 'This week, Maggie is chatting with Stefanie O’Connell Rodriguez, who is a Personal
   Finance Writer and the founder of Statement Cards. In this episode, they chat about
   the ambition penalty that women face in their relationships and in the workplace,
