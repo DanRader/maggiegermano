@@ -1,7 +1,6 @@
 ---
 title: How To Find "Balance" As A Working Mom
 date: 2021-03-29 05:00:00 -04:00
-published: false
 lede: This week, Maggie is chatting with Monica Marcelis Fochtman, the Owner and Founder
   of Sheldrake Consulting, a career coaching and consulting company. In this episode,
   they talk about how women can manage being working mothers, and how priorities need
