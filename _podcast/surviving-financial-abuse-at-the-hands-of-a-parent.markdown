@@ -1,7 +1,6 @@
 ---
 title: Surviving Financial Abuse At The Hands Of A Parent
 date: 2021-04-05 05:00:00 -04:00
-published: false
 lede: This week, Maggie sits down with Judy Elizabeth, the money coach behind Hear
   Me Finance. In this episode, they talk about how one can get through and recover
   from financial abuse at the hand of a parent.
@@ -11,6 +10,7 @@ embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" 
   src="https://player.simplecast.com/0fcab747-fa71-4fee-a070-95edc1af08f7?dark=false"></iframe>
 podcast:
 - How Caregiving for a Parent Can Impact Your Financial Goals
+- Maximizing Your Liquid Savings
 ---
 
 **Related Links:**
