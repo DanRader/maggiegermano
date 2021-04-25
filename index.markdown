@@ -20,7 +20,7 @@ highlight3:
     You are not alone in your struggle for financial stability. Though we tend not to talk about money, there are many people out there who need support and guidance too. Join Money Circle and be part of a supportive, non-judgmental community that will be with you on your money journey!
   link-name: Join Money Circle!
   link-url: "/moneycircle/"
-layout: home
+layout: homeNew
 ---
 
 **Break the taboo** of discussing debt, salary, and financial goals. Shake the feeling of anxiety and confusion when it comes to money. Maggie Germano is a Certified Financial Education Instructor and financial coach for women. She's on a mission to give women the support and tools they need to take control of their money and achieve their goals through one-on-one coaching, monthly Money Circle gatherings, writing, and speaking engagements.

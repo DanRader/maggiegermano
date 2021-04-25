@@ -1,0 +1,63 @@
+---
+layout: defaultNew
+---
+<!-- Hero content -->
+<div class="home-hero home-container ">
+    <div>
+        <img src="/uploads/MG-logoBW.png">
+        <h1>Financial Educator, Speaker and Writer for Women.</h1>
+    </div>
+
+</div>
+
+<!-- Seen on -->
+<div class="logoWall-outer home-container ">
+    <h2>As seen on </h2>
+    <div class="logoWall">
+        {% assign logo-sort = site.audience-logos | sort: "position" %}
+        {% for logo in logo-sort limit:8 %}
+        <a href="{{ logo.link }}">
+            <img src="{{ logo.image }}" alt="{{ logo.title }}">
+        </a>
+        {% endfor %}
+    </div>
+</div>
+
+<!-- background  -->
+<div class="hero-background">
+    <div class="blur"></div>
+    <div id="heartMove">
+      <div class="heart-outter">
+        <div class="heart-inner">  
+        </div>
+      </div>
+    </div>  
+  </div>
+  
+  
+  <svg width="907" height="801" viewBox="0 0 907 801" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <clipPath id="heartClip">  
+  <path d="M831.1 82.2L827.4 78.2C726.6 -22.7 562.9 -22.7 462 78.2L454.9 85.3L438.1 68.5C391.9 22.7 331.1 0 268.7 0C201.4 0 133 26.3 79.9 79.4C-22.2 181.5 -27.1 342 68.9 438L415.7 784.8C437.6 806.7 473.6 805.5 496.3 782.4L567.2 711.5L407.6 555.5C368.3 516.2 374.4 446.5 421 399.9C446.9 374 479.8 360.6 511 360.6C535.7 360.6 559.2 369.1 576.6 386.5L708.3 518.6C718.4 528.3 735.5 540.5 755.7 522.7L779.6 498.8L780 499.2L831.1 447.7C932 346.8 932 183.1 831.1 82.2Z" fill="#00BDB2"/>
+  <path d="M466.6 467.7C466.6 484.8 480.5 498.7 497.6 498.7C514.7 498.7 528.6 484.8 528.6 467.7C528.6 450.6 514.7 436.7 497.6 436.7C480.5 436.7 466.6 450.5 466.6 467.7Z" fill="#00BDB2"/>
+      </clipPath>
+  </svg>
+  
+
+</div>
+
+<script>
+    $(document).ready(function() {
+    var movementStrength = 20;
+    var height = movementStrength / $(window).height();
+    var width = movementStrength / $(window).width();
+
+    $('body').mousemove(function(e){
+             var pageX = e.pageX - ($(window).width() / 2);
+             var pageY = e.pageY - ($(window).height() / 2);
+             var newvalueX = width * pageX * 1 + 1;
+             var newvalueY = height * pageY * 1 + 1;
+             $('#heartMove').css("transform",
+                "translateY("+newvalueY+"px)"+" translateX("+newvalueX+"px)" );
+    });
+});
+</script>

@@ -1,0 +1,128 @@
+@font-face {
+	font-family: 'CanelaItal';
+	src: url('/uploads/fonts/canelaweb-thinitalic.woff') format('woff'), /* Pretty Modern Browsers */
+		 url('/uploads/fonts/canelaweb-thinitalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+  }
+
+.home-container {
+	padding: 0 9rem;	
+}
+
+.home-hero {
+	height: calc(100vh - 200px);
+	min-height: 700px;
+	width: 100%;
+	display: flex;
+	align-items: center;
+	position: relative;
+	z-index: 2;
+
+	div {
+		margin-top: -32px;
+	}
+
+	img {
+		width: 300px;
+		margin-bottom: 32px;
+	}
+
+	h1 {
+		font-family: CanelaItal;
+		font-weight: 100;
+		color: black;
+		max-width: 1110px;
+		font-size: 116px;
+	}
+}
+.logoWall {
+	display: grid;
+	grid-template-columns: repeat(8, 1fr);
+	position: relative;
+	z-index: 2;
+
+	&-outer {
+		height: 200px;
+	}
+
+	img {
+		filter: brightness(0);
+		max-height: 150px;
+	}
+}
+
+
+// ————— background
+
+.hero-background {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.blur {
+	height: 100vh;
+	width: 100vh;
+	background: #FFFFFF;
+	background-blend-mode: multiply;
+	backdrop-filter: blur(12px);
+	background: inherit;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 1;
+  }
+  
+  #heartMove {
+	transition: .4s ease-out all;
+  }
+  .heart-outter {
+	width: 907px;
+	height: 801px;
+	transform: scale(0.85);
+    transform-origin: top left;
+    clip-path: url(#heartClip);
+    position: absolute;
+    top: 90px;
+    left: 40px;
+  }
+  
+  .heart-inner {
+	background: linear-gradient(123.35deg, #EBF3D0 0%, rgba(235, 243, 208, 0) 18.4%), radial-gradient(29.9% 70.94% at 44.25% 86.96%, #DCB88D 0%, rgba(220, 141, 220, 0) 100%), radial-gradient(33.83% 53.57% at 35.87% 100%, #DCCB8D 0%, rgba(220, 141, 220, 0) 100%), radial-gradient(42.66% 49.72% at 45.56% 44.65%, #ADEBC2 0%, rgba(194, 166, 241, 0) 100%), linear-gradient(134.59deg, #CDF9E8 20.63%, rgba(205, 249, 232, 0) 47.84%), linear-gradient(216.44deg, rgba(192, 169, 240, 0) -16.52%, #C0A9F0 -1.04%, rgba(192, 169, 240, 0) 16.99%), linear-gradient(128.53deg, rgba(192, 169, 240, 0) 28.63%, #C0A9F0 38.5%, rgba(192, 169, 240, 0) 50.26%), radial-gradient(40.75% 97.37% at 90.75% 40.15%, #FFFDB1 0%, #FEE4BF 34.46%, #F0BDD0 69.5%, rgba(255, 129, 38, 0) 100%), #C2A6F1;
+	width: 100%;
+	height: 120%;
+	position: relative;
+	animation: rotate 15s linear infinite;
+	transform-origin: top left;
+	// transform: scale(2) rotate(0) translatey(25%);
+  
+  }
+  
+  @keyframes rotate {
+	// top left
+	0% {
+	  transform: scale(1.8) rotate(0) translatex(0) translatey(0);
+	}
+	20% {
+	  transform: scale(1.8) rotate(0) translatex(-40%) translatey(-50%);
+	}
+	// top right
+	65% {
+	  transform: scale(1.8) rotate(0) translatex(-40%) translatey(0);
+	}  
+	// bottom left
+	80% {
+	  transform: scale(1.8) rotate(0) translatex(0) translatey(-50%);
+	}  
+	// top left
+	100% {
+	  transform: scale(1.8) rotate(0) translatex(0) translatey(0);
+	}
+  }
+  
+  .view {
+	  position: absolute;
+	  top: -54px;
+	  right: -43px;
+	  transform: scale(0.67);
+	  clip-path: url(#phoneClip);
+  }
