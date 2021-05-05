@@ -6,6 +6,8 @@ lede: In this episode, Maggie chats with photographer Keila Bottiglieri about ho
   she juggles being a business owner, wife, and mom.
 image: "/uploads/SAB_8023.jpg"
 episode-number: 81
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/9ecbf67a-6bf8-4d78-8f61-0cf3a62e5dfe?dark=false"></iframe>
 podcast:
 - How Women Can Make Confident Decisions and Avoid Decision Fatigue
 - Surviving Financial Abuse At The Hands Of A Parent
