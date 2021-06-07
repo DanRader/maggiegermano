@@ -13,11 +13,27 @@ podcast:
 - How to Balance Being a Mom and Business Owner
 ---
 
-xx
+**Related Links:**
+
+* [https://dawndahlby.com/](https://dawndahlby.com/)
+
+* Follow Dawn on [Facebook](https://m.facebook.com/dawndahlby/)
+
+* Follow Dawn on [Instagram](https://www.instagram.com/dawndahlby/?hl=en)
+
+* Connect with Dawn on [LinkedIn](https://www.linkedin.com/in/dawn-dahlby/)
 
 --
 
-xx
+Dawn is a personal-growth expert in the finance space serving empowered women, executives, and entrepreneurs. Her unique approach combines learning how to live in your worth by aligning financial goals, personal values, behaviors, beliefs, lifestyle goals, and desires. With 20 years experience, she is a Certified Financial Planner, a Fiduciary, and the country's first Behavioral Financial Advisor. She seeks to help women improve their lives by combining psychology and results-driven financial strategies to build WEALTH & WORTH. Dawn's engaging coaching style and result-oriented approach has led her to become a sought-after speaker at a wide range of professional seminars and corporate events. Her inclusion on the esteemed Forbes Finance Council marks another exceptional achievement in her impressive career.
+
+--
+
+To join the Money Circle Community, visit **[www.maggiegermano.com/moneycircle](https://www.maggiegermano.com/podcast/financially-surviving-divorce/www.maggiegermano.com/moneycircle)**.
+
+To learn more about Maggie and her coaching and speaking services, visit **[www.maggiegermano.com](https://www.maggiegermano.com/)**.
+
+The theme music is called Escaping Light by **[Aaron Sprinkle](http://aaronsprinklemusic.com/)**. The podcast artwork design is by Maggie’s dear husband, **[Dan Rader](https://danrdesign.com/)**.
 
 ---
 
