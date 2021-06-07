@@ -5,6 +5,12 @@ published: false
 lede: In this episode, Maggie chats with personal growth expert Dawn Dahlby about
   how important self-worth and connecting with your values is when it comes to your
   finances and wealth.
+episode-number: 83
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/725fcd2a-6957-4b16-808c-ba05bd4046ab?dark=false"></iframe>
+podcast:
+- How to Use Real Estate Investing As A Tool To Build Wealth
+- How to Balance Being a Mom and Business Owner
 ---
 
 xx
