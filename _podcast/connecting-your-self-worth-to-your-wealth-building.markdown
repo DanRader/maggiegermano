@@ -4,6 +4,7 @@ date: 2021-06-21 05:00:00 -04:00
 lede: In this episode, Maggie chats with personal growth expert Dawn Dahlby about
   how important self-worth and connecting with your values is when it comes to your
   finances and wealth.
+image: "/uploads/E46D5D93-CACE-41DA-B93C-27330D847D44.png"
 episode-number: 83
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/725fcd2a-6957-4b16-808c-ba05bd4046ab?dark=false"></iframe>
