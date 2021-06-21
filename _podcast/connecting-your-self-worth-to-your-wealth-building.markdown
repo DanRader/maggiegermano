@@ -44,10 +44,10 @@ Hi, and thanks for listening to the money circle podcast. I'm your host, Maggie 
 Okay, welcome, Dawn, thanks so much for being here today.
 
 Dawn Dahlby  1:42  \
-Yeah, I'm super excited, Maggie. Thanks for having me, 
+Yeah, I'm super excited, Maggie. Thanks for having me,
 
 Maggie Germano  1:45  \
-of course. So why don't we start off by having you tell us who you are and what you do? 
+of course. So why don't we start off by having you tell us who you are and what you do?
 
 Dawn Dahlby  1:50  \
 Yeah, well, my name is Dawn Dalby. And I'm a certified and behavioral financial advisor, as well as a CEO of a multi seven figure wealth advisory firm. And when I say certified and behavioral, it's mixing the highest level of technical advice, as well as psychological advice to help what I call helping people build real wealth.
@@ -89,7 +89,7 @@ Dawn Dahlby  10:03  \
 it's a combination. I mean, you know, it's one thing to earn the right type of money, and it's not earning the most type of money, it's earning the right type of money that's in alignment with yourself. But then it's also going okay, we all know, we can all earn the right type of income, but there's still life's expensive, you know, I don't know about you, if you have children, but I have a husband, I have two teenage daughters, I have, you know, we all live in expensive life, right? We live in a, we want it now life, right? We start like, we just the way our society is today, right. And so life is expensive for all of us. And I don't care what type of income you're at, it's expensive. And so what we have to do is really, you know, along with a mindset and earning the right type of money, we also need to, like, realize, how do we how do we free up this money? from a technical perspective? How do we free up the wasted money that we waste on a daily basis? How do we free that up? And how do we apply that to be able to afford to hat still have some of this freedom of spending today, and also secure your tomorrow? And no matter what income level you are at, you can definitely do that if you hone in on that, like, Where am I wasting my money? And getting really clear with that? And that's the technical advice. That's super important, as well to growing your wealth.
 
 Maggie Germano  11:17  \
-Yeah, I totally agree. And is that something you work on clients do where you go through, like, Where is money actually being wasted? or How can I be more efficient? 
+Yeah, I totally agree. And is that something you work on clients do where you go through, like, Where is money actually being wasted? or How can I be more efficient?
 
 Dawn Dahlby  11:24  \
 Yeah, absolutely. Because if we all want to live a fulfilled wealthy life and live wealthy, you got to do both. You can't just focus on the mindset. You can't just focus on alignment, like you got to take action, right? And so to take action on these type of things, is where you got to dig in and look at where are we wasting money? And there's like three key areas that people waste money in? And how do we free up that money? and have it worked for us versus working for somebody else? not okay.
@@ -122,7 +122,7 @@ Maggie Germano  20:03  \
 Yep, I'm there with you to definitely not in the shame game, I'm in the like, figure out what matters most to you. And then, you know, throw your money towards those things. Love it. So once people are doing this work to improve their self worth to really start aligning their spending and their financial goals with the things that matter most to them, Do you believe that money can actually buy happiness? Once that work has been done?
 
 Dawn Dahlby  20:30  \
-You know, that's a great question. I will say this money alone will never buy happiness. It just won't. However, the the the worth and the wealth together will, money alone will give you opportunities and experiences. And, you know, that's what we all want. They don't give us new shoe, it'll give us you know, some of us, like lovely Louis Vuitton bags and shoes, or whatever we want, right? It's everyone's, what they want from a materialistic standpoint, is also okay, right. So money does buy that and all that kind of stuff provides some short term happiness. But what we're really talking about the human need of long term fulfilling happiness, money alone will not provide that just won't, and I've seen it, I've seen it in I mean, a wealth advisor for 21 years, I've seen how money does not provide happiness, but worth and well together does.
+You know, that's a great question. I will say this money alone will never buy happiness. It just won't. However, the the the worth and the wealth together will, money alone will give you opportunities and experiences. And, you know, that's what we all want. They don't give us new shoe, it'll give us you know, some of us, like lovely Louis Vuitton bags and shoes, or whatever we want, right? It's everyone's, what they want from a materialistic standpoint, is also okay, right. So money does buy that and all that kind of stuff provides some short term happiness. But what we're really talking about the human need of long term fulfilling happiness, money alone will not provide that just won't, and I've seen it, I've seen it in I mean, a wealth advisor for 21 years, I've seen how money does not provide happiness, but worth and wealth together does.
 
 Maggie Germano  21:31  \
 Right, and being able to prioritize those values and the things that actually, like you said, Bring you fulfillment, whether it's family, or travel, or learning or whatever it might be, and not to mention just the overall security to have like having your financial ducks in a row and knowing that all of your necessities are covered, you're safe, your family is safe, and you don't have to worry about that day to day peace as well.
@@ -158,7 +158,7 @@ Maggie Germano  28:50  \
 Great. Yeah, so lots of places people can follow along with you. I'll link to all of those. But thanks so much for taking the time to talk today. I am a big believer in that self worth piece and the values piece when it comes to finances. So I'm always happy to talk more about that with other like minded people like you,
 
 Dawn Dahlby  29:07  \
- I love what you do to your work is amazing. I appreciate you as well.
+I love what you do to your work is amazing. I appreciate you as well.
 
 Maggie Germano  29:15  \
 Thank you so much for listening to the money circle podcast this week. If you like the conversations we're having here and you'd like to go even deeper. Join the new money circle community. In this safe intersectional feminist space. We will break down money shame and build community and safety for everyone so that you can find the support you need to gain control over your finances. Visit Maggiegermano.com/moneycircle to learn more and to join. If you'd like to get more connected with me subscribe to my weekly newsletter at Maggie Germano.com/subscribe to learn more about my financial coaching services, my speaking and workshop offerings or just to read my blog visit Maggiegermano.com You can also follow me on instagram and twitter @MaggieGermano. I look forward hearing from you. Bye bye.
