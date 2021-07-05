@@ -1,7 +1,6 @@
 ---
 title: Why Life Insurance Is So Important, Even If You're Not The Breadwinner
 date: 2021-07-05 05:00:00 -04:00
-published: false
 lede: In this episode, Maggie talks with Jessica Lepore about why having life insurance
   is so important, even if you aren’t the breadwinner in your family. We also talk
   about why people fear life insurance and how Surevested can help you get yourself
