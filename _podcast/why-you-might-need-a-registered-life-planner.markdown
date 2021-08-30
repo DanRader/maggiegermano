@@ -10,6 +10,8 @@ lede: In this episode, Maggie chats with Dana Mascalo about how Dana uses her tr
   about life planning.
 image: "/uploads/Dana%20Headshot.jpg"
 episode-number: 88
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/4d45e2a8-0735-474b-acf7-968030af91e6?dark=false"></iframe>
 podcast:
 - Finding Success in a Male-Driven Industry
 - How to Prepare For and Return From Maternity Leave
