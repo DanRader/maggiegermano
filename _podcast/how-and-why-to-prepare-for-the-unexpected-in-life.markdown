@@ -1,7 +1,6 @@
 ---
 title: How and Why to Prepare for the Unexpected in Life
 date: 2021-09-13 05:00:00 -04:00
-published: false
 lede: In this episode, Maggie is chatting with Robin Young, the President of Northstar
   Financial Planning. They talk about Robin’s work helping women navigate life’s transitions,
   particularly sudden and unexpected life changes like a partner or family member
