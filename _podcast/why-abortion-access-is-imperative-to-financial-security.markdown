@@ -1,7 +1,6 @@
 ---
 title: Why Abortion Access Is Imperative to Financial Security
 date: 2021-09-27 05:00:00 -04:00
-published: false
 lede: In this episode, Maggie is chatting with Jessica Pinckney, the executive director
   of ACCESS REPRODUCTIVE JUSTICE, a Reproductive Justice organization funding abortion
   and other reproductive healthcare. They talk about the economic impacts of abortion
@@ -11,6 +10,8 @@ lede: In this episode, Maggie is chatting with Jessica Pinckney, the executive d
   rights and those of others.
 image: "/uploads/jessica.jpg"
 episode-number: 90
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/d9574c03-150a-486d-967a-b01f591e5675?dark=false"></iframe>
 podcast:
 - How and Why to Prepare for the Unexpected in Life
 - Why You Might Need A Registered Life Planner
