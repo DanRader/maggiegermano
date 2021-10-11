@@ -1,7 +1,6 @@
 ---
 title: How to Use Discretionary Funds to Reach Your Goals
 date: 2021-10-11 05:00:00 -04:00
-published: false
 lede: In this episode, Maggie is chatting with Daniela Corrente, the co-founder and
   CEO of Reel, a Save-to-Buy platform that is debunking the myth that debt is the
   only way to achieve our goals. They talk about mindful spending and how creating
