@@ -1,7 +1,6 @@
 ---
 title: Navigating Student Loans Post Pandemic
 date: 2021-11-15 05:00:00 -05:00
-published: false
 lede: This week, Maggie is chatting with Anna Helhoski, a student loan expert at NerdWallet.
   In this episode, they talk about how student loans impact women and what steps you
   can take to protect yourself as federal student loans come out of deferment in 2022.
