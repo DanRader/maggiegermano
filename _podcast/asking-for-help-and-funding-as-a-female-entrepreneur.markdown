@@ -1,7 +1,6 @@
 ---
 title: Asking for Help and Funding as a Female Entrepreneur
 date: 2021-11-29 05:00:00 -05:00
-published: false
 lede: This week, Maggie is chatting with Kelsey Sheehy, a small business expert at
   NerdWallet. In this episode, they talk about the challenges women entrepreneurs
   face when starting a business.
