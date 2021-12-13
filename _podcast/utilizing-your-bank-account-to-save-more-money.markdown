@@ -1,7 +1,6 @@
 ---
 title: Utilizing Your Bank Account to Save More Money
 date: 2021-12-13 05:00:00 -05:00
-published: false
 lede: This week, Maggie is chatting with Chanelle Bessette, a banking specialist at
   NerdWallet. In this episode, they talk about different ways for people to save money,
   the transition to mobile banking and more.
