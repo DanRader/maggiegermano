@@ -5,7 +5,7 @@ lede: 'This week, Maggie chats with Sara Rathner, a credit cards and travel expe
   at NerdWallet. In this episode, they are talking about how to have tough money discussions
   at home, touching on topics like managing spending, gender bias, and discussing
   family finances during a crisis. '
-image: "/uploads/Sara-Rathner-headshot%201.jpeg"
+image: "/uploads/sararathner.jpeg"
 episode-number: 96
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/649a7b9f-5656-474e-84ce-0bcfd776c896?dark=false"></iframe>
