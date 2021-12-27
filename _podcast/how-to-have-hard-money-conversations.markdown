@@ -1,7 +1,6 @@
 ---
 title: How to Have Hard Money Conversations
 date: 2021-12-27 05:00:00 -05:00
-published: false
 lede: 'This week, Maggie chats with Sara Rathner, a credit cards and travel expert
   at NerdWallet. In this episode, they are talking about how to have tough money discussions
   at home, touching on topics like managing spending, gender bias, and discussing
