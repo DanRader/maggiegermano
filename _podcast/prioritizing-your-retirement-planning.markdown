@@ -6,9 +6,30 @@ lede: This week, Maggie is chatting with Tiffany Lam-Balfour, an investing spoke
   at NerdWallet. In this episode, they chat about how women can optimize their investments
   and prepare for retirement.
 image: "/uploads/IMG_8079%20(1).jpg"
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/720d315b-0c27-44c3-a282-b0828ab361fe?dark=false"></iframe>
+podcast:
+- How to Have Hard Money Conversations
+- Utilizing Your Bank Account to Save More Money
 ---
 
-x
+**Related Links:**
+
+* **[Nerdwallet](https://www.nerdwallet.com/)**
+
+* **[Follow Tiffany on Nerdwallet](https://www.nerdwallet.com/blog/author/tlambalfour/)**
+
+* Follow Tiffany on **[Twitter](https://twitter.com/TiffLamBalfour)**
+
+--
+
+Tiffany Lam-Balfour is an investing writer and spokesperson at NerdWallet. Previously, she was a senior financial advisor and sales manager at Merrill Lynch and spent nearly a decade in investment banking and investment management prior to that. Her work has been featured in MSN, MarketWatch, Entrepreneur, Nasdaq and Yahoo Finance. She's appeared on Fox Los Angeles and NBC Richmond and been quoted by USA Today, NPR and Forbes. Tiffany earned a finance and management degree from The Wharton School of the University of Pennsylvania.
+
+--
+
+To learn more about Maggie and her coaching and speaking services, visit **[www.maggiegermano.com](https://www.maggiegermano.com/)**.
+
+The theme music is called Escaping Light by **[Aaron Sprinkle](http://aaronsprinklemusic.com/)**. The podcast artwork design is by Maggie’s dear husband, **[Dan Rader](https://danrdesign.com/)**.
 
 ---
 
