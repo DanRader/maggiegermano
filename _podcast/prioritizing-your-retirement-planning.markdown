@@ -1,7 +1,6 @@
 ---
 title: Prioritizing Your Retirement Planning
 date: 2022-01-10 05:00:00 -05:00
-published: false
 lede: This week, Maggie is chatting with Tiffany Lam-Balfour, an investing spokesperson
   at NerdWallet. In this episode, they chat about how women can optimize their investments
   and prepare for retirement.
