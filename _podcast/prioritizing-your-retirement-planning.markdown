@@ -4,7 +4,7 @@ date: 2022-01-10 05:00:00 -05:00
 lede: This week, Maggie is chatting with Tiffany Lam-Balfour, an investing spokesperson
   at NerdWallet. In this episode, they chat about how women can optimize their investments
   and prepare for retirement.
-image: "/uploads/IMG_8079%20(1).jpg"
+image: "/uploads/tiff.jpg"
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/720d315b-0c27-44c3-a282-b0828ab361fe?dark=false"></iframe>
 podcast:
