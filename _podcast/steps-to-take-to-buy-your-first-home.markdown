@@ -1,11 +1,16 @@
 ---
 title: Steps to Take to Buy Your First Home
 date: 2022-01-24 05:00:00 -05:00
-published: false
 lede: This week, Maggie is chatting with Elizabeth Renter, a Data Analyst at NerdWallet.
   In this episode, they talk about the steps you can take to buy your own home, and
   why this goal might be a little harder right now.
 image: "/uploads/Photo%20on%206-30-21%20at%202.08%20PM.JPG"
+episode-number: 98
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/7cce650f-254e-4503-a8f0-5af5f63f8907?dark=false"></iframe>
+podcast:
+- Prioritizing Your Retirement Planning
+- How to Have Hard Money Conversations
 ---
 
 **Related Links:**
