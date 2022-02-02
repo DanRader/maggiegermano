@@ -15,7 +15,33 @@ podcast:
 - Prioritizing Your Retirement Planning
 ---
 
-xx
+**Related Links:**
+
+* [The Fiscal Femme](https://thefiscalfemme.com/)
+
+* [Financial Adulting](https://www.financialadultingbook.com/) - pre-order for special goodies!
+
+* [Follow The Fiscal Femme on Instagram](https://www.instagram.com/thefiscalfemme/)
+
+* [Follow The Fiscal Femme on Twitter](https://twitter.com/TheFiscalFemme)
+
+* [Wallet Activism by Tanja Hester](https://tanjahester.com/wallet-activism/)
+
+* [Bravely Go](https://bravelygo.co/)
+
+--
+
+Ashley Feinstein Gerstley is the author of Financial Adulting, a guide that breaks down everything you need to be a financially confident and conscious adult. She is also a money coach, author of The 30-Day Money Cleanse, and the Founder of the Fiscal Femme, a money platform on a mission to end inequality through financial well-being.
+
+As a trusted money expert, she has been quoted in or appeared on The TODAY Show, The Financial Times, CNBC, Forbes, NBC, Glamour and The New York Times.
+
+Ashley has worked in the financial services industry for over fifteen years: first as an investment banker, then in corporate finance, and most recently running The Fiscal Femme. She graduated with a bachelor's in finance from the Wharton School at the University of Pennsylvania.
+
+--
+
+To learn more about Maggie and her coaching and speaking services, visit **[www.maggiegermano.com](https://www.maggiegermano.com/)**.
+
+The theme music is called Escaping Light by **[Aaron Sprinkle](http://aaronsprinklemusic.com/)**. The podcast artwork design is by Maggie’s dear husband, **[Dan Rader](https://danrdesign.com/)**.
 
 ---
 
