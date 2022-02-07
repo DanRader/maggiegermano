@@ -1,7 +1,6 @@
 ---
 title: How To Vote With Your Dollar
 date: 2022-02-07 05:00:00 -05:00
-published: false
 lede: This week, Maggie is chatting with Ashley Feinstein Gerstley, money coach and
   author of Financial Adulting. In this episode, they are talking about what you can
   do to be a consumer activist. If you want to learn how to vote with your dollar,
