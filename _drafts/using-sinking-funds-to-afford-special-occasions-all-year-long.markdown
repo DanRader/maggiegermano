@@ -36,3 +36,5 @@ It’s much easier to save for specific goals if you earmark a savings account j
 I know so many people whose love language is gift-giving. I also know that a lot of those same people often feel guilty for spending money on gifts, even though it brings them joy. There’s no shame in spending money on things that make you happy or make others happy. The key is to build those things into your budget so that you don’t risk blowing your finances or going into debt. If you set up a sinking fund for gift-giving (and any other important goals), you are allowing yourself to spend without stress or guilt.
 
 You don’t have to be wealthy to comfortably celebrate the people and holidays that you love. But it does take some planning and forward thinking. Using sinking funds throughout the year can get you there. Now go on and celebrate your loved ones without guilt!
+
+*This piece was originally published on my **[ForbesWomen column](https://www.forbes.com/sites/maggiegermano/2021/06/23/using-sinking-funds-to-afford-special-occasions-all-year-long/?sh=63370da36cb1)**.*
