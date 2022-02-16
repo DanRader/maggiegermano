@@ -5,7 +5,7 @@ published: false
 lede: This week, Maggie is chatting with Pam Krueger, the founder and CEO of Wealthramp.
   In this episode, they talk about the steps you should take and the financial mistakes
   to avoid, while you’re going through a divorce.
-image: "/uploads/Pam%20Krueger%20-%20Headshot%202020-e6800d.jpg"
+image: "/uploads/Pam%20Krueger%20headshot.jpg"
 episode-number: 100
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/e179f6eb-f3fc-4369-ae2a-3ef7d8036e08?dark=false"></iframe>
