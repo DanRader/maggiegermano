@@ -29,7 +29,7 @@ podcast:
 
 * Connect with Pam on [LinkedIn](https://www.linkedin.com/in/pamkrueger/)
 
---
+-- 
 
 Pam Krueger is a recognized investor advocate and award-winning personal finance journalist and author. She is the founder and CEO of Wealthramp, an advisor matching platform that connects consumers with rigorously vetted and qualified fee-only financial advisors. It is the only service that gives people full control over when and how they talk to their referred advisors.
 
