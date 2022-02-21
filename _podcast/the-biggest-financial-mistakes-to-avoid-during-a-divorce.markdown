@@ -1,7 +1,6 @@
 ---
 title: The Biggest Financial Mistakes to Avoid During a Divorce
 date: 2022-02-21 05:00:00 -05:00
-published: false
 lede: This week, Maggie is chatting with Pam Krueger, the founder and CEO of Wealthramp.
   In this episode, they talk about the steps you should take and the financial mistakes
   to avoid, while you’re going through a divorce.
