@@ -5,6 +5,7 @@ published: false
 lede: This week, Maggie is chatting with Erika Seth Davies, the CEO of Rhia Ventures.
   In this episode, they talk about what corporations can do to support abortion access
   and other reproductive health issues.
+image: "/uploads/erika.png"
 episode-number: 101
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/ac530729-7316-4657-b62d-7d1b864cf460?dark=false"></iframe>
