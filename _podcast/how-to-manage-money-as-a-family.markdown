@@ -19,7 +19,7 @@ If you are partnered, married, if you have kids or think you'll have kids someda
 
 **Resources:**
 
-* Buy the **[In Case of Emergency Binder](https://transactions.sendowl.com/stores/10098/128668)**
+* Buy the **[In Case of Emergency Binder](https://emergency-binders.myshopify.com?sca_ref=1553124.5b39a5LXjm)**
 
 * Get a will for free: **[https://tomorrow.me](https://tomorrow.me/)**
 
