@@ -2,7 +2,6 @@
 title: Three Steps to Pay Yourself More, Save for Taxes, and Create More Money in
   the Bank
 date: 2022-03-21 05:00:00 -04:00
-published: false
 lede: This week, Maggie is chatting with Connie Vanderzanden. In this episode, they
   are talking about how entrepreneurs can pay themselves more, save for taxes, and
   put more money in the bank.
