@@ -11,8 +11,6 @@ content-bullets-text: |-
 
   * Overspending
 
-  * Underearning
-
   * Sticking to a budget
 
   * Building up your savings
