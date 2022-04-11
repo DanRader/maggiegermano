@@ -1,7 +1,6 @@
 ---
 title: How to Change Your Money Story for the Better
 date: 2022-04-11 05:00:00 -04:00
-published: false
 lede: This week, Maggie chatting with Leah Neaderthal, a sales coach for women who
   run B2B consulting and coaching businesses. In this episode, they talk about the
   money story that finally allowed Leah to comfortably navigate conversations about
