@@ -58,35 +58,29 @@ coaching-3:
   p3-text: As you pay down debt and reach other goals, you'll become more confident
     in your ability to make financial decisions.
 option-1-text: |-
-  ### **Financial Coaching Deep Dive**
+  ### **Financial Coaching Intensive**
 
   Perfect for someone who wants to get pointed in the right direction or who is looking for answers to specific questions.
 
-  * Money landscape analysis to identify your starting point
+  * One two-hour Zoom audio session to identify the current shifts and changes you can make in your finances to feel more confident and capable of reaching your goals
 
-  * **One** 90-minute Zoom session
+  * A personalized budget spreadsheet so that you can get your financial lay of the land
 
-  * Personalized recap and action guide after the session to provide a clear way forward
+  * A post-session recap outlining your next steps (so you know exactly what to do after our session)
+
+  * Customized resources such as books, podcast episodes, and articles (to help you reach your financial goals)
 
   * Two weeks of unlimited email support following the session
 
-  **Investment:** $500
-option-2-text: |-
-  ### **Financial Coaching Partnership**
-
-  Perfect for someone looking to make real, long-lasting, positive changes to their current financial situation.
-
-  * Money landscape analysis to identify your starting point
-
-  * **Two** 50-minute Zoom sessions per month for **four** months
-
-  * Personalized recap and action guide after each session to provide a clear way forward
-
-  * **Unlimited** email support so that you're never alone
-
-  **Investment:** $2,600 ($650 per month)
+  **Investment:** $750
+option-2-text: "### **Accountability Partnership**\n\nDon't think one intensive session
+  will be enough to keep you on track? Once you've completed the intensive, sign on
+  for an ongoing partnership so that we can discuss your current struggles, explore
+  opportunities, and check in on your financial goals. \n\n* **One** 30-minute Zoom
+  check-In per month for **three** months\n\n* **Unlimited** email support so that
+  you're never alone\n\n**Investment:** $975 ($325 per month)"
 is-deepDiverHold: false
-is-coachingHold: true
+is-coachingHold: false
 layout: coaching
 ---
 
