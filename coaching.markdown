@@ -62,7 +62,7 @@ option-1-text: |-
 
   Perfect for someone who wants to get pointed in the right direction or who is looking for answers to specific questions.
 
-  * One two-hour Zoom audio session to identify the current shifts and changes you can make in your finances to feel more confident and capable of reaching your goals
+  * **One** two-hour Zoom audio session to identify the current shifts and changes you can make in your finances to feel more confident and capable of reaching your goals
 
   * A personalized budget spreadsheet so that you can get your financial lay of the land
 
@@ -70,7 +70,7 @@ option-1-text: |-
 
   * Customized resources such as books, podcast episodes, and articles (to help you reach your financial goals)
 
-  * Two weeks of unlimited email support following the session
+  * **Two weeks** of unlimited email support following the session
 
   **Investment:** $750
 option-2-text: "### **Accountability Partnership**\n\nDon't think one intensive session
