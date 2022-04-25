@@ -19,7 +19,7 @@ podcast:
 * **[MetLife's MetLife Employee Benefit Trends study](https://www.metlife.com/employee-benefit-trends/)**
 
 * **[MetLife](https://www.metlife.com/)**
-
+ 
 --
 
 Roberta Rafaloff is vice president, Institutional Income Annuities for MetLife. Institutional Income Annuities (IIA) enables defined contribution plan sponsors to provide guaranteed retirement income to their plan participants to help them achieve successful retirement outcomes. The business also offers specialty annuity products including charitable gift annuity reinsurance and lottery annuities. The division is part of Retirement & Income Solutions, the company’s institutional retirement business, which historically has been responsible for over 20 percent of MetLife’s operating earnings.
