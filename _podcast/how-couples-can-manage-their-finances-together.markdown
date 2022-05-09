@@ -5,7 +5,7 @@ lede: This week, Maggie is chatting with Katherine Salisbury, co-founder and co-
   of Qapital. In this episode, they talk about how couples can manage their finances
   together. If you and your partner are struggling to manage your money together,
   this episode is for you.
-image: "/uploads/katherine%20salisbury.jpeg"
+image: "/uploads/katherine%20salisbury-610813.jpeg"
 episode-number: 105
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/dc288f7a-ba8d-458e-8c0e-0e9df66b1910?dark=false"></iframe>
