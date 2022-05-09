@@ -1,7 +1,6 @@
 ---
 title: How Couples Can Manage Their Finances Together
 date: 2022-05-09 05:00:00 -04:00
-published: false
 lede: This week, Maggie is chatting with Katherine Salisbury, co-founder and co-CEO
   of Qapital. In this episode, they talk about how couples can manage their finances
   together. If you and your partner are struggling to manage your money together,
