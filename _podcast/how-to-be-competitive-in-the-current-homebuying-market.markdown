@@ -6,6 +6,7 @@ lede: 'This week, Maggie is chatting with Daryl Fairweather, the chief economist
   Redfin. In this episode, they are talking about the current competitive housing
   market, how to navigate bidding wars, and more. If you’re planning on buying a home
   someday, this episode is for you. '
+image: "/uploads/darylfairweather.jpg"
 episode-number: 107
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/b8294927-0066-450f-84e3-b13333ca5ab8?dark=false"></iframe>
