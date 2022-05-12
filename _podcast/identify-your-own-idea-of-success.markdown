@@ -7,7 +7,13 @@ lede: This week, Maggie is chatting with Bessi Graham, award-winning entrepreneu
   and co-founder of Benefit Capital. In this episode, they are talking about how to
   avoid living someone else's idea of success. If you struggle with comparing yourself
   to others and want to identify your own sense of success, this episode is for you.
+image: "/uploads/Bessi%20Graham%20Profile.png"
 episode-number: 108
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/47d2e036-d512-4841-a1d0-90f126c26d33?dark=false"></iframe>
+podcast:
+- How To Be Competitive In The Current Homebuying Market
+- How To Build And Improve Your Credit With Limited Credit History
 ---
 
 **Related Links:**
