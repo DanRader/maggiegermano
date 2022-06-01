@@ -7,6 +7,8 @@ lede: This week, Maggie is chatting with Lily Liu, CEO of Piñata, the largest r
   to negotiate rent with your landlord, how to use rent payments to build up your
   credit score, and more.
 image: "/uploads/Lily%20Liu%20CEO.jpg"
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/26291ac7-c76a-41e1-910a-6021b330a369?dark=false"></iframe>
 podcast:
 - Steps You Can Take To Lower Your Tax Burden Every Year
 - How You Can Identify Your Own Idea Of Success And Avoid Comparing Yourself To Others
@@ -29,3 +31,9 @@ Lily Liu's career started out by straddling the lines of technology and governme
 To learn more about Maggie and her coaching and speaking services, visit **[www.maggiegermano.com](https://www.maggiegermano.com/)**.
 
 The theme music is called Escaping Light by **[Aaron Sprinkle](http://aaronsprinklemusic.com/)**. The podcast artwork design is by Maggie’s dear husband, **[Dan Rader](https://danrdesign.com/)**.
+
+---
+
+### TRANSCRIPTION
+
+x
