@@ -7,6 +7,8 @@ lede: This week, Maggie is chatting with Lily Liu, CEO of Piñata, the largest r
   to negotiate rent with your landlord, how to use rent payments to build up your
   credit score, and more.
 image: "/uploads/Lily%20Liu%20CEO.jpg"
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/26291ac7-c76a-41e1-910a-6021b330a369?dark=false"></iframe>
 podcast:
 - Steps You Can Take To Lower Your Tax Burden Every Year
 - How You Can Identify Your Own Idea Of Success And Avoid Comparing Yourself To Others
