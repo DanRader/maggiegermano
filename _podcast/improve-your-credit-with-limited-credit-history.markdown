@@ -6,6 +6,8 @@ lede: This week, Maggie is chatting with Snigdha Kumar, Head of Product Operatio
   history and get started on the path to financial wellness.
 image: "/uploads/MicrosoftTeams-image.png"
 episode-number: 106
+embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
+  src="https://player.simplecast.com/ddaedaac-1b9d-4175-8629-8cab0f424572?dark=false"></iframe>
 podcast:
 - How Couples Can Manage Their Finances Together
 - Why Millennials Need To Be More Intentional With Retirement Planning
