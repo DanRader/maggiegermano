@@ -1,7 +1,6 @@
 ---
 title: How To Be Competitive In The Current Homebuying Market
 date: 2022-06-06 05:00:00 -04:00
-published: false
 lede: 'This week, Maggie is chatting with Daryl Fairweather, the chief economist of
   Redfin. In this episode, they are talking about the current competitive housing
   market, how to navigate bidding wars, and more. If you’re planning on buying a home
