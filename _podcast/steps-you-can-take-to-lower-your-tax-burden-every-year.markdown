@@ -5,6 +5,7 @@ published: false
 lede: This week, Maggie is chatting with Tammy Trenta, the founder and CEO of Family
   Financial. In this episode, they are talking about lowering your tax burden. If
   you worry about overpaying your taxes, this episode is for you.
+image: "/uploads/tammy-author-profile.jpg"
 embed-code: <iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless
   src="https://player.simplecast.com/8f368567-6f9e-4588-ac9d-733920504844?dark=false"></iframe>
 podcast:
