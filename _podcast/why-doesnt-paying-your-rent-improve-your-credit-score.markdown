@@ -1,7 +1,6 @@
 ---
 title: Why Doesn’t Paying Your Rent Improve Your Credit Score?
 date: 2022-07-18 05:00:00 -04:00
-published: false
 lede: This week, Maggie is chatting with Lily Liu, CEO of Piñata, the largest rental
   reward and credit building program for renters. In this episode, we talk about how
   to negotiate rent with your landlord, how to use rent payments to build up your
