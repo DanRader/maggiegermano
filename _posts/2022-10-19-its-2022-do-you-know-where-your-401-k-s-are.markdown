@@ -18,7 +18,7 @@ These accounts are employer-sponsored, which means they’re provided by and lin
 
 But, why should you care?
 
-# **That’s Your Money**
+# That’s Your Money
 
 Despite what you might believe, any money that you put into a 401(k) is actually your money, even if you leave that employer eventually. One caveat is that any match amount that didn’t fully vest while you still worked there will be taken back by the employer. But any match amount that vested is yours, along with the money you put in yourself.
 
@@ -26,21 +26,21 @@ This money is crucial for your ability to retire and support yourself when you�
 
 **Note:** This is a good time to find out what the vesting period is at your current employer. That way, you can time your exit in a way that allows you to take that full 401(k) match with you if and when you leave.
 
-# **You’re Paying 401(k) Fees**
+# You’re Paying 401(k) Fees
 
 Investors might not realize it, but 401(k) accounts provided by employers typically incur ongoing fees. Two-thirds of Americans don’t know what they’re paying in 401(k) fees. In fact, according to [Capitalize’s](https://app.hicapitalize.com/p/maggiegermano) white paper, nearly half of Americans estimate they’re paying less than .5% of total assets in 401(k) fees and costs — but only 10% of all plans charge less than .4%. Of course, all investment accounts come with fees, but when you’re not in control of your old 401(k), you could be vastly overpaying. According to Capitalize, you can retire up to 4 years earlier just by reducing your 401(k) fees. That could be huge for some people.
 
-# **You Lose Out In Retirement**
+# You Lose Out In Retirement
 
 According to Capitalize’s white paper, leaving behind a forgotten 401(k) account has the potential to cost an individual almost $700,000 in foregone retirement savings over a lifetime. This is due to the risk of a forgotten 401(k) being in a higher-fee plan and poorly allocated investments. $700,000 is more than some people could ever dream of having saved for retirement. It’s certainly an amount that would make or break someone’s ability to retire at all.
 
 *So, what should you do?*
 
-# **Don’t Panic**
+# Don’t Panic
 
 You’re obviously not alone, since possibly tens of millions of Americans are in the same situation as you. And all is not lost. There are still steps you can take to make this right. Take a moment to calm yourself down and stop beating yourself up. Panicking and punishing yourself won’t change anything or fix anything. But taking action will.
 
-# **Find Your Old 401(k)s**
+# Find Your Old 401(k)s
 
 First things first: find your old 401(k) accounts.
 
@@ -48,7 +48,7 @@ If you remember which brokerages your old 401(k)s were held in, log back into th
 
 If you’re not comfortable or unable to reach out to your old employer, [Capitalize](https://app.hicapitalize.com/p/maggiegermano) can help! Their platform allows you to search for your former employer’s name to find out which investment company they used for 401(k)s. From there, you can start the process of rolling over your 401(k) into a new or existing IRA.
 
-# **Take Steps To Consolidate Your Retirement Money**
+# Take Steps To Consolidate Your Retirement Money
 
 Once you’ve located your old 401(k), the work isn’t over! The most important part is rolling it over into an account that you have access to and control over. That way, you can choose a fund that has low fees and good returns. Plus, you’ll be able to resume contributing to that money.
 
@@ -64,7 +64,7 @@ This is another step that [Capitalize](https://app.hicapitalize.com/p/maggiegerm
 
 And yes, you must roll this money into a [traditional IRA](https://www.nerdwallet.com/article/investing/ira/what-is-a-traditional-ira), and not a [Roth IRA](https://www.nerdwallet.com/article/investing/what-is-a-roth-ira), due to their different tax structures. A 401(k) and traditional IRA have the same tax advantages. If you were to roll 401(k) money into a Roth IRA, you would have to pay taxes on that money as if it were income.
 
-# **Continue Saving For Retirement**
+# Continue Saving For Retirement
 
 If your current employer offers a retirement plan, make sure that you’re taking advantage of it, especially if they offer a match. You should be contributing at least up to the match amount, and more than that, if you can afford it. The maximum you can contribute to a 401(k) each year is $20,500, as of 2022, but it’s always subject to increase. Of course, many people can’t afford to max out their 401(k), but do what you can manage. Your future self will thank you.
 
